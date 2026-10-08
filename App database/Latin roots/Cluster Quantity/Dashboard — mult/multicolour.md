@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multicolour
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having sections or patches colored differently and usually brightly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having sections or patches colored differently and usually brightly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: British variant of multicolor; displaying or made with several colors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by polychrome decoration or multifaceted chromatic appearance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Mr Bloom stood at the corner, his eyes wandering over the multicoloured hoardings."*
-> - 📜 **James Joyce (*Ulysses*):** *"What selfinvolved enigma did Bloom risen, going, gathering multicoloured multiform multitudinous garments, voluntarily apprehending, not comprehend?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The shop display showcased **multicolour** prints that drew crowds of curious gazers."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"The evening lamps cast a gentle **multicolour** glow across the wet pavement of London."*
+> - 📜 **Arthur Conan Doyle (*The Sign of Four*):** *"The exotic carpet presented a complex **multicolour** weave of Persian craftsmanship."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magnesium
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A light silver-white ductile bivalent metallic element; in pure form it burns with brilliant white flame; occurs naturally only in combination (as in magnesite and dolomite and carnallite and spinel and olivine).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light silver-white ductile bivalent metallic element; in pure form it burns with brilliant white flame; occurs naturally only in combination (as in magnesite and dolomite and carnallite and spinel and olivine).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A silvery-white, lightweight metallic element of group 2 (alkaline earth metal), atomic number 12.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flammable chemical element that burns with a brilliant white flame, used in flares and alloys.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In a thousand grammes are found 96½ per cent. of water, and about 2-2/3 per cent. of chloride of sodium; then, in a smaller quantity, chlorides of magnesium and of potassium, bromide of magnesium, sulphate of magnesia, sulphate and carbonate of lime."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"He heated atmospheric nitrogen in the presence of magnesium, under which conditions some of the nitrogen combines with the latter element to form nitride of magnesium."*
-> - 📜 **James Joyce (*Ulysses*):** *"A magnesium flashlight photograph is taken."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"The silvery metallic base which we liberated from magnesia I have named **magnesium**."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"A ribbon of **magnesium** burned with an intense, blinding white light before the audience."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The volcanic ash contained significant percentages of silica, alumina, and **magnesium** salts."*

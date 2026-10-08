@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multistage
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring in more than one stage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring in more than one stage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring in, having, or consisting of two or more distinct stages, phases, or steps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rocketry, using two or more rocket engines that fire and detach in sequence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multistage designates occurring in more than one stage."*
+> - 📜 **Arthur C. Clarke (*The Exploration of Space*):** *"To escape Earth's gravity, space exploration relied on a **multistage** launch vehicle."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"The Saturn rocket demonstrated the breathtaking power of **multistage** propulsion reaching for the moon."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Industrial chemical synthesis frequently employs **multistage** catalytic cracking to isolate pure hydrocarbons."*

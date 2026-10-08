@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multitudinous
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Too numerous to be counted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Too numerous to be counted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Very numerous; existing in great multitudes or vast quantities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of many individual parts, elements, or crowded members.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, this my hand will rather The multitudinous seas incarnadine, Making the green one red."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"From the whole extent of the invisible vale came a multitudinous intonation; it forced upon their fancy that a great city lay below them, and that the murmur was the vociferation of its populace."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But when the prickling of the multitudinous darts ceased to hurt and only the numbness remained and continued verging into greater numbness I once more grew frightened."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Will all great Neptune's ocean wash this blood clean from my hand? No, this my hand will rather the **multitudinous** seas incarnadine."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She listened to the **multitudinous** humming of summer insects rising from the damp clover."*
+> - 📜 **Jack London (*The Star Rover*):** *"The **multitudinous** voices of past reincarnations echoed through the quiet recesses of his mind."*

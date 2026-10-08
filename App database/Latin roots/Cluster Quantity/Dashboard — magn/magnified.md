@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magnified
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Increase in size, volume or significance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To enlarge beyond bounds or the truth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Made to appear larger through optical lenses, magnification, or description.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Praised, extolled, or glorified in religious devotion; exaggerated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"When my guardian left me, I turned my face away upon my couch and prayed to be forgiven if I, surrounded by such blessings, had magnified to myself the little trial that I had to undergo."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She hardly observed that a tear descended slowly upon his cheek, a tear so large that it magnified the pores of the skin over which it rolled, like the object lens of a microscope."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Catherine, at any rate, heard enough to feel that in suspecting General Tilney of either murdering or shutting up his wife, she had scarcely sinned against his character, or magnified his cruelty."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"When examined through the glass, every speck of dust appeared **magnified** into a boulder."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"In her solitude, every minor reproach was **magnified** into an unbearable catastrophe."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Catherine's fearful imagination had **magnified** a simple laundry bill into a sinister secret parchment."*

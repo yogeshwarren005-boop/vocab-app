@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magnetically
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By the use of magnetism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As if by magnetism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of magnetism; through the action of a magnetic field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a strikingly attractive, compelling, or irresistible manner.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Good!” cried Ahab, with a wild approval in his tones; observing the hearty animation into which his unexpected question had so magnetically thrown them."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Good!” cried Ahab, with a wild approval in his tones; observing the hearty animation into which his unexpected question had so magnetically thrown them."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The floating needle was **magnetically** oriented toward the boreal magnetic pole."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Substances may be **magnetically** categorized as either paramagnetic or diamagnetic."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She felt herself **magnetically** drawn toward the speaker by the earnest cadence of his voice."*

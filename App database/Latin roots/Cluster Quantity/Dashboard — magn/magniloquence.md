@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magniloquence
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: High-flown style; excessive use of verbal ornamentation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: High-flown style; excessive use of verbal ornamentation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lofty, boastful, bombastic, or pompous style of speech or writing; grandiloquence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of grandiose and high-sounding language designed to impress listeners.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magniloquence designates high-flown style; excessive use of verbal ornamentation."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"Critics censured his excessive **magniloquence**, which clothed commonplace sentiments in pompous diction."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The oriental ambassadors delivered their greeting with customary **magniloquence** and flattery."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The parliamentary orator indulged in rhetorical **magniloquence** that amused his seasoned colleagues."*

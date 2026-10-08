@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multiple
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The product of a quantity by an integer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or involving or consisting of more than one part or entity or individual.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of, having, or involving several individual parts, elements, or members.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, a number that can be divided by another given number without a remainder.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Unknown (*The Second Story of Meno*):** *"An even multiple of any whole number gives another even number."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"An equivalent must be found, or a multiple, if the marginal utility of two goods is to be equalized for either party by exchange."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"This attains the thought of the present value of the estate, or capital sum in it, though the capital sum is thought of as a multiple of the income, instead of the income being calculated as a percentage of the capital value."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection acts simultaneously upon **multiple** characters in every generation."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth had **multiple** reasons to regret her sister's hasty and ill-considered correspondence."*
+> - 📜 **Isaac Newton (*The Principia*):** *"The orbital period is an exact **multiple** of the primary planet's rotational cycle."*

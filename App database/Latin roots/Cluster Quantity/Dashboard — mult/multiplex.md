@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multiplex
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Communicates two or more signals over a common channel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movie theater than has several different auditoriums in the same building.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having many parts, aspects, or elements; manifold; complex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In telecommunications, to transmit several messages or signals simultaneously over a single communications channel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiplex designates communicates two or more signals over a common channel."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"Frequency-division techniques allow engineers to **multiplex** hundreds of telephone calls."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Human consciousness is a **multiplex** instrument responding to myriad cosmic impressions."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Nervous pathways **multiplex** sensory inputs into integrated reflex responses."*

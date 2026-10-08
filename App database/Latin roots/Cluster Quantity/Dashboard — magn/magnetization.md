@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magnetization
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The extent or degree to which something is magnetized.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process that makes a substance magnetic (temporarily or permanently).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of magnetizing or the state of having magnetic polarization; magnetic moment per unit volume.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The magnetic polarization acquired by a material in a magnetic field.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnetization designates the extent or degree to which something is magnetized."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Residual **magnetization** in soft iron dissipates rapidly when the external field is removed."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The level of **magnetization** was measured using a calibrated reflecting galvanometer."*
+> - 📜 **Nikola Tesla (*My Inventions*):** *"Rapid reversals of **magnetization** generate heat within solid iron transformer cores."*

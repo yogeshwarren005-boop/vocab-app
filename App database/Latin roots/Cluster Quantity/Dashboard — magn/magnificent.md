@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magnificent
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by grandeur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by grandeur.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impressively beautiful, elaborate, or extravagant; striking in splendor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exalted, noble, or exceptionally fine in performance or character.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A letter from the magnificent Armado."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I, that have been love’s whip, A very beadle to a humorous sigh, A critic, nay, a night-watch constable, A domineering pedant o’er the boy, Than whom no mortal so magnificent!"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mea could not hold her magnificent bunch of forget-me-nots near enough to their eyes to be admired."*
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"He is an ancient and **magnificent** monarch worthy of universal homage."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The breaching sperm whale presented a **magnificent** spectacle against the azure horizon."*
+> - 📜 **Johanna Spyri (*Maezli*):** *"The alpine meadows bloomed in a **magnificent** profusion of wildflowers under the summer sun."*

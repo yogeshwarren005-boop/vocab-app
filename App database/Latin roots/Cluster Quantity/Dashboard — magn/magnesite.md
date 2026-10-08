@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magnesite
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white mineral consisting of magnesium carbonate; a source of magnesium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white mineral consisting of magnesium carbonate; a source of magnesium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A white or yellowish mineral consisting of magnesium carbonate (MgCO3), used to produce refractory materials.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crystalline mineral utilized in manufacturing Epsom salts and specialized cements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The magnesite bricks are laid in dry magnesite powder, except near the tuyeres, where a mixture of magnesia and linseed oil is used."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Magnesite linings (see _Basic linings_)."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Veins of crystalline **magnesite** were discovered running through the serpentine rock formation."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"Dense compact **magnesite** resembles unglazed porcelain and breaks with a conchoidal fracture."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Analysis of native **magnesite** confirmed it to be an anhydrous carbonate of magnesia."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magnitude
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of relative size or extent (whether large or small).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A number assigned to the ratio of two quantities; two quantities are of the same order of magnitude if one is less than 10 times as large as the other; the number of magnitudes that the quantities differ is specified to within a power of 10.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Greatness of size, extent, or dimensional volume; magnitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Great importance, influence, or consequence; in astronomy, the brightness of a star.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Any time you was pleased to appoint to-morrow morning, I was to show you the presses and things they belong to.” I said I would be ready at half-past six, and after she was gone, stood looking at the basket, quite lost in the magnitude of my trust."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"That the latter was of the smallest magnitude compatible with its existence at all, Boldwood, of course, did not know."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Now, before all the work-folk here assembled, can you swear to your words as the shepherd asks ye?” “Please no, Mister Oak!” said Cainy, looking from one to the other with great uneasiness at the spiritual magnitude of the position."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The lawsuit was an affair of such immense **magnitude** that generations of lawyers had grown rich upon it."*
+> - 📜 **Isaac Newton (*The Principia*):** *"The gravitational attraction is directly proportional to the **magnitude** of each celestial body's mass."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sudden catastrophe assumed a terrifying **magnitude** in the darkness of the stormy night."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # armagnac
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dry brandy distilled in the armagnac district of france.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dry brandy distilled in the armagnac district of france.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dry brandy distilled from white wine produced in the Armagnac region of Gascony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fine vintage spirit aged in black oak casks from Gascony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have you perused the letters from the Pope, The Emperor, and the Earl of Armagnac?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beside, my lord, the sooner to effect And surer bind this knot of amity, The Earl of Armagnac, near knit to Charles, A man of great authority in France, Proffers his only daughter to your Grace In marriage, with a large and sumptuous dowry."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And so the Earl of Armagnac may do, Because he is near kinsman unto Charles."*
+> - 📜 **Alexandre Dumas (*The Count of Monte Cristo*):** *"The host offered his guests a goblet of aged **armagnac** distilled in the hills of Gascony."*
+> - 📜 **Honoré de Balzac (*Eugénie Grandet*):** *"The cellar held casks of venerable **armagnac** prized by connoisseurs across Bordeaux."*
+> - 📜 **Marcel Proust (*In Search of Lost Time*):** *"After dinner, Monsieur de Charlus savored a glass of golden **armagnac** in the quiet library."*

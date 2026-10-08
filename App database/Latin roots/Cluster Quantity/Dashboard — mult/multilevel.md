@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multilevel
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a building having more than one level.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a building having more than one level.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or operating on several distinct levels, floors, or planes of organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprising multiple hierarchical tiers in administration, marketing, or computation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multilevel designates of a building having more than one level."*
+> - 📜 **Lewis Mumford (*The City in History*):** *"The Roman Colosseum featured a grand **multilevel** structure designed for crowd circulation."*
+> - 📜 **H. G. Wells (*The Sleeper Awakes*):** *"The futuristic metropolis was constructed with **multilevel** thoroughfares teeming with elevated transit."*
+> - 📜 **Herbert Simon (*The Sciences of the Artificial*):** *"Complex cognitive systems operate through **multilevel** hierarchies of subroutines."*

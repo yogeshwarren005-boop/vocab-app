@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multiplicand
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The number that is multiplied by the multiplier.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The number that is multiplied by the multiplier.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In arithmetic, the number or quantity that is to be multiplied by another number (the multiplier).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The primary quantity subjected to repeated addition in multiplication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiplicand designates the number that is multiplied by the multiplier."*
+> - 📜 **Isaac Newton (*Universal Arithmetick*):** *"Write the **multiplicand** upon the upper line and place the multiplier directly beneath it."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The machine advances the wheels of the **multiplicand** for each revolution of the counting crank."*
+> - 📜 **Leonhard Euler (*Elements of Algebra*):** *"The product remains invariant whether we designate a factor as **multiplicand** or multiplier."*

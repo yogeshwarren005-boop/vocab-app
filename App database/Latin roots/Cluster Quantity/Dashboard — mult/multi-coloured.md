@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multi-coloured
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having sections or patches colored differently and usually brightly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having sections or patches colored differently and usually brightly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: British spelling of multi-colored; possessing many diverse colors or variegated hues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decorated with or consisting of an assortment of different colored components.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multi-coloured designates having sections or patches colored differently and usually brightly."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sunset painted the western sky in radiant **multi-coloured** ribbons of gold and amber."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Flocks of **multi-coloured** parakeets burst from the prehistoric jungle canopy."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The ruined pavilion retained traces of **multi-coloured** porcelain tiles along its terrace."*

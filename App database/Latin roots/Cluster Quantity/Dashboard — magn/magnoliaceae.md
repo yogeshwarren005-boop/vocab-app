@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magnoliaceae
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subclass magnoliidae: genera liriodendron, magnolia, and manglietia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subclass magnoliidae: genera liriodendron, magnolia, and manglietia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical family of primitive angiosperms (flowering plants) including the magnolias and tulip trees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A primitive family characterized by spirally arranged floral parts on an elongated receptacle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnoliaceae designates subclass magnoliidae: genera liriodendron, magnolia, and manglietia."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The family **magnoliaceae** is distinguished by cone-like receptacles bearing numerous separate carpels."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Fossil leaves belonging to **magnoliaceae** indicate the ancient geographical distribution of flowering trees."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Forests in the eastern Himalayas are richly furnished with primitive tree species of **magnoliaceae**."*

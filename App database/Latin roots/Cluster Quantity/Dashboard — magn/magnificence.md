@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magnificence
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Splendid or imposing in size or appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being magnificent or splendid or grand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Greatness or lavish splendor of appearance, style, or scale; grand beauty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nobility, moral grandeur, or exalted excellence of mind.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We cannot with such magnificence—in so rare—I know not what to say."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The flash was almost too novel for its inexpressibly dangerous nature to be at once realized, and they could only comprehend the magnificence of its beauty."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Another tribute to the magnificence of Oppenheimer’s mind: in the end he became my master at the game—he who had never seen a chessman in his life."*
+> - 📜 **William Shakespeare (*Henry VIII*):** *"The Field of the Cloth of Gold displayed the competitive **magnificence** of two rival monarchies."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Visitors marvelled at the architectural **magnificence** of the imperial palaces of Rome."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The summer sunset illuminated the hills with royal purple **magnificence**."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magniloquently
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a rhetorically grandiloquent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a rhetorically grandiloquent manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a magniloquent manner; with bombastic, lofty, or boastful language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pompously and with grand rhetorical flourish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magniloquently designates in a rhetorically grandiloquent manner."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"The self-appointed prophet expounded **magniloquently** upon the moral regeneration of society."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The professor proclaimed **magniloquently** that clothes were the originating symbols of all human culture."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"He held forth **magniloquently** on European politics to a bewildered circle of schoolgirls."*

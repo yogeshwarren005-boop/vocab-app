@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multicoloured
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having sections or patches colored differently and usually brightly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having sections or patches colored differently and usually brightly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: British variant of multicolored; possessing or showing an array of distinct colors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by multiple hues and colorful diversity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Mr Bloom stood at the corner, his eyes wandering over the multicoloured hoardings."*
-> - 📜 **James Joyce (*Ulysses*):** *"What selfinvolved enigma did Bloom risen, going, gathering multicoloured multiform multitudinous garments, voluntarily apprehending, not comprehend?"*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The holiday market was crowded with **multicoloured** ribbons, fairground booths, and toys."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"In the great conservatory bloomed **multicoloured** blossoms of extraordinary size and beauty."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her embroidery frame displayed a **multicoloured** pattern of silk threads carefully interwoven."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multicellular
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of many cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of many cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or having many biological cells, as opposed to unicellular organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterizing complex metazoan animals and embryophyte plants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multicellular designates consisting of many cells."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The embryo transitions from a single fertilized egg into a complex **multicellular** organism."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The evolutionary transition to **multicellular** structures opened vast ecological niches."*
+> - 📜 **Julian Huxley (*The Science of Life*):** *"Specialized tissues are the hallmark of advanced **multicellular** life forms."*

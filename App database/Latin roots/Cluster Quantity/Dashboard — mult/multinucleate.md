@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multinucleate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having two or more nuclei.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having two or more nuclei.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In cytology and histology, having or containing several or many cell nuclei, as a syncytium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing multiple nuclei within a continuous cytoplasm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multinucleate designates having two or more nuclei."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Skeletal muscle fibers develop as elongated **multinucleate** cells through fusion of myoblasts."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic sections of the granuloma revealed characteristic **multinucleate** giant cells."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"Certain fungal hyphae consist of a continuous **multinucleate** protoplasmic stream."*

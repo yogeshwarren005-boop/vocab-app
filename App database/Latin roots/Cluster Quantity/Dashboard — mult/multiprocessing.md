@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multiprocessing
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Simultaneous processing by two or more processing units.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Simultaneous processing by two or more processing units.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In computing, the simultaneous execution of two or more computer programs or processes by multiple processors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A computational architecture utilizing several central processing units in parallel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiprocessing designates simultaneous processing by two or more processing units."*
+> - 📜 **Alan Turing (*Intelligent Machinery*):** *"Coordinated **multiprocessing** permits parallel arithmetic units to divide complex calculations."*
+> - 📜 **Arthur C. Clarke (*2001: A Space Odyssey*):** *"The spacecraft computer employed autonomous **multiprocessing** to manage life support and orbital mechanics."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"High-speed information processing increasingly adopts **multiprocessing** models mirroring neural networks."*

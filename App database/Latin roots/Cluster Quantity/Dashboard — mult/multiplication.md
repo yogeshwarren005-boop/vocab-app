@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multiplication
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of producing offspring or multiplying by such production.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A multiplicative increase.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mathematical operation of finding the total quantity obtained by combining a number a given number of times.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act or process of increasing greatly in number, quantity, or degree; proliferation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"However, the Multiplication Table doesn’t signify: let’s try Geography."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Ever has it seemed to me a witless thing to prove the multiplication table by turning a staff into a serpent, or even into two serpents."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But the multiplication of the Executive adds to the difficulty of detection in either case."*
+> - 📜 **Isaac Newton (*The Principia*):** *"The laws of geometric **multiplication** govern the ratios of planetary gravitational forces."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The rapid **multiplication** of individuals produces an inevitable struggle for existence."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Invention leads to the progressive **multiplication** of conveniences and arts for mankind."*

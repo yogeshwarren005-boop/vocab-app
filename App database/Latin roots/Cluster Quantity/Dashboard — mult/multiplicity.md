@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multiplicity
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being multiple.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large number.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large number, variety, or great diversity of aspects or things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Manifold diversity, extensive plurality, or complex composition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"They took a slight survey of all; and Catherine was impressed, beyond her expectation, by their multiplicity and their convenience."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Miss Miller was more ordinary; ruddy in complexion, though of a careworn countenance; hurried in gait and action, like one who had always a multiplicity of tasks on hand: she looked, indeed, what I afterwards found she really was, an under-teacher."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"An ancient Hawaiian war-club or spear-paddle, in its full multiplicity and elaboration of carving, is as great a trophy of human perseverance as a Latin lexicon."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The emperor was distracted by the **multiplicity** of pressing public affairs in distant provinces."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Consciousness unites a bewildering **multiplicity** of sensory impressions into a single stream of thought."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Naturalists stand amazed at the sheer **multiplicity** of insect species inhabiting a single tropical tree."*

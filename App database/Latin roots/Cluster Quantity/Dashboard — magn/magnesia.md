@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magnesia
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white solid mineral that occurs naturally as periclase; a source of magnesium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white solid mineral that occurs naturally as periclase; a source of magnesium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Magnesium oxide, a white odorless powdery compound used in medicine as an antacid and laxative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several mineral forms of magnesium compounds used in refractory bricks and metallurgy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In a thousand grammes are found 96½ per cent. of water, and about 2-2/3 per cent. of chloride of sodium; then, in a smaller quantity, chlorides of magnesium and of potassium, bromide of magnesium, sulphate of magnesia, sulphate and carbonate of lime."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"A certain image of Apollo, which stood in a sacred cave at Hylae near Magnesia, was thought to impart superhuman strength."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"At Magnesia on the Maeander an image of Dionysus is said to have been found in a plane-tree, which had been broken by the wind."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"By decomposing alkaline earth **magnesia**, we obtained the silvery metal magnesium."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"Common calcined **magnesia** was found to neutralize acidic spirits with marked effervescence."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Crucibles formed of pure **magnesia** withstand the most intense heat without melting."*

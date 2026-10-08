@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magnetometer
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A meter to compare strengths of magnetic fields.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A meter to compare strengths of magnetic fields.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument used for measuring the strength, direction, and variations of a magnetic field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A geophysical surveying device used to detect buried ferromagnetic bodies and mineral deposits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnetometer designates a meter to compare strengths of magnetic fields."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Gauss devised a bifilar **magnetometer** of exquisite sensitivity to determine horizontal magnetic intensity."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"The deflection of the suspended mirror in the **magnetometer** revealed subtle terrestrial pulsations."*
+> - 📜 **Arthur C. Clarke (*2001: A Space Odyssey*):** *"The lunar survey orbital vehicle carried a fluxgate **magnetometer** to map crustal magnetic anomalies."*

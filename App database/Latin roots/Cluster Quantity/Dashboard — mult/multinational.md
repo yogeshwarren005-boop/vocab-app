@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multinational
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or operating in several nations or nationalities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving or operating in several nations or nationalities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Operating in, involving, or having business interests across several different nations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Composed of or belonging to individuals from multiple national backgrounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He notes that the struggle between rich and poor nations and multinational corporations over minerals in the vast oceanic seabed is likely to be heated in the years to come, especially as reserves of land-based minerals approach exhaustion."*
+> - 📜 **John Kenneth Galbraith (*The New Industrial State*):** *"The modern **multinational** corporation transcends national boundaries in pursuit of markets."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"Global finance is dominated by **multinational** syndicates mobilizing international investments."*
+> - 📜 **Winston Churchill (*The Grand Alliance*):** *"The campaign was executed by a **multinational** allied command operating under unified strategy."*

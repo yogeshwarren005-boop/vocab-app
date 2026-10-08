@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multiphase
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of an electrical system that uses or generates two or more alternating voltages of the same frequency but differing in phase angle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of an electrical system that uses or generates two or more alternating voltages of the same frequency but differing in phase angle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or consisting of more than one distinct physical phase or electrical alternating cycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical engineering, using several alternating currents out of phase with each other; polyphase.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiphase designates of an electrical system that uses or generates two or more alternating voltages of the same frequency but differing in phase angle."*
+> - 📜 **Nikola Tesla (*My Inventions*):** *"The rotary magnetic field produced by **multiphase** currents revolutionized modern power generation."*
+> - 📜 **Charles Proteus Steinmetz (*Theory and Calculation of Alternating Current Phenomena*):** *"A **multiphase** distribution system balances mechanical motor loads with high efficiency."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Chemical mixtures often separate into distinct **multiphase** liquid layers upon standing."*

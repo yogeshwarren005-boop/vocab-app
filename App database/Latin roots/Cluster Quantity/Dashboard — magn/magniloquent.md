@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magniloquent
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lofty in style.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lofty in style.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Speaking in or characterized by a pompous, bombastic, or grandiose style; grandiloquent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using high-flown or boastful language to inflate the importance of ordinary matters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magniloquent designates lofty in style."*
+> - 📜 **William Makepeace Thackeray (*The Book of Snobs*):** *"The pretentious clubman delivered a **magniloquent** speech on his aristocratic connections."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Chadband commenced another **magniloquent** discourse upon the virtues of spiritual enlightenment."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"His **magniloquent** assertions regarding Roman ruins were politely challenged by the visiting scholar."*

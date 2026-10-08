@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multiplicative
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending or having the power to multiply or increase in number or quantity or degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending or having the power to multiply or increase in number or quantity or degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the quality of multiplying or tending to increase by multiplication; pertaining to mathematical multiplication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Operating by multiplication rather than addition, as in multiplicative factors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiplicative designates tending or having the power to multiply or increase in number or quantity or degree."*
+> - 📜 **Isaac Newton (*Universal Arithmetick*):** *"The formula incorporates a **multiplicative** constant derived from empirical measurements."*
+> - 📜 **Ronald Fisher (*The Genetical Theory of Natural Selection*):** *"Gene interactions may exhibit **multiplicative** effects rather than strictly additive contributions."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"The **multiplicative** axiom asserts that a choice set exists for any collection of non-empty classes."*

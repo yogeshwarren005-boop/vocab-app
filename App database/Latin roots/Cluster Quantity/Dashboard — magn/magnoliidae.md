@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magnoliidae
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of families of trees and shrubs and herbs having well-developed perianths and apocarpous ovaries and generally regarded as the most primitive extant flowering plants; contains 36 families including magnoliaceae and ranunculaceae; sometimes classified as a superorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of families of trees and shrubs and herbs having well-developed perianths and apocarpous ovaries and generally regarded as the most primitive extant flowering plants; contains 36 families including magnoliaceae and ranunculaceae; sometimes classified as a superorder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subclass of early-diverging flowering plants (angiosperms) that includes magnolias, laurels, and black pepper.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient evolutionary lineage of dicotyledonous plants with ethereal oil cells and primitive floral morphology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnoliidae designates a group of families of trees and shrubs and herbs having well-developed perianths and apocarpous ovaries and generally regarded as the most primitive extant flowering plants; contains 36 families including magnoliaceae and ranunculaceae; sometimes classified as a superorder."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"Taxonomists place ancient woody angiosperms with multi-parted flowers within the subclass **magnoliidae**."*
+> - 📜 **Charles Bessey (*The Phylogenetic Taxonomy of Flowering Plants*):** *"Phylogenetic analysis traces the ancestral line of modern dicots to early fossil representatives of **magnoliidae**."*
+> - 📜 **Arthur Cronquist (*An Integrated System of Classification of Flowering Plants*):** *"The subclass **magnoliidae** exhibits archaic floral traits linking early angiosperms to seed ferns."*

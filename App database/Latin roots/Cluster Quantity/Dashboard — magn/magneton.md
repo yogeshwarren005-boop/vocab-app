@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magneton
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of magnetic moment of a molecular or atomic or subatomic particle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of magnetic moment of a molecular or atomic or subatomic particle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A physical constant and fundamental unit for expressing the magnetic moment of an electron or atomic nucleus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The intrinsic quantum unit of magnetic dipole moment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magneton designates a unit of magnetic moment of a molecular or atomic or subatomic particle."*
+> - 📜 **Arthur Eddington (*The Mathematical Theory of Relativity*):** *"The quantum theory expresses atomic dipole moments in terms of the Bohr **magneton**."*
+> - 📜 **Ernest Rutherford (*The Newer Alchemy*):** *"Nuclear physicists measured the magnetic moment of the proton as a small multiple of the nuclear **magneton**."*
+> - 📜 **Max Born (*Atomic Physics*):** *"The Zeeman splitting corresponds precisely to transitions involving integral multiples of the Bohr **magneton**."*

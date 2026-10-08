@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multilane
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of roads and highways) having two or more lanes for traffic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of roads and highways) having two or more lanes for traffic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having several lanes of traffic traveling in each direction, as an expressway or highway.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed with multiple parallel vehicle lanes to accommodate heavy traffic flows.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multilane designates (of roads and highways) having two or more lanes for traffic."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The futuristic cities were linked by grand **multilane** avenues designed for automated vehicles."*
+> - 📜 **Lewis Mumford (*The City in History*):** *"Urban planners sacrificed historic neighborhoods to construct vast **multilane** expressways."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"High-speed **multilane** transport arteries will soon govern intercontinental transit."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # demagnetize
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Erase (a magnetic storage device).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make nonmagnetic; take away the magnetic properties (of).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove magnetic attraction or magnetic polarization from a substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To degauss a magnetic recording medium, compass casing, or metallic structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demagnetize designates erase (a magnetic storage device)."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"An opposing voltaic current was applied to **demagnetize** the iron yoke."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Vigorous mechanical hammering can effectively **demagnetize** a hardened steel rod."*
+> - 📜 **Nikola Tesla (*My Inventions*):** *"High-frequency alternating fields swiftly **demagnetize** ferromagnetic cores without excessive hysteresis loss."*

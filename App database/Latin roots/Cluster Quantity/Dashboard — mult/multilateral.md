@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multilateral
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having many parts or sides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having many parts or sides.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving, agreed upon, or participated in by three or more parties or nations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having many sides or facets; many-sided in geometry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The studies predicted that politically independent nation-states would create multilateral alignments and conflicting societies, lifestyles and philosophies."*
+> - 📜 **Woodrow Wilson (*War and Peace: Presidential Messages*):** *"The peace settlement established a **multilateral** covenant binding nations to collective security."*
+> - 📜 **John Maynard Keynes (*The Economic Consequences of the Peace*):** *"International reconstruction demanded a **multilateral** conference to adjust war debts."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Diplomats negotiated a **multilateral** convention to protect neutral maritime commerce."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multivitamin
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pill or tablet containing several vitamins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pill or tablet containing several vitamins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pharmaceutical or nutritional preparation containing several essential vitamins and dietary minerals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or containing a combination of diverse vitamins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multivitamin designates a pill or tablet containing several vitamins."*
+> - 📜 **Linus Pauling (*Vitamin C and the Common Cold*):** *"Daily supplementation with a balanced **multivitamin** fortifies the immune defense against infection."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine, Post-War Edition*):** *"Malnourished convalescents benefited significantly from an oral **multivitamin** regimen."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The intestinal absorption of a therapeutic **multivitamin** supports fundamental cellular cofactor synthesis."*

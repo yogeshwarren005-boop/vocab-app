@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multilaterally
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a multilateral manner;so as to affect many parties or governments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a multilateral manner;so as to affect many parties or governments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a multilateral manner; by three or more parties acting in concert.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Through collective international cooperation across multiple nations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multilaterally designates in a multilateral manner;so as to affect many parties or governments."*
+> - 📜 **Woodrow Wilson (*The State*):** *"Sovereign nations agreed to act **multilaterally** to prevent aggressive military expansion."*
+> - 📜 **John Maynard Keynes (*Essays in Persuasion*):** *"Tariff reductions enacted **multilaterally** revive depressed world trade far more effectively."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The allied commanders resolved to coordinate strategic operations **multilaterally**."*

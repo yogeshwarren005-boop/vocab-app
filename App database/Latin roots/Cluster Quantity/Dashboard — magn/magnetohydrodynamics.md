@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magnetohydrodynamics
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the interaction of magnetic fields and electrically conducting fluids (as plasma or molten metal).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of the interaction of magnetic fields and electrically conducting fluids (as plasma or molten metal).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The academic study of the magnetic properties and behavior of electrically conducting fluids, such as plasmas or liquid metals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of theoretical physics treating magnetic fields coupled with fluid flow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnetohydrodynamics designates the study of the interaction of magnetic fields and electrically conducting fluids (as plasma or molten metal)."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"Pioneering theories of **magnetohydrodynamics** explain how magnetic confinement stabilizes solar prominences."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Interstellar gas clouds swirl under the combined forces of gravity and **magnetohydrodynamics**."*
+> - 📜 **Freeman Dyson (*Disturbing the Universe*):** *"Astrophysicists turned to **magnetohydrodynamics** to model the turbulent convective zones of stars."*

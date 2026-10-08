@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multilingual
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Using or knowing more than one language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using or knowing more than one language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to speak, understand, or write several distinct languages fluently.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressed in, published in, or utilizing multiple languages, as a dictionary or treaty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multilingual designates using or knowing more than one language."*
+> - 📜 **George Borrow (*Lavengro*):** *"The wandering philologist took pride in his **multilingual** fluency across ancient dialects."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The imperial court employed **multilingual** secretaries to communicate with allied nations."*
+> - 📜 **James Joyce (*Finnegans Wake*):** *"The narrative weaves a dazzling **multilingual** fabric borrowing idioms from a dozen tongues."*

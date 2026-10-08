@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multiversity
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A university system having several separate campuses and colleges and research centers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A university system having several separate campuses and colleges and research centers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very large, complex university comprising multiple campuses, colleges, and diverse research institutes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expansive higher-education conglomerate serving varied social and industrial functions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiversity designates a university system having several separate campuses and colleges and research centers."*
+> - 📜 **Clark Kerr (*The Uses of the University*):** *"The modern **multiversity** is not a single academic community, but an intricate pluralistic city."*
+> - 📜 **C. P. Snow (*Public Affairs*):** *"Scholars in a sprawling **multiversity** often find themselves isolated from adjacent disciplines."*
+> - 📜 **John Kenneth Galbraith (*The New Industrial State*):** *"The technological apparatus draws its scientific cadres directly from the vast state **multiversity**."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magnetic
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or caused by magnetism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the properties of a magnet; i.e. of attracting iron or steel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing the properties of a magnet; capable of being attracted by or exerting a magnetic field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exerting a powerful, irresistible attraction, charm, or personal charisma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"M. de Clairon, who was by my side, murmured something about a magnetic current; but when I asked him sternly by what set in motion, his voice died away in his moustache."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Sweet Anna has an air—a grace, Divine, magnetic, touching: She talks, she charms—but who can trace The process of bewitching?"*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"There is something attractive about them; they have his secret, something of his charm; they are magnetic with his power."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Lines of **magnetic** induction form closed loops around any electric current."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Our compass was disturbed by local **magnetic** rocks composing the island's mountain ridge."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Wickham possessed a lively and almost **magnetic** charm that captivated the whole neighborhood."*

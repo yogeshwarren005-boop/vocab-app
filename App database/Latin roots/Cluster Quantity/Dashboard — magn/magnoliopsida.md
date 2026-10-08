@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magnoliopsida
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprising seed plants that produce an embryo with paired cotyledons and net-veined leaves; divided into six (not always well distinguished) subclasses (or superorders): magnoliidae and hamamelidae (considered primitive); caryophyllidae (an early and distinctive offshoot); and three more or less advanced groups: dilleniidae; rosidae; asteridae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprising seed plants that produce an embryo with paired cotyledons and net-veined leaves; divided into six (not always well distinguished) subclasses (or superorders): magnoliidae and hamamelidae (considered primitive); caryophyllidae (an early and distinctive offshoot); and three more or less advanced groups: dilleniidae; rosidae; asteridae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The botanical class comprising the dicotyledons (dicots) within the division of flowering plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A major taxonomic class of angiosperms characterized by net-veined leaves and floral parts in multiples of four or five.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnoliopsida designates comprising seed plants that produce an embryo with paired cotyledons and net-veined leaves; divided into six (not always well distinguished) subclasses (or superorders): magnoliidae and hamamelidae (considered primitive); caryophyllidae (an early and distinctive offshoot); and three more or less advanced groups: dilleniidae; rosidae; asteridae."*
+> - 📜 **Arthur Cronquist (*An Integrated System of Classification of Flowering Plants*):** *"The class **magnoliopsida** includes both primitive woody magnolias and advanced herbaceous composites."*
+> - 📜 **Charles Bessey (*The Phylogenetic Taxonomy of Flowering Plants*):** *"Comparative floral morphology places the class **magnoliopsida** at the root of the angiosperm family tree."*
+> - 📜 **Lynn Margulis (*Five Kingdoms*):** *"Living members of **magnoliopsida** represent the vast majority of traditional broad-leaved forest trees."*

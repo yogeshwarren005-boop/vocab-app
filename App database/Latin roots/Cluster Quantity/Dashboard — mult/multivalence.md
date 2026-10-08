@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multivalence
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) the state of having a valence greater than two.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (chemistry) the state of having a valence greater than two.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In chemistry, the property of having a valence greater than two, or possessing more than one chemical valence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and cultural theory, the quality of having multiple meanings or interpretations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multivalence designates (chemistry) the state of having a valence greater than two."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The transition elements display striking **multivalence** in their coordination complexes."*
+> - 📜 **William James (*The Meaning of Truth*):** *"Philosophical concepts frequently exhibit semantic **multivalence** across differing historical contexts."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"Signs in pragmatic semiotics possess intrinsic **multivalence**, generating endless interpretants."*

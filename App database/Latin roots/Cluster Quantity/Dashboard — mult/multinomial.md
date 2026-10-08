@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multinomial
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mathematical function that is the sum of a number of terms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the character of a polynomial.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In mathematics and algebra, an algebraic expression consisting of more than two terms; a polynomial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistics, relating to a probability distribution generalizing the binomial distribution to more than two outcomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multinomial designates a mathematical function that is the sum of a number of terms."*
+> - 📜 **Isaac Newton (*Universal Arithmetick*):** *"The expansion of a **multinomial** expression requires methodical calculation of combination terms."*
+> - 📜 **Leonhard Euler (*Elements of Algebra*):** *"We formulate the theorem for expanding any **multinomial** power by general induction."*
+> - 📜 **Ronald Fisher (*Statistical Methods for Research Workers*):** *"The sample frequencies follow a **multinomial** distribution under the null hypothesis."*

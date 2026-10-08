@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magnetism
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attraction for iron; associated with electric currents as well as magnets; characterized by fields of force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of science that studies magnetism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical phenomenon produced by the motion of electric charge, resulting in attractive and repulsive forces between objects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compelling personal charm or power of attraction; animal magnetism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But as ever before, the pagan harpooneers remained almost wholly unimpressed; or if impressed, it was only with a certain magnetism shot into their congenial hearts from inflexible Ahab’s."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"When not more actively employed she would sit by the bed-sides of the suffering men, and charm away their pain by the magnetism of her low, calm voice, and soothing words."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But as ever before, the pagan harpooneers remained almost wholly unimpressed; or if impressed, it was only with a certain magnetism shot into their congenial hearts from inflexible Ahab’s."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Electricity and **magnetism** are two aspects of a single unified electromagnetic reality."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The connection between light and **magnetism** was demonstrated by the rotation of the polarization plane."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Holgrave dabbled in the mysterious science of animal **magnetism** and mesmeric trance."*

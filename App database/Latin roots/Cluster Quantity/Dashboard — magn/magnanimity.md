@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magnanimity
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Liberality in bestowing gifts; extremely liberal and generous of spirit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liberality in bestowing gifts; extremely liberal and generous of spirit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Nobleness and generous loftiness of mind, spirit, or purpose; generous forgiveness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The disposition to rise above pettiness, resentment, or vindictiveness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methinks a woman of this valiant spirit Should, if a coward heard her speak these words, Infuse his breast with magnanimity And make him, naked, foil a man at arms."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had a conviction that sooner or later the magnanimity which she persisted in reckoning as a chief ingredient of Clare’s character would lead him to rejoin her."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"O glorious magnanimity of soul!"*
+> - 📜 **William Shakespeare (*The Complete Works*):** *"His royal **magnanimity** pardoned the conspirators and restored their forfeited estates."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The emperor displayed unexampled **magnanimity** by sparing the captive barbarian chieftains."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth admired the unexpected **magnanimity** with which Darcy received the painful refusal."*

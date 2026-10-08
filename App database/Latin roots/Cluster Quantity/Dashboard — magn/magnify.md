@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magnify
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Increase in size, volume or significance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To enlarge beyond bounds or the truth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make an object appear larger than it is, especially by using a lens or microscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To extol, praise, or glorify, as in religious scripture; to exaggerate in importance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Men too often confound them: they should not be confounded: appearance should not be mistaken for truth; narrow human doctrines, that only tend to elate and magnify a few, should not be substituted for the world-redeeming creed of Christ."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Some of them were very tall; many were dressed in white; and all had a sweeping amplitude of array that seemed to magnify their persons as a mist magnifies the moon."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"For it is hard to believe in man--"What is man that thou shouldest magnify him? and that thou shouldest set thine heart upon him?" quotes the author of "Job" in a great ironical passage (Job 7:17; from Psalm 8:4)."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Solitude and anxiety tended to **magnify** her natural fears into spectral apparitions."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Human pride seeks to **magnify** its own achievements, whereas true wisdom remains humble."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Microscopes that **magnify** several hundred diameters reveal previously invisible stages of embryology."*

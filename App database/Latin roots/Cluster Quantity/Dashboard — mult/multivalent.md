@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multivalent
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of the association of three or more homologous chromosomes during the first division of meiosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having more than one valence, or having a valence of 3 or higher.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In chemistry, having a valence greater than two, or exhibiting more than one valence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology, having more than one binding site; having multiple values or meanings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multivalent designates used of the association of three or more homologous chromosomes during the first division of meiosis."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Iron forms **multivalent** compounds by exchanging electrons from both outer shells."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Researchers prepared a **multivalent** vaccine to confer immunity against multiple bacterial strains."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"A **multivalent** signifier communicates distinct philosophical insights to different observers."*

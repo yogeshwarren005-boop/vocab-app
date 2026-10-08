@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magnetisation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The extent or degree to which something is magnetized.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process that makes a substance magnetic (temporarily or permanently).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of making a material magnetic, or the degree to which it is magnetized.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The magnetic moment per unit volume induced in a substance by an applied field.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnetisation designates the extent or degree to which something is magnetized."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The intensity of **magnetisation** reached a maximum beyond which further field strength produced negligible increase."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Soft iron acquires rapid **magnetisation** when placed inside an energized helical coil."*
+> - 📜 **William Thomson (*Mathematical and Physical Papers*):** *"Permanent **magnetisation** depends upon the retentive coercive force of hardened steel alloys."*

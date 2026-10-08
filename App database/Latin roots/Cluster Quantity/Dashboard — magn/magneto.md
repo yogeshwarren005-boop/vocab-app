@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magneto
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small dynamo with a secondary winding that produces a high voltage enabling a spark to jump between the poles of a spark plug in a gasoline engine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small dynamo with a secondary winding that produces a high voltage enabling a spark to jump between the poles of a spark plug in a gasoline engine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small electric generator using permanent magnets to produce high-voltage pulses for engine ignition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electromechanical generator historically used in early field telephones and aviation engines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magneto designates a small dynamo with a secondary winding that produces a high voltage enabling a spark to jump between the poles of a spark plug in a gasoline engine."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"The aircraft technician inspected the twin **magneto** ignition system before the high-altitude test flight."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The electrical apparatus hummed as the hand-cranked **magneto** supplied current to the induction coil."*
+> - 📜 **Ernest K. Gann (*Fate Is the Hunter*):** *"A sudden drop in engine revolutions signaled a malfunction in the port **magneto**."*

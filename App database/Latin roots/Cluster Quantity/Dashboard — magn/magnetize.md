@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magnetize
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make magnetic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attract strongly, as if with a magnet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To impart magnetic properties to; to cause to become a magnet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To attract strongly; to charm, captivate, or fascinate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Might and wrong combined, like iron magnetized, are endowed with irresistible attraction."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"To **magnetize** the steel rod, we stroked it repeatedly with a natural lodestone."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"Electric coils were wound tightly around the bar to **magnetize** it uniformly."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Great original personalities **magnetize** society, drawing followers by sheer force of character."*

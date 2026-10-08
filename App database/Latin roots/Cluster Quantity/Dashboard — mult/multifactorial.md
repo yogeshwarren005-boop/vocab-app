@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multifactorial
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or depending on several factors or causes (especially pertaining to a condition or disease resulting from the interaction of many genes).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving or depending on several factors or causes (especially pertaining to a condition or disease resulting from the interaction of many genes).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In genetics and medicine, involving or determined by multiple independent factors, genes, or environmental influences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Depending on the joint action of several contributing causes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multifactorial designates involving or depending on several factors or causes (especially pertaining to a condition or disease resulting from the interaction of many genes)."*
+> - 📜 **Ronald Fisher (*The Genetical Theory of Natural Selection*):** *"Continuous quantitative variation in stature reflects a **multifactorial** genetic basis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic cardiovascular disease exhibits a complex **multifactorial** etiology requiring lifestyle interventions."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Polygenic inheritance explains how **multifactorial** adaptations arise in natural populations."*

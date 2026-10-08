@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magnetics
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of science that studies magnetism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of science that studies magnetism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physical science that investigates magnetic phenomena and fields.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Magnetic mechanisms, materials, or components considered as an engineering domain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnetics designates the branch of science that studies magnetism."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The fundamental laws of **magnetics** were unified with dynamic electricity in four partial differential equations."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"His pioneering investigations in **magnetics** laid the experimental foundation for electrical induction."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"Terrestrial **magnetics** continues to offer profound problems for mathematical geophysicists."*

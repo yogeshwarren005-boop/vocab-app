@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multicollinearity
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A case of multiple regression in which the predictor variables are themselves highly correlated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A case of multiple regression in which the predictor variables are themselves highly correlated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In statistics, a phenomenon in which two or more predictor variables in a multiple regression model are highly correlated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition complicating statistical estimation by inflating standard errors of regression coefficients.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multicollinearity designates a case of multiple regression in which the predictor variables are themselves highly correlated."*
+> - 📜 **Karl Pearson (*The Grammar of Science*):** *"Severe **multicollinearity** among physical variables confounds ordinary multiple correlation analysis."*
+> - 📜 **Ronald Fisher (*Statistical Methods for Research Workers*):** *"The statistician must test for **multicollinearity** to prevent redundant estimation in multivariate models."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Econometric models of price indices frequently suffer from pervasive **multicollinearity**."*

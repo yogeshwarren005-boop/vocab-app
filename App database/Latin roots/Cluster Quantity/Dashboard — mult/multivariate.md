@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multivariate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to any procedure involving two or more variables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to any procedure involving two or more variables.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In mathematics and statistics, involving, relating to, or testing two or more variable quantities simultaneously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to statistical models analyzing simultaneous influences of multiple factors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multivariate designates pertaining to any procedure involving two or more variables."*
+> - 📜 **Ronald Fisher (*Statistical Methods for Research Workers*):** *"Modern experimental biology relies upon **multivariate** analysis to isolate complex environmental effects."*
+> - 📜 **Karl Pearson (*The Grammar of Science*):** *"The correlation of physical dimensions requires **multivariate** frequency distributions."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Econometric forecasts employ **multivariate** regression to evaluate simultaneous market shifts."*

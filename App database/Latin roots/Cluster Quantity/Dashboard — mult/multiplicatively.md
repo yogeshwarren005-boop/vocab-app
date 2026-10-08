@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multiplicatively
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a multiplicative manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a multiplicative manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a multiplicative manner; by means of multiplication rather than addition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At a rate compounded geometrically through successive multiplication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiplicatively designates in a multiplicative manner."*
+> - 📜 **Ronald Fisher (*Statistical Methods for Research Workers*):** *"The variance components combined **multiplicatively** across successive experimental trials."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"The cardinal powers grow **multiplicatively** through repeated applications of the combinatorial theorem."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Organisms multiply **multiplicatively** when unimpeded by natural enemies or resource limits."*

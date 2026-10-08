@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multi-colour
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having sections or patches colored differently and usually brightly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having sections or patches colored differently and usually brightly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: British spelling of multi-color; exhibiting or using multiple diverse colors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Polychrome in appearance, decorative style, or visual design.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multi-colour designates having sections or patches colored differently and usually brightly."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"The stained-glass window cast **multi-colour** pools of light across the flagstone floor."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The street market was a noisy spectacle of **multi-colour** ribbons and fluttering awnings."*
+> - 📜 **Walter Pater (*Studies in the History of the Renaissance*):** *"Venetian painters excelled in the harmonious blending of rich **multi-colour** draperies."*

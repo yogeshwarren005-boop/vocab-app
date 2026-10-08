@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magnanimous
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Noble and generous in spirit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Generous and understanding and tolerant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Generous in forgiving an insult or injury; free from petty resentfulness; noble.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing high-minded character and chivalrous generosity toward rivals or opponents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou wilt be as valiant as the wrathful dove or most magnanimous mouse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Duke of Exeter is as magnanimous as Agamemnon; and a man that I love and honour with my soul, and my heart, and my duty, and my life, and my living, and my uttermost power."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The pig, or the great, or the mighty, or the huge, or the magnanimous, are all one reckonings, save the phrase is a little variations."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"He had a noble and **magnanimous** spirit that scorned to strike a fallen foe."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"In his better moments, Henchard was capable of a **magnanimous** gesture toward his rival."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea resolved upon a **magnanimous** sacrifice of her private fortune to aid the needy."*

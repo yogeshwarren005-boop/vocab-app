@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multifaceted
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having many aspects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having many aspects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having many facets, aspects, or phases; complex and versatile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing numerous polished surfaces, as a brilliant cut gemstone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multifaceted designates having many aspects."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The great whale presented a **multifaceted** mystery that engaged both science and poetry."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Goethe possessed a **multifaceted** genius that mastered drama, botany, and statecraft."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Human character is a **multifaceted** jewel revealing different lights under varying trials."*

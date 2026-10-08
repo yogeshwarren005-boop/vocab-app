@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magnanimousness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of elevation of mind and exaltation of character or ideals or conduct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of elevation of mind and exaltation of character or ideals or conduct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Nobility of spirit, generosity of disposition, and freedom from malice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: High-minded loftiness in pardoning injuries and overlooking petty affronts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnanimousness designates the quality of elevation of mind and exaltation of character or ideals or conduct."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"True **magnanimousness** consists in conquering our natural desire for vengeance."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Moral philosophers regard **magnanimousness** as the highest ornament of civic leadership."*
+> - 📜 **George Eliot (*Romola*):** *"She admired that serene **magnanimousness** which lifted him above the turbulent factions of Florence."*

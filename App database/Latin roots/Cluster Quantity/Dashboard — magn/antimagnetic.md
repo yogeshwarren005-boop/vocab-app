@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # antimagnetic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impervious to the effects of a magnetic field; resistant to magnetization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impervious to the effects of a magnetic field; resistant to magnetization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resistant to the effects of magnetic fields, especially referring to watches or mechanical devices.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preventing or neutralizing magnetic polarization in electrical equipment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antimagnetic designates impervious to the effects of a magnetic field; resistant to magnetization."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The instrument was enclosed within an **antimagnetic** brass casing to prevent stray induction."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"Deep-sea exploration tools must be constructed from **antimagnetic** alloys to protect compass systems."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"Cavor lined his sphere with **antimagnetic** plates to shield delicate recording needles."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magnetograph
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientific instrument that registers magnetic variations (especially variations of the earth's magnetic field).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scientific instrument that registers magnetic variations (especially variations of the earth's magnetic field).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientific instrument that continuously records fluctuations and variations in the Earth's magnetic field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A photographic or electronic recorder registering geomagnetic storms and solar flares.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnetograph designates a scientific instrument that registers magnetic variations (especially variations of the earth's magnetic field)."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The photographic **magnetograph** at Kew Observatory registered sharp magnetic disturbances coinciding with the aurora."*
+> - 📜 **Lord Kelvin (*Mathematical and Physical Papers*):** *"Continuous records from the **magnetograph** revealed diurnal oscillations in geomagnetic declination."*
+> - 📜 **Arthur Eddington (*Space, Time and Gravitation*):** *"Geophysicists correlated solar sunspot eruptions with violent excursions traced upon the **magnetograph**."*

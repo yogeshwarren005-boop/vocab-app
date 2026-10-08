@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multicolored
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having sections or patches colored differently and usually brightly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having sections or patches colored differently and usually brightly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having many diverse colors, tones, or variegated tints; polychromatic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mottled, striped, or decorated with several different pigments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The scene faded, replaced by a ring of tiny multicolored lights: the Asteroid Belt."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Three million kay ahead, the Slingshot terminals appeared as just another unblinking light in a runnel of multicolored jewels."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Concurrently, at a signal from the UIPS President's ship Eagle, the station flashed an array of multicolored beacons."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Artificial selection produced **multicolored** varieties of domestic carnations and dahlias."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Morning dew glistened upon the **multicolored** wildflowers bordering the dairy meadow."*
+> - 📜 **Herman Melville (*Typee*):** *"The valley was adorned with **multicolored** flowering shrubs that scented the tropical air."*

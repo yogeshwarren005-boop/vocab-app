@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magnanimously
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a magnanimous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a magnanimous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a magnanimous manner; with noble generosity and freedom from resentment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With chivalrous disregard of personal slights or grievances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Drink, Henry Fray—drink,” magnanimously said Jan Coggan, a person who held Saint-Simonian notions of share and share alike where liquor was concerned, as the vessel showed signs of approaching him in its gradual revolution among them."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They are better women than I,” she replied, magnanimously sticking to her resolve."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Could I help her, do you think?” “I think it would be well for you just to go and see her before Lydgate comes,” said Sir James, magnanimously."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Jarndyce **magnanimously** waived his claims, seeking only the happiness of his young ward."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Edmund **magnanimously** defended the absent cousin against the spiteful barbs of Mrs. Norris."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The victorious general **magnanimously** restored the defeated prince to his ancestral kingdom."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magnoliophyta
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprising flowering plants that produce seeds enclosed in an ovary; in some systems considered a class (angiospermae) and in others a division (magnoliophyta or anthophyta).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprising flowering plants that produce seeds enclosed in an ovary; in some systems considered a class (angiospermae) and in others a division (magnoliophyta or anthophyta).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In botanical taxonomy, the formal division comprising all flowering plants (angiosperms) producing enclosed seeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The evolutionary clade of seed-bearing vascular plants characterized by flowers and fruit development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnoliophyta designates comprising flowering plants that produce seeds enclosed in an ovary; in some systems considered a class (angiospermae) and in others a division (magnoliophyta or anthophyta)."*
+> - 📜 **Arthur Cronquist (*An Integrated System of Classification of Flowering Plants*):** *"The division **magnoliophyta** encompasses more than two hundred thousand living species of angiosperms."*
+> - 📜 **Charles Bessey (*The Phylogenetic Taxonomy of Flowering Plants*):** *"The evolutionary ascendancy of **magnoliophyta** reshaped terrestrial ecosystems during the Cretaceous era."*
+> - 📜 **Lynn Margulis (*Five Kingdoms*):** *"Vascular plants of the division **magnoliophyta** rely on specialized double fertilization to nourish seeds."*

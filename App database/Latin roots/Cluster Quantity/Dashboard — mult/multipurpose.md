@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multipurpose
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having multiple uses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having multiple uses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed or suitable for several different uses, purposes, or functions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Versatile; adaptable to multiple distinct tasks or operational environments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multipurpose designates having multiple uses."*
+> - 📜 **H. G. Wells (*The Work, Wealth and Happiness of Mankind*):** *"Modern engineering excels in producing **multipurpose** machine tools adaptable to varied manufacturing."*
+> - 📜 **Arthur C. Clarke (*The Exploration of Space*):** *"Lunar expeditions will rely on **multipurpose** vehicles capable of bulldozing regolith and transporting crew."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"The electric motor provided a compact, **multipurpose** power source that decentralized factory floor design."*

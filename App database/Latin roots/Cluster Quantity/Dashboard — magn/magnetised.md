@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magnetised
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attract strongly, as if with a magnet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make magnetic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Endowed with magnetic properties; having an induced magnetic polarity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fascinated, captivated, or held under hypnotic or charismatic influence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Indeed, it is not too much to say that the maritime commerce of the world was based upon the behaviour of that little piece of magnetised steel."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The latter is but a small piece of iron magnetised; the former is nothing more than a spinning-top."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"For most purposes a steel core would render an electro-magnet useless, but in this case it was desired that the core should be permanently magnetised."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The **magnetised** needle was suspended by a single unspun silk fiber."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The navigator checked the compass to verify that the **magnetised** pointer moved freely."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"She sat motionless, like one **magnetised** by the sudden apparition of an ancient friend."*

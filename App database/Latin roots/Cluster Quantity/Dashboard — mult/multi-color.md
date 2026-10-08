@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multi-color
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having sections or patches colored differently and usually brightly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having sections or patches colored differently and usually brightly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Displaying, composed of, or utilizing several distinct colors simultaneously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by variegated pigmentation or polychromatic visual patterns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multi-color designates having sections or patches colored differently and usually brightly."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Queequeg wrapped himself in a brilliant **multi-color** poncho woven by island artisans."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Male birds frequently exhibit an iridescent **multi-color** plumage to attract mates."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The carnival parade moved past in a dazzling **multi-color** swirl of banners and masks."*

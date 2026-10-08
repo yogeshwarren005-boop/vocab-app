@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magnetosphere
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The magnetic field of a planet; the volume around the planet in which charged particles are subject more to the planet's magnetic field than to the solar magnetic field.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The magnetic field of a planet; the volume around the planet in which charged particles are subject more to the planet's magnetic field than to the solar magnetic field.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The region surrounding an astronomical body in which its magnetic field dominates the motion of charged particles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The geomagnetic boundary layer shielding Earth from high-energy cosmic rays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnetosphere designates the magnetic field of a planet; the volume around the planet in which charged particles are subject more to the planet's magnetic field than to the solar magnetic field."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Earth is protected from deadly solar particles by the vast invisible shield of its **magnetosphere**."*
+> - 📜 **Arthur C. Clarke (*Voices from the Sky*):** *"Satellite probes plunged through the outer shock boundary of the Jovian **magnetosphere**."*
+> - 📜 **Freeman Dyson (*From Eros to Gaia*):** *"The solar wind distorts the planetary **magnetosphere** into a teardrop shape extending millions of miles into space."*

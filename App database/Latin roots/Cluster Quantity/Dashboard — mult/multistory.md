@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multistory
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having more than one story.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having more than one story.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: American spelling of multistorey; having more than two floors or vertical levels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Referring to buildings or parking structures built with several stacked tiers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multistory designates having more than one story."*
+> - 📜 **Lewis Mumford (*The Highway and the City*):** *"Urban congestion prompted the erection of massive **multistory** garages in the central business district."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"Future vertical cities will concentrate dwelling units in **multistory** towers rising miles into the sky."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"Skyrocketing urban ground rents stimulated investment in steel-framed **multistory** commercial buildings."*

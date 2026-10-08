@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multiprogramming
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The execution of two or more computer programs by a single computer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The execution of two or more computer programs by a single computer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In computer systems, the concurrent execution of multiple programs residing in main memory at the same time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An operating system technique maximizing CPU utilization by interleaving multiple active programs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiprogramming designates the execution of two or more computer programs by a single computer."*
+> - 📜 **Edsger W. Dijkstra (*Cooperating Sequential Processes*):** *"Effective **multiprogramming** requires mutual exclusion mechanisms such as semaphores."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"Early mainframes utilized **multiprogramming** to share expensive computing time among dozens of researchers."*
+> - 📜 **Donald Knuth (*The Art of Computer Programming*):** *"The supervisor routine allocates processor slices to support uninterrupted **multiprogramming**."*

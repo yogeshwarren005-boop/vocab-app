@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multiculturalism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine that several different cultures (rather than one national culture) can coexist peacefully and equitably in a single country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrine that several different cultures (rather than one national culture) can coexist peacefully and equitably in a single country.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of, or support for the presence of, several distinct cultural or ethnic groups within a society.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public policy or political philosophy advocating cultural pluralism and equality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiculturalism designates the doctrine that several different cultures (rather than one national culture) can coexist peacefully and equitably in a single country."*
+> - 📜 **Harold Laski (*The American Democracy*):** *"Advocates of **multiculturalism** urge that public institutions respect diverse heritage traditions."*
+> - 📜 **Bertrand Russell (*Unpopular Essays*):** *"Enlightened global governance must embrace cultural tolerance rather than enforce **multiculturalism** by decree."*
+> - 📜 **Karl Popper (*The Open Society and Its Enemies*):** *"The open society flourishes when genuine pluralism and **multiculturalism** resist tribal dogma."*

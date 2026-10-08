@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magnifico
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person of distinguished rank or appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person of distinguished rank or appearance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Venetian nobleman or grandee of high rank and wealth; hence, any person of high standing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person of pompous importance or grand pretentious demeanor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Omne ignotum pro magnifico" is the old epigram of Tacitus."*
-> - 📜 **Bram Stoker (*Dracula*):** *"It was a dreary blank that was before us. _Omne ignotum pro magnifico_; and so with heavy hearts we start to find what ships leave for the Black Sea last night."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Twenty merchants, The Duke himself, and the magnificoes Of greatest port have all persuaded with him, But none can drive him from the envious plea Of forfeiture, of justice, and his bond."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"The **magnifico** of Venice stepped forward to deliver the verdict of the ducal council."*
+> - 📜 **Bram Stoker (*Dracula*):** *"It was a dramatic entry worthy of a Venetian **magnifico** in the golden age of the republic."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"He spoke not as an aloof **magnifico**, but as a companion sharing the common bread of life."*

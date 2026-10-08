@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multiple-choice
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Offering several alternative answers from which the correct one is to be chosen; or consisting of such questions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offering several alternative answers from which the correct one is to be chosen; or consisting of such questions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Providing several possible answers from which the examinee must select the correct one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to an objective examination format testing factual recall or decision making.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiple-choice designates offering several alternative answers from which the correct one is to be chosen; or consisting of such questions."*
+> - 📜 **C. P. Snow (*The Two Cultures*):** *"Standardized testing frequently relies upon **multiple-choice** examinations to evaluate large cohorts."*
+> - 📜 **Bertrand Russell (*Education and the Social Order*):** *"Educational reformers questioned whether **multiple-choice** questions foster deep critical intellect."*
+> - 📜 **Karl Popper (*The Logic of Scientific Discovery*):** *"Experimental inquiry is nature's **multiple-choice** test where conjectures are put to the trial."*

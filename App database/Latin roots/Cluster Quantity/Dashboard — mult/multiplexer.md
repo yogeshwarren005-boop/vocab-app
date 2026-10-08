@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multiplexer
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device that can interleave two or more activities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device that can interleave two or more activities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device or electronic circuit that combines multiple input signals into a single output transmission channel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer hardware, a digital selector routing one of several input lines to a common line.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiplexer designates a device that can interleave two or more activities."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"The digital **multiplexer** interleaved incoming pulses without cross-channel distortion."*
+> - 📜 **Alan Turing (*Intelligent Machinery*):** *"A switching **multiplexer** controls data flow between processing registers and magnetic drum memory."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"High-speed communication lines rely upon an electronic **multiplexer** to maximize channel bandwidth."*

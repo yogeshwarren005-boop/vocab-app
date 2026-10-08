@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multiracial
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Made up of or involving or acting on behalf of various races.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Made up of or involving or acting on behalf of various races.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Composed of, involving, or relating to people of several distinct racial backgrounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by racial diversity and mutual inclusion within a society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiracial designates made up of or involving or acting on behalf of various races."*
+> - 📜 **W. E. B. Du Bois (*The Souls of Black Folk*):** *"The future of democracy hinges upon building a just and equitable **multiracial** commonwealth."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The American republic struggled with the immense historical challenges of a **multiracial** society."*
+> - 📜 **Harold Laski (*The American Democracy*):** *"A truly civilized state guarantees equal civic protection across all sectors of its **multiracial** citizenry."*

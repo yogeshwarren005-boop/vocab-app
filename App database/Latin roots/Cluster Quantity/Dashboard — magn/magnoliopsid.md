@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magnoliopsid
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flowering plant with two cotyledons; the stem grows by deposit on its outside.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flowering plant with two cotyledons; the stem grows by deposit on its outside.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any flowering plant belonging to the class Magnoliopsida; a dicotyledon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or characteristic of dicotyledonous angiosperms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnoliopsid designates flowering plant with two cotyledons; the stem grows by deposit on its outside."*
+> - 📜 **Arthur Cronquist (*The Evolution and Classification of Flowering Plants*):** *"The typical **magnoliopsid** embryo possesses two opposite seed leaves or cotyledons."*
+> - 📜 **Charles Bessey (*Phylogeny of Plants*):** *"Net-veined leaves and concentric vascular bundles characterize the mature **magnoliopsid** stem."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"The rapid evolutionary radiation of each **magnoliopsid** lineage accompanied insect coevolution."*

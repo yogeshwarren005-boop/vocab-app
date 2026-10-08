@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multivalency
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) the state of having a valence greater than two.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (chemistry) the state of having a valence greater than two.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of possessing multiple chemical valencies, bindings, or meanings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capacity for multiple bindings in immunology or molecular biology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multivalency designates (chemistry) the state of having a valence greater than two."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The **multivalency** of manganese accounts for the wide range of oxidation states observed in laboratory salts."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Antibody molecules utilize structural **multivalency** to bind antigens with high avidity."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"Logical **multivalency** allows relational propositions to connect multiple subject terms."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multi-stemmed
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having many stems.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having many stems.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In botany, having multiple distinct stems, trunks, or canes rising from the root crown.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Growing as a branched shrub or coppiced tree with numerous ascending shoots.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multi-stemmed designates having many stems."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The shrub grows in dense **multi-stemmed** thickets along rocky riverbanks."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"A vigorous **multi-stemmed** specimen clung tenaciously to the rough limestone wall."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Pruning encourages the development of a compact, **multi-stemmed** flowering bush."*

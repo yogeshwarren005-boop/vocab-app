@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multi-seeded
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having many seeds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having many seeds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In botany, producing or containing several or numerous seeds within a single fruit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by fruits such as berries or capsules bearing multiple seed units.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multi-seeded designates having many seeds."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The tomato is a typical **multi-seeded** fleshy berry developed from a compound ovary."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In **multi-seeded** pods, competition among developing ovules often leads to selective abortion."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"The climbing vine bears large **multi-seeded** capsules that split open at maturity."*

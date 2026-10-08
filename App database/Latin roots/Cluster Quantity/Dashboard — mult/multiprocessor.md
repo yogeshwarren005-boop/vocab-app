@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multiprocessor
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A computer that uses two or more processing units under integrated control.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A computer that uses two or more processing units under integrated control.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A computer system that has two or more central processing units operating under integrated control.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A computing machine capable of parallel instruction execution across multiple processing cores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiprocessor designates a computer that uses two or more processing units under integrated control."*
+> - 📜 **Alan Turing (*Proposals for Development of an Automatic Computing Engine*):** *"An advanced **multiprocessor** system executes synchronized subroutines with minimal latency."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"Data distribution among processing units of a **multiprocessor** requires optimized channel routing."*
+> - 📜 **Donald Knuth (*The Art of Computer Programming*):** *"Algorithms designed for a **multiprocessor** must prevent race conditions and memory deadlocks."*

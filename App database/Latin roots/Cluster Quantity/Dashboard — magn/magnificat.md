@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magnificat
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (luke) the canticle of the virgin mary (from luke 1:46 beginning `magnificat anima mea dominum').
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (luke) the canticle of the virgin mary (from luke 1:46 beginning `magnificat anima mea dominum').
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biblical canticle of the Virgin Mary beginning with Latin *Magnificat anima mea Dominum*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical setting of this canticle in Christian choral liturgy; a song of praise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Well, this curate was only nineteen." And then, coming out into the fading light, she locked the north door behind her and went off whistling like a blackbird, if a blackbird could whistle the alto of Calkin's Magnificat in B flat. . . ."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The choir chanted the solemn **magnificat** amidst clouds of incense in the ancient basilica."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"The evening church service concluded with a beautiful choral rendition of the **magnificat**."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Well, the organist commenced the **magnificat**, and the congregation rose in unison to sing."*

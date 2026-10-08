@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magnifier
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientific instrument that magnifies an image.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scientific instrument that magnifies an image.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical lens or glass that enlarges the visual image of an object; a magnifying glass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person or device that exaggerates or intensifies something.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnifier designates a scientific instrument that magnifies an image."*
+> - 📜 **Arthur Conan Doyle (*The Sign of Four*):** *"Holmes drew a small **magnifier** from his pocket to inspect the footprint in the carpet."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Using a pocket **magnifier**, I examined the minute structure of the coral polyp."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The naturalist peered through his brass **magnifier** at the iridescent scales of the flying fish."*

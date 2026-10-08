@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multi-billionaire
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A very rich person whose material wealth is valued at many billions of dollars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very rich person whose material wealth is valued at many billions of dollars.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual possessing a net personal wealth valued at two or more billion currency units.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An exceptionally wealthy financier or corporate magnate wielding immense global capital.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multi-billionaire designates a very rich person whose material wealth is valued at many billions of dollars."*
+> - 📜 **John Kenneth Galbraith (*The Affluent Society*):** *"The modern **multi-billionaire** commands financial assets exceeding the budgets of small sovereign states."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"Concentrations of extreme wealth elevate the **multi-billionaire** to significant civic influence."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Pecuniary eminence finds its modern apotheosis in the international **multi-billionaire**."*

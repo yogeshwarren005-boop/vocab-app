@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multistoried
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having more than one story.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having more than one story.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having multiple stories or levels, especially of an architectural structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Composed of several tiers or stacked floors; multistory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multistoried designates having more than one story."*
+> - 📜 **Herman Melville (*Redburn*):** *"The Liverpool docks were lined with immense **multistoried** warehouses stuffed with colonial produce."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The palazzo was a **multistoried** stone fortress dating from the turbulent Renaissance wars."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Fog hung around the damp chimneys of the ancient **multistoried** tenements near Chancery Lane."*

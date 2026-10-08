@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # demagnetisation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of removing magnetization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of removing magnetization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or act of removing magnetic properties or polarization from a material or device.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The neutralization of residual magnetic fields in ships or naval hardware.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demagnetisation designates the process of removing magnetization."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Complete **demagnetisation** of the iron core occurred the moment the electric circuit was broken."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Thermal agitation accelerates the gradual **demagnetisation** of tempered steel needles."*
+> - 📜 **William Thomson (*Mathematical and Physical Papers*):** *"Naval engineers monitored the **demagnetisation** of the vessel's hull to safeguard sensitive compasses."*

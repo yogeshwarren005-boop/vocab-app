@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multiethnic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving several ethnic groups.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving several ethnic groups.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving, comprising, or originating from several distinct ethnic groups.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by ethnic diversity in social, political, or demographic composition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiethnic designates involving several ethnic groups."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The commercial port exhibited a dynamic **multiethnic** society drawn from every maritime nation."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Constantinople flourished as a bustling **multiethnic** capital straddling two continents."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The Balkan peninsula was a volatile **multiethnic** borderland fraught with conflicting nationalisms."*

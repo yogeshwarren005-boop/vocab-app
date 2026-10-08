@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magnificently
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely well.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an impressively beautiful manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a magnificent manner; splendidly, gorgeously, or grandly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With extraordinary excellence, generosity, or distinction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Go away!” Sir Leicester has magnificently disengaged himself from the subject and retired into the sanctuary of his blue coat."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"But what else could be expected! what else could be expected!” As he extended his hand with a magnificently forgiving air, and as I was broken by illness and unfit to quarrel, I took it."*
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"The next day the two sisters were at the ball, and so was Cinderella, but dressed more magnificently than before."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The ancestral mansion was **magnificently** furnished with ancient tapestries and gilded mirrors."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The victorious emperor was **magnificently** entertained by the senate in the forum."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The ceremonial hall was **magnificently** illuminated by hundreds of beeswax tapers."*

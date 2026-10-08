@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multidimensional
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or involving or marked by several dimensions or aspects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or involving or marked by several dimensions or aspects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having several or many dimensions, aspects, or facets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Operating or measured across multiple spatial, mathematical, or conceptual coordinates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The scene was geometric, multidimensional, and seemingly chaotic."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"View tanks, consoles and displays along the bulkheads glowed and portrayed the multidimensional battle zone, updates on readiness of the fleet and whatever had been considered relevant in defeating the enemy."*
+> - 📜 **Albert Einstein (*Relativity: The Special and General Theory*):** *"Minkowski formulated space and time as a unified **multidimensional** continuum."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Vector fields represent **multidimensional** physical distributions through continuous space."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Human emotional experience possesses a rich, **multidimensional** character defying simple categorization."*

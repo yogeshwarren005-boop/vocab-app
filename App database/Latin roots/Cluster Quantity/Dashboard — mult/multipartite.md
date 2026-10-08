@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multipartite
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving more than two parties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving more than two parties.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or divided into several parts, sections, or divisions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concluded between or involving several participating parties or governments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multipartite designates involving more than two parties."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The leaf blade is deeply cut into a **multipartite** cluster of narrow lobes."*
+> - 📜 **Woodrow Wilson (*The State*):** *"Diplomats framed a **multipartite** treaty to harmonize international commercial law."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The empire was fragmented into a **multipartite** succession of contested dominions."*

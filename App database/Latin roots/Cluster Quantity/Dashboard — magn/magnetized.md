@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magnetized
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make magnetic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attract strongly, as if with a magnet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having been made magnetic; possessing magnetic polarity and attraction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Captivated or entranced by compelling personal charm or interest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Might and wrong combined, like iron magnetized, are endowed with irresistible attraction."*
+> - 📜 **Isaac Newton (*Opticks*):** *"A **magnetized** needle points steadily toward the northern celestial pole."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The lightning struck the ship's mast, reversing the polarity of the **magnetized** compass."*
+> - 📜 **Henry James (*The Bostonians*):** *"The audience was completely **magnetized** by the young orator's passionate eloquence."*

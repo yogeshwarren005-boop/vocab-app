@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multipotent
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to many things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to many things.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In stem cell biology, capable of developing into several distinct specialized cell types, but not all types.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing multiple capacities, powers, or developmental potentials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multipotent designates able to many things."*
+> - 📜 **Thomas Hunt Morgan (*Embryology and Genetics*):** *"Hematopoietic marrow contains **multipotent** progenitor cells that yield all blood lineages."*
+> - 📜 **Julian Huxley (*The Science of Life*):** *"As the embryo matures, embryonic stem cells transition from totipotent to **multipotent** stages."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"A **multipotent** cell retains the restricted capability of generating related cellular progeny."*

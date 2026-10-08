@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multiflora
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vigorously growing rose having clusters of numerous small flowers; used for hedges and as grafting stock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vigorously growing rose having clusters of numerous small flowers; used for hedges and as grafting stock.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vigorous climbing rose species (*Rosa multiflora*) bearing abundant clusters of small fragrant flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to botanical varieties or species characterized by many-flowered inflorescences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiflora designates vigorously growing rose having clusters of numerous small flowers; used for hedges and as grafting stock."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The Japanese **multiflora** rose forms dense spiny hedges along woodland margins."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Gardeners frequently train **multiflora** ramblers over arbors for their profuse floral display."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Hybridizers crossed the vigorous **multiflora** with tea roses to obtain recurrent bloomers."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multi-valued
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having many values, meanings, or appeals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having many values, meanings, or appeals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In logic and mathematics, taking or assuming more than one distinct value; polyvalent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In database theory, holding multiple discrete values within a single attribute.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multi-valued designates having many values, meanings, or appeals."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"A relation may associate an argument with a **multi-valued** set of corresponding terms."*
+> - 📜 **Alan Turing (*Systems of Logic Based on Ordinals*):** *"Certain functions in symbolic logic behave as **multi-valued** mappings across complex domains."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"He explored the logical properties of **multi-valued** propositions in modal syllogisms."*

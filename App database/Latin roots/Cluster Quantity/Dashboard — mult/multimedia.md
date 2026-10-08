@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mult]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # multimedia
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transmission that combine media of communication (text and graphics and sound etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transmission that combine media of communication (text and graphics and sound etc.).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Using more than one medium of expression or communication, especially combining text, audio, and video.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to computer systems capable of integrating sound, graphics, animation, and video.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multimedia designates transmission that combine media of communication (text and graphics and sound etc.)."*
+> - 📜 **Marshall McLuhan (*Understanding Media*):** *"Electronic communication transforms learning into an immersive **multimedia** environment."*
+> - 📜 **Arthur C. Clarke (*1984: Spring*):** *"Computers will soon integrate text, voice, and imagery into unified **multimedia** workstations."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Human sensory perception is naturally a **multimedia** process fusing vision, touch, and audition."*

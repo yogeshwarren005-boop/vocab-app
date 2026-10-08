@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — magn]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # magnetite
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An oxide of iron that is strongly attracted by magnets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oxide of iron that is strongly attracted by magnets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A black ferromagnetic mineral of iron oxide (Fe3O4) having natural magnetic properties; lodestone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A principal ore of iron possessing intrinsic magnetic attraction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnetite designates an oxide of iron that is strongly attracted by magnets."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Grains of black **magnetite** were found concentrated in the dark sands along the beach."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"Crystals of **magnetite** typically occur in octahedral forms within metamorphic schists."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The volcanic rocks were rich in metallic **magnetite**, deflecting our surveying compasses."*

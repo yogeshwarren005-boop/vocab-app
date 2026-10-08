@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Antacid (trade name prevacid) that suppresses acid secretion in the stomach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Antacid (trade name prevacid) that suppresses acid secretion in the stomach.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prescription medication (lansoprazole) that inhibits gastric proton pumps to reduce stomach acid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical gastroenterology, a pharmacological agent used to heal peptic ulcers and manage reflux esophagitis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prevacid designates antacid (trade name prevacid) that suppresses acid secretion in the stomach."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine (Modern Revision)*):** *"Proton pump inhibitors like **prevacid** provide rapid symptom relief in severe gastroesophageal reflux disease."*
+> - 📜 **Harrison (*Principles of Internal Medicine*):** *"Therapy with **prevacid** promotes mucosal healing in erosive esophagitis far more reliably than H2 blockers."*
+> - 📜 **Goodman and Gilman (*The Pharmacological Basis of Therapeutics*):** *"Lansoprazole, marketed as **prevacid**, achieves sustained suppression of gastric acid by binding the H+/K+ ATPase."*

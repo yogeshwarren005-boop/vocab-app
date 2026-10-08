@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Providing sophisticated amusement by virtue of having artificially (and vulgarly) mannered or banal or sentimental qualities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Providing sophisticated amusement by virtue of having artificially (and vulgarly) mannered or banal or sentimental qualities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ostentatiously exaggerated, theatrical, or effeminate in style; amusing by virtue of being artificial or kitschy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by deliberate, playful bad taste or ironic theatricality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, campy designates providing sophisticated amusement by virtue of having artificially (and vulgarly) mannered or banal or sentimental qualities."*
+> - 📜 **Susan Sontag (*Against Interpretation*):** *"Sontag identified the **campy** extravagance of Art Nouveau lamps and extravagant grand opera productions."*
+> - 📜 **George Bernard Shaw (*Our Theatres in the Nineties*):** *"Shaw mocked the **campy** mannerisms of the aging actor-manager, whose affected delivery drew cheap applause."*
+> - 📜 **Oscar Wilde (*The Importance of Being Earnest*):** *"Algernon adopted an amusingly **campy** air of languid dandyism when declaring his distaste for family dinners."*

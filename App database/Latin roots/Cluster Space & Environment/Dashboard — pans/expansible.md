@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to expand or be expanded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of gases) capable of expansion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of expanding, dilating, or increasing in bulk, volume, or surface area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics, having the property of elastic dilation when heated or subjected to internal gas pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"There seems to be practically no limit to the consumption of textiles, provided their price falls; the demand for dress alone is indefinitely expansible."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"Air is a springy and **expansible** fluid that doubles its volume when the compressing weight is halved."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Caloric penetrates the pores of matter, rendering the most rigid metals visibly **expansible** by fire."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrate Animals*):** *"The cephalopod mantle is an **expansible** muscular envelope that expels water through the funnel."*

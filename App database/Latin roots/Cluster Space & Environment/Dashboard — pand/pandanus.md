@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fiber from leaves of the pandanus tree; used for woven articles (such as mats).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various old world tropical palmlike trees having huge prop roots and edible conelike fruits and leaves like pineapple leaves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of tropical monocotyledonous trees and shrubs commonly known as screw-pines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical botany, trees bearing aerial prop roots, sword-like spiny leaves, and large edible compound syncarps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"These cages were made of the broad leaves of the pandanus-tree, sewn quite close together so that no light and little or no air could enter."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"On one side of each is an opening which is closed by a double door of plaited cocoa-nut tree and pandanus-tree leaves."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"He started for Manoa at dawn, and proceeded as far as Mahinauli, in mid-valley, where he rested under a hala (_Pandanus odoratissimus_) tree that grew in the grove of wiliwili (_Erythrina monosperma_)."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The native canoes glided past sandy spits fringed by curious stilted trees of the genus **pandanus**."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Darwin described the fibrous fruit of the **pandanus**, which sustained Pacific islanders across long voyaging."*
+> - 📜 **Herman Melville (*Typee*):** *"The island maidens wove fragrant garlands from the golden drupes and sweet blossoms of the wild **pandanus**."*

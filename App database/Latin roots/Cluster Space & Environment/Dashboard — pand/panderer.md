@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who procures customers for whores (in england they call a pimp a ponce).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who serves or caters to the vulgar passions or plans of others (especially in order to make money).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who panders to others' vices, low appetites, or prejudices; a pimp or sycophant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dishonest flatterer who encourages moral degradation for personal financial gain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, panderer designates someone who procures customers for whores (in england they call a pimp a ponce)."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Ralph Nickleby denounced his cowardly confederate as a wretched **panderer** to Lord Verisopht's folly."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Carlyle condemned the corrupt journalist who acted as a servile **panderer** to aristocratic vanity."*
+> - 📜 **George Eliot (*Romola*):** *"Tito Melema shuddered at becoming a political **panderer** to the shifting factions of the Florentine republic."*

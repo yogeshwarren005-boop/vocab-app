@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a bell or campana.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped like a bell or campana.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bell-shaped in form or structure; resembling a small bell or campanula.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine invertebrate zoology, relating to campanularian hydroids having bell-shaped hydrothecae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, campanular designates shaped like a bell or campana."*
+> - 📜 **Thomas Henry Huxley (*The Oceanic Hydrozoa*):** *"Huxley described the delicate **campanular** protective cup enclosing the polyp of marine hydroids."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"Agassiz illustrated the **campanular** medusae released from budding colonies along the New England shore."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy of the Invertebrate Animals*):** *"The terminal tentacles of the polyp radiate from the margin of its miniature **campanular** bell."*

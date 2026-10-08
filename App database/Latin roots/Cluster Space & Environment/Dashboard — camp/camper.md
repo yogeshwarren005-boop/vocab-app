@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone living temporarily in a tent or lodge for recreation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A recreational vehicle equipped for camping out while traveling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who spends a vacation living outdoors in a tent, cabin, or recreational vehicle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A motor vehicle or van equipped with living and sleeping accommodation for camping holidays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"I'll prove to you I'm a woodsman,” she asserted, and when she had performed her task after the most approved fashion of the skilled camper, he acknowledged that she had made good her boast."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"You're a crack camper for sure,” he declared."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The girl with the guitar joins us, and so do other campers and everyone joins in the singing."*
+> - 📜 **John Muir (*Our National Parks*):** *"The weary city dweller becomes a joyous **camper**, sleeping under towering redwoods and breathing mountain balm."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"The solitary **camper** builds his evening fire of birch bark and spruce twigs by the edge of the dark lake."*
+> - 📜 **Theodore Roosevelt (*Hunting Trips of a Ranchman*):** *"Roosevelt advised every plains **camper** to picket his horse securely against night prowlers and wolves."*

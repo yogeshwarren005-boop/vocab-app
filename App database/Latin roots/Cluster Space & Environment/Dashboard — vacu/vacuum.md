@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The absence of matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An empty area or space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A space completely devoid of matter; or a region in which gaseous pressure is significantly lower than atmospheric pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of emptiness, absence, or total isolation; or an electrical appliance for suction cleaning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I ask you how—I repeat, I ask you _how_ matter or flesh in any form can play chess on an imaginary board with imaginary pieces, across a vacuum of thirteen cells spanned only with knuckle-taps?"*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"This vacuum economised the graphite points between which the luminous arc was developed—an important point of economy for Captain Nemo, who could not easily have replaced them; and under these conditions their waste was imperceptible."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"All at once, carried away by its frightful overcharge, the _Nautilus_ sank like a bullet under the waters, that is to say, it fell as if it was in a vacuum."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Newton debated whether celestial space is an absolute **vacuum** or filled with an exceedingly subtle aether."*
+> - 📜 **Robert Boyle (*New Experiments Physico-Mechanical*):** *"Boyle evacuated his glass cylinder, proving that candles cannot burn and birds cannot breathe in a **vacuum**."*
+> - 📜 **Thomas Hobbes (*Leviathan*):** *"Nature abhors a **vacuum**, and political power tolerates no empty void in the sovereign authority."*

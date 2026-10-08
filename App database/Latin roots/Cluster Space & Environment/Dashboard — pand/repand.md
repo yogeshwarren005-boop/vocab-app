@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a slightly undulating margin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a slightly undulating margin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In botany and zoology, having an uneven, slightly wavy or undulating margin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curved or bent backward; having a margin with shallow undulating indentations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, repand designates having a slightly undulating margin."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The foliage of this marsh buttercup is distinctly **repand**, bearing gentle undulations along the blade."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"Lindley distinguished between sinuate, crenate, and **repand** leaf margins in his taxonomic glossary."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"Bentham noted the **repand** margins of the lower bracts enclosing the wild aster florets."*

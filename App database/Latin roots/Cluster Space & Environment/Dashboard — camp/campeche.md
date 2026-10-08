@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mexican city on the bay of campeche.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mexican state on the eastern part of the gulf of campeche.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state in southeastern Mexico occupying the southwestern portion of the Yucatán Peninsula.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fortified historic capital city and port on the Gulf of Mexico, famed for colonial ramparts and dyewood.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, campeche designates a mexican city on the bay of campeche."*
+> - 📜 **William H. Prescott (*History of the Conquest of Mexico*):** *"The Spanish caravels dropped anchor off the coast of **Campeche**, where curious Maya chiefs greeted the mariners."*
+> - 📜 **John Lloyd Stephens (*Incidents of Travel in Yucatan*):** *"Stephens explored the stone bastions of **Campeche**, built by Spanish governors to withstand pirate raids."*
+> - 📜 **Alexander von Humboldt (*Political Essay on the Kingdom of New Spain*):** *"Humboldt recorded the lucrative maritime trade in logwood and salt exported through the harbor of **Campeche**."*

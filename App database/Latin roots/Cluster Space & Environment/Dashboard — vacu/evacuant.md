@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strongly laxative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strongly laxative.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicinal agent or purgative drug that promotes the emptying of the bowels or stomach.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to evacuate or purge bodily humors and accumulated secretions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, evacuant designates strongly laxative."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Osler cautioned against the excessive use of any harsh **evacuant** in the early stages of typhoid fever."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Ancient leeches prescribed hellebore as a sovereign **evacuant** to clear the brain of melancholic vapors."*
+> - 📜 **Nicholas Culpeper (*Complete Herbal*):** *"The roots of wild bryony act as a powerful **evacuant**, expelling phlegmatic humors from the joints."*

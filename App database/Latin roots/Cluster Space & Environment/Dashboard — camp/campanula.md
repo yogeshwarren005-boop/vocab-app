@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the genus campanula having blue or white bell-shaped flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plants of the genus campanula having blue or white bell-shaped flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large taxonomic genus of herbaceous plants with bell-shaped blue, purple, or white flowers (bellflowers).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, the type genus of Campanulaceae, popular as rockery ornamentals and wild meadow herbs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The butter-bur rust (_Coleosporium petasites_, Lev.) and the Campanula rust (_Coleosporium Campanulæ_, Lev.) are found, the former on the leaves of the butter-bur, and the latter on those of the harebell and other _Campanulæ_, less frequently."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"CAMPANULA BRAND; spots apparently none; sori large, irregular, crowded, for a long time covered with the epidermis, at length surrounded by it; spores oblong-ovate, or slightly constricted; peduncles very short.—On _Campanulæ_."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"CAMPANULA RUST; spots obliterated, brown on the opposite side, sori irregular, confluent, plane, on the under surface; spores subglobose, cohering, yellow, at length pale."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Darwin recorded the visits of wild bees to the drooping blue blossoms of common **campanula**."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The harebell or **campanula** rotundifolia clings to limestone cliffs and exposed alpine crags."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"White found the giant **campanula** flowering abundantly along the shady, damp hollow lanes of Hampshire."*

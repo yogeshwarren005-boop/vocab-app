@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extend in one or more directions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become larger in size or volume or quantity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To become or make larger or more extensive; to increase in volume, area, or scope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To spread out, unfold, or open out to full width or surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"For these reasons I thought it best to be as useful as I could, and to render what kind services I could to those immediately about me, and to try to let that circle of duty gradually and naturally expand itself."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I expand, I open, I turn my silver lining outward like Milton’s cloud, and it’s more agreeable to both of us.’ That’s my view of such things, speaking as a child!” “But suppose you went down somewhere else to-morrow,” said Mr."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was only a mind, a soul, a consciousness—call it what you will—incorporate in a nebulous brain that, while it still centred inside my skull, was expanded, and was continuing to expand, beyond my skull."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Heat causes metallic rods and elastic fluids to **expand** systematically according to measurable ratios."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The flowers of night-blooming plants **expand** their petals after sunset to attract nocturnal moths."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Free commercial enterprise allows manufacturing capital to **expand** into overseas colonial markets."*

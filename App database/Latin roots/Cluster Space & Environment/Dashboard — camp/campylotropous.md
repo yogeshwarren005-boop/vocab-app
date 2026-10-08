@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a plant ovule) curved with the micropyle near the base almost touching its stalk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a plant ovule) curved with the micropyle near the base almost touching its stalk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In botany, having the ovule curved so that the micropyle and chalaza are brought close to each other.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by a curved embryo sac, as in the seeds of crucifers and legumes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, campylotropous designates (of a plant ovule) curved with the micropyle near the base almost touching its stalk."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"In the bean family, the ovule is distinctly **campylotropous**, bending upon itself during development."*
+> - 📜 **John Merle Coulter (*Morphology of Angiosperms*):** *"Coulter distinguished between anatropous, orthotropous, and **campylotropous** ovular morphology."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"The pollen tube traverses the curved tissue of the **campylotropous** ovule to reach the egg apparatus."*

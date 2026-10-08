@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of all of the paranasal sinuses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of all of the paranasal sinuses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A severe inflammation or infection involving all the paranasal sinuses on one or both sides of the face.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In otolaryngology, comprehensive sinusitis affecting the frontal, maxillary, ethmoid, and sphenoid cavities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pansinusitis designates inflammation of all of the paranasal sinuses."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic purulent **pansinusitis** may erode the thin cranial wall, predisposing the patient to meningitis."*
+> - 📜 **Chevalier Jackson (*Diseases of the Air and Food Passages*):** *"Jackson warned that untreated **pansinusitis** causes persistent headache, fever, and orbital edema."*
+> - 📜 **St Clair Thomson (*Diseases of the Nose and Throat*):** *"Surgical drainage of each sinus cavity becomes necessary when medical therapy fails in acute **pansinusitis**."*

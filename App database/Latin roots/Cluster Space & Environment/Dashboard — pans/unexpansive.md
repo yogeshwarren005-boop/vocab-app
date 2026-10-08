@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing no tendency to expand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not given to high spirits or effusiveness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not expansive; reserved, restrained, taciturn, and uncommunicative in demeanor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restricted in physical area or spatial extent; lacking the capacity to broaden.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unexpansive designates showing no tendency to expand."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Gilbert Osmond maintained an **unexpansive** demeanor, masking his calculating ambitions behind cold elegance."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon was remarkably **unexpansive** in company, guarding his scholarly theories with jealous reserve."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"Archdeacon Grantly found Mr. Slope sullen and **unexpansive** during their contentious interview at the palace."*

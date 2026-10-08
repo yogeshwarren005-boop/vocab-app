@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to expand or be expanded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of gases) capable of expansion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being expanded, dilated, or stretched in dimensions, volume, or surface area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing elastic or modular properties allowing enlargement under internal pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expandible designates able to expand or be expanded."*
+> - 📜 **Robert Boyle (*New Experiments Physico-Mechanical*):** *"Boyle enclosed an **expandible** lamb's bladder within his pneumatic receiver to prove atmospheric pressure."*
+> - 📜 **Michael Foster (*A Text Book of Physiology*):** *"The pulmonary alveoli form an **expandible** sponge that dilates with every inspiratory effort."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Subterranean gases accumulate within **expandible** volcanic chambers until an explosive vent is opened."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cow-cockles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cow-cockles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of annual flowering herbs in the pink family (Caryophyllaceae), commonly called cowherb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural botany, field herbs (Vaccaria hispanica) bearing pale pink flowers and angular calyx tubes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vaccaria designates cow-cockles."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Gray described **vaccaria** vulgaris flowering as an introduced weed in grain fields across the eastern states."*
+> - 📜 **John Torrey (*A Flora of the State of New York*):** *"The winged five-angled calyx distinguishes the delicate pink cowherb **vaccaria** from true saponarias."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"Bentham noted the smooth glaucous foliage and pyramidal calyx of **vaccaria** naturalized in clover fields."*

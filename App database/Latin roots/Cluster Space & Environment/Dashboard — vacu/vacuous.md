@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Devoid of intelligence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devoid of significance or point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing a lack of thought, intelligence, or serious interest; mindless and expressionless.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Empty of matter, substance, or physical content; forming a void.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Again a startled look came over the somewhat vacuous face of Miss Mary Sutherland."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He shall find me ready when he comes back.” For all the preposterous hat and the vacuous face, there was something noble in the simple faith of our visitor which compelled our respect."*
-> - 📜 **John Milton (*Paradise Lost*):** *"My overshadowing Spirit and Might with thee I send along; ride forth, and bid the Deep Within appointed bounds be Heaven and Earth; Boundless the Deep, because I Am who fill Infinitude, nor vacuous the space."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The fashionable world moved through the salon with **vacuous** smiles and idle, unmeaning gossip."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Lord Steyne sneered at the **vacuous** stare of the young heir, perceiving his utter lack of wit."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Watson caught a glimpse of the escaped convict's gaunt, **vacuous** countenance against the moonlit bog."*

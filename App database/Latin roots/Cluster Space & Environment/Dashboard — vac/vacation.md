@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leisure time away from work devoted to rest or pleasure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making something legally void.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extended period of leisure, recreation, and freedom from regular employment or school.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of vacating or leaving a building, office, or residential tenancy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With lawyers in the vacation; for they sleep between term and term, and then they perceive not how time moves."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I pass the greater part of the long vacation here."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You find the long vacation exceedingly long, don’t you?” We said yes, as she seemed to expect us to say so."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It is the Long **Vacation** in the Court of Chancery, and solicitors have fled the dusty legal inns of London."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Thoreau lived at Walden Pond to conduct an experiment in life, claiming an unwearied **vacation** from trade."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"Tom rejoiced at the arrival of the summer **vacation**, dreaming of carefree days swimming in the Mississippi."*

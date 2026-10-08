@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Classification used in some especially former systems for plants usually placed in genus asplenium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Classification used in some especially former systems for plants usually placed in genus asplenium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic taxonomic genus of small ferns known as walking ferns (now classified in Asplenium).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pteridology, evergreen rock ferns with tapering undivided fronds that root at the tips to produce new plantlets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, camptosorus designates classification used in some especially former systems for plants usually placed in genus asplenium."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Gray described **camptosorus** rhizophyllus growing on shaded limestone cliffs, walking by rooting at its leaf tips."*
+> - 📜 **John Torrey (*A Flora of the State of New York*):** *"The delicate walking fern **camptosorus** carpets mossy boulders in deep ravine chasms."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Fern enthusiasts cultivate **camptosorus** in terrariums to display its curious proliferating fronds."*

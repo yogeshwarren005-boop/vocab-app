@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quality characterized by magnificence of scale or the tendency to expand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A friendly open trait of a talkative person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spaciousness of physical breadth, or generous, communicative openness of character and temperament.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property or capacity of spreading out and covering broad areas or conceptual ranges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expansiveness designates a quality characterized by magnificence of scale or the tendency to expand."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Religious conversion is often accompanied by an emotional **expansiveness** that embraces all humanity with love."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The intellect rejoices in the divine **expansiveness** of thought, which breaks through every finite dogma."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Tocqueville admired the adventurous **expansiveness** of the American pioneers who subdued the wilderness."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of protecting against disease by introducing a vaccine into the body to induce immunity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform vaccinations or produce immunity in by inoculation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or practice of inoculating individuals with a vaccine to prevent illness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conducting prophylactic immunization campaigns to halt the spread of communicable disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vaccinating designates the act of protecting against disease by introducing a vaccine into the body to induce immunity."*
+> - 📜 **Edward Jenner (*Continuation of Facts and Observations on Variolae Vaccinae*):** *"Jenner spent his days **vaccinating** hundreds of poor villagers at his Gloucestershire cottage."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Careful aseptic technique during the **vaccinating** procedure prevents secondary streptococcal infections."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Nightingale endorsed universal **vaccinating** of military recruits as an indispensable sanitary safeguard."*

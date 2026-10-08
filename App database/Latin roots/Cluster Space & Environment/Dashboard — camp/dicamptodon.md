@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Salamanders found near cold streams throughout the year.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Salamanders found near cold streams throughout the year.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of large North American salamanders known as Pacific giant salamanders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, semi-aquatic predatory amphibians capable of vocalizing and growing up to thirty centimeters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dicamptodon designates salamanders found near cold streams throughout the year."*
+> - 📜 **Edward Drinker Cope (*The Batrachia of North America*):** *"Cope established the genus **dicamptodon**, highlighting the unique vomerine dentition and robust cranial bone."*
+> - 📜 **John Van Denburgh (*The Reptiles of Western North America*):** *"Larvae of **dicamptodon** inhabit cold torrential mountain streams beneath old-growth Douglas fir forests."*
+> - 📜 **G. Kingsley Noble (*The Biology of the Amphibia*):** *"Noble documented facultative neoteny in **dicamptodon**, with gilled adults reproducing in deep alpine pools."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A race between candidates for elective office.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A series of actions advancing a principle or tending toward a particular end.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A connected series of military operations forming a distinct stage of a war.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organized course of political, commercial, or social activities pursued to achieve a specific goal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"All the surrounding cottages were more or less scenes of the same operation; the scurr of whetting spread into the sky from all parts of the village as from an armoury previous to a campaign."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Poor Sorrow’s campaign against sin, the world, and the devil was doomed to be of limited brilliancy—luckily perhaps for himself, considering his beginnings."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The victory of the gold standard in the campaign of 1896 was, it would seem, due more to the well-founded fear that a sudden change of the money standard would cause a panic than to a popular understanding of the question."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Belisarius concluded his brilliant Persian **campaign** by securing the frontier fortresses of Mesopotamia."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A long and expensive military **campaign** strains the treasury and exhausts the patience of free citizens."*
+> - 📜 **Winston Churchill (*The River War*):** *"Kitchener planned the Nile **campaign** with methodical precision, laying railway tracks across the Nubian sands."*

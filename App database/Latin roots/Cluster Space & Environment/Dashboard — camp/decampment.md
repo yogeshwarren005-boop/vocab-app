@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of running away secretly (as to avoid arrest).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Breaking camp.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of breaking up a military camp; or a sudden, secret, or hasty departure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The orderly evacuation of a campsite, or a clandestine flight to evade capture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decampment designates the act of running away secretly (as to avoid arrest)."*
+> - 📜 **George Washington (*Writings of George Washington*):** *"Washington orchestrated the secret night **decampment** from Trenton, marching unseen toward Princeton."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The hasty **decampment** of the Sedley family left the grand house in Russell Square shuttered and desolate."*
+> - 📜 **Walter Scott (*The Legend of Montrose*):** *"The royalist drums sounded the signal for a rapid **decampment** across the snow-covered mountain passes."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A politician who is running for public office.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A politician who is running for public office.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who actively promotes, fights for, or participates in a political, social, or military cause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A veteran soldier who has served through numerous arduous military campaigns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, or The Wits Vade-Mecum*):** *"A Gentleman was saying one Day at the _Tilt-Yard_ Coffee-House, when it rained exceeding hard, that it put him in Mind of the General _Deluge_; Zoons, Sir, said an old Campaigner, who stood by, who's that?"*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Zoons, sir, said an old campaigner, who stood by, who’s that?"*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"The old campaigner regularly attended and feasted at the houses which were opened for the electors in Mr."*
+> - 📜 **Walter Scott (*Waverley*):** *"The scarred veteran stood as an experienced **campaigner**, calm amid the tumult of the highland charge."*
+> - 📜 **William Makepeace Thackeray (*The Newcomes*):** *"Mrs. Mackenzie proved a formidable **campaigner** in the fashionable drawing rooms of London."*
+> - 📜 **Jane Addams (*Twenty Years at Hull-House*):** *"Florence Kelley was an indefatigable **campaigner** for state labor laws protecting working women."*

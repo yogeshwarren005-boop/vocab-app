@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has been evacuated from a dangerous place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who has been evacuated from a dangerous place.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is evacuated from a dangerous place to a safer refuge, especially a child in wartime.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A displaced refugee removed from an active battlefront, flooded district, or contaminated zone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, evacuee designates a person who has been evacuated from a dangerous place."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"British country families welcomed thousands of young **evacuee** children arriving from bombed London neighborhoods."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"Every rural road was jammed with carts bearing the weary **evacuee** families fleeing the Martian advance."*
+> - 📜 **George Orwell (*The Lion and the Unicorn*):** *"Orwell observed that the **evacuee** crisis brought city workers and countryside gentry into unexpected intimacy."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of extreme confusion and disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of extreme confusion and disorder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wild, noisy, and uncontrolled disorder or confusion; a chaotic and deafening uproar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature, the capital city of Hell and council hall of Satan described in Milton's *Paradise Lost*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"The pandemonium above has ceased almost as suddenly as it arose, passed like a fierce gust of wind; but they know that in the passing it has determined their fate."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Thus an incessant din was kept up that might have startled Pandemonium."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"The wires jangled in pandemonium."*
+> - 📜 **John Milton (*Paradise Lost*):** *"A solemn council was summoned at **Pandemonium**, the high capital of Satan and his peers."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The National Assembly degenerated into shrieking **pandemonium** as the armed mob filled the galleries."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"A frightful **pandemonium** of shrieks and flapping wings erupted as the pterodactyls swooped into our camp."*

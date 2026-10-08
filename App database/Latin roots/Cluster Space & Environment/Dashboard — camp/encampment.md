@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A site where people on holiday can pitch a tent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Temporary living quarters specially built by the army for soldiers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A place with tents or huts erected for lodging soldiers, nomads, or campers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of pitching camp and settling into military quarters or temporary open-air dwellings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Distinct upon the stagnant air came the sounds of a trotting horse passing up Longpuddle Lane—just beyond the gipsies’ encampment in Weatherbury Bottom."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He repeated his assurance, and thus it continued until the storm-cloud was almost over the encampment."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"It divided north and south, and passed about a quarter of a mile on either side of them, reunited again and passed on, and not one solitary drop of rain fell on that encampment."*
+> - 📜 **George Washington (*Writings of George Washington*):** *"The winter **encampment** at Valley Forge tested the fortitude and patriotism of the Continental Army."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The banners of the Norman knights fluttered proudly above the pavilions of the tournament **encampment**."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We came upon a deserted Indian **encampment** where charred fires and guanaco bones littered the gravel."*

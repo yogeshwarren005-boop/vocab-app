@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of taking a vacation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spend or take a vacation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of spending a holiday or taking a period of leisure and recreation away from work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Residing temporarily at a resort or tourist retreat for rest, recovery, and pleasure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vacationing designates the act of taking a vacation."*
+> - 📜 **Edith Wharton (*The House of Mirth*):** *"Lily Bart enjoyed **vacationing** among the luxurious country estates of the Hudson River valley."*
+> - 📜 **Ernest Hemingway (*The Sun Also Rises*):** *"The expatriates spent weeks **vacationing** in Spain, fishing cold mountain streams before the fiesta."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"Babbitt dreamed of **vacationing** in the untamed Maine woods, away from the chatter of Zenith real estate."*

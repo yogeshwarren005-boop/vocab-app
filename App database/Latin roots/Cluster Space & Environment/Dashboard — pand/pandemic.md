@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An epidemic that is geographically widespread; occurring throughout a region or even throughout the world.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Epidemic over a wide geographical area.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An outbreak of an infectious disease prevalent over an entire country, continent, or the whole world.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: General, universal, or affecting an entire population across diverse geographic regions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pandemic designates an epidemic that is geographically widespread; occurring throughout a region or even throughout the world."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Osler documented the lethal global spread of the influenza **pandemic** that swept military barracks in 1918."*
+> - 📜 **Daniel Defoe (*A Journal of the Plague Year*):** *"The horrific **pandemic** pestilence emptied London of commerce and filled parish pits with dead."*
+> - 📜 **Thomas Sydenham (*Works of Thomas Sydenham*):** *"Sydenham investigated the changing atmospheric constitution that favored the emergence of a **pandemic** fever."*

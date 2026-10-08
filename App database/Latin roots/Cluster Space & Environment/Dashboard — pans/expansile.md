@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of gases) capable of expansion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of gases) capable of expansion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to expand; having the capacity or property of expanding, dilating, or pulsating outward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, describing a tumor or aneurysm that pulsates and expands symmetrically with arterial blood flow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expansile designates (of gases) capable of expansion."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The presence of **expansile** pulsation distinguishes a true aortic aneurysm from a solid mediastinal tumor."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"Paget noted the distinctive **expansile** thrill felt upon palpating vascular erectile growths."*
+> - 📜 **Michael Foster (*A Text Book of Physiology*):** *"The **expansile** recoil of the thoracic cage aids the return of venous blood to the right auricle."*

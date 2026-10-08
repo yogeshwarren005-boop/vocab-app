@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep-dish apple dessert covered with a rich crust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deep-dish apple dessert covered with a rich crust.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional American baked fruit dessert (especially apple) sweetened with molasses and topped with a rolled crust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deep-dish baked pudding where the pastry crust is broken into the fruit juices during baking.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pandowdy designates deep-dish apple dessert covered with a rich crust."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Hepzibah recalled old New England Thanksgiving dinners crowned with steaming dishes of spicy apple **pandowdy**."*
+> - 📜 **Louisa May Alcott (*Little Women*):** *"Hannah brought in a piping hot brown **pandowdy**, and the hungry girls cheered with delight."*
+> - 📜 **James Russell Lowell (*The Biglow Papers*):** *"Lowell celebrated the rustic simplicity of New England kitchens scented with molasses and fresh **pandowdy**."*

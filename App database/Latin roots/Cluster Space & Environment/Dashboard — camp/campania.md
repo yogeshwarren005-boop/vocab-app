@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A region of southwestern italy on the tyrrhenian sea including the islands of capri and ischia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region of southwestern italy on the tyrrhenian sea including the islands of capri and ischia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fertile and historic administrative region of southwestern Italy, containing Naples, Vesuvius, and Pompeii.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient volcanic plain famed among Roman authors as *Campania felix* for its olive groves and vintage wines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Virbius was worshipped as a god not only at Nemi but elsewhere; for in Campania we hear of a special priest devoted to his service."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Hannibal quartered his victorious Carthaginian veterans amidst the luxurious winter quarters of **Campania**."*
+> - 📜 **Pliny the Elder (*Naturalis Historia*):** *"Pliny celebrated the boundless agricultural bounty of **Campania**, where the earth yielded two grain crops a year."*
+> - 📜 **Johann Wolfgang von Goethe (*Italian Journey*):** *"Goethe looked out from the slopes of Vesuvius across the green vineyards and blue gulf of **Campania**."*

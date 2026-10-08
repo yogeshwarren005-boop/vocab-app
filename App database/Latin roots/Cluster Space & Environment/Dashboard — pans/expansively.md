@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impressively expansive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ebullient manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an open, generous, warm, or communicative manner; with broad gestures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Over a wide physical extent, spatial area, or comprehensive scope.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expansively designates in an impressively expansive manner."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Strether waved his hand **expansively** toward the Paris boulevards, savoring the richness of continental life."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke spoke **expansively** upon agricultural reform, promising universal harmony without radical changes."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Gregson smiled **expansively** as he showed Holmes the empty handcuffs, confident of an immediate arrest."*

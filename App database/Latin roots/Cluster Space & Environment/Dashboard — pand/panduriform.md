@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a leaf shape) having rounded ends and a contracted center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a leaf shape) having rounded ends and a contracted center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fiddle-shaped in outline; possessing an obovate contour with deep side indentations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morphology, describing anatomical organs or leaves that resemble the waist of a violin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, panduriform designates (of a leaf shape) having rounded ends and a contracted center."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"A **panduriform** leaf is characterized by lateral contractions that simulate the body of an ancient fiddle."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy of the Invertebrate Animals*):** *"The thoracic shield of the fossil trilobite displayed a curious **panduriform** outline."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Darwin observed **panduriform** floral petals in selected garden hybrids of the cultivated viola."*

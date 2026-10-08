@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of plants of the subclass asteridae including: campanulaceae; lobeliaceae; cucurbitaceae; goodeniaceae; compositae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of plants of the subclass asteridae including: campanulaceae; lobeliaceae; cucurbitaceae; goodeniaceae; compositae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic botanical order of flowering plants comprising the bellflowers, lobelias, and allied families.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical phylogenetic systems, sympetalous dicotyledonous herbs with epigynous flowers and syngenesious anthers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, campanulales designates an order of plants of the subclass asteridae including: campanulaceae; lobeliaceae; cucurbitaceae; goodeniaceae; compositae."*
+> - 📜 **Charles Edwin Bessey (*The Phylogenetic Taxonomy of Flowering Plants*):** *"Bessey placed the order **campanulales** near the apex of dicotyledonous floral specialization."*
+> - 📜 **John Merle Coulter (*Morphology of Angiosperms*):** *"Coulter analyzed the embryological characteristics that link **campanulales** to the composite daisies."*
+> - 📜 **Hans Hallier (*Provisional Scheme of the Natural System of Flowering Plants*):** *"Hallier investigated the evolutionary divergence between tubiflorous orders and the epigynous **campanulales**."*

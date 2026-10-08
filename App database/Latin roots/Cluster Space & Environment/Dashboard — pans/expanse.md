@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wide scope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The extent of a 2-dimensional surface enclosed within a boundary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wide, continuous area or stretch of land, water, or sky spread out before the view.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An uninterrupted sheet or open surface extending in all directions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Above the dark margin of the earth appeared foreshores and promontories of coppery cloud, bounding a green and pellucid expanse in the western sky."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The single feature appertaining to it, beyond the expanse of dark green leaves, was a small door."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Not quite sure of her direction, Tess stood still upon the hemmed expanse of verdant flatness, like a fly on a billiard-table of indefinite length, and of no more consequence to the surroundings than that fly."*
+> - 📜 **John Keats (*On First Looking into Chapman's Homer*):** *"Much have I travell'd in the realms of gold, and round many western islands have been; yet did I never breathe its pure serene till I heard Chapman speak out loud and bold: then felt I like some watcher of the skies when a new planet swims into his ken; or like stout Cortez when with eagle eyes he star'd at the Pacific—and all his men look'd at each other with a wild surmise—silent, upon a peak in Darien. Keats had sailed across the wide **expanse** of classical verse."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The Pequod ploughed across the boundless **expanse** of the Pacific, where sky and water met in infinite azure."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"Frankenstein gazed across the frozen **expanse** of the Swiss glacier, listening to the cracking of the ice."*

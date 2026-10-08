@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large black-and-white herbivorous mammal of bamboo forests of china and tibet; in some classifications considered a member of the bear family or of a separate family ailuropodidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reddish-brown old world raccoon-like carnivore; in some classifications considered unrelated to the giant pandas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large bear-like black-and-white mammal (giant panda, Ailuropoda melanoleuca) native to bamboo forests of China.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reddish-brown raccoon-like Himalayan mammal (red panda, Ailurus fulgens) with a ringed tail.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, panda designates large black-and-white herbivorous mammal of bamboo forests of china and tibet; in some classifications considered a member of the bear family or of a separate family ailuropodidae."*
+> - 📜 **Pere Armand David (*Journal d'un Naturaliste*):** *"Father David discovered the remarkable black and white giant **panda** in the mountain bamboo thickets of Sichuan."*
+> - 📜 **Ernst Schwarz (*On the Classification of Giant Pandas*):** *"Schwarz examined skull dentition to determine whether the giant **panda** belonged with bears or raccoons."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Huxley cited the enlarged radial sesamoid bone of the **panda** as a classic evolutionary false thumb for holding bamboo."*

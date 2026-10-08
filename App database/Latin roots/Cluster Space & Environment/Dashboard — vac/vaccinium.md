@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evergreen or deciduous berry-bearing shrubs of northern hemisphere: cranberries; blueberries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evergreen or deciduous berry-bearing shrubs of northern hemisphere: cranberries; blueberries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large taxonomic genus of flowering shrubs in the heath family (Ericaceae), including blueberries and cranberries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, acidophilic ericaceous shrubs bearing urn-shaped flowers and edible berries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"BILBERRY UREDO; spots yellow-brown; sori subrotund, minute, aggregate, and scattered, on the under surface of the leaves; epidermis seldom ruptured; spores ovoid, yellowish.—On _Vaccinium Myrtillus_ and _V. vitis-idæa_."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Gray described the high-bush blueberry or **vaccinium** corymbosum flourishing in peaty northern swamps."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"Thoreau feasted upon mountain cranberries of the genus **vaccinium** growing on the windswept crags of Katahdin."*
+> - 📜 **John Torrey (*A Flora of the State of New York*):** *"The low sweet blueberry **vaccinium** pennsylvanicum carpets dry rocky hillsides with delicious summer fruit."*

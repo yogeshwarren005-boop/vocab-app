@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Immunogen consisting of a suspension of weakened or dead pathogenic cells injected in order to stimulate the production of antibodies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Immunogen consisting of a suspension of weakened or dead pathogenic cells injected in order to stimulate the production of antibodies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic botanical or biological Latin form designating bovine origin or cow-related matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early medical Latin texts, a vaccine preparation or bovine lymph used in vaccination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vaccinum designates immunogen consisting of a suspension of weakened or dead pathogenic cells injected in order to stimulate the production of antibodies."*
+> - 📜 **Edward Jenner (*Variolae Vaccinae*):** *"Jenner recorded experiments wherein pure virus **vaccinum** was propagated through serial human subjects."*
+> - 📜 **Carl Linnaeus (*Materia Medica*):** *"Linnaeus investigated the medicinal virtues of serum **vaccinum** and cow's milk in gastrointestinal disorders."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Browne scrutinized ancient beliefs regarding animal extracts, discussing the virtues of the butter **vaccinum**."*

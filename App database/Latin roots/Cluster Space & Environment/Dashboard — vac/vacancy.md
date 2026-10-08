@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being unoccupied.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An empty area or space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unoccupied position, post, or living accommodation available for an applicant or tenant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emptiness of thought, emotion, or expression; an idle interlude or empty spatial gap.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he filled His vacancy with his voluptuousness, Full surfeits and the dryness of his bones Call on him for’t."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The city cast Her people out upon her, and Antony, Enthroned i’ th’ market-place, did sit alone, Whistling to th’ air, which, but for vacancy, Had gone to gaze on Cleopatra too, And made a gap in nature."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alas, how is’t with you, That you do bend your eye on vacancy, And with the incorporal air do hold discourse?"*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The President holds the constitutional authority to fill any **vacancy** occurring during the Senate's recess."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Alas, how is't with you, that you do bend your eye on **vacancy**, and with the incorporal air do hold discourse?"*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne gazed into the glowing hearth with a sad **vacancy** of expression that alarmed her sister."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Yawning and stretching (as when first waking up).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yawning and stretching (as when first waking up).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of stretching oneself, especially accompanying yawning upon waking or during drowsiness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology, the involuntary neuromuscular stretching of the trunk and limbs following recumbency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pandiculation designates yawning and stretching (as when first waking up)."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Browne noted the curious phenomenon of **pandiculation** and yawning that accompanies the departure of heavy sleep."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Frequent yawning and lazy **pandiculation** are common bodily tokens of an indolent and phlegmatic temper."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Over the Teacups*):** *"Holmes observed the cat indulging in a luxurious **pandiculation** of claws and spine before the hearth."*

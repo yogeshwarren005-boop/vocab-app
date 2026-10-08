@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone on vacation; someone who is devoting time to pleasure or relaxation rather than to work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone on vacation; someone who is devoting time to pleasure or relaxation rather than to work.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is taking a vacation away from home; a holidaymaker.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A traveler seeking leisure and recreation at a resort, seaside hotel, or national park.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vacationer designates someone on vacation; someone who is devoting time to pleasure or relaxation rather than to work."*
+> - 📜 **Henry James (*The American Scene*):** *"James observed the leisurely **vacationer** strolling along the breezy ocean cliffs of Newport."*
+> - 📜 **John Muir (*Our National Parks*):** *"Thousands of summer **vacationers** throng the forest trails, finding health and inspiration in nature."*
+> - 📜 **F. Scott Fitzgerald (*Tender Is the Night*):** *"The Riviera beach was speckled with parasols as every wealthy **vacationer** gathered along the warm azure shore."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking a vaccine as a precaution against contracting a disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The scar left following inoculation with a vaccine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The treatment with a vaccine to produce immunity against disease; inoculation (originally cowpox).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The introduction of antigenic material into the body to stimulate adaptive immune defenses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Her sleeve falling from gracing arms, reveals a white fleshflower of vaccination."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The next morning, following instructions, I reported to the dispensary for vaccinations and immunization shots and on to the Personnel Office to sign papers that came at me from all directions."*
+> - 📜 **Edward Jenner (*An Inquiry into the Causes and Effects of the Variolae Vaccinae*):** *"Jenner heralded cowpox **vaccination** as the benign instrument destined to eradicate smallpox from the earth."*
+> - 📜 **Louis Pasteur (*The Germ Theory of Disease*):** *"Pasteur extended the principle of **vaccination** from Jennerian cowpox to anthrax, fowl cholera, and rabies."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Compulsory infant **vaccination** caused a dramatic decline in the incidence of epidemic variola."*

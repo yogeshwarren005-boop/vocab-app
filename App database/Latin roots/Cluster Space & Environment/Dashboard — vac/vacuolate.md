@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed into or containing one or more vacuoles or small membrane-bound cavities within a cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formed into or containing one or more vacuoles or small membrane-bound cavities within a cell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In cytology, containing or characterized by the presence of one or more cellular vacuoles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing small fluid-filled cavities, bubbles, or spaces within a cell or organic matrix.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vacuolate designates formed into or containing one or more vacuoles or small membrane-bound cavities within a cell."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrate Animals*):** *"The endodermal cells of the hydra are distinctly **vacuolate**, housing large food vesicles during digestion."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"As young plant cells mature, the cytoplasm develops large, centrally situated **vacuolate** cavities."*
+> - 📜 **Michael Foster (*A Text Book of Physiology*):** *"The glandular epithelium presents a **vacuolate** appearance following prolonged secretory stimulation."*

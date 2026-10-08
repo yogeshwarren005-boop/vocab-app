@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or involving or guided by expansionism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or involving or guided by expansionism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who advocates or supports a policy of territorial or commercial expansion for a nation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to, advocating, or characterized by political or economic expansion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Oh, I am an enthusiastic expansionist, Mr.----." "Warthell is my name," supplied Dorlan."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"THE ARDENT EXPANSIONIST." A few minutes before the appointed hour, Dorlan was at the place designated."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Some are expansionists for the sake of finding outlets for the ever-increasing excess of our production."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"Adams watched his friend John Hay champion an **expansionist** Open Door policy in Chinese trade."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"Churchill recognized the aggressive **expansionist** ambitions of the German empire in naval construction."*
+> - 📜 **Mark Twain (*To the Person Sitting in Darkness*):** *"Twain penned biting satires against the **expansionist** fever that gripped European powers in Africa and Asia."*

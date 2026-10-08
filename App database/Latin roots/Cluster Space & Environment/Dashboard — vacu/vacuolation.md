@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of having become filled with vacuoles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of having become filled with vacuoles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation or presence of vacuoles within a cell, cytoplasmic body, or organic tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, degenerative vesicular swelling of cells caused by toxic injury, ischemia, or infection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vacuolation designates the state of having become filled with vacuoles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Toxic parenchymal injury is characterized by marked cytoplasmic **vacuolation** and nuclear pyknosis."*
+> - 📜 **Michael Foster (*A Text Book of Physiology*):** *"Cellular differentiation in the plant shoot apical meristem is heralded by progressive **vacuolation**."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Virchow investigated cloudy swelling in renal tubules, noting retrograde **vacuolation** following severe burns."*

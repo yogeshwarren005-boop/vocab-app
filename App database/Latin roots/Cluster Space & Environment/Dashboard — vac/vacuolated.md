@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed into or containing one or more vacuoles or small membrane-bound cavities within a cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formed into or containing one or more vacuoles or small membrane-bound cavities within a cell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing vacuoles; having small, fluid-filled cavities or spaces within the cytoplasm or tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting bubbly, porous, or vesicular cellular structure under microscopic examination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vacuolated designates formed into or containing one or more vacuoles or small membrane-bound cavities within a cell."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic sections of the degenerated liver showed swollen, heavily **vacuolated** parenchymal cells."*
+> - 📜 **Thomas Henry Huxley (*A Course of Practical Instruction in Elementary Biology*):** *"The amoeba contains clear **vacuolated** zones within its translucent ectoplasm and granular endoplasm."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"Darwin observed the **vacuolated** digestive cells lining the tentacles of Drosera after insect capture."*

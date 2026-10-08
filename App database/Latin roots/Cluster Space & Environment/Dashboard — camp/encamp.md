@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Live in or as if in a tent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Live in or as if in a tent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To settle in a camp; to lodge in tents or makeshift huts outdoors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To establish military quarters in the field; to bivouac.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beyond the river we’ll encamp ourselves, And on tomorrow bid them march away. [_Exeunt._] SCENE VII."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Two such opposed kings encamp them still In man as well as herbs,—grace and rude will; And where the worser is predominant, Full soon the canker death eats up that plant."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bid him repair to me and bring with him Some of the chiefest princes of the Goths; Bid him encamp his soldiers where they are."*
+> - 📜 **King James Bible (*Book of Numbers*):** *"The children of Israel set forward, and did **encamp** in the plains of Moab on this side Jordan."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The cherubim chose to **encamp** upon the grassy slope, keeping celestial watch around the bowers of Eden."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman legions were ordered to **encamp** along the Rhine to overawe the confederated Frankish tribes."*

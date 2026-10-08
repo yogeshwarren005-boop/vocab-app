@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of fields or open country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of fields or open country.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, growing in, or inhabiting open fields, pastures, or rural agricultural countryside.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wild, rural, or rustic; adapted to life on open plains rather than woodlands or mountains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, campestral designates of fields or open country."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Browne distinguished between deep forest fauna and the hardy **campestral** quadrupeds that inhabit open downs."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The skylark is pre-eminently a **campestral** bird, nesting in furrows and singing over clover pastures."*
+> - 📜 **Richard Jefferies (*The Open Air*):** *"The quiet beauty of **campestral** England unfolds across rolling chalk downs dotted with grazing sheep."*

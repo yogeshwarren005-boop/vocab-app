@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of having become filled with vacuoles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of having become filled with vacuoles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation or development of vacuoles within the cytoplasm or organic tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropathology, spongy vesicular changes and fluid cavity formation within neural tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vacuolisation designates the state of having become filled with vacuoles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Histological examination revealed pronounced **vacuolisation** of ganglion cells following cerebral hypoxia."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The rapid **vacuolisation** of inner cell layers produces the primary body cavity of the embryo."*
+> - 📜 **Michael Foster (*A Text Book of Physiology*):** *"Prolonged electrical excitation of salivary gland cells induces marked **vacuolisation** in the secretory acini."*

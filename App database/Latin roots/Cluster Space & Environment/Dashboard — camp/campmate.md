@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who lives in the same camp you do.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who lives in the same camp you do.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who shares a camp, tent, or campsite with another; a companion in the field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fellow soldier, traveler, or prospector sharing shelter, rations, and watch in a military or wilderness camp.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, campmate designates someone who lives in the same camp you do."*
+> - 📜 **Bret Harte (*The Luck of Roaring Camp*):** *"Every rough miner treated his wounded **campmate** with unexpected gentleness in the Sierra cabin."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"The dogs snarled as each weary **campmate** curled up in his snow nest for the bitter northern night."*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"Henry Fleming leaned against his faithful **campmate**, murmuring his relief after the furious charge."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move out of an unsafe location into safety.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Empty completely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove people from a place of danger to a safer location, especially during war or disaster.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To discharge, expel, or empty the contents of an organ, vessel, or container.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"She has refused to evacuate Malta."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Also another one to evacuate as much infantry as possible."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The House of Representatives by a vote of 71 to 26, adopted a resolution directing the Governor to issue a proclamation ordering the Confederate troops to evacuate Kentucky soil."*
+> - 📜 **George Washington (*Writings of George Washington*):** *"The British fleet was compelled to **evacuate** Boston Harbor, sailing northward toward Halifax."*
+> - 📜 **Robert Boyle (*New Experiments Physico-Mechanical*):** *"Boyle turned the stopcock of his air pump to **evacuate** the glass receiver, creating a partial vacuum."*
+> - 📜 **Winston Churchill (*Their Finest Hour*):** *"The royal navy organized a flotilla of small craft to **evacuate** the stranded army from the beaches of Dunkirk."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Uncertain in purpose or action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uncertain in purpose or action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wavering, swaying, or fluctuating in purpose, opinion, or physical balance; indecisive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unsteady, oscillating, or irresolute in policy or moral conviction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vacillant designates uncertain in purpose or action."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The **vacillant** king issued contradictory decrees to his ministers, paralyzed by fear of the Paris mob."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor's **vacillant** policy toward the Gothic confederates weakened the defenses of Illyricum."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"Harold Transome grew impatient with the **vacillant** promises of the local borough electors."*

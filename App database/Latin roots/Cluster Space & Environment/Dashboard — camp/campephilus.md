@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of picidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of picidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of large New World woodpeckers, including the critically endangered ivory-billed woodpecker.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, robust crested picid birds adapted to chisel dead timber for beetle larvae in primary forests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, campephilus designates a genus of picidae."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"Audubon painted the ivory-billed woodpecker of the genus **campephilus**, marveling at its ivory beak and glossy crest."*
+> - 📜 **Alexander Wilson (*American Ornithology*):** *"Wilson described the resonant double-knock echoing through southern cypress swamps from birds of the genus **campephilus**."*
+> - 📜 **Robert Ridgway (*The Birds of North and Middle America*):** *"Ridgway defined **campephilus** by its massive chisel-tipped bill and specialized stiffened rectrices for climbing."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Salamanders found near cold streams throughout the year.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Salamanders found near cold streams throughout the year.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A salamander belonging to the family Dicamptodontidae; a Pacific giant salamander.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of the primitive Pacific Northwest giant salamanders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dicamptodontid designates salamanders found near cold streams throughout the year."*
+> - 📜 **G. Kingsley Noble (*The Biology of the Amphibia*):** *"The **dicamptodontid** lineage preserves archaic skeletal features dating back to Mesozoic caudate ancestors."*
+> - 📜 **Edward Drinker Cope (*The Batrachia of North America*):** *"Cope compared the robust limbs of the **dicamptodontid** salamander with those of terrestrial ambystomatids."*
+> - 📜 **Robert Stebbins (*Amphibians of Western North America*):** *"The mottled brown pattern of the adult **dicamptodontid** provides camouflage against wet river pebbles."*

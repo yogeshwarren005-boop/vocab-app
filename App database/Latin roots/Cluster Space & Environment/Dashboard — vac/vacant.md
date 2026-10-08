@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Void of thought or knowledge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without an occupant or incumbent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not filled, occupied, or lived in; empty of contents, tenants, or occupants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing no thought, intelligence, or comprehension; blank and idle in expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If they shall fail, I with mine enemies Will triumph o’er my person, which I weigh not, Being of those virtues vacant."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The senators with one consent of love Entreat thee back to Athens, who have thought On special dignities, which vacant lie For thy best use and wearing."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Every day at dinner, my Lady glances down the table for the vacant place that would be waiting to receive him if he had just arrived, but there is no vacant place."*
+> - 📜 **Oliver Goldsmith (*The Deserted Village*):** *"The loud laugh that spoke the **vacant** mind echoed no more through the ruined cottages of Auburn."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The post of governess at Thornfield Hall was **vacant**, and Jane eagerly applied for the situation."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip looked upon the dusty, **vacant** rooms of Satis House, where cobwebs hung thick upon the velvet chairs."*

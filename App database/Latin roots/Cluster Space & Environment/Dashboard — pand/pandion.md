@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the pandionidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the pandionidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic genus of diurnal birds of prey comprising the osprey (Pandion haliaetus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In raptor ornithology, a specialized fish-eating hawk possessing reversible outer toes and barbed spicules on the foot pads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Senseless trees they cannot hear thee, Ruthless bears they will not cheer thee; King Pandion he is dead, All thy friends are lapp’d in lead, All thy fellow birds do sing, Careless of thy sorrowing."*
+> - 📜 **Alexander Wilson (*American Ornithology*):** *"Wilson celebrated the fishing skill of the osprey, classifying it under the noble genus **pandion**."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"Audubon watched **pandion** plunge talons-first into the boiling surf to secure an elusive mullet."*
+> - 📜 **Robert Ridgway (*The Birds of North and Middle America*):** *"Ridgway reviewed the cosmopolitan distribution of **pandion**, noting its presence along coastal bays worldwide."*

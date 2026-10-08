@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a bell or campana.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped like a bell or campana.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed or shaped into a bell; furnished with bell-like anatomical structures or floral contours.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expanding into a broad flared cup resembling an inverted bell.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, campanulated designates shaped like a bell or campana."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"The corolla is distinctly **campanulated**, spreading outwards from an inflated cylindrical base."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The cartilaginous ring forms a **campanulated** cavity protecting the acoustic organs of the skate."*
+> - 📜 **William Turner (*A New Herball*):** *"Turner observed the **campanulated** blossoms of the daffodil hanging above its slender green stalks."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not vaccinated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not vaccinated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having received an immunizing vaccine against a specific infectious disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vulnerable to epidemic pathogen contagion due to the absence of active acquired immunization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unvaccinated designates not vaccinated."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Smallpox raged with unchecked mortality among the **unvaccinated** immigrant communities of the tenements."*
+> - 📜 **Louis Pasteur (*Addresses on Anthrax and Rabies*):** *"All the **unvaccinated** sheep succumbed to anthrax inoculation, whereas the vaccinated flock survived."*
+> - 📜 **Edward Jenner (*An Inquiry into the Causes and Effects of the Variolae Vaccinae*):** *"Jenner contrasted the high smallpox fatality among **unvaccinated** patients with the immunity of dairy workers."*

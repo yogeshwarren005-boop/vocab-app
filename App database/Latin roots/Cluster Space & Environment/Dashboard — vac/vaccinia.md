@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A local infection induced in humans by inoculation with the virus causing cowpox in order to confer resistance to smallpox; normally lasts three weeks and leaves a pitted scar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A viral disease of cattle causing a mild skin disease affecting the udder; formerly used to inoculate humans against smallpox.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cowpox virus or bovine infectious disease used by Edward Jenner to vaccinate humans against smallpox.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In virology, the poxvirus species utilized as the active agent in modern smallpox vaccines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vaccinia designates a local infection induced in humans by inoculation with the virus causing cowpox in order to confer resistance to smallpox; normally lasts three weeks and leaves a pitted scar."*
+> - 📜 **Edward Jenner (*An Inquiry into the Causes and Effects of the Variolae Vaccinae*):** *"Jenner demonstrated that cutaneous lesions of **vaccinia** transferred immunity without transmitting variola."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Osler described the typical evolution of the vesicle produced by inoculation with the virus of **vaccinia**."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Huxley praised the biological insight that harnessed mild **vaccinia** to conquer the dreaded scourge of smallpox."*

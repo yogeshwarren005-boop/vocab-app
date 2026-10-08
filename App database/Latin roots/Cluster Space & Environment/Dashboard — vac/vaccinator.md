@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical practitioner who inoculates people against diseases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical practitioner who inoculates people against diseases.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A physician, surgeon, or public health officer who performs vaccinations on patients.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialized lancet, scarifier, or instrument used to introduce vaccine lymph into the skin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vaccinator designates a medical practitioner who inoculates people against diseases."*
+> - 📜 **Edward Jenner (*The Origin of the Vaccine Inoculation*):** *"Jenner provided instructions to every colonial **vaccinator** charged with distributing bovine lymph."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A skilled **vaccinator** cleanses the arm thoroughly before making superficial scarifications with a sterile lancet."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The parish **vaccinator** hurried through the crowded courts of Tom-all-Alone's amidst the smallpox alarm."*

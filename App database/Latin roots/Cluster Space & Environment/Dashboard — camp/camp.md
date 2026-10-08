@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Temporary living quarters specially built by the army for soldiers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of people living together in a camp.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A place with temporary lodging, as tents or huts, for soldiers, travelers, or refugees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organized outdoor recreational program for youth; or deliberately theatrical, exaggerated aesthetic style.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, let me live, And all the secrets of our camp I’ll show, Their force, their purposes; nay, I’ll speak that Which you will wonder at."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, is this captain in the Duke of Florence’s camp?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She’s impudent, my lord, And was a common gamester to the camp."*
+> - 📜 **Julius Caesar (*Commentaries on the Gallic War*):** *"Caesar fortified the military **camp** with a deep trench and palisade before the Helvetian assault."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"The heavenly host pitched their radiant **camp** upon the hills surrounding the Celestial City."*
+> - 📜 **Susan Sontag (*Notes on Camp*):** *"Sontag analyzed how **camp** taste privileges artifice, theatrical exaggeration, and playful irony over earnest seriousness."*

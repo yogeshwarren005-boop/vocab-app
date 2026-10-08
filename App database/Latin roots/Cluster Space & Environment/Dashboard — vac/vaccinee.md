@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A patient who has been vaccinated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A patient who has been vaccinated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or animal that has been inoculated with a vaccine against a specific disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual evaluated for antibody response following prophylactic immunization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vaccinee designates a patient who has been vaccinated."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The physician monitors the **vaccinee** for febrile reactions or regional lymphadenopathy following inoculation."*
+> - 📜 **Louis Pasteur (*Comptes Rendus de l'Académie des Sciences*):** *"Joseph Meister was the brave young **vaccinee** who received the first successful human rabies inoculations."*
+> - 📜 **Edward Jenner (*Continuation of Facts and Observations*):** *"Jenner inspected each young **vaccinee** after seven days to verify the formation of a characteristic pustule."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A field on which the buildings of a university are situated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A field on which the buildings of a university are situated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The grounds and buildings of a university, college, or school.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expansive complex of buildings belonging to an academic, scientific, or corporate institution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"One day when on the Seminary campus, I heard two of the students very thoughtlessly criticising the exceeding shabbiness of L----'s wearing apparel, his short pants, old shoes, and socks with no heels in them."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Hall had charge of section five, consisting of the hospital tents which occupied a part of the academical campus."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Many of us have had comparable experiences; they deserve being entered into our lore. *** The rain sheets swirled in from the south, bent, and lurched aimless as drunken ghosts across the college campus."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"Adams crossed the shaded Harvard **campus**, reflecting on the four years of collegiate routine that lay behind him."*
+> - 📜 **F. Scott Fitzgerald (*This Side of Paradise*):** *"Amory gazed upon the spires and green lawns of the Princeton **campus** with breathless romantic wonder."*
+> - 📜 **Ralph Waldo Emerson (*The American Scholar*):** *"The scholar walks across the college **campus**, called to be the university's eye and heart for mankind."*

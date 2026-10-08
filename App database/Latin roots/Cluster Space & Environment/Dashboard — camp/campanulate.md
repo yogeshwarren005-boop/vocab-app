@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a bell or campana.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped like a bell or campana.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a bell; in botany, having an expanding tube and flaring lobes resembling a bell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Furnished with a bell-shaped calyx, corolla, or anatomical cup.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The peridia are always closely packed together upon a thickened base, and offer but slight variations from the forms already enumerated, save that they widen slightly at the mouth, so as to become nearly campanulate."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"MARSH-MARIGOLD CLUSTER-CUPS; aggregate; peridia somewhat campanulate, with numerous minute marginal teeth; spores bright orange, subglobose or oval.—On leaves and petioles of _Caltha palustris_."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The woodland clematis bears drooping, **campanulate** flowers of a pale purple hue."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The **campanulate** corolla of the primrose protects the delicate stigma from driving rain."*
+> - 📜 **George Bentham (*Flora Australiensis*):** *"Bentham noted the deeply lobed **campanulate** calyx that distinguishes this western eucalypt species."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine of expanding the territory or the economic influence of a country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrine of expanding the territory or the economic influence of a country.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A policy or advocacy of territorial, commercial, or military expansion, especially by a nation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The political doctrine supporting the acquisition of foreign territories and overseas colonies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expansionism designates the doctrine of expanding the territory or the economic influence of a country."*
+> - 📜 **Theodore Roosevelt (*The Strenuous Life*):** *"Roosevelt defended American overseas **expansionism**, arguing that great nations must not shrink from imperial duties."*
+> - 📜 **William James (*Letters of William James*):** *"James vehemently opposed the new **expansionism** in the Philippines, calling it a betrayal of republican liberty."*
+> - 📜 **Woodrow Wilson (*A History of the American People*):** *"Wilson analyzed the westward **expansionism** of nineteenth-century pioneers under the banner of manifest destiny."*

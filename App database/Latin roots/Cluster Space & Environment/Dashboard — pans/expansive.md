@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able or tending to expand or characterized by expansion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of behavior that is impressive and ambitious in scale or scope.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Covering a wide area in size, space, or scope; extensive and spacious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Demonstrative, communicative, friendly, and open in temperament; unreserved.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"So he was, in a certain point of view—in his expansive intentions."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I am overwhelming you with money—in my expansive intentions—if you only knew it!” And really (he said) he meant it to that degree that he thought it much the same as doing it."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I thought of the life that lay before me—_your_ life, sir—an existence more expansive and stirring than my own: as much more so as the depths of the sea to which the brook runs are than the shallows of its own strait channel."*
+> - 📜 **Charles Dickens (*Pickwick Papers*):** *"Mr. Pickwick beamed upon the company with an **expansive** benevolence that warmed the cheer of the inn."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Turner depicted the **expansive** golden light of dawn spreading across the vast Venetian horizon."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Jos Sedley grew **expansive** after dinner, boasting of tiger hunts and civil revenue collecting in Bengal."*

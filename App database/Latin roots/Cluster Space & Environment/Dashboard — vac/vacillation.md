@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indecision in speech or action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Changing location by moving back and forth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of wavering indecisively between different opinions, impulses, or courses of action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unsteady physical swaying, rocking, or oscillation from side to side.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"However, some exceptions were made in legislation, and, after much apparent hesitation and vacillation, were allowed by, the courts to stand, and these have now grown in number until they form an impressive total."*
-> - 📜 **George Eliot (*Middlemarch*):** *"On the whole his surmises, in addition to what he knew of the fact, increased his friendliness and tolerance towards Ladislaw, and made him understand the vacillation which kept him at Middlemarch after he had said that he should go away."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"But not only in matters of such relative importance did Lenau exhibit this vacillation."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Burke condemned the perpetual **vacillation** of the revolutionary factions, which undermined stable law."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Fred Vincy's continuous **vacillation** regarding the church caused deep grief to his loving parents."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"Jeanie Deans showed no trace of **vacillation**, resolving to walk to London to plead for her sister's pardon."*

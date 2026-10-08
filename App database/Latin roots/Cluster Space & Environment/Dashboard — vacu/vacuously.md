@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a vacuous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a vacuous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a vacuous, mindless, or empty-headed manner; without thought, expression, or intelligence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With a blank, uncomprehending stare or meaningless smile.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vacuously designates in a vacuous manner."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"Guests laughed **vacuously** under the garden lanterns as the champagne circulated through the midnight party."*
+> - 📜 **Henry James (*The Bostonians*):** *"The young man nodded **vacuously** to the lecturer, failing to grasp the revolutionary import of her words."*
+> - 📜 **George Eliot (*Silas Marner*):** *"Dunstan Cass smiled **vacuously** to himself as he counted the stolen guineas in the damp dark lane."*

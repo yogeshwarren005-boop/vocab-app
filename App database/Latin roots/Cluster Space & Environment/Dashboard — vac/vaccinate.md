@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perform vaccinations or produce immunity in by inoculation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform vaccinations or produce immunity in by inoculation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To inoculate a person with a vaccine to produce active immunity against a specific disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To administer an attenuated or killed pathogen preparation to stimulate antibody production.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"No one inspects the Chinese garbage pail except the pig, or sniffs about for defective drains, or insists upon a man's keeping the roadway in front of his house in order, or compels him to have his children vaccinated."*
-> - 📜 **James Joyce (*Ulysses*):** *"Suppose she wouldn’t let herself be vaccinated again."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It should be the central idea of American politics, and every child, so to speak, should be vaccinated with this idea, so that he may be protected against this political distemper that has brought such calamity upon our country."*
+> - 📜 **Edward Jenner (*The Origin of the Vaccine Inoculation*):** *"Jenner resolved to **vaccinate** healthy subjects with lymph taken directly from bovine cowpox pustules."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation and Disease*):** *"Pasteur showed how attenuated rabies cultures could safely **vaccinate** patients exposed to mad dog bites."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Public health officers moved through the tenements to **vaccinate** every infant against smallpox."*

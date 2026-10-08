@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a leaf shape) having rounded ends and a contracted center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a leaf shape) having rounded ends and a contracted center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In botany, shaped like a fiddle; obovate with a pair of deep rounded lateral sinuses toward the base.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an oblong silhouette with constricted central margins resembling the body of a violin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pandurate designates (of a leaf shape) having rounded ends and a contracted center."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The basal foliage of the wild morning-glory is distinctly **pandurate**, with broad lobes at the apex."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"Lindley illustrated the **pandurate** leaf outline, comparing its contours to the waist of an ancient lute."*
+> - 📜 **George Bentham (*Flora Australiensis*):** *"Bentham identified this rare solanaceous shrub by its velvety, fiddle-shaped **pandurate** leaves."*

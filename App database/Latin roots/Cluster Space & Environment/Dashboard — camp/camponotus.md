@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Carpenter ants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carpenter ants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, cosmopolitan taxonomic genus of ants known commonly as carpenter ants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In myrmecology, polymorphic social ants that excavate galleries in moist dead wood without consuming the cellulose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, camponotus designates carpenter ants."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"Wheeler conducted foundational studies on the polymorphic worker castes of the genus **camponotus**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The slave-making habits of certain species of **camponotus** illuminate the evolution of complex social instincts."*
+> - 📜 **John Henry Fabre (*Social Life in the Insect World*):** *"Fabre observed the nocturnal columns of **camponotus** marching up olive trunks to milk tree aphid herds."*

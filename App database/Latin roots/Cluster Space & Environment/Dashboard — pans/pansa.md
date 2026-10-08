@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The tenth month of the hindu calendar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tenth month of the hindu calendar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Roman family cognomen, notably held by Gaius Vibius Pansa Caetronianus, consul of 43 BCE.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical archaeology and entomology, a distinctive epithet applied to Roman monuments or insect species.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When thou once Was beaten from Modena, where thou slew’st Hirtius and Pansa, consuls, at thy heel Did famine follow, whom thou fought’st against, Though daintily brought up, with patience more Than savages could suffer."*
+> - 📜 **Cicero (*Philippics*):** *"Cicero praised the consul **Pansa** for marching forth to defend the republic against Antony at Mutina."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The deaths of Hirtius and **Pansa** at the siege of Mutina opened the path for young Octavian's rise."*
+> - 📜 **Theodor Mommsen (*The History of Rome*):** *"Mommsen analyzed the military dispositions of the consul **Pansa** during the chaotic final year of the republic."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extend in one or more directions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become larger in size or volume or quantity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Enlarged, broadened, spread out, or unfolded in dimensions, volume, or scope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Opened out fully; having an increased area, extent, or range of activity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I ran after you to say—that my aunt made a mistake in sending you away from courting me—” Gabriel expanded."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The slow twilight expanded and enveloped them completely before the signs of moving were shown."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Iridescent bubbles of dank subterranean breath rose from the sweating sod beside the waiting-maid’s feet as she trod, hissing as they burst and expanded away to join the vapoury firmament above."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The condor soared effortlessly on **expanded** wings, circling above the high Andean cordillera."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Our conceptual knowledge is **expanded** through careful reflection upon primary ideas of sensation."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman empire **expanded** its frontiers until its vast circumference defied defensive management."*

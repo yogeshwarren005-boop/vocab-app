@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A folding stool.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A folding stool.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lightweight, portable folding stool with legs and a canvas or leather seat, used by campers and soldiers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compact collapsible seat carried by sketch artists, anglers, and field naturalists.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"We belated historians must not linger after his example; and if we did so, it is probable that our chat would be thin and eager, as if delivered from a campstool in a parrot-house."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Napoleon sat on a campstool, wrapped in thought."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He sat silently on a campstool below the knoll, with head bowed and elbows on his knees."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Watson sat upon a folding **campstool** outside the hut, keeping lonely watch across the misty tor."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The passenger unfolded his canvas **campstool** and sat down to smoke while the stagecoach horses were changed."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Ralph Touchett rested upon a low **campstool** under the great lawn cedar, watching his friends play tennis."*

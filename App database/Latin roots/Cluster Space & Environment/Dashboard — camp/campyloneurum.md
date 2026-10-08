@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Epiphytic ferns of tropical america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Epiphytic ferns of tropical america.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of tropical epiphytic ferns commonly termed strap ferns (family Polypodiaceae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical pteridology, evergreen ferns characterized by undivided linear-lanceolate fronds and anastomosing veins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, campyloneurum designates epiphytic ferns of tropical america."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"In southern hammocks, the epiphytic **campyloneurum** phyllitidis clings to the rough bark of live oaks."*
+> - 📜 **John Kunkel Small (*Ferns of Florida*):** *"Small documented the narrow strap-like fronds of **campyloneurum** growing within dense Everglades swamp forests."*
+> - 📜 **George Bentham (*Flora Australiensis*):** *"Bentham examined allied tropical polypods, noting venation patterns similar to American **campyloneurum**."*

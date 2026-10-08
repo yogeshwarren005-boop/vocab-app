@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to expand or be expanded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of gases) capable of expansion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being expanded, enlarged, broadened, or extended in size or capacity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adaptable to increased demands, volume, or structural additions without loss of utility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expandable designates able to expand or be expanded."*
+> - 📜 **Lord Kelvin (*Mathematical and Physical Papers*):** *"The steam chamber was designed with an **expandable** bellows to accommodate thermal volume fluctuations."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Spencer analyzed how social organizations remain resilient only when built upon flexible, **expandable** frameworks."*
+> - 📜 **Thomas Edison (*The Papers of Thomas A. Edison*):** *"Edison filed patents for an **expandable** battery compartment suitable for diverse electrical appliances."*

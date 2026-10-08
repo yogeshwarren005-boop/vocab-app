@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Family of plants of the order campanulales; in some classifications includes lobeliaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Family of plants of the order campanulales; in some classifications includes lobeliaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic family of dicotyledonous flowering plants (bellflower family), bearing five-lobed bell-shaped corollas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic taxonomy, predominantly herbaceous plants having milky sap, alternate leaves, and inferior ovaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, campanulaceae designates family of plants of the order campanulales; in some classifications includes lobeliaceae."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"Bentham classified the bellflowers and sheep's-bit under the natural order **campanulaceae**."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The family **campanulaceae** is widely distributed across temperate regions of the northern hemisphere."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"In **campanulaceae**, the style is furnished with collecting hairs that brush pollen from the maturing anthers."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus silene.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the genus silene.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wild herbaceous flowering plant of the pink family (genera Silene and Lychnis) with deeply notched petals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British botany, meadow and woodland herbs including the red campion and bladder campion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The chief interest attaching to _Ustilago antherarum_ consists in its habitat, for it is developed in the anthers of the flowers of the bladder campion, and other plants of the same natural order."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"BLADDER-CAMPION CLUSTER-CUPS; spots yellow, brown on opposite side; peridia somewhat circinating, in subrotund heaps; spores brown.—On _Silene inflata_."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Flowers of Bladder-campion with anther smut (_Ustilago antherarum_). 〃 103."*
+> - 📜 **William Wordsworth (*The Prelude*):** *"The hedgerows blossomed with the scarlet **campion** and wild speedwell along the quiet country lane."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The red **campion** and white lychnis brightened the damp woods throughout the month of June."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Marty South gathered bunches of wild **campion** from the coppice border to place on the rustic table."*

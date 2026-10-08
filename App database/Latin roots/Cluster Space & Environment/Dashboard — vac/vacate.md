@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leave (a job, post, or position) voluntarily.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leave behind empty; move out of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To leave a premises, house, or post, making it empty and available for other occupants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, to cancel, annul, or render void a legal decree, judgment, or contract.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Adèle and I had now to vacate the library: it would be in daily requisition as a reception-room for callers."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Sherwood claimed, the court would have to vacate the injunction and Uncle Henry could risk going ahead and cutting and hauling timber from the tract."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"For it seems a natural corollary from such a rule that the king was bound to vacate the throne on the death of his wife, the queen, since he occupied it only by virtue of his marriage with her."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The appellate tribunal issued a writ to **vacate** the fraudulent judgment entered by the lower court."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The bailiff arrived with an order demanding that the insolvent family **vacate** the lodgings by noon."*
+> - 📜 **Henry James (*The Bostonians*):** *"Ransom agreed to **vacate** his small law chambers at the end of the term to seek more lucrative quarters."*

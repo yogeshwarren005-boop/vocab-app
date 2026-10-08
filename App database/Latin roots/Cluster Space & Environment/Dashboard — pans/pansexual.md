@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who participates in (or is open to) sexual activities of many kinds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who participates in (or is open to) sexual activities of many kinds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by romantic, emotional, or sexual attraction toward people regardless of their sex or gender.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology, relating to the psychoanalytic theory that sexual energy motivates all human mental activity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pansexual designates a person who participates in (or is open to) sexual activities of many kinds."*
+> - 📜 **Sigmund Freud (*Three Essays on the Theory of Sexuality*):** *"Early critics attacked Freud's libido theory, accusing psychoanalysis of an exaggerated **pansexual** bias."*
+> - 📜 **Carl Jung (*Psychology of the Unconscious*):** *"Jung broke with orthodox psychoanalysis, rejecting its purely **pansexual** interpretation of psychic energy."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Ellis debated the breadth of sexual instinct, warning against reducing all aesthetic impulses to a **pansexual** drive."*

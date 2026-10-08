@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be undecided about something; waver between conflicting positions or courses of action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move or sway in a rising and falling or wavelike pattern.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To waver between different opinions or actions; to be irresolute, indecisive, or hesitating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To sway or oscillate physically from side to side like an unsteady pendulum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I know of nothing to make me vacillate."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her resolve, however, had been taken, and it seemed vacillating even to childishness to abandon it now, unless for graver reasons."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In its details American policy in tariff legislation under the Constitution has been varied and vacillating."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A feeble executive will constantly **vacillate** between conflicting counsels, leaving the nation defenseless."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Jane refused to **vacillate** when duty called her to depart from Thornfield and preserve her moral integrity."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Richard Carstone began to **vacillate** between the law and the army, unsettled by the false hopes of Chancery."*

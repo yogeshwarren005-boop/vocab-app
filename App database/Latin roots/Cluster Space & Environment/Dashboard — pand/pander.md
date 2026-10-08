@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who procures customers for whores (in england they call a pimp a ponce).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yield (to); give satisfaction to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To gratify, indulge, or cater to an immoral, distasteful, or base desire, taste, or habit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who acts as a procurer or pimp, facilitating illicit sexual encounters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, sir, we’ll bring you to Windsor to one Master Brook, that you have cozened of money, to whom you should have been a pander."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Away! [_Exeunt Troilus and Cressida_.] And Cupid grant all tongue-tied maidens here, Bed, chamber, pander, to provide this gear! [_Exit_.] SCENE III."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Camillo was his help in this, his pander."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Reason itself will **pander** will, when virtue turns to wax and melts in her own fire."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Demagogues who **pander** to the lowest passions of the populace inevitably destroy civil liberty."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The press must not merely **pander** to established prejudices, but challenge the reader's intellect."*

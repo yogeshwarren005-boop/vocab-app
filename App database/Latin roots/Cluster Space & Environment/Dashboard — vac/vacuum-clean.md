@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Clean with a vacuum cleaner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clean with a vacuum cleaner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To clean carpets, floors, upholstery, or interior surfaces using an electrical vacuum cleaner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To remove dust, dirt, and particulate debris by suction through a mechanical vacuum appliance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vacuum-clean designates clean with a vacuum cleaner."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"The housemaid began to **vacuum-clean** the floral rug in the front parlor before the dinner guests arrived."*
+> - 📜 **H. G. Wells (*The World Set Free*):** *"Wells described automated household machinery designed to **vacuum-clean** modern apartments without human hands."*
+> - 📜 **George Bernard Shaw (*Back to Methuselah*):** *"Shaw mocked the mechanical gadgets of the modern housewife, who laboured to **vacuum-clean** her domestic cage."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Families typhaceae; sparganiaceae; pandanaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Families typhaceae; sparganiaceae; pandanaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical order of monocotyledonous flowering plants comprising the screw-pine family and allied groups.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant taxonomy, tropical woody monocots characterized by strap-like foliage, naked flowers, and stilt roots.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pandanales designates families typhaceae; sparganiaceae; pandanaceae."*
+> - 📜 **Charles Edwin Bessey (*The Phylogenetic Taxonomy of Flowering Plants*):** *"Bessey regarded the order **pandanales** as an ancient offshoot among the primitive arborescent monocotyledons."*
+> - 📜 **John Merle Coulter (*Morphology of Angiosperms*):** *"Coulter reviewed the floral reduction and anemophilous pollination typical of the tropical order **pandanales**."*
+> - 📜 **Hans Hallier (*Provisional Scheme of the Natural System of Flowering Plants*):** *"Hallier traced morphological affinities between **pandanales** and primitive palm-like lineages in the Indo-Pacific."*

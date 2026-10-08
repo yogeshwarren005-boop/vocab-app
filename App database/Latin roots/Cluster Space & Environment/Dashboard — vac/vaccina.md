@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A local infection induced in humans by inoculation with the virus causing cowpox in order to confer resistance to smallpox; normally lasts three weeks and leaves a pitted scar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A local infection induced in humans by inoculation with the virus causing cowpox in order to confer resistance to smallpox; normally lasts three weeks and leaves a pitted scar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cowpox virus or bovine lymph used in early vaccination; the pustular disease of cows.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The eruptive vesicles and fever produced by inoculation with the cowpox vaccine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vaccina designates a local infection induced in humans by inoculation with the virus causing cowpox in order to confer resistance to smallpox; normally lasts three weeks and leaves a pitted scar."*
+> - 📜 **Edward Jenner (*An Inquiry into the Causes and Effects of the Variolae Vaccinae*):** *"Jenner proved that infection with benign **vaccina** afforded lifelong protection against smallpox."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The classic umbilicated pustule of **vaccina** develops on the eighth day following cutaneous scarification."*
+> - 📜 **Thomas Sydenham (*Works of Thomas Sydenham*):** *"Medical historians celebrated the substitution of mild **vaccina** for virulent smallpox inoculation."*

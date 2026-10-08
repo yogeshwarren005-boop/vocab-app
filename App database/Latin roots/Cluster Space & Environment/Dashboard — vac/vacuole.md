@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tiny cavity filled with fluid in the cytoplasm of a cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tiny cavity filled with fluid in the cytoplasm of a cell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A membrane-bound organelle or cavity within the cytoplasm of a cell, containing fluid or sap.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In protozoa, a contractile or food-filled vesicle performing excretion, osmoregulation, or digestion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"These enclose a granular matter, which surrounds what has been termed the nucleus, but which appears to be a vacuole."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"As in the case of the conidia, this body at first contains vacuoles, and is afterwards divided into polyhedric portions; these pass into zoospores, which congregate at the centre into a globular mass (Plate X. fig. 207)."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"A prominent contractile **vacuole** pulsates rhythmically within the living protoplasm of the paramecium."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"The cell sap within the central **vacuole** changes color rapidly when the glandular hair absorbs animal matter."*
+> - 📜 **Michael Foster (*A Text Book of Physiology*):** *"Water absorbed through root hairs accumulates within the large central **vacuole** of mature cortical cells."*

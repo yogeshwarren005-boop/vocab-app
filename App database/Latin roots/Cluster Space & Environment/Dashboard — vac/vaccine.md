@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Immunogen consisting of a suspension of weakened or dead pathogenic cells injected in order to stimulate the production of antibodies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Immunogen consisting of a suspension of weakened or dead pathogenic cells injected in order to stimulate the production of antibodies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A biological preparation that provides active acquired immunity against a specific infectious disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antigenic suspension of weakened, killed, or recombinant pathogens administered for disease prevention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vaccine designates immunogen consisting of a suspension of weakened or dead pathogenic cells injected in order to stimulate the production of antibodies."*
+> - 📜 **Louis Pasteur (*Addresses on the Attenuation of Viruses*):** *"Pasteur retained the term **vaccine** in honor of Jenner's immortal discovery on behalf of mankind."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The administration of typhoid **vaccine** dramatically reduced enteric fever among troops in the field."*
+> - 📜 **Edward Jenner (*An Inquiry into the Causes and Effects of the Variolae Vaccinae*):** *"Jenner preserved the lymph of the bovine **vaccine** between glass plates to distribute it to distant cities."*

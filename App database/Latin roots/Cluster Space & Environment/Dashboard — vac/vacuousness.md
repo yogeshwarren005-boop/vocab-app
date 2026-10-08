@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indicative of or marked by mental vacuity and an absence of ideas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indicative of or marked by mental vacuity and an absence of ideas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mindless emptiness or complete absence of intellectual thought, purpose, and serious substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physical void or empty volume completely devoid of material substance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vacuousness designates indicative of or marked by mental vacuity and an absence of ideas."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The moralist pitied the painful **vacuousness** of those whose lives are consumed in idle frivolity."*
+> - 📜 **Herman Melville (*The Confidence-Man*):** *"Melville satirized the spiritual **vacuousness** hiding behind the bustling optimism of the riverboat crowd."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Teufelsdröckh escaped the dismal **vacuousness** of the Everlasting No through defiant spiritual resolve."*

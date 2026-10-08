@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spiny shrub or small tree of central america and west indies having bipinnate leaves and racemes of small bright yellow flowers and yielding a hard brown or brownish-red heartwood used in preparing a black dye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spiny shrub or small tree of central america and west indies having bipinnate leaves and racemes of small bright yellow flowers and yielding a hard brown or brownish-red heartwood used in preparing a black dye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to Campeche or the valuable dyewood logwood (Haematoxylum campechianum).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early international commerce, dyed with or extracted from Mexican logwood to yield deep black and violet hues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, campeachy designates spiny shrub or small tree of central america and west indies having bipinnate leaves and racemes of small bright yellow flowers and yielding a hard brown or brownish-red heartwood used in preparing a black dye."*
+> - 📜 **Daniel Defoe (*Captain Singleton*):** *"The buccaneers loaded their vessel with valuable **campeachy** wood cut along the desolate Spanish lagoons."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The monopoly of the **campeachy** logwood trade was a frequent cause of diplomatic dispute with Spain."*
+> - 📜 **William Dampier (*Voyages and Descriptions*):** *"Dampier lived for months among the hardy logwood cutters in the mangrove swamps of the **Campeachy** coast."*

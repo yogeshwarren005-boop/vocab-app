@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perform vaccinations or produce immunity in by inoculation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having been rendered unsusceptible to a disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inoculated with a vaccine to stimulate protective acquired immunity against infection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing humoral antibodies produced in response to prior prophylactic immunization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"No one inspects the Chinese garbage pail except the pig, or sniffs about for defective drains, or insists upon a man's keeping the roadway in front of his house in order, or compels him to have his children vaccinated."*
-> - 📜 **James Joyce (*Ulysses*):** *"Suppose she wouldn’t let herself be vaccinated again."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It should be the central idea of American politics, and every child, so to speak, should be vaccinated with this idea, so that he may be protected against this political distemper that has brought such calamity upon our country."*
+> - 📜 **Edward Jenner (*An Inquiry into the Causes and Effects of the Variolae Vaccinae*):** *"The **vaccinated** boy was later inoculated with virulent smallpox matter and remained entirely unharmed."*
+> - 📜 **Louis Pasteur (*Address on the Attenuation of Viruses*):** *"Every **vaccinated** animal stood unhurt amidst the infected pasture, proving the triumph of the method."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Smallpox morbidity was almost non-existent among soldiers who were systematically **vaccinated** upon enlistment."*

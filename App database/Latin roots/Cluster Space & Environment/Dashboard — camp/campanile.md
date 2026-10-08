@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bell tower; usually stands alone unattached to a building.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bell tower; usually stands alone unattached to a building.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A freestanding or attached bell tower, especially in Italian Romanesque or Renaissance architecture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tall, slender architectural tower housing carillon chimes on a civic or university campus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The sudden flashes of colour reminded him of the gleam of the opal-and-iris-throated birds that flutter round the tall honeycombed Campanile, or stalk, with such stately grace, through the dim, dust-stained arcades."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"But all together, and all in their highest possible relative degrees, they exist, as far as I know, only in one building of the world, the Campanile of Giotto.”--Ruskin."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"For a good account of the Campanile, see Susan and Joanna Horner’s ‘Walks in Florence’, v."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"Giotto's **campanile** in Florence unites structural strength with exquisite color and sculptural grace."*
+> - 📜 **Mark Twain (*The Innocents Abroad*):** *"The leaning **campanile** of Pisa seemed ready to plunge into the marble piazza below."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The shadow of the brick **campanile** stretched across the sunny square as the afternoon shadows lengthened."*

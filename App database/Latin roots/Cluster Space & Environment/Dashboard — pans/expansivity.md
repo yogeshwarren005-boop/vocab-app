@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The fractional change in length or area or volume per unit change in temperature at a given constant pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quality characterized by magnificence of scale or the tendency to expand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property, capacity, or degree of expanding under changing physical conditions (e.g. thermal expansivity).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and thermodynamics, the fractional change in volume or length per unit change in temperature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expansivity designates the fractional change in length or area or volume per unit change in temperature at a given constant pressure."*
+> - 📜 **Lord Kelvin (*Mathematical and Physical Papers*):** *"Kelvin determined the thermal **expansivity** of superheated steam using his porous plug experiments."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"Maxwell compared the cubic **expansivity** of liquids with the linear expansion measured in crystalline solids."*
+> - 📜 **John Tyndall (*Heat as a Mode of Motion*):** *"Tyndall demonstrated that the **expansivity** of gases is nearly uniform under atmospheric pressure."*

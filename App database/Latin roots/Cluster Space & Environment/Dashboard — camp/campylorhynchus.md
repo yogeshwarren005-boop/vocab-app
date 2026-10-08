@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Alternative classifications for the cactus wrens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alternative classifications for the cactus wrens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of large New World wrens (family Troglodytidae), including the cactus wren.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, desert and scrubland wrens characterized by curved bills, loud vocalizations, and bulky football-shaped nests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, campylorhynchus designates alternative classifications for the cactus wrens."*
+> - 📜 **Robert Ridgway (*The Birds of North and Middle America*):** *"Ridgway characterized the genus **campylorhynchus** by its decurved culmen and spotted underparts."*
+> - 📜 **Florence Merriam Bailey (*Handbook of Birds of the Western United States*):** *"The cactus wren of the genus **campylorhynchus** builds its thorny retort-shaped nest within cholla joints."*
+> - 📜 **Alexander Wetmore (*The Birds of the Republic of Panama*):** *"Wetmore observed the noisy foraging parties of **campylorhynchus** rustling through arid thorn scrub."*

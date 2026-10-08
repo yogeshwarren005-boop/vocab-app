@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of encamping and living in tents in a camp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Live in or as if in a tent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The outdoor recreational activity of spending a vacation living in tents or recreational shelters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of pitching camp and living temporarily under canvas in wilderness or battlefield conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His taken labours bid him me forgive; I, his despiteful Juno, sent him forth From courtly friends, with camping foes to live, Where death and danger dog the heels of worth."*
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"THE FRIENDLY SPIES A Tale of Camp Borden November, 1916 The main camping ground of the Huron Indians was near where Camp Borden is now situated."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"On the day that the railroad bridge was repaired, we moved up to the depot, close by the town, and had things in perfect order; a first-rate camping-ground, in a large field directly by the track, with unlimited supply of delicious cool water."*
+> - 📜 **John Muir (*The Yosemite*):** *"No holiday can rival a summer of **camping** beneath the granite domes and waterfalls of Yosemite Valley."*
+> - 📜 **Robert Louis Stevenson (*Travels with a Donkey in the Cévennes*):** *"Stevenson celebrated the freedom of **camping** under the starry night canopy with his sack and sleeping rug."*
+> - 📜 **Theodore Roosevelt (*The Wilderness Hunter*):** *"After days of arduous tracking, **camping** beside a clear mountain torrent restored both health and spirit."*

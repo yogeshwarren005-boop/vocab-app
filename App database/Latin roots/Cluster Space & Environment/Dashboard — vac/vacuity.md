@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The absence of matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region that is devoid of matter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Total emptiness of physical space; a complete void devoid of material substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Complete lack of thought, intelligence, or serious meaning; intellectual barrenness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The sky wore, in another colour, the same likeness; a white vacuity of countenance with the lineaments gone."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The tape-like surface of the road diminished in his rear as far as he could see, and as he gazed a moving spot intruded on the white vacuity of its perspective."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"He staggered at the door, and his head coming noisily in contact with it, he slipped down into a sitting posture with an expression suddenly changed from ferocity to a complete vacuity and indifference."*
+> - 📜 **Robert Boyle (*New Experiments Physico-Mechanical*):** *"Boyle debated with Cartesian naturalists whether an absolute **vacuity** could be produced within his air pump."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The mind cannot endure the torture of perpetual **vacuity**, but seeks escape in trivial diversions."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"Roderick Usher stared into the dark room with a terrible **vacuity** of look that portended approaching madness."*

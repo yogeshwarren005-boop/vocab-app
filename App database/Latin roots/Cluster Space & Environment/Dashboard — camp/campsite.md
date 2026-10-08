@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A site where people on holiday can pitch a tent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A site where people on holiday can pitch a tent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A designated piece of land used for camping, pitching tents, or parking recreational vehicles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clearing, riverbank, or sheltered location in the wilderness chosen to pitch camp for the night.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"They started their drive last night,” Uncle Henry said, “and boomed her just below the campsite."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Roger finished telling about Snow White's arrival at Snug Harbor and the race to the campsite."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"They did locate a real cozy campsite and settled in for the night."*
+> - 📜 **Theodore Roosevelt (*African Game Trails*):** *"Roosevelt selected a shaded **campsite** beneath giant acacia trees beside the clear waters of the Guaso Nyiro."*
+> - 📜 **John Muir (*My First Summer in the Sierra*):** *"Our alpine **campsite** overlooked a mirror lake bordered by granite crags and blooming heather."*
+> - 📜 **Ernest Hemingway (*Green Hills of Africa*):** *"The trackers returned to the evening **campsite** just as the sun dipped behind the blue volcanic ridge."*

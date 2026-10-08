@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leave a camp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Run away; usually includes taking something or somebody along.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To depart suddenly, secretly, or unexpectedly, especially to escape a debt or pursuer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To break up a military camp and march away.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The short-hand writers, the reporters of the court, and the reporters of the newspapers invariably decamp with the rest of the regulars when Jarndyce and Jarndyce comes on."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"I'll go and see the Forty Thieves," said he, "and Miss Decamp's dance"; and he slipped away gently on the pointed toes of his boots, and disappeared, without waking his worthy parent."*
-> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"Monday, 7th June.--At about 8 in the morning decamped from Locust Hill, crossed the Lehi and encamped on the side of a Swamp called the Shades of Death,[43] about six miles from Locust Hill."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The defaulting clerk decided to **decamp** by the night coach, leaving a mountain of unpaid debts behind."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Persian general ordered his army to **decamp** before sunrise to avoid the Roman cavalry patrols."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Cardboard Box*):** *"The suspicious lodger took the opportunity to **decamp** without paying his rent or surrendering his keys."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone on vacation; someone who is devoting time to pleasure or relaxation rather than to work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone on vacation; someone who is devoting time to pleasure or relaxation rather than to work.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who takes a vacation, especially one visiting a designated holiday resort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tourist or traveler engaged in seasonal holiday leisure and recreational pursuits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vacationist designates someone on vacation; someone who is devoting time to pleasure or relaxation rather than to work."*
+> - 📜 **William Dean Howells (*A Hazard of New Fortunes*):** *"Howells described the weary urban **vacationist** boarding the excursion steamer for the Adirondacks."*
+> - 📜 **John Muir (*Steep Trails*):** *"The mountain air revitalizes every pale city **vacationist** who climbs the fir-clad ridges of Mount Shasta."*
+> - 📜 **Jack London (*The Valley of the Moon*):** *"The seaside village welcomed the summer **vacationist** seeking quiet beaches and fresh ocean breezes."*

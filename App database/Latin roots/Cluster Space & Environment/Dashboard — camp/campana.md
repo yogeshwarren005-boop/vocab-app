@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The shape of a bell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The shape of a bell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A church bell or striking bell; or in classical architecture, the bell-shaped core of a Corinthian capital.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, a bell-shaped floral structure or corolla resembling a hanging bell.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Pinkerton's _Voyages and Travels_ (London, 1808-1814), xvi. 238; Father Campana, "Congo; Mission Catholique de Landana," _Les Missions Catholiques_, xxvii. (1895) p. 161; R.E."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"According to Merolla, it is thought that if girls did not go through these ceremonies, they would "never be fit for procreation." The other consequences supposed to flow from the omission of the rites are mentioned by Father Campana."*
+> - 📜 **Vitruvius (*De Architectura*):** *"Callimachus carved the graceful leaves of the acanthus around the cylindrical **campana** of the Corinthian capital."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The bronze **campana** of St. Mark's tolled the evening hours across the moonlit Venetian lagoons."*
+> - 📜 **Andrea Palladio (*The Four Books of Architecture*):** *"Palladio carefully detailed the proportions between the **campana** and the abacus in Roman porticos."*

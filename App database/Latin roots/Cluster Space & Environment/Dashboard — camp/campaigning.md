@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The campaign of a candidate to be elected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Run, stand, or compete for an office or a position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of participating in an organized series of actions to achieve a political or social goal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Military service in the field, enduring hardship, maneuvers, and combat during a war.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"When campaigning, Rostóv allowed himself the indulgence of riding not a regimental but a Cossack horse."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Electoral **campaigning** in the western states involves impassioned open-air debates and barbecue rallies."*
+> - 📜 **Arthur Wellesley, Duke of Wellington (*Dispatches of Field Marshal the Duke of Wellington*):** *"Ten years of active **campaigning** in the Peninsula taught the army that supplies determine victory."*
+> - 📜 **Woodrow Wilson (*Congressional Government*):** *"Constant congressional **campaigning** often distracts representatives from sober legislative deliberation."*

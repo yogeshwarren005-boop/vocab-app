@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal term for vacation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informal term for vacation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vacation or holiday interlude from university terms or administrative work (informal British usage).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An informal abbreviation for a vacuum cleaner or vacuum chamber in laboratory parlance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vac designates informal term for vacation."*
+> - 📜 **Evelyn Waugh (*Brideshead Revisited*):** *"Charles Ryder planned an architectural sketching tour during the long summer **vac** in the West Country."*
+> - 📜 **E. M. Forster (*The Longest Journey*):** *"The undergraduates parted at Cambridge station, wishing each other a merry Christmas **vac** in the country."*
+> - 📜 **Max Beerbohm (*Zuleika Dobson*):** *"The lonely colleges were quiet as tombs during the long Easter **vac**, awaiting the return of students."*

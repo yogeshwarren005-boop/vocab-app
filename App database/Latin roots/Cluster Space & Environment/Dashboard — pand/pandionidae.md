@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ospreys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ospreys.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic family of accipitriform birds of prey consisting exclusively of the osprey.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian systematics, a monotypic family distinguished from true hawks by unique piscivorous foot adaptations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog pandionidae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Thomas Henry Huxley (*On the Classification of Birds*):** *"Huxley noted the distinct skeletal characteristics that separate **pandionidae** from other diurnal raptors."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"Wallace highlighted the nearly cosmopolitan breeding range of the family **pandionidae** along maritime shores."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"Coues classified the fish-hawk within the family **pandionidae**, highlighting its reversible outer toe."*

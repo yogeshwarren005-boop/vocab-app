@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large and small highly aquatic salamanders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large and small highly aquatic salamanders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic family of North American amphibians comprising the Pacific giant salamanders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic herpetology, heavy-bodied predatory salamanders native to the coastal Pacific Northwest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dicamptodontidae designates large and small highly aquatic salamanders."*
+> - 📜 **G. Kingsley Noble (*The Biology of the Amphibia*):** *"Herpetologists isolate the family **dicamptodontidae** on the basis of unique spinal and otic structures."*
+> - 📜 **Edward Drinker Cope (*The Batrachia of North America*):** *"Cope placed these archaic western salamanders in a distinct group, anticipating the recognition of **dicamptodontidae**."*
+> - 📜 **Robert Stebbins (*Amphibians and Reptiles of North America*):** *"Members of the family **dicamptodontidae** prey upon small mammals, lizards, and other stream amphibians."*

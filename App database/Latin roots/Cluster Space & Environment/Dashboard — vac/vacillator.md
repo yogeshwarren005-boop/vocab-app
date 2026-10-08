@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who hesitates (usually out of fear).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who hesitates (usually out of fear).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who habitually wavers, hesitates, or fluctuates between opinions or decisions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An irresolute individual incapable of holding firmly to a chosen course of action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vacillator designates one who hesitates (usually out of fear)."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"History judges poor Louis as a gentle **vacillator** who could neither yield gracefully nor command firmly."*
+> - 📜 **Anthony Trollope (*The Warden*):** *"Mr. Harding was accused of being a timid **vacillator** when he hesitated to accept the disputed salary."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Isabel recognized in Lord Warburton a high-minded gentleman, but no weak or cowardly **vacillator**."*

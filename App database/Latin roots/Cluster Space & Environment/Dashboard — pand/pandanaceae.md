@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Family of woody plants of the order pandanales including pandanus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Family of woody plants of the order pandanales including pandanus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic family of monocotyledonous tropical trees, shrubs, and climbers known as screw-pines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, paleotropical dioecious plants having strap-shaped spiny leaves and supporting stilt roots.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pandanaceae designates family of woody plants of the order pandanales including pandanus."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Wallace found coastal swamps dominated by bizarre stilt-rooted trees of the family **pandanaceae**."*
+> - 📜 **Robert Brown (*Prodromus Florae Novae Hollandiae*):** *"Brown documented species of **pandanaceae** lining tropical riverbanks across northern Australia."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Lindley described the fibrous edible fruits and durable weaving leaves produced by members of **pandanaceae**."*

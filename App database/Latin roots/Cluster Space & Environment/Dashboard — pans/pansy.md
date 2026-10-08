@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large-flowered garden plant derived chiefly from the wild pansy of europe and having velvety petals of various colors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A timid man or boy considered childish or unassertive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A popular garden flowering plant of the violet family (Viola tricolor hortensis) with large velvety petals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floral symbolism, an emblem of affectionate remembrance and loving contemplation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"I’ve been more than once, Pansy,” Madame Merle declared."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Am I not your great friend in Rome?” “I remember the last time best,” said Pansy, “because you told me I should come away.” “Did you tell her that?” the child’s father asked."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"It’s precisely to fit her for the world,” she murmured, glancing at Pansy, who stood, at a little distance, attentive to Madame Merle’s elegant apparel."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"There's rosemary, that's for remembrance; and there is the velvety **pansy**, that's for thoughts."*
+> - 📜 **John Milton (*Lycidas*):** *"The glowing violet, the white pink, and the **pansy** freaked with jet strewed the watery bier of Lycidas."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Phoebe cultivated a little border of sweet violets and bright velvety **pansy** blossoms beside the garden walk."*

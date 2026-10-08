@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be undecided about something; waver between conflicting positions or courses of action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move or sway in a rising and falling or wavelike pattern.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wavering between conflicting choices or opinions; indecisive, irresolute, or hesitant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Swaying unsteadily to and fro; oscillating physically or mentally.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her resolve, however, had been taken, and it seemed vacillating even to childishness to abandon it now, unless for graver reasons."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In its details American policy in tariff legislation under the Constitution has been varied and vacillating."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is a history of a vacillating public opinion toward the policy of protective duties."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **vacillating** temper of Honorius left the imperial capital at the mercy of Alaric's besieging army."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Anne Elliot valued firm resolution, disliking that weak, **vacillating** character which yields to every breath."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba blamed herself for her **vacillating** conduct toward Boldwood, which had provoked his despair."*

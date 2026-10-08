@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The size of something as given by the distance around it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The boundary line encompassing an area or object.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The enclosing boundary curve or external perimeter of a circle or curved geometric figure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The outer boundary, enclosing line, or physical perimeter of an expansive territory, town, or physical structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But if you fondly pass our proffer’d offer, ’Tis not the roundure of your old-fac’d walls Can hide you from our messengers of war, Though all these English, and their discipline Were harbour’d in their rude circumference."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is no crescent, and his horns are invisible within the circumference."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The field had already been “opened”; that is to say, a lane a few feet wide had been hand-cut through the wheat along the whole circumference of the field for the first passage of the horses and machine."*
+> - 📜 **William Shakespeare (*King John*):** *"Tis not the roundure of your old-faced walls can hide you from our messengers of war, though all these English were harboured in their rude **circumference**."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"A lane a few feet wide had been hand-cut through the wheat along the whole **circumference** of the field."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"System on system shooting like rays, upward, downward, without center, without **circumference**, Nature hastens to render account of herself."*

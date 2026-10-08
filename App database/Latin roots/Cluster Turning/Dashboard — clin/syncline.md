@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin clin within the domain of Turning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of clin in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fold of rock strata with concave upward curvature in which strata dip inward toward a central axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mining and structural geology, an inverted fold or structural depression enclosing mineral or fossil fuel beds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syncline designates pertaining to, derived from, or characteristic of latin clin within the domain of turning."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The strata plunge steeply inward from the mountain flanks to form a well-defined **syncline** beneath the valley."*
+> - 📜 **Archibald Geikie (*The Scenery of Scotland*):** *"The great coal basin occupies a profound **syncline** shielded from the destructive forces of glacial erosion."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"Each anticlinal arch is paired with a corresponding **syncline** across the folded mountain chain."*

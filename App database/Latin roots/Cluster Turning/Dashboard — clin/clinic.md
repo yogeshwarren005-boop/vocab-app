@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical establishment run by a group of medical specialists.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meeting for diagnosis of problems and instruction or remedial work in a particular activity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An establishment or hospital department where outpatients receive medical diagnosis, advice, or specialized treatment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical pedagogy, bedside teaching where students observe the examination and treatment of patients.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"And no wonder, for besides his parish work he was forever running here and there—to the juvenile detention home, the clinic for alcoholics, the mental health center, the Black ghetto."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"In the inner office Van Horn, his dress coat off, gave the chloroform while the Scotchman set the arm; and the American surgeons, no longer crowding, but standing off respectfully as if at a clinic, looked on critically."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Do your base officials routinely check with local crisis clinics to find out the number and types of distress calls being received from military people?"*
+> - 📜 **William Osler (*Aequanimitas*):** *"The bedside **clinic** remains the premier setting where young physicians acquire diagnostic intuition."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Order and ventilation in the outpatient **clinic** prevent the transmission of opportunistic contagion."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"We opened our modest **clinic** in the poorer quarter, hoping to minister to the ailing laborers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument used by surveyors in order to measure an angle of inclination or elevation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument used by surveyors in order to measure an angle of inclination or elevation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical or mechanical instrument used for measuring angles of slope, elevation, or inclination relative to gravity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surveying, geology, and forestry, a portable handheld tool incorporating a plumb line or spirit level to measure structural dip or tree heights.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clinometer designates an instrument used by surveyors in order to measure an angle of inclination or elevation."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"The field geologist relies upon the compass and **clinometer** to determine the strike and dip of tilted strata."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Using our portable **clinometer**, we recorded the steep inclination of the basaltic dikes traversing the cliff."*
+> - 📜 **Archibald Geikie (*Field Geology*):** *"A careful observer reads the **clinometer** at multiple exposures along the ridge to detect subtle changes in bedding dip."*

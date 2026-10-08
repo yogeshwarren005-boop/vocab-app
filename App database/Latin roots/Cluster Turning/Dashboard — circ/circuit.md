@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical device that provides a path for electrical current to flow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A journey or route all the way around a particular place or area.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A roughly circular line, route, or journey that starts and finishes at the same place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical engineering, a closed conducting path through which an electric current flows.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, father, do but think How sweet a thing it is to wear a crown, Within whose circuit is Elysium And all that poets feign of bliss and joy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not finding in The circuit of my breast any gross stuff To form me like your blazon holds me to This gentleness of answer. ’Tis your passion That thus mistakes, the which, to you being enemy, Cannot to me be kind."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If the country folks of those assize towns on his circuit could see him now!"*
+> - 📜 **William Shakespeare (*Henry VI, Part 2*):** *"And this fell tempest shall not cease to rage until the golden **circuit** on my head, like to the glorious sun's transparent beams, do calm the fury of this mad-bred flaw."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"All the night he had been feeling that the neglect he was labouring to repair was abnormal and isolated—the only instance of the kind within the **circuit** of the county."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea was not at all tired, and a little **circuit** was made towards a fine yew-tree, the chief hereditary glory of the grounds."*

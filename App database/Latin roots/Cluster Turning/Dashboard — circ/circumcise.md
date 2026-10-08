@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cut the skin over the clitoris.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cut the foreskin off male babies or teenage boys.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To surgically excise the prepuce or foreskin of a male, typically in infancy or during religious initiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scriptural metaphor, to purify spiritually by removing moral blemish, carnal pride, or worldly corruption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"To this day a Hottentot priest never uses an iron knife, but always a sharp splint of quartz, in sacrificing an animal or circumcising a lad."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And say besides, that in Aleppo once, Where a malignant and a turban’d Turk Beat a Venetian and traduc’d the state, I took by the throat the circumcised dog, And smote him, thus. [_Stabs himself._] LODOVICO."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"But Cleon writes that it is vain to suppose that a mere barbarian Jew, one circumcised, hath access to a secret which is shut from them, and that the King wrongs their philosophy in stooping to inquire of such an one."*
+> - 📜 **King James Bible (*Genesis*):** *"And ye shall **circumcise** the flesh of your foreskin; and it shall be a token of the covenant betwixt me and you."*
+> - 📜 **John Milton (*The Christian Doctrine*):** *"The ceremonial law commanded Israelites to **circumcise** their sons as an outward seal of divine election."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The proselytes were required to **circumcise** their children and observe the dietary statutes of the ancient law."*

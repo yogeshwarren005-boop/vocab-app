@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (boxing) the act of one boxer holding onto the other to avoid being hit and to rest momentarily.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small slip noose made with seizing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To secure or fasten firmly, as by bending over and flattening the protruding point of a driven nail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To settle, finalize, or conclude decisively a bargain, argument, or contested agreement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"To clinch his argument he appeals to plain matter of fact and his own personal experience."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Little Flask was one of the wrought ones; made to clinch tight and last long."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I, Ishmael, was one of that crew; my shouts had gone up with the rest; my oath had been welded with theirs; and stronger I shouted, and more did I hammer and clinch my oath, because of the dread in my soul."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Drive a nail home and **clinch** it so faithfully that you can wake up in the night and think of your work with satisfaction."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Beloved shipmates, **clinch** the last verse of the first chapter of Jonah."*
+> - 📜 **James Joyce (*Dubliners*):** *"And to **clinch** the bargain, said Little Chandler, we'll just have one more now."*

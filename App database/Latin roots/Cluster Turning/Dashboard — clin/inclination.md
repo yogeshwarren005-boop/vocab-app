@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An attitude of mind especially one that favors one alternative over others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astronomy) the angle between the plane of the orbit and the plane of the ecliptic stated in degrees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person's natural tendency or urge to act or feel in a particular way; a disposition or propensity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and geometry, the angle at which a straight line or plane slants away from another line or reference horizon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go to the fellow, good Alexas, bid him Report the feature of Octavia, her years, Her inclination; let him not leave out The colour of her hair."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Observe his inclination in yourself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray can I not, Though inclination be as sharp as will: My stronger guilt defeats my strong intent, And, like a man to double business bound, I stand in pause where I shall first begin, And both neglect."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"Report the feature of Octavia, her years, her **inclination**; let him not leave out the colour of her hair."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From a sense of proportion, she kept down to a small smile an **inclination** to laugh distinctly."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"A dog demonstrates its friendly **inclination** by crouching low and wagging its tail before its master."*

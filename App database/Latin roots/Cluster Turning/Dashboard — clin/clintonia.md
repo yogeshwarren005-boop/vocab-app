@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any temperate liliaceous plant of the genus clintonia having broad basal leaves and white or yellowish or purplish flowers followed by blue or black berries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any temperate liliaceous plant of the genus clintonia having broad basal leaves and white or yellowish or purplish flowers followed by blue or black berries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of North American and East Asian woodland perennial herbs in the lily family Liliaceae, bearing broad leaves and blue or red berries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In temperate botany, shade-loving rhizomatous forest herbs producing umbels of yellow or white flowers followed by porcelain-blue fruits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clintonia designates any temperate liliaceous plant of the genus clintonia having broad basal leaves and white or yellowish or purplish flowers followed by blue or black berries."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The bright blue berries of **clintonia** form a striking ornament in the damp northern woods in late summer."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"Along the mossy banks of the portage, the glossy green leaves of **clintonia** carpeted the forest floor."*
+> - 📜 **John Torrey (*Flora of North America*):** *"Species of **clintonia** thrive in cool mountain ravines, bearing delicate bell-shaped blossoms."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change toward something smaller or lower.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition inferior to an earlier condition; a gradual falling off from a better state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To diminish gradually in size, strength, health, or quality; to deteriorate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To politely refuse an invitation, offer, or proposal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Far more, far more, to you do I decline."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Hamlet, what a falling off was there, From me, whose love was of that dignity That it went hand in hand even with the vow I made to her in marriage; and to decline Upon a wretch whose natural gifts were poor To those of mine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can thy spirit wonder A great man should decline?"*
+> - 📜 **William Shakespeare (*The Comedy of Errors*):** *"Far more, far more, to you do I **decline**."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She murmured, with a slight **decline** in her assurance, that it was not true she was to be married."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The house too had an air of autumnal **decline**, and the sparse remnant of yellow leaves fell athwart the evergreens."*

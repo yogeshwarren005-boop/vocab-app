@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a ring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped like a ring.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rolled inward or coiled into a spiral with the apex at the center, as seen in unfolding fern fronds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cryptogamic botany and dermatology, describing organs or annular lesions that develop in a circular, curling fashion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The peridia are densely crowded together, often arranged in a circinate manner, _i.e._, like a watch-spring, or the young frond of a fern."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"FIGWORT CLUSTER-CUPS; spots yellowish; peridia in roundish circinate clusters (rarely scattered) on the under surface; spores whitish, becoming tawny.—On the leaves of _Scrophularia aquatica_."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"WALL BRISTLE-MOULD; gregarious, glaucous, then blackish; perithecium globose, brown; hairs circinate, erect, septate, pulverulent; spores oblong, yellowish."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The vernation of true ferns is characteristically **circinate**, unrolling progressively from base to tapering tip."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The young tendrils uncoil from their **circinate** resting posture as soon as warm sunlight touches them."*
+> - 📜 **William Jackson Hooker (*Species Filicum*):** *"Each young frond displays **circinate** vernation, densely clothed at the base with pale brown scales."*

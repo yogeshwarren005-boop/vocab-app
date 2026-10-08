@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A style that involves indirect ways of expressing things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An indirect way of expressing something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of an unnecessarily large number of words or indirect phrasing to express an idea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric, an evasive or decorative periphrasis employed to soften blunt truths or avoid direct commitment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"She had a good honest glance and used no circumlocution."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"It was like a highly-finished miniature painting representing My Lords of the Circumlocution Department, Commandership-in-Chief of any sort, Government."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"We shall therefore, without circumlocution, premise, that Miss Meadows was no other than that paragon of beauty and goodness, the all-accomplished Miss Aurelia Darnel."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Tedious **circumlocution** serves all too often to veil the total lack of substantive argument."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He expressed his refusal without harshness, yet avoided the embarrassing awkwardness of polite **circumlocution**."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The Department of **Circumlocution** was beforehand with all the public departments in the art of perceiving How Not To Do It."*

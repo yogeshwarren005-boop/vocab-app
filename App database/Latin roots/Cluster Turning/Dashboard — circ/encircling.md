@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Form a circle around.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bind with something round or circular.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surrounding, enclosing, or looping around something in the form of a ring or continuous boundary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to an encompassing ring of defensive works, geographic features, or ambient atmosphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop, paternally encircling Caddy with his left arm as she sat beside him, and putting his right hand gracefully on his hip."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She heard footsteps brushing the grass, and had a consciousness that love was encircling her like a perfume."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"How long he had been gone Oak did not know; but he had apparently withdrawn into the encircling dusk."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She heard footsteps brushing the grass, and had a consciousness that love was **encircling** her like a perfume."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"By this motion the whale must best view whatever objects may be **encircling** him."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"Yellow tongues of flame were writhing from it, completely **encircling** the space with a fence of fire."*

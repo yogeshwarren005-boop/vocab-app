@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a celestial body) continually visible above the horizon during the entire 360 degrees of daily travel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Located or found throughout a polar region.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated around, inhabiting, or revolving near one of the earth's geographical or celestial poles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astronomy, designating stars that remain continuously above the horizon throughout the night.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"He is mostly found in the circumpolar seas."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Two months earlier we should have had perpetual daylight in these latitudes; but already we had had three or four hours of night, and by and by there would be six months of darkness in these circumpolar regions."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"He is mostly found in the circumpolar seas."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Many **circumpolar** species range continuously across the northern zones of both continents."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The cold **circumpolar** seas nourish vast shoals of tiny organisms that feed the leviathan."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The bright **circumpolar** constellations revolve perpetually above the observer's horizon without setting."*

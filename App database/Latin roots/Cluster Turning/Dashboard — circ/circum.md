@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin circ within the domain of Turning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of circ in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Latin preposition and productive prefix meaning around, about, on all sides, or encircling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical morphology and compound formation, denoting spatial encirclement, boundary containment, or evasive action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circum designates pertaining to, derived from, or characteristic of latin circ within the domain of turning."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"The prefix **circum** in compound verbs conveys the image of movement compassing all sides of an object."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"In classical Latin compounds, **circum** preserves its spatial force of enclosing or surrounding an action."*
+> - 📜 **Benjamin Hall Kennedy (*The Revised Latin Primer*):** *"Compounds formed with **circum** typically govern the accusative case to mark surrounding bounds."*

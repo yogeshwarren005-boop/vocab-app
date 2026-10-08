@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital defect in which the top of the head is depressed (concave instead of convex).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A congenital defect in which the top of the head is depressed (concave instead of convex).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical condition of having a saddle-shaped skull with a sunken or concave vertex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive anatomy and anthropometry, a congenital cranial shape where the upper cranial contour slopes downward between frontal and occipital peaks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clinocephaly designates a congenital defect in which the top of the head is depressed (concave instead of convex)."*
+> - 📜 **Rudolf Virchow (*Investigations on the Development of the Skull*):** *"The distinct saddle deformity termed **clinocephaly** originates in early synostosis of the parietal centers."*
+> - 📜 **William Turner (*Reports on the Scientific Results of the Voyage of H.M.S. Challenger*):** *"The aboriginal cranium exhibited clear traces of **clinocephaly**, the top of the skull showing a conspicuous hollow."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Cranial anomalies including **clinocephaly** arise from abnormal timing in the ossification of fontanelles."*

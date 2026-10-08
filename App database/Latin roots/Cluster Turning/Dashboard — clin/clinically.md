@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a clinical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a clinical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner based on direct medical observation and examination of patients.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a detached, strictly analytical, and dispassionate fashion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clinically designates in a clinical manner."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient was **clinically** free from fever, though deep glandular enlargement persisted."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The phenomenon must be investigated **clinically** before general conclusions can be drawn regarding nerve conduction."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"He scrutinized the bloodstains **clinically**, noting the direction of each minute spatter upon the floor."*

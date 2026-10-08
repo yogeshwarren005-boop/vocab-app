@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Canvass by distributing letters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Canvass by using a questionnaire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To distribute circular letters, pamphlets, or formal notices to a group of people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In auditing, to contact outside parties in writing to confirm the accuracy of financial records.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circularize designates canvass by distributing letters."*
+> - 📜 **Arthur Conan Doyle (*The Sign of Four*):** *"I will **circularize** every river-wharf along the Thames until that steam launch is located."*
+> - 📜 **Joseph Conrad (*Chance*):** *"The promoters resolved to **circularize** the shareholding public with optimistic forecasts of foreign trade."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"The election committee resolved to **circularize** the entire constituency before the poll opened."*

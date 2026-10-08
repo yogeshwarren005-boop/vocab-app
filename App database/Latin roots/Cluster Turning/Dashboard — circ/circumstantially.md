@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: According to circumstances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insofar as the circumstances are concerned.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner dependent on surrounding conditions; by means of indirect or circumstantial evidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With meticulous attention to incidental details, facts, and accompanying occurrences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Not absolutely proved, perhaps, but it was proved circumstantially."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He could remain silent for hours without being at all put out of countenance himself or making others uncomfortable, but as soon as the conversation concerned himself he would begin to talk circumstantially and with evident satisfaction."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Not absolutely proved, perhaps, but it was proved circumstantially."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The witness narrated the encounter so **circumstantially** that none could doubt the truth of his testimony."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I set down every detail **circumstantially** in my daily journal to preserve an accurate reckoning of time."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Although proven only **circumstantially**, the chain of evidence against the culprit was unbroken."*

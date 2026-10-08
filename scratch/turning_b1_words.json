@@ -1,0 +1,814 @@
+{
+  "words": [
+    "circadian",
+    "circaea",
+    "circaetus",
+    "circassian",
+    "circe",
+    "circinate",
+    "circinus",
+    "circle",
+    "circlet",
+    "circuit",
+    "circuitous",
+    "circuitry",
+    "circular",
+    "circular-knit",
+    "circularisation",
+    "circularise",
+    "circularity",
+    "circularization",
+    "circularize",
+    "circularly",
+    "circulate",
+    "circulating",
+    "circulation",
+    "circulative",
+    "circulatory",
+    "circum",
+    "circumambulate",
+    "circumboreal",
+    "circumcise",
+    "circumcision",
+    "circumduction",
+    "circumference",
+    "circumferent",
+    "circumferential",
+    "circumflex",
+    "circumfuse",
+    "circumlocution",
+    "circumlocutious",
+    "circumlocutory",
+    "circumnavigate",
+    "circumnavigation",
+    "circumpolar",
+    "circumscribe",
+    "circumscribed",
+    "circumscription",
+    "circumspect",
+    "circumspection",
+    "circumspectly",
+    "circumstance",
+    "circumstances",
+    "circumstantial",
+    "circumstantially",
+    "circumstantiate",
+    "circumvallate",
+    "circumvent",
+    "circumvention",
+    "circumvolute",
+    "circumvolution",
+    "circumvolve",
+    "circus",
+    "encircle",
+    "encircled",
+    "encirclement",
+    "encircling",
+    "recirculation",
+    "circumambulate",
+    "circumcise",
+    "circumcision",
+    "circumlocution",
+    "circumlocutious",
+    "circumlocutory",
+    "circumnavigate",
+    "circumnavigation",
+    "circumscribe",
+    "circumscribed",
+    "circumscription",
+    "circumspect",
+    "circumspection",
+    "circumspectly",
+    "circumstance",
+    "circumstances",
+    "circumstantial",
+    "circumstantially",
+    "circumstantiate",
+    "anticlinal",
+    "anticline",
+    "clinch",
+    "clinched",
+    "clincher",
+    "clincher-built",
+    "cline",
+    "clinic",
+    "clinical",
+    "clinically",
+    "clinician",
+    "clinid",
+    "clinidae",
+    "clinocephalism",
+    "clinocephaly",
+    "clinodactyly",
+    "clinometer",
+    "clinopodium",
+    "clinoril",
+    "clinton",
+    "clintonia",
+    "declination",
+    "decline",
+    "declinometer",
+    "diclinous",
+    "disinclination",
+    "disincline",
+    "disinclined",
+    "inclination",
+    "incline",
+    "inclined",
+    "inclining",
+    "inclinometer",
+    "preclinical",
+    "reclinant",
+    "recline",
+    "recliner",
+    "reclining",
+    "subclinical",
+    "synclinal",
+    "syncline",
+    "converge",
+    "convergence",
+    "convergency",
+    "convergent",
+    "converging",
+    "diverge",
+    "divergence",
+    "divergency",
+    "divergent",
+    "diverging",
+    "everglades",
+    "evergreen",
+    "nonconvergent",
+    "verge",
+    "verger",
+    "vergil"
+  ],
+  "word_to_dir": {
+    "circadian": "Dashboard — circ",
+    "circaea": "Dashboard — circ",
+    "circaetus": "Dashboard — circ",
+    "circassian": "Dashboard — circ",
+    "circe": "Dashboard — circ",
+    "circinate": "Dashboard — circ",
+    "circinus": "Dashboard — circ",
+    "circle": "Dashboard — circ",
+    "circlet": "Dashboard — circ",
+    "circuit": "Dashboard — circ",
+    "circuitous": "Dashboard — circ",
+    "circuitry": "Dashboard — circ",
+    "circular": "Dashboard — circ",
+    "circular-knit": "Dashboard — circ",
+    "circularisation": "Dashboard — circ",
+    "circularise": "Dashboard — circ",
+    "circularity": "Dashboard — circ",
+    "circularization": "Dashboard — circ",
+    "circularize": "Dashboard — circ",
+    "circularly": "Dashboard — circ",
+    "circulate": "Dashboard — circ",
+    "circulating": "Dashboard — circ",
+    "circulation": "Dashboard — circ",
+    "circulative": "Dashboard — circ",
+    "circulatory": "Dashboard — circ",
+    "circum": "Dashboard — circ",
+    "circumambulate": "Dashboard — circum",
+    "circumboreal": "Dashboard — circ",
+    "circumcise": "Dashboard — circum",
+    "circumcision": "Dashboard — circum",
+    "circumduction": "Dashboard — circ",
+    "circumference": "Dashboard — circ",
+    "circumferent": "Dashboard — circ",
+    "circumferential": "Dashboard — circ",
+    "circumflex": "Dashboard — circ",
+    "circumfuse": "Dashboard — circ",
+    "circumlocution": "Dashboard — circum",
+    "circumlocutious": "Dashboard — circum",
+    "circumlocutory": "Dashboard — circum",
+    "circumnavigate": "Dashboard — circum",
+    "circumnavigation": "Dashboard — circum",
+    "circumpolar": "Dashboard — circ",
+    "circumscribe": "Dashboard — circum",
+    "circumscribed": "Dashboard — circum",
+    "circumscription": "Dashboard — circum",
+    "circumspect": "Dashboard — circum",
+    "circumspection": "Dashboard — circum",
+    "circumspectly": "Dashboard — circum",
+    "circumstance": "Dashboard — circum",
+    "circumstances": "Dashboard — circum",
+    "circumstantial": "Dashboard — circum",
+    "circumstantially": "Dashboard — circum",
+    "circumstantiate": "Dashboard — circum",
+    "circumvallate": "Dashboard — circ",
+    "circumvent": "Dashboard — circ",
+    "circumvention": "Dashboard — circ",
+    "circumvolute": "Dashboard — circ",
+    "circumvolution": "Dashboard — circ",
+    "circumvolve": "Dashboard — circ",
+    "circus": "Dashboard — circ",
+    "encircle": "Dashboard — circ",
+    "encircled": "Dashboard — circ",
+    "encirclement": "Dashboard — circ",
+    "encircling": "Dashboard — circ",
+    "recirculation": "Dashboard — circ",
+    "anticlinal": "Dashboard — clin",
+    "anticline": "Dashboard — clin",
+    "clinch": "Dashboard — clin",
+    "clinched": "Dashboard — clin",
+    "clincher": "Dashboard — clin",
+    "clincher-built": "Dashboard — clin",
+    "cline": "Dashboard — clin",
+    "clinic": "Dashboard — clin",
+    "clinical": "Dashboard — clin",
+    "clinically": "Dashboard — clin",
+    "clinician": "Dashboard — clin",
+    "clinid": "Dashboard — clin",
+    "clinidae": "Dashboard — clin",
+    "clinocephalism": "Dashboard — clin",
+    "clinocephaly": "Dashboard — clin",
+    "clinodactyly": "Dashboard — clin",
+    "clinometer": "Dashboard — clin",
+    "clinopodium": "Dashboard — clin",
+    "clinoril": "Dashboard — clin",
+    "clinton": "Dashboard — clin",
+    "clintonia": "Dashboard — clin",
+    "declination": "Dashboard — clin",
+    "decline": "Dashboard — clin",
+    "declinometer": "Dashboard — clin",
+    "diclinous": "Dashboard — clin",
+    "disinclination": "Dashboard — clin",
+    "disincline": "Dashboard — clin",
+    "disinclined": "Dashboard — clin",
+    "inclination": "Dashboard — clin",
+    "incline": "Dashboard — clin",
+    "inclined": "Dashboard — clin",
+    "inclining": "Dashboard — clin",
+    "inclinometer": "Dashboard — clin",
+    "preclinical": "Dashboard — clin",
+    "reclinant": "Dashboard — clin",
+    "recline": "Dashboard — clin",
+    "recliner": "Dashboard — clin",
+    "reclining": "Dashboard — clin",
+    "subclinical": "Dashboard — clin",
+    "synclinal": "Dashboard — clin",
+    "syncline": "Dashboard — clin",
+    "converge": "Dashboard — verg",
+    "convergence": "Dashboard — verg",
+    "convergency": "Dashboard — verg",
+    "convergent": "Dashboard — verg",
+    "converging": "Dashboard — verg",
+    "diverge": "Dashboard — verg",
+    "divergence": "Dashboard — verg",
+    "divergency": "Dashboard — verg",
+    "divergent": "Dashboard — verg",
+    "diverging": "Dashboard — verg",
+    "everglades": "Dashboard — verg",
+    "evergreen": "Dashboard — verg",
+    "nonconvergent": "Dashboard — verg",
+    "verge": "Dashboard — verg",
+    "verger": "Dashboard — verg",
+    "vergil": "Dashboard — verg"
+  },
+  "words_by_root": {
+    "circ": [
+      "circadian",
+      "circaea",
+      "circaetus",
+      "circassian",
+      "circe",
+      "circinate",
+      "circinus",
+      "circle",
+      "circlet",
+      "circuit",
+      "circuitous",
+      "circuitry",
+      "circular",
+      "circular-knit",
+      "circularisation",
+      "circularise",
+      "circularity",
+      "circularization",
+      "circularize",
+      "circularly",
+      "circulate",
+      "circulating",
+      "circulation",
+      "circulative",
+      "circulatory",
+      "circum",
+      "circumambulate",
+      "circumboreal",
+      "circumcise",
+      "circumcision",
+      "circumduction",
+      "circumference",
+      "circumferent",
+      "circumferential",
+      "circumflex",
+      "circumfuse",
+      "circumlocution",
+      "circumlocutious",
+      "circumlocutory",
+      "circumnavigate",
+      "circumnavigation",
+      "circumpolar",
+      "circumscribe",
+      "circumscribed",
+      "circumscription",
+      "circumspect",
+      "circumspection",
+      "circumspectly",
+      "circumstance",
+      "circumstances",
+      "circumstantial",
+      "circumstantially",
+      "circumstantiate",
+      "circumvallate",
+      "circumvent",
+      "circumvention",
+      "circumvolute",
+      "circumvolution",
+      "circumvolve",
+      "circus",
+      "encircle",
+      "encircled",
+      "encirclement",
+      "encircling",
+      "recirculation"
+    ],
+    "circum": [
+      "circumambulate",
+      "circumcise",
+      "circumcision",
+      "circumlocution",
+      "circumlocutious",
+      "circumlocutory",
+      "circumnavigate",
+      "circumnavigation",
+      "circumscribe",
+      "circumscribed",
+      "circumscription",
+      "circumspect",
+      "circumspection",
+      "circumspectly",
+      "circumstance",
+      "circumstances",
+      "circumstantial",
+      "circumstantially",
+      "circumstantiate"
+    ],
+    "clin": [
+      "anticlinal",
+      "anticline",
+      "clinch",
+      "clinched",
+      "clincher",
+      "clincher-built",
+      "cline",
+      "clinic",
+      "clinical",
+      "clinically",
+      "clinician",
+      "clinid",
+      "clinidae",
+      "clinocephalism",
+      "clinocephaly",
+      "clinodactyly",
+      "clinometer",
+      "clinopodium",
+      "clinoril",
+      "clinton",
+      "clintonia",
+      "declination",
+      "decline",
+      "declinometer",
+      "diclinous",
+      "disinclination",
+      "disincline",
+      "disinclined",
+      "inclination",
+      "incline",
+      "inclined",
+      "inclining",
+      "inclinometer",
+      "preclinical",
+      "reclinant",
+      "recline",
+      "recliner",
+      "reclining",
+      "subclinical",
+      "synclinal",
+      "syncline"
+    ],
+    "verg": [
+      "converge",
+      "convergence",
+      "convergency",
+      "convergent",
+      "converging",
+      "diverge",
+      "divergence",
+      "divergency",
+      "divergent",
+      "diverging",
+      "everglades",
+      "evergreen",
+      "nonconvergent",
+      "verge",
+      "verger",
+      "vergil"
+    ]
+  },
+  "found_less": [
+    [
+      "circadian",
+      0
+    ],
+    [
+      "circaea",
+      0
+    ],
+    [
+      "circaetus",
+      0
+    ],
+    [
+      "circassian",
+      2
+    ],
+    [
+      "circe",
+      2
+    ],
+    [
+      "circinate",
+      0
+    ],
+    [
+      "circinus",
+      0
+    ],
+    [
+      "circlet",
+      1
+    ],
+    [
+      "circuitry",
+      0
+    ],
+    [
+      "circular-knit",
+      0
+    ],
+    [
+      "circularisation",
+      0
+    ],
+    [
+      "circularise",
+      0
+    ],
+    [
+      "circularity",
+      0
+    ],
+    [
+      "circularization",
+      0
+    ],
+    [
+      "circularize",
+      0
+    ],
+    [
+      "circularly",
+      2
+    ],
+    [
+      "circulating",
+      2
+    ],
+    [
+      "circulative",
+      0
+    ],
+    [
+      "circulatory",
+      0
+    ],
+    [
+      "circum",
+      0
+    ],
+    [
+      "circumambulate",
+      1
+    ],
+    [
+      "circumboreal",
+      0
+    ],
+    [
+      "circumcise",
+      1
+    ],
+    [
+      "circumcision",
+      1
+    ],
+    [
+      "circumduction",
+      0
+    ],
+    [
+      "circumferent",
+      0
+    ],
+    [
+      "circumferential",
+      1
+    ],
+    [
+      "circumflex",
+      0
+    ],
+    [
+      "circumfuse",
+      0
+    ],
+    [
+      "circumlocution",
+      2
+    ],
+    [
+      "circumlocutious",
+      0
+    ],
+    [
+      "circumlocutory",
+      0
+    ],
+    [
+      "circumnavigate",
+      0
+    ],
+    [
+      "circumpolar",
+      2
+    ],
+    [
+      "circumscribe",
+      2
+    ],
+    [
+      "circumscribed",
+      2
+    ],
+    [
+      "circumstantially",
+      1
+    ],
+    [
+      "circumstantiate",
+      0
+    ],
+    [
+      "circumvallate",
+      0
+    ],
+    [
+      "circumvention",
+      2
+    ],
+    [
+      "circumvolute",
+      0
+    ],
+    [
+      "circumvolution",
+      0
+    ],
+    [
+      "circumvolve",
+      0
+    ],
+    [
+      "encircle",
+      1
+    ],
+    [
+      "encirclement",
+      0
+    ],
+    [
+      "recirculation",
+      0
+    ],
+    [
+      "circumambulate",
+      1
+    ],
+    [
+      "circumcise",
+      1
+    ],
+    [
+      "circumcision",
+      1
+    ],
+    [
+      "circumlocution",
+      2
+    ],
+    [
+      "circumlocutious",
+      0
+    ],
+    [
+      "circumlocutory",
+      0
+    ],
+    [
+      "circumnavigate",
+      0
+    ],
+    [
+      "circumscribe",
+      2
+    ],
+    [
+      "circumscribed",
+      2
+    ],
+    [
+      "circumstantially",
+      1
+    ],
+    [
+      "circumstantiate",
+      0
+    ],
+    [
+      "anticlinal",
+      0
+    ],
+    [
+      "anticline",
+      0
+    ],
+    [
+      "clincher",
+      0
+    ],
+    [
+      "clincher-built",
+      0
+    ],
+    [
+      "cline",
+      0
+    ],
+    [
+      "clinic",
+      0
+    ],
+    [
+      "clinical",
+      0
+    ],
+    [
+      "clinically",
+      0
+    ],
+    [
+      "clinician",
+      0
+    ],
+    [
+      "clinid",
+      0
+    ],
+    [
+      "clinidae",
+      0
+    ],
+    [
+      "clinocephalism",
+      0
+    ],
+    [
+      "clinocephaly",
+      0
+    ],
+    [
+      "clinodactyly",
+      0
+    ],
+    [
+      "clinometer",
+      0
+    ],
+    [
+      "clinopodium",
+      0
+    ],
+    [
+      "clinoril",
+      0
+    ],
+    [
+      "clinton",
+      0
+    ],
+    [
+      "clintonia",
+      0
+    ],
+    [
+      "declination",
+      0
+    ],
+    [
+      "declinometer",
+      0
+    ],
+    [
+      "diclinous",
+      0
+    ],
+    [
+      "disincline",
+      1
+    ],
+    [
+      "inclinometer",
+      0
+    ],
+    [
+      "preclinical",
+      0
+    ],
+    [
+      "reclinant",
+      0
+    ],
+    [
+      "recline",
+      2
+    ],
+    [
+      "recliner",
+      0
+    ],
+    [
+      "subclinical",
+      0
+    ],
+    [
+      "synclinal",
+      0
+    ],
+    [
+      "syncline",
+      0
+    ],
+    [
+      "convergence",
+      2
+    ],
+    [
+      "convergency",
+      0
+    ],
+    [
+      "convergent",
+      1
+    ],
+    [
+      "divergence",
+      2
+    ],
+    [
+      "divergency",
+      0
+    ],
+    [
+      "divergent",
+      2
+    ],
+    [
+      "everglades",
+      0
+    ],
+    [
+      "nonconvergent",
+      0
+    ],
+    [
+      "verger",
+      0
+    ],
+    [
+      "vergil",
+      0
+    ]
+  ]
+}

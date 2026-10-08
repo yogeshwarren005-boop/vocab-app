@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition that accompanies or influences some event or activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The set of facts or circumstances that surround a situation or event.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition, fact, or event connected with or having an influence on an action or situation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal analysis and narrative description, a secondary detail accompanying and modifying the main event.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Signior Antipholus, I wonder much That you would put me to this shame and trouble, And not without some scandal to yourself, With circumstance and oaths so to deny This chain, which now you wear so openly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You speak like a green girl, Unsifted in such perilous circumstance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And can you by no drift of circumstance Get from him why he puts on this confusion, Grating so harshly all his days of quiet With turbulent and dangerous lunacy?"*
+> - 📜 **William Shakespeare (*As You Like It*):** *"The fifth, the countercheck quarrelsome; the sixth, the lie with **circumstance**; the seventh, the lie direct."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This utterance was very shaky by nature, and more so by **circumstance**, the jolting of the waggon affecting his speech."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"It is also a most favourable **circumstance** for the production of distinct breeds, that pigeons mate for life."*

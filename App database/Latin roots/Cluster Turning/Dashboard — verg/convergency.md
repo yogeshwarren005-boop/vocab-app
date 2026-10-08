@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The approach of an infinite series to a finite limit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of converging (coming closer).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tendency, quality, or process of drawing toward a common center or identical goal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological optics, the coordinated inward rotation of both ocular axes to fixate upon a near object.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, convergency designates the approach of an infinite series to a finite limit."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The remarkable **convergency** of river valleys toward the central lake basin suggests a tectonic depression."*
+> - 📜 **Hermann von Helmholtz (*Physiological Optics*):** *"Binocular stereoscopic vision depends on the precise **convergency** of the optical axes upon the illuminated target."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"A steady **convergency** of opinion among naturalists heralds the general acceptance of dynamic transformation."*

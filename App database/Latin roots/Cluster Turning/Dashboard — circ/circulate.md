@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become widely known and passed on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to become widely known.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To move continuously around a closed circuit or system, as blood through vessels or coolant through a radiator.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To pass freely from person to person or place to place, as news, rumors, currency, or opinions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These substitutes for, or supplements to, money enable each dollar to do more work, to circulate more rapidly."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To them the fact that paper money may circulate for a time at par appears a reason why it always should."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Bank notes _are_ money, and so long as their amount is limited by prompt redemption they circulate _instead of_ so much of other kinds of money."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Our affections as yet **circulate** through it, giving warmth to what would otherwise remain cold and solitary."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"In the wonderfulness and fearfulness of the rumors which sometimes **circulate** there, the whale fishery surpasses all."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"Spread it then, and let it **circulate** through every vein of all your empire."*

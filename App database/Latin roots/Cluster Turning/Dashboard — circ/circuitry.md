@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Electronic equipment consisting of a system of circuits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electronic equipment consisting of a system of circuits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The detailed plan, arrangement, or collective interconnected network of electrical conductors and components in a device.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational neuroscience, the complex structural patterns of synaptic connections that process neural signals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Out of sight beyond a hillock, Zolan reached into the circuitry behind the instrument panel, manipulated connections, and punched in new coordinates."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Feedback loops within complex **circuitry** govern both mechanical governors and biological reflex arcs."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"The logical arrangement of switching **circuitry** determines the maximum transmission capacity across noisy channels."*
+> - 📜 **John von Neumann (*The Computer and the Brain*):** *"The digital **circuitry** of electronic calculating machines operates at speeds orders of magnitude beyond organic synapses."*

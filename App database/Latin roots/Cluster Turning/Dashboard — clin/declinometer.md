@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring magnetic declination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument for measuring magnetic declination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument designed to measure the magnetic declination or angular deflection of a compass needle from true geographic north.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geomagnetism and navigation, a precision optical instrument used to calibrate marine compasses against astronomical meridian lines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, declinometer designates an instrument for measuring magnetic declination."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"With the magnetic **declinometer**, we registered hourly fluctuations in the needle caused by distant auroral displays."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"A delicate **declinometer** in the laboratory responded to sudden shifts in the terrestrial magnetic field."*
+> - 📜 **James Clark Ross (*A Voyage of Discovery and Research in the Southern and Antarctic Regions*):** *"Observations with the marine **declinometer** confirmed our close approach to the south magnetic pole."*

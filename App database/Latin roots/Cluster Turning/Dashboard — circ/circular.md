@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An advertisement (usually printed on a page or in a leaflet) intended for wide distribution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a circular shape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the form of a circle; round, planar, and bounded by an unbroken curved perimeter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Printed for wide distribution, such as an official announcement, commercial prospectus, or open letter sent to many recipients.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It was in a window of what seemed to be an old-fashioned house with three peaks in the roof in front and a circular sweep leading to the porch."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Through a partly-opened door the noise of a scrubbing-brush led up to the charwoman, Maryann Money, a person who for a face had a circular disc, furrowed less by age than by long gazes of perplexity at distant objects."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I’ll follow you soon.” Cainy Ball—a cheery-faced young lad, with a small circular orifice by way of mouth, advanced and deposited two others, and retired as he was bidden."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Maryann Money, a person who for a face had a **circular** disc, furrowed less by age than by long gazes of perplexity at distant objects."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In the same way as the rude humble-bee adds cylinders of wax to the **circular** mouths of her old cocoons."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Presently it was possible to discern something that might be a gig on the **circular** drive before the front door."*

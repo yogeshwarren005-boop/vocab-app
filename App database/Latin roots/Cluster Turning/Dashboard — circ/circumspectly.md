@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a cagey manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a cagey manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a cautious, prudent, and vigilant manner; taking care to avoid potential pitfalls or detection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Proceeding with measured deliberation so as to respect social boundaries or hazardous environments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The dairyman himself had been lending a hand; but Mr Crick, as well as his wife, seemed latterly to have acquired a suspicion of mutual interest between these two; though they walked so circumspectly that suspicion was but of the faintest."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A third person rode up circumspectly through the wood (it was plain that he had had a lesson) and stopped behind the count."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"He walked very slowly and circumspectly, and there was something indescribably guilty and furtive in his whole appearance."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Though they walked so **circumspectly** that suspicion was but of the faintest, the quiet bond between them deepened."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"At the sight of that we crawled as **circumspectly** as possible out of the twilight of the kitchen into the darkness of the scullery."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"And then looking **circumspectly**, I beheld a crowd gather to that side which was most in my view."*

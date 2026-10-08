@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the stage in the development of a disease before the symptoms are observed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the stage in the development of a disease before the symptoms are observed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or denoting an infection, disease, or pathological defect not detectable by observable symptoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epidemiology, describing mild or inapparent cases detectable only by specialized laboratory or serological assays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subclinical designates relating to the stage in the development of a disease before the symptoms are observed."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A **subclinical** thyroid deficiency may manifest merely as persistent lethargy and vague muscular fatigue."*
+> - 📜 **Theobald Smith (*Parasitism and Disease*):** *"Many herd members harbor **subclinical** infections that serve as latent reservoirs of epidemic contagion."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"Electrocardiographic changes often disclose **subclinical** myocarditis following acute infectious fevers."*

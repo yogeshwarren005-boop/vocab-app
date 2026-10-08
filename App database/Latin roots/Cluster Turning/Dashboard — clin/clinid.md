@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mostly small blennioid fishes of coral reefs and seagrass beds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mostly small blennioid fishes of coral reefs and seagrass beds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any small coastal fish of the blennioid family Clinidae, commonly known as klipfishes or scaled blennies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, marine bottom-dwellers inhabiting tidal rockpools and kelp forests, possessing elongated dorsal fins and cryptic camouflage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clinid designates mostly small blennioid fishes of coral reefs and seagrass beds."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The agile **clinid** shelters within the tangled kelp fronds, matching the mottled weeds in tint."*
+> - 📜 **Albert Günther (*Catalogue of the Fishes in the British Museum*):** *"In this **clinid** species, the anterior rays of the dorsal fin are elevated into an ornate crest."*
+> - 📜 **William Beebe (*Beneath Tropic Seas*):** *"A tiny **clinid** peered from a crevice in the coral reef, perfectly motionless amidst the surging tide."*

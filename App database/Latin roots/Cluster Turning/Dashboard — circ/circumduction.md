@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A circular movement of a limb or eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A circular movement of a limb or eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The circular movement of a limb or eye in which the distal end describes a circle while the proximal end remains stationary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In functional kinesiology, a compound motion combining flexion, extension, abduction, and adduction at a ball-and-socket joint.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circumduction designates a circular movement of a limb or eye."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The shoulder joint permits extensive **circumduction**, allowing the hand to describe a wide circle in space."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"During **circumduction**, the limb successively traces the surface of an imaginary cone whose apex rests in the joint."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Spastic hemiplegia causes a characteristic gait wherein the patient swings the paretic leg in outward **circumduction**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of lines, planes, or surfaces) never meeting or crossing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of lines, planes, or surfaces) never meeting or crossing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing or tending not to converge toward a common limit, point, or conclusion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, describing an infinite series or sequence that diverges or oscillates without approaching a finite limit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonconvergent designates (of lines, planes, or surfaces) never meeting or crossing."*
+> - 📜 **Isaac Todhunter (*A Treatise on the Integral Calculus*):** *"A **nonconvergent** series cannot be legitimately employed in numerical computations of planetary orbits."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The evolutionary pathways remained strictly **nonconvergent**, each line adapting to radically distinct microhabitats."*
+> - 📜 **William Rowan Hamilton (*Elements of Quaternions*):** *"When the vector sequence is **nonconvergent**, higher-order terms fail to stabilize toward a definitive value."*

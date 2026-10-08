@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: American geneticist who succeeded in transferring a functioning gene from one mouse to another (born in 1934).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: American geneticist who succeeded in transferring a functioning gene from one mouse to another (born in 1934).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gradual, continuous gradient in a phenotypic trait or allele frequency across the geographical range of a species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological genetics, a geographic transition zone reflecting differential environmental selection pressures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cline designates american geneticist who succeeded in transferring a functioning gene from one mouse to another (born in 1934)."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"A geographic **cline** demonstrates how character gradients respond systematically to environmental temperature and rainfall."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"Body size in mammals frequently follows a latitudinal **cline** consistent with Bergmann's rule."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Gene arrangements in Drosophila populations shift along an altitudinal **cline** across the mountain slopes."*

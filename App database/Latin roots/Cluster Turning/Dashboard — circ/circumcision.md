@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church and anglican church) feast day celebrating the circumcision of jesus; celebrated on january 1st.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of circumcising performed on males eight days after birth as a jewish and muslim religious rite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical removal of the penile prepuce, practiced universally as a religious covenant in Judaism and Islam.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively in theology, the purification of the heart or internal spirit from moral guilt and worldly desire.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"The legend adds that by command of his god he was the first to introduce circumcision to be practised among his descendants."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"There he plunged into the water and bathed all over; this done, he called on his ancestral shades (_Aumakua_), who came and performed on him the rite of circumcision while lightning flashed, thunder sounded, and the earth quaked."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Dieri also imagine that the foreskins taken from lads at circumcision have a great power of producing rain."*
+> - 📜 **King James Bible (*Exodus*):** *"So he let him go: then she said, A bloody husband thou art, because of the **circumcision**."*
+> - 📜 **John Locke (*A Letter Concerning Toleration*):** *"The rite of **circumcision** was instituted as a distinctive covenant badge for the commonwealth of Israel."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The early converts hotly debated whether Gentile Christians must submit to the rite of **circumcision**."*

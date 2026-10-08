@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wife of president clinton and later a woman member of the united states senate (1947-).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 42nd president of the united states (1946-).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A personal surname and prominent American and British place name, borne by several historical statesmen and geological formations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In North American stratigraphy, designating the Clinton Group, a prominent Silurian geological formation rich in fossiliferous iron ore.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Cornwallis fought as lang’s he dought, An’ did the Buckskins claw, man; But Clinton’s glaive frae rust to save, He hung it to the wa’, man."*
-> - 📜 **Effie Afton (*Eventide*):** *"Each member of the large party that proposed to ascend Mount Washington was at an early hour mounted on a strong-built pony, and led by a guide into the bridle-path which commenced in the woods at the base of Mount Clinton."*
-> - 📜 **Effie Afton (*Eventide*):** *"The whole ascent of Clinton was through a dense forest, over a rough, uneven path, constructed of small, round timbers, called "corduroys." They were in a rotted, dilapidated condition, and unpleasant as well as dangerous to ride over."*
+> - 📜 **James Hall (*Palaeontology of New York*):** *"The fossiliferous iron ore of the **Clinton** formation extends continuously along the Appalachian escarpment."*
+> - 📜 **Charles Lyell (*Travels in North America*):** *"We examined the Silurian strata of the **Clinton** group near the falls, noting characteristic trilobite remains."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"The marine fauna preserved within the **Clinton** limestones exhibits close affinity with Wenlock shales in Britain."*

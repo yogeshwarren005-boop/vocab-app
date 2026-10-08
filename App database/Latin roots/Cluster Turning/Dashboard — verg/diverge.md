@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move or draw apart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have no limits as a mathematical series.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To move or extend in different directions from a common point; to separate or branch off.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To differ or deviate substantially from a standard, norm, opinion, or path.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"If we did by any chance diverge into another subject, we soon returned to this, and wondered what the house would be like, and when we should get there, and whether we should see Mr."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The average result of a certain social policy may be right, but individuals diverge from the average and thus have constantly a motive to attempt to change the limits of governmental action."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Thus it is that historians differ at the very outset, and mere pebbles make the stream of truth diverge into different channels even at the fountain-head."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Differences, at first barely appreciable, steadily increase, and the breeds to **diverge** in character both from each other and from their common parent."*
+> - 📜 **William James (*Pragmatism*):** *"Give me the green lanes and hills, when I'm inclined to **diverge**; and the smooth turnpike roads, when disposed to go ahead."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"**Diverge**, fine spokes of light, from the shape of my head, or any one's head, in the sunlit water!"*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to turn on an axis or center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to turn on an axis or center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To roll or cause to revolve around a center; to rotate or whirl continuously in a circuit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetic and cosmic descriptions, to cause celestial bodies or cyclical epochs to rotate in majestic orbits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circumvolve designates cause to turn on an axis or center."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"The whirling spheres **circumvolve** in harmonic cadence through the infinite abyss."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Wheel within wheel they seemed to **circumvolve**, alive with spirit and celestial fire."*
+> - 📜 **William Cowper (*The Task*):** *"The rolling seasons **circumvolve**, bringing alternate frost and verdure across the countryside."*

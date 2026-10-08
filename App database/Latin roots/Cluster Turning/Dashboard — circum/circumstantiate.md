@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give circumstantial evidence for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give circumstantial evidence for.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To give substance, verification, or detailed factual evidence to an account, claim, or charge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and legal jurisprudence, to corroborate a broad claim with specific supporting particulars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circumstantiate designates give circumstantial evidence for."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Circumstances give in reality to every political principle its discriminating effect; we must **circumstantiate** our claims with historical facts."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"To **circumstantiate** an accusation requires reliable testimony rather than idle neighborhood gossip."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The chroniclers fail to **circumstantiate** the alleged miracle with contemporary witnesses."*

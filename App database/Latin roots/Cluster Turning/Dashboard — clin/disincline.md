@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make unwilling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make unwilling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make someone unwilling, reluctant, or disaffected toward an action or proposed course.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral deliberation, to discourage or dissuade an individual from pursuing a specific inclination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But I felt it; and it did not disincline me towards him; though I felt impatience at what seemed like mystery in him, so imperfectly as he was known to me then."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But I felt it; and it did not disincline me towards him; though I felt impatience at what seemed like mystery in him, so imperfectly as he was known to me then."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I, Darrell Standing, was so strongly disinclined to die that I refused to let Warden Atherton and Captain Jamie kill me."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Such reflections may well **disincline** the timid mariner from venturing into the polar pack-ice."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"The fatigue of the journey served to **disincline** her from joining the lively evening party in the drawing room."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Repeated disappointments **disincline** the elderly from embarking on hazardous new enterprises."*

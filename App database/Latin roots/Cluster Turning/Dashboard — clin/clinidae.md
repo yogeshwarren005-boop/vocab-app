@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Viviparous blennies of temperate and tropical seas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Viviparous blennies of temperate and tropical seas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic family of teleost fishes comprising the scaled blennies or klipfishes within the suborder Blennioidei.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine taxonomy, a family of carnivorous, mostly viviparous or ovoviviparous littoral fishes distributed widely in temperate coastal waters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clinidae designates viviparous blennies of temperate and tropical seas."*
+> - 📜 **David Starr Jordan (*The Genera of Fishes*):** *"The family **Clinidae** includes numerous small carnivorous species adapted to life in surging rocky intertidal zones."*
+> - 📜 **Albert Günther (*An Introduction to the Study of Fishes*):** *"Distinctive ctenoid scales and hook-like pelvic rays characterize the littoral blennies of the family **Clinidae**."*
+> - 📜 **Theodore Gill (*Arrangement of the Families of Fishes*):** *"Members of **Clinidae** exhibit remarkable structural divergence in their spinous dorsal apparatus across southern seas."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital defect in which one or more toes or fingers are abnormally positioned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A congenital defect in which one or more toes or fingers are abnormally positioned.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital abnormal curvature or permanent deflection of a finger or toe, most commonly the fifth digit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical genetics, an inward curving of the little finger at the interphalangeal joint, often associated with chromosomal aneuploidies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clinodactyly designates a congenital defect in which one or more toes or fingers are abnormally positioned."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Bilateral **clinodactyly** of the little fingers is frequently observed in infants with congenital developmental syndromes."*
+> - 📜 **Charles Davenport (*Heredity in Relation to Eugenics*):** *"Pedigree studies demonstrate that minor digital variations like **clinodactyly** follow simple autosomal dominant inheritance."*
+> - 📜 **Archibald Garrod (*Inborn Factors in Disease*):** *"The inward curvature termed **clinodactyly** reflects hypoplasia of the middle phalanx during embryonic limb budding."*

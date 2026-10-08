@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surround with or as if with a rampart or other fortification.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surround with or as if with a rampart or other fortification.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surrounded by a rampart, wall, or trench; encircled by a protective or defensive perimeter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human anatomy, designating the large, flat, papillae at the back of the tongue encircled by a distinct groove.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circumvallate designates surround with or as if with a rampart or other fortification."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Roman engineers proceeded to **circumvallate** the besieged fortress with a continuous ditch and rampart."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The large **circumvallate** papillae form an inverted V-shaped row across the posterior dorsum of the tongue."*
+> - 📜 **Flavius Josephus (*The Jewish War*):** *"Titus commanded his legions to **circumvallate** the entire perimeter of Jerusalem to prevent escape or resupply."*

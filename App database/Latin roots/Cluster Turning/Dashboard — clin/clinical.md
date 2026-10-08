@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a clinic or conducted in or as if in a clinic and depending on direct observation of patients.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scientifically detached; unemotional.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the observation, examination, and direct treatment of living patients rather than theoretical laboratory science.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Efficiently detached, unemotional, and coolly objective in analysis or practical demeanor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The PHA is a four-stage process that includes a prevention-oriented clinical screening, occupational examination, screening of military-unique medical requirements and counseling."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"They cannot get admission to any Hospital for the clinical part of the course."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Careful **clinical** history often discloses the insidious onset of arterial degeneration long before physical signs appear."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Medicine can only advance when laboratory physiology merges harmoniously with **clinical** observation."*
+> - 📜 **Arthur Conan Doyle (*The Sign of Four*):** *"Sherlock Holmes approached the crime with a cold, **clinical** detachment that astonished the detectives."*

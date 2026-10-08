@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fully detailed and specific about particulars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fully detailed and specific about particulars.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pointing indirectly toward someone's guilt or factuality but not conclusively proving it, as in indirect evidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing full and minute details; richly descriptive regarding incidental particulars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is called the “countercheck quarrelsome”, and so, to the “lie circumstantial”, and the “lie direct”."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I durst go no further than the lie circumstantial, nor he durst not give me the lie direct; and so we measured swords and parted."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This fierce abridgement Hath to it circumstantial branches, which Distinction should be rich in."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"This is called the countercheck quarrelsome, and so, to the lie **circumstantial**, and the lie direct."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"So the two forces were at work here as everywhere, the inherent will to enjoy, and the **circumstantial** will against enjoyment."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Utilitarian writers placed the superiority of mental pleasures in their **circumstantial** advantages rather than in their intrinsic nature."*

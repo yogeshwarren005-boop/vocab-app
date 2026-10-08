@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Form a circle around.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bind with something round or circular.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surrounded, hemmed in, or completely enclosed on all sides by an enclosing perimeter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Embraced or crowned by a band, ring, wreath, or enclosing group of people.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"When they came, he encircled Ada with one arm in his fatherly way and addressed himself to Richard with a cheerful gravity."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby is strangely reminded of another infant, encircled with light, that he has seen in pictures."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Until she had met Troy, Bathsheba had been proud of her position as a woman; it had been a glory to her to know that her lips had been touched by no man’s on earth—that her waist had never been encircled by a lover’s arm."*
+> - 📜 **William Shakespeare (*Henry IV, Part 2*):** *"When that your flock, assembled by the bell, **encircled** you to hear with reverence your exposition on the holy text."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It had been a glory to her to know that her waist had never been **encircled** by a lover's arm."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea **encircled** her with gentle arms and pressed her lips gravely on each cheek in turn."*

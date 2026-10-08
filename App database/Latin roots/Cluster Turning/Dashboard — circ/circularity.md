@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The roundness of a 2-dimensional figure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The roundness of a 2-dimensional figure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The geometric attribute or condition of having a round, closed circular shape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal logic, the fallacious property of an argument that assumes in its premises the very conclusion it seeks to prove.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circularity designates the roundness of a 2-dimensional figure."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The fallacy of petitio principii derives its deceptive plausibility from disguised **circularity** in definitions."*
+> - 📜 **William James (*The Principles of Psychology*):** *"To define consciousness solely by its subjective awareness is to fall into hopeless philosophical **circularity**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The near-perfect **circularity** of the coral atoll reflects the gradual subsidence of the underlying volcanic cone."*

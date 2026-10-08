@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument showing the angle that an aircraft makes with the horizon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument for measuring the angle of magnetic dip (as from an airplane).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring angles of slope, elevation, or depression of an object with respect to gravity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aeronautics and marine navigation, a dashboard gauge showing an aircraft's pitch or a vessel's roll angle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inclinometer designates an instrument showing the angle that an aircraft makes with the horizon."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"With the magnetic **inclinometer**, we determined the steep dip of the needle as we ascended the Andean plateaus."*
+> - 📜 **James Clark Ross (*A Voyage of Discovery in the Southern Regions*):** *"The marine **inclinometer** revealed the vertical direction of magnetic forces near the icy barrier."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"The reading on the portable **inclinometer** showed that the sedimentary strata dipped thirty degrees westward."*

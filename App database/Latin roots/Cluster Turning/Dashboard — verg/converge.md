@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be adjacent or come together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Approach a limit as the number of terms increases without limit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To move toward one another and meet or approach the same central point from different directions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, to approach a finite, definite limit as the number of terms or steps increases indefinitely.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Because of the threat to Slingshot that they perceive in you, the UIPS has been draining both groups lately to augment patrols along routes through the Outer Region that converge on the Special Zone."*
-> - 📜 **Bram Stoker (*Dracula*):** *"It was hard to believe that by our watches it was less than an hour that we waited in that rocky shelter before the various bodies began to converge close upon us."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"For two distinct lines of argument converge to show that if Diana was a queen of the woods in general, she was at Nemi a goddess of the oak in particular."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"This is the highest standard towards which the efforts of all virtuous citizens should be made in the utmost possible degree to **converge**."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"It is well known that the hair on our arms tends to **converge** from above and below to a point at the elbow."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Before the various bodies began to **converge** close upon us, we waited in that rocky shelter."*

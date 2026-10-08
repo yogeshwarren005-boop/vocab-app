@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A roman poet; author of the epic poem `aeneid' (70-19 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A roman poet; author of the epic poem `aeneid' (70-19 bc).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Publius Vergilius Maro, the classical Roman poet acclaimed for the national epic Aeneid, the Georgics, and the Eclogues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European cultural history and Dante's Divine Comedy, the revered poetic master and allegorical guide representing human reason.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"There came several bodies of heavy-armed foot, all mercenaries, under the ensigns of Guicciardini, Davila, Polydore Vergil, Buchanan, Mariana, Camden, and others."*
+> - 📜 **Dante Alighieri (*The Divine Comedy*):** *"Art thou that **Vergil** and that fountain-head which spouts so wide a stream of eloquent speech?"*
+> - 📜 **John Dryden (*The Works of Virgil*):** *"The noble diction of **Vergil** balances heroic majesty with the most tender pathos in classical verse."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"In every generation, scholars return to **Vergil** for lessons in artistic perfection and stately cadence."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A travelling company of entertainers; including trained animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A performance given by a traveling company of acrobats, clowns, and trained animals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traveling company of performers including acrobats, clowns, and trained animals in a circular arena.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Rome, a large unroofed oval arena with tiered seating used for chariot races and gladiatorial contests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At this time—the July preceding the September in which we find at Greenhill Fair—he fell in with a travelling circus which was performing in the outskirts of a northern town."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"These robes, of course, were based upon my boyhood observance of circus actors and my boyhood conception of the garb of young angels."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was an unending circus procession."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He fell in with a travelling **circus** which was performing in the outskirts of a northern town."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"For a long time, now, the **circus**-running sun has raced within his fiery ring, and needs no sustenance."*
+> - 📜 **James Joyce (*Dubliners*):** *"The worshippers traversed the little **circus** before the church, revealing their purpose by their self-contained demeanour."*

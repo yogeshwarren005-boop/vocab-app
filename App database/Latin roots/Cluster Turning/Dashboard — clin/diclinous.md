@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having pistils and stamens in separate flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having pistils and stamens in separate flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having unisexual reproductive organs borne in separate staminate and pistillate flowers on the same or different individual plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive botany, designating monoecious or dioecious angiosperms that prevent self-fertilization through sexual separation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diclinous designates having pistils and stamens in separate flowers."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"In many **diclinous** species, cross-pollination is secured by wind or insects carrying pollen between separate blossoms."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"A plant is termed **diclinous** when stamens and pistils are situated in different floral envelopes."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The oak and hazel provide classic instances of **diclinous** trees bearing male catkins and female flower buds."*

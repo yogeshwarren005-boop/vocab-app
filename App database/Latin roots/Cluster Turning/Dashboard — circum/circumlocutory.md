@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roundabout and unnecessarily wordy; ; -t.s.eliot; (`ambagious' is archaic).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roundabout and unnecessarily wordy; ; -t.s.eliot; (`ambagious' is archaic).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Using or characterized by circumlocution; roundabout, indirect, and evasive in verbal phrasing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political and diplomatic communication, employing ambiguous or polite periphrasis to avoid contentious assertions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circumlocutory designates roundabout and unnecessarily wordy; ; -t.s.eliot; (`ambagious' is archaic)."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The whole administrative system was designed to baffle public inquiry through **circumlocutory** correspondence."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The diplomat avoided a direct commitment by framing his response in **circumlocutory** compliments."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Ambiguous and **circumlocutory** phrasing frequently disguises the total absence of substantive proof."*

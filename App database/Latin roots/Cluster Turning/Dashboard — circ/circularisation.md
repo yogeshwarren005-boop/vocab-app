@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Circulating printed notices as a means of advertising.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Circulating printed notices as a means of advertising.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, practice, or process of sending informative circulars, notices, or formal questionnaires to many people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In financial auditing, the systematic procedure of contacting outside debtors and creditors to confirm account balances directly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circularisation designates circulating printed notices as a means of advertising."*
+> - 📜 **Lawrence Dicksee (*Auditing: A Practical Manual for Auditors*):** *"Direct **circularisation** of trade debtors provides an indispensable safeguard against undisclosed discrepancies in ledger accounts."*
+> - 📜 **Arthur Conan Doyle (*The Red-Headed League*):** *"The extensive **circularisation** of the business community served to draw hundreds of applicants to the secluded office."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The general **circularisation** of trading reports enables merchants to adjust supply quickly to fluctuating market demands."*

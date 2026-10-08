@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An elevated geological formation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inclined surface connecting two levels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To lean, slope, or slant away from the horizontal or vertical plane; to bend forward or bow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To have a mental disposition, preference, or tendency toward a belief, attitude, or action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alexas did revolt and went to Jewry on Affairs of Antony; there did dissuade Great Herod to incline himself to Caesar And leave his master Antony."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say, if he would incline to the people, there was never a worthier man."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When he was here He did incline to sadness, and oft-times Not knowing why."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"There did dissuade Great Herod to **incline** himself to Caesar and leave his master Antony."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak saw coming down the **incline** before him an ornamental spring waggon, painted yellow and gaily marked."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Such considerations as these **incline** me to lay very little weight on the direct action of the conditions of life."*

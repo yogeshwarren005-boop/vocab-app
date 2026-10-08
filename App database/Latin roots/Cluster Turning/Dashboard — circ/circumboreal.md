@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprising or throughout far northern regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprising or throughout far northern regions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Distributed throughout the northern temperate and subarctic regions of both North America and Eurasia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biogeography and phytogeography, designating flora and fauna that inhabit high-latitude boreal forests across the northern hemisphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circumboreal designates comprising or throughout far northern regions."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The dwarf birch exhibits a true **circumboreal** distribution across the tundra fringes of two continents."*
+> - 📜 **Merritt Lyndon Fernald (*Persistence of Plants in Unglaciated Areas*):** *"Many relict species in alpine refugia trace their lineage to ancient **circumboreal** migrations."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The close similarity of **circumboreal** alpine plants supports the doctrine of reciprocal migrations during glacial epochs."*

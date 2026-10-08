@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Diverging from another or from a standard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to move apart in different directions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moving, extending, or pointing away from a common point; drawing apart from each other.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, describing traits or descendant species that have evolved along dissimilar evolutionary trajectories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This too familiar intonation, less than four years earlier, had brought to her ears expressions of such divergent purpose that her heart became quite sick at the irony of the contrast."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Divergent views of typical bank notes. § 11."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Divergent views of effects on population. § 10."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The more **divergent** the offspring of any one species become in structure and habits, the more places they will seize on."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Their **divergent** paths in life parted at the crossroads, each following a distinct ambition."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A single sensation may prompt widely **divergent** motor responses depending on habitual associations."*

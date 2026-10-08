@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of assuming or maintaining a reclining position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move the upper body backwards and down.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Leaning or resting backward in a relaxed horizontal or recumbent posture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing furniture or vehicle seats designed with backs that adjust to a resting tilt.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The sick child sat completely dressed on a bed in the corner of the room, half reclining on the pillows."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop, reclining on the sofa and shutting out the sight with his hand."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He passes into a kind of relapse or into a swoon, and it is an hour before he opens his eyes, reclining on his faithful and attached old servant’s arm."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In her **reclining** position she looked up to him just as in earlier times she had looked up to a man."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She could but cast herself, with a childlike sense of **reclining**, in the lap of a divine consciousness which sustained her."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"One afternoon Dorian Gray was **reclining** in a luxurious arm-chair, in the little library of Lord Henry's house."*

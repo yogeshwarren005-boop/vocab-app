@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Draw a line around.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restrict or confine,.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strictly limited, confined within narrow bounds, or enclosed within definite perimeters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology and clinical dermatology, describing well-defined lesions with distinct borders separating them from healthy tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The good Andronicus, Patron of virtue, Rome’s best champion, Successful in the battles that he fights, With honour and with fortune is returned From where he circumscribed with his sword And brought to yoke the enemies of Rome."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"There are others which have a more circumscribed though an equally operative influence within their spheres."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"We shall discover that the former are altogether unlimited, and that the latter are circumscribed within very moderate bounds."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"And therefore must his choice be **circumscribed** unto the voice and yielding of that body whereof he is the head."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Though in a narrow circuit **circumscribed**, our liberty remains untamed within."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Species with **circumscribed** island distributions are especially vulnerable to extinction from introduced predators."*

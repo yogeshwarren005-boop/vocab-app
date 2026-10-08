@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Secure or fasten by flattening the ends of nails or bolts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hold a boxing opponent with one or both arms so as to prevent punches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fastened securely with bent-over nail tips; gripped tightly, closed firmly, or decisively resolved.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In describing physical posture or anger, held tightly shut or compressed, as fists or jaws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But these are all landsmen; of week days pent up in lath and plaster—tied to counters, nailed to benches, clinched to desks."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"A few keen pulls, and his boat-hook soon clinched the Pequod’s main-chains, and he sprang to the deck."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The boy had some slight difficulty in undoing the heavy iron gates, and we heard the hoarse roar of the Doctor’s voice and saw the fury with which he shook his clinched fists at him."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"We heard the hoarse roar of the Doctor's voice and saw the fury with which he shook his **clinched** fists at him."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Sustaining herself on humming wings with **clinched** talons, as if she held by the air, while she surveyed the premises."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Of week days pent up in lath and plaster—tied to counters, nailed to benches, **clinched** to desks."*

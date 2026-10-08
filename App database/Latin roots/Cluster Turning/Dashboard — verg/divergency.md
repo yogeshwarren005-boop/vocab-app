@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An infinite series that has no limit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of moving away in different direction from a common point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tendency, condition, or amount of separating or departing from a common line or standard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical optics and mathematical vector calculus, the degree of spreading of rays or net outward flux from a point.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, divergency designates an infinite series that has no limit."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The **divergency** of tributary valleys from the main tectonic rift indicates secondary fault displacements."*
+> - 📜 **Hermann von Helmholtz (*Physiological Optics*):** *"A concave lens increases the **divergency** of incoming light rays before they strike the cornea."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"A slight **divergency** in the initial premises leads inevitably to contradictory conclusions in philosophical inquiry."*

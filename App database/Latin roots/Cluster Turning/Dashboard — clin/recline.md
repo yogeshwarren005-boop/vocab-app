@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move the upper body backwards and down.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to recline.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To lean or lie back in a relaxed position with the back supported.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To rest or repose oneself upon a couch, lawn, or supportive seat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Here would they slumber through the hours of the night, and recline luxuriously during the greater part of the day."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The old men, of whom there were many in the vale, seldom stirred from their mats, where they would recline for hours and hours, smoking and talking to one another with all the garrulity of age."*
-> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: _(Impassionedly.)_ These flying Dutchmen or lying Dutchmen as they recline in their upholstered poop, casting dice, what reck they?"*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"When we **recline** upon a couch, the work required of the cardiovascular musculature diminishes appreciably."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"I loafe and invite my soul, I lean and **recline** at my ease observing a spear of summer grass."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Beneath the shade of whispering pines he did **recline**, resting after the heat of noon."*

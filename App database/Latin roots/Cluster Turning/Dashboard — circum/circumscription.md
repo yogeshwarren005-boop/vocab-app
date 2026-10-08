@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of circumscribing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of circumscribing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of enclosing within bounds, or the spatial boundary line that confines an entity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomic biology, the formal definition of the limits and diagnostic characters that define a taxon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For know, Iago, But that I love the gentle Desdemona, I would not my unhoused free condition Put into circumscription and confine For the sea’s worth."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Were I assured that this is the utmost I can reasonably expect, that assurance would be a useful circumscription of my attempts, and a guide in both the positive and negative determination of my course.” Here Mr."*
+> - 📜 **William Shakespeare (*Othello*):** *"I would not my unhoused free condition put into **circumscription** and confine for the sea's worth."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Were I assured that this is the utmost I can reasonably expect, that assurance would be a useful **circumscription** of my attempts."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"And yet here again see the swift **circumscription** that arrests the expansion of youthful pride."*

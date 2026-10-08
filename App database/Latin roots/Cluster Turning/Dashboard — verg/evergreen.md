@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant having foliage that persists and remains green throughout the year.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of plants and shrubs) bearing foliage throughout the year.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Retaining green leaves throughout the year rather than shedding them seasonally, as coniferous and certain broadleaf trees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, retaining enduring vitality, popularity, freshness, or aesthetic charm through generations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The stables, partly screened by Austrian pines and evergreen oaks, and fitted with every late appliance, were as dignified as Chapels-of-Ease."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was somewhat disguised from the road in passing it by yews and evergreen oaks, but it was visible enough up here."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"It is generally cut from an evergreen oak, but sometimes from an olive-tree or a beech."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The stables were partly screened by Austrian pines and **evergreen** oaks, fitted with every late appliance."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Annual and perennial plants, deciduous and **evergreen** trees can often be crossed with ease."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"When I return to my house I find that visitors have left either a bunch of flowers or a wreath of **evergreen**."*

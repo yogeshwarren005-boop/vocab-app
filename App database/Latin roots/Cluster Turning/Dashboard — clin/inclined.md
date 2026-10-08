@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have a tendency or disposition to do or be something; be inclined.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bend or turn (one's ear) towards a speaker in order to listen well.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Leaning or sloping at an angle; disposed, prone, or willing to do something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanics and civil engineering, positioned at a gradient to the horizontal, as an inclined plane.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will laugh like a hyena, and that when thou are inclined to sleep."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Please you to march, And I shall quickly draw out my command, Which men are best inclined."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Chide him for faults, and do it reverently, When you perceive his blood inclined to mirth; But, being moody, give him time and scope, Till that his passions, like a whale on ground, Confound themselves with working."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"I will laugh like a hyena, and that when thou art **inclined** to sleep."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The young woman, whose eyelids were apparently **inclined** to fall together on the smallest provocation of silence, yawned."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"The Dodo had paused as if it thought that somebody ought to speak, and no one else seemed **inclined** to say anything."*

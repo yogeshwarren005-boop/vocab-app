@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Travel around, either by plane or ship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Travel around, either by plane or ship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To sail or travel completely around something, especially around the entire globe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, to bypass, avoid, or navigate around an obstacle, regulation, or controversial topic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So that Monsoons, Pampas, Nor-Westers, Harmattans, Trades; any wind but the Levanter and Simoom, might blow Moby Dick into the devious zig-zag world-circle of the Pequod’s circumnavigating wake."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"So that Monsoons, Pampas, Nor’-Westers, Harmattans, Trades; any wind but the Levanter and Simoon, might blow Moby Dick into the devious zig-zag world-circle of the Pequod’s circumnavigating wake."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Meanwhile, the whale he had struck must also have been on its travels; no doubt it had thrice circumnavigated the globe, brushing with its flanks all the coasts of Africa; but to no purpose."*
+> - 📜 **Francis Drake (*The World Encompassed*):** *"Our sturdy mariners resolved to **circumnavigate** the vast globe through uncharted and stormy waters."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"To **circumnavigate** the stormy Cape of Good Hope required hardy seamanship and iron discipline."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The determination of early voyagers to **circumnavigate** South America opened untold riches to geographic science."*

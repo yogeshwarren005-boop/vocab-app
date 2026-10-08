@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move or draw apart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have no limits as a mathematical series.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extending, spreading, or proceeding away from a common origin in different directions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry and optics, separating and increasing the distance between lines or rays as they advance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Its difference from the manatee consisted in its upper jaw, which was armed with two long and pointed teeth which formed on each side diverging tusks."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"An ordinary spherical mirror would reflect them either back to the lamp or in diverging directions."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"How much greater must be the chasm between two such widely diverging races." Morlene exhibited no signs of abating interest, so the lawyer proceeded further with his remarks."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"**Diverging** wrinkles appeared round them, extending upon his countenance like the rays in a rudimentary sketch of the rising sun."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The little fan of **diverging** dotted lines of unequal lengths proceeding from the base represents its varying offspring."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"They furrow the water slightly, making a conspicuous ripple bounded by two **diverging** lines."*

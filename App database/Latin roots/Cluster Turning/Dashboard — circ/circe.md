@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a sorceress who detained odysseus on her island and turned his men into swine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) a sorceress who detained odysseus on her island and turned his men into swine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dangerous enchantress, sorceress, or femme fatale who beguiles, bewitches, or degrades those drawn into her influence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical myth, an embodiment of sensual temptation that strips individuals of their rational human faculties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think you all have drunk of Circe’s cup."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"See, how the ugly witch doth bend her brows, As if with Circe she would change my shape!"*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Now will you go to sleep?" "Circe . . ." "You don't feel as though you were going to sleep." "Mon Dieu!" Lawrence murmured under his breath."*
+> - 📜 **William Shakespeare (*The Comedy of Errors*):** *"I think you all have drunk of **Circe**'s cup, so strangely do your memories wander."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Sensual luxury acts like the potion of **Circe**, transforming aspiring minds into captive creatures of appetite."*
+> - 📜 **John Milton (*Comus*):** *"Bacchus, that first from out the purple grape crushed the sweet poison of misused wine, on **Circe**'s island fell."*

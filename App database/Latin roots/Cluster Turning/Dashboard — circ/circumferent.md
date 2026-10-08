@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Closely encircling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Closely encircling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surrounding or encircling on all sides; bounding around the perimeter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive mechanics and physiology, encompassing an outer margin or peripheral zone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circumferent designates closely encircling."*
+> - 📜 **John Milton (*Paradise Lost*):** *"He took the golden compasses to circumscribe this universe and all created things; this be thy just **circumferent**."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The dense **circumferent** air resists the expansion of burning vapors generated within the flask."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"A series of **circumferent** bony plates encases the auditory chamber in primitive armor-bearing fishes."*

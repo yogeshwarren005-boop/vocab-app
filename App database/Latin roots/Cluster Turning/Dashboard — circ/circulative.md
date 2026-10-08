@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to circulation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to circulation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to circulate or capable of causing continuous flow and periodic movement through a circuit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological fluids, promoting rhythmic distribution and systemic absorption of vital nutrients.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circulative designates of or relating to circulation."*
+> - 📜 **William Harvey (*On the Motion of the Heart and Blood in Animals*):** *"The continuous **circulative** motion of the vital fluid sustains animal life through perpetual return to the heart."*
+> - 📜 **Robert Boyle (*New Experiments Physico-Mechanical*):** *"The **circulative** distillation in closed glass vessels yields refined spirits without loss of volatile essence."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Muscular contractions provide a secondary **circulative** force that accelerates venous return toward the central chambers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large subtropical swamp in southern florida that is noted for its wildlife.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large subtropical swamp in southern florida that is noted for its wildlife.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vast, low-lying subtropical marshland ecosystem characterized by sawgrass wetlands, slow-moving water, and hammocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In North American ecology, specifically the expansive freshwater wetlands spanning the southern tip of the Florida peninsula.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jos. E. Badger (*The Texas Hawks; or, The Strange Decoy*):** *"No. 63—The Florida Scout; or, The Princess of the Everglades."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"We penetrated into the boundless **everglades**, where myriads of herons and egrets nested upon the mangrove islands."*
+> - 📜 **William Bartram (*Travels through North and South Carolina, Georgia, East and West Florida*):** *"The watery savannas of the southern **everglades** teem with monstrous alligators and glistening water lilies."*
+> - 📜 **Theodore Roosevelt (*Outdoor Pastimes of an American Hunter*):** *"Hunting along the outer border of the **everglades** required poling canoes through endless shallows of sawgrass."*

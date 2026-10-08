@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to come together from different directions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to come together from different directions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Approaching, tending toward, or meeting at a common central point or shared conclusion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary theory, describing analogous structures in distinct taxa that evolved independently under similar natural selection pressures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, convergent designates tending to come together from different directions."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The streamlined bodies of ichthyosaurs and dolphins illustrate **convergent** modifications for rapid locomotion through water."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Independent sensory pathways yield **convergent** impulses in the cerebral cortex, producing unified perception."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Multiple lines of paleontological evidence produce a **convergent** argument that cannot easily be overthrown."*

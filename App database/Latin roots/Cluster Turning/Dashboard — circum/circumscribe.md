@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Draw a line around.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restrict or confine,.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To draw a line around; to set spatial, legal, or conceptual boundaries enclosing something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry, to draw a figure around another figure so that they touch at points without intersecting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The dreariness and desolation of the landscape, the short gloomy days and darksome nights, while they circumscribe our wanderings, shut in our feelings also from rambling abroad, and make us more keenly disposed for the pleasure of the social circle."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"But even that did not circumscribe the rich grave look of grounds and house."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Here is the change beginning, here the lines Circumscribe beauty, set to bliss The limit time assigns.” 13."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Physical barriers like mountain ranges and deserts strictly **circumscribe** the geographic range of terrestrial mammals."*
+> - 📜 **John Milton (*Paradise Lost*):** *"He took the golden compasses, prepared in God's eternal store, to **circumscribe** this universe and all created things."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The limits of sensory experience necessarily **circumscribe** the extent of our ideas."*

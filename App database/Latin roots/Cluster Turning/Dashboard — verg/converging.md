@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of converging (coming closer).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be adjacent or come together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to meet at one point; approaching or drawing together from different directions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometric optics, describing rays of light that refract inward toward a shared focal point.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"On the extreme summit, where the ends of the two converging hedges of which we have spoken were stopped short by meeting the brow of the chalk-pit, he saw the younger dog standing against the sky—dark and motionless as Napoleon at St."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"All the while they were converging, under an irresistible law, as surely as two streams in one vale."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke was to explain himself to the worthy electors of Middlemarch from the balcony of the White Hart, which looked out advantageously at an angle of the market-place, commanding a large area in front and two converging streets."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The ends of the two **converging** hedges were stopped short by meeting the brow of the chalk-pit."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In our diagram, this is indicated by the broken lines, beneath the capital letters, **converging** in sub-branches downwards towards a single point."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Brooke commanded a large area in front and two **converging** streets from the balcony."*

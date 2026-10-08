@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of inclining; bending forward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have a tendency or disposition to do or be something; be inclined.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Leaning, sloping, or bending in a specific direction; favoring or leaning toward a certain choice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In personal manners, bending the head or upper body in a polite bow or respectful greeting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When your lordship sees the bottom of his success in’t, and to what metal this counterfeit lump of ore will be melted, if you give him not John Drum’s entertainment, your inclining cannot be removed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A goodly portly man, i’faith, and a corpulent; of a cheerful look, a pleasing eye, and a most noble carriage; and, as I think, his age some fifty, or, by’r Lady, inclining to threescore; and now I remember me, his name is Falstaff."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hold your hands, Both you of my inclining and the rest: Were it my cue to fight, I should have known it Without a prompter."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"When your lordship sees the bottom of his success in't, your **inclining** cannot be removed."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He was kneeling in the arm-chair, **inclining** himself over its back towards her, and holding her hand in both his own."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Whatever we may have of sympathy for them or love of Him, **inclining** us to do His will independently of selfish consequences."*

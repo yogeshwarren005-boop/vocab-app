@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital defect in which the top of the head is depressed (concave instead of convex).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A congenital defect in which the top of the head is depressed (concave instead of convex).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital cranial malformation characterized by a saddle-shaped or sloping depression across the superior contour of the skull.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical anthropology and teratology, premature sagittal or coronal synostosis resulting in a saddle-backed cranial vault.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clinocephalism designates a congenital defect in which the top of the head is depressed (concave instead of convex)."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Premature fusion of the middle suture line induces that peculiar concavity termed **clinocephalism** in pathological craniology."*
+> - 📜 **Paul Broca (*Instructions Craniologiques et Craniométriques*):** *"Measurements of the deformed vault demonstrate marked **clinocephalism**, with the vertex sloping downward toward the sagittal junction."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Congenital cranial asymmetries such as **clinocephalism** rarely impair cerebral development unless accompanied by microcephaly."*

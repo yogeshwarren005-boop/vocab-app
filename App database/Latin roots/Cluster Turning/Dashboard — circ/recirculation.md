@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Circulation again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Circulation again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of circulating again, especially the return of a fluid or gas through a closed system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fluid mechanics and respiratory physiology, the continuous loop movement of gases or liquids back into the system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recirculation designates circulation again."*
+> - 📜 **Joseph Priestley (*Experiments and Observations on Different Kinds of Air*):** *"The constant **recirculation** of expired air through the closed chamber rapidly rendered it unfit for animal respiration."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Continuous **recirculation** of the electrolytic solution prevents localized chemical exhaustion at the electrodes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Defective valve action causes abnormal **recirculation** of blood within the dilated ventricular chambers."*

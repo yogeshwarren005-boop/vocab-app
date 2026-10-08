@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small circle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decorated metal band worn around the head.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small ring or circular band worn around the head or neck as an ornament, coronet, or symbol of status.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A circular decorative arrangement or delicate round border enclosing an emblem or gem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"This precious vessel was now placed on my knee, and I was cordially invited to eat the circlet of delicate pastry upon it."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Lady Lynn was a large and stout personage of about forty, very erect, very haughty-looking, richly dressed in a satin robe of changeful sheen: her dark hair shone glossily under the shade of an azure plume, and within the circlet of a band of gems."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"Ay," replied another, "among gems the diamond has greater subtlety than all others." "I would like," said one, "to wear a circlet of well-chosen stones to serve as oracle and counsellor."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Sure pledge of day, that crownest the smiling morn with thy bright **circlet**, praise him in thy sphere, while day arises."*
+> - 📜 **Alfred Tennyson (*Idylls of the King*):** *"A golden **circlet** bound her flowing hair, studded with pearls from the northern seas."*
+> - 📜 **Walter Scott (*The Lady of the Lake*):** *"Upon her brow a slender **circlet** shone, simple yet proud as any monarch's crown."*

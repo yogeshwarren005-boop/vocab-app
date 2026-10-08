@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of evading by going around.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of evading by going around.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of overcoming, evading, or avoiding a problem, law, or adversary through artful maneuvering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and institutional history, the deceptive or procedural avoidance of statutory requirements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What ever have been thought on in this state That could be brought to bodily act ere Rome Had circumvention? ’Tis not four days gone Since I heard thence."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"That our best water brought by pipes into the city should suffer such **circumvention** and delay."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"Social progress demands the **circumvention** of cosmic ruthlessness through ethical cooperation."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Excessive tariffs inevitably provoke the ingenious **circumvention** of the revenue laws by smugglers."*

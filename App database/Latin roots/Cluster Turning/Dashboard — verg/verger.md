@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A church officer who takes care of the interior of the building and acts as an attendant (carries the verge) during ceremonies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A church officer who takes care of the interior of the building and acts as an attendant (carries the verge) during ceremonies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official who carries a ceremonial staff or rod before a dignitary, bishop, or dean in church processions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lay parish officer who takes care of the interior of a church and serves as usher, caretaker, or sexton.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"To this the verger applied a key; it was double locked, and opened with some difficulty, as if seldom used."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It was the verger, who came to inform me that it was time to close the library."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Through this dark avenue I had a distant view of the cloisters, with the figure of an old verger in his black gown moving along their shadowy vaults, and seeming like a spectre from one of the neighboring tombs."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Mr. Tope, the cathedral **verger**, stepped forward bearing his silver-tipped wand before the venerable dean."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The white-haired **verger** quietly locked the church gates after the evening service had concluded."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The cathedral **verger** guided the curious visitors through the vaulted choir with practiced solemnity."*

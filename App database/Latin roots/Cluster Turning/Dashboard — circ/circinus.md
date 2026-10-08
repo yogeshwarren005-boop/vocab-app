@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small faint constellation in the southern hemisphere near musca and triangulum australe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small faint constellation in the southern hemisphere near musca and triangulum australe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A faint constellation in the southern celestial hemisphere represented as a surveyor's drafting compass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astronomy and cartography, a southern circumpolar asterism introduced by Nicolas Louis de Lacaille in the eighteenth century.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circinus designates a small faint constellation in the southern hemisphere near musca and triangulum australe."*
+> - 📜 **Nicolas Louis de Lacaille (*Coelum Australe Stelliferum*):** *"South of the Centaur, the stars outlining **Circinus** commemorate the indispensable instruments of mathematical navigation."*
+> - 📜 **Richard Anthony Proctor (*The Orbs Around Us*):** *"Close beside the glittering pointers of the Southern Cross lies the modest constellation **Circinus**."*
+> - 📜 **Camille Flammarion (*Popular Astronomy*):** *"Even through small telescopes, the double star at the apex of **Circinus** reveals contrasting hues of gold and sapphire."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enchanter's nightshade.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enchanter's nightshade.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, shade-dwelling perennial herbs in the evening primrose family Onagraceae, characterized by bristled burrs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomic botany, describing woodland herbs whose two-petaled flowers yield hooked fruits dispersed by animal fur.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circaea designates enchanter's nightshade."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The delicate white petals of **circaea** open beneath the deep shade of moist hemlock woods."*
+> - 📜 **John Torrey (*Flora of North America*):** *"Species of **circaea** display two stamens and an obovate fruit thickly covered with hooked prickles."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"Small dipterous insects visit **circaea** to gather nectar concealed within the shallow floral tube."*

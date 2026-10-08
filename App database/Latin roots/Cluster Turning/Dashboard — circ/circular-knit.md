@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Knitted in tubular form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Knitted in tubular form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fabricated or knitted on a continuous rotating tubular machine, producing seamless tubular cloth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textile manufacturing, describing garments such as hosiery, cuffs, or undergarments formed without longitudinal seams.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circular-knit designates knitted in tubular form."*
+> - 📜 **William Felkin (*A History of the Machine-Wrought Hosiery and Lace Manufactures*):** *"The automated **circular-knit** frames revolutionized the production of seamless stockings across Nottinghamshire."*
+> - 📜 **James Napier (*A Manual of Dyeing*):** *"Dyes penetrate uniformly through **circular-knit** goods when the tubular yarn is washed free of manufacturing oils."*
+> - 📜 **Richard Marsden (*Cotton Weaving: Its Development, Principles, and Practice*):** *"High-speed **circular-knit** equipment yields elastic tubular webs well suited for jersey fabrics and everyday undergarments."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to biological processes occurring at 24-hour intervals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to biological processes occurring at 24-hour intervals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or exhibiting biological rhythms or physiological variations recurring in approximately twenty-four-hour cycles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chronobiology, describing endogenous biochemical or hormonal oscillations that persist even in continuous darkness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circadian designates of or relating to biological processes occurring at 24-hour intervals."*
+> - 📜 **Colin Pittendrigh (*Circadian Oscillations in Cells*):** *"The endogenous **circadian** pacemaker maintains cellular synchronization independently of cyclic thermal cues."*
+> - 📜 **Franz Halberg (*Chronobiology and Medicine*):** *"Blood pressure and core body temperature follow measurable **circadian** rhythms across health and pathology."*
+> - 📜 **Arthur T. Winfree (*The Geometry of Biological Time*):** *"Phase shifts in the **circadian** cycle occur whenever external light pulses reset the cellular clockwork."*

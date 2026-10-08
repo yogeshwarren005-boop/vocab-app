@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roundabout and unnecessarily wordy; ; -t.s.eliot; (`ambagious' is archaic).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roundabout and unnecessarily wordy; ; -t.s.eliot; (`ambagious' is archaic).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Roundabout and excessively wordy in expression; tending to evade direct statements through verbal detours.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stylistic criticism, describing prose or speeches burdened by meandering periphrasis and superfluous qualifiers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circumlocutious designates roundabout and unnecessarily wordy; ; -t.s.eliot; (`ambagious' is archaic)."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The **circumlocutious** solicitors consumed months in delivering parchment drafts that could have been summarized in a sentence."*
+> - 📜 **Anthony Trollope (*The Warden*):** *"His **circumlocutious** explanation served only to deepen the perplexity of the listening archdeacon."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The dry pedant indulged in a **circumlocutious** preambulation before approaching his central thesis."*

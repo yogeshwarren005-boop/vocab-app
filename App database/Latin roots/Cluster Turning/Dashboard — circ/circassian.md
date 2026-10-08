@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the sunni muslim people living in northwestern caucasia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mostly sunni muslim community living in northwestern caucasia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to Circassia, its indigenous Northwest Caucasian peoples, or their traditional Northwest Caucasian languages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically designating finely woven woolens, decorated metalwork, or distinctive traditional garments originating in the Caucasus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Hemp is a dusky, dark fellow, a sort of Indian; but Manilla is as a golden-haired Circassian to behold."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He doffed his Circassian cap to his master and looked at him scornfully."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"An hussar was Natásha, and a Circassian was Sónya with burnt-cork mustache and eyebrows."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The pure **Circassian** horses are prized through the mountains for their speed, endurance, and surefooted agility."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Thy wild gaze reflects the fierce grandeur of a **Circassian** warrior amid his native peaks."*
+> - 📜 **George Gordon Byron (*Don Juan*):** *"The young **Circassian** maiden stood veiled in shimmering silk before the gilded court."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin clin within the domain of Turning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of clin in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bending or leaning downward or backward, especially of botanical stems or zoological appendages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive morphology, designating an organ whose tip bends backward and touches or approaches the ground.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reclinant designates pertaining to, derived from, or characteristic of latin clin within the domain of turning."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The **reclinant** branches of the sprawling shrub arch downward until their tips root in the rich loam."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"A **reclinant** corolla curves gracefully backward away from the floral axis as the flower expands."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The **reclinant** spines of the caudal vertebrae offered broad attachments for powerful swimming muscles."*

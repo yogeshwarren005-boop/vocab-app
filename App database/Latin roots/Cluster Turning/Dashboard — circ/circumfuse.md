@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spread something around something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread something around something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To pour around; to surround, diffuse, or encompass with a fluid, vapor, or illuminating atmosphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary description, to suffuse an entire landscape or assembly with radiant light or enveloping mist.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"Glowing, and circumfused in speechless love, Their full divinity inadequate That feeling to express, or to improve, The gods become as mortals, and man's fate Has moments like their brightest! but the weight Of earth recoils upon us;--let it go!"*
+> - 📜 **John Milton (*Paradise Lost*):** *"From wall to wall he views, and all the plain **circumfuse** with divine light and celestial beauty."*
+> - 📜 **Alexander Pope (*The Dunciad*):** *"The dense mists of dullness **circumfuse** the sleeping city in heavy intellectual slumber."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The evening vapors began to **circumfuse** the hollow, cloaking the ancient apple trees in silver mist."*

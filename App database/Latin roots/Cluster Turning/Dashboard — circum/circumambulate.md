@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Walk around something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Walk around something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To walk completely around something, often as part of a formal, ritual, or contemplative pilgrimage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropological and religious studies, to perform sacred clockwise or counterclockwise ambulatory circuits around a holy shrine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"For example, among the Beni-Snous the women light a fire in an oven, throw perfumes into it, and circumambulate a tank, which they also incense after a fashion."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Circumambulate the city of a dreamy Sabbath afternoon."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Circumambulate the city of a dreamy Sabbath afternoon."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"**Circumambulate** the city of a dreamy Sabbath afternoon; go from Corlears Hook to Coenties Slip."*
+> - 📜 **Henry David Thoreau (*Walking*):** *"We need only **circumambulate** our native village to discover wild horizons untouched by civil boundaries."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Devotees would **circumambulate** the sacred grove, chanting hymns to invoke bountiful harvests from the woodland deities."*

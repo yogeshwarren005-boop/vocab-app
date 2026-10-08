@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Form a circle around.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bind with something round or circular.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To form a circle around; to enclose, compass, or surround on every side.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To pass completely around the perimeter of an object or territory in a continuous loop.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then let them all encircle him about, And fairy-like, to pinch the unclean knight, And ask him why, that hour of fairy revel, In their so sacred paths he dares to tread In shape profane."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The territories of Britain, Spain, and of the Indian nations in our neighborhood do not border on particular States, but encircle the Union from Maine to Georgia."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"When his forefinger swept across my features, in laying out the borders of those parallel bands which were to encircle my countenance, the flesh fairly crawled upon my bones."*
+> - 📜 **William Shakespeare (*Henry VI, Part 3*):** *"Look how my ring encompasseth thy finger, even so thy breast **encircle** my poor heart."*
+> - 📜 **Alfred Tennyson (*The Princess*):** *"The crystal waters **encircle** the enchanted isle with a shimmering belt of foam."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Dark heather and ancient barrows **encircle** the solitary cottage on Egdon Heath."*

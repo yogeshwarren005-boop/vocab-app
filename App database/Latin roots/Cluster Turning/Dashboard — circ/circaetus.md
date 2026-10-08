@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Harrier eagles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Harrier eagles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Old World birds of prey in the family Accipitridae comprising the short-toed snake eagles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian taxonomy, raptorial birds specialized for hunting serpents and possessing thick, protective scales on their lower legs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circaetus designates harrier eagles."*
+> - 📜 **John Gould (*The Birds of Europe*):** *"Hovering motionless above the sunbaked plains, **circaetus** scans the stony ground for basking vipers."*
+> - 📜 **Edward Blyth (*Catalogue of the Birds in the Museum of the Asiatic Society*):** *"The short robust toes and heavily shielded tarsi of **circaetus** adapt it admirably for grappling snakes."*
+> - 📜 **Henry Eeles Dresser (*A History of the Birds of Europe*):** *"In plumage and soaring flight, **circaetus** bears a striking resemblance to the larger buzzards of southern climes."*

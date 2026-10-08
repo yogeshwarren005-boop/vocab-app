@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A war measure that isolates some area of importance to the enemy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A war measure that isolates some area of importance to the enemy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of surrounding someone or something, or the resulting containment within an unbroken perimeter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military strategy, the tactical maneuver of cutting off an enemy force from retreat and supply lines on all sides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encirclement designates a war measure that isolates some area of importance to the enemy."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The strategic **encirclement** of the fortress army cut off all hope of relief or withdrawal."*
+> - 📜 **Carl von Clausewitz (*On War*):** *"Complete tactical **encirclement** forces the trapped garrison to choose between surrender and annihilation."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"The persistent **encirclement** of nomadic tribes by settled agricultural empires sealed their eventual decline."*

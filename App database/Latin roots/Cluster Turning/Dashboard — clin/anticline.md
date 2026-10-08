@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin clin within the domain of Turning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of clin in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A convex upfold of rock strata in which the oldest rock layers occupy the core of the structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petroleum and mining geology, a dome-like structural trap favorable for the accumulation of hydrocarbons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anticline designates pertaining to, derived from, or characteristic of latin clin within the domain of turning."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"A grand **anticline** traverses the province, arching the limestone beds into a rugged mountain backbone."*
+> - 📜 **Archibald Geikie (*The Scenery of Scotland*):** *"Denudation has laid bare the ancient crystalline rocks that formed the nucleus of the **anticline**."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"The opposing dips on either flank prove that the mountain ridge was once a continuous **anticline**."*

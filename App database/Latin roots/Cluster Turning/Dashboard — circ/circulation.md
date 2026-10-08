@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The dissemination of copies of periodicals (as newspapers or magazines).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Movement through a circuit; especially the movement of blood through the heart and blood vessels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Continuous movement around a closed course, particularly the flow of blood through the cardiovascular vessels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The total number of copies distributed by a periodical publication, or the volume of currency passing through a financial market.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"To be informed what the Galaxy Gallery of British Beauty is about, and means to be about, and what Galaxy marriages are on the tapis, and what Galaxy rumours are in circulation, is to become acquainted with the most glorious destinies of mankind."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"George, and—yes—it partly helps the circulation,” he replies."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"A doggerel parody on _John Gilpin_, entitled "The Diverting History of John Cairns," in which a highly coloured account is given of the supposed genesis of the pamphlet, was written and found wide circulation."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It is a cold night, and I observe that your **circulation** is more adapted for summer than for winter."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The essay had a very small **circulation** at first, though later it became widely known."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"For a long time I was reporter to a journal, of no very wide **circulation**, whose editor has never yet seen fit to print the bulk of my contributions."*

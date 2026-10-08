@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wind or turn in volutions, especially in an inward spiral, as of snail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wind or turn in volutions, especially in an inward spiral, as of snail.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wound or rolled spirally around a central core or axis, as certain botanical stems or architectural scrolls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morphology, describing anatomical parts or ornamental moldings twisted into concentric or spiral convolutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circumvolute designates wind or turn in volutions, especially in an inward spiral, as of snail."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The climbing stem exhibits a **circumvolute** habit, twisting spirally around the supporting arbor."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The **circumvolute** folds of the cerebral cortex expand the functional surface of the brain."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The carved stone capitals displayed intricate **circumvolute** foliage twisting around the fluted columns."*

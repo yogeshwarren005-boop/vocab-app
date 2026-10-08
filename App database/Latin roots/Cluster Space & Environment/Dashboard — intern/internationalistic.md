@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — intern]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # internationalistic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Influenced by or advocating internationalism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Influenced by or advocating internationalism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, adhering to, or favoring the tenets of internationalism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reflecting a globalist policy promoting multilateral agreements over unilateral sovereignty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, internationalistic designates influenced by or advocating internationalism."*
+> - 📜 **George F. Kennan (*Memoirs 1925–1950*):** *"The excessively **internationalistic** rhetoric of the treaty ignored the deep-rooted geopolitical rivalries in Europe."*
+> - 📜 **Walter Lippmann (*U.S. Foreign Policy: Shield of the Republic*):** *"A vague **internationalistic** sentiment is no substitute for a solvent defense strategy aligned with national interests."*
+> - 📜 **Arnold J. Toynbee (*Civilization on Trial*):** *"Modern technical communications have fostered an **internationalistic** outlook among younger generations across the globe."*

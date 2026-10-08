@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # explanatory
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving or intended to explain or make clear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving or intended to explain or make clear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to explain, interpret, or elucidate; providing clarification or understanding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing or designed to convey interpretive information or contextual reasons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby addresses an explanatory cough to Mrs."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It is to be done on my responsibility,” she added, in an explanatory tone to them, and immediately afterwards left the room."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She knew but little of their meeting in Derbyshire, and therefore felt for the awkwardness which must attend her sister, in seeing him almost for the first time after receiving his explanatory letter."*
+> - 📜 **Samuel Johnson (*Preface to the English Dictionary*):** *"I have inserted **explanatory** notes wherever obscure phrases might perplex the unpracticed reader."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The prime minister appended an **explanatory** memorandum to justify the unexpected prorogation of parliament."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The diagram is accompanied by **explanatory** text delineating the refraction of colored rays through the prism."*

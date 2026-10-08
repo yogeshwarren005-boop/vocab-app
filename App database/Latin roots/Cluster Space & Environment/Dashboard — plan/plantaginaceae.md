@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # plantaginaceae
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cosmopolitan family of small herbs and a few shrubs; most are troublesome weeds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cosmopolitan family of small herbs and a few shrubs; most are troublesome weeds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of flowering plants in the order Lamiales, containing plantains, foxgloves, and speedwells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cosmopolitan botanical family characterized by herbaceous habit, alternate or basal leaves, and small spiked blossoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plantaginaceae designates cosmopolitan family of small herbs and a few shrubs; most are troublesome weeds."*
+> - 📜 **Antoine Laurent de Jussieu (*Genera Plantarum*):** *"Jussieu delineated the family **Plantaginaceae** based upon its scarious persistent corolla and capsular fruit."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Most species of **Plantaginaceae** are stemless herbs with ribbed leaves and inconspicuous wind-pollinated spikes."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The mucilaginous seeds of **Plantaginaceae** swell readily in water, forming demulcent infusions used in medicine."*

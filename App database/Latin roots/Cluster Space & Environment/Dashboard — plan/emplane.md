@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # emplane
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Board a plane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Board a plane.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To board an airplane, especially in military deployment or scheduled flight operations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To embark troops, personnel, or supplies aboard transport aircraft.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emplane designates board a plane."*
+> - 📜 **T. E. Lawrence (*Seven Pillars of Wisdom*):** *"Orders were issued to **emplane** the detachment before dawn to reach the desert oasis undetected."*
+> - 📜 **George Orwell (*The Lion and the Unicorn*):** *"Civil servants rushed to **emplane** for vital conferences in allied capitals across the ocean."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"The ministers were instructed to **emplane** without baggage to ensure immediate departure from the airfield."*

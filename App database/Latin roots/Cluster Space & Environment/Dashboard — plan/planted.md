@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # planted
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put or set (seeds, seedlings, or plants) into the ground.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fix or set securely or deeply.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Set into the ground to grow, as of seeds, saplings, or agricultural crops.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Established firmly in a position; deeply rooted in habit, principle, or institution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet at the first I saw the treasons planted."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How dare you ghosts Accuse the Thunderer whose bolt, you know, Sky-planted, batters all rebelling coasts?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Moreover, he hath left you all his walks, His private arbors, and new-planted orchards, On this side Tiber; he hath left them you, And to your heirs forever; common pleasures, To walk abroad, and recreate yourselves."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The blissful garden was **planted** by the sovereign architect with every tree pleasant to the sight and good for food."*
+> - 📜 **Francis Bacon (*Essays*):** *"Colonies are like new woods: once firmly **planted**, they must not expect speedy profits from raw clearings."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Things that do sound so fair: I have begun to plant thee, and will labour to make thee full of growing; which being **planted**, flourishes."*

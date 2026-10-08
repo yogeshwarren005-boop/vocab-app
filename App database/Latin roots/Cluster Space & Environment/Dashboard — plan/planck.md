@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # planck
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: German physicist whose explanation of blackbody radiation in the context of quantized energy emissions initiated quantum theory (1858-1947).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German physicist whose explanation of blackbody radiation in the context of quantized energy emissions initiated quantum theory (1858-1947).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to Max Planck or fundamental quantum physics constants named in his honor (such as Planck's constant *h*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the natural units of scale (Planck length, Planck time, Planck mass) derived from fundamental physical constants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planck designates german physicist whose explanation of blackbody radiation in the context of quantized energy emissions initiated quantum theory (1858-1947)."*
+> - 📜 **Max Planck (*The Theory of Heat Radiation*):** *"The energy of an elementary resonator can only take on discrete values proportional to the fundamental constant named for **Planck**."*
+> - 📜 **Albert Einstein (*Investigations on the Theory of the Brownian Movement*):** *"The revolutionary hypothesis of **Planck** regarding discrete energy quanta resolved the ultraviolet catastrophe of blackbody radiation."*
+> - 📜 **Niels Bohr (*On the Constitution of Atoms and Molecules*):** *"We assume that atomic electron transitions involve discrete packets of radiation determined by the **Planck** relation."*

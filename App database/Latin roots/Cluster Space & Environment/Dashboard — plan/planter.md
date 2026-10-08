@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # planter
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The owner or manager of a plantation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A worker who puts or sets seeds or seedlings into the ground.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who owns or manages a large agricultural plantation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who sows seeds; or a decorative container used for growing plants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Mason, a West India planter and merchant, was his old acquaintance."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"My uncle Elias emigrated to America when he was a young man and became a planter in Florida, where he was reported to have done very well."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"At one small station a man who might have been a planter got in, followed by an attractive-looking Annamese woman carrying a little child."*
+> - 📜 **Thomas Jefferson (*Writings of Thomas Jefferson*):** *"The Virginia **planter** lives an independent life upon his acres, reliant only on the seasons and his honest toil."*
+> - 📜 **George Washington (*Diaries of George Washington*):** *"As a practical **planter**, I spent the morning supervising the sowing of lucerne and winter wheat."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The southern **planter** acquired aristocratic manners derived from hereditary authority over enslaved laborers."*

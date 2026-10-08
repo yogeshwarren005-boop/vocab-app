@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # planoconvex
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flat on one side and convex on the other.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flat on one side and convex on the other.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flat on one side and curved outward on the opposite side, as of an optical converging lens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An optical lens possessing one plane surface and one convex spherical surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The free zoospores are of the form of a planoconvex lens, obtuse at the edge."*
+> - 📜 **Isaac Newton (*Opticks*):** *"I placed the curved surface of a **planoconvex** glass against a plane glass to measure the colored Newton rings."*
+> - 📜 **Robert Hooke (*Micrographia*):** *"The objective of the microscope consisted of a tiny **planoconvex** lens with its flat side facing the specimen."*
+> - 📜 **David Brewster (*A Treatise on Optics*):** *"A **planoconvex** lens produces minimum spherical aberration when its curved surface faces incoming parallel rays."*

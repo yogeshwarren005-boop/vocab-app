@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # plane
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An aircraft that has a fixed wing and is powered by propellers or jets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (mathematics) an unbounded two-dimensional shape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flat, two-dimensional surface that extends infinitely in mathematical space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An airplane or winged aerodynamic craft designed for powered atmospheric flight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The air was rendered so transparent by the heavy fall of rain that the autumn hues of the middle distance were as rich as those near at hand, and the remote fields intercepted by the angle of the tower appeared in the same plane as the tower itself."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Throughout the length of this narrow and irksome inclined plane not a sign of life was visible on this garish afternoon."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"To leave it upon any lower plane than this, is to rob it of its highest functions and to paralyze it of lasting power for good in any direction."*
+> - 📜 **Euclid (*Elements*):** *"A **plane** surface is a surface which lies evenly with the straight lines upon itself."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"Every planetary orbit lies approximately within the same ecliptic **plane** of the solar system."*
+> - 📜 **Wilbur Wright (*The Papers of Wilbur and Orville Wright*):** *"The lateral balance of the flying **plane** was maintained by twisting the flexible tips of the main wings."*

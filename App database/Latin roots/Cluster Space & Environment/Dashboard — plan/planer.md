@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # planer
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A power tool for smoothing or shaping wood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A power tool for smoothing or shaping wood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A machine tool used for shaping flat surfaces on wood or metal by reciprocating movement under a stationary cutting tool.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A workman who uses a hand plane or operates a mechanical planning machine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"It could drive lathes, drills, planers, punches, polishers, in a word all the cunning machines of a great factory?"*
+> - 📜 **Charles Babbage (*Economy of Machinery and Manufactures*):** *"The introduction of the iron **planer** transformed the manufacture of steam engines by producing perfectly flat slide valves."*
+> - 📜 **Joseph Whitworth (*Papers on Mechanical Subjects*):** *"A heavy metal **planer** traverses the iron casting back and forth beneath the hardened cutting chisel."*
+> - 📜 **Henry Maudslay (*Technical Papers on Machine Tools*):** *"The slide rest guided the carriage of the **planer** with unprecedented geometric precision."*

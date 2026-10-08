@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — intern]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # internode
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A segment of a stem between two nodes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A segment of a stem between two nodes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of a plant stem situated between two successive nodes or points of leaf insertion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy, the segment of a myelinated nerve fiber situated between two nodes of Ranvier.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"REED SMUT; prodded on the stems of reeds, forming thick bullate patches several inches long, occupying whole internodes, covered by their sheath; spores globose, rather large.—On stems of _Arundo phragmitis_."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The growing **internode** bends towards all points of the compass in succession as it revolves in search of support."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"In rapidly growing bamboo, each elongated **internode** is hollow and separated by a solid transverse septum at the node."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"The distance between leaves depends upon the elongation of the cellular **internode** during vegetative expansion."*

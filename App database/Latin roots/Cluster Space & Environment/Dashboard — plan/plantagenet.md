@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # plantagenet
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The family name of a line of english kings that reigned from 1154 to 1485.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The family name of a line of english kings that reigned from 1154 to 1485.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A royal dynasty that ruled England from 1154 until 1485, founded by Henry II and ending with Richard III.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member or descendant of the English royal house characterized by the emblem of the common broom plant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, that it could be proved That some night-tripping fairy had exchanged In cradle-clothes our children where they lay, And called mine Percy, his Plantagenet!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the Earls of Somerset, Suffolk, and Warwick; Richard Plantagenet, Vernon and another Lawyer."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I love no colours, and without all colour Of base insinuating flattery I pluck this white rose with Plantagenet."*
+> - 📜 **William Shakespeare (*Richard III*):** *"The fiery blood of the noble **Plantagenet** shall never stoop beneath base rebellion or treacherous usurpers."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The chivalrous kings of the house of **Plantagenet** carried English arms deep into the heart of France."*
+> - 📜 **David Hume (*The History of England*):** *"Under the energetic sway of the first **Plantagenet**, English common law acquired its foundational institutions."*

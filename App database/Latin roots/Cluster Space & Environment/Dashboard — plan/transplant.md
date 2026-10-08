@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # transplant
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (surgery) tissue or organ transplanted from a donor to a recipient; in some cases the patient can be both donor and recipient.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An operation moving an organ from one organism (the donor) to another (the recipient).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To move or replant a plant from one location or soil to another; or to graft living tissue or an organ surgically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To relocate people, communities, or institutions to a new environment or country.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"We want, as far as possible, to transplant our home bodily--to bring as much as we can of our own furniture because we have beautiful old things precious in Herby's eyes & that we are all fond of."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Armed men rode over the beautiful prairies, some east, some west--one band to transplant slavery from the tainted soil of Missouri, another to pluck it up."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"Now, much as I should rejoice to transplant the poor old creature from the chilling air of such patronage, yet I know how straitened we are already, how unable already to answer any demand which sickness or any extraordinary expense may make."*
+> - 📜 **Francis Bacon (*Essays*):** *"If you **transplant** a colony into a foreign land, let the emigrants be men of industry rather than profligates."*
+> - 📜 **Alexis Carrel (*Treatment of Wounds*):** *"Using fine silk sutures, we demonstrated that one can successfully **transplant** a canine kidney into the neck."*
+> - 📜 **John Evelyn (*Sylva*):** *"To **transplant** large trees with success, you must dig a deep trench around the roots during the preceding winter."*

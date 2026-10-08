@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — intern]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # internationally
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Throughout the world.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Throughout the world.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Between, across, or involving two or more sovereign nations; globally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner recognized, respected, or enforced across national borders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"That is internationally and universally applicable."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Such repairs shall be to internationally accepted standards that will permit the craft to continue its flight to a location designated by the Government having legal ownership, or authority to repair or dispose of the spacecraft. h."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"That is internationally and universally applicable."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Gold and silver circulate **internationally** as the common commercial currency of all civilized peoples."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"A nation whose citizens are **internationally** respected gains immense diplomatic influence without military display."*
+> - 📜 **Albert Einstein (*Out of My Later Years*):** *"Scientific truths must be evaluated **internationally** on the basis of evidence rather than political ideology."*

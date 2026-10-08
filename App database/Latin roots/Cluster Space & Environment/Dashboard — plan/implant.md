@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # implant
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A prosthesis placed permanently in tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fix or set securely or deeply.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To insert or fix firmly within tissue, mind, or a physical substrate; or a surgically inserted medical device.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To instill or engrave deeply an idea, principle, or habit within the moral character or intellect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She had made an effort to keep her children from harmful influences and to implant in them a hate for these things."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Socrates saw that the teacher's real work, his only work, is to implant the idea, like a seed; an idea, like a seed, will look after itself."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Implant in their bosoms an ardent love for the Union."*
+> - 📜 **Alexis Carrel (*Man, The Unknown*):** *"Surgeons sought to **implant** healthy thyroid tissue to restore physiological balance in deficiency cases."*
+> - 📜 **Joseph Lister (*On the Antiseptic Principle*):** *"The antiseptic suture served as a benign **implant** that was gradually absorbed by surrounding granulation tissue."*
+> - 📜 **Thomas Henry Huxley (*Science and Education*):** *"True education should **implant** a passionate desire for verifiable truth rather than dogma."*

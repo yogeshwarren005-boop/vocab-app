@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # plant
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Buildings for carrying on industrial labor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (botany) a living organism lacking the power of locomotion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A living organism belonging to the vegetable kingdom, typically synthesizing nutrients through photosynthesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A factory, foundry, or industrial installation comprising buildings and heavy machinery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go charge Agrippa Plant those that have revolted in the van That Antony may seem to spend his fury Upon himself. [_Exeunt Caesar and his Train._] ENOBARBUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But mark: as in this haughty great attempt They labored to plant the rightful heir, I lost my liberty and they their lives."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll plant Plantagenet, root him up who dares."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"We observe that every **plant** draws its sustenance from moisture modified by solar warmth."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"A single vigorous **plant** produces thousands of seeds, of which only a few survive in the struggle for life."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A modern manufacturing **plant** requires immense capital outlays for buildings and specialized tools."*

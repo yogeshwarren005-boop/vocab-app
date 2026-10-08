@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — intern]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # internal
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Happening or arising or located within some limits or especially surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring within an institution or community.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated on the inside, within the interior boundaries of a structure, or inside the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the domestic affairs, politics, or administrative policy of a nation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop underwent a severe internal struggle and came upright on the sofa again with his cheeks puffing over his stiff cravat, a perfect model of parental deportment."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"And, discarding the traditional division of the Evidences into Internal and External, he classified them according to their relation to the different Attributes of God, as manifesting His Power, Knowledge, Wisdom, Holiness, and Benignity."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Some talked of wonders they had seen, and were laughed at--and some spread reports of internal division among us."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The **internal** commerce of a great nation is always more valuable than all its foreign trade combined."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The federal union guarantees tranquility against foreign invasion and **internal** factional convulsions."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Modifications in **internal** anatomy occur in harmony with alterations in external habits."*

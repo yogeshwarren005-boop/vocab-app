@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # replant
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plant again or anew.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plant again or anew.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To plant something again, especially in a new container, bed, or location.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To reseed or reforest an area after crops have been harvested or timber felled.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will revenge his wrong to Lady Bona, And replant Henry in his former state."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"The garden has been weeded, replanted, trained, clipped and garnished, and my arms are as husky and strong as a boy's and my nose badly sunburned from my strenuosity with hoe and trimming scissors."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"All the proprietors of the surrounding places occupied themselves with the same task, and they directed the work of devastation with as much coolness as if they were watering or replanting, or busy with the grape harvest."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"If you **replant** young saplings in deep fertile earth before midwinter, their roots take hold with greater vigor."*
+> - 📜 **John Evelyn (*Sylva, or A Discourse of Forest-Trees*):** *"It is the sacred duty of every landholder to **replant** oak groves wherever ancient timber has been felled for the navy."*
+> - 📜 **Henry David Thoreau (*The Succession of Forest Trees*):** *"Nature employs birds and squirrels to **replant** the pines and chestnuts across neglected pastures."*

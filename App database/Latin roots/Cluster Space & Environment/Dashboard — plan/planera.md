@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # planera
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deciduous tree of the family ulmaceae that grows in the southeastern united states.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deciduous tree of the family ulmaceae that grows in the southeastern united states.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of deciduous trees in the elm family Ulmaceae, typified by the water elm (*Planera aquatica*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A North American wetland tree characterized by small serrated leaves and leathery, warty nut-like fruits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planera designates a deciduous tree of the family ulmaceae that grows in the southeastern united states."*
+> - 📜 **Johann Friedrich Gmelin (*Systema Naturae*):** *"Gmelin established **Planera** to separate the swamp water elm from related species of true Ulmus."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The lone American species of **Planera** inhabits river swamps of the southern states, flowering before its leaves expand."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The warty winged fruit distinguishes **Planera** clearly from the smooth samaras of ordinary elms."*

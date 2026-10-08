@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # explanandum
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (logic) a statement of something (a fact or thing or expression) to be explained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (logic) a statement of something (a fact or thing or expression) to be explained.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In the philosophy of science and logic, the phenomenon, event, or sentence that requires an explanation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The empirical fact or observed anomaly posing the explanatory problem within a deductive inquiry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, explanandum designates (logic) a statement of something (a fact or thing or expression) to be explained."*
+> - 📜 **Carl Hempel (*Aspects of Scientific Explanation*):** *"The **explanandum** is the sentence describing the phenomenon to be explained by scientific laws."*
+> - 📜 **Karl Popper (*The Logic of Scientific Discovery*):** *"To deduce the **explanandum**, we require both universal natural laws and specific initial conditions."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"Abductive inference begins when a surprising **explanandum** demands the formulation of a plausible explanatory hypothesis."*

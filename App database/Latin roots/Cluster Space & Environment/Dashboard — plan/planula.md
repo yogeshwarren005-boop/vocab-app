@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # planula
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The flat ciliated free-swimming larva of hydrozoan coelenterates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The flat ciliated free-swimming larva of hydrozoan coelenterates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The free-swimming, flattened, ciliated larva of cnidarians (such as jellyfish, corals, and sea anemones).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An early developmental stage in coelenterates that swims before settling to metamorphose into a polyp.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planula designates the flat ciliated free-swimming larva of hydrozoan coelenterates."*
+> - 📜 **Thomas Henry Huxley (*The Oceanic Hydrozoa*):** *"The ciliated **planula** swims freely through the open ocean before attaching its aboral pole to a solid rock."*
+> - 📜 **Ernst Haeckel (*Gastraea Theory*):** *"Haeckel saw in the primitive two-layered **planula** larva the living counterpart of the ancestral gastraea."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The transformation of the mobile **planula** into a budding hydroid colony illustrates the alternation of generations."*

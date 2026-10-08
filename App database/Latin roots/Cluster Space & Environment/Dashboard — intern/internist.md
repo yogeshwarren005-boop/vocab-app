@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — intern]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # internist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in internal medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in internal medicine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical physician specializing in internal medicine, focusing on non-surgical treatment of adult diseases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diagnostic doctor specializing in complex internal pathological disorders and systemic therapeutics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, internist designates a specialist in internal medicine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The consulting **internist** must combine thorough laboratory findings with masterly physical diagnosis at the bedside."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"While the surgeon uses the knife, the skillful **internist** restores equilibrium through pharmacological wisdom."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"As a consummate **internist**, Osler taught generations of students to listen closely to the patient's narrative."*

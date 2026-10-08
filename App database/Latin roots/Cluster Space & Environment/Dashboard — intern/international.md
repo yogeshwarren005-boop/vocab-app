@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — intern]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # international
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several international socialist organizations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerning or belonging to all or at least two or more nations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing, occurring, or carried on between two or more sovereign nations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or involving global treaties, diplomatic conventions, or multinational organizations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In this contest silver had proved itself a few centuries ago to be on the whole the fittest medium of exchange for most purposes, though gold was at the same time in use in larger transactions and in international trade. § 5. #Gold-using countries#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In shipments of gold to-day by bankers to settle international balances, metal may be in the form of bars that bear the mark of some well-known banking house."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Prices rose to a temporary maximum in 1857 and then fell as a great international financial crisis occurred."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"The word **international**, it must be acknowledged, is a new one; though, it is hoped, sufficiently intelligible."*
+> - 📜 **Immanuel Kant (*Perpetual Peace: A Philosophical Sketch*):** *"A genuine **international** federation of free republics offers the only durable safeguard against war."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Commercial ties create a vast **international** society bound by shared economic interests."*

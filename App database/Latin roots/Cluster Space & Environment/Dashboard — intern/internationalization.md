@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — intern]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # internationalization
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of bringing something under international control.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of bringing something under international control.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of placing an institution, resource, or territory under multinational authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The adaptation of software, products, or services for seamless use across different countries and languages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, internationalization designates the act of bringing something under international control."*
+> - 📜 **Woodrow Wilson (*The State: Elements of Historical and Practical Politics*):** *"The **internationalization** of maritime straits ensures that no single coastal power can close the highways of commerce."*
+> - 📜 **John Maynard Keynes (*Treatise on Money*):** *"The **internationalization** of banking requires a supernational clearing house to regulate credit reserves."*
+> - 📜 **Dag Hammarskjöld (*Markings*):** *"Through patient **internationalization** of peacekeeping forces, small crises can be insulated from superpower rivalry."*

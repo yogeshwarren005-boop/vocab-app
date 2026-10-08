@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — intern]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # internationalize
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put under international control.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make international in character.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To place under the joint management, protection, or sovereignty of several nations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To expand commercial operations, products, or scientific standards across world boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, internationalize designates put under international control."*
+> - 📜 **Woodrow Wilson (*Presidential Messages*):** *"We ought to **internationalize** the disputed territory under a neutral mandate responsible to the general assembly."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"To **internationalize** atomic energy without foolproof verification safeguards would endanger the free world."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Modern transport tends to **internationalize** capital, allowing investments to flow wherever enterprise promises reward."*

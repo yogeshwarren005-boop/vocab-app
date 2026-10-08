@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # plantago
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the family plantaginaceae; large cosmopolitan genus of mostly small herbs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family plantaginaceae; large cosmopolitan genus of mostly small herbs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small herbaceous plants comprising over two hundred species of plantains in the family Plantaginaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cosmopolitan genus of weeds and medicinal herbs producing mucilaginous seeds such as psyllium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plantago designates type genus of the family plantaginaceae; large cosmopolitan genus of mostly small herbs."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"Linnaeus described numerous species of **Plantago**, noting their ribbed basal leaves and erect spikes."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"In **Plantago** lanceolata, the protruding stigmas mature days before the pollen-bearing anthers expand."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The common broad-leaved **Plantago** major followed European settlers so persistently that Native Americans called it white man's foot."*

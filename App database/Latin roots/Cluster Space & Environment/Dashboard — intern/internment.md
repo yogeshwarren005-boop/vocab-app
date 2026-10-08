@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — intern]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # internment
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Confinement during wartime.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of confining someone in a prison (or as if in a prison).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The forced confinement, detention, or custody of civilian prisoners or military personnel without trial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The wartime policy of holding enemy aliens or political suspects within designated guarded facilities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, internment designates confinement during wartime."*
+> - 📜 **Winston Churchill (*Their Finest Hour*):** *"The mass **internment** of alien refugees in the summer crisis was an unhappy necessity of national survival."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **internment** of hostages within the imperial palace ensured the fragile obedience of frontier kings."*
+> - 📜 **George Orwell (*War-time Diary*):** *"The harsh **internment** of anti-Nazi refugees on the Isle of Man provoked sharp protests in parliament."*

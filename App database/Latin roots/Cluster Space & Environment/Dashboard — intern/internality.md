@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — intern]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # internality
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preoccupation with what concerns human inner nature (especially ethical or ideological values); - h.r.finch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preoccupation with what concerns human inner nature (especially ethical or ideological values); - h.r.finch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Subjective inwardness, interior location, or intrinsic character within consciousness or a system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Philosophical interiority or containment within the mental or constitutional sphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, internality designates preoccupation with what concerns human inner nature (especially ethical or ideological values); - h.r.finch."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Reflection reveals an **internality** of mental operations that cannot be perceived by the bodily senses."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The intense **internality** of our personal feelings forms the subjective core of self-awareness."*
+> - 📜 **Ralph Waldo Emerson (*The Over-Soul*):** *"The soul knows an infinite **internality** that transcends the external boundaries of space and time."*

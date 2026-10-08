@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # plantsman
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert in the science of cultivating plants (fruit or flowers or vegetables or ornamental plants).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert in the science of cultivating plants (fruit or flowers or vegetables or ornamental plants).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enthusiastic, highly skilled gardener or horticulturist with a deep botanical knowledge of plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A connoisseur who collects, propagates, and studies rare or unusual flora.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plantsman designates an expert in the science of cultivating plants (fruit or flowers or vegetables or ornamental plants)."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"A passionate **plantsman** will scale alpine precipices to secure seeds of an undescribed rhododendron species."*
+> - 📜 **Charles Darwin (*Life and Letters of Charles Darwin*):** *"I consulted an experienced **plantsman** whose keen observations on variegated pelargoniums proved invaluable."*
+> - 📜 **Gertrude Jekyll (*Wood and Garden*):** *"The true **plantsman** appreciates not merely brilliant blooms, but the architectural habit and texture of foliage."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — intern]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # internationale
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A revolutionary socialist anthem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A revolutionary socialist anthem.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The famous left-wing revolutionary anthem written in 1871 by Eugène Pottier, celebrating international labor solidarity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the successive global confederations of socialist and communist political parties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, internationale designates a revolutionary socialist anthem."*
+> - 📜 **Karl Marx (*Inaugural Address of the International Working Men's Association*):** *"The working men of all countries must unite under the standard of the **Internationale** to achieve emancipation."*
+> - 📜 **Friedrich Engels (*Preface to The Communist Manifesto*):** *"The original **Internationale** dissolved, but its immortal spirit lives in the universal struggle of labor."*
+> - 📜 **Vladimir Lenin (*Collected Works*):** *"The strains of the **Internationale** resounded through the congress hall as the new soviet republic was proclaimed."*

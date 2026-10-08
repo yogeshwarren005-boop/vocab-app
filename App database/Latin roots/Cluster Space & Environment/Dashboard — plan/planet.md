@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # planet
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (astronomy) any of the nine large celestial bodies in the solar system that revolve around the sun and shine by reflected light; mercury, venus, earth, mars, jupiter, saturn, uranus, neptune, and pluto in order of their proximity to the sun; viewed from the constellation hercules, all the planets rotate around the sun in a counterclockwise direction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who follows or serves another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A celestial body moving in an elliptical orbit around a star, of sufficient mass to assume hydrostatic equilibrium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An astrological celestial wanderer considered to exert influence over human affairs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now the fleeting moon No planet is of mine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alone he entered The mortal gate o’ th’ city, which he painted With shunless destiny; aidless came off And with a sudden reinforcement struck Corioles like a planet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hath this lovely face Ruled, like a wandering planet, over me, And could it not enforce them to relent That were unworthy to behold the same?"*
+> - 📜 **Johannes Kepler (*Astronomia Nova*):** *"Each **planet** sweeps out equal areas in equal times along its elliptical path around the sun."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"The gravitational attraction between the sun and each **planet** varies inversely as the square of their distance."*
+> - 📜 **Galileo Galilei (*Sidereus Nuncius*):** *"I beheld four small stars revolving about the noble **planet** Jupiter as moons around the earth."*

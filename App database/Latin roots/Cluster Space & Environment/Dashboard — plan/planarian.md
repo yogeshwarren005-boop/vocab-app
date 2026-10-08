@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # planarian
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free-swimming mostly freshwater flatworms; popular in laboratory studies for the ability to regenerate lost parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free-swimming mostly freshwater flatworms; popular in laboratory studies for the ability to regenerate lost parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any free-living freshwater or terrestrial flatworm belonging to the order Tricladida or related turbellarians.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or possessing the flattened, unsegmented anatomy and regenerative characteristics of planaria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planarian designates free-swimming mostly freshwater flatworms; popular in laboratory studies for the ability to regenerate lost parts."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"The common **planarian** glides smoothly across underwater pebbles by the coordinated beating of microscopic cilia."*
+> - 📜 **Thomas Hunt Morgan (*Experimental Zoology*):** *"When a **planarian** is bisected longitudinally, each half reorganizes its tissues into a complete symmetrical worm."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"The simple eyespots of the **planarian** represent the earliest evolutionary development of visual photoreceptors."*

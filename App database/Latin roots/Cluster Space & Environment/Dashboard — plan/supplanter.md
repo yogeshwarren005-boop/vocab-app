@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supplanter
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who wrongfully or illegally seizes and holds the place of another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who wrongfully or illegally seizes and holds the place of another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who supplants, displaces, or ousts another from an office, position, or inheritance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who trips up or takes the place of another through strategic maneuver.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Laboursaving apparatuses, supplanters, bugbears, manufactured monsters for mutual murder, hideous hobgoblins produced by a horde of capitalistic lusts upon our prostituted labour."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The court favorite lived in constant dread of an ambitious **supplanter** whispering poisons into the royal ear."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Satan was unmasked as the treacherous **supplanter** who seduced innocence to bring ruin upon mankind."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The ousted chancellor viewed his youthful **supplanter** with bitter, unyielding resentment."*

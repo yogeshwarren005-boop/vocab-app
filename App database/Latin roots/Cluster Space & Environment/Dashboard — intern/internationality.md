@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — intern]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # internationality
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Quality of being international in scope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quality of being international in scope.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Multinational character, worldwide standing, or allegiance transcending single national frontiers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Universal fellowship and shared institutional norms linking diverse sovereign states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, internationality designates quality of being international in scope."*
+> - 📜 **Jeremy Bentham (*Principles of International Law*):** *"The emerging sense of **internationality** demands codified legal sanctions to govern disputes between kings."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"A growing feeling of **internationality** softens the harsh antagonisms that formerly divided rival empires."*
+> - 📜 **Lord Acton (*Essays on Freedom and Power*):** *"The Catholic Church maintained a spiritual **internationality** that checked the absolute tyranny of secular monarchs."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # transplanter
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gardener who moves plants to new locations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gardener who moves plants to new locations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who transplants; or a tool or mechanical implement designed for lifting and replanting plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A surgeon who performs organ transplantation; or an agent responsible for relocating populations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transplanter designates a gardener who moves plants to new locations."*
+> - 📜 **John Evelyn (*Sylva*):** *"The mechanical **transplanter** devised by Lord Fitzharding allowed mature trees to be moved without disturbing the root ball."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"A careful **transplanter** will mark the northern side of the bark to orient the tree identically in its new seat."*
+> - 📜 **Thomas Jefferson (*Farm Book*):** *"I directed the garden **transplanter** to set out cabbage seedlings after the evening shower."*

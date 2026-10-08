@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # plantain
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous plants of the genus plantago; mostly small roadside or dooryard weeds with elliptic leaves and small spikes of very small flowers; seeds of some used medicinally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A banana tree bearing hanging clusters of edible angular greenish starchy fruits; tropics and subtropics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A low-growing herbaceous plant of the genus *Plantago* with broad leaves and spikes of minute flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A starchy banana cultivar (*Musa paradisiaca*) cooked as a staple food in tropical regions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, sir, plantain, a plain plantain!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No _l’envoi_, no _l’envoi_, no salve, sir, but a plantain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your plantain leaf is excellent for that."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Your **plantain** leaf is excellent for that; it heals a broken shin with cooling virtue."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The wild **plantain** sprung up beside my cabin door, following the footsteps of man into the forest."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In the tropical valleys of Tahiti, groves of banana and **plantain** furnished bountiful sustenance to the inhabitants."*

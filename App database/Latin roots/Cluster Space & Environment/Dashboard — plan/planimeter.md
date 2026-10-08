@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # planimeter
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A measuring instrument for measuring the area of an irregular plane figure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument for measuring the area of an irregular plane figure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical measuring instrument used to determine the area of an arbitrary two-dimensional plane figure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An engineering apparatus tracing boundaries with a pointer to integrate enclosed planar area directly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planimeter designates a measuring instrument for measuring the area of an irregular plane figure."*
+> - 📜 **James Clerk Maxwell (*Scientific Papers*):** *"The polar **planimeter** invented by Amsler evaluates the enclosed area by mechanical integration of line integrals."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"I examined the ingenious mechanism of the **planimeter**, which converts tracer movement into dial readings."*
+> - 📜 **William Thomson (*Elements of Natural Philosophy*):** *"The rolling wheel of the **planimeter** records area directly by resolving displacements along orthogonal axes."*

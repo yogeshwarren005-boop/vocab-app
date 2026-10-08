@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # coplanar
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lying in the same plane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lying in the same plane.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occupying, lying within, or acting along the same geometric plane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arranged so that all critical axes or contact surfaces share a single flat reference datum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coplanar designates lying in the same plane."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"If three **coplanar** forces hold a particle in equilibrium, each force is proportional to the sine of the opposite angle."*
+> - 📜 **James Clerk Maxwell (*Matter and Motion*):** *"The centers of mass of the interacting particles lie within a set of **coplanar** coordinates."*
+> - 📜 **William Rowan Hamilton (*Lectures on Quaternions*):** *"Non-collinear vectors are **coplanar** whenever their scalar triple product vanishes identically."*

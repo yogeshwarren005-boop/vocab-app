@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — intern]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # internecine
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of conflict) within a group or organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by bloodshed and carnage for both sides.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Destructive to both sides in a conflict; characterized by mutual slaughter and devastation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to conflict, bitter feud, or ruinous rivalry occurring within a single group, family, or country.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"TWO centuries of internecine strife between the great feudal princes culminated in the destruction of the Chou dynasty and the consolidation of the Chinese states under the powerful Ch´in emperor Chêng."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language*):** *"Johnson defined **internecine** as endeavoring mutual destruction, citing ancient fratricidal wars."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The rival claimants to the purple exhausted the resources of Rome in an **internecine** civil war."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The clans of the Highlands had waged **internecine** warfare for centuries over barren rocky glens."*

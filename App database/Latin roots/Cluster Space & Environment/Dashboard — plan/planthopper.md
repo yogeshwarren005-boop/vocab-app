@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # planthopper
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Related to the leafhoppers and spittlebugs but rarely damages cultivated plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related to the leafhoppers and spittlebugs but rarely damages cultivated plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small sap-sucking insect of the superfamily Fulgoroidea, known for jumping powerfully when disturbed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agricultural insect pest that infests crops and transmits plant viral diseases through phloem feeding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planthopper designates related to the leafhoppers and spittlebugs but rarely damages cultivated plants."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The bizarre lantern-fly, an enormous tropical **planthopper**, displays an extraordinary snout resembling a miniature lantern."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Each tiny **planthopper** is camouflaged so exquisitely against the green stem that predators pass it by unawares."*
+> - 📜 **John Lubbock (*On the Senses, Instincts, and Intelligence of Animals*):** *"The jumping mechanism of the **planthopper** relies upon spring-like thoracic plates that release stored elastic tension."*

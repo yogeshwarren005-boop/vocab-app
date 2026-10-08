@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # transplanting
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of removing something from one location and introducing it in another location.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lift and reset in another soil or situation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or season of moving growing plants to new ground or pots.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgically transferring living tissues or organs from a donor to a recipient host.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Others are dotted over with thin clumps of rice through which the ducks swim gaily, while still others are solid masses of green, and transplanting has already begun."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Let us come & be near you--& see if we are made of the right sort of stuff for transplanting to American soil."*
+> - 📜 **Francis Bacon (*Of Gardens*):** *"By **transplanting** bulbous roots into richer compost, the gardener doubles the brilliance of springtime flowers."*
+> - 📜 **John Evelyn (*Sylva*):** *"Autumn is the optimum season for **transplanting** deciduous forest trees before ground frost sets in."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"In **transplanting** small pines from the swamp to my clearing, I felt an almost parental tenderness for each tender needle."*

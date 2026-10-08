@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # plantar
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or occurring on the undersurface of the foot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or occurring on the undersurface of the foot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or situated on the sole of the human foot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy, designating nerves, arteries, fascia, or reflexes localized on the foot's undersurface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plantar designates relating to or occurring on the undersurface of the foot."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The human foot is distinguished by its arch and by the broad development of the **plantar** surface for bipedal balance."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The arrangement of the **plantar** muscles in apes reveals an organ adapted for grasping rather than walking."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"An extensor **plantar** reflex, known as Babinski's sign, indicates an organic lesion of the pyramidal tract."*

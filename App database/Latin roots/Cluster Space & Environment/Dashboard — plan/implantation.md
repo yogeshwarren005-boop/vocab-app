@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # implantation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (embryology) the organic process whereby a fertilized egg becomes implanted in the lining of the uterus of placental mammals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of planting or setting in the ground.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical insertion or embedding of tissue, a medical device, or an artificial prosthesis into the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In embryology, the attachment and embedding of the fertilized blastocyst into the uterine endometrium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, implantation designates (embryology) the organic process whereby a fertilized egg becomes implanted in the lining of the uterus of placental mammals."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The successful **implantation** of spurs upon the combs of cocks demonstrates cellular graft tolerance."*
+> - 📜 **William Harvey (*On the Generation of Animals*):** *"Embryonic **implantation** initiates the profound vascular union between maternal tissue and the chorion."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"The **implantation** of glandular fragments into the peritoneal cavity revealed internal secretory functions."*

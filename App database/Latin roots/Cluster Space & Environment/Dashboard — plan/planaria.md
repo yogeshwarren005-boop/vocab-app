@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # planaria
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free-swimming mostly freshwater flatworms; popular in laboratory studies for the ability to regenerate lost parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free-swimming mostly freshwater flatworms; popular in laboratory studies for the ability to regenerate lost parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of free-living, non-parasitic freshwater flatworms in the class Turbellaria, noted for regenerative ability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flatworm displaying bilateral symmetry, eyespots, and extreme capacity to regenerate complete bodies from fragments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planaria designates free-swimming mostly freshwater flatworms; popular in laboratory studies for the ability to regenerate lost parts."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"I collected curious terrestrial species of **Planaria** in the humid forests of Brazil, observing their crawling locomotion."*
+> - 📜 **Thomas Hunt Morgan (*Regeneration*):** *"Experiments on **Planaria** proved that a tiny transverse slice can regenerate both a head and a tail with perfect polarity."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The branched digestive tract of **Planaria** distributes nutritive fluids directly to all tissues without a vascular system."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — intern]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # internalize
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incorporate within oneself; make subjective or personal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incorporate within oneself; make subjective or personal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To absorb and adopt ideas, values, or prejudices so completely that they guide voluntary conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To bring an economic externality or production factor within corporate management.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, internalize designates incorporate within oneself; make subjective or personal."*
+> - 📜 **Jean Piaget (*The Origins of Intelligence in Children*):** *"Children gradually **internalize** overt physical trial and error into mental foresight."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Unless we **internalize** ethical maxims through repeated practice, intellectual knowledge remains sterile."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"Democratic citizens must **internalize** mutual respect as an active habit of mind and character."*

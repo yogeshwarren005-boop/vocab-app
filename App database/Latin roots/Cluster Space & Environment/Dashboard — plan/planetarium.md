@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # planetarium
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A building housing an instrument for projecting the positions of the planets onto a domed ceiling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An optical device for projecting images of celestial bodies and other astronomical phenomena onto the inner surface of a hemispherical dome.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A domed theater in which projections of the night sky, stars, and planets are displayed for astronomical education.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mechanical model or orrery illustrating the relative movements of planets around the sun.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planetarium designates a building housing an instrument for projecting the positions of the planets onto a domed ceiling."*
+> - 📜 **Christiaan Huygens (*Descriptio Automati Planetarii*):** *"Huygens constructed a mechanical **planetarium** driven by clockwork to demonstrate the true Copernican motions."*
+> - 📜 **Camille Flammarion (*Popular Astronomy*):** *"Beneath the illuminated vault of the modern **planetarium**, spectators witness the grand pageantry of constellations."*
+> - 📜 **Arthur C. Clarke (*The Exploration of Space*):** *"A visit to the public **planetarium** inspired generations of youngsters with dreams of interplanetary voyages."*

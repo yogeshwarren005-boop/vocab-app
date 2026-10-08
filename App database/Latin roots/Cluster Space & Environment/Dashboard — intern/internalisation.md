@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — intern]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # internalisation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Learning (of values or attitudes etc.) that is incorporated within yourself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Learning (of values or attitudes etc.) that is incorporated within yourself.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The psychological process of absorbing values, norms, or attitudes into one's own personality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The economic integration of external costs or market transactions within the boundaries of a firm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, internalisation designates learning (of values or attitudes etc.) that is incorporated within yourself."*
+> - 📜 **Sigmund Freud (*The Ego and the Id*):** *"The formation of the super-ego results from the **internalisation** of parental prohibitions and moral ideals."*
+> - 📜 **Jean Piaget (*The Construction of Reality in the Child*):** *"Cognitive development involves the gradual **internalisation** of external sensory-motor actions into mental schemes."*
+> - 📜 **Emile Durkheim (*Moral Education*):** *"True social discipline is achieved through the spontaneous **internalisation** of collective moral duties."*

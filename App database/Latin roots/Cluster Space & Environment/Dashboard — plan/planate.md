@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # planate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having been flattened.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having been flattened.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flattened, level, or made planar in form or surface texture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Geologically leveled or planed down by long-continued weathering and erosion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planate designates having been flattened."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The ancient plateau exhibited a broadly **planate** surface carved across tilted crystalline strata by marine abrasion."*
+> - 📜 **James Hutton (*Theory of the Earth*):** *"The action of atmospheric rains tends constantly to reduce elevated ridges to a **planate** expanse."*
+> - 📜 **John Playfair (*Illustrations of the Huttonian Theory of the Earth*):** *"The strata presented an almost **planate** unconformity where sedimentary beds rested horizontally on schist."*

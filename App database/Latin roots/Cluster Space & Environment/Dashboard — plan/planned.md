@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # planned
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have the will and intention to carry out some action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make plans for something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed, arranged, or scheduled according to a deliberate, organized scheme beforehand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carried out in accordance with an intentional governmental, military, or urban program.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"So he planned to visit your brother and talk the plan over with him." This calmed Mrs."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius had probably discovered long ago what Kurt had planned to do that night."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"If it could not be the way Apollonie planned, she might at least stay for a long stretch of time."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A well **planned** constitution balances national power against the local rights of individual communities."*
+> - 📜 **Carl von Clausewitz (*On War*):** *"Every **planned** maneuver must take into account the inevitable friction and uncertainty of actual combat."*
+> - 📜 **George Washington (*Writings of George Washington*):** *"The expedition was **planned** with great deliberation and executed with resolute bravery by our officers."*

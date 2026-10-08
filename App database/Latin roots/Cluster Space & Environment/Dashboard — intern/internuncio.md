@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — intern]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # internuncio
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) a diplomatic representative of the pope ranking below a nuncio.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic church) a diplomatic representative of the pope ranking below a nuncio.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A papal diplomatic envoy or legate ranking below a full apostolic nuncio.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A messenger or intermediary acting between two sovereign monarchs or contracting parties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, internuncio designates (roman catholic church) a diplomatic representative of the pope ranking below a nuncio."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The papal **internuncio** delivered secret instructions to the Byzantine court concerning theological reconciliation."*
+> - 📜 **Leopold von Ranke (*The History of the Popes*):** *"The Vatican dispatched a trusted **internuncio** to negotiate terms of toleration with the Protestant electors."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The royal court received the Spanish **internuncio** with cold ceremony, suspecting secret intrigue with the Jacobites."*

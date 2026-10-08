@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supplanting
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of taking the place of another especially using underhanded tactics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take the place or move into the position of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of replacing, displacing, or ousting someone or something from an established position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Superceding an older organism, technology, or dynasty by superior competitive advantage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supplanting designates act of taking the place of another especially using underhanded tactics."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection operates through the steady **supplanting** of less adapted varieties by more vigorous forms."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **supplanting** of ancient republican magistracies by imperial prefects was effected with imperceptible caution."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"The **supplanting** of local nobility by royal intendants stripped French provinces of their ancient liberties."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — intern]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # intern
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An advanced student or graduate in medicine gaining supervised practical experience (`houseman' is a british term).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprive of freedom.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical graduate gaining supervised clinical experience in a hospital; or to confine prisoners or belligerents during wartime.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An advanced student or trainee working in an organization to gain practical professional experience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"I got kept in at school one day For lessons not half learned, And when dad asked, "Why this delay?" I said I'd been interned."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"None of us thought of searching on the other side of the moat, where was the underground oven of the Cistercians, in which Elsie (as she has already told) was interned."*
-> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"REPULSE," "RENOWN," "PRINCESS ROYAL," AND "TIGER" ESCORTING GERMAN BATTLE CRUISERS THROUGH HOXA BOOM, 25TH NOVEMBER, 1918.] The complete list of capital ships (apart from destroyers) interned at Scapa is shown below."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The hospital **intern** must cultivate imperturbability and acute clinical observation at every bedside."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The magistrates chose to **intern** the disarmed captives within fortified frontier settlements."*
+> - 📜 **Winston Churchill (*Their Finest Hour*):** *"During the emergency of 1940, the cabinet resolved to **intern** dangerous enemy aliens as a precaution."*

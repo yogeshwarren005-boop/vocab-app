@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # transplantation
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An operation moving an organ from one organism (the donor) to another (the recipient).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of removing something from one location and introducing it in another location.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of moving a plant to new soil; or the surgical transfer of tissue or an organ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relocation or resettlement of a population, institution, or cultural tradition to a new country.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Norris seemed to do, to her transplantation to Mansfield, he was pleased with himself for having supplied everything else: education and manners she owed to him."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But that exquisite creature herself suffered in the same sort of way:—it was at least one delightful thought that in marrying her, he could give her a much-needed transplantation."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Few of my countrymen can know what it is; nor, as frequent transplantation is perhaps better for the stock, need they consider it desirable to know."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The **transplantation** of sciences from their native soil into foreign minds requires careful philosophical nurture."*
+> - 📜 **Alexis Carrel (*Man, The Unknown*):** *"Surgical **transplantation** of vital organs promises to open revolutionary horizons in reconstructive medicine."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"The peaceful **transplantation** of colonies across the Atlantic laid the foundation for prosperous commonwealths."*

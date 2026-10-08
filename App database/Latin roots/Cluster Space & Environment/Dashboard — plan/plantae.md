@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # plantae
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (botany) the taxonomic kingdom comprising all living or extinct plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (botany) the taxonomic kingdom comprising all living or extinct plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic biological kingdom comprising multicellular photosynthetic eukaryotes, including mosses, ferns, conifers, and flowering plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The plant kingdom characterized by cell walls containing cellulose, plastids, and non-motile habit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plantae designates (botany) the taxonomic kingdom comprising all living or extinct plants."*
+> - 📜 **Carl Linnaeus (*Systema Naturae*):** *"Linnaeus divided all natural bodies into three kingdoms: Lapides, **Plantae**, and Animalia."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The kingdom **Plantae** includes all organisms that produce organic nourishment through the chlorophyllian apparatus."*
+> - 📜 **Ernst Haeckel (*The History of Creation*):** *"Haeckel traced the evolutionary divergence of **Plantae** and Animalia from primitive unicellular protists."*

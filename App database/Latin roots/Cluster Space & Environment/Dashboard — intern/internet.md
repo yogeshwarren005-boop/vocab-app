@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — intern]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # internet
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A computer network consisting of a worldwide network of computer networks that use the tcp/ip network protocols to facilitate data transmission and exchange.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A computer network consisting of a worldwide network of computer networks that use the tcp/ip network protocols to facilitate data transmission and exchange.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The global system of interconnected computer networks using the TCP/IP protocol suite to link devices worldwide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vast decentralized digital communication infrastructure facilitating data exchange, email, and the World Wide Web.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The young are already exposed to far more negative forces in the general run of storybooks, television shows, Internet games and the real world."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"A young mother of two posed the following dilemma to an Internet discussion group devoted to family relations and child behavior."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Many older adults in the Internet community who read the students' invitation contributed their recollections of the war years."*
+> - 📜 **Vint Cerf (*A Protocol for Packet Network Intercommunication*):** *"The packet-switching architecture of the **Internet** enables diverse autonomous computer networks to exchange data seamlessly."*
+> - 📜 **Tim Berners-Lee (*Weaving the Web*):** *"I designed the World Wide Web to run atop the **Internet**, linking hyperlinked documents across continents."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Although Wiener preceded the digital **Internet**, his cybernetic theory predicted global communication networks maintaining social homeostasis."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — intern]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # internalization
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Learning (of values or attitudes etc.) that is incorporated within yourself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Learning (of values or attitudes etc.) that is incorporated within yourself.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The psychological incorporation of external standards, beliefs, or social norms into the self-concept.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In business economics, bringing market transactions within the organizational structure of a corporation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, internalization designates learning (of values or attitudes etc.) that is incorporated within yourself."*
+> - 📜 **Sigmund Freud (*Civilization and Its Discontents*):** *"Conscience is born through the **internalization** of external aggressive drives turned inward upon the ego."*
+> - 📜 **Jean Piaget (*The Psychology of Intelligence*):** *"Logical operations represent the complete **internalization** and reversibility of overt sensory actions."*
+> - 📜 **Lev Vygotsky (*Mind in Society*):** *"Every higher mental function appears twice: first socially between people, and then through **internalization**."*

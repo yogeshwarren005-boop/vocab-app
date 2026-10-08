@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # planner
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes plans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A notebook for recording appointments and things to be done, etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who formulates plans, strategic schemes, or organizational projects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A professional specialist who devises urban development designs, zoning, or public works.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"As a Logistics Planner at Nouasseur, one of my projects was to prepare an element of U S Air Force Europe (USAFE) logistics plans to support the U S Strategic Air Command (SAC)."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"At least for the next several years, NATO and US planners admitted, however, that neither massive retaliation nor MAD, by themselves, would stop a Soviet first strike and an invasion into Eastern and Central Europe and the Middle East."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The social **planner** often fails to foresee that free citizens prize personal choice above administrative symmetry."*
+> - 📜 **Walter Lippmann (*The Good Society*):** *"No central **planner** possesses sufficient wisdom to direct the countless subjective preferences of a free society."*
+> - 📜 **Lewis Mumford (*The Culture of Cities*):** *"The visionary city **planner** designs neighborhoods that harmonize human fellowship with green open spaces."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # planning
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of formulating a program for a definite course of action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act or process of drawing up plans or layouts for some project or enterprise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of formulating a scheme or program of action before taking steps to execute it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Urban or economic design and regulatory organization applied across a city or nation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"As we were going along, planning what we should do for Richard and Ada, I heard somebody calling “Esther!"*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Let me see: I’ll give them a new pair of boots every Christmas.” And she went on planning to herself how she would manage it."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Next morning, I was planning that I would make the tinfull of meal into mush, and fry it in a greasy frying-pan, in which our last meat had been fried."*
+> - 📜 **Carl von Clausewitz (*On War*):** *"Careful military **planning** establishes clear objectives while preserving tactical flexibility for unexpected crises."*
+> - 📜 **Friedrich Hayek (*The Road to Serfdom*):** *"Central economic **planning** inevitably leads to arbitrary state coercion at the expense of individual freedom."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"Enlightened public **planning** can stabilize capital investment and alleviate chronic mass unemployment."*

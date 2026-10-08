@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # enplane
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Board a plane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Board a plane.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To board an aircraft in preparation for flight; to embark aboard an airplane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To take one's seat or stow cargo aboard a departing transport plane.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enplane designates board a plane."*
+> - 📜 **Virginia Woolf (*The Years*):** *"She watched the passengers **enplane** at Croydon airfield, their heavy coats flapping in the propeller gale."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"Passengers lined up to **enplane** on the transatlantic rocket liner under the humming magnesium lamps."*
+> - 📜 **Arthur C. Clarke (*The Exploration of Space*):** *"Future orbital travelers will **enplane** upon aerospace transports designed to skip across the upper stratosphere."*

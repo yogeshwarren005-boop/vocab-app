@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # transplantable
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being transplanted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being transplanted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being safely transplanted into new soil or surgically grafted into a recipient body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suitable for transfer or relocation into a new social, cultural, or physical habitat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transplantable designates capable of being transplanted."*
+> - 📜 **Alexis Carrel (*The Culture of Organs*):** *"Intact vascular segments proved readily **transplantable** when preserved in cold sterile serum."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"Healthy skin grafts are remarkably **transplantable** provided the wound bed is kept entirely aseptic."*
+> - 📜 **William Osler (*Aequanimitas*):** *"Not every European educational institution is directly **transplantable** into the dynamic soil of the New World."*

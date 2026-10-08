@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # planetoid
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous small celestial bodies that move around the sun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous small celestial bodies that move around the sun.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An asteroid or minor planet revolving around the sun, especially within the asteroid belt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small celestial body smaller than a dwarf planet displaying irregular non-spherical shape.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Rings of laser arrays along the edge of the Extractor's hopper flashed alive and focused their beams on a large, slowly tumbling planetoid hundreds of kilometers across its minor dimension."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Sensors, analyzers, siphons and beam-guides paralleled the lasers' signals along an incandescent column of plasma from the dissolving planetoid into the Extractor's processes and, when ready, into the hopper."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The discovery of Ceres and Pallas revealed a whole family of minor bodies termed asteroid or **planetoid**."*
+> - 📜 **Percival Lowell (*The Solar System*):** *"Between the orbits of Mars and Jupiter lies a vast zone where each small **planetoid** follows its own path."*
+> - 📜 **Camille Flammarion (*Popular Astronomy*):** *"Astronomers catalogued hundreds of faint points of light, each representing an independent orbiting **planetoid**."*

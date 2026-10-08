@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # biplane
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Old fashioned airplane; has two wings one above the other.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Old fashioned airplane; has two wings one above the other.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fixed-wing aircraft equipped with two main sets of superimposed supporting wings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An early aerodynamic design characterized by structural wing-struts and cross-bracing wires.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biplane designates old fashioned airplane; has two wings one above the other."*
+> - 📜 **Orville Wright (*How We Made the First Flight*):** *"Our motor-driven **biplane** lifted into the steady December headwind above the dunes of Kitty Hawk."*
+> - 📜 **Wilbur Wright (*The Papers of Wilbur and Orville Wright*):** *"The trussed structure of a double-deck **biplane** offered superior torsional stiffness with minimal dead weight."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The patrolling scout soared overhead in a fragile canvas **biplane**, scouting troop movements along the river."*

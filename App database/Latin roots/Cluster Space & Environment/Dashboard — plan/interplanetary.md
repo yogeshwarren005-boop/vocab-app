@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # interplanetary
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Between or among planets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Between or among planets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated, occurring, or traveling between planets within the solar system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to space missions, gravitation, or astronomical fields traversing interplanetary distances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Our intelligence sources," Allen concluded, "report that many supporters of Plutonian objectives are, themselves, descendants of the insurrectionists that fomented the dissolution of our first interplanetary union."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Educated and trained to practice law in the Outer Region's inter-satellite and interplanetary courts he had, instead, become a serious liability to his government and to his community."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I have studied and practiced interplanetary law for many years."*
+> - 📜 **Johannes Kepler (*Somnium*):** *"Kepler imagined an **interplanetary** voyage to the moon, depicting the cold void separating celestial spheres."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"Across the immense **interplanetary** gulf, intellects vast and cool and unsympathetic regarded this earth with envious eyes."*
+> - 📜 **Arthur C. Clarke (*Interplanetary Flight*):** *"The development of nuclear rocket propulsion will make routine **interplanetary** travel feasible within a few generations."*

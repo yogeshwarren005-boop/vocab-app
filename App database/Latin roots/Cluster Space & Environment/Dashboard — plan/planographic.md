@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # planographic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or involving planography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or involving planography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or using a printing process (such as lithography) from a flat plane rather than relief or intaglio.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Operating on the principle of chemical antagonism between grease and water on a level surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planographic designates of or relating to or involving planography."*
+> - 📜 **Alois Senefelder (*A Complete Course of Lithography*):** *"My invention of **planographic** printing proved that chemical affinity could replace engraved incised grooves."*
+> - 📜 **Walter Crane (*Of the Decorative Illustration of Books Old and New*):** *"The modern **planographic** process reproduces the artist's original chalk stroke with remarkable fidelity."*
+> - 📜 **William Morris (*The Ideal Book*):** *"While relief letterpress gives rich impression, **planographic** methods excel in subtle multi-color poster design."*

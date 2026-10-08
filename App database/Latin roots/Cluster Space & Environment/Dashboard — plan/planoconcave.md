@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # planoconcave
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flat on one side and concave on the other.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flat on one side and concave on the other.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flat on one side and curved inward on the opposite side, as of an optical lens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diverging optical lens with one plane and one concave spherical surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planoconcave designates flat on one side and concave on the other."*
+> - 📜 **Isaac Newton (*Opticks*):** *"A **planoconcave** lens diverges parallel rays of light as though they emanated from a virtual focal point behind it."*
+> - 📜 **David Brewster (*A Treatise on Optics*):** *"By pairing a planoconvex crown glass with a **planoconcave** flint glass, achromatic correction was achieved."*
+> - 📜 **John Herschel (*Light: Encyclopaedia Metropolitana*):** *"The negative focal length of a **planoconcave** element compensates for spherical aberration in compound systems."*

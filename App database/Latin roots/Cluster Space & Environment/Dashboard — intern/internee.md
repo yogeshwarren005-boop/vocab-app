@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — intern]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # internee
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is interned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is interned.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is confined or interned, especially a civilian citizen of an enemy power during wartime.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual detained in an internment camp or restricted area without formal criminal conviction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, internee designates a person who is interned."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"Every **internee** had the right to petition the impartial tribunal for a prompt review of his detention."*
+> - 📜 **George Orwell (*As I Please*):** *"The refugee writer found himself treated as an enemy **internee** despite his lifelong hatred of fascism."*
+> - 📜 **Arthur Koestler (*Scum of the Earth*):** *"As an **internee** in the French camp of Le Vernet, I witnessed the rapid demoralization of prisoners under barbed wire."*

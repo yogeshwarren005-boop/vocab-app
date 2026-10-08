@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # planchette
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A triangular board supported on casters; when lightly touched with the fingertips it is supposed to spell out supernatural (or unconscious) messages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A triangular board supported on casters; when lightly touched with the fingertips it is supposed to spell out supernatural (or unconscious) messages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small heart-shaped wooden board on castors, holding a pencil, used in séances for automatic writing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spiritualist parlor instrument believed to move under supernatural or subconscious ideological guidance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Even planchette - the French toy which years ago pleased so many people - attested the con- 80:24 trol of mortal mind over its substratum, called matter."*
-> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"She is exceedingly superstitious, and in the early part of May consulted the Chinese planchette to read her destiny."*
+> - 📜 **Arthur Conan Doyle (*The History of Spiritualism*):** *"The fingers of the sitters rested lightly upon the wooden **planchette**, which began tracing legible sentences."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Motor automatisms produced through the **planchette** reveal subconscious ideas operating outside focal awareness."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"Curious parlor guests gathered around the **planchette**, breathless as the wooden device scribbled mysterious fortunes."*

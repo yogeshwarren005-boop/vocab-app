@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # planation
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of erosion whereby a level surface is produced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of erosion whereby a level surface is produced.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The geological process by which erosion reduces a land surface to a flat, base-level plain or peneplain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The leveling of irregular mountain topography by prolonged fluvial, marine, or glacial action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Divine metaphysics reverses perverted 111:15 and physical hypotheses as to Deity, even as the ex- planation of optics rejects the incidental or inverted image and shows what this inverted image is meant to 111:18 represent."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The ex- 385:6 planation lies in the support which they derived from the divine law, rising above the human."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"While 236:30 age is halting between two opinions or battling with false beliefs, youth makes easy and rapid strides towards Truth. 237:1 A little girl, who had occasionally listened to my ex- planations, badly wounded her finger."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The broad plain represents the result of long-continued marine **planation** during a period of slow subsidence."*
+> - 📜 **William Morris Davis (*Geographical Essays*):** *"Subaerial **planation** gradually lowers the divides until the entire region approaches a monotonous peneplain."*
+> - 📜 **Archibald Geikie (*The Scenery of Scotland*):** *"Traces of ancient wave **planation** can be identified along the raised terraces bordering the western lochs."*

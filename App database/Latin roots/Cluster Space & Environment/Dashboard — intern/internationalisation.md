@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — intern]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # internationalisation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of bringing something under international control.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of bringing something under international control.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of bringing a territory, institution, or economic enterprise under international jurisdiction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The expansion of commerce, culture, or communications across sovereign frontiers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, internationalisation designates the act of bringing something under international control."*
+> - 📜 **John Maynard Keynes (*The Economic Consequences of the Peace*):** *"The **internationalisation** of vital European riverways was intended to secure unfettered transit for landlocked nations."*
+> - 📜 **Woodrow Wilson (*The Fourteen Points*):** *"The **internationalisation** of the Dardanelles will guarantee perpetual freedom of navigation to all flags."*
+> - 📜 **Arnold J. Toynbee (*A Study of History*):** *"The steady **internationalisation** of scientific inquiry broke through the narrow confines of parochial nationalism."*

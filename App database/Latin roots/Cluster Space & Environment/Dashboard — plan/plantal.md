@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # plantal
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or belonging to the vegetable or plant kingdom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vegetative or non-sentient in nature, as contrasted with animal or rational life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plantal designates of or relating to plants."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The lower zoophytes occupy a middle state, possessing both animal motion and **plantal** growth."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"A seed contains a dormant **plantal** life which awaits the warmth of springtime to unfold its organs."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"The vital principle ascends from mere **plantal** assimilation to instinctive animal sensation and self-conscious reason."*

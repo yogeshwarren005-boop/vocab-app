@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # planchet
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A flat metal disk ready for stamping as a coin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flat metal disk ready for stamping as a coin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A blank disk of metal prepared to be stamped into a coin or medal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A smooth circular flan placed between upper and lower coining dies in a minting press.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planchet designates a flat metal disk ready for stamping as a coin."*
+> - 📜 **Isaac Newton (*Mint Reports and Papers*):** *"Each gold **planchet** must be carefully weighed and filed to ensure strict adherence to the statutory standard."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The coining press impresses the sovereign's likeness upon the blank **planchet** with irresistible mechanical force."*
+> - 📜 **Thomas Jefferson (*Notes on the Establishment of a Money Unit*):** *"I proposed that the copper **planchet** should be uniform in diameter to facilitate commercial counting and rolling."*

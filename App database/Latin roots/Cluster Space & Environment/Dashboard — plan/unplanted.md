@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # unplanted
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not planted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not planted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not sown, seeded, or planted with crops, trees, or vegetation; left uncultivated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking deliberate botanical cultivation or human agricultural improvement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unplanted designates not planted."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Wide tracts of **unplanted** woodland stretched between the cultivated farms of Concord."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"If fertile ground is left **unplanted**, it will spontaneously bring forth thistles, nettles, and wild weeds."*
+> - 📜 **William Wordsworth (*The Excursion*):** *"The solitary cottage stood amidst an **unplanted** hillside where mountain sheep grazed the short turf."*

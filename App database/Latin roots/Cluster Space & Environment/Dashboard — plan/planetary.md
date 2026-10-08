@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # planetary
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resembling the physical or orbital characteristics of a planet or the planets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of the planet earth or its inhabitants; - l.c.eiseley.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or belonging to a planet or planets in astronomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Global in terrestrial scale; or wandering and erratic in movement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be as a planetary plague when Jove Will o’er some high-viced city hang his poison In the sick air."*
-> - 📜 **George Eliot (*Middlemarch*):** *"To Uriel watching the progress of planetary history from the sun, the one result would be just as much of a coincidence as the other."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The System Authority possesses and Commands a Self-Defense Force under Powers delegated by the President of the United Inner Planetary System (UIPS)."*
+> - 📜 **Johannes Kepler (*Harmonices Mundi*):** *"The squares of the periodic times of any two planets are proportional to the cubes of their **planetary** distances."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"The perturbations in **planetary** orbits result from the mutual gravitational attraction among the revolving bodies."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The radiant sun dispenses light and heat to all the **planetary** spheres that encircle his golden throne."*

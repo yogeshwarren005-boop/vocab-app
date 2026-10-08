@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # planless
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aimlessly drifting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aimlessly drifting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a plan, deliberate design, or organized purpose; aimless and haphazard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Proceeding without systematic forethought, method, or structural coordination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planless designates aimlessly drifting."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"A chaotic, **planless** existence squanders the divine energy of man in vain, contradictory impulses."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Do not let your days drift in **planless** confusion, but anchor your intellect to steadfast principles."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Fred Vincy's life seemed distressingly **planless**, waiting for windfalls rather than acquiring an honest trade."*

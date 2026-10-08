@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # plan
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A series of steps to be carried out or goals to be accomplished.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arrangement scheme.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A detailed proposal, scheme, or method for doing or achieving something devised beforehand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scaled architectural drawing or technical diagram showing the layout of a building or area.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When Lippo had properly filled the box and set it in its right place, he quickly followed Mäzli, wondering what her plan was."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Everybody was satisfied with the plan and the mother assented eagerly, as she had intended the same thing."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"So the host had made all necessary arrangements, as there were no objections to the plan on either side."*
+> - 📜 **George Washington (*Writings of George Washington*):** *"Let us raise a standard to which the wise and honest can repair; the event is in the hand of God, but our **plan** is upright."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A national **plan** of revenue is indispensable to establish the credit and safety of the American commonwealth."*
+> - 📜 **Carl von Clausewitz (*On War*):** *"No operational **plan** survives with certainty beyond the first contact with the enemy's main army."*

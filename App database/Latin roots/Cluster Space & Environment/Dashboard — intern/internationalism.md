@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — intern]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # internationalism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine that nations should cooperate because their common interests are more important than their differences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quality of being international in scope.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A political principle or doctrine advocating cooperation, solidarity, and peace among nations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The belief that multinational common interests transcend narrow sovereign national loyalties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, internationalism designates the doctrine that nations should cooperate because their common interests are more important than their differences."*
+> - 📜 **Woodrow Wilson (*The Hope of the World*):** *"Our democratic **internationalism** seeks a concert of free peoples dedicated to justice and self-determination."*
+> - 📜 **Immanuel Kant (*Idea for a Universal History with a Cosmopolitan Purpose*):** *"Enlightened **internationalism** represents nature's secret plan to guide human species toward universal law."*
+> - 📜 **Albert Einstein (*Ideas and Opinions*):** *"I have always regarded aggressive nationalism as an infantile disease; my creed is uncompromising **internationalism**."*

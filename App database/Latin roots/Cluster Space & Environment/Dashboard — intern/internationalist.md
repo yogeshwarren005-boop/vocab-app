@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — intern]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # internationalist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate of internationalism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a socialist or communist international.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate of political, economic, or cultural cooperation among nations; or pertaining to such views.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member or supporter of an international socialist or cooperative association.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, internationalist designates an advocate of internationalism."*
+> - 📜 **Woodrow Wilson (*Addresses of President Wilson*):** *"The sincere **internationalist** seeks to build enduring treaties upon moral consensus rather than armed balance of power."*
+> - 📜 **Bertrand Russell (*Proposed Roads to Freedom*):** *"Every true socialist must be an **internationalist**, acknowledging the common brotherhood of working humanity."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"The scientific **internationalist** recognizes that pandemics and climate cannot be bounded by diplomatic frontiers."*

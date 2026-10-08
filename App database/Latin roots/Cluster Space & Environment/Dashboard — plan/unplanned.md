@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # unplanned
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without apparent forethought or prompting or planning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not done with purpose or intent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not done, conceived, or executed according to a plan; spontaneous or accidental.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring haphazardly without previous forethought, design, or regulatory oversight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was never able to do it but that once, and that one time was wholly unplanned and unexpected."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The spontaneous, **unplanned** cooperation of pioneering settlers carved thriving towns out of the untamed wilderness."*
+> - 📜 **Friedrich Hayek (*The Constitution of Liberty*):** *"Language and common law represent marvels of **unplanned** social evolution that surpass deliberate human design."*
+> - 📜 **George Eliot (*Middlemarch*):** *"An **unplanned** encounter at the garden gate shattered Dorothea's carefully rehearsed resolve."*

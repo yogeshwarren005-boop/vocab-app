@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — intern]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # internally
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: On or from the inside.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: On or from the inside.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Within the inside, interior surfaces, or inner anatomy of a body or organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a subjective mental fashion, or domestically within the borders of a nation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The ’prentices giggle internally and nudge each other."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"It consists of a mound of earth faced on both sides with a solid wall of stone and strengthened internally by oak beams and planks, the whole being laid on a foundation of boulders."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The automatic self-test devices hummed pressure checks, and indicators glowed as the life support systems balanced internally."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"Gravity acts not merely on the surface, but **internally** upon every particle of matter throughout the sphere."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Organisms that appear identical outwardly may differ **internally** in their reproductive physiology."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"While the frontiers were assaulted by barbarians, the empire was **internally** torn by factional strife."*

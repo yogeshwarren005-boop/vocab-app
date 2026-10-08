@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # complanar
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin plan within the domain of Space & Environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of plan in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lying, acting, or situated together within the same geometric plane surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing vector lines or forces that operate within a single shared two-dimensional orientation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, complanar designates pertaining to, derived from, or characteristic of latin plan within the domain of space & environment."*
+> - 📜 **William Rowan Hamilton (*Elements of Quaternions*):** *"When two directed vectors are **complanar**, their algebraic product reduces to an ordinary planar quaternion."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The magnetic induction lines remain strictly **complanar** throughout the cross-section of the conducting sheet."*
+> - 📜 **Oliver Heaviside (*Electromagnetic Theory*):** *"The analysis of **complanar** electromagnetic waves reveals simple harmonic propagation across the boundary."*

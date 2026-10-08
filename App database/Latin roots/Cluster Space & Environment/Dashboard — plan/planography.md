@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # planography
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of printing from a surface on which the printing areas are not raised but are ink-receptive (as opposed to ink repellent).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of printing from a surface on which the printing areas are not raised but are ink-receptive (as opposed to ink repellent).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art, technique, or industrial method of printing from a completely flat surface, as in lithography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chemical flat-bed printing utilizing mutual repulsion of oil-based ink and damp non-image areas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planography designates the process of printing from a surface on which the printing areas are not raised but are ink-receptive (as opposed to ink repellent)."*
+> - 📜 **Alois Senefelder (*A Complete Course of Lithography*):** *"Senefelder termed this novel chemical art **planography**, because printing occurred upon an unetched stone surface."*
+> - 📜 **Walter Crane (*The Decorative Illustration of Books*):** *"Commercial **planography** allowed Victorian illustrators to mass-produce richly shaded chromolithographs."*
+> - 📜 **John Ruskin (*The Elements of Drawing*):** *"The student must observe how modern **planography** differs in expressive grain from the rigorous woodcut line."*

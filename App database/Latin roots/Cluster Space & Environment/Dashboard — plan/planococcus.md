@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # planococcus
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of pseudococcidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of pseudococcidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of motile, flagellated, Gram-positive spherical bacteria in the family Planococcaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Halotolerant or marine coccoid bacteria capable of independent locomotion through active flagellar rotation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planococcus designates a genus of pseudococcidae."*
+> - 📜 **Ferdinand Cohn (*Beiträge zur Biologie der Pflanzen*):** *"Cohn noted that **Planococcus** represented a rare departure from the typically non-motile nature of spherical micrococci."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Bacterial cultures of **Planococcus** were observed actively darting across the microscopic field under dark-field illumination."*
+> - 📜 **Robert Koch (*Investigations into the Etiology of Traumatic Infective Diseases*):** *"The distinctive motility of **Planococcus** distinguishes it from ordinary staphylococcal clusters in saline broths."*

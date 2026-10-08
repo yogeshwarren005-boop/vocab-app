@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # plantaginales
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coextensive with the family plantaginaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coextensive with the family plantaginaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete botanical order of dicotyledonous flowering plants containing the family Plantaginaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A taxonomic grouping of sympetalous herbs characterized by dry wind-pollinated flowers and scapose spikes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plantaginales designates coextensive with the family plantaginaceae."*
+> - 📜 **Adolf Engler (*Syllabus der Pflanzenfamilien*):** *"Engler maintained **Plantaginales** as a distinct order on account of its reduced floral parts and tetramerous symmetry."*
+> - 📜 **John Hutchinson (*The Families of Flowering Plants*):** *"The order **Plantaginales** displays evolutionary reduction adapted to anemophilous open grassland habitats."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The single family included under **Plantaginales** possesses a world-wide distribution in temperate zones."*

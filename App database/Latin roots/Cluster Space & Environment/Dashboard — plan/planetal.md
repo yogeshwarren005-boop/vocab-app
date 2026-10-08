@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # planetal
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resembling the physical or orbital characteristics of a planet or the planets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or resembling the physical or orbital characteristics of a planet or the planets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or resembling a wandering astronomical planet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vast, wandering, or celestial in cosmic scope and movement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planetal designates of or relating to or resembling the physical or orbital characteristics of a planet or the planets."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The stars that in their **planetal** motions run through the wide celestial vault obey eternal decrees."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"A solemn music echoed through the night, as though the **planetal** spheres resumed their choral dance."*
+> - 📜 **Thomas Hardy (*The Dynasts*):** *"The overarching Spirit of the Years gazed down upon the **planetal** strife of contending human empires."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — intern]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # internship
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of a medical intern.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of a medical intern.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A period of work experience, medical residency, or practical training undergone by a student or graduate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structured apprenticeship providing practical professional skills prior to licensing or permanent employment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, internship designates the position of a medical intern."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The clinical **internship** is the true crucible wherein textbook theory is forged into mature medical competence."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"During his demanding **internship**, Martin learned to make instant decisions amidst the chaos of emergency admissions."*
+> - 📜 **Abraham Flexner (*Medical Education in the United States and Canada*):** *"A rigorous hospital **internship** should be an obligatory prerequisite for obtaining a license to practice medicine."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # planar
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving two dimensions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving two dimensions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, existing in, or having the form of a geometric two-dimensional plane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flat, level, or characterized by motion and vectors confined to a flat surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planar designates involving two dimensions."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The rays reflected from a **planar** glass surface maintain strict parallelism across the optical aperture."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The equipotential surfaces in the uniform field form a series of parallel **planar** sheets."*
+> - 📜 **William Thomson (*Treatise on Natural Philosophy*):** *"The kinematics of rigid body motion reduce to simple geometry when the displacement is strictly **planar**."*

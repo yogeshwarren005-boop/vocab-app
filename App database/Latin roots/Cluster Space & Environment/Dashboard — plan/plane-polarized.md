@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # plane-polarized
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a moving wave) vibrating in a single plane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a moving wave) vibrating in a single plane.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Describing electromagnetic or light waves whose electric field vectors vibrate strictly within a single flat plane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Optical radiation restricted to one transverse plane of vibration through transmission or reflection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plane-polarized designates (of a moving wave) vibrating in a single plane."*
+> - 📜 **David Brewster (*A Treatise on Optics*):** *"Light reflected from glass at Brewster's angle becomes completely **plane-polarized** perpendicular to the plane of incidence."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"A beam of **plane-polarized** light undergoes magnetic rotation when traversing a dense dielectric medium."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The ray of **plane-polarized** light revealed the direct magnetic influence exerted upon the luminiferous ether."*

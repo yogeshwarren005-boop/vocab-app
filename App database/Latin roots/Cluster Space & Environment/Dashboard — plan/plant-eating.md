@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # plant-eating
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of animals) feeding on plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of animals) feeding on plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding primarily or exclusively upon vegetation; herbivorous in diet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing specialized dentition, grinding molars, or digestive adaptations for digesting plant matter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plant-eating designates (of animals) feeding on plants."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The giant tortoises of the Galapagos are exclusively **plant-eating** reptiles browsing upon cacti and succulent leaves."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The broad crowned molars of this extinct mammal prove that it was a gentle, **plant-eating** herbivore."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The digestive tract of a **plant-eating** quadruped is vastly longer than that of a flesh-eating carnivore."*

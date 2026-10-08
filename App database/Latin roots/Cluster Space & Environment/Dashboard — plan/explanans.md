@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # explanans
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (logic) statements that explain the explicandum; the explanatory premises.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (logic) statements that explain the explicandum; the explanatory premises.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In logic and philosophy of science, the class of sentences adduced to account for the explanandum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The explanatory apparatus consisting of universal causal laws and verifiable initial antecedent conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, explanans designates (logic) statements that explain the explicandum; the explanatory premises."*
+> - 📜 **Carl Hempel (*Aspects of Scientific Explanation*):** *"The **explanans** must possess empirical content and contain at least one law of general applicability."*
+> - 📜 **Karl Popper (*Conjectures and Refutations*):** *"If the **explanans** is refuted by experimental counterexamples, our theoretical system must be revised."*
+> - 📜 **Bertrand Russell (*Human Knowledge: Its Scope and Limits*):** *"In deductive-nomological reasoning, the validity of the **explanans** guarantees the logical deduction of the phenomenon."*

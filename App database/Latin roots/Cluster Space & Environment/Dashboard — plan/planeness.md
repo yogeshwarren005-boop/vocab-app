@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # planeness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of having two dimensions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of having two dimensions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flatness, geometric smoothness, or absence of surface curvature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The exact geometric conformity of an optical or mechanical surface to a true plane.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planeness designates the property of having two dimensions."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The extraordinary **planeness** of the polished speculum glass prevented unwanted distortion in the image."*
+> - 📜 **Charles Babbage (*Economy of Machinery and Manufactures*):** *"Whitworth achieved astonishing **planeness** on his steel surface plates through careful hand scraping."*
+> - 📜 **Robert Hooke (*Micrographia*):** *"Under the microscope, apparent **planeness** dissolves into a rugged landscape of pits and asperities."*

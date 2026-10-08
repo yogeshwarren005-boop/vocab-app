@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — intern]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # internalise
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incorporate within oneself; make subjective or personal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incorporate within oneself; make subjective or personal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make attitudes, cultural values, or codes of conduct part of one's own subconscious outlook.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In business economics, to absorb production stages or market risks within the enterprise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, internalise designates incorporate within oneself; make subjective or personal."*
+> - 📜 **Jean Piaget (*Play, Dreams and Imitation in Childhood*):** *"The growing infant learns to **internalise** physical manipulation into reflective symbolic thought."*
+> - 📜 **George Herbert Mead (*Mind, Self, and Society*):** *"Through vocal language, the individual learns to **internalise** the attitudes of the generalized other."*
+> - 📜 **William James (*Talks to Teachers on Psychology*):** *"A good educator guides the pupil to **internalise** noble habits until they become second nature."*

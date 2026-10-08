@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # planetesimal
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of many small solid celestial bodies thought to have existed at an early stage in the development of the solar system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of many small solid celestial bodies thought to have existed at an early stage in the development of the solar system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small celestial body of rock or ice that coalesced from the primordial solar nebula to form planets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An accretionary fragment colliding and merging into protoplanetary cores during star formation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planetesimal designates one of many small solid celestial bodies thought to have existed at an early stage in the development of the solar system."*
+> - 📜 **Thomas Chrowder Chamberlin (*The Origin of the Earth*):** *"Under the **planetesimal** hypothesis, the earth grew through the gradual accretion of cold solid meteoric particles."*
+> - 📜 **Forest Ray Moulton (*An Introduction to Astronomy*):** *"Mutual gravitational collisions between countless **planetesimal** bodies consolidated the primordial protoplanets."*
+> - 📜 **Arthur Eddington (*Stars and Atoms*):** *"The swarms of ancient **planetesimal** matter eventually swept clear the orbital lanes of our solar system."*

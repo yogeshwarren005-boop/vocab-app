@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plan]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # plano
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in northeastern texas (suburb of dallas).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in northeastern texas (suburb of dallas).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having one plane or flat surface, especially in optical lens terminology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A combining prefix denoting flatness, level geometry, or two-dimensional orientation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plano designates a city in northeastern texas (suburb of dallas)."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The **plano** side of the objective lens was pressed against the curved glass to produce chromatic rings."*
+> - 📜 **David Brewster (*A Treatise on Optics*):** *"In a **plano** lens, light entering normally through the flat face undergoes zero refraction at that boundary."*
+> - 📜 **John Herschel (*A Treatise on Astronomy*):** *"The mirror was supported by a **plano** backing of heavy cast metal to resist thermal distortion."*

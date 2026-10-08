@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having branches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having branches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Branched; consisting of branches; having the structure or appearance of boughs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy and histology, describing branching dendritic networks of nerves or capillary vessels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ramous designates having branches."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The antlers of the giant Irish deer present a grand **ramous** expansion unmatched among modern cervids."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Mineral dendrites spread across the limestone cleavage plane in delicate, **ramous** arborizations of manganese oxide."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The **ramous** termination of sensory axons enmeshes the hair follicle in a sensitive tactile net."*

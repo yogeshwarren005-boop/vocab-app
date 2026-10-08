@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or derived from ants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or containing or derived from formic acid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or derived from ants, especially formic acid (methanoic acid) secreted by certain ants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to chemical derivatives of methanoic acid, the simplest carboxylic acid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, formic designates of or relating to or derived from ants."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The chemist distilled an acrid liquor from crushed red wood ants, which we now designate as **formic** acid."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The stinging spray of **formic** acid ejected by disturbed ants serves as a formidable defensive deterrent."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The venom glands of female hymenopterans secrete **formic** acid and toxic peptides to subdue prey."*

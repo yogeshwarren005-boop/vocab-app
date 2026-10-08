@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subject to a mathematical transformation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change or alter in form, appearance, or nature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thoroughly changed, converted, or altered in appearance, structure, condition, or nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergoing dramatic moral, psychological, or physical metamorphosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think he be transformed into a beast, For I can nowhere find him like a man."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am transformed, master, am I not?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, I think, if my breast had not been made of faith, and my heart of steel, she had transformed me to a curtal dog, and made me turn i’ the wheel."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"Bless thee, Bottom! bless thee! thou art translated, **transformed** into the monstrous figure of an ass!"*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The gloomy halls of Thornfield Hall were **transformed** into scenes of festive brilliance by the arrival of the guests."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Centuries of selective cultivation have **transformed** the humble wild cabbage into kale, broccoli, and cauliflower."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Express as a formula.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express as a formula.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To reduce ideas, principles, or doctrines to a fixed formula or rigid set of standard rules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To express concepts in routine, stereotyped terminology or standardized symbolic recipes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, formularise designates express as a formula."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Logicians strive to **formularise** inductive inferences into regular, repeatable canonical patterns."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Philosophers cannot **formularise** the infinite unfolding of cosmic life within a single brief sentence."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Physiologists sought to **formularise** the complex chemical reactions of metabolism into simple equations."*

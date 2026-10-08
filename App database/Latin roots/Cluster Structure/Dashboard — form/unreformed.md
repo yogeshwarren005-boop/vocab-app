@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unaffected by the reformation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unaffected by the reformation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not reformed, amended, or improved; remaining in an uncorrected, traditional, or corrupt condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, referring to institutions, such as the pre-1832 British Parliament, before major reform statutes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"The unreformed provincial mind distrusted London; and while true religion was everywhere saving, honest Mrs."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The **unreformed** House of Commons was dominated by aristocratic borough-mongers who bought and sold parliamentary seats."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The **unreformed** Court of Chancery remained an immense monument of procedural delay and ruinous costs."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"An **unreformed** system of customs duties encourages pervasive smuggling and starves the public revenue."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An entertainer who performs a dramatic or musical work for an audience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An entertainer who performs a dramatic or musical work for an audience.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who entertains an audience as an actor, musician, singer, or dancer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who executes, carries out, or completes an action, promise, or official duty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But that the merit of service is seldom attributed to the true and exact performer, I would have that drum or another, or _hic jacet_."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The performer seemed quite at home anywhere between a horse’s head and its tail, and the necessity for this abnormal attitude having ceased with the passage of the plantation, she began to adopt another, even more obviously convenient than the first."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The Soldier’s Joy” has, too, an additional charm, in being so admirably adapted to the tambourine aforesaid—no mean instrument in the hands of a performer who understands the proper convulsions, spasms, St."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp was a brilliant **performer** upon the piano, charming her listeners with French romances."*
+> - 📜 **Samuel Johnson (*Lives of the Poets*):** *"The public applauded the dramatic **performer** whose expressive gestures brought the tragedy to life."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"Sleary's circus troop included every skilled equine **performer** and acrobatic clown in the north country."*

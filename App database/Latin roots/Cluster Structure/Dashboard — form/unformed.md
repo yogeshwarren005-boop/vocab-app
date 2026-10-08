@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having form or shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not formed or organized.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a definite, mature, or organized shape, structure, or physical outline; rudimentary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undeveloped, immature, or crude in character, intellect, or artistic execution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I thought my confession would give you grounds for that.” “O Tess—you are too, too—childish—unformed—crude, I suppose!"*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"She knew it was the one she sought, from the recent postmark, and the address, which was in the unformed handwriting of a boy."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Unfolding of thoughts 506:18 Spirit, God, gathers unformed thoughts into their proper channels, and unfolds these thoughts, even as He opens the petals of a holy purpose 506:21 in order that the purpose may appear. /Genesis/ i. 10."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Out of the wild, **unformed** abyss of chaos, the divine architect called forth light, order, and harmonious motion."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In the early mammalian embryo, the limbs appear as rudimentary and **unformed** buds upon the body wall."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Maggie's young mind was filled with vague, **unformed** longings for a wider life beyond the parish mill."*

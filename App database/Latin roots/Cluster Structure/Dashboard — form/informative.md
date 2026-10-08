@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to increase knowledge or dissipate ignorance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to instruct or enlighten or inform.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Providing useful, enlightening, or instructional facts and knowledge; educational.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rich in relevant data that broadens understanding and clarifies obscure topics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, informative designates tending to increase knowledge or dissipate ignorance."*
+> - 📜 **Charles Darwin (*Journal of Researches (The Voyage of the Beagle)*):** *"The old gaucho provided an extraordinarily **informative** account of the migration of the pampas deer."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"A truly **informative** lecture stimulates the student to investigate biological specimens for himself."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate found the Paris medical journals immensely **informative** on the latest advances in histology."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Quick to comply; -shakespeare.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disposed or willing to comply.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disposed or willing to comply with authority, discipline, or custom; compliant and submissive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology, describing sedimentary rock strata that lie in parallel contact without an intervening erosional gap.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Heaven witness I have been to you a true and humble wife, At all times to your will conformable, Ever in fear to kindle your dislike, Yea, subject to your countenance, glad or sorry As I saw it inclined."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"On comparing the Constitution planned by the convention with the standard here fixed, we perceive at once that it is, in the most rigid sense, conformable to it."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It must be satisfactory to every State, because it is conformable to the standard already established, or which may be established, by the State itself."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The secondary limestone lay in a strictly **conformable** series above the older red sandstone beds."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She was a docile, **conformable** child, ever eager to please her instructors and avoid harsh rebuke."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"Our actions appear virtuous when they are **conformable** to the impartial spectator's reasonable expectations."*

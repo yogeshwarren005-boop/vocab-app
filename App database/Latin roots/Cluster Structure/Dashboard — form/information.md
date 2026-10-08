@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A message received and understood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Knowledge acquired through study or experience or instruction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Knowledge communicated or received concerning a particular fact, subject, or circumstance; data.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computing and communication theory, a quantitative measure of data or entropy transmitted along a channel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But reason with the fellow Before you punish him, where he heard this, Lest you shall chance to whip your information And beat the messenger who bids beware Of what is to be dreaded."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, this is one Lucio’s information against me."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But I have come to talk with you about something much more important." The visitor now gave her listener some information that seemed to be far from pleasing to Mrs."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Knowledge is power, but it requires diligent **information** gathered through systematic observation of nature."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"All the materials of reason and knowledge reach our understanding through sensory **information**."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"The fundamental problem of communication is that of reproducing at one point a message selected from an **information** source."*

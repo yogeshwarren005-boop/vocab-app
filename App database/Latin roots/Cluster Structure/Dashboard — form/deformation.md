@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A change for the worse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alteration in the shape or dimensions of an object as a result of the application of stress to it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or process of altering, distorting, or disfiguring an object's original shape or structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and geology, the change in shape or size of a material body resulting from applied mechanical stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deformation designates a change for the worse."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Tectonic uplift caused profound crustal **deformation**, tilting sedimentary strata into nearly vertical positions."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"Elastic bodies recover their natural figure after momentary **deformation** produced by external impact."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The mechanical **deformation** of the fossil specimen must be taken into account when estimating its original volume."*

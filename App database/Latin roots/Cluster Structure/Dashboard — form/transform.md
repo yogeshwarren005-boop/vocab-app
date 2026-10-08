@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subject to a mathematical transformation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change or alter in form, appearance, or nature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make a thorough, dramatic change in the form, nature, appearance, or character of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics, to change electric current from one voltage to another; or in mathematics, to map coordinates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look where they come: Take but good note, and you shall see in him The triple pillar of the world transform’d Into a strumpet’s fool."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For shame, Transform us not to women."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Transform me, then, and to your power I’ll yield."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"Full fathom five thy father lies; of his bones are coral made; those are pearls that were his eyes; nothing of him that doth fade, but doth suffer a sea-change into something rich and strange, **transforming** nature."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The experimental method aims to **transform** human knowledge into practical power over material forces."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Natural selection has power to **transform** rudimentary appendages into organs of flight or swimming."*

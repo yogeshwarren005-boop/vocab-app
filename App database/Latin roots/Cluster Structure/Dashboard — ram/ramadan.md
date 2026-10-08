@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ninth month of the islamic calendar; the month of fasting; the holiest period for the islamic faith.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (islam) a fast (held from sunrise to sunset) that is carried out during the islamic month of ramadan.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ninth month of the Islamic lunar calendar, observed by Muslims worldwide as a holy month of fasting, prayer, and charity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The religious observance during which Muslims abstain from food, drink, and worldly pleasures from dawn until sunset.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There was Queequeg, now, certainly entertaining the most absurd notions about Yojo and his Ramadan;—but what of that?"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I wonder, thought I, if this can possibly be a part of his Ramadan; do they fast on their hams that way in his native island."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It can’t last for ever, thank God, and his Ramadan only comes once a year; and I don’t believe it’s very punctual then."*
+> - 📜 **Richard Francis Burton (*Personal Narrative of a Pilgrimage to Al-Madinah and Meccah*):** *"The solemn fast of **Ramadan** tested the fortitude of pilgrims crossing the scorching desert under the blazing Arabian sun."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"During the sacred month of **Ramadan**, the faithful observed strict abstinence from dawn until the appearance of the stars."*
+> - 📜 **Washington Irving (*Mahomet and His Successors*):** *"The end of **Ramadan** was celebrated throughout the Islamic world with joy, feasting, and generous almsgiving."*

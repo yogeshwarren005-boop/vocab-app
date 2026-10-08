@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not correspondent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not correspondent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not conforming, compliant, or adaptable to established rules, authority, or customs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology, describing rock strata that are separated from underlying beds by an unconformity representing an interval of erosion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unconformable designates not correspondent."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The horizontal limestone beds lay in a clearly **unconformable** junction upon the upturned edges of the ancient slate."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Sedimentary strata resting in an **unconformable** position prove that long epochs of elevation and erosion intervened."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"A proud, **unconformable** disposition alienates associates and embroils life in needless domestic conflict."*

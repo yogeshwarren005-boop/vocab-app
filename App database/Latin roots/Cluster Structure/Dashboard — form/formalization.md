@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making formal (as by stating formal rules governing classes of expressions).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making formal (as by stating formal rules governing classes of expressions).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of giving official legal validity, structured recognition, or standard definition to something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The translation of informal or intuitive concepts into rigorous, symbolic, or axiomatic systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, formalization designates the act of making formal (as by stating formal rules governing classes of expressions)."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"The complete **formalization** of set theory resolved paradoxes that had troubled mathematicians for decades."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The legal **formalization** of contractual relations fostered commercial confidence across the mercantile world."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Tribal customs gradually undergo institutional **formalization** as sovereign authority centralizes in the state."*

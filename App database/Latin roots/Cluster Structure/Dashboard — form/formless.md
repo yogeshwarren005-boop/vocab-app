@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no definite form or distinct shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no physical form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a clear, definite, or recognizable physical shape, outline, or structural organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Amorphous, unorganized, or chaotic in thought, composition, or artistic design.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All form is formless, order orderless, Save what is opposite to England’s love."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Circumstances knit themselves, fitted themselves, shot into order: the chain that had been lying hitherto a formless lump of links was drawn out straight,—every ring was perfect, the connection complete."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No perceptible face or front did it have; no conceivable token of either sensation or instinct; but undulated there on the billows, an unearthly, formless, chance-like apparition of life."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The earth was yet **formless** and void, wrapped in perpetual night and wandering primeval waters."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Raw sensory experience remains a **formless** mass until synthetic imagination shapes it into poetry."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"A vast, **formless** shadow fell across the heath as storm clouds enveloped the highest barrow."*

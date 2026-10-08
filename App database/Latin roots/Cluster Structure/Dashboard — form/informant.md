@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who supplies information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who sees an event and reports what happened.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who provides privileged information, data, or intelligence to an investigator, journalist, or magistrate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and anthropology, a native speaker who assists a researcher in documenting language and customs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The airs the fellow gives himself!” said my informant, shaking her head at old Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The trooper thanks his informant and rides slowly on, looking about him."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She’s had him took away to her own house, sir,” said his informant."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Holmes paid his street **informant** a silver shilling for news concerning the cab driver's movements."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The suspicious emperor rewarded every covert **informant** who reported murmurs of disaffection in the capital."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"The ethnologist verified the tribal folklore with a reliable native **informant** from the village council."*

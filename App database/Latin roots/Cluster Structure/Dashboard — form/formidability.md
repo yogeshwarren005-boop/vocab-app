@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impressive difficulty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impressive difficulty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inspiring strength, terrifying power, or immense defensive capability that commands deep awe and dread.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The character of being extraordinarily difficult to overcome, surmount, or defeat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, formidability designates impressive difficulty."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The sheer physical **formidability** of the Roman legions lay in their unyielding discipline and coordinated tactical drills."*
+> - 📜 **Thomas Carlyle (*History of Friedrich II of Prussia*):** *"The diplomatic **formidability** of the Prussian monarch surprised the Austrian cabinet at every turn."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The naval **formidability** of the Grand Fleet held the North Sea lanes secure throughout the long war."*

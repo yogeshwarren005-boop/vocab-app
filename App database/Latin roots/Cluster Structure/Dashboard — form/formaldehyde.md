@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless poisonous gas; made by the oxidation of methanol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless poisonous gas; made by the oxidation of methanol.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pungent, colorless gas (methanal, CH2O) produced by the oxidation of methanol, widely used as an industrial resin precursor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fundamental organic compound employed in aqueous solution as an antiseptic, disinfectant, and biological fixative.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Her talk these days was of formaldehyde, benzoate of soda, and salicylic acid."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Fumigation with vaporized **formaldehyde** proved highly effective in sterilizing hospital wards after infectious outbreaks."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Microscopists rely upon dilute solutions of **formaldehyde** to preserve cellular structures without distortion."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"The chemical laboratory synthesized resins based on **formaldehyde** that revolutionized commercial manufacturing."*

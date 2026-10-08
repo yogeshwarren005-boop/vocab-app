@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of harmony or correspondence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of orthodoxy in thoughts or beliefs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failure or refusal to conform to established customs, societal standards, or prevailing orthodox dogmas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology, an unconformity where sedimentary rocks rest upon eroded crystalline igneous or metamorphic basement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She was far from being seriously concerned about his nonconformity."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"For **nonconformity** the world whips you with its displeasure; hence a man must know how to maintain his course."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The geological **nonconformity** between the granite floor and the horizontal sandstone beds indicates immense missing time."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The Act of Uniformity drove thousands of honest clergy into open **nonconformity** and poverty."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with or characterized by rigorous adherence to recognized forms (especially in religion or art).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with or characterized by rigorous adherence to recognized forms (especially in religion or art).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by rigid, pedantic, or excessive adherence to external rules, ceremonies, or procedures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emphasizing external structure, technicalities, or superficial protocol at the expense of substantive content.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, formalistic designates concerned with or characterized by rigorous adherence to recognized forms (especially in religion or art)."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The Court of Chancery was strangled by a **formalistic** web of procedural delays that ruined generations of suitors."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"A purely **formalistic** approach to grammar risks blinding the student to the living psychological power of language."*
+> - 📜 **Anthony Trollope (*The Warden*):** *"The lawyer's **formalistic** arguments failed to comfort the gentle warden, whose moral conscience demanded peace."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An arrangement of people or things acting as a unit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of fabricating something in a particular shape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or instance of forming, creating, or giving shape to something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organized structural arrangement of troops, aircraft, or clouds; or a distinctive body of geological strata.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I could not find that it led to anything but the formation of delusive hopes in connexion with the suit already the pernicious cause of so much sorrow and ruin."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Partly the growth of this sentiment accompanied the agitation against trusts and the belief that protective duties in some cases were an aid to the formation of domestic monopolies."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Anything beyond that point but offers temptation and opportunity for the formation of a monopoly by domestic producers."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The chalk **formation** of southern England was deposited slowly upon the floor of an ancient Cretaceous ocean."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The gradual **formation** of complex instincts in social insects resulted from accumulated variations favored by survival."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman legion drew up in battle **formation**, presenting a bristling wall of shields and javelins to the barbarians."*

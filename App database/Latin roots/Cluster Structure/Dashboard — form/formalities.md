@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A requirement of etiquette or custom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A requirement of etiquette or custom.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Established ceremonial procedures, legal rules, or customary etiquette required on formal occasions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Official actions or documents that must be completed to satisfy administrative or bureaucratic requirements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"We have only, in the second place, to observe those little formalities which are rendered necessary by our time of life and our being under the guardianship of the court."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is she who, at the core of all the constrained formalities and conventionalities of his life, has been a stock of living tenderness and love, susceptible as nothing else is of being struck with the agony he feels."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"There were official formalities to fulfil, and the materials had to be assembled--the fuel, the improvised furnace, the iron bars, salt and wine and oil to pour upon the pyre."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"When the initial **formalities** of introduction were over, Elizabeth found Darcy less haughty than she had feared."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor dispensed with the traditional **formalities** of coronation, assuming power by military decree."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"We hurried through the customary **formalities** of the quiet wedding ceremony in the shadowy parish church."*

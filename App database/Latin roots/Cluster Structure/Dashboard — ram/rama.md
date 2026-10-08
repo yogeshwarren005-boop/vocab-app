@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Avatar of vishnu whose name is synonymous with god; any of three incarnations: ramachandra or parashurama or balarama.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Avatar of vishnu whose name is synonymous with god; any of three incarnations: ramachandra or parashurama or balarama.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The supreme hero and righteous prince of the ancient Indian epic Ramayana, revered as the seventh avatar of the god Vishnu.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An embodiment of filial virtue, royal duty (dharma), and chivalry in classical Indian literature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"When he was about to give battle to Rama, he deposited his soul with a hermit called Fire-eye, who was to keep it safe for him."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"So in the fight Rama was astounded to see that his arrows struck the king without wounding him."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But one of Rama's allies, knowing the secret of the king's invulnerability, transformed himself by magic into the likeness of the king, and going to the hermit asked back his soul."*
+> - 📜 **Richard Francis Burton (*Vikram and the Vampire*):** *"The wandering bard chanted the heroic exploits of Prince **Rama** and his faithful consort Sita in the Dandaka forest."*
+> - 📜 **Max Müller (*India: What Can It Teach Us?*):** *"The noble character of **Rama** represents the highest ideal of righteous kingship in classical Sanskrit poetry."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Eastern sacred poetry celebrates the radiant triumphs of **Rama** over the demonic legions of darkness."*

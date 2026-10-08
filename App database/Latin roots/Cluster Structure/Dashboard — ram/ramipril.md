@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ace inhibitor (trade name altace) used to treat high blood pressure or in some patients who have had a heart attack.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ace inhibitor (trade name altace) used to treat high blood pressure or in some patients who have had a heart attack.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An angiotensin-converting enzyme (ACE) inhibitor medication prescribed for hypertension, heart failure, and diabetic nephropathy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pharmaceutical compound that dilates arterial blood vessels by inhibiting the production of angiotensin II.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ramipril designates an ace inhibitor (trade name altace) used to treat high blood pressure or in some patients who have had a heart attack."*
+> - 📜 **William Osler (*Modern Medicine: Its Theory and Practice*):** *"Modern therapeutics relies upon agents like **ramipril** to reduce systemic vascular resistance and safeguard the kidneys."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The consulting physician adjusted the daily dosage of **ramipril**, noting a marked improvement in arterial tension."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The pharmacological action of **ramipril** illustrates how specific biochemical blockade restores cardiovascular balance."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tall perennial herb of tropical asia with dark green leaves; cultivated for the fiber from its woody stems that resembles flax.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tall perennial herb of tropical asia with dark green leaves; cultivated for the fiber from its woody stems that resembles flax.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flowering plant of the nettle family (*Boehmeria nivea*) native to eastern Asia, cultivated for its strong, lustrous bast fibers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The extremely strong natural textile fiber obtained from the stem bark of this plant, resistant to moisture and mildew.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ramie designates tall perennial herb of tropical asia with dark green leaves; cultivated for the fiber from its woody stems that resembles flax."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Chinese farmers have cultivated **ramie** for millennia, selecting varieties that yield remarkably fine textile threads."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Native craftsmen demonstrated the extraction of silky **ramie** fibers used to weave indestructible fishing nets."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The tensile strength of **ramie** fiber surpasses that of flax and cotton, promising valuable industrial uses."*

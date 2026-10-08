@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having branches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having branches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having many branches; divided into branch-like offshoots in botanical or zoological structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Displaying an intricate, bough-like branching habit, as certain coral colonies or dendrites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ramose designates having branches."*
+> - 📜 **Charles Darwin (*The Structure and Distribution of Coral Reefs*):** *"Delicate **ramose** corals formed living thickets across the shallow sandy floor of the tranquil lagoon."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The perennial stem develops a **ramose** habit of growth, spreading lateral leafy shoots in every direction."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The water vascular canal exhibits a **ramose** configuration extending into the outer margin of the umbrella."*

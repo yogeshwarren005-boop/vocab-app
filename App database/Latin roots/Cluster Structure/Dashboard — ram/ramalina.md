@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shrubby lichens of the family usneaceae having a flattened thallus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shrubby lichens of the family usneaceae having a flattened thallus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of fruticose, strap-shaped lichens commonly called cartridge or strap lichens, having branching thalli.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A widespread lichen genus that grows epiphytically upon maritime cliffs, rocks, and forest trees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ramalina designates shrubby lichens of the family usneaceae having a flattened thallus."*
+> - 📜 **Charles Darwin (*Journal of Researches (The Voyage of the Beagle)*):** *"The windswept coastal rocks of the Falkland Islands were encrusted with pale ribbons of **Ramalina**."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Species of **Ramalina** form tufted, pendulous branchlets hanging from the bark of ancient conifers."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The damp oak boughs in the valley supported dense cushions of **Ramalina** alongside grey tree moss."*

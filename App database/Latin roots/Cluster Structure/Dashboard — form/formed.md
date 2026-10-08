@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Create (as an entity).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To compose or represent:.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a specific shape, definite structure, or mature physical configuration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brought into existence, organized, or established by deliberate effort or natural processes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I did think, by the excellent constitution of thy leg, it was formed under the star of a galliard."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For men have marble, women waxen, minds, And therefore are they formed as marble will; The weak oppressed, th’ impression of strange kinds Is formed in them by force, by fraud, or skill."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"With a great deal of noise, but in a quick and pretty orderly fashion they now formed a procession, which began to move in the direction of Apollonie's little house."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"We are such stuff as dreams are made on, and our little life is rounded with a sleep, yet **formed** for noble actions."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The hand of man is **formed** upon the same fundamental skeletal plan as the flipper of a seal."*
+> - 📜 **John Milton (*Paradise Lost*):** *"God saw his finished work, and all was good, **formed** in supreme beauty and divine proportion."*

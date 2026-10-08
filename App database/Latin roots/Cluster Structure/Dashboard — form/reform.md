@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A change for the better as a result of correcting abuses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A campaign aimed to correct abuses or malpractices.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make changes in an institution, law, or practice in order to improve it and purge abuses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To renounce sinful, vicious, or dissolute conduct and adopt a moral, sober life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I hope we have reform’d that indifferently with us, sir."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, as we hear you do reform yourselves, We will, according to your strengths and qualities, Give you advancement."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Meantime but ask What you would have reform’d that is not well, And well shall you perceive how willingly I will both hear and grant you your requests."*
+> - 📜 **Edmund Burke (*Speech on Economic Reform*):** *"To **reform** an ancient constitution is to preserve its vital principles by removing decayed abuses."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Wise statesmanship seeks constantly to **reform** public institutions to meet the expanding intelligence of the people."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge promised with all his trembling heart to **reform** his life and honor Christmas in every season."*

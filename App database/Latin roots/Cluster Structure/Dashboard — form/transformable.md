@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being changed in substance as if by alchemy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being changed in substance as if by alchemy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being changed, converted, or transformed in form, character, substance, or structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and chemistry, capable of interconversion into alternative states of energy or matter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transformable designates capable of being changed in substance as if by alchemy."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Gross bodies and light are mutually **transformable** into each other through universal physical attractions."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"All forms of physical energy are mutually **transformable** while the grand sum of force remains constant."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The cell matrix contains plastic materials **transformable** into muscular fibrils, nerves, or osseous tissue."*

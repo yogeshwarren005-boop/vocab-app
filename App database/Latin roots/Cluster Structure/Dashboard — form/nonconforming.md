@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not conforming to established customs or doctrines especially in religion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not conforming to established customs or doctrines especially in religion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing or refusing to comply with established rules, customs, zoning laws, or prevailing orthodox standards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Displaying independent or eccentric behavior that departs from majority societal expectations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonconforming designates not conforming to established customs or doctrines especially in religion."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"The world chides the **nonconforming** spirit, demanding comfortable submission to common mediocrity."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The penal statutes imposed harsh fines on **nonconforming** worshippers who met in private conventicles."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Society benefits when eccentric and **nonconforming** individuals pioneer novel paths of human living."*

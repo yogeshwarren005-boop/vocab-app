@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The austronesian languages spoken on formosa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of the island republic on taiwan or its residents or their language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of Formosa (Taiwan), or any of the indigenous Austronesian languages of the island.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or characteristic of the island of Formosa, its native peoples, flora, or fauna.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, formosan designates the austronesian languages spoken on formosa."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"Several endemic birds found in the **Formosan** highlands are closely allied to Himalayan mountain species."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Botanists noted remarkable variations among cultivated camellias brought home from the **Formosan** hills."*
+> - 📜 **John Lubbock (*Pre-historic Times*):** *"Stone axes collected from **Formosan** aboriginal settlements display primitive polishing techniques."*

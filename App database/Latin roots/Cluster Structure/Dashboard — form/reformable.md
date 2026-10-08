@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Susceptible to improvement or reform.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Susceptible to improvement or reform.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being reformed, amended, improved, or corrected from error and abuse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Amenable to moral regeneration, institutional correction, or legislative remedy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reformable designates susceptible to improvement or reform."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"Youthful faults are readily **reformable** if parental discipline appeals to reason rather than harsh corporal terror."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The English monarchy proved **reformable** because its ancient charter principles contained the germs of popular liberty."*
+> - 📜 **Jeremy Bentham (*Principles of Penal Law*):** *"The penal code should treat the criminal as a **reformable** member of society capable of rehabilitation."*

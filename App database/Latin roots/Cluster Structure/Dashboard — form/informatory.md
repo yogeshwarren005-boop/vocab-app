@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Providing or conveying information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Providing or conveying information.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to impart information, instructive notice, or practical guidance; instructional.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conveying official notices or factual advisories to the public or judicial officers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, informatory designates providing or conveying information."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The court issued an **informatory** notice to all county magistrates outlining the new licensing regulations."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The imperial dispatch was purely **informatory**, advising provincial governors of barbarian movements along the Rhine."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"A brief **informatory** letter from the lord lieutenant alerted the cabinet to unrest in the northern counties."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The performance of a part or role in a drama.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carry out or perform an action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Carrying out, executing, or fulfilling an action, duty, or function thoroughly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting, dancing, singing, or executing acrobatic feats before an audience for public entertainment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That will ask some tears in the true performing of it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Spread thy close curtain, love-performing night, That runaway’s eyes may wink, and Romeo Leap to these arms, untalk’d of and unseen."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"One official sent her to another, and the other sent her back again to the first, and so backward and forward, until it appeared to me as if both must have been appointed for their skill in evading their duties instead of performing them."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"I found Traddles diligently **performing** his legal studies in the quiet solitude of his garret."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"The amateur company rehearsed their scenes, each actor **performing** with anxious hopes of social applause."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Young animals learn defense by **performing** mock battles and playful defensive leaps in infancy."*

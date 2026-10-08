@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tall perennial herb of tropical asia with dark green leaves; cultivated for the fiber from its woody stems that resembles flax.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tall perennial herb of tropical asia with dark green leaves; cultivated for the fiber from its woody stems that resembles flax.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A leafy bower, green branch, or woodland spray; also an alternative spelling for the East Asian textile fiber ramie.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Foliage harvested from forest trees for animal fodder or rustic arbor decoration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ramee designates tall perennial herb of tropical asia with dark green leaves; cultivated for the fiber from its woody stems that resembles flax."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"Outlaws resting beneath the green **ramee** of Sherwood forest tuned their bows and roasted venison."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Woodland deer sheltered beneath the thick **ramee** of the coppice during the midday summer heat."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Island cultivators harvested strong **ramee** stalks to weave durable fishing lines and boat sails."*

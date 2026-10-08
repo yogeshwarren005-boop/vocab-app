@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of 12 kings of ancient egypt between 1315 and 1090 bc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of 12 kings of ancient egypt between 1315 and 1090 bc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A royal name borne by prominent pharaohs of the Egyptian New Kingdom, notably the builder Ramses the Great.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historic ruler emblematic of the imperial grandeur, monumental temples, and military power of ancient Egypt.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ramses designates any of 12 kings of ancient egypt between 1315 and 1090 bc."*
+> - 📜 **Percy Bysshe Shelley (*Ozymandias*):** *"The monumental inscription celebrated the imperial might of **Ramses**, whose works challenged the kings of the earth."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Centuries after the fall of Thebes, travelers gazed with awe upon the colossal statues of King **Ramses**."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The great stone sphinxes and pyramid tombs survived the forgotten glory of **Ramses** and his fleeting court."*

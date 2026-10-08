@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to reform.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to reform.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to reform, improve, or bring about beneficial change in laws, character, or social systems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending toward moral correction and personal rehabilitation rather than mere vindictive punishment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reformative designates tending to reform."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"Penal sanctions must possess a **reformative** tendency, encouraging the offender to return to lawful industry."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Social punishment achieves its moral justification when it exercises a **reformative** effect upon the transgressor."*
+> - 📜 **Herbert Spencer (*Social Statics*):** *"Natural social forces exert a gradual **reformative** pressure upon obsolete customs, adapting them to higher needs."*

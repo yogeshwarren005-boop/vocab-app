@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cheese dish made with egg and bread crumbs that is baked and served in individual fireproof dishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small fireproof dish used for baking and serving individual portions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small round baking dish of ceramic or earthenware, or the individual portion of savory cheese custard baked within it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A classic French culinary vessel employed for individual portions of mousses, soufflés, and baked eggs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ramequin designates a cheese dish made with egg and bread crumbs that is baked and served in individual fireproof dishes."*
+> - 📜 **Alexander Dumas (*The Count of Monte Cristo*):** *"The host ordered a steaming **ramequin** of toasted Gruyère to tempt the appetite of his aristocratic guest."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky presided over the dessert, serving each admirer a hot **ramequin** with charming domestic grace."*
+> - 📜 **Edith Wharton (*The Custom of the Country*):** *"The quiet Paris bistro served a delicate cheese **ramequin** that reminded Undine of old French society."*

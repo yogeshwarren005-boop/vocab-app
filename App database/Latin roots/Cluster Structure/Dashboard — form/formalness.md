@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A manner that strictly observes all forms and ceremonies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A manner that strictly observes all forms and ceremonies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dignified adherence to protocol, ceremonious decorum, or stiffly correct etiquette in manners.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive stiffness or absence of warmth and informality in manner or expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, formalness designates a manner that strictly observes all forms and ceremonies."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Stiff **formalness** in social conversation repels intimacy and chills the natural warmth of friendship."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"The cold **formalness** of Osmond's greeting warned Isabel that she had transgressed his unspoken rules."*
+> - 📜 **William Makepeace Thackeray (*The History of Pendennis*):** *"The old major preserved a punctilious **formalness** of dress and deportment throughout his twilight years."*

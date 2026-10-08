@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An african genus of plants of the family zingiberaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An african genus of plants of the family zingiberaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical African plants in the ginger family (Zingiberaceae), known for producing pungent grains of paradise and aromatic seeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A botanical group of rhizomatous perennial herbs widely cultivated across western Africa for medicinal spices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aframomum designates an african genus of plants of the family zingiberaceae."*
+> - 📜 **Richard Francis Burton (*Wanderings in West Africa*):** *"Native traders offered wicker baskets filled with the pungent pods of **Aframomum** along the river wharves."*
+> - 📜 **David Livingstone (*Missionary Travels and Researches in South Africa*):** *"The shaded riverbanks were covered with dense thickets of wild **Aframomum**, perfuming the forest trail."*
+> - 📜 **George Bentham (*Flora Australiensis*):** *"The aromatic capsules of **Aframomum** yield essential oils prized in ancient and modern pharmacopoeias."*

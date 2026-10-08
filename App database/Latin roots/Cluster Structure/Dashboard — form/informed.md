@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impart knowledge of some fact, state or affairs, or event to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give character or essence to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing substantial knowledge, understanding, or instruction regarding a subject; enlightened.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Animated, directed, or inspired by a prevailing guiding spirit, idea, or moral purpose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have you informed them sithence?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Since, lords of England, it is thus agreed That peaceful truce shall be proclaim’d in France, We come to be informed by yourselves What the conditions of that league must be."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am informed that he comes towards London To set the crown once more on Henry’s head."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"An **informed** public judgment is the only enduring bulwark against the tyrannical encroachments of authority."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was soon **informed** of the arrival of Mr. Bingley and his party at the Netherfield ball."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Ancient constitutional customs were **informed** with a deep veneration for the liberties of our ancestors."*

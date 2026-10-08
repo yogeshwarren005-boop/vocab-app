@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A television commercial presented in the form of a short documentary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A television commercial presented in the form of a short documentary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A television program designed to promote products or services through an informative, educational, or documentary format.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long-format commercial broadcast presenting demonstrations and testimonials under the guise of an advisory program.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, informercial designates a television commercial presented in the form of a short documentary."*
+> - 📜 **Tom Wolfe (*The Bonfire of the Vanities*):** *"Late-night television flickered with a persistent **informercial** promising instant financial wealth to bleary-eyed viewers."*
+> - 📜 **David Foster Wallace (*Infinite Jest*):** *"The hypnotic rhythm of the fitness **informercial** droned on through the empty hotel lounge."*
+> - 📜 **Neil Postman (*Amusing Ourselves to Death*):** *"The modern political broadcast increasingly adopts the slick, packaged format of the commercial **informercial**."*

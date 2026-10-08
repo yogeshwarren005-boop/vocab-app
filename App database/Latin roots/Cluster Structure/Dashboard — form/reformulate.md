@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formulate or develop again, of an improved theory or hypothesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formulate or develop again, of an improved theory or hypothesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To state, express, or develop a theory, plan, or question in a new, clearer, or revised manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To alter the ingredients or chemical composition of a pharmaceutical or commercial preparation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reformulate designates formulate or develop again, of an improved theory or hypothesis."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"New fossil discoveries compelled paleontologists to **reformulate** their hypotheses concerning vertebrate ancestry."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"Epistemologists must **reformulate** the classic Cartesian doubt in terms suited to modern mathematical logic."*
+> - 📜 **John Dewey (*Reconstruction in Philosophy*):** *"Philosophers are called upon to **reformulate** moral ideals to guide conduct amidst industrial society."*

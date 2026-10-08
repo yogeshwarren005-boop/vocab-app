@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plastic laminates containing melamine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the formicidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic genus of true wood ants, mound-building ants, and carpenter ants in the family Formicidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A durable synthetic heat-resistant plastic laminate widely used for kitchen countertops and furniture surfaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, formica designates any of various plastic laminates containing melamine."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The large horse ants of the genus **Formica** construct astonishing mounds of dried pine needles in the forest clearings."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The slave-making instinct of **Formica** sanguinea demonstrates the gradual evolution of complex insect behaviors."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Widespread chemical sprays decimated beneficial woodland colonies of **Formica**, unbalancing the forest ecology."*

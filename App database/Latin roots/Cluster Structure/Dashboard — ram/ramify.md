@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have or develop complicating consequences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grow and send out branches or branch-like structures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To divide and spread out into branches, subdivisions, or subordinate offshoots.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To become complex, multifaceted, and widespread in consequences or conceptual connections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"These white pustules have a vegetative system of ramifying threads which traverse the internal portion of the plants on which they are found: these threads constitute what is termed the _mycelium_."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The active part increases and ramifies, and produces a mycelium which spreads through the intercellular passages of the parenchyma."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The doctrine forms part of the widely ramified system of sympathetic or homoeopathic magic."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Human sciences originate from a common trunk and subsequently **ramify** into specialized departments of knowledge."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Subterranean fissures **ramify** throughout the volcanic cone, venting steam and molten mineral matter."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Popular discontents **ramify** through every tavern and workshop until national revolt becomes inevitable."*

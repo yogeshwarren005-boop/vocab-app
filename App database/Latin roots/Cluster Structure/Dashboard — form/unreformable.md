@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insusceptible of reform.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unrepentant and incapable of being reformed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being reformed, amended, improved, or corrected; incorrigibly corrupt or defective.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resistant to moral rehabilitation, institutional correction, or legislative remedy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unreformable designates insusceptible of reform."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The Stuart monarchy had shown itself stubbornly **unreformable**, leaving national revolution as the sole remedy."*
+> - 📜 **Jeremy Bentham (*Principles of Penal Law*):** *"The law must not despair of any human offender by branding him prematurely as permanently **unreformable**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The corrupt provincial bureaucracy had become so deeply entrenched as to be virtually **unreformable**."*

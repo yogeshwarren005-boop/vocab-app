@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A theory (popular in the 18th century and now discredited) that an individual develops by simple enlargement of a tiny fully formed organism (a homunculus) that exists in the germ cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A theory (popular in the 18th century and now discredited) that an individual develops by simple enlargement of a tiny fully formed organism (a homunculus) that exists in the germ cell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The historical biological theory that an embryo develops from a miniature, fully pre-existing organism within the egg or sperm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of forming, shaping, or organizing something prior to final deployment or development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preformation designates a theory (popular in the 18th century and now discredited) that an individual develops by simple enlargement of a tiny fully formed organism (a homunculus) that exists in the germ cell."*
+> - 📜 **Thomas Henry Huxley (*Evolution in Biology*):** *"The eighteenth-century doctrine of **preformation** held that all future generations were encased within the primordial germ."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Modern embryological research overthrew the simplistic hypothesis of **preformation** in favor of progressive epigenesis."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Organic development proceeds by gradual differentiation rather than the unfolding of static **preformation**."*

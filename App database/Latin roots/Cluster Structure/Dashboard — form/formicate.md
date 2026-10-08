@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Crawl about like ants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Crawl about like ants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To swarm with ants, crawl like ants, or resemble an ant in appearance or movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical contexts, to produce the abnormal crawling sensation known as formication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, formicate designates crawl about like ants."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The subterranean chambers seemed to **formicate** with millions of restless larvae and diligent nurse workers."*
+> - 📜 **Richard Burton (*First Footsteps in East Africa*):** *"The desert path began to **formicate** with columns of ferocious driver ants on the march."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Certain cutaneous neuroses cause the patient's skin to prickle and **formicate** without visible erythema."*

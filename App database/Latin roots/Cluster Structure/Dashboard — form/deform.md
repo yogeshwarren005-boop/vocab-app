@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make formless.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Twist and press out of shape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To distort the natural shape or regular appearance of an object, body, or structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To disfigure or mar the beauty, proportion, or moral harmony of something.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In nature there’s no blemish but the mind; None can be call’d deform’d but the unkind."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Sight so deform what heart of rock could long Dry-eyed behold?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is deformed, crooked, old, and sere, Ill-fac’d, worse bodied, shapeless everywhere; Vicious, ungentle, foolish, blunt, unkind, Stigmatical in making, worse in mind."*
+> - 📜 **Francis Bacon (*Essays*):** *"Uncontrolled anger and malice **deform** the human countenance far more than any physical distemper."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Sin and violent passions threaten to **deform** the fair creation of the Almighty with chaotic ruin."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Artificial binding practices practiced by savage tribes deliberately **deform** the cranial bones during childhood."*

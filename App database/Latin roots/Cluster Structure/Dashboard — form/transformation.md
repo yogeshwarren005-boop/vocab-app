@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A qualitative change.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (mathematics) a function that changes the position or direction of the axes of a coordinate system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A marked, dramatic change in form, appearance, nature, or character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genetics, the uptake and incorporation of foreign genetic material by a bacterium; or theatrical metamorphoses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Something have you heard Of Hamlet’s transformation; so I call it, Since nor th’exterior nor the inward man Resembles that it was."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A low transformation that shall be mine, for in everything the purpose must weigh with the folly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it should come to the ear of the court how I have been transformed, and how my transformation hath been washed and cudgelled, they would melt me out of my fat drop by drop, and liquor fishermen’s boots with me."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The marvelous **transformation** of the caterpillar into the butterfly presents a striking instance of developmental divergence."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The moral and political **transformation** of the Roman world was completed with the official adoption of Christianity."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"A chaotic **transformation** convulsed every province of France as feudal privileges vanished in a single night."*

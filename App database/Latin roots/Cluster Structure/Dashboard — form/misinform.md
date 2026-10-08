@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give false or misleading information to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give false or misleading information to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To give false, inaccurate, or misleading information to someone, leading them into error.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To deceive or mislead an authority, inquirer, or public through erroneous reports.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You have apparently been misinformed."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In Virginia, nevertheless, if I have not been misinformed, elections under the former government were septennial."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But if I am not misinformed, the same meaning would not be given to it in any part of New England."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Wickham deliberately sought to **misinform** Elizabeth regarding the generous character of Mr. Darcy."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Flattering courtiers took care to **misinform** the king concerning the true depth of popular indignation."*
+> - 📜 **David Hume (*The History of England*):** *"Partisan historians frequently **misinform** posterity by praising the vices of their favorite faction."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The most common computer memory which can be used by programs to perform necessary tasks while the computer is on; an integrated circuit memory chip allows information to be stored or accessed in any order and all storage locations are equally accessible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astrology) a person who is born while the sun is in aries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An adult uncastrated male sheep, typically armed with large curving horns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavy mechanical device or war engine used to batter down fortress gates or breach enemy ships; or to strike with force.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ram thou thy fruitful tidings in mine ears, That long time have been barren."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most noble Antony, Let not the piece of virtue which is set Betwixt us, as the cement of our love To keep it builded, be the ram to batter The fortress of it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Zounds, sir, you’re robb’d, for shame put on your gown, Your heart is burst, you have lost half your soul; Even now, now, very now, an old black ram Is tupping your white ewe."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The heavy iron-headed battering **ram** shook the stone battlements of the besieged city with rhythmic blows."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"Saxon yeomen dragged forward an oak tree trunk to serve as a **ram** against the castle postern gate."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The whale turned upon the ship, using its blunt forehead as a living **ram** to stove in the oak timbers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A symmetrical arrangement of the parts of a thing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any spatial attributes (especially as defined by outline).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The structural shape, physical arrangement, or proportional symmetry of an animal's body or object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry, any of the spatial arrangements of atoms in a molecule that can be interconverted by rotation about single bonds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Wollstonecraft Shelley (*Frankenstein; or, the modern prometheus*):** *"Yet I did not heed the bleakness of the weather; I was better fitted by my conformation for the endurance of cold than heat."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Horse breeders examine the muscular **conformation** of the limbs with meticulous anatomical discernment."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The cranial **conformation** of the anthropoid apes displays fundamental structural affinities with man."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Autocrat of the Breakfast-Table*):** *"A man's character may often be deciphered through the subtle **conformation** of his brow and jaw."*

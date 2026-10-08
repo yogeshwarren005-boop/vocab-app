@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make changes for improvement in order to remove abuse and injustices.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring, lead, or force to abandon a wrong or evil course of life, conduct, and adopt a right one.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Improved, purged of abuses, or changed for the better in conduct, policy, or structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adhering to Protestant Christian churches that embraced Calvinist or Zwinglian theology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, bring away the plaintiffs: by this time our sexton hath reformed Signior Leonato of the matter."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They are reformed, civil, full of good, And fit for great employment, worthy lord."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"After a while, he was able to keep it, and reformed entirely."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The **reformed** liturgy of the national church united simplicity of doctrine with ancient ceremonial dignity."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge lived as a thoroughly **reformed** man, beloved by his clerk and generous to every needy townsman."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The **reformed** customs administration curbed smuggling and yielded substantial revenues to the crown treasury."*

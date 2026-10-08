@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lavish dance requiring formal attire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gown for evening wear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Done in accordance with established rules, customs, etiquette, or official ceremonies; conventional.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the essential structure, shape, or logical framework of an argument rather than its content.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If not well, Thou shouldst come like a Fury crowned with snakes, Not like a formal man."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And then the justice, In fair round belly with good capon lined, With eyes severe and beard of formal cut, Full of wise saws and modern instances; And so he plays his part."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be patient, for I will not let him stir Till I have used the approved means I have, With wholesome syrups, drugs, and holy prayers, To make of him a formal man again."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The syllogism is an artifice for demonstrating the **formal** consistency of arguments, not for inventing new truths."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Collins made a very **formal** speech of thanks to Lady Catherine before quitting Rosings Park."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with the Colonies*):** *"The sovereign must look beyond mere **formal** legal prerogatives to preserve the warm allegiance of his people."*

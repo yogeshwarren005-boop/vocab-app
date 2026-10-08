@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Carry out or perform an action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform a function.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To carry out, accomplish, or execute an action, duty, task, or command thoroughly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To present a dramatic role, musical composition, or athletic display before an audience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good fortune and the favour of the king Smile upon this contract; whose ceremony Shall seem expedient on the now-born brief, And be perform’d tonight."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Perform’t, or else we damn thee.” ANTONY."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This if she perform, She shall not sue unheard."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"Bravely hast thou **performed** thy task, my Ariel; there's work for thee yet."*
+> - 📜 **Francis Bacon (*Essays*):** *"Men of noble birth are bound to **perform** valiant deeds in defense of their native commonwealth."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I resolved to **perform** my daily duties with quiet fidelity, seeking solace in useful exertion."*

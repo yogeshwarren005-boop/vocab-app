@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an informative manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an informative manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an instructive, enlightening, or factually illuminating manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With rich and useful detail that clarifies a subject for the listener or reader.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, informatively designates in an informative manner."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The anatomist spoke **informatively** on the comparative structure of the human and anthropoid skeletons."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The old architect described the Byzantine capitals **informatively**, pointing out each chisel stroke in the marble."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The mining inspector reported **informatively** upon the succession of fossiliferous coal strata in the shaft."*

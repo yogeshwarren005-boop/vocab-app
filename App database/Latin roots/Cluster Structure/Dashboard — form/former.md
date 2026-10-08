@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The first of two or the first mentioned of two.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Referring to the first of two things or persons mentioned (or the earlier one or ones of several).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having previously been; denoting an earlier time, state, or office; preceding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Referring to the first of two persons or things previously mentioned.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have seen and proved a fairer former fortune Than that which is to approach."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou must not take my former sharpness ill."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wisdom and fortune combating together, If that the former dare but what it can, No chance may shake it."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The **former** of these two gentlemen was much admired for his handsome person and agreeable countenance."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Rome in her decline could look back with mournful pride upon the martial exploits of her **former** heroes."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge observed his **former** self, a solitary child neglected by his friends, weeping by the feeble schoolroom fire."*

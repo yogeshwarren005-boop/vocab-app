@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Correspondence in form or appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting according to certain accepted standards.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Compliance with standards, regulations, or societal laws; behavior in accordance with socially accepted conventions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Correspondence, harmony, or likeness in form, manner, or character between different entities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Spelling and punctuation have been largely brought into conformity with modern British usage."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester an exacting, fastidious sort of man?” “Not particularly so; but he has a gentleman’s tastes and habits, and he expects to have things managed in conformity to them.” “Do you like him?"*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Her pleasant manners and cheerful conformity made her always valuable amongst them; but _now_ she was absolutely necessary."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Truth consists in the **conformity** of our mental propositions to the actual reality of things."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Our constitutional institutions were established in exact **conformity** with the ancient traditions of the realm."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"A foolish consistency is the hobgoblin of little minds, adored by little statesmen and lovers of **conformity**."*

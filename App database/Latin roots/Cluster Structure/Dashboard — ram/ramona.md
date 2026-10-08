@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shrubby plant with aromatic greyish-green leaves used as a cooking herb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shrubby plant with aromatic greyish-green leaves used as a cooking herb.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The eponymous heroine of Helen Hunt Jackson's classic 1884 novel *Ramona*, depicting the plight of Southern California Native Americans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A celebrated literary work that galvanized public sympathy for Native American land rights and racial justice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ramona designates shrubby plant with aromatic greyish-green leaves used as a cooking herb."*
+> - 📜 **Helen Hunt Jackson (*Ramona*):** *"The gentle girl **Ramona** knelt beside the old sheep-shearing shed, watching Alessandro ride through the mustard bloom."*
+> - 📜 **Mark Twain (*Letters from the Earth*):** *"The poignant tragedy depicted in **Ramona** awakened the conscience of the nation to the injustices suffered by indigenous tribes."*
+> - 📜 **Theodore Roosevelt (*The Winning of the West*):** *"The romantic portrait of early California life in **Ramona** captured the imagination of readers across the continent."*

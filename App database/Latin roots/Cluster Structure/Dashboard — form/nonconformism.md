@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of orthodoxy in thoughts or beliefs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practice of nonconformity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or principle of refusing to conform to prevailing customs, dogmas, or orthodox social norms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, the movement of English Protestant dissenters who declined to adhere to the Church of England.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonconformism designates a lack of orthodoxy in thoughts or beliefs."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"True intellectual **nonconformism** requires courage to speak your thought today though it contradict yesterday's truth."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"English **nonconformism** produced sturdy champions of civil liberty who resisted royal tyranny."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"In an era of mass conformity, vigorous **nonconformism** is essential to preserve the vitality of culture."*

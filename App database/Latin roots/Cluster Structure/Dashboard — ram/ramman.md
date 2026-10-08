@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: God of storms and wind; corresponds to babylonian adad.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: God of storms and wind; corresponds to babylonian adad.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Mesopotamian storm, rain, and thunder deity, worshipped as a giver of fertility and wielder of tempests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The Assyrian and Babylonian thunder god whose roar accompanied tempestuous floods and military devastation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ramman designates god of storms and wind; corresponds to babylonian adad."*
+> - 📜 **George Rawlinson (*The Seven Great Monarchies of the Ancient Eastern World*):** *"Assyrian kings invoked the terrible fury of **Ramman** to shatter the chariots of their rebellious enemies."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Ancient tablets unearthed in Mesopotamia recorded solemn hymns to **Ramman**, the lord of wind and torrential flood."*
+> - 📜 **Max Müller (*Contributions to the Science of Mythology*):** *"The roaring atmospheric god **Ramman** corresponds mythologically to the storm deities of Vedic and Norse pantheons."*

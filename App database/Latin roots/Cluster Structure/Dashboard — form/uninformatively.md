@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an uninformative manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an uninformative manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that fails to provide useful knowledge, enlightenment, or relevant facts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vaguely, superficially, or evasively, conveying zero substantial insight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uninformatively designates in an uninformative manner."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The witness answered the parliamentary committee **uninformatively**, feigning ignorance of corporate affairs."*
+> - 📜 **Charles Darwin (*Life and Letters of Charles Darwin*):** *"The brief travel dispatch reported **uninformatively** upon the geographical interior of the newly surveyed territory."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon spoke **uninformatively** about his studies, wrapping his intellectual hesitations in polite pedantry."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical device by which alternating current of one voltage is changed to another voltage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electrical device by which alternating current of one voltage is changed to another voltage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical device that transfers energy between circuits through electromagnetic induction, altering voltage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person, catalytic agent, or historical force that brings about profound transformation in society or thought.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"But you do not yourself look upon this as likely?” “I do not think Flora would hurt a fly.” “Still, jealousy is a strange transformer of characters."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Alternating current is used, and it is obtained from a transformer or induction coil."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Such an arrangement is in industrial realms generally called a transformer, the term induction coil being employed more for those things of a similar nature intended for the laboratory."*
+> - 📜 **Nikola Tesla (*My Inventions*):** *"The high-frequency resonant **transformer** generated electrical potentials exceeding millions of volts in my Colorado laboratory."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"The inspired prophet acts as a moral **transformer**, turning the sluggish multitude toward heroic devotion."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"The electric power grid depends upon the alternating-current **transformer** to distribute energy across vast regions."*

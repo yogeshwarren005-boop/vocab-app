@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make formal or official.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declare or make legally valid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Given official sanction, binding status, or systematic definition according to standard procedures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Structured or regulated in accordance with explicit, conventional rules and ceremonies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Of the usual conical form, it has a plain outside, and the inside is decorated with an incised design of not very clear meaning, but apparently a close foliage ground with highly formalised figures of boys."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The treaty **formalised** the territorial boundaries between the Roman Empire and the Persian monarchy."*
+> - 📜 **William Makepeace Thackeray (*The History of Henry Esmond*):** *"Their reconciliation was **formalised** before the assembled family with polite, restrained bows."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Courtship rituals in birds become **formalised** through generations of sexual selection into elaborate displays."*

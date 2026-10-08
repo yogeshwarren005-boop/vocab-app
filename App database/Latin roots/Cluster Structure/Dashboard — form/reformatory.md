@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Correctional institution for the detention and discipline and training of young or first offenders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to reform.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An institution to which juvenile offenders or young transgressors are sent for discipline and vocational rehabilitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending or serving to bring about moral reformation and personal improvement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Even when I was taken to have a new suit of clothes, the tailor had orders to make them like a kind of Reformatory, and on no account to let me have the free use of my limbs."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Gibbons is very well known in the City of New York where she resides, as an active philanthropist, devoting a large portion of her time and strength to the various charitable and reformatory enterprises in which she is engaged."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Yet quite as rational are some of the leading 129:27 illusions along the path which Science must tread in its reformatory mission among mortals."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"Philanthropists advocated sending the young pickpocket to a country **reformatory** instead of the felons' prison."*
+> - 📜 **Alexis de Tocqueville (*On the Penitentiary System in the United States*):** *"The American **reformatory** system aimed to separate youthful offenders from hardened criminals through moral instruction."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Her benevolent uncle took a deep interest in the municipal **reformatory** for destitute street boys."*

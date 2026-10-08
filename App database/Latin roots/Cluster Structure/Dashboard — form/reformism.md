@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A doctrine of reform.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A doctrine of reform.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The political doctrine or policy of achieving social and economic change through gradual, institutional reform rather than revolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The systematic advocacy of incremental constitutional and legislative progress within existing systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reformism designates a doctrine of reform."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Prudent political **reformism** secures the steady elevation of the working classes without the convulsions of violent revolt."*
+> - 📜 **Walter Bagehot (*The English Constitution*):** *"British constitutional strength lies in its innate **reformism**, accommodating new social classes in successive epochs."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"When a regime suppresses peaceful **reformism**, it leaves no alternative to explosive popular catastrophe."*

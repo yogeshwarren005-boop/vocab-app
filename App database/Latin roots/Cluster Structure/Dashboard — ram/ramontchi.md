@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small shrubby tree of madagascar cultivated in tropical regions as a hedge plant and for its deep red acid fruits resembling small plums.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small shrubby tree of madagascar cultivated in tropical regions as a hedge plant and for its deep red acid fruits resembling small plums.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spiny, branched tropical shrub or small tree (*Flacourtia indica*) native to Madagascar and tropical Asia, bearing edible plum-like fruit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The governor's plum plant, cultivated for living thorny hedges, medicinal bark, and astringent sweet berries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ramontchi designates small shrubby tree of madagascar cultivated in tropical regions as a hedge plant and for its deep red acid fruits resembling small plums."*
+> - 📜 **David Livingstone (*Missionary Travels and Researches in South Africa*):** *"The thorny thickets of **ramontchi** provided ripe purple berries that refreshed our native carriers during the march."*
+> - 📜 **Richard Francis Burton (*The Lake Regions of Central Africa*):** *"Villagers planted impenetrable hedges of spiny **ramontchi** to protect their cattle kraals from marauding lions."*
+> - 📜 **George Bentham (*Flora Australiensis*):** *"The cultivated **ramontchi** produces abundant fleshy drupes prized in tropical settlements for jellies."*

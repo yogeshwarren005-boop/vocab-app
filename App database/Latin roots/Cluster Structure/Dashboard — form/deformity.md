@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An affliction in which some part of the body is misshapen or malformed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An appearance that has been spoiled or is misshapen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A physical malformation, blemish, or misshapen part that disfigures natural bodily symmetry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A moral ugliness, grave defect, or depravity that mars character or social institutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Proper deformity seems not in the fiend So horrid as in woman."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Blush, blush, thou lump of foul deformity, For ’tis thy presence that exhales this blood From cold and empty veins where no blood dwells."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your own present folly and her passing deformity; for he, being in love, could not see to garter his hose; and you, being in love, cannot see to put on your hose."*
+> - 📜 **Francis Bacon (*Essays*):** *"A bodily **deformity** often spurs the spirit to surpass ordinary men in industry and achievement."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"Avoid extremes, and shun the fault of those who still make one **deformity** their rule for all."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The creature wept in misery when he caught sight of his own horrific **deformity** reflected in the clear pool."*

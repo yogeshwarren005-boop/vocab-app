@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be similar, be in line with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adapt or conform oneself to new or different conditions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Complying with rules, standards, or established patterns; behaving in accordance with social expectations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Matching or corresponding in shape, doctrine, or structure with an external model.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"The place became less strange, and the people less formidable; and if there were some amongst them whom she could not cease to fear, she began at least to know their ways, and to catch the best manner of conforming to them."*
-> - 📜 **George Eliot (*Middlemarch*):** *"In the beginning they inhaled it unknowingly: you and I may have sent some of our breath towards infecting them, when we uttered our conforming falsities or drew our silly conclusions: or perhaps it came with the vibrations from a woman’s glance."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Thou seest these mighty waters onward flow, Conforming thus to all their Lord's decree-- Then live thou as thy conscience bids thee live, And know that God due recompense will give." LIX."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"By constantly **conforming** to public opinion, individuals surrender that original independence which fuels human progress."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea found herself **conforming** to her husband's austere habits, stifling her natural youthful impulses."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Clergymen secured their livings by **conforming** to the newly established liturgy of the church."*

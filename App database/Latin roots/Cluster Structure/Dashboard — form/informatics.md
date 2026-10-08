@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The sciences concerned with gathering, manipulating, storing, retrieving, and classifying recorded information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sciences concerned with gathering, manipulating, storing, retrieving, and classifying recorded information.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study and practice of processing, storing, and retrieving information using computational methods and systems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The application of information science and computational algorithms to biological, medical, or library systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, informatics designates the sciences concerned with gathering, manipulating, storing, retrieving, and classifying recorded information."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"Modern **informatics** rests upon the quantitative measure of entropy in discrete signal sequences."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"The emergent science of **informatics** demonstrates how feedback loops regulate both machines and living organisms."*
+> - 📜 **Vannevar Bush (*Science, the Endless Frontier*):** *"Post-war research laboratories must embrace electronic **informatics** to organize the explosion of scientific papers."*

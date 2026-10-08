@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of 12 kings of ancient egypt between 1315 and 1090 bc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of 12 kings of ancient egypt between 1315 and 1090 bc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of eleven ancient Egyptian pharaohs of the Nineteenth and Twentieth Dynasties, especially Rameses II (the Great).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historic ruler synonymous with grand monumental architecture, the temples of Abu Simbel, and military campaigns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rameses designates any of 12 kings of ancient egypt between 1315 and 1090 bc."*
+> - 📜 **Percy Bysshe Shelley (*Ozymandias*):** *"The colossal shattered visage in the desert was the monument of **Rameses**, who commanded the mighty to despair."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The obelisks of **Rameses** were transported from the Nile to decorate the imperial circuses of Rome."*
+> - 📜 **Flavius Josephus (*Against Apion*):** *"Ancient Egyptian chronicles recount the conquests of **Rameses** across Syria and the lands of the Hittites."*

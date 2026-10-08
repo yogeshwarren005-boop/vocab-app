@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the formicariidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the formicariidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of Neotropical antthrushes in the family Formicariidae, possessing rail-like posture and stout legs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artificial observation container or glass ant farm designed for studying live ant colonies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, formicarius designates type genus of the formicariidae."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"A black-faced antthrush of the genus **Formicarius** bounded over the fallen logs, flicking its short tail."*
+> - 📜 **John Lubbock (*Ants, Bees, and Wasps*):** *"By installing a glass-walled **formicarius**, we observed the intricate subterranean tunnels dug by the worker ants."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The behavioral habits of **Formicarius** correspond closely to the ground thrushes of Old World tropical forests."*

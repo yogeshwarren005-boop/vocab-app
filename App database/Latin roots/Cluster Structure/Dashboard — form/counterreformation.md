@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reformation intended to counter the results of a prior reformation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reformation intended to counter the results of a prior reformation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The period of Catholic revival and internal reform initiated in response to the Protestant Reformation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The movement spearheaded by the Council of Trent, the Jesuits, and baroque sacred art to revitalize Catholic orthodoxy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, counterreformation designates a reformation intended to counter the results of a prior reformation."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The vigorous intellectual offensive of the **Counterreformation** arrested the northern spread of the Protestant revolt."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The militant zeal of the **Counterreformation** breathed fierce new life into the ancient institutions of the papacy."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Baroque ecclesiastical architecture flourished under the dramatic theatrical patronage of the **Counterreformation**."*

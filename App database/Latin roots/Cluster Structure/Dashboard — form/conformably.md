@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a conformable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a conformable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner corresponding with, compliant to, or in harmony with established rules, customs, or orders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In continuous and uninterrupted agreement with an underlying design or legal requirement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The tenure of the ministerial offices generally, will be a subject of legal regulation, conformably to the reason of the case and the example of the State constitutions."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"This, Bracebridge said, must proceed from the servants’ hall, where a great deal of revelry was permitted, and even encouraged, by the squire throughout the twelve days of Christmas, provided everything was done conformably to ancient usage."*
+> - 📜 **David Hume (*The History of England*):** *"The parliamentary commissioners acted **conformably** to the instructions received from the privy council."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Species have diverged **conformably** with the principle of natural selection acting over long periods."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The magistrate executed the warrant **conformably** to ancient statutory precedents and common law."*

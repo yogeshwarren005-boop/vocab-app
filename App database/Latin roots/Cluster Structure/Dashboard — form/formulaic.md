@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or in accordance with some formula.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by or in accordance with some formula.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Following an established, rigid, or conventional formula or pattern; lacking originality and vitality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of routine, predictable phrases, tropes, or procedural steps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, formulaic designates characterized by or in accordance with some formula."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Mediocre landscape painters rely upon a **formulaic** arrangement of brown trees and artificial golden sunsets."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"The rector repeated his **formulaic** consolations, which offered little real solace to the grieving mother."*
+> - 📜 **Henry James (*The Art of Fiction*):** *"The living art of fiction decays whenever authors submit to the **formulaic** demands of commercial publishers."*

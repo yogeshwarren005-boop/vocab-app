@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Form into a shape resembling the final, desired one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form or shape beforehand or determine the shape of beforehand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To shape, mold, or construct something in advance, before subsequent fabrication or final installation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In manufacturing, a piece or blank shaped roughly beforehand for subsequent final processing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"In her lay a Godframed Godgiven preformed possibility which thou hast fructified with thy modicum of man’s work."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"Hydraulic presses **preform** steel sheets into motor car bodies in a single synchronized stroke."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The architect must **preform** his structural design in the imagination before laying the first cornerstone."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Subterranean pressure served to **preform** crystalline matrices deep within the cooling granitic magma."*

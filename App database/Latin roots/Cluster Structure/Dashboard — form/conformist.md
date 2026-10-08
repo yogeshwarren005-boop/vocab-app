@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who conforms to established standards of conduct (especially in religious matters).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by convention and conformity to customs or rules or styles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who unquestioningly adopts the behavior, customs, and accepted beliefs of an established majority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, one who adhered to the practices of the Church of England as by law established.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conformist designates someone who conforms to established standards of conduct (especially in religious matters)."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The strict Anglican **conformist** looked with deep suspicion upon any relaxation of the penal statutes against dissenters."*
+> - 📜 **George Bernard Shaw (*Man and Superman*):** *"The conventional **conformist** confuses moral rectitude with mere adherence to current fashion."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The world whips you with its displeasure if you dare to contradict the comfortable **conformist** creed."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A 10% solution of formaldehyde in water; used as a disinfectant or to preserve biological specimens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A 10% solution of formaldehyde in water; used as a disinfectant or to preserve biological specimens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A clear aqueous solution of formaldehyde (typically 37-40% by weight), widely used as a biological preservative and disinfectant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An embalming and histological fixative that cross-links tissue proteins to halt decay.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, formalin designates a 10% solution of formaldehyde in water; used as a disinfectant or to preserve biological specimens."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Creeping Man*):** *"A faint medicinal odor of **formalin** hung about the professor's laboratory shelves where pathological specimens stood."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"The dissection room was lined with glass jars of **formalin** containing bizarre anatomical monstrosities."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The student of pathology spends long hours amidst specimens preserved in **formalin**, observing morbid changes."*

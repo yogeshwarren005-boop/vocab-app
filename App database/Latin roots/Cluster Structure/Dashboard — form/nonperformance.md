@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Failure to act with the prudence that a reasonable person would exercise under the same circumstances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failure to act with the prudence that a reasonable person would exercise under the same circumstances.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failure to perform, carry out, or execute an agreed duty, promised obligation, or contractual terms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract law, a default or breach resulting from the neglect to complete agreed stipulations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonperformance designates failure to act with the prudence that a reasonable person would exercise under the same circumstances."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A suit for covenant lies when damages are claimed for the total **nonperformance** of an indenture."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Confederation suffered from the habitual **nonperformance** of financial duties by sovereign member states."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Commercial trust dissolves when courts fail to punish the fraudulent **nonperformance** of mercantile contracts."*

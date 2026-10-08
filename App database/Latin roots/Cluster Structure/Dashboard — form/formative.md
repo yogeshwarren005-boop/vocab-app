@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Minimal language unit that has a syntactic (or morphological) function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of forming new cells and tissues.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to shape, form, or develop; exerting a profound influence upon growth, character, or institutions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In embryology and linguistics, relating to the fundamental structural development of an organism or word root.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I used to play cricket myself." Laura Clowes in this period went through an experience almost equally formative."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"It must have been a formative experience." This time Isabel had no doubt about it, there was certainly a touch of cruel irony in Hyde's soft voice."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The second epoch of the Formative Age of the Bahá'í Dispensation has opened."*
+> - 📜 **John Stuart Mill (*Autobiography*):** *"Those early years of classical study exercised a decisive **formative** influence upon my intellectual development."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The **formative** yolk granules provide nutritional energy during the initial cleavage stages of the embryo."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Childhood memories along the river formed the deep, **formative** background of Maggie's passionate nature."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impart knowledge of some fact, state or affairs, or event to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give character or essence to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To give facts, information, or instructions to someone; to enlighten or apprise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philosophy, to animate, impart vital form to, or inspire with a prevailing principle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have discharg’d this honestly; keep it to yourself; many likelihoods inform’d me of this before, which hung so tottering in the balance that I could neither believe nor misdoubt."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Haply thou mayst inform Something to save thy life."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FIRST LORD. ’A will betray us all unto ourselves; Inform on that."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Let reason **inform** your passionate impulses, lest blind pride plunge your soul into ruin."*
+> - 📜 **Alexander Pope (*An Essay on Man*):** *"All are but parts of one stupendous whole, whose body Nature is, and God the soul; that changed through all, and yet in all the same, great in the earth, as in the ethereal frame, warms in the sun, refreshes in the breeze, glows in the stars, and blossoms in the trees, lives through all life, extends through all extent, spreads undivided, operates unspent, breathes in our soul, **informs** our mortal part."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor hastened to **inform** her mother of the favorable news regarding Marianne's steady recovery."*

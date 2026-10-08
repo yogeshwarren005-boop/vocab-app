@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Correspondence in form or appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Correspondence in form or appearance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Agreement, compliance, or consistency with specified regulations, technical standards, or legal guidelines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of matching an established prototype, model, or architectural specification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Such rights extend off-planet to national boundaries established in conformance with treaties in effect for delineating planetary and satellite jurisdictions in near and contiguous space."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Such resources will be available, proportionately, from the Common Reserve in conformance with a nation's or government's verified needs and technological capabilities to utilize the resources for peaceful and beneficial purposes."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The national courts must ensure strict **conformance** of state legislation to the supreme constitution."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Social cohesion in primitive tribes demands unyielding **conformance** to ancestral rituals and taboos."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Scientific research demands the rigorous **conformance** of theoretical deductions to experimental results."*

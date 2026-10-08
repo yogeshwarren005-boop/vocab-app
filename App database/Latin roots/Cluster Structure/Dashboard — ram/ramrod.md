@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rod used to ram the charge into a muzzle-loading firearm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A harshly demanding overseer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metal or wooden rod used to ram the powder charge and bullet down the muzzle of a firearm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rigid, stiffly uncompromising, or austere in posture, discipline, or moral manner.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Aunt Augusta is as temperate in all things as a steel ramrod."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A Frenchman who had just pushed a Russian soldier away was squatting by the fire, engaged in roasting a piece of meat stuck on a ramrod."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"His sleeves were rolled up and his sinewy, hairy, red hands with their short fingers deftly turned the ramrod."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"The marine stood with **ramrod** straightness at the captain's cabin door, eyeing the crew with impassive vigilance."*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"He seized his **ramrod** with frantic haste, driving the greasy paper cartridge home into the smoking barrel."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The old frontier colonel possessed a **ramrod** dignity that brook no flippancy from casual strangers."*

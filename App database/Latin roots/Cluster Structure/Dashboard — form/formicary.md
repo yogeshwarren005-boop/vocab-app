@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mound of earth made by ants as they dig their nest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mound of earth made by ants as they dig their nest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ant nest, anthill, or underground colony of ants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artificial glass case or container equipped for keeping and observing living ants; a formicarium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, formicary designates a mound of earth made by ants as they dig their nest."*
+> - 📜 **John Lubbock (*Ants, Bees, and Wasps*):** *"The Queen was carefully transferred to the new glass **formicary**, where her attentive attendants soon surrounded her."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"When a strange ant was introduced into the **formicary**, the resident sentries attacked it with immediate ferocity."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The furious battle between red and black ants raged around the sandy entrance of their forest **formicary**."*

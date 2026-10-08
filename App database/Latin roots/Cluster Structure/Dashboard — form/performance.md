@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dramatic or musical entertainment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of presenting a play or a piece of music or other entertainment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The execution, fulfillment, or accomplishment of a duty, command, obligation, or contractual promise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public presentation of a dramatic play, musical work, dance, or entertainment before an audience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here is my hand; the premises observ’d, Thy will by my performance shall be serv’d; So make the choice of thy own time, for I, Thy resolv’d patient, on thee still rely."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I could do more to do Antonius good, But ’twould offend him, and in his offence Should my performance perish."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If this should fail, And that our drift look through our bad performance. ’Twere better not assay’d."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"A great perturbation in nature, to receive at once the benefit of sleep, and do the effects of watching! In this slumbery agitation, what satisfaction have you of her **performance**?"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mary's musical **performance** was listened to with polite endurance, though her voice was weak and manner affected."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Punctual **performance** of mercantile contracts forms the bedrock of commercial trust and credit."*

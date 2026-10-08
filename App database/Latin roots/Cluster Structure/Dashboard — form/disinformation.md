@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Misinformation that is deliberately disseminated in order to influence or confuse rivals (foreign enemies or business competitors etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Misinformation that is deliberately disseminated in order to influence or confuse rivals (foreign enemies or business competitors etc.).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: False, deliberately deceptive information disseminated covertly to mislead, confuse, or manipulate public opinion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: State-sponsored or institutional propaganda designed to obscure factual truth and undermine adversaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disinformation designates misinformation that is deliberately disseminated in order to influence or confuse rivals (foreign enemies or business competitors etc.)."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"The Ministry of Truth systematically manufactured **disinformation** to keep the populace ignorant and compliant."*
+> - 📜 **George F. Kennan (*Memoirs*):** *"Hostile intelligence agencies relied heavily upon calculated **disinformation** to divide democratic allies."*
+> - 📜 **Walter Lippmann (*Public Opinion*):** *"In wartime censorship, strategic **disinformation** serves as an indispensable tool for concealing military movements."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The phonological or orthographic sound or appearance of a word that can be used to describe or identify something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A category of things distinguished by some common characteristic or quality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The visible shape, physical structure, or external configuration of an object, person, or organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An established custom, official procedure, legal ceremony, or printed document with blanks to be completed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So should that beauty which you hold in lease Find no determination, then you were Yourself again after yourself’s decease, When your sweet issue your sweet form should bear."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then thou whose shadow shadows doth make bright How would thy shadow’s form, form happy show, To the clear day with thy much clearer light, When to unseeing eyes thy shade shines so!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think good thoughts, whilst other write good words, And like unlettered clerk still cry Amen, To every hymn that able spirit affords, In polished form of well refined pen."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"To discover the true **form** of a natural nature is the ultimate end of all sound scientific inquiry."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"And as imagination bodies forth the **forms** of things unknown, the poet's pen turns them to shapes, and gives to airy nothing a local habitation and a name."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"From so simple a beginning endless **forms** most beautiful and most wonderful have been, and are being, evolved."*

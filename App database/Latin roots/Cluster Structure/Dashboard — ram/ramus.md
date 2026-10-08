@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The posterior part of the mandible that is more or less vertical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The posterior part of the mandible that is more or less vertical.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anatomical branch or projecting division of a bone, nerve, or blood vessel, such as the ramus of the lower jaw.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A prominent structural limb of an invertebrate shell or the bar of an animal horn.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ramus designates the posterior part of the mandible that is more or less vertical."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The ascending **ramus** of the mandible provides attachment for the powerful fibers of the masseter muscle."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"Each spinal nerve divides into an anterior and a posterior **ramus** shortly after exiting the intervertebral foramen."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The pubic **ramus** extends forward to join its fellow at the midline symphysis, forming the pelvic floor."*

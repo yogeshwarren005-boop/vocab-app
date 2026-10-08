@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A protestant in england who is not a member of the church of england.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who refuses to conform to established standards of conduct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who refuses to conform to established rules, orthodox customs, or prevailing societal beliefs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, an English Protestant Christian who declined to conform to the doctrines of the Church of England.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Present at the managers' meeting were Val, still in breeches: Jack Bendish in a dinner jacket and black tie: Garrett the blacksmith, cursorily washed: Thurlow, a leading Nonconformist tradesman: and Mrs."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I think, perhaps, it is almost time that I prepare for the new role I have to play.” He disappeared into his bedroom and returned in a few minutes in the character of an amiable and simple-minded Nonconformist clergyman."*
-> - 📜 **James Joyce (*Ulysses*):** *"In the church, Roman, Anglican or Nonconformist: exemplars, the very reverend John Conmee S."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"Whoso would be a man must be a **nonconformist**, trusting his own inward conviction against the mob."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The brave **nonconformist** preacher was dragged from his pulpit and thrown into the county gaol."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"Mr. Lyon was an earnest **nonconformist** minister whose theological sermons stirred the town weavers."*

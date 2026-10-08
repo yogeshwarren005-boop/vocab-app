@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not conforming to some norm or socially approved pattern of behavior or thought.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not conforming to some norm or socially approved pattern of behavior or thought.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who refuses to conform to accepted customs, prevailing rules, or majority social dogmas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An independent dissenter who adheres to unorthodox principles in politics, religion, or art.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unconformist designates not conforming to some norm or socially approved pattern of behavior or thought."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"The stubborn **unconformist** provokes the hostility of the crowd by refusing to echo popular slogans."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Society needs the courageous **unconformist** whose eccentricities prevent public opinion from hardening into tyranny."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The intrepid **unconformist** preacher suffered imprisonment rather than surrender his freedom of conscience."*

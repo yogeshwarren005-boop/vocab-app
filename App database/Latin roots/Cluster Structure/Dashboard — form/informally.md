@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without formality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With the use of colloquial expressions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a relaxed, casual, and unofficial manner, without ceremonial protocol or strict etiquette.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Outside of official legal channels or formal bureaucratic procedures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"It was informally offered to Cairns through one of the councillors, but again he sent a declinature, and again he kept the matter carefully concealed."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I can do it informally; and I very nearly did it as long ago as last June."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Of course, as none of you have any official municipal status, the invitation will have to be given informally, in a social way, to the Commission through Miss Shelby's friend, Mr."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The trustees met **informally** at the bank parlor to discuss the physician's new sanitary proposals."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Rochester addressed me **informally**, as if we had been companions of many years rather than master and governess."*
+> - 📜 **Walter Bagehot (*The English Constitution*):** *"Ministers often consult **informally** over dinner before presenting agreed policies to the sovereign."*

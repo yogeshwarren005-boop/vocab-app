@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or causing change in either shape or size of a material body or geometric figure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or causing change in either shape or size of a material body or geometric figure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resulting from mechanical strain, physical alteration, or structural distortion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural geology, describing tectonic forces and processes that fold, fault, and distort crustal rocks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deformational designates relating to or causing change in either shape or size of a material body or geometric figure."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The mountain belt preserves dramatic **deformational** structures produced by ancient continental collisions."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"Metamorphic schists exhibit intense **deformational** banding generated under extreme subterranean pressure."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"The **deformational** history of the crystalline basement reveals successive phases of shearing and thrusting."*

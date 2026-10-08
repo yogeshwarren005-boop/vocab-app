@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make formal or official.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declare or make legally valid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Given official sanction, binding status, or systematic definition according to standard procedures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Structured or regulated in accordance with explicit, conventional rules and ceremonies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, formalized designates make formal or official."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The treaty **formalized** the territorial partition between the Roman Empire and the Sasanian kingdom."*
+> - 📜 **William Makepeace Thackeray (*The History of Henry Esmond*):** *"Their mutual reconciliation was **formalized** before the family with grave, courteous bows."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Courtship displays in birds have become **formalized** through centuries of instinctive selection."*

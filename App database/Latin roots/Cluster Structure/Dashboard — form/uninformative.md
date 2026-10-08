@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking information.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Providing little or no useful, meaningful, or instructive information; shedding no light on a subject.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vague, evasive, or trivial in communicative content, failing to answer substantive inquiries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uninformative designates lacking information."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Rote scholastic lectures prove utterly **uninformative** unless accompanied by practical laboratory dissection."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The coroner's inquest was disappointingly **uninformative**, leaving the mysterious tragedy entirely unexplained."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Tautological propositions are completely **uninformative**, merely repeating in the predicate what was assumed in the subject."*

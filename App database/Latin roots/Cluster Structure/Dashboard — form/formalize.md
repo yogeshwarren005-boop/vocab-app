@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make formal or official.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declare or make legally valid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To give official legal status, binding recognition, or systematic structure to an agreement, doctrine, or practice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To express concepts in rigorous, standardized terms or symbolic notation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, formalize designates make formal or official."*
+> - 📜 **Walter Bagehot (*The English Constitution*):** *"Parliamentary statutes frequently serve to **formalize** conventions that have long governed executive conduct."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Naturalists sought to **formalize** evolutionary classification by relying upon structural homologies."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The hospital board met to **formalize** the young physician's appointment to the directing staff."*

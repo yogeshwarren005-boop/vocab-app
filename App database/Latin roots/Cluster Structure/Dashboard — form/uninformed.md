@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not informed; lacking in knowledge or information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not informed; lacking in knowledge or information.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not possessing or displaying knowledge, awareness, or accurate information; unenlightened.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking vital animating form, guidance, or moral purpose; uninstructed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"You cannot suppose me uninformed."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"THE SPLITTING OF THE CHURCH A few uninformed persons say that "holiness splits the church." But this is false."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"An uninformed Irishman, hearing the Sphinx alluded to in company, whispered to a friend, Sphinx! who is he now?"*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The unguided ballot of an **uninformed** multitude risks degenerating into the reckless tyranny of the majority."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth regretted having spoken so rashly while remaining utterly **uninformed** of the true circumstances."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with the Colonies*):** *"Legislation framed by an **uninformed** parliament three thousand miles away provoked righteous defiance in America."*

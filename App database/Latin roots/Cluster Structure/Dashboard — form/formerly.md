@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: At a previous time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At a previous time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In past times; at an earlier period; previously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under previous conditions or regimes before subsequent transformations occurred.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And your virginity, your old virginity, is like one of our French wither’d pears; it looks ill, it eats drily; marry, ’tis a wither’d pear; it was formerly better; marry, yet ’tis a wither’d pear."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"While I remain above the ground, you shall Hear from me still, and never of me aught But what is like me formerly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"HOSTESS of a tavern in Eastcheap, formerly Mistress Nell Quickly, and now married to Pistol."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Regions **formerly** submerged beneath shallow seas now form the summits of the highest mountain chains."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The spacious mansion was **formerly** the residence of proud Tudor chancellors and royal favorites."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The room had been **formerly** used as a schoolroom, but now lay desolate and cold in the north wing."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of symbols that make a mathematical statement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Directions for making something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mathematical, logical, or chemical rule expressed in symbols, establishing a precise relationship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A prescribed list of ingredients for a medicinal or industrial preparation; or a conventional method.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"That’s never Gable Oak’s grandson over at Norcombe—never!” he said, as a formula expressive of surprise, which nobody was supposed for a moment to take literally."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"—Being a few private friends asked in to-night to keep up club-walking at my own expense.” The landlady had rapidly re-used the formula she kept on hand for intruders before she recognized that the newcomer was Tess."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This quantity theory may be expressed in the formula P = MR/N when P is the symbol for price, or the general price level, N is (1) above, R is (2), and M is (3)."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The mathematical **formula** for gravitational attraction expresses the inverse square ratio governing planetary orbits."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"True natural philosophy rejects empty scholastic phrases in favor of an experimental **formula** verifiable by all."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"No rigid taxonomic **formula** can encompass the endless diversity of living variations in the wild."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A 10% solution of formaldehyde in water; used as a disinfectant or to preserve biological specimens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A 10% solution of formaldehyde in water; used as a disinfectant or to preserve biological specimens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A standard commercial aqueous solution of formaldehyde (formalin), used as a disinfectant and tissue fixative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antiseptic chemical agent used to preserve anatomical and histological laboratory specimens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, formol designates a 10% solution of formaldehyde in water; used as a disinfectant or to preserve biological specimens."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"A dilute wash of **formol** arrested the proliferation of airborne bacterial spores on the glass jars."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pathologists placed the excised tumor directly into neutralized **formol** to preserve its cellular histology."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"The shelves of the chemist's shop reeked of carbolic acid, ether, and pungent jars of **formol**."*

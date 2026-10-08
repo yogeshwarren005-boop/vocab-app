@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a formless manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a formless manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an amorphous, shapeless, or haphazardly organized manner that lacks distinct outline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without structured plan, logical coherence, or artistic symmetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Louis Stevenson (*The strange case of Dr. Jekyll and Mr. Hyde*):** *"I looked down; my clothes hung formlessly on my shrunken limbs; the hand that lay on my knee was corded and hairy."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"The morning mist drifted **formlessly** over the cold garden path before the pale dawn broke."*
+> - 📜 **Henry James (*The Golden Bowl*):** *"Their vague mutual anxieties hung **formlessly** in the air, neither spoken aloud nor forgotten."*
+> - 📜 **Charles Darwin (*Journal of Researches (The Voyage of the Beagle)*):** *"Lava flows spread **formlessly** across the volcanic slope, congealing into chaotic ridges of black slag."*

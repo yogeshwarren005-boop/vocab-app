@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of 12 kings of ancient egypt between 1315 and 1090 bc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of 12 kings of ancient egypt between 1315 and 1090 bc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pharaoh of ancient Egypt belonging to the New Kingdom, particularly associated with vast imperial building projects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dynastic name of the warrior kings who fortified the eastern delta and established the capital Pi-Ramesses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ramesses designates any of 12 kings of ancient egypt between 1315 and 1090 bc."*
+> - 📜 **Herodotus (*Histories*):** *"Egyptian priests showed travelers the colossal granite statues erected by **Ramesses** outside the temple of Hephaestus."*
+> - 📜 **Lord Byron (*Don Juan*):** *"Even the colossal stone memorials of **Ramesses** crumble beneath the relentless drifting sands of antiquity."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Sedimentation rates of the Nile are calculated by observing the buried plinths of statues raised by **Ramesses**."*

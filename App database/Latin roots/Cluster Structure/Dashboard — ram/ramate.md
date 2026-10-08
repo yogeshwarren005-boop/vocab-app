@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having branches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having branches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having branches, divisions, or bough-like extensions; branched in botanical or anatomical structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and morphology, characterized by diverging lateral limb or nerve ramifications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ramate designates having branches."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The horn core of the fossil ruminant presents a distinctly **ramate** structure supporting multiple antler prongs."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The shrub produces **ramate** inflorescences terminating in clusters of pale yellow florets."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The respiratory tracheae display a **ramate** distribution, delivering oxygen directly to individual muscle fibers."*

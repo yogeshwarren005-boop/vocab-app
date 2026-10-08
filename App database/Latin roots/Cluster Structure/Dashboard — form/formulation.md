@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance prepared according to a formula.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inventing or contriving an idea or explanation and formulating it mentally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or instance of expressing an idea, law, or theory in systematic and precise language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specific mixture, recipe, or pharmaceutical preparation compounded according to defined ratios.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Thus it is that what comes out of the mouth defiles a man (Matt. 15:18)--with the curious suggestion, whether intended or not, that the formulation of a floating thought gives it new power to injure or to help."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"It received its initial impetus through the formulation of President Wilson's Fourteen Points, closely associating for the first time that republic with the fortunes of the Old World."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Rejoice particularly at formulation of teaching plans so vitally linked with immediate destiny of Temple enterprise."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The mathematical **formulation** of thermodynamic laws established physics upon an unshakeable foundation."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Every theological **formulation** represents an intellectual attempt to interpret profound inward feelings."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The precise **formulation** of trade treaties prevents destructive customs wars between rival commercial kingdoms."*

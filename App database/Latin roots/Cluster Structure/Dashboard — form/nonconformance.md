@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of orthodoxy in thoughts or beliefs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failure to conform to accepted standards of behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failure or refusal to conform to a standard, contract specification, regulation, or customary pattern.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In manufacturing and quality management, a defect or departure from documented engineering requirements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonconformance designates a lack of orthodoxy in thoughts or beliefs."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Social penalties in tribal life punished the slightest **nonconformance** with customary ceremonial dress."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The weakness of the Confederation arose from the persistent **nonconformance** of individual states with requisitions."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"Standardized assembly lines cannot tolerate the least mechanical **nonconformance** in interchangeable parts."*

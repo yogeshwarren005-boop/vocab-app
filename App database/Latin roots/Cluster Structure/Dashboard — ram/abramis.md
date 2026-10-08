@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: European fishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: European fishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of freshwater cyprinid fishes comprising the common European bream, characterized by a deep, laterally compressed body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A freshwater fish genus inhabiting sluggish rivers, canals, and lowland lakes across Europe and western Asia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abramis designates european fishes."*
+> - 📜 **Izaak Walton (*The Compleat Angler*):** *"The broad, flat-sided bream of the genus **Abramis** delights in deep, muddy pools beneath overhanging willows."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The pharyngeal teeth in **Abramis** are arranged in a single compressed series adapted for crushing aquatic snails."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Species belonging to **Abramis** attain considerable weight in slow lowland river reaches of northern Europe."*

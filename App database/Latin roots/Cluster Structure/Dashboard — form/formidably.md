@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a formidable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a formidable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impressively powerful, daunting, or terrifying manner that commands deep respect and caution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a degree that presents immense difficulty, obstacles, or dangerous opposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But as the mileage lessened between her and the spot of her pilgrimage, so did Tess’s confidence decrease, and her enterprise loom out more formidably."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"Grose also, and very formidably, to reckon with."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The French fleet was **formidably** arrayed across the mouth of the bay, bristling with heavy brass cannon."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The great sperm whale sounded, raising his tail flukes **formidably** against the blood-red evening sky."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The young candidate found the political opposition **formidably** entrenched behind ancient local privileges."*

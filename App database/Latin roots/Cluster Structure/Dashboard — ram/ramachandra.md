@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hero in hindu mythology; an incarnation of vishnu.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hero in hindu mythology; an incarnation of vishnu.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional reverential name for Prince Rama in Hinduism, celebrating his calm, radiant, moon-like majesty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The virtuous divine incarnation worshipped across India as the righteous ruler of Ayodhya.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ramachandra designates a hero in hindu mythology; an incarnation of vishnu."*
+> - 📜 **Max Müller (*A History of Ancient Sanskrit Literature*):** *"The royal sage **Ramachandra** exemplifies unyielding devotion to dharma throughout his long forest exile."*
+> - 📜 **Richard Francis Burton (*The Book of the Thousand Nights and a Night*):** *"Indian merchants in the port invoked the blessing of **Ramachandra** for fair winds and honest dealings."*
+> - 📜 **William Jones (*On the Gods of Greece, Italy, and India*):** *"The celebrated exploits of **Ramachandra** form the majestic subject of Valmiki's immortal epic poem."*

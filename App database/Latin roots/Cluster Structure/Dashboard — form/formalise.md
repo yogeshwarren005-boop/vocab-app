@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make formal or official.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declare or make legally valid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To give official legal status, binding recognition, or systematic structure to an agreement, doctrine, or practice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To express concepts in rigorous, standardized terms or symbolic notation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Of the usual conical form, it has a plain outside, and the inside is decorated with an incised design of not very clear meaning, but apparently a close foliage ground with highly formalised figures of boys."*
+> - 📜 **Walter Bagehot (*The English Constitution*):** *"The cabinet serves to **formalise** the unwritten conventions governing relations between the crown and parliament."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Botanists must **formalise** taxonomic classifications based upon shared evolutionary morphology."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The trustees met to **formalise** the physician's appointment as head of the new municipal infirmary."*

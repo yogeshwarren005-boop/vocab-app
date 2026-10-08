@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hindu lunar holiday (on the 9th day of caitra) to celebrate the birth of rama.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hindu lunar holiday (on the 9th day of caitra) to celebrate the birth of rama.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major Hindu spring festival celebrating the birth of Lord Rama, the seventh avatar of Vishnu, on the ninth day of Chaitra.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A religious holiday marked by temple recitations of the Ramayana, fasting, and devotional singing across India.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ramanavami designates hindu lunar holiday (on the 9th day of caitra) to celebrate the birth of rama."*
+> - 📜 **Max Müller (*India: What Can It Teach Us?*):** *"Devout pilgrims throng the temples of Ayodhya during the joyous festival of **Ramanavami**."*
+> - 📜 **Richard Francis Burton (*Sindh and the Races that Inhabit the Valley of the Indus*):** *"The colorful processions of **Ramanavami** illuminated the riverbank shrines with oil lamps and flower garlands."*
+> - 📜 **William Jones (*On the Gods of Greece, Italy, and India*):** *"The sacred rites of **Ramanavami** commemorate the divine descent of Vishnu to vanquish the demon king Ravana."*

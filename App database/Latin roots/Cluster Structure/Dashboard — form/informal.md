@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not formal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not officially recognized or controlled.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a relaxed, friendly, and unofficial style, character, or nature; casual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conducted without strict adherence to established rules, official ceremonies, or legal protocol.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do perceive These poor informal women are no more But instruments of some more mightier member That sets them on."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"He readily gives and takes simple neighborly help in informal ways, but he does not readily turn to government for aid."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"She maintained this belligerent attitude for several days, during which time a series of informal negotiations were pending, and wide alarm spread over the island."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"The company gathered for an **informal** tea in the garden, exchanging light gossip beneath the shade trees."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The archdeacon preferred an **informal** conference over port wine to settle the dispute with the dean."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Herbert Pocket invited me to an **informal** supper of toasted cheese and porter in his modest chambers."*

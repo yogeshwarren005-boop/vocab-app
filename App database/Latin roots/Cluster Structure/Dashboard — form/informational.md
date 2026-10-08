@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having the nature of information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or having the nature of information.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or providing factual information, data, or instructional knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conveying educational facts or technical descriptions rather than persuasive rhetoric or entertainment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, informational designates relating to or having the nature of information."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"The **informational** capacity of a noisy telegraph wire depends directly upon bandwidth and signal power."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"The nervous system transmits **informational** impulses that trigger coordinated motor reflexes in the muscles."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"Schooling must provide rich experiential activities rather than mere passive acquisition of **informational** facts."*

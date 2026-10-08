@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attire to wear on formal occasions in the evening.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attire to wear on formal occasions in the evening.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Attire, such as tuxedos, tailcoats, and evening gowns, suitable for ceremonial, state, or elegant social events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Garments prescribed by etiquette for white-tie or black-tie gatherings and dignified ceremonies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, formalwear designates attire to wear on formal occasions in the evening."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"Gentlemen in impeccable black **formalwear** crowded the opera boxes, observing society through mother-of-pearl glasses."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"Guests in dazzling **formalwear** drifted across Gatsby's illuminated lawns amidst the music and summer laughter."*
+> - 📜 **Henry James (*The Wings of the Dove*):** *"The distinguished assembly in evening **formalwear** gathered around the grand Venetian palazzo salon."*

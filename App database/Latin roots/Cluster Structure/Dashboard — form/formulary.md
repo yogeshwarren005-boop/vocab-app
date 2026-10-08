@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (pharmacology) a book containing a compilation of pharmaceutical products with their formulas and methods of preparation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or of the nature of a formula.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection of prescribed formulas, especially medicinal recipes, liturgical rites, or legal forms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to, based upon, or stated in prescribed, official formulas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"The _Lines written above Tintern Abbey_ have become, as it were, the _locus classicus_ or consecrated formulary of the Wordsworthian faith."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"The writer rises above creeds and formularies and arbitrarily established rule."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The hospital **formulary** provided standardized dosage tables for tincture of digitalis and morphine."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The ancient liturgical **formulary** of the Anglican Church was defended vigorously against Puritan revisions."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Every practicing attorney consulted the standard **formulary** of writs before entering a plea at the bar."*

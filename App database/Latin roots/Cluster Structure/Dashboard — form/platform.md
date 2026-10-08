@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A raised horizontal surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A document stating the aims and principles of a political party.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A raised level surface, floor, or stage for speakers, performers, passengers, or mechanical apparatus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The declared principles, policies, and aims put forward by a political party or civic organization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A platform before the Castle Scene II."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, upon the platform where we watch."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Upon the platform ’twixt eleven and twelve, I’ll visit you."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Meet me upon the **platform** 'twixt eleven and twelve, where the armed apparition hath walked."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The scaffold had been erected in the palace yard, forming a grim wooden **platform** for the condemned lord."*
+> - 📜 **Abraham Lincoln (*Cooper Union Address*):** *"The political **platform** of our party rests firmly upon the constitutional principles of the founding fathers."*

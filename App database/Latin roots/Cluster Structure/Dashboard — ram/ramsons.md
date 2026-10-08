@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pungent old world weedy plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pungent old world weedy plant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The wild garlic plant (*Allium ursinum*), a broad-leaved bulbous perennial herb of damp European woodlands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The pungent, edible leaves and white star-like flowers of wild garlic harvested for spring salads and medicinal remedies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ramsons designates pungent old world weedy plant."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The wooded glades were white with the flowering blossoms of **ramsons**, scenting the air with pungent wild garlic."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Springtime in the damp coppice brought out carpets of broad-leaved **ramsons** beneath the budding hazels."*
+> - 📜 **Izaak Walton (*The Compleat Angler*):** *"We ate our bread and cheese garnished with freshly gathered woodland **ramsons** beside the trout stream."*

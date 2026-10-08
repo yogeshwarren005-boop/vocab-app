@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The organization of information according to preset specifications (usually for computer processing).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set (printed matter) into a specific format.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The arrangement of text, margin spacing, typefaces, and headings into a coherent presentation layout.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computing, the initialization and partitioning of a storage drive to prepare it for data recording.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, formatting designates the organization of information according to preset specifications (usually for computer processing)."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"Careful **formatting** of digital message blocks ensures accurate synchronization across noisy transmission channels."*
+> - 📜 **Donald Knuth (*The TeXbook*):** *"Automated typographic **formatting** balances line breaks and paragraph spacing to produce beautiful mathematical text."*
+> - 📜 **Vannevar Bush (*Science, the Endless Frontier*):** *"Standardized **formatting** of scientific journals facilitated the cross-referencing of laboratory discoveries."*

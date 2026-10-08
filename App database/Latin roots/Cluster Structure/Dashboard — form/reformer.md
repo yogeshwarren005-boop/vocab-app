@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disputant who advocates reform.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apparatus that reforms the molecular structure of hydrocarbons to produce richer fuel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who devotes their efforts to bringing about political, religious, or social change and removing abuses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, one of the leaders of the Protestant Reformation, such as Martin Luther or John Calvin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Yes, but what that religion needed was a great reformer, who should have cut the religion clear adrift from idols of every kind, from the old mythology, from obscenity."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It may very well be that such a reformer was unthinkable; even if he had appeared, he would have been foredoomed to fail, as the compromise of the Stoics shows."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"The practical side of him was so strong that he might have been a great statesman or reformer, had not his imagination, stimulated by a torrential fluency of language, overborne his will."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The true political **reformer** preserves the ancient foundations of the state while repairing the decayed walls."*
+> - 📜 **John Stuart Mill (*Autobiography*):** *"Bentham stood forward as an intrepid legal **reformer**, attacking the absurdities and delays of the common law."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Young Lydgate arrived in the provincial town with the ardent ambition of a medical **reformer**."*

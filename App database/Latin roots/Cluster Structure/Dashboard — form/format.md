@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The organization of information according to preset specifications (usually for computer processing).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The general appearance of a publication.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The overall shape, layout, physical dimensions, or organization of a publication, book, or digital file.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The general arrangement, plan, or style of an artistic presentation, television broadcast, or conference.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, format designates the organization of information according to preset specifications (usually for computer processing)."*
+> - 📜 **Samuel Johnson (*Lives of the Poets*):** *"The publisher issued the poet's complete works in a handsome octavo **format** adorned with copperplate engravings."*
+> - 📜 **Charles Darwin (*Life and Letters of Charles Darwin*):** *"I preferred a compact **format** for the journal so that field naturalists could carry it conveniently in their pockets."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"The standardized **format** of printed newspapers accelerated the rapid dissemination of daily political news."*

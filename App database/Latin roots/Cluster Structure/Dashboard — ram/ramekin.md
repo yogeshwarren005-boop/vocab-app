@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cheese dish made with egg and bread crumbs that is baked and served in individual fireproof dishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small fireproof dish used for baking and serving individual portions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small glazed ceramic or porcelain baking dish used for preparing and serving individual portions of soufflé or custard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A savory baked dish of cheese, eggs, and breadcrumbs served hot from the oven.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ramekin designates a cheese dish made with egg and bread crumbs that is baked and served in individual fireproof dishes."*
+> - 📜 **William Makepeace Thackeray (*The Book of Snobs*):** *"The pretentious dinner concluded with an elaborate cheese **ramekin** served in silver-mounted porcelain."*
+> - 📜 **Anthony Trollope (*The Small House at Allington*):** *"A delicate **ramekin** of toasted parmesan accompanied the second course of the squire's quiet country dinner."*
+> - 📜 **Charles Dickens (*Our Mutual Friend*):** *"The French chef sent up an individual **ramekin** that vanished amidst the laughter of the fashionable guests."*

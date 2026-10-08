@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # miso
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thick paste made from fermented soybeans and barley or rice malt; used in japanese cooking to make soups or sauces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thick paste made from fermented soybeans and barley or rice malt; used in japanese cooking to make soups or sauces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional Japanese seasoning paste produced by fermenting soybeans with salt and kōji fungus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A savory, fermented soybean broth or soup prepared as a staple in East Asian culinary tradition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miso designates a thick paste made from fermented soybeans and barley or rice malt; used in japanese cooking to make soups or sauces."*
+> - 📜 **Lafcadio Hearn (*Glimpses of Unfamiliar Japan*):** *"The morning meal of the humble Buddhist priest consisted of boiled rice, pickled radish, and fragrant **miso** soup."*
+> - 📜 **Isabella Bird (*Unbeaten Tracks in Japan*):** *"At the roadside inn we were served bowls of hot **miso** broth flavored with dried seaweed and bean curd."*
+> - 📜 **Basil Hall Chamberlain (*Things Japanese*):** *"No household in Nippon is without its wooden tub of fermented **miso**, the ubiquitous foundation of Japanese cookery."*

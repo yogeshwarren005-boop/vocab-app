@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misconduct
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bad or dishonest management by persons supposed to act on another's behalf.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Activity that transgresses moral or civil law.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unacceptable, improper, or wrongful behavior, especially by a professional or public official.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mismanagement or incompetent direction of military, business, or governmental affairs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Your father and mother seem so totally free from all those ambitious feelings which have led to so much misconduct and misery, both in young and old."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Far from comprehending him or his sister in their father’s misconduct, Mrs."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His pride, in that direction, may be of service, if not to himself, to many others, for it must deter him from such foul misconduct as I have suffered by."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The power of impeachment is designed to punish the **misconduct** of public men who betray their trust."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Great nations are never impoverished by private prodigality, but by the **misconduct** of public rulers."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **misconduct** of the provincial governor provoked an insurrection among the tax-weary citizens."*

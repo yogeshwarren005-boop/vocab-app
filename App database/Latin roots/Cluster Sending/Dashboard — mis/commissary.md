@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # commissary
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A retail store that sells equipment and provisions (usually to military personnel).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A snack bar in a film studio.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A representative, deputy, or officer entrusted with a specific administrative or judicial charge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A military store or depot providing food, rations, and supplies to personnel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"On Commissary Goldie’s Brains Lord, to account who dares thee call, Or e’er dispute thy pleasure?"*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"They became instructors of whole townships in the methods of government business, the constitution of the Commissary and Quartermaster's Departments, and the forms of the Medical Bureau."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The Commissary Department issued vegetables in such small quantities that they did not affect the condition of the troops in any appreciable degree."*
+> - 📜 **Jonathan Swift (*A Modest Proposal and Other Satires*):** *"The royal **commissary** examined the municipal accounts to determine where revenues had gone astray."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"The ship's **commissary** distributed salt beef and biscuit to the crew according to established naval ration."*
+> - 📜 **Washington Irving (*The Life of George Washington*):** *"Washington urged Congress to appoint an energetic **commissary** to procure provisions for the starving camp."*

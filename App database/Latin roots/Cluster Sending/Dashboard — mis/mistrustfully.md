@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mistrustfully
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With distrust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With distrust.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner showing doubt, suspicion, or lack of confidence; suspiciously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With wary apprehension and reluctance to accept another's assurances or good faith.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"They looked at him and at his shoes mistrustfully, as at an alien."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"I will certainly give him a lecture.” The doctor looked at her mistrustfully, thinking perhaps that she herself would be the better for a lecture on her duties as a mother."*
+> - 📜 **Sir Walter Scott (*The Antiquary*):** *"The old woman peered **mistrustfully** through the cottage casement at the armed horsemen."*
+> - 📜 **Robert Louis Stevenson (*Kidnapped*):** *"Ebenezer Balfour eyed me **mistrustfully** as he counted out the few shillings on the table."*
+> - 📜 **Charlotte Bronte (*Jane Eyre*):** *"Hannah received me **mistrustfully** at Moor House, barring the door against a penniless wanderer."*

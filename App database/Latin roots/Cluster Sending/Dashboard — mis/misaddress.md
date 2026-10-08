@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misaddress
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put a wrong address on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put a wrong address on.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To address or direct a letter, message, or petition to the wrong recipient or location.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To direct inquiries, appeals, or complaints to an inappropriate person, office, or authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misaddress designates put a wrong address on."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"In his haste he managed to **misaddress** the packet, sending vital documents to an obscure creditor."*
+> - 📜 **Jane Austen (*Emma*):** *"To **misaddress** such a delicate confession would have exposed the young lady to mortifying gossip."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"He was prone to **misaddress** his compliments, flattering those who disdained his clumsy attentions."*

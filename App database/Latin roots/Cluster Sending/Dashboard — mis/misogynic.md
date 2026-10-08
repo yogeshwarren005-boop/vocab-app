@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misogynic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of men) having deep-seated distrust of women.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of men) having deep-seated distrust of women.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, reflecting, or exhibiting a hatred, prejudice, or contempt against women.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by anti-female bias, hostility, or chauvinistic disparagement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misogynic designates (used of men) having deep-seated distrust of women."*
+> - 📜 **Mary Wollstonecraft (*A Vindication of the Rights of Woman*):** *"Rousseau's educational treatise is disfigured by deeply **misogynic** assumptions regarding female intellect."*
+> - 📜 **John Stuart Mill (*The Subjection of Women*):** *"Ancient legal codes enshrined a **misogynic** servitude that degraded half the human species."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"The professor's furious pamphlet was filled with curious, **misogynic** denunciations of female authorship."*

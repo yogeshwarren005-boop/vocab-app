@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mismated
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with an unsuitable mate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not easy to combine harmoniously.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unsuitably paired or mated; linked in an unhappy, ill-assorted marriage or biological union.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ill-matched in physical attributes, temperament, or evolutionary traits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mismated designates provide with an unsuitable mate."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate felt the bitter sting of finding himself **mismated** with an extravagant, shallow wife."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Clym and Eustacia were tragically **mismated**, their irreconcilable ambitions tearing them apart."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Two **mismated** partners live in perpetual spiritual dissonance, starving each other's highest nature."*

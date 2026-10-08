@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # promise
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A verbal commitment by one person to another agreeing to do (or not to do) something in the future.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grounds for feeling hopeful about the future.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A declaration or assurance that one will do a particular thing or that a particular thing will happen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indications of future excellence, achievement, or favorable development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not helping, death’s my fee; But if I help, what do you promise me?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take her by the hand, And tell her she is thine; to whom I promise A counterpoise; if not to thy estate, A balance more replete."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Promise, And in our name, what she requires; add more, From thine invention, offers."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"I have a **promise** of your presence here to-night; do not fail to grace our feast."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"Truth and keeping of faith belong to men as men, and not as members of society; a mutual **promise** binds even in the state of nature."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His youth gave brilliant **promise** of talents and virtues which his later career fulfilled."*

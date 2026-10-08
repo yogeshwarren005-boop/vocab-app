@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misreading
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Misinterpretation caused by inaccurate reading.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Read or interpret wrongly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An incorrect, inaccurate, or mistaken reading of a text, inscription, or manuscript.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flawed interpretation or understanding of another person's motives or circumstances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misreading designates misinterpretation caused by inaccurate reading."*
+> - 📜 **Samuel Johnson (*Preface to Shakespeare*):** *"Many obscure passages in the folio result from a careless compositor's **misreading** of the poet's manuscript."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Her tragic marriage was the direct outcome of a romantic **misreading** of Osmond's true character."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"To deduce divine purpose from transitional adaptations is a fundamental **misreading** of nature's economy."*

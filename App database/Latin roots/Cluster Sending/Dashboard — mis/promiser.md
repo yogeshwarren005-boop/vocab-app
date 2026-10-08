@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # promiser
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes a promise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who makes a promise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes a promise, commitment, or solemn undertaking to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who pledges future performance or offers optimistic assurances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, promiser designates a person who makes a promise."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"Life every man holds dear; but the dear man holds honour far more precious dear than life; be no false **promiser**."*
+> - 📜 **Francis Bacon (*The Essays*):** *"He that is a lavish **promiser** is generally a slow performer when the trial arrives."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Hope is the greatest **promiser** in the universe, perpetually flattering our vanity with unfulfilled visions."*

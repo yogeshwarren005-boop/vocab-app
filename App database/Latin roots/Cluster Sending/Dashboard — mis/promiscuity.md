@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # promiscuity
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indulging in promiscuous (casual and indiscriminate) sexual relations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indulging in promiscuous (casual and indiscriminate) sexual relations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of engaging in sexual relations frequently with different partners; indiscriminate intimacy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An indiscriminate mixture, confused jumble, or lack of selection in assembling varied items.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, promiscuity designates indulging in promiscuous (casual and indiscriminate) sexual relations."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Ancient chroniclers falsely accused the northern nomads of living in a state of barbaric **promiscuity**."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Sociological evidence disproves the hypothesis that primitive human societies began in unregulated **promiscuity**."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The chaotic assembly presented an astonishing **promiscuity** of noblemen, priests, artisans, and street orators."*

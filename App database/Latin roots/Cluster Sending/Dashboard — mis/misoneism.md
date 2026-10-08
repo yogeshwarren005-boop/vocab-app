@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misoneism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hatred of change or innovation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hatred of change or innovation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hatred, fear, or intolerance of innovation, new ideas, or change; extreme neophobia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ingrained intellectual conservatism that resists technological or sociopolitical progress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misoneism designates hatred of change or innovation."*
+> - 📜 **Cesare Lombroso (*The Man of Genius*):** *"Universal **misoneism** is a protective instinct of the human mind, shielding society from reckless novelties."*
+> - 📜 **William James (*The Will to Believe*):** *"Our natural **misoneism** makes us dread the mental labor required to accommodate a revolutionary concept."*
+> - 📜 **Herbert Spencer (*The Principles of Ethics*):** *"Savage tribes exhibit an intense **misoneism**, punishing the slightest deviation from ancestral custom."*

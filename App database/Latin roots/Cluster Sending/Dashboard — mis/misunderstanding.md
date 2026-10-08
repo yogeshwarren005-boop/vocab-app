@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misunderstanding
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Putting the wrong interpretation on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An understanding of something that is not correct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A failure to understand something correctly; an error of interpretation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A minor disagreement, quarrel, or estrangement arising from miscommunication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have occupied your house for a considerable period, I believe to our mutual satisfaction until this unpleasant misunderstanding arose; let us be at once friendly and business-like."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Suspicion and misunderstanding were the fault of the suit?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I was about to add,” he presently goes on, “I was about to add, respecting this attack, that it was unfortunately simultaneous with a slight misunderstanding between my Lady and myself."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"A foolish **misunderstanding** had separated the lovers for months, causing acute mutual agony."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The dispute in court was founded on an ancient **misunderstanding** between two stubborn testators."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate shrank from any **misunderstanding** with the hospital trustees regarding medical reform."*

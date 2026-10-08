@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mistaking
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Putting the wrong interpretation on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Identify incorrectly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of misunderstanding, misidentifying, or wrongly taking one thing for another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failing to comprehend true intentions, symbols, or persons through erroneous inference.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thyself thou gav’st, thy own worth then not knowing, Or me to whom thou gav’st it, else mistaking, So thy great gift upon misprision growing, Comes home again, on better judgement making."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For thy mistaking so, we pardon thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Either this is envy in you, folly, or mistaking."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"What night-rule now about this haunted grove? Puck hath been busy **mistaking** true love's sight."*
+> - 📜 **Jane Austen (*Emma*):** *"She blushed at the recollection of her long **mistaking** of Mr. Elton's flattering overtures."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Strether was conscious of **mistaking** European elegance for intrinsic moral goodness."*

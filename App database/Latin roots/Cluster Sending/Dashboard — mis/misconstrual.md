@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misconstrual
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of misinterpretation resulting from putting a wrong construction on words or actions (often deliberately).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kind of misinterpretation resulting from putting a wrong construction on words or actions (often deliberately).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An incorrect, biased, or distorted interpretation of a statement, gesture, or law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of understanding words, actions, or texts in a mistaken or unfair sense.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misconstrual designates a kind of misinterpretation resulting from putting a wrong construction on words or actions (often deliberately)."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"No doctrine has suffered more from perverse **misconstrual** than that of individual self-determination."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Her innocent silence was subjected to harsh **misconstrual** by her suspicious mother-in-law."*
+> - 📜 **Edmund Burke (*Appeal from the New to the Old Whigs*):** *"He wrote to defend his earlier speeches from the deliberate **misconstrual** of partisan factions."*

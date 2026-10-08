@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misreckoning
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mistake in calculating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mistake in calculating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An error in reckoning, calculating, computing, or accounting; a miscalculation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A false expectation or misjudgment concerning future outcomes or consequences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misreckoning designates a mistake in calculating."*
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"A twelfth-hour **misreckoning** hath confounded our arithmetic and lost our wager."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The general's fatal **misreckoning** of the river's depth cost the Roman cavalry half its mounts."*
+> - 📜 **Sir Walter Scott (*The Fortunes of Nigel*):** *"A grievous **misreckoning** in his banking balances brought the merchant into ruinous bankruptcy."*

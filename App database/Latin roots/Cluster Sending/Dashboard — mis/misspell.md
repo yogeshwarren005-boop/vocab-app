@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misspell
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spell incorrectly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spell incorrectly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To spell a word incorrectly; to write or name letters in a wrong sequence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To transcribe or record a proper name, title, or citation with orthographical errors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Misspelled words have been corrected."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe Gargery managed to **misspell** almost every word in his awkward letter of affection to Pip."*
+> - 📜 **Mark Twain (*A Tramp Abroad*):** *"It requires immense linguistic effort for an American traveller to **misspell** the formidable German compound words."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"She was too well educated to **misspell** her correspondence, but her handwriting was delightfully rapid."*

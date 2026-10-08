@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # uncompromising
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not making concessions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not making concessions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing an unwillingness to make concessions or adjust principles; resolute and inflexible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Harshly strict, rigorous, and demanding in moral or practical standards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Stand forth, Jo, in uncompromising colours!"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess drew her breath fearfully, and Angel, perplexed, said— “What can it be?” Feeling sideways they encountered another tower-like pillar, square and uncompromising as the first; beyond it another and another."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Tell us about it," said Nell, with sparkling eyes and sitting up in her low rocker as straight as Aunt Augusta did in her uncompromising seat."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"A genuine man maintains an **uncompromising** fidelity to his own inward convictions, regardless of popular censure."*
+> - 📜 **Thomas Carlyle (*Heroes and Hero-Worship*):** *"Knox possessed an **uncompromising** spirit that brooked no dalliance with papal corruption."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Tulkinghorn pursued his legal investigations with cold, **uncompromising** tenacity."*

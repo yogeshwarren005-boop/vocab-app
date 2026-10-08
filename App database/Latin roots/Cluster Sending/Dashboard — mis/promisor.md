@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # promisor
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes a promise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who makes a promise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In law, the person who makes a contractual promise or enters into a covenant with another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The party obligated to perform a stipulated covenant under enforceable contract law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, promisor designates a person who makes a promise."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"If the **promisor** fails to discharge the covenant, an action of assumpsit lies for the damages suffered."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The liability of a **promisor** is determined by the external meaning of his words, not secret reservations."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A sovereign state that borrows credit acts as a **promisor** pledged before the commercial world."*

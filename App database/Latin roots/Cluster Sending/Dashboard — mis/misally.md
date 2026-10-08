@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misally
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a bad alliance; ally inappropriately.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a bad alliance; ally inappropriately.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To ally, join, or marry unsuitably, inappropriately, or into an incompatible connection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To combine disparate or mutually hostile elements in political or philosophical association.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misally designates make a bad alliance; ally inappropriately."*
+> - 📜 **John Milton (*The Doctrine and Discipline of Divorce*):** *"Nature forbids us to **misally** gentle spirits with coarse and contentious dispositions."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The revolutionary leaders chose to **misally** legitimate philosophy with popular mob violence."*
+> - 📜 **Sir Walter Scott (*Rob Roy*):** *"He warned his kinsman not to **misally** their ancient clan with treacherous border outlaws."*

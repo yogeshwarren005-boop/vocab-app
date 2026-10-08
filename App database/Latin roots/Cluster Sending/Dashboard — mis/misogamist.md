@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misogamist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who hates marriage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who hates marriage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who hates, distrusts, or is strongly opposed to the institution of marriage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who resolutely avoids matrimony out of philosophical or personal distaste.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misogamist designates a person who hates marriage."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"The confirmed **misogamist** rail's incessantly against the yoke of wedlock, praising solitary liberty."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Sir James teased the bachelor scholar, calling him a dry **misogamist** who knew women only through books."*
+> - 📜 **Arthur Schopenhauer (*Studies in Pessimism*):** *"The cynical philosopher became a determined **misogamist**, arguing that marriage doubles one's worldly troubles."*

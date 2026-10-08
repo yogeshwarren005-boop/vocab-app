@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mistake
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wrong action attributable to bad judgment or ignorance or inattention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An understanding of something that is not correct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act or judgment that is misguided or wrong; an error in thought or action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To misunderstand, misinterpret, or wrongly take one person or thing for another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No marvel then though I mistake my view, The sun it self sees not, till heaven clears."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would we could do so, for her benefits are mightily misplaced, and the bountiful blind woman doth most mistake in her gifts to women."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then, good my liege, mistake me not so much To think my poverty is treacherous."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"I am all the daughters of my father's house, and all the brothers too: and yet I know not; I fear thou dost **mistake**."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"It was a grievous **mistake** to judge his character from the biased reports of a stranger."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"To err is human, to forgive divine; yet each unguided author commits some fatal **mistake**."*

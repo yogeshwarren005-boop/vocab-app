@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mistral
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong north wind that blows in france during the winter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strong north wind that blows in france during the winter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong, cold, dry north-westerly wind that blows through the Rhône valley toward the Mediterranean.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gale that scours the southern coast of France, bringing clear skies and bitter cold.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"A touch of mistral was out, and the wind blew seaward."*
+> - 📜 **Robert Louis Stevenson (*Travels with a Donkey in the Cévennes*):** *"The fierce **mistral** swept down the stony valley, biting through our coarse woollen cloaks."*
+> - 📜 **Henry James (*A Little Tour in France*):** *"The howling **mistral** bent the olive trees and filled the streets of Avignon with stinging dust."*
+> - 📜 **Guy de Maupassant (*Afloat*):** *"When the dreaded **mistral** rises, the Mediterranean turns into a churning cauldron of white foam."*

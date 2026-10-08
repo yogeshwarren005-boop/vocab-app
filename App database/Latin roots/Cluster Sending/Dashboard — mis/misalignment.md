@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misalignment
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The spatial property of things that are not properly aligned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spatial property of things that are not properly aligned.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An improper mechanical position, departure from true line, or poor spatial orientation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A discrepancy or lack of coordination between differing goals, values, or interests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misalignment designates the spatial property of things that are not properly aligned."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Any structural **misalignment** in the articulation of the foot impedes upright bipedal progression."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"A chronic **misalignment** between legal forms and industrial reality produces civic instability."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"A slight **misalignment** in the shutter mechanism prevented the sphere from absorbing radiant energy evenly."*

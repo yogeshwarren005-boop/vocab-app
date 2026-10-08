@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mismarry
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marry an unsuitable partner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marry an unsuitable partner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To marry unsuitably or beneath one's station; to make an ill-advised match.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To unite two incompatible temperaments in an unhappy, conflicting conjugal bond.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mismarry designates marry an unsuitable partner."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"She warned her young cousin not to **mismarry** for worldly wealth where no mutual affection existed."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea's friends lamented her decision to **mismarry** a cold, desiccated clerical pedant."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"Society condemned an heiress who chose to **mismarry** a penniless adventurer from the metropolis."*

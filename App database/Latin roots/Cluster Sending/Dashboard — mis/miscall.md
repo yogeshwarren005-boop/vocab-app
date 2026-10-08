@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # miscall
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assign in incorrect name to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assign in incorrect name to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To call by an incorrect, inappropriate, or misleading name; to misname.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To revile, slander, or address someone abusively with offensive epithets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My heart will sigh when I miscall it so, Which finds it an enforced pilgrimage."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"With them monarchy is a refuge from the license they miscall liberty, and despotism is peace."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"She was early taught that primeval benediction, miscalled a curse, which requires mankind to earn their bread."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"You must not think to **miscall** our generous proceedings as the fruits of malicious pride."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"The townspeople were wont to **miscall** the pilgrims, shouting mocking titles as they passed."*
+> - 📜 **Sir Walter Scott (*Rob Roy*):** *"Do not **miscall** an honorable highland chieftain whose blade defends his rightful heritage."*

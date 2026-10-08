@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misappropriation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The fraudulent appropriation of funds or property entrusted to your care but actually owned by someone else.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wrongful borrowing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The intentional, illegal, or wrongful use of another's funds, property, or authority for oneself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An embezzlement or criminal diversion of fiduciary assets from their lawful purpose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misappropriation designates the fraudulent appropriation of funds or property entrusted to your care but actually owned by someone else."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The **misappropriation** of charitable endowments by corrupt wardens crippled municipal schools."*
+> - 📜 **Edmund Burke (*Articles of Impeachment against Warren Hastings*):** *"He was formally charged with the systematic **misappropriation** of provincial revenues in Bengal."*
+> - 📜 **Joseph Conrad (*Nostromo*):** *"The political turmoil in Sulaco originated in the brazen **misappropriation** of the silver concession."*

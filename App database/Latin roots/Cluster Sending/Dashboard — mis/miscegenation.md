@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # miscegenation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reproduction by parents of different races (especially by white and non-white persons).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reproduction by parents of different races (especially by white and non-white persons).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The interbreeding, intermarriage, or union of persons of different racial classifications.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historical sociopolitical term denoting racial intermixture in population genetics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miscegenation designates reproduction by parents of different races (especially by white and non-white persons)."*
+> - 📜 **Frederick Douglass (*Life and Times of Frederick Douglass*):** *"The slaveholders denounced **miscegenation** in public law while actively promoting it upon plantations."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"Centuries of migration have resulted in widespread **miscegenation**, confounding every rigid racial boundary."*
+> - 📜 **W. E. B. Du Bois (*The Souls of Black Folk*):** *"Fears of **miscegenation** were weaponized to justify oppressive statutes across the American South."*

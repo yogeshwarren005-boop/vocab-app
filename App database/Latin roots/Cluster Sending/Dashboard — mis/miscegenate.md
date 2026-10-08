@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # miscegenate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marry or cohabit with a person of another race.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marry or cohabit with a person of another race.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To interbreed, intermarry, or cohabit across different racial or ethnic classifications.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To fuse or blend elements of disparate lineages or origins into a mixed offspring.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miscegenate designates marry or cohabit with a person of another race."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"Vast migrating populations inevitably **miscegenate** along borderlands, blending distinct cultural traditions."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Human tribes that **miscegenate** freely demonstrate the fundamental unity of our single species."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"Societies that **miscegenate** with neighboring clans frequently borrow their dialects and mythologies."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # commissioner
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A government administrator.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a commission.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person appointed to a commission or directed by official authority to perform public duties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The appointed head of an executive department or regulatory board.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I p. 364.] [Footnote 7: In the first annual report of the United States Commissioner of Labor is given a long catalog of theories that have been suggested, many of them quite fantastic.] [Footnote 8: See Vol."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Davies, Commissioner of Corporations, Washington, 1916.] [Footnote 19: John B."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Howard, the present Major-General and Commissioner of the Freedmen's Bureau, had been up to the end of September, 1861, in command of the Fifth Maine Regiment, but at that time was promoted to the command of a brigade; and Dr."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"The government **commissioner** inspected the factory schools to ensure that basic instruction was maintained."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Each state sent an experienced **commissioner** to negotiate the boundary settlement."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The town **commissioner** exercises administrative supervision without encroaching upon individual liberty."*

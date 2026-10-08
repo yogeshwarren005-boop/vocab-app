@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mister
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of address for a man.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of address for a man.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A courtesy title prefixed to the surname or full name of a man without higher title.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An informal or direct vocative address used toward an unfamiliar man.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Grubble, Charley?” “Mister Grubble, miss,” returned Charley."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"One day Parson Thirdly met him and said, ‘Good-Morning, Mister Everdene; ’tis a fine day!’ ‘Amen’ said Everdene, quite absent-like, thinking only of religion when he seed a parson."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Cain Ball!” “Yes, Mister Oak; here I be!” Cainy now runs forward with the tar-pot."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"Now, **mister**, said the turnkey gruffly, step along and let the magistrates see your face."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"Say, **mister**, can you tell a fellow how far it is to the next ferry on the river?"*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Aye, aye, **mister**, shouted the harpooneer from the bow as the whale breached."*

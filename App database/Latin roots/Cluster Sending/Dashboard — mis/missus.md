@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # missus
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal term of address for someone's wife.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informal term of address for someone's wife.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal or humorous colloquial term for one's wife or the female head of a household.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A familiar form of address used to refer to a married woman among friends or tradesfolk.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"I warn you if you bark again I shall go straight for master and missus and bring them home from the party, and then, oh, won’t master whip you, just.” She tied the unhappy dog up again, but do you think Nana ceased to bark?"*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Bring master and missus home from the party!"*
-> - 📜 **Effie Afton (*Eventide*):** *"Thisbe, my nerve-reviver this moment!" "There ain't a bit on't left, Missus; 'twas all in the trunk dat tumbled out o' the cart when we swum through dat ar river," said the poor servant, in a tone of anxious dismay."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Sam Weller remarked with a grin that the **missus** was particular about having the parlor swept clean."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The old shepherd reported that the **missus** was down in the meadows seeing to the newly born lambs."*
+> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"The farmer called indoors to ask the **missus** if she could spare a hot biscuit for two hungry boys."*

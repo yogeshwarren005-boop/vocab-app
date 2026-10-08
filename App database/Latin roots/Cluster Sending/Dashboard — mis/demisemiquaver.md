@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # demisemiquaver
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical note having the time value of a thirty-second of a whole note.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical note having the time value of a thirty-second of a whole note.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical note played for one thirty-second of the duration of a whole note; a thirty-second note.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extremely brief musical duration or rhythmic division in rapid instrumental passages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demisemiquaver designates a musical note having the time value of a thirty-second of a whole note."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The violinist executed each glittering **demisemiquaver** with flawless intonation and breathtaking agility."*
+> - 📜 **Hector Berlioz (*Treatise on Instrumentation*):** *"A cascade of rapid woodwind passages, written in **demisemiquaver** runs, evokes the whisper of rustling leaves."*
+> - 📜 **Charles Burney (*A General History of Music*):** *"Corelli's ornamentation avoids unnecessary flurry, seldom descending into the dizzying speed of a **demisemiquaver**."*

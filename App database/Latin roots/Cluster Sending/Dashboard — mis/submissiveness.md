@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # submissiveness
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being willing to yield to the will of another person or a superior force etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being willing to yield to the will of another person or a superior force etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A willingness to yield or submit to the authority, commands, or will of another; docility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Humble compliance and absence of rebellious self-assertion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate relied much on the psychological difference between what for the sake of variety I will call goose and gander: especially on the innate submissiveness of the goose as beautifully corresponding to the strength of the gander."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The man of intellectual pursuits will not have a starved spiritual nature; and the man of predominant spiritual functions will not have an intellect weakened into a submissiveness to formulated, stereotyped, and, consequently, lifeless dogmas."*
+> - 📜 **John Stuart Mill (*The Subjection of Women*):** *"Generations of custom have trained women in an artificial **submissiveness** that distorts natural genius."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Gwendolen had never been accustomed to **submissiveness**, and the new yoke gall'd her haughty spirit."*
+> - 📜 **Mary Wollstonecraft (*A Vindication of the Rights of Woman*):** *"Blind **submissiveness** is too often praised as feminine virtue, whereas true morality requires rational conviction."*

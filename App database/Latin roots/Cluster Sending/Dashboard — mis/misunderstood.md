@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misunderstood
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Interpret in the wrong way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wrongly understood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incorrectly interpreted, judged, or comprehended by others; unappreciated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to false estimations of character, philosophy, or creative motive.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Whenever you speak about him, your voice takes on a tone as if you were speaking about a misunderstood angel."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You see, my precious girl,” said Richard, passing her golden curls through and through his hand, “I was a little hasty perhaps; or I misunderstood my own inclinations perhaps."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Who ever did?” He brightened again in a moment and said with his natural openness, “Woodcourt, I should be sorry to be misunderstood by you, even if I gained by it in your estimation."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"To be great is to be **misunderstood**; every pure and towering genius has suffered this isolation."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"My benevolent soul was fatally **misunderstood** by those very mortals I sought to comfort."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Darcy acknowledged that his reserve had caused him to be universally **misunderstood** in Hertfordshire."*

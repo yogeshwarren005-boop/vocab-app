@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # miscible
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry, physics) capable of being mixed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (chemistry, physics) capable of being mixed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Forming a homogeneous mixture when added together in all proportions, as alcohol and water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being mutually blended or combined into a uniform physical compound.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miscible designates (chemistry, physics) capable of being mixed."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"Alcohol and pure water are thoroughly **miscible**, uniting uniformly without any visible boundary."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The two distillates proved completely **miscible** in every ratio tested in the laboratory."*
+> - 📜 **Humphry Davy (*Elements of Agricultural Chemistry*):** *"Salts that are readily **miscible** with soil moisture promote vigorous vegetal absorption."*

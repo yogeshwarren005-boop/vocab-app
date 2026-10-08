@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misrelated
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mistakenly related.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mistakenly related.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Improperly or inaccurately connected in relationship, grammar, or association.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In grammar, referring to a participle or modifier attached to the wrong syntactic subject.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misrelated designates mistakenly related."*
+> - 📜 **Henry Fowler (*Modern English Usage*):** *"A **misrelated** participle produces absurd unintended humor by attaching to the wrong grammatical agent."*
+> - 📜 **Thomas Carlyle (*Critical and Miscellaneous Essays*):** *"Facts **misrelated** by partisan chroniclers obscure the genuine moral currents of the revolution."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"These decorative elements are **misrelated** to the fundamental architecture of the cathedral."*

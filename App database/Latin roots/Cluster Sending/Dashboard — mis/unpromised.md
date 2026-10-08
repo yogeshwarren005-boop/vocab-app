@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # unpromised
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not promised in marriage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not promised in marriage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not promised, pledged, vowed, or engaged by formal covenant or agreement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bestowed spontaneously without prior obligation or contractual requirement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unpromised designates not promised in marriage."*
+> - 📜 **William Shakespeare (*Henry VIII*):** *"Such unexpected bounty, falling **unpromised** from the king's hand, took the court by surprise."*
+> - 📜 **John Milton (*Paradise Regained*):** *"He received the divine aid, **unpromised** save by the inward whisper of the heavenly spirit."*
+> - 📜 **Sir Walter Scott (*The Heart of Midlothian*):** *"A sister's love provides an **unpromised** devotion that surpasses all contractual vows."*

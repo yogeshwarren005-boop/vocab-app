@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # surmisable
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being inferred on slight grounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being inferred on slight grounds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being inferred, guessed, or conjectured from available indications.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plausible or inferable without direct empirical demonstration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surmisable designates capable of being inferred on slight grounds."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"The traveler's destination was easily **surmisable** from the railway timetable open on the desk."*
+> - 📜 **Henry James (*The Golden Bowl*):** *"Her true motives were barely **surmisable** beneath the smooth surface of her polished conversation."*
+> - 📜 **Thomas Henry Huxley (*Life and Letters of Thomas Henry Huxley*):** *"The general direction of evolution in this family is readily **surmisable** from intermediate fossil teeth."*

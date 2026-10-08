@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mission
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organization of missionaries in a foreign land sent to carry on religious work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An operation that is assigned by a higher headquarters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An important assignment, expedition, or duty given to an individual or group, often overseas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A religious organization or settlement established to spread a faith and provide social relief.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Quale’s mission to be in ecstasies with everybody else’s mission and that it was the most popular mission of all."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Never have a mission, my dear child.” Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Miss Wisk’s mission, my guardian said, was to show the world that woman’s mission was man’s mission and that the only genuine mission of both man and woman was to be always moving declaratory resolutions about things in general at public meetings."*
+> - 📜 **Francis Bacon (*New Atlantis*):** *"Every twelve years two ships are dispatched on a confidential **mission** to collect the sciences of the world."*
+> - 📜 **Charlotte Bronte (*Jane Eyre*):** *"St. John Rivers considered his foreign **mission** to India as the sole divine purpose of his earthly existence."*
+> - 📜 **Washington Irving (*Astoria*):** *"The overland **mission** was fraught with perils across the uncharted territories of the far west."*

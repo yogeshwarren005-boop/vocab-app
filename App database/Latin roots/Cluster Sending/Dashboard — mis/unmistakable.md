@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # unmistakable
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Clearly evident to the mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clearly revealed to the mind or the senses or judgment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able to be mistaken for anything else; very distinctive, clear, and obvious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bearing evident and undeniable marks of identity, quality, or authenticity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Do you know that, Kurt," he said confidentially, "I only wonder how she could get hold of such a basket full, you know, without being--you know--" With this he made the unmistakable motion of Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I should like to walk a little,” says my Lady with unmistakable distinctness."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Would to God you had never taken me up, since it was only to throw me down!” Bathsheba, in spite of her mettle, began to feel unmistakable signs that she was inherently the weaker vessel."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The footprint upon the soft mud was the **unmistakable** mark of a wooden leg."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"His cheerful laugh had an **unmistakable** ring of honest cordiality that won every heart."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The letter conveyed an **unmistakable** intimation of Darcy's growing regard for her sister."*

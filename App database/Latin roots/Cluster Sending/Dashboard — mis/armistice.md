@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # armistice
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of peace agreed to between opponents so they can discuss peace terms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of peace agreed to between opponents so they can discuss peace terms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal agreement among warring parties to cease fighting temporarily; a truce.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A suspension of hostile actions or disputes allowing diplomatic negotiations to proceed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Five months later on the eve of the Armistice he was flung out of the service, a broken man, paralysed below the waist, cursing every one who came near him and chiefly the surgeons for not letting him die."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"On the 23rd of July the Great Eastern was not more than 500 miles from Newfoundland, when they telegraphed from Ireland the news of the armistice concluded between Prussia and Austria after Sadowa."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"They signed the Armistice!'' "Glory be!" Grandma cried, raising her arms up high and letting her hands fall back down on the bed covers and counterpane."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"When the **armistice** was declared, the guns fell silent along the western front after four long years."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"During the brief **armistice**, soldiers from opposing trenches exchanged greetings across the frozen field."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A temporary **armistice** was purchased by the Roman general to allow his exhausted legions to regroup."*

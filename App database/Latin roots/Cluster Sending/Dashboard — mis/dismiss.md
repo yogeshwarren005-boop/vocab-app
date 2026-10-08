@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # dismiss
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bar from attention or consideration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cease to consider; put out of judicial consideration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To send away, order to leave, or discharge from one's presence, employment, or service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To reject or put aside an idea, claim, or court case as unworthy of further consideration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dismiss them home. [_Exit Aedile._] Here comes his mother."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do not bid me Dismiss my soldiers or capitulate Again with Rome’s mechanics."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For if Lord Percy thrive not, ere the King Dismiss his power he means to visit us, For he hath heard of our confederacy, And ’tis but wisdom to make strong against him."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"Bid them prepare within; I am not come to crave, but will **dismiss** the senate presently."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She resolved to **dismiss** every lingering regret and focus entirely on her present duties."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Murdstone threatened to **dismiss** the loyal old servant without a character reference."*

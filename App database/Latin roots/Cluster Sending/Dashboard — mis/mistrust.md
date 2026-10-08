@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mistrust
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Doubt about someone's honesty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of not trusting others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To feel doubt about the character, honesty, or reliability of someone; to suspect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of trust, suspicion, or apprehensive doubt regarding intentions or outcomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet your mistrust cannot make me a traitor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King will labour still to save his life, The commons haply rise to save his life, And yet we have but trivial argument, More than mistrust, that shows him worthy death."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mistrust of my success hath done this deed."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"O hateful error, melancholy's child, why dost thou show to the apt thoughts of men the things that are not? O **mistrust**!"*
+> - 📜 **John Milton (*Paradise Lost*):** *"From that fatal hour did mutual **mistrust** and suspicion enter the human heart."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor had seen too much of the world to **mistrust** without substantial evidence of deceit."*

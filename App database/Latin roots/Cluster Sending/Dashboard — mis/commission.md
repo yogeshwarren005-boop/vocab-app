@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # commission
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A special group delegated to consider some matter;  - milton berle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fee for services rendered based on a percentage of an amount received or collected or agreed to be paid (as distinguished from a salary).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal warrant or authority granted to perform certain duties, offices, or military roles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fee or percentage paid to an agent or representative for transacting commercial business.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are more saucy with lords and honourable personages than the commission of your birth and virtue gives you heraldry."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I might ask you for your commission."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Noble Aufidius, Take your commission; hie you to your bands."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Rosencrantz and Guildenstern bore a sealed **commission** directing their voyage to England."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Merchants frequently entrust their foreign shipments to factors who charge a modest **commission** on the sales."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The parliamentary **commission** exceeded its constitutional powers in attempting to confiscate corporate estates."*

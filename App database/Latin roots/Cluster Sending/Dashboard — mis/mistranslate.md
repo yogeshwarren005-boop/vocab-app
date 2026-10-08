@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mistranslate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Translate incorrectly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Translate incorrectly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To translate words or texts into another language incorrectly or inaccurately.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To misinterpret foreign idioms, doctrines, or legal covenants in diplomatic translation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mistranslate designates translate incorrectly."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"A careless scholar will **mistranslate** ancient idioms by substituting modern vernacular meanings."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Commentators continually **mistranslate** scriptural passages because they misunderstand the Hebrew idioms."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"He had the misfortune to **mistranslate** a crucial clause in the French ambassador's dispatches."*

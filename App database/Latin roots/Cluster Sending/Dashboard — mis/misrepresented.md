@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misrepresented
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Represent falsely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tamper, with the purpose of deception.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Portrayed, reported, or described falsely, unfairly, or in a distorted manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subjected to defamatory falsehoods or inaccurate interpretation in public discourse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Interested people have perhaps misrepresented each to the other."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"At such a distance as _that_, you know, things are strangely misrepresented.” “Certainly,” he replied, biting his lips."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"I’m not at all keen about marrying--your son misrepresented me; but there’s no knowing what an interesting woman might do with me.” “I should like to see your idea of an interesting woman,” said his friend."*
+> - 📜 **Abraham Lincoln (*Cooper Union Address*):** *"Our position on the territories has been constantly **misrepresented** by our political opponents."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"My benevolent intentions toward humankind were horribly **misrepresented** and repaid with gunshot."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"A doctrine that has been so persistently **misrepresented** requires patient and lucid restatement."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misnomer
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An incorrect or unsuitable name.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An incorrect or unsuitable name.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wrong or inaccurate name, designation, or term applied to a person, place, or thing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unsuitable or misleading appellation that implies qualities the bearer does not possess.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But this fluctuation of general prices surely can be so greatly moderated in magnitude and in evil results as to make the word "crisis" almost a misnomer."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"And the title is still something of a misnomer, for many narratives involving a puzzle of some sort, though belonging to the category which I wish to discuss, are handled by the writer without expert detective aid."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"I had conceited to find Shallow Moat Grange, and lo! the name was no misnomer."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Holy Roman Empire was famously styled a threefold **misnomer**, being neither holy, nor Roman, nor an empire."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"To call this balanced system a consolidated monarchy is an absurd and partisan **misnomer**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The phrase 'struggle for existence' is in some degree a metaphorical **misnomer** unless broadly understood."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mischief-making
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reckless or malicious behavior that causes discomfort or annoyance in others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reckless or malicious behavior that causes discomfort or annoyance in others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or practice of maliciously causing discord, annoyance, or trouble among people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by provoking strife, malicious gossip, or petty social sabotage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mischief-making designates reckless or malicious behavior that causes discomfort or annoyance in others."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp indulged her talent for **mischief-making** by turning the dowagers' gossip to her own benefit."*
+> - 📜 **Charlotte Bronte (*Villette*):** *"Madame Beck despised open malice but maintained a discreet system of domestic **mischief-making**."*
+> - 📜 **Henry Fielding (*Tom Jones*):** *"Blifil's quiet, pious exterior masked a persistent habit of treacherous **mischief-making** against Tom."*

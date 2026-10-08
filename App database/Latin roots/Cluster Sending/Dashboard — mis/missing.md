@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # missing
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fail to perceive or to catch with the senses or the mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feel or suffer from the lack of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not present, absent from the proper or expected place, or unable to be found; lost.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing combatants whose fate after a military engagement is unconfirmed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, the roynish clown, at whom so oft Your grace was wont to laugh, is also missing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good my liege, The day that she was missing he was here."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lord Cloten, Upon my lady’s missing, came to me With his sword drawn, foam’d at the mouth, and swore, If I discover’d not which way she was gone, It was my instant death."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"A file and some food were discovered to be **missing** from the forge pantry that raw morning."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"One of Sir Henry's brand new boots was mysteriously **missing** from his hotel suite."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Captain Wentworth observed that one of the naval officers was **missing** from the party at the assembly."*

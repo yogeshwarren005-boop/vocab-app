@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mislabeled
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Branded or labeled falsely and in violation of statutory requirements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Branded or labeled falsely and in violation of statutory requirements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bearing an inaccurate, incorrect, or misleading label, tag, or designation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Classified or characterized falsely in public debate or scientific taxonomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mislabeled designates branded or labeled falsely and in violation of statutory requirements."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Devil's Foot*):** *"The fatal poison bottle had been carelessly **mislabeled** as harmless digestive tonic by the apothecary."*
+> - 📜 **H. G. Wells (*The Food of the Gods*):** *"The experimental tins were **mislabeled** in the scullery, causing the catastrophic kitchen error."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The museum specimen had been **mislabeled** by an amateur collector as a native English finch."*

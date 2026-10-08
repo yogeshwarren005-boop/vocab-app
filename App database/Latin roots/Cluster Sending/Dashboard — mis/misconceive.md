@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misconceive
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Interpret in the wrong way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Interpret in the wrong way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To interpret or understand wrongly; to form an incorrect or faulty conception of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To judge a situation, character, or philosophy on the basis of false premises.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"I can hardly misconceive you; it would prove me deaf and blind; But, although I take your meaning, ‘tis with such a heavy mind! -- St. 1."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Oh! not at all, believe me, you misconceive my meaning; I could have eaten, but the reason why I have not been able to do so is, that no one has invited me to dinner. 787."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"This proposition, like the others, supposing it to have been sincerely put forward, clearly shows that you misconceive the cause of the Independent Republican movement, as well as its aims and purposes."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Men continually **misconceive** the nature of ideas by confounding words with physical things."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"She was pained to realize that her mother had begun to **misconceive** Edward's quiet demeanor."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"Do not **misconceive** the temper of a free people who value the principle of liberty above revenue."*

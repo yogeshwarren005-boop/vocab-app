@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misocainea
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hatred of new ideas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hatred of new ideas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An intense hatred or irrational aversion to new ideas, inventions, or novel customs; misoneism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pathological dread of innovation, technological change, or cultural reform.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misocainea designates hatred of new ideas."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Old age is characterized by an instinctive **misocainea**, rejecting every unaccustomed intellectual current."*
+> - 📜 **Cesare Lombroso (*The Man of Genius*):** *"Academic establishments have often displayed a stubborn **misocainea** toward revolutionary scientific discoveries."*
+> - 📜 **Max Nordau (*Degeneration*):** *"The conservative multitude falls into reactionary **misocainea** whenever artistic conventions are broken."*

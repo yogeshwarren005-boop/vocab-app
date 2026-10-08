@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misinterpretation
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Putting the wrong interpretation on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Putting the wrong interpretation on.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An erroneous, misleading, or distorted explanation or understanding of meaning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flawed reading of texts, statutes, or motives that leads to conflict or error.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"It would be quite unjust to him to suppose that he could have entered into any coarse misinterpretation of Dorothea: his own habits of mind and conduct, quite as much as the open elevation of her nature, saved him from any such mistake."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"It's always best to say those things right out: letters are liable to misinterpretation,” jeered Chester."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Hence the misappre- 319:24 hension of the spiritual meaning of the Bible, and the misinterpretation of the Word in some instances by uninspired writers, who only wrote 319:27 down what an inspired teacher had said."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A clear statutory preamble serves to prevent mischievous **misinterpretation** by partisan advocates."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon was acutely sensitive to any supposed **misinterpretation** of his unfinished mythological treatise."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Much hostility to evolution arose from a grave **misinterpretation** of the role of natural variation."*

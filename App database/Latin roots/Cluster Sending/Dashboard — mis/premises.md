@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # premises
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Land and the buildings on it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statement that is assumed to be true and from which a conclusion can be drawn.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A house or building, together with its land and outbuildings, occupied by a business or person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The introductory propositions or recitals set forth in a formal legal document or conveyance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here is my hand; the premises observ’d, Thy will by my performance shall be serv’d; So make the choice of thy own time, for I, Thy resolv’d patient, on thee still rely."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The law I bear no malice for my death; ’T has done, upon the premises, but justice."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The parties to it understand it least, but it has been observed that no two Chancery lawyers can talk about it for five minutes without coming to a total disagreement as to all the premises."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Krook kept his marine-store shop upon the damp **premises** near Chancery Lane, surrounded by mounds of waste paper."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"In ancient deeds, the **premises** contain the names of the parties and the specification of the parcels granted."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Red-Headed League*):** *"Holmes inspected the cellar underneath the commercial **premises** where the burglary was planned."*

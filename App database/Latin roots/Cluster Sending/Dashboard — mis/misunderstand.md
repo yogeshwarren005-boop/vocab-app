@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misunderstand
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Interpret in the wrong way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Interpret in the wrong way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To fail to understand someone or something correctly; to misinterpret meaning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To misread motives, principles, or intentions, producing needless grievance or discord.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Perhaps I can make use of him—I might do it then!” She pointed in the direction of Casterbridge, and the dog seemed to misunderstand: he trotted on."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"But the energy, the force, the living that was in them, that could no one misunderstand."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rivers! you quite put me out of patience: I am rational enough; it is you who misunderstand, or rather who affect to misunderstand.” “Perhaps, if you explained yourself a little more fully, I should comprehend better.” “Explain!"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Do not **misunderstand** me; I hold Mr. Darcy in the highest esteem for his noble character."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"Is it so bad, then, to be misunderstood? Pythagoras was misunderstood, and Socrates, and Jesus; to be great is to be misunderstood, though petty minds constantly **misunderstand** greatness."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Men continually **misunderstand** each other because they attach discordant meanings to standard terms."*

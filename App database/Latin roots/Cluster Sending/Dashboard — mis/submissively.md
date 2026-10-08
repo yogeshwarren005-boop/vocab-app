@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # submissively
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a servile manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a servile manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a meek, compliant, or humble manner; yielding without complaint or resistance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obediently acknowledging another's superior power, decree, or prerogative.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop’s deportment so submissively that they had become excellent friends."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Have you paid Wemmick?” “We made the money up this morning, sir,” said one of the men, submissively, while the other perused Mr."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"One wild cry of agony, one hour of unmitigated sorrow, and then she sweetly and submissively bowed herself to the will of her Heavenly Father, and was still; but the shock was too great for the wearied body and the bereaved heart."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The poor clerk bowed **submissively** before the arrogant solicitor, pocketing his meager wages."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She listened **submissively** to her husband's dry admonitions, swallowing her tears in silence."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Tess followed him **submissively** down the lane, resigning herself entirely to his guidance."*

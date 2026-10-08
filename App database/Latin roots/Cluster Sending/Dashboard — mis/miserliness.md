@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # miserliness
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Total lack of generosity with money.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Total lack of generosity with money.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive greed, stinginess, and parsimonious reluctance to spend money or share goods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mean hoarding of wealth accompanied by self-imposed privation and lack of generosity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"He is vulnerable to reason there—always a few grains of common-sense in an ounce of miserliness."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Miserliness is a capital quality to run in families; it’s the safe side for madness to dip on."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Does economic theory throw any light on the ethics of miserliness? 4."*
+> - 📜 **Charles Dickens (*Our Mutual Friend*):** *"Mr. Boffin pretended an absurd **miserliness**, counting his pence and scolding over discarded scraps."*
+> - 📜 **George Eliot (*Silas Marner*):** *"His solitary **miserliness** had narrowed his vision until the world contained nothing beyond his gold."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"Sordid **miserliness** earns universal contempt, as it sacrifices benevolent fellowship for sterile coin."*

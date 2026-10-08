@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misspeak
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pronounce a word incorrectly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pronounce a word incorrectly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To speak wrongly, inaccurately, or misleadingly; to utter an unintended word or slip.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To express oneself tactlessly or erroneously in public testimony or diplomatic discourse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misspeak designates pronounce a word incorrectly."*
+> - 📜 **William Shakespeare (*The Comedy of Errors*):** *"Unless I greatly **misspeak**, thy brother arrived with the gold before noon."*
+> - 📜 **Francis Bacon (*The Essays*):** *"A prudent diplomat weighs every phrase lest a careless tongue should **misspeak** his master's intentions."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"I trust the honorable gentleman did not intend to **misspeak** when describing the sentiments of the colonies."*

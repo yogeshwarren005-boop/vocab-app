@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misogamy
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hatred of marriage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hatred of marriage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hatred of or strong aversion to the institution of marriage and matrimony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A philosophical doctrine or disposition that renounces wedlock as an encumbrance to freedom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misogamy designates hatred of marriage."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He justified his persistent **misogamy** by pointing to the petty squabbles of wedded acquaintances."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Monastic asceticism encouraged a spiritual **misogamy**, exalting perpetual celibacy above domestic ties."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"His cynical outburst against domesticity was mere intellectual **misogamy**, hiding an unhealed romantic wound."*

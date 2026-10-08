@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # remiss
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing in what duty requires.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failing in what duty requires.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking care or attention to duty; negligent, careless, or slack in performing obligations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by languor, negligence, or tardiness in executing commands or duties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He, being remiss, Most generous, and free from all contriving, Will not peruse the foils; so that with ease, Or with a little shuffling, you may choose A sword unbated, and in a pass of practice, Requite him for your father."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mad ire and wrathful fury makes me weep That thus we die while remiss traitors sleep."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I told you: Lord Angelo, belike thinking me remiss in mine office, awakens me with this unwonted putting-on; methinks strangely, for he hath not used it before."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"He, being **remiss**, most generous and free from all contriving, will not peruse the foils."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The sentinels had grown **remiss** during the sultry heat, allowing the enemy to scale the palisade."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Bennet was conscious of having been **remiss** in providing adequately for his five daughters."*

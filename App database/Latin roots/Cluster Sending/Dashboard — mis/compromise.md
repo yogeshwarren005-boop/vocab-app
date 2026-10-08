@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # compromise
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A middle way between two extremes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An accommodation in which both sides make concessions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A settlement of differences by mutual concessions; an adjustment of conflicting claims.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To expose to danger, suspicion, or dishonor through indiscreet or reckless behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hast thou by secret means Used intercession to obtain a league, And, now the matter grows to compromise, Stand’st thou aloof upon comparison?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall we, upon the footing of our land, Send fair-play orders and make compromise, Insinuation, parley, and base truce To arms invasive?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wars hath not wasted it, for warred he hath not, But basely yielded upon compromise That which his ancestors achieved with blows."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"All government, indeed every human benefit and enjoyment, every virtue, and every prudent act, is founded on **compromise** and barter."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The plan was the result of a spirit of accommodation and **compromise** between divergent state interests."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He refused to **compromise** his scientific principles to curry favor with wealthy patrons."*

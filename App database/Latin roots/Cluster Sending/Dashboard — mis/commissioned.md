@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # commissioned
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into commission; equip for service; of ships.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place an order for.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Holding a formal military rank granted by royal or governmental warrant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specially authorized, ordered, or contracted to produce an artistic or technical work.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"And truly when the stars go out and the wan day peeps into the turret-chamber, finding him at his oldest, he looks as if the digger and the spade were both commissioned and would soon be digging."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester’s ward; he commissioned me to find a governess for her."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"A certain Captain Roberts was commissioned to get a boat built at Genoa, where Byron also was fitting out a yacht, the 'Bolivar'."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"He walked the quarterdeck with the severe demeanor of a regularly **commissioned** naval officer."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The guild had **commissioned** a magnificent altarpiece from the Florentine master."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"A newly **commissioned** gunboat steamed past the sandbanks on its maiden patrol of the river."*

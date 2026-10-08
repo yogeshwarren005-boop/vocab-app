@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # commissioning
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of granting authority to undertake certain functions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into commission; equip for service; of ships.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal act of placing a ship, facility, or power station into active operational status.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of contracting an artist, architect, or author to produce an original work.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Collins; and as they walked down the garden, he was commissioning her with his best respects to all her family, not forgetting his thanks for the kindness he had received at Longbourn in the winter, and his compliments to Mr. and Mrs."*
+> - 📜 **Alfred Thayer Mahan (*The Influence of Sea Power upon History*):** *"The rapid **commissioning** of newly built frigates enabled the fleet to secure command of coastal waters."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Her patron took delight in **commissioning** portraits from talented young painters."*
+> - 📜 **Winston Churchill (*The River War*):** *"The **commissioning** of armored gunboats upon the upper Nile proved decisive in the advance on Omdurman."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misrepresent
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Represent falsely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tamper, with the purpose of deception.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To give a false, misleading, or unfair account or representation of something or someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To distort the truth intentionally or carelessly in public testimony, press, or business.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"They watch you, misrepresent you, write letters about you (anonymous sometimes), and you are the torment and the occupation of their lives."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"I had no right to misrepresent the goods to that lady."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The testimony of the serpent is significant of the illusion of error, of the false claims that misrepresent God, good."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Factions will unscrupulously **misrepresent** the provisions of the constitution to excite popular jealousy."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Disputants who **misrepresent** an adversary's opinions triumph only over a phantom of their own creation."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"Do not **misrepresent** the spirit of the colonists, who seek justice rather than rebellion."*

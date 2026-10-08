@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mistakable
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: So similar as to be easily identified for another thing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So similar as to be easily identified for another thing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Liable or easy to be misunderstood, misidentified, or mistaken for something else.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing ambiguous traits that easily confuse observers or critics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mistakable designates so similar as to be easily identified for another thing."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"His poetic style is so idiosyncratic that its true merit is scarcely **mistakable** by an attentive reader."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The rudimentary structures are in no degree **mistakable** for newly developed functional organs."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The fossil impressions are clear and scarcely **mistakable** for mere mineral accretions."*

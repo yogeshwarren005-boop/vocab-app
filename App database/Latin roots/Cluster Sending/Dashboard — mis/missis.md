@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # missis
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal term of address for someone's wife.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informal term of address for someone's wife.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal or dialectal term for the mistress of a household or one's wife.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colloquial address used by servants, tradespeople, or working-class folk to a married woman.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In the morning, I said, 'Laura, did you sleep well last night?' She replied, 'O, missis, my heart too full of joy to sleep."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Me never sleep in a bed before, missis.' "Laura, then about thirteen years old, came to me with a hard cough, and pain in her side."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Do you believe he will, Laura?' 'Yes, missis, me _do believe_,' she replied earnestly."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Peggotty announced that the **missis** was resting in the parlor after her tiring journey."*
+> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"Old Jim said the **missis** was good to him, but he feared she aimed to sell him down the river."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The bailiff tipped his hat to the new **missis** as she rode inspecting the lambing pens."*

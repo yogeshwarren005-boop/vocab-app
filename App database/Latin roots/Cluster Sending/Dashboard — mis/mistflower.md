@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mistflower
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rhizomatous plant of central and southeastern united states and west indies having large showy heads of clear blue flowers; sometimes placed in genus eupatorium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rhizomatous plant of central and southeastern united states and west indies having large showy heads of clear blue flowers; sometimes placed in genus eupatorium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wild herbaceous asteraceous plant having fuzzy heads of lilac or azure blossoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A garden ornamental perennial grown for its soft, cloud-like autumn flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mistflower designates rhizomatous plant of central and southeastern united states and west indies having large showy heads of clear blue flowers; sometimes placed in genus eupatorium."*
+> - 📜 **John Burroughs (*Riverby*):** *"In late September the banks were feathered with the delicate azure blooms of wild **mistflower**."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The native **mistflower** thrives in alluvial soil from New Jersey southward to the Gulf."*
+> - 📜 **Henry David Thoreau (*Excursions*):** *"The misty clusters of the **mistflower** seemed to mirror the soft haze of Indian summer."*

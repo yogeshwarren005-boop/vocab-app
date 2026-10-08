@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misanthrope
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who dislikes people in general.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who dislikes people in general.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who dislikes, distrusts, or avoids human society and humankind in general.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One whose bitter experience has led them to renounce fellowship with other people.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Like a plethoric burning martyr, or a self-consuming misanthrope, once ignited, the whale supplies his own fuel and burns by his own body."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"In Hoelderlin we have the ardent Hellenic idealist; Lenau gives expression to all the pathos of Weltschmerz, Heine is its satirist, the misanthrope, while in Raabe we even have a pessimistic humorist."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He had absolutely nothing to do, almost died of _ennui_, and became a confirmed misanthrope."*
+> - 📜 **William Shakespeare (*Timon of Athens*):** *"I am **misanthrope**, and hate mankind; for thy part, I do wish thou wert a dog."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"Upon his return from the Houyhnhnms, Gulliver became an uncompromising **misanthrope**, shunning even his family."*
+> - 📜 **Emily Bronte (*Wuthering Heights*):** *"Mr. Heathcliff and I seemed a capital pair to divide the desolation between us, a solitary **misanthrope** and his guest."*

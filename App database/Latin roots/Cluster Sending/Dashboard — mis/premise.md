@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # premise
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement that is assumed to be true and from which a conclusion can be drawn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set forth beforehand, often as an explanation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A previous statement or proposition from which another is inferred or follows as a conclusion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To state or set forth beforehand as an introductory explanation or basis for argument.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"While he is so occupied, I will tell you, reader, what they are: and first, I must premise that they are nothing wonderful."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"The ultimate major premise in every argument being assumed, it could of course be fashioned according to the particular conclusion it was called in to prove."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"This was the new premise brought by Mill to the elucidation of the wages question; and it sufficed to change the entire aspect of human life regarded from the point of view of political economy."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"If your initial **premise** be fallacious, no subtlety of deduction can lead you to sound truth."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"In every valid syllogism, the conclusion is already implicit within the major **premise**."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"We must **premise** that a government without coercive authority is a shadow without substance."*

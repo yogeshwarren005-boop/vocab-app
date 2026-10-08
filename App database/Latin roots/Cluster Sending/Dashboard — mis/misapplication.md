@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misapplication
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wrong use or application.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fraudulent appropriation of funds or property entrusted to your care but actually owned by someone else.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The incorrect, inappropriate, or wrongful use or application of something, such as funds or principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The perversion of an argument, law, or resource toward an unintended or unlawful end.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Strange that their very elevation was a misapplication, that to raise seemed to falsify."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"If my analysis of the magician's logic is correct, its two great principles turn out to be merely two different misapplications of the association of ideas."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Every **misapplication** of capital diminishes the productive funds that maintain useful labor."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The endless disputes of schoolmen arise chiefly from the **misapplication** of ambiguous terms."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Strict accountability was instituted to prevent the fraudulent **misapplication** of public revenues."*

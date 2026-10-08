@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misshapen
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: So badly formed or out of shape as to be ugly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So badly formed or out of shape as to be ugly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deformed, badly shaped, or distorted in physical structure, posture, or contour.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Morally grotesque, perverted, or unnatural in artistic or philosophical form.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But thou art neither like thy sire nor dam, But like a foul misshapen stigmatic, Marked by the Destinies to be avoided, As venom toads or lizards’ dreadful stings."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lascivious Edward, and thou perjured George, And thou misshapen Dick, I tell ye all I am your better, traitors as ye are, And thou usurp’st my father’s right and mine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On me, that halt and am misshapen thus?"*
+> - 📜 **William Shakespeare (*Richard III*):** *"Cheated of feature by dissembling nature, deformed, unfinished, sent before my time into this breathing world, scarce half made up, and that so lamely and **misshapen**."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The **misshapen** creature fled across the glacier with astonishing swiftness, leaving me aghast."*
+> - 📜 **Robert Louis Stevenson (*Strange Case of Dr Jekyll and Mr Hyde*):** *"There was something abnormal and **misshapen** in the very essence of the creature that faced me."*

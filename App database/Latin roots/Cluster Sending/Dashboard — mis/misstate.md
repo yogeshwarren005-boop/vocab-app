@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misstate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State something incorrectly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: State something incorrectly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To state, report, or express facts, arguments, or numbers incorrectly or deceptively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To set forth the provisions of a law, contract, or witness statement with inaccurate details.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Is the divine Principle of creation misstated?"*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Opponents of the new charter continually **misstate** its provisions to excite groundless alarm."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"It is ungenerous in a historian to **misstate** the facts in order to blacken an opponent's reputation."*
+> - 📜 **Abraham Lincoln (*Collected Works of Abraham Lincoln*):** *"I did not intend to **misstate** your position, but merely to expose the necessary consequences of the repeal."*

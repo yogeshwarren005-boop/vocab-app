@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mistrial
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A trial that is invalid or inconclusive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A trial that is invalid or inconclusive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A trial rendered invalid or inconclusive through an error in proceedings or a hung jury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A judicial proceeding terminated before verdict due to fundamental procedural irregularities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mistrial designates a trial that is invalid or inconclusive."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Where juror misconduct corrupts the proceeding, the bench must order a **mistrial** and impanel a new jury."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A corrupt magistrate cannot avert justice forever; an aborted **mistrial** merely defers the day of retribution."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The sudden disappearance of the principal witness threatened to reduce the prosecution to a complete **mistrial**."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mismatched
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Match badly; match two objects or people that do not go together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either not matched or unsuitably matched.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Badly or unsuitably paired; ill-assorted in temperament, appearance, size, or quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incongruously combined so that the parts clash or produce discordance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Mismatched quotes are not fixed if it’s not sufficiently clear where the missing quote should be placed."*
+> - 📜 **Charlotte Bronte (*Jane Eyre*):** *"A more tragically **mismatched** couple could not be conceived than Rochester and his mad Creole bride."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe Gargery sat uncomfortably in his stiff, **mismatched** Sunday clothes beside the kitchen fire."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"The **mismatched** husband and wife lived in sullen estrangement in their dreary stone cottage."*

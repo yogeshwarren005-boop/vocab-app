@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # transmission
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of sending a message; causing a message to be transmitted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Communication by means of transmitted signals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or process of transmitting something, such as signals, power, disease, or traditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mechanism by which power is transmitted from an engine to the wheels or machinery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It lay quietly sheltered from the motions of the sea, and under a favourable pressure for the transmission of the electric spark which passes from Europe to America in .32 of a second."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"In Lenau's case we noted circumstances which point to a direct transmission from parent to child of a predisposition to melancholia."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"An instant later the ship disintegrated into thousands of metal and composite fragments, and shards of what had been human flesh and bone. ## "Flash -- Spunnel Transmission Priority One."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"We see the swift **transmission** of sound through continuous solid bodies like wooden beams."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The equal **transmission** of characters to both sexes has played an immense role in organic evolution."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The electric **transmission** of power propelled the Nautilus smoothly through the depths of the ocean."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # unpromising
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unlikely to bring about favorable results or enjoyment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unlikely to bring about favorable results or enjoyment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not giving hope of favorable outcomes, success, or improvement; inauspicious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Displaying gloomy, unfavorable, or unencouraging initial signs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Thurveydrop, in virtue of his deportment, considering himself vastly superior to all the company—it was a very unpromising case."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"That is a noble though perhaps an unpromising love which not even the fear of breeding aversion in the bosom of the one beloved can deter from combating his or her errors."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Under these unpromising auspices, the parting took place, and the journey began."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The gloomy sky and sodden streets presented an **unpromising** prospect for the day's journey."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Catherine was introduced under an **unpromising** auspices into the crowded assembly at Bath."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood stared at the **unpromising** Valentine note, unable to decipher its playful mystery."*

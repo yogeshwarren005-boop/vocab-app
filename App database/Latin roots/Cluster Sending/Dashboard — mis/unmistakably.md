@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # unmistakably
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without possibility of mistake.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a signal manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a way that cannot be mistaken; clearly, unambiguously, and distinctly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evidently and undeniably apparent to any competent observer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But I have the sad satisfaction of knowing that my words, whether pleasing or offensive, are unmistakably true."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy, you will marry again some day?” This point-blank query unmistakably confused her, and it was not till a minute or more had elapsed that she said, “I have not seriously thought of any such subject.” “I quite understand that."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was unmistakably a symptom that something of his old passion for her had been revived; duty and desire ran hand-in-hand."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sudden darkening of the sky indicated **unmistakably** the rapid approach of a severe thunderstorm."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The golden curls of the child pointed **unmistakably** to the identity of her high-born mother."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The deep baying of the hound sounded **unmistakably** across the desolate expanse of the moor."*

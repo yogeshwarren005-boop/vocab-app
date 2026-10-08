@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misalliance
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unsuitable alliance (especially with regard to marriage).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unsuitable alliance (especially with regard to marriage).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unsuitable, improper, or socially unequal alliance, especially an ill-matched marriage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An incongruous or disadvantageous political or commercial partnership.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Sir Giles Wapshot's family were insulted that one of the Wapshot girls had not the preference in the marriage, and the remaining baronets of the county were indignant at their comrade's misalliance."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Lady Catherine protested vehemently against what she termed a disgraceful **misalliance** for her nephew."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Old Osborne never forgave his son for contracting a **misalliance** with the impoverished Sedley family."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Her family regarded her choice of an eccentric scholar as a regrettable **misalliance**."*

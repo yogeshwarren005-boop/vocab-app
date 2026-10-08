@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misspend
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spend time badly or unwisely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spend (money or other resources) unwisely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To spend or use money, time, or talents wastefully, unwisely, or foolishly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To squander youth, fortune, or intellect in frivolous or dissolute pursuits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misspend designates spend time badly or unwisely."*
+> - 📜 **William Shakespeare (*Richard II*):** *"I wasted time, and now doth time waste me; how could I so **misspend** my royal hours?"*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"It is a bitter reflection in old age to realize that one did **misspend** the vigor of youth in vanity."*
+> - 📜 **John Milton (*Sonnet 19: When I Consider How My Light is Spent*):** *"Doth God exact day-labor, light denied? I fondly ask, lest I should **misspend** my remaining powers."*

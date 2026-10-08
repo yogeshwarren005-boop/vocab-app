@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # dismissive
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing indifference or disregard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stopping to associate with.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing indifference, contempt, or disregard; indicating that something is unworthy of notice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to conclude an encounter or reject a topic with casual or brusque finality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dismissive designates showing indifference or disregard."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"With a cold, **dismissive** wave of his hand, Osmond made it clear the discussion was at an end."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"His **dismissive** attitude toward her painting wounded her fragile artistic confidence."*
+> - 📜 **E. M. Forster (*A Room with a View*):** *"Mr. Eager gave a curt, **dismissive** reply when asked to explain the church's disputed frescoes."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mislay
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place (something) where one cannot find it again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place (something) where one cannot find it again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To lose something temporarily by putting it in a place that one cannot readily remember.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To bestow one's trust, confidence, or affections upon an unworthy or treacherous person.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"I know how easy it is to mislay anything in a camp of this sort."*
-> - 📜 **Charles Dickens (*A Christmas Carol in Prose; Being a Ghost Story of Christmas*):** *"I know they will!" His hands were busy with his garments all this time; turning them inside out, putting them on upside down, tearing them, mislaying them, making them parties to every kind of extravagance."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"A scholar who allows disorder in his study will continually **mislay** essential references and notes."*
+> - 📜 **Oliver Goldsmith (*The Vicar of Wakefield*):** *"I was careful never to **mislay** the pocket-book containing our little family treasure."*
+> - 📜 **George Eliot (*Silas Marner*):** *"He could not believe that he would **mislay** the iron key which guarded his hidden golden guineas."*

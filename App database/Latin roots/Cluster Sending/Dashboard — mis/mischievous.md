@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mischievous
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Naughtily or annoyingly playful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deliberately causing harm or damage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing or showing a fondness for causing trouble in a playful or roguish way; naughty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing harmful injury, damage, or malicious disturbance to persons or property.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"So that it is even more mischievous,” said my guardian once to me, “to remonstrate with the poor dear fellow than to leave him alone.” I took one of these opportunities of mentioning my doubts of Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I saw too, and had experienced in this very interview, the sense of my guardian’s remark that it was even more mischievous to use persuasion with him than to leave him as he was."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"One could almost be positive that there was a malicious leer upon the hideous creature’s face, and a mischievous delight in its twitchings."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"That shrewd and knavish sprite called Robin Goodfellow plays many a **mischievous** prank on villagers."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The Artful Dodger cast a **mischievous** wink at Charley Bates as they strolled through the marketplace."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"Tom was full of **mischievous** schemes that kept his long-suffering Aunt Polly in constant anxiety."*

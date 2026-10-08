@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # admissibility
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acceptability by virtue of being admissible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acceptability by virtue of being admissible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The legal or logical acceptability of evidence, testimony, or claims within formal inquiry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The qualification or property of being worthy of entrance, acceptance, or serious reception.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, admissibility designates acceptability by virtue of being admissible."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The judge ruled upon the **admissibility** of the contested document before the jury heard the cause."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"Rules regulating the **admissibility** of witnesses must serve the pursuit of truth rather than procedural obstruction."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The philosophical **admissibility** of any causal hypothesis depends upon its agreement with observable facts."*

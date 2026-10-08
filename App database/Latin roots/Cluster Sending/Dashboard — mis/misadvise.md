@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misadvise
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give bad advice to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give bad advice to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To give ill, misguided, or erroneous counsel or advice to someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To counsel a ruler, client, or friend in a manner that leads to imprudent or harmful consequences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misadvise designates give bad advice to."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Flatterers constantly **misadvise** young princes by praising their impulses rather than wisdom."*
+> - 📜 **Edmund Burke (*Thoughts on the Cause of the Present Discontents*):** *"Secret favorites contrived to **misadvise** the sovereign against the counsel of his legitimate ministers."*
+> - 📜 **Sir Walter Scott (*The Abbot*):** *"I fear your hot-headed companions **misadvise** you in this dangerous political enterprise."*

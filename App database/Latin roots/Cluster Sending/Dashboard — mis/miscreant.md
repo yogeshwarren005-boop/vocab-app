@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # miscreant
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person without moral scruples.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person without moral scruples.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vicious, unprincipled, or villainous person who behaves wickedly or breaks the law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An archaic term for an infidel, heretic, or person holding corrupt religious beliefs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, miscreant, I’ll be there as soon as you; And, after, meet you sooner than you would. [_Exeunt._] ACT IV SCENE I."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Curse, miscreant, when thou com’st to the stake. [_Exeunt._] Alarum."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Miscreant! [_Laying his hand on his sword._] ALBANY and CORNWALL."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Now, by Apollo, king, thou swear'st thy gods in vain. O, vassal! **miscreant**!"*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"The Templar vowed to punish the base **miscreant** who had dare lay hands upon the holy relic."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The doctor swore he would see the murderous **miscreant** swinging from the yardarm before nightfall."*

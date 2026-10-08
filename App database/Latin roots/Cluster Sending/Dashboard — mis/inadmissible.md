@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # inadmissible
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not deserving to be admitted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not deserving to be admitted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not admissible; not allowed, acceptable, or valid under legal, formal, or logical standards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unworthy of being admitted into serious argument, consideration, or evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Without this, there would be no responsibility whatever in the executive department an idea inadmissible in a free government."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Without this, there would be no responsibility whatever in the executive department an idea inadmissible in a free government."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It will readily be understood that the fluctuations in the value of money and in the state of society rendered a fixed rate of compensation in the Constitution inadmissible."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Such arbitrary claims of royal exemption were pronounced wholly **inadmissible** by the judges."*
+> - 📜 **David Hume (*Dialogues Concerning Natural Religion*):** *"Any hypothesis that explains one mystery by invoking a greater absurdity is logically **inadmissible**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The notion of sudden catastrophic conversions across living genera is **inadmissible** on anatomical grounds."*

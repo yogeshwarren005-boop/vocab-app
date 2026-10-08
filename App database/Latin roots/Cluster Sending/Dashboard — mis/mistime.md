@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mistime
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Time incorrectly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Time incorrectly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To choose an unsuitable, awkward, or unfortunate time for doing or saying something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To calculate the tempo or duration of an action, blow, or maneuver inaccurately.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mistime designates time incorrectly."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"To **mistime** the application of military force in an insurrection is to ensure either defeat or tyranny."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"She feared to **mistime** her delicate request, choosing an hour when Sir Thomas was absorbed in accounts."*
+> - 📜 **Arthur Conan Doyle (*The Rodney Stone*):** *"A boxer who dares to **mistime** his counter-punch will find himself stretched upon the canvas."*

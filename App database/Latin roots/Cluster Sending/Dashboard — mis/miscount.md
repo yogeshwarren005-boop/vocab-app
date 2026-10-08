@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # miscount
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inaccurate count.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Count wrongly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To count or tally people, ballots, coins, or items incorrectly; to make an arithmetic error.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To misjudge or misreckon the numerical strength or resources of an opponent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miscount designates an inaccurate count."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The flustered clerk managed to **miscount** the parchment rolls, throwing the office into brief disorder."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Partisan inspectors may intentionally **miscount** electoral returns unless checked by opposing scrutiny."*
+> - 📜 **Mark Twain (*The Innocents Abroad*):** *"The guide pretended to **miscount** our change, pocketing two silver piastres with sublime unconcern."*

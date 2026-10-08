@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misstep
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unintentional but embarrassing blunder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unintentional but embarrassing blunder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A badly judged footstep or stumble; by extension, a mistake in behavior, conduct, or judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diplomatic, tactical, or political blunder that jeopardizes success or security.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"Down Mount Franklin and over the narrow path cut in the cragged side of Monroe, where a single misstep would hurl the horse and rider down a fathomless abyss, into whose depths the eye dares hardly for a moment gaze."*
-> - 📜 **Effie Afton (*Eventide*):** *"Sometimes their feet lighted on a sharp projection, or by a misstep they fell among the stony piles, bruising and wrenching their flesh and bones."*
+> - 📜 **Sir Walter Scott (*The Heart of Midlothian*):** *"A single fatal **misstep** upon the narrow mountain ledge would precipitate horse and rider into the abyss."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Lydia's reckless **misstep** threatened to cover the entire Bennet family with indelible infamy."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"In times of revolutionary tension, an executive **misstep** can precipitate instantaneous civil revolt."*

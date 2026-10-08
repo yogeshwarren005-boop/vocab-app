@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mistily
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a misty manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a vague way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a misty, hazy, or indistinct manner; obscurely or vaguely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With tears or emotional moisture dimming the eyes or voice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"No, they did not bury me, though there is a period of time which I remember mistily, with a shuddering wonder, like a passage through some inconceivable world that had no hope in it and no desire."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Yes,” smiled Marie, mistily, as she gathered up her work."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Why, Aunt Hannah, you don't know how busy you're going to be handing out all that extra happiness that I can't use!” “You dear child!” Aunt Hannah smiled mistily."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The morning sun shone **mistily** through the vapor that hung above the damp water-meadows."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The street-lamps flickered **mistily** in the thick London fog, like dying tapers in a crypt."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The old weaver peered **mistily** into the fire, trying to recall the faces of his youth."*

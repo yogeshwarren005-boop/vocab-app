@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misinterpret
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Interpret falsely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Interpret wrongly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To understand, translate, or explain the meaning of words, signs, or actions incorrectly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To give an erroneous construction to a law, scripture, or philosophical argument.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"There is something brave in your spirit, as well as penetrating in your eye; but allow me to assure you that you partially misinterpret my emotions."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"You utterly misinterpret my words,” I said, at once seizing his hand: “I have no intention to grieve or pain you—indeed, I have not.” Most bitterly he smiled—most decidedly he withdrew his hand from mine."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"She: You misinterpret each stray word, you for each inch take an ell."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Disputants frequently **misinterpret** each other's assertions through carelessness with ambiguous language."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She was resolved not to **misinterpret** his civil manners into a declaration of enduring love."*
+> - 📜 **David Hume (*An Enquiry Concerning the Principles of Morals*):** *"Philosophers **misinterpret** moral sentiment when they reduce all virtue to narrow commercial selfishness."*

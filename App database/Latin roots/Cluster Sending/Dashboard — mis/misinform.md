@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misinform
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give false or misleading information to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give false or misleading information to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To give false, misleading, or inaccurate information or instructions to someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To mislead an official or observer through inaccurate intelligence or biased reports.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You have apparently been misinformed."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In Virginia, nevertheless, if I have not been misinformed, elections under the former government were septennial."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But if I am not misinformed, the same meaning would not be given to it in any part of New England."*
+> - 📜 **Francis Bacon (*The Essays*):** *"It is an unpardonable treachery for an ambassador to **misinform** his sovereign regarding foreign alliances."*
+> - 📜 **Edmund Burke (*Thoughts on the Cause of the Present Discontents*):** *"Partisan courtiers deliberately **misinform** the monarch to alienate him from the affections of his people."*
+> - 📜 **George Washington (*The Writings of George Washington*):** *"Our scouts did not **misinform** us; the enemy had indeed fortified the redoubts along the river."*

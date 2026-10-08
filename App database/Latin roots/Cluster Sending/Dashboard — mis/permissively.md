@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # permissively
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a permissive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a permissive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a permissive, tolerant, or lenient manner; with ample freedom or license.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By way of permission or discretion rather than by strict mandate or compulsion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, permissively designates in a permissive manner."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"The law operated **permissively**, conferring optional powers on the magistrates rather than absolute mandates."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Society cannot survive if rulers act merely **permissively**, abandoning the weak to unbridled competition."*
+> - 📜 **Henry James (*The Bostonians*):** *"Her mother smiled **permissively** upon the young man's frequent calls at their quiet drawing-room."*

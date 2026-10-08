@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # remissness
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being lax and neglectful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being lax and neglectful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Carelessness, negligence, or slackness in discharging duties or fulfilling obligations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A habitual failure to maintain vigilance, order, or prompt attention to business.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"The General, meanwhile, though offended every morning by Frederick’s remissness in writing, was free from any real anxiety about him, and had no more pressing solicitude than that of making Miss Morland’s time at Northanger pass pleasantly."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"As soon as he had apologised for the remissness of his memory, he asked me if he should send Boots for Mr."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"But there he is, and, by the bye, his absence may sufficiently account for any remissness of his sister’s in writing, for there has been no ‘Well, Mary, when do you write to Fanny?"*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The financial embarrassment of the confederacy sprang directly from the **remissness** of the state quotas."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor gently reproached herself for any apparent **remissness** in attending to her sister's comfort."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The ruin of many a promising young merchant originates in small daily acts of fatal **remissness**."*

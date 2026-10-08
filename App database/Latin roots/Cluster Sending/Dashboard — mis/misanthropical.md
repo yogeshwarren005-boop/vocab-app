@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misanthropical
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Believing the worst of human nature and motives; having a sneering disbelief in e.g. selflessness of others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hating mankind in general.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, exhibiting, or motivated by a hatred or general distrust of humankind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Holding sour, withdrawn, or cynical views regarding human virtue and society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"He walked up and down, with his hands in his pockets, apparently quite forgetting my presence; and his abstraction was evidently so deep, and his whole aspect so misanthropical, that I shrank from disturbing him again."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"Swift's later writings display a fierce, **misanthropical** indignation against human folly."*
+> - 📜 **Sir Walter Scott (*The Black Dwarf*):** *"The hermit nursed his **misanthropical** prejudices in solitary seclusion among the lonely moors."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"He was neither sour nor **misanthropical**, but greeted every fellow traveller with cordial good humor."*

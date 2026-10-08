@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # demister
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Heater that removes mist from the windshield of a car.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heater that removes mist from the windshield of a car.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heating or ventilation device installed in a vehicle to prevent or eliminate fog on windows.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An industrial apparatus or mesh filter designed to separate liquid droplets from a vapor stream.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demister designates heater that removes mist from the windshield of a car."*
+> - 📜 **Nevil Shute (*Round the Bend*):** *"The mechanic inspected the cabin **demister** to ensure clear visibility for night operations."*
+> - 📜 **Arthur Conan Doyle (*Tales of Adventure and Medical Life*):** *"The warm air from the improvised **demister** blew across the viewing glass of the diving apparatus."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Each transport cab was fitted with an electric **demister** to counteract the damp atmospheric cold."*

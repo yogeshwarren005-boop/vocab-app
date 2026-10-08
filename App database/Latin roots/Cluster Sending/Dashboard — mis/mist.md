@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mist
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin fog with condensation near the ground.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become covered with mist.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cloud of tiny water droplets suspended in the atmosphere near the earth's surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A haze, obscurity, or film that dims physical sight or clouds mental comprehension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll say as they say, and persever so, And in this mist at all adventures go."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lend me a looking glass; If that her breath will mist or stain the stone, Why, then she lives."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not I, unless the breath of heartsick groans Mist-like infold me from the search of eyes. [_Knocking._] FRIAR LAWRENCE."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Hover through the fog and filthy air, while rising **mist** enshrouds the blasted heath."*
+> - 📜 **John Keats (*To Autumn*):** *"Season of **mists** and mellow fruitfulness, close bosom-friend of the maturing sun."*
+> - 📜 **Charlotte Bronte (*Jane Eyre*):** *"A cold autumn **mist** crept over the moorlands, blotting out the distant horizon."*

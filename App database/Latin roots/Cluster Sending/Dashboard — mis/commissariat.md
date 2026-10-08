@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # commissariat
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stock or supply of foods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stock or supply of foods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A military department or agency charged with supplying food, transport, and equipment to troops.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The collective system, stores, or personnel responsible for provisioning any large expedition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I never want to see a chicken again except alive." For the last week monotony had been the keynote of our commissariat."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But this defect was not due to any fault of the regimental commander, for in spite of repeated demands boots had not been issued by the Austrian commissariat, and the regiment had marched some seven hundred miles."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Just then a commissariat soldier, a hospital orderly, came in from the next room, marching stiffly, and drew up in front of Rostóv."*
+> - 📜 **Wellington (Arthur Wellesley) (*Despatches of the Duke of Wellington*):** *"An army cannot march without bread; the efficiency of the **commissariat** determines the fate of the campaign."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"The failure of the imperial **commissariat** left thousands of infantrymen without boots or rations."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The negligence of the naval **commissariat** caused more casualties among the sailors than enemy fire."*

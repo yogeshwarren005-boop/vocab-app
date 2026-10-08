@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # compromising
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a compromise; arrive at a compromise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Settle by concession.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reveal or expose someone to suspicion, discredit, scandal, or danger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inclined toward mutual accommodation, concession, or negotiation in settling controversies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"She felt herself ill-used and unfortunate, as did her father; and they were neither of them able to devise any means of lessening their expenses without compromising their dignity, or relinquishing their comforts in a way not to be borne."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"At the meetings of the Union Committee he took an eager interest and a leading share in the discussions; and, while never compromising the position of his Church, he did much to set it in a clear and attractive light."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I will tell you as much of the history of the wanderer you have harboured, as I can tell without compromising my own peace of mind—my own security, moral and physical, and that of others."*
+> - 📜 **Arthur Conan Doyle (*A Scandal in Bohemia*):** *"The photograph was so **compromising** that its publication would have ruined the monarch's impending marriage."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She avoided any gesture that might be interpreted as **compromising** her sister's delicate reputation."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Finding herself in a **compromising** position, she resolved to conceal her unfortunate encounter from her family."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misappropriated
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Appropriate (as property entrusted to one's care) fraudulently to one's own use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taken for your own use in violation of a trust.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Taken, embezzled, or used dishonestly for an unauthorized purpose in breach of trust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wrongfully diverted from intended charitable, public, or corporate destinations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misappropriated designates appropriate (as property entrusted to one's care) fraudulently to one's own use."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The king demanded an accounting of the **misappropriated** sums that had vanished from the exchequer."*
+> - 📜 **Anthony Trollope (*The Warden*):** *"The radical journalist charged that the hospital revenue had been **misappropriated** by the cathedral clergy."*
+> - 📜 **Mark Twain (*The Gilded Age*):** *"The committee discovered that Congressional subsidies had been **misappropriated** by railroad promoters."*

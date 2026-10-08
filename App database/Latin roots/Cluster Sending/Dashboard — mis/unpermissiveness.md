@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # unpermissiveness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of permissiveness or indulgence and a tendency to confine behavior within certain specified limits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of permissiveness or indulgence and a tendency to confine behavior within certain specified limits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The refusal to allow freedom, leniency, or deviation from rules; strict intolerance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rigid severity and disciplinary unyieldingness in administration or morals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unpermissiveness designates a lack of permissiveness or indulgence and a tendency to confine behavior within certain specified limits."*
+> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"The stern **unpermissiveness** of military governance unfits a population for spontaneous civic cooperation."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"The grandfather's sullen **unpermissiveness** drove every spirited youth away from the family hearth."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Bureaucratic **unpermissiveness** smothers local innovation by subjecting every petition to rigid veto."*

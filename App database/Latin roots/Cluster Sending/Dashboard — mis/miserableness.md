@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # miserableness
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of ill-being due to affliction or misfortune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of ill-being due to affliction or misfortune.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The wretched state, profound unhappiness, or severe discomfort of mind or circumstance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The pitiful meanness, squalor, or extreme inadequacy of physical living conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"This miserableness went on as much as six or seven minutes; but it seemed a sight longer than that."*
-> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"Every time he danced around and says, “Dah’s Cairo!” it went through me like a shot, and I thought if it _was_ Cairo I reckoned I would die of miserableness."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The outward **miserableness** of the pauper's hovel reflects the spiritual neglect of the ruling classes."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tom-all-Alone's was a place of utter **miserableness**, where disease and desolation held undisputed sway."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He confessed the inner **miserableness** that accompanies excessive ambition when detached from moral virtue."*

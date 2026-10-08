@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # miscue
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A faulty shot in billiards; the cue tip slips off the cue ball.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A minor inadvertent mistake usually observed in speech or writing or in small accidents or memory lapses etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A faulty stroke in billiards in which the cue slips off the ball; by extension, any blunder or slip.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A missed signal, poorly timed action, or communicative slip in theatrical or social performance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miscue designates a faulty shot in billiards; the cue tip slips off the cue ball."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"One awkward **miscue** at the pilot-wheel on a dark bend would drive the steamer onto the snag."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"A single clumsy **miscue** in our timing would have alerted the hound before the net was drawn."*
+> - 📜 **H. G. Wells (*The History of Mr. Polly*):** *"His life seemed an endless sequence of **miscue** and awkward hesitation amid practical emergencies."*

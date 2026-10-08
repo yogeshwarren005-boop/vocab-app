@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # premiss
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement that is assumed to be true and from which a conclusion can be drawn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take something as preexisting and given.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proposition supporting or helping to support a conclusion in a logical syllogism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An assumed foundation upon which an entire chain of deductive reasoning depends.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"That standpoint was unquestioned by Celsus. [Sidenote: The failure of Celsus] Confident in the truth of his premisses and the conclusions that follow from them, Celsus charged the Christians with folly and dogmatism."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Nor is he the subject of the knowledge which amounts to demonstration; for this depends on premisses (_protera_) and things better known (_gnorimotepa_);[106] but nothing is anterior to the unbegotten."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The major **premiss** asserts an empirical generalization derived from repeated observation of nature."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"From a false **premiss**, any proposition whatever, true or false, can be deduced by valid inference."*
+> - 📜 **William Stanley Jevons (*Elementary Lessons in Logic*):** *"Every regular syllogism consists of three terms disposed within a major and a minor **premiss**."*

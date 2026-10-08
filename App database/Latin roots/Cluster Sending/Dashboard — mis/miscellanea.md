@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # miscellanea
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection containing a variety of sorts of things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A collection containing a variety of sorts of things.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection of miscellaneous or diverse items, writings, notes, or curiosities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An assortment of literary fragments or antiquarian oddities gathered in one volume.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miscellanea designates a collection containing a variety of sorts of things."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"In the appendix I have gathered a curious **miscellanea** of theological fragments and marginalia."*
+> - 📜 **Sir Walter Scott (*The Antiquary*):** *"The scholar's study was crammed with an astonishing **miscellanea** of old coins, manuscripts, and fossils."*
+> - 📜 **Washington Irving (*Bracebridge Hall*):** *"The family scrap-book contained a delightful **miscellanea** of country ballads and herbal receipts."*

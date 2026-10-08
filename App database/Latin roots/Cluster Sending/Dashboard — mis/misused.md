@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misused
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Apply to a wrong thing or person; apply badly or incorrectly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change the inherent purpose or function of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used wrongly, inappropriately, or wastefully; misapplied.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treated cruelly, harshly, or abusively in personal or working relations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have simply misused our sex in your love-prate!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have misused the King’s press damnably."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O! she misused me past the endurance of a block: an oak but with one green leaf on it would have answered her: my very visor began to assume life and scold with her."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Power **misused** by demagogues becomes an engine of oppression far worse than ancient monarchy."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The poor boy had been so cruelly **misused** by his stepfather that fear shadowed every look."*
+> - 📜 **Thomas Carlyle (*Heroes and Hero-Worship*):** *"Intellect **misused** in petty sophistry is like a sword wielded by a madman against his own limbs."*

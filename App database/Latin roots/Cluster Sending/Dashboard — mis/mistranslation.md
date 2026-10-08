@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mistranslation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An incorrect translation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An incorrect translation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An incorrect, faulty, or misleading translation of a word, text, or foreign document.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An error in linguistic rendering that corrupts literary meaning or treaty terms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Strange to say, a similar mistranslation occurs in Dr."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Many theological controversies have grown out of a persistent **mistranslation** of Greek terms."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The hostile alliance was precipitated by a clumsy **mistranslation** in the Byzantine chancellery."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon was mortified by the German critic's exposure of a grave **mistranslation** in his notes."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # immiscible
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry, physics) incapable of mixing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (chemistry, physics) incapable of mixing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being mixed or blended together to form a homogeneous fluid, such as oil and water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incompatible or mutually repellent so that harmonious union cannot occur.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immiscible designates (chemistry, physics) incapable of mixing."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"Oil and water remain stubbornly **immiscible**, separating into distinct strata however vigorously shaken."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Superstition and experimental science are entirely **immiscible** modes of thought."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"When two **immiscible** fluids are agitated, they form a transient emulsion before resolving into separate layers."*

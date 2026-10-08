@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misname
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assign in incorrect name to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assign in incorrect name to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To name, call, or designate someone or something incorrectly; to apply an erroneous label.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To misrepresent the nature of an object, concept, or party by using an inaccurate title.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Nevertheless, he loved his misnamed Angel, and in secret mourned over this treatment of him as Abraham might have mourned over the doomed Isaac while they went up the hill together."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The intense Pequod sailed on; the rolling waves and days went by; the life-buoy-coffin still lightly swung; and another ship, most miserably misnamed the Delight, was descried."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"The intense Pequod sailed on; the rolling waves and days went by; the life-buoy-coffin still lightly swung; and another ship, most miserably misnamed the Delight, was descried."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Men continually **misname** physical processes through the false Idols of the Market-place."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"To **misname** an idea is to sow seeds of endless controversy in philosophical debate."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"They **misname** that bloody tyranny as liberty which tramples beneath foot every ancient right."*

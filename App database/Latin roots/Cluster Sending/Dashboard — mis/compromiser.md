@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # compromiser
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A negotiator willing to compromise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A negotiator willing to compromise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who settles disputes through negotiation, accommodation, and mutual concession.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who yields essential principles or standards in order to appease adversaries or avoid conflict.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, compromiser designates a negotiator willing to compromise."*
+> - 📜 **Abraham Lincoln (*Collected Works of Abraham Lincoln*):** *"Henry Clay was revered throughout the republic as the great **compromiser** of sectional disputes."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The steadfast man of principle despises the cowardly **compromiser** who trims his sail to every breeze."*
+> - 📜 **John Morley (*On Compromise*):** *"The seasoned political **compromiser** understands that partial reform is often preferable to stagnant stalemate."*

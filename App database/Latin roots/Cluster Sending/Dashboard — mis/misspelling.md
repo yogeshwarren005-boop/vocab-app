@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misspelling
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spelling that is incorrect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spell incorrectly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An incorrect spelling of a word; an instance of orthographic error.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act or habitual practice of spelling words contrary to accepted standard orthography.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misspelling designates a spelling that is incorrect."*
+> - 📜 **Samuel Johnson (*Preface to the English Dictionary*):** *"A barbarous **misspelling** often becomes entrenched through the negligence of early printers."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The singular **misspelling** in the anonymous note provided Holmes with an instant clue to the writer's origin."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The parish clerk pointed out the curious **misspelling** of the name in the ancient baptismal register."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # promisee
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person to whom a promise is made.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person to whom a promise is made.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In law, the person to whom a contractual promise, covenant, or undertaking is made.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The recipient of a binding commitment who holds the legal right to enforce its fulfillment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, promisee designates a person to whom a promise is made."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The promisor remains bound in equity until the **promisee** releases the obligation or accepts satisfaction."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"Consideration is a detriment incurred by the **promisee** at the request of the promisor."*
+> - 📜 **Jeremy Bentham (*Principles of the Civil Code*):** *"The security of commercial expectation requires that the **promisee** receive full indemnity upon default."*

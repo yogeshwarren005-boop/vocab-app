@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # promiscuously
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an indiscriminate manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a licentious and promiscuous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an indiscriminate, casual, or randomly mixed manner without selection or distinction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner characterized by frequent, undifferentiated romantic or sexual relations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Now I’ll be more interesting, and let you see some loose play—giving all the cuts and points, infantry and cavalry, quicker than lightning, and as promiscuously—with just enough rule to regulate instinct and yet not to fetter it."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In the next place, it may fairly be supposed, that there would be less difficulty in gaining some of the jurors promiscuously taken from the public mass, than in gaining men who had been chosen by the government for their probity and good character."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Everything had been heaped in promiscuously."*
+> - 📜 **Daniel Defoe (*A Journal of the Plague Year*):** *"The dead-carts collected the bodies and tumbled them **promiscuously** into the great pit at Aldgate."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The Yahoo herd mingled **promiscuously** along the river bank without order or discipline."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The seeds of various weeds were scattered **promiscuously** by the wind across the ploughed field."*

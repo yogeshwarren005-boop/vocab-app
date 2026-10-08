@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misremember
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remember incorrectly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remember incorrectly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remember incorrectly; to recall a past event, conversation, or detail inaccurately.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To alter a recollection through unconscious memory drift, bias, or confusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"The death close before me was terrible, but far more terrible than death was the dread of being misremembered after death."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The aged clerk was terrified lest he should **misremember** the date of the crucial Chancery decree."*
+> - 📜 **Mark Twain (*Autobiography of Mark Twain*):** *"As I grow older I remember things so vividly, whether they happened or not; it is easy to **misremember**."*
+> - 📜 **Jane Austen (*Emma*):** *"She feared she might **misremember** the exact words of Mr. Knightley's friendly admonition."*

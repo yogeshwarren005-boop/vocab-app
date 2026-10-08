@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misogyny
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hatred of women.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hatred of women.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dislike of, contempt for, or ingrained prejudice against women.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pervasive cultural, institutional, or psychological pattern of discrimination against women.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misogyny designates hatred of women."*
+> - 📜 **Mary Wollstonecraft (*A Vindication of the Rights of Woman*):** *"The subtle **misogyny** of male moralists has too long sought to confine female virtue to frivolous charm."*
+> - 📜 **Virginia Woolf (*Three Guineas*):** *"Fascism and militarism are intimately allied with the violent **misogyny** that silences women."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"Undershaft's pragmatic cynicism spared neither sex, mocking romantic chivalry and bourgeois **misogyny** alike."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misopedia
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hatred of children.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hatred of children.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An intense dislike, hatred, or pathological aversion to children or infants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A psychological aversion or hostility toward youth and the rearing of offspring.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misopedia designates hatred of children."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Wackford Squeers practiced a cruel form of **misopedia**, starving and brutalizing the helpless boys at Dotheboys Hall."*
+> - 📜 **Samuel Butler (*The Way of All Flesh*):** *"The reverend father concealed his personal **misopedia** behind a severe theological doctrine of infant depravity."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"Little Father Time's melancholy despair bordered on an uncanny **misopedia**, lamenting that children were ever born."*

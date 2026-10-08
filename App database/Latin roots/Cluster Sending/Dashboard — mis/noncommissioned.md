@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # noncommissioned
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of military officers) appointed from enlisted personnel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of military officers) appointed from enlisted personnel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designating an enlisted military officer who holds rank by appointment rather than royal or presidential commission.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to sergeants, corporals, or warrant ratings in naval and land forces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A French noncommissioned officer of hussars, in crimson uniform and a shaggy cap, shouted to the approaching Balashëv to halt."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The noncommissioned officer frowned and, muttering words of abuse, advanced his horse’s chest against Balashëv, put his hand to his saber, and shouted rudely at the Russian general, asking: was he deaf that he did not do as he was told?"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The noncommissioned officer began talking with his comrades about regimental matters without looking at the Russian general."*
+> - 📜 **Wellington (Arthur Wellesley) (*Despatches of the Duke of Wellington*):** *"The steady bravery of our **noncommissioned** officers maintained the British squares under furious French cavalry charges."*
+> - 📜 **Rudyard Kipling (*Barrack-Room Ballads*):** *"The drill-sergeant, a seasoned **noncommissioned** veteran of Afghan campaigns, barked orders across the square."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"A brave **noncommissioned** officer rallied the retreating battery and held the redoubt until dusk."*

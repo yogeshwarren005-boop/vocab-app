@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # missional
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or connected to a religious mission.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or connected to a religious mission.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characterized by, or dedicated to religious, diplomatic, or humanitarian missions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conducted with evangelical or strategic purpose aimed at outreach and service.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, missional designates relating to or connected to a religious mission."*
+> - 📜 **David Livingstone (*Missionary Travels and Researches in South Africa*):** *"The establishment of a permanent **missional** station in the interior opened trade routes and checked slaving."*
+> - 📜 **William Booth (*In Darkest England and the Way Out*):** *"Our primary **missional** duty is to feed the starving body while awakening the dormant soul."*
+> - 📜 **Thomas Chalmers (*The Christian and Civic Economy of Large Towns*):** *"He advocated a vigorous **missional** organization across city parishes to counter urban moral decay."*

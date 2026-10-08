@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misanthropic
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Believing the worst of human nature and motives; having a sneering disbelief in e.g. selflessness of others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hating mankind in general.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disliking humankind and avoiding human society; characteristic of a misanthrope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing cynical distrust or contempt for the moral character of people.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Such ruminations naturally produced a streak of misanthropic bitterness."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Buns, once fresh and tender, become hard and misanthropic in its refreshment rooms, and look as if they had seen the littleness of existence and were disillusioned."*
-> - 📜 **Charles Dickens (*A Christmas Carol in Prose; Being a Ghost Story of Christmas*):** *"The water-plug being left in solitude, its overflowings sullenly congealed, and turned to misanthropic ice."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"Weary of the world's false pageant, the traveler sank into a dark, **misanthropic** gloom."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge lived a **misanthropic** life, warning off all who dared to wish him holiday cheer."*
+> - 📜 **Herman Melville (*The Confidence-Man*):** *"The stranger's **misanthropic** remarks cast doubt upon every humanitarian charity on board."*

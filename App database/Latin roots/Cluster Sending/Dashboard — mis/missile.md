@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # missile
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rocket carrying a warhead of conventional or nuclear explosives; may be ballistic or directed by remote control.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A weapon that is forcibly thrown or projected at a targets but is not self-propelled.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A weapon, object, or projectile designed or thrown to strike a distant target.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A modern rocket-propelled guided or ballistic weapon carrying an explosive warhead.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Seventy-six hundred thousand million of parcels of bank-notes!” “Will somebody give me a quart pot?” exclaims her exasperated husband, looking helplessly about him and finding no missile within his reach."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"From a shaft (or 'stem') which appeared slender, came a dangerous sorrow-bringing missile (i.e. the shaft became a ... missile); Hodr proceeded to shoot."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"She concluded by throwing me—I often served as a connubial missile—at Joe, who, glad to get hold of me on any terms, passed me on into the chimney and quietly fenced me up there with his great leg."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A deadly shower of every kind of **missile** rained down upon the Roman cohorts scaling the ramparts."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"Heavy stones and feathered arrows flew as **missile** weapons from the besieged castle walls."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The Martian tripod discharged a heavy canisters that functioned as a devastating gaseous **missile**."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # miscreation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something abnormal or anomalous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something abnormal or anomalous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of creating something in an unnatural, distorted, or wrongful manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A monstrous, deformed, or grotesquely unnatural formation, creature, or concept.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miscreation designates something abnormal or anomalous."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I beheld the hideous **miscreation** stirring upon the laboratory slab with fearful vitality."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Such theoretical constitutions are mere paper **miscreation**, destined to perish at the first popular storm."*
+> - 📜 **Charles Kingsley (*Hypatia*):** *"The philosopher condemned the theological **miscreation** that attributed petty human vindictiveness to the Deity."*

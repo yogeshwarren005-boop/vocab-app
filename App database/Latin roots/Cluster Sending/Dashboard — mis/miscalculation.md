@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # miscalculation
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mistake in calculating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mistake in calculating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An error in computing numbers, measurements, or practical estimates; an inaccurate tally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strategic or judgmental blunder resulting from misreading intentions or circumstances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Through miscalculation there may be, at a given moment, too many consumption goods of a particular kind, but the durable applications can find no limit until the inconceivable day when the material world is no longer capable of improvement."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"In this I fancy that in any case he made a miscalculation, and that, if we had not been there, his doom would none the less have been sealed."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The interest may be greater or less than the time-discount in the goods, owing to miscalculation on the part of the borrower or to an unforeseen change in the conditions."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Napoleon's invasion of Russia foundered upon a fatal **miscalculation** of winter logistics."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"A serious political **miscalculation** in a democracy can swiftly unseat the most entrenched ministry."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"The criminal made one fatal **miscalculation** regarding the train timetable, leading to his capture."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # permissible
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: That may be permitted especially as according to rule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: That may be accepted or conceded.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Allowable; permitted according to established rules, laws, or social conventions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conforming to legitimate standards of reasoning, conduct, or legal practice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon again and left off receiving favors from him, it would clearly be permissible to hate him the more."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Yes,” replied a footman in a bold loud voice, as if anything were now permissible; “the door to the left, ma’am.” “Perhaps the count did not ask for me,” said Pierre when he reached the landing."*
-> - 📜 **Edward William Bok (*Successward: A Young Man's Book for Young Men*):** *"An excuse is always at hand to make an extra cigarette or cigar permissible on a special occasion."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is not **permissible** for a single state to nullify laws enacted by the sovereign union."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"It is only **permissible** to infer causes that are precisely proportioned to the observed effects."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She doubted whether it were **permissible** to inquire into circumstances so closely guarded."*

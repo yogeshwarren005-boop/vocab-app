@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mischievousness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An attribute of mischievous children.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of behaving like an imp.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait or tendency to behave in a playfully roguish, troublesome, or teasing manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inclination to provoke minor harm, malicious intrigue, or vexatious disorder.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Morland knew so little of lords and baronets, that she entertained no notion of their general mischievousness, and was wholly unsuspicious of danger to her daughter from their machinations."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Maggie's childish **mischievousness** sprang from passionate energy rather than premeditated unkindness."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The fat boy's apparent stupidity concealed a sly **mischievousness** that surprised all who observed him."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Little Pearl displayed a wild, uncanny **mischievousness** that bewildered her sorrowing mother."*

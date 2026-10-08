@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mist-flower
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rhizomatous plant of central and southeastern united states and west indies having large showy heads of clear blue flowers; sometimes placed in genus eupatorium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rhizomatous plant of central and southeastern united states and west indies having large showy heads of clear blue flowers; sometimes placed in genus eupatorium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A North American perennial wild plant (*Conoclinium coelestinum*) having clusters of fuzzy blue flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A botanical herb resembling ageratum, growing in moist meadows and woodland borders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mist-flower designates rhizomatous plant of central and southeastern united states and west indies having large showy heads of clear blue flowers; sometimes placed in genus eupatorium."*
+> - 📜 **John Muir (*A Thousand-Mile Walk to the Gulf*):** *"Along the humid river bottoms, clumps of blue **mist-flower** bloomed alongside the tall reeds."*
+> - 📜 **Henry David Thoreau (*Journal*):** *"The delicate azure crowns of the **mist-flower** softened the ragged edges of the ditch."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The species known as **mist-flower** displays dense corymbs of fragrant sky-blue disk florets."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # demise
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The time when something ends.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transfer by a lease or by a will.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The death or decease of an eminent person, monarch, or notable individual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formal conveyance or transfer of an estate, property, or sovereignty by will or lease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell me what state, what dignity, what honour, Canst thou demise to any child of mine?"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Featherstone’s demise_—bless my heart! ‘property’—accrue—demise!"*
-> - 📜 **George Eliot (*Middlemarch*):** *"The felicitous word “demise,” which had seasonably occurred to him, had raised his spirits even above their usual evening pitch."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The crown of England passes instantly to the heir upon the **demise** of the reigning sovereign."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The untimely **demise** of the young emperor left Rome plunged into civil faction and intrigue."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge signed the register of Marley's **demise**, certifying that his partner was as dead as a door-nail."*

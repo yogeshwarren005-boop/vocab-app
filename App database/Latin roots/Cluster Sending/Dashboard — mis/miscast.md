@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # miscast
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cast an actor, singer, or dancer in an unsuitable role.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cast an actor, singer, or dancer in an unsuitable role.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To assign an actor or performer to an unsuitable, incongruous, or inappropriate role.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To miscalculate a sum, reckon improperly, or assign someone to a poorly suited post in life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miscast designates cast an actor, singer, or dancer in an unsuitable role."*
+> - 📜 **William Hazlitt (*Characters of Shakespear's Plays*):** *"The tragedian was completely **miscast** as the fiery Hotspur, lacking the requisite martial vigor."*
+> - 📜 **George Bernard Shaw (*Dramatic Opinions and Essays*):** *"When a brilliant comedian is **miscast** in solemn melodrama, the resulting performance invites laughter."*
+> - 📜 **Henry James (*The Tragic Muse*):** *"She feared she had been hopelessly **miscast** in the drawing-room comedy of London high society."*

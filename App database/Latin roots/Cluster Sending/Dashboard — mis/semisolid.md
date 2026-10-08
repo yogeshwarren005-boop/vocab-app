@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # semisolid
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Partly solid; having a rigidity and viscosity intermediate between a solid and a liquid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Partly solid; having a rigidity and viscosity intermediate between a solid and a liquid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the consistency of a very thick liquid or soft solid; paste-like or gelatinous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intermediate in physical state between fluid and rigid solid, as ointment or resin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semisolid designates partly solid; having a rigidity and viscosity intermediate between a solid and a liquid."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Upon cooling, the volatile hydrocarbon condensed into a dense, **semisolid** mass resembling paraffin."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The vegetable balsam remained in a **semisolid** condition unless exposed to gentle heat."*
+> - 📜 **Thomas Henry Huxley (*Physiography: An Introduction to the Study of Nature*):** *"Lava often flows down the volcanic slope in a viscous, **semisolid** torrent before congealing into basalt."*

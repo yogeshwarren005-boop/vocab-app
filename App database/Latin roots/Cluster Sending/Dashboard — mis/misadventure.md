@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misadventure
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instance of misfortune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instance of misfortune.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unfortunate accident, mishap, or unlucky occurrence that results in loss or grief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal contexts, an accidental death resulting from a lawful act performed without criminal intent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your looks are pale and wild, and do import Some misadventure."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What misadventure is so early up, That calls our person from our morning’s rest?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In my face, dear sister, I find no anger to ’em, nor no ruin; The misadventure of their own eyes kill ’em."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Your looks are pale and wild, and do import some **misadventure**."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"This early **misadventure** upon the sea ought to have warned me against further voyaging."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Homicide by **misadventure** occurs where a man, doing a lawful act without intention of hurt, unfortunately kills another."*

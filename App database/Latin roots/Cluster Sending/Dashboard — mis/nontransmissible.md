@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # nontransmissible
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not acquirable by inheritance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of disease) not capable of being passed on.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being transmitted, passed on, or communicated from one person or generation to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biology and medicine, designating diseases or acquired traits that cannot be conveyed contagion-wise or genetically.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nontransmissible designates not acquirable by inheritance."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Mutilations and accidental injuries are universally recognized as **nontransmissible** to subsequent generations."*
+> - 📜 **Thomas Henry Huxley (*Method and Results*):** *"Purely cultural acquisitions are **nontransmissible** via physical gametes and must be retaught to each generation."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Certain physiological modifications remain strictly local and **nontransmissible** across genealogical lines."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # commissar
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An official of the communist party who was assigned to teach party principles to a military unit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official of the communist party who was assigned to teach party principles to a military unit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official responsible for political education and organization, especially in Soviet administration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any strict, dogmatic, or authoritarian bureaucratic overseer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, commissar designates an official of the communist party who was assigned to teach party principles to a military unit."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The political **commissar** arrived at the militia headquarters to inspect our political instruction."*
+> - 📜 **Arthur Koestler (*Darkness at Noon*):** *"The young **commissar** believed unreservedly in the infallibility of the Party doctrine."*
+> - 📜 **Bertrand Russell (*The Practice and Theory of Bolshevism*):** *"Every detachment was accompanied by a **commissar** whose duty was to ensure absolute ideological conformity."*

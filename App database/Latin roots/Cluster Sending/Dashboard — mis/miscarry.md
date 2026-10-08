@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # miscarry
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be unsuccessful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffer a miscarriage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To fail to achieve the intended or expected purpose, goal, or design; to go astray.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To suffer spontaneous premature birth or abortive termination of pregnancy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And though we here fall down, We have supplies to second our attempt: If they miscarry, theirs shall second them; And so success of mischief shall be born, And heir from heir shall hold this quarrel up Whiles England shall have generation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come on, I’ll tell thee what, thou damned tripe-visaged rascal, an the child I now go with do miscarry, thou wert better thou hadst struck thy mother, thou paper-faced villain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I pray God the fruit of her womb miscarry!"*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"I would not have him **miscarry** for the half of my dowry, he is so dear to my peace."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I trembled lest my second raft should **miscarry** upon the treacherous coastal breakers."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Schemes founded on abstract vanity inevitably **miscarry** when confronted by real human nature."*

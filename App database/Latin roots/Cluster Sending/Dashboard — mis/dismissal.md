@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # dismissal
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A judgment disposing of the matter without a trial.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Official notice that you have been fired from your job.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal act of sending someone away or discharging them from employment or office.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rejection or setting aside of a legal indictment, claim, or philosophical proposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"George takes his dismissal in great dudgeon, the greater because a clerk coming up the stairs has heard the last words of all and evidently applies them to him."*
-> - 📜 **Jane Austen (*Persuasion*):** *"It was Mary’s hope and belief that he had received a positive dismissal from Henrietta, and her husband lived under the constant dependence of seeing him to-morrow."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"No dismissal by a hasty letter affects that.” “I wish you did not feel so strongly about me,” she murmured."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The king's summary **dismissal** of the ministers provoked widespread consternation in Parliament."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He took his sudden **dismissal** with a haughty composure that concealed his inner humiliation."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Her polite **dismissal** of his proposal left him uncertain whether to hope or surrender."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mischief-maker
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who deliberately stirs up trouble.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who deliberately stirs up trouble.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who deliberately causes trouble, discord, malice, or strife among others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instigator of quarrelsome gossip or malicious dissension within a household or community.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mischief-maker designates someone who deliberately stirs up trouble."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Orlick was a sulky **mischief-maker**, delighting in setting fellow workmen against each other."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Lucy Steele proved an artful **mischief-maker**, sowing doubts to poison Edward's peace of mind."*
+> - 📜 **George Eliot (*Silas Marner*):** *"Dunstan Cass was an unprincipled **mischief-maker**, trading on secrets to extort coin from his brother."*

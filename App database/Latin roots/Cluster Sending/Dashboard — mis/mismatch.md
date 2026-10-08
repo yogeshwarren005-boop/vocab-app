@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mismatch
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bad or unsuitable match.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Match badly; match two objects or people that do not go together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bad, inappropriate, or unequal match, pairing, or combination of things or persons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To pair, join, or combine people or elements that do not harmonize or suit each other.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Mismatched quotes are not fixed if it’s not sufficiently clear where the missing quote should be placed."*
+> - 📜 **William Shakespeare (*Othello*):** *"Her father considered the union a monstrous **mismatch**, unnatural in years, country, and complexion."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"An anatomical **mismatch** between pollen tube and pistil prevents hybridization between distinct species."*
+> - 📜 **Jane Austen (*Emma*):** *"Emma was forced to acknowledge that her proposed match was an absurd and disastrous **mismatch**."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # transmissible
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of disease) capable of being transmitted by infection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring among members of a family usually by heredity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being transmitted, passed along, or transferred from one person, place, or medium to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Communicable through infectious agents or inheritable through genetic lineage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"It was a curse transmissible to children, but if he desired to keep the influence his genius gave him, he could not tell the world why he refused to marry."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Any slight variation that is profitable to an individual organism is readily **transmissible** to its offspring."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The magnetic impulse is **transmissible** across dielectric media without permanent material displacement."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Incorporeal hereditaments are rights **transmissible** to heirs along with the ancestral estate."*

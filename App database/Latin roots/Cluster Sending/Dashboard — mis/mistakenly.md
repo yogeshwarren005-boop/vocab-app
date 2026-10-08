@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mistakenly
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a mistaken manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a mistaken manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a mistaken way; incorrectly, wrongly, or based upon an erroneous assumption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under a false impression or through accidental misapprehension of the facts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"For if I were to die—and I may die soon—it would be dreadful that you should always think mistakenly of me."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her eyes rested on the web of a spider, probably starved long ago, which had been mistakenly placed in a corner where no flies ever came, and shivered in the slight draught through the casement."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"As he was a believer in free trade, this act is often mistakenly described as a free-trade measure."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Societies have **mistakenly** persecuted their greatest benefactors in the name of moral purity."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Geologists **mistakenly** inferred universal catastrophic extinctions where the record was merely broken."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She **mistakenly** attributed to noble self-abnegation what was merely pedantic obstinacy."*

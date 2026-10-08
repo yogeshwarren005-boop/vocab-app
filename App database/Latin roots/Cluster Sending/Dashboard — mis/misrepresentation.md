@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misrepresentation
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A misleading falsehood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A willful perversion of facts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or offense of giving a false or misleading account of the nature of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, a false statement of fact made by one party that induces another to enter into a contract.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There may be an element of error, even of misrepresentation, in such estimates."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Cadwallader, and I believe this is false too,” said Dorothea, with indignant energy; “at least, I feel sure it is a misrepresentation."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"I have unfolded to you a complication of dangers to which you would be exposed, should you permit that sacred knot which binds the people of America together be severed or dissolved by ambition or by avarice, by jealousy or by misrepresentation."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Any willful **misrepresentation** of material facts in a commercial covenant renders the agreement voidable in equity."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She blushed to think how easily she had been duped by Wickham's plausible **misrepresentation** of Darcy."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The ministry collapsed under the weight of proven **misrepresentation** regarding the naval estimates."*

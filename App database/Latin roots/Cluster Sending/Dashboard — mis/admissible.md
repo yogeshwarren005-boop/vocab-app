@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # admissible
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving to be admitted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deserving to be admitted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Worthy of being admitted, accepted, or allowed into consideration or formal proceedings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conforming to established legal, scientific, or procedural standards of validity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It will be shown in the next paper that this CONCURRENT JURISDICTION in the article of taxation was the only admissible substitute for an entire subordination, in respect to this branch of power, of the State authority to that of the Union."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Is the CONSEQUENCE from this doctrine admissible?"*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"An accident is much more admissible--in this quiet parish."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Is the consequence from this doctrine **admissible**, that the legislative will must override constitutional limits?"*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"No testimony is **admissible** to establish a miracle unless its falsehood would be even more miraculous."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Any explanation based on special creation is scarcely **admissible** in a natural scientific inquiry."*

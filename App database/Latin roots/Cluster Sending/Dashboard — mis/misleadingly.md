@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misleadingly
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a misleading way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a misleading way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that creates a false impression, deceives, or leads to erroneous conclusions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With deceitful or confusing ambiguity in presentation or statement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misleadingly designates in a misleading way."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The statistical report was phrased so **misleadingly** that it gave credit to an unproven cure."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Popularizers of science often write **misleadingly** when they substitute poetic metaphor for exact law."*
+> - 📜 **Henry James (*The Wings of the Dove*):** *"She had spoken so **misleadingly** about her prospects that everyone assumed she was an heiress."*

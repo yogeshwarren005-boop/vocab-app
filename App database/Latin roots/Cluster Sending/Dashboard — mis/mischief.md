@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mischief
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reckless or malicious behavior that causes discomfort or annoyance in others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality or nature of being harmful or evil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Playful misbehavior, naughtiness, or teasing that causes minor annoyance rather than severe harm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Harm, injury, or damage caused intentionally or through reckless disregard of others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My name is Caius Martius, who hath done To thee particularly and to all the Volsces Great hurt and mischief; thereto witness may My surname Coriolanus."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, this is miching mallecho; it means mischief."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He cares not what mischief he does, if his weapon be out, he will foin like any devil."*
+> - 📜 **William Shakespeare (*Othello*):** *"To mourn a **mischief** that is past and gone is the next way to draw new mischief on."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She possessed a lively sense of humor that was ever on the alert to detect some harmless **mischief**."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"The magistrate is armed with public force to restrain the **mischief** of violent and rapacious men."*

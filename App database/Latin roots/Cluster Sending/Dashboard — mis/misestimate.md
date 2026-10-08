@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misestimate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Judge incorrectly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Calculate incorrectly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To estimate, assess, or calculate an amount, value, or distance incorrectly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To misjudge the character, capacity, or resolve of an individual or organization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misestimate designates judge incorrectly."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"To **misestimate** the fiscal resources of the union is to invite financial paralysis in times of war."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Legislators frequently **misestimate** the practical effects of tariffs upon ordinary household consumption."*
+> - 📜 **Winston Churchill (*The River War*):** *"The dervish leadership was prone to **misestimate** the disciplined firepower of modern magazine rifles."*

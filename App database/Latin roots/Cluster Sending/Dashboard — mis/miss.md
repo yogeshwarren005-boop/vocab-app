@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # miss
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A young woman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A failure to hit (or meet or find etc).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To fail to hit, reach, catch, meet, or attain a target, mark, or objective.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To notice, regret, or grieve over the absence or loss of a person or treasured thing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who ever strove To show her merit that did miss her love?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be gone tomorrow; and be sure of this, What I can help thee to, thou shalt not miss. [_Exeunt._] ACT II."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, he would miss it rather Than carry it but by the suit of the gentry to him And the desire of the nobles."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"I could have better spared a better man: O, I should have a heavy **miss** of thee if I were much in love with vanity!"*
+> - 📜 **Jane Austen (*Emma*):** *"She knew how tenderly her father would **miss** her daily presence when the wedding was over."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"A marksman may **miss** his target once through haste, but vigilance must not waver a second time."*

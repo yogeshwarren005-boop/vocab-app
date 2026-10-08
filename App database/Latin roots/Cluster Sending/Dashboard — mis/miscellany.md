@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # miscellany
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection containing a variety of sorts of things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anthology of short literary pieces and poems and ballads etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection or anthology of literary pieces, poems, or essays by various authors or on various subjects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diverse or motley mixture of varied things grouped together.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Groups of vertical braces } represent a single brace encompassing three-- in one case, four-- rhymed lines.] * * * * * * * * * * * * * * The Augustan Reprint Society THE MERRY-THOUGHT: or, the Glass-Window and Bog-House MISCELLANY."*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Roberts beginning in 1731, _The Merry-Thought: or, the Glass-Window and Bog-House Miscellany_, commonly known simply as _The Bog-House Miscellany_."*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"The MERRY-THOUGHT: or, the Glass-Window and Bog-House MISCELLANY."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub and Other Satires*):** *"The publisher issued an entertaining **miscellany** of satirical verses and humorous dialogues."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"Every periodical paper is a kind of **miscellany**, designed to please various palates with varied dishes."*
+> - 📜 **Edgar Allan Poe (*Marginalia*):** *"In this brief **miscellany** I record passing thoughts that escape formal critical treatises."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # semisoft
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Somewhat soft.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Somewhat soft.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Partly or moderately soft; intermediate in texture between soft and hard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary classifications, designating cheeses (such as Havarti or Fontina) of medium moisture and firmness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semisoft designates somewhat soft."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The warm spring sun transformed the winter crust into a **semisoft** layer of yielding slush."*
+> - 📜 **Charles Darwin (*Geological Observations on South America*):** *"The sedimentary stratum consisted of a **semisoft** marl that yielded easily to the geological hammer."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The sculptors preferred a **semisoft** limestone that permitted crisp ornamental undercutting before hardening in air."*

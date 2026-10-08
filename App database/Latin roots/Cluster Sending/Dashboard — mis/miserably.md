@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # miserably
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a miserable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a miserable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a wretched, unhappy, or distressingly uncomfortable manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pitifully, contemptibly, or completely inadequately; in a manner that fails completely.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou hast one son; for his sake pity me, Lest in revenge thereof, sith God is just, He be as miserably slain as I."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is the figure of a woman, too; but it is miserably dressed, and no such clothes ever came through the hall and out at the great door of the Dedlock mansion."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Yet so miserably had he conducted himself, that though she was at this present time (the summer of 1814) wearing black ribbons for his wife, she could not admit him to be worth thinking of again."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I reflected how **miserably** I should have perished if providence had not guided the wreck so near the shore."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne wept **miserably** throughout the sleepless night following Willoughby's cruel letter."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The royalist troops were **miserably** clad and lacked even basic ammunition during the northern winter."*

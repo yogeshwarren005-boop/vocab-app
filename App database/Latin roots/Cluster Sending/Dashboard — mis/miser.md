@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # miser
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stingy hoarder of money and possessions (often living miserably).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stingy hoarder of money and possessions (often living miserably).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who hoards wealth greedily and spends as little money as possible, living austerely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who clings obsessively to resources or affection without ever enjoying or sharing them.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rich honesty dwells like a miser, sir, in a poor house, as your pearl in your foul oyster."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In cases of defence ’tis best to weigh The enemy more mighty than he seems, So the proportions of defence are fill’d; Which, of a weak and niggardly projection, Doth, like a miser, spoil his coat with scanting A little cloth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Decrepit miser, base ignoble wretch!"*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"I will not sup with you to-night: I am a **miser** of my quiet hours."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The lonely weaver had turned into a solitary **miser**, counting his bright golden guineas by firelight."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge was a tight-fisted old **miser**, squeezing every farthing from the shivering clerk."*

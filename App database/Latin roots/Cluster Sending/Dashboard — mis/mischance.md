@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mischance
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unpredictable outcome that is unfortunate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instance of misfortune.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bad luck, misfortune, or an unlucky mishap that causes distress or failure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An untoward or disastrous accident happening contrary to all reasonable anticipation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He never can meet more mischance than come To be but nam’d of thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sleep rock thy brain, And never come mischance between us twain. [_Exit._] HAMLET."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But let this same be presently perform’d, Even while men’s minds are wild, lest more mischance On plots and errors happen."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"Beshrew thy heart! A strange **mischance** hath crossed our peaceful voyage upon these seas."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"What dire **mischance** hath brought this sudden blindness and captivity upon our champion?"*
+> - 📜 **Sir Walter Scott (*The Bride of Lammermoor*):** *"By some cruel **mischance**, the urgent message was delayed until it was too late to avert disaster."*

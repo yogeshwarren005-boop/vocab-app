@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # readmission
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of admitting someone again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of admitting someone again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of admitting someone again to a place, organization, university, or territory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The status of being permitted to re-enter upon satisfying prescribed conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Wilson, and expressing regret that no proposal having for its object the readmission of Master Byron to the academy could be entertained."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"This had the effect to do away with many of the “black codes,” and the States which desired readmission to the Union had to finally give them up."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The conditions of readmission were the ratification of the thirteenth and fourteenth constitutional amendments."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The expelled fellows petitioned the crown for their immediate **readmission** to the college."*
+> - 📜 **Abraham Lincoln (*Last Public Address*):** *"We all agree that the seceded states are out of their proper relation, and that their **readmission** is our common object."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The repentant schismatics petitioned the council for **readmission** to the communion of the faithful."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misshapenness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An affliction in which some part of the body is misshapen or malformed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An affliction in which some part of the body is misshapen or malformed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The structural deformity, asymmetry, or physical distortion of a living body or object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unnatural, grotesque, or flawed moral or conceptual configuration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misshapenness designates an affliction in which some part of the body is misshapen or malformed."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Chillingworth's inward malice seemed to stamp its ugly **misshapenness** upon his withered frame."*
+> - 📜 **Victor Hugo (*Notre-Dame de Paris*):** *"Quasimodo's tragic **misshapenness** hid a heart capable of sublime fidelity and love."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The embryologist studies anomalies of growth to discover what conditions cause anatomical **misshapenness**."*

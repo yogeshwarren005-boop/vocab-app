@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # miscreate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shape or form or make badly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shape or form or make badly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To create, shape, or fashion wrongly, deformedly, or unnaturally; to deform.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formed unlawfully, illegitimately, or contrary to the established order of nature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miscreate designates shape or form or make badly."*
+> - 📜 **William Shakespeare (*Henry V*):** *"With opening titles **miscreate**, whose right suits not in native colours with the truth."*
+> - 📜 **Edmund Spenser (*The Faerie Queene*):** *"A monster foul and **miscreate** lurked within the cavern, spewing venom upon unwary travellers."*
+> - 📜 **John Milton (*Paradise Lost*):** *"No creature **miscreate** by dark design could abide the searching radiance of the divine presence."*

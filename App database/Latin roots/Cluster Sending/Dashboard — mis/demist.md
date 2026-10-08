@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # demist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from mist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from mist.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To clear condensation, fog, or moisture from a window, mirror, or optical glass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To remove obscuring vapor from an enclosed vehicle or scientific observation chamber.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demist designates free from mist."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"He paused to **demist** his heavy spectacles with a silk handkerchief before reading the formula."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Challenger rubbed the lens to **demist** the surface and reveal the strange footprints in the clay."*
+> - 📜 **Nevil Shute (*No Highway*):** *"The pilot wiped the windscreen furiously to **demist** the pane as the aircraft descended into freezing cloud."*

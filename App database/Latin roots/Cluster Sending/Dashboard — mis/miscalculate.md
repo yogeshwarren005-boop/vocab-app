@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # miscalculate
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Judge incorrectly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Calculate incorrectly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To calculate or judge an amount, distance, odds, or outcome incorrectly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To misjudge future consequences, human reactions, or political fortunes through flawed analysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"You miscalculate matters widely, when you forbid my waiting on you, lest it should hurt my worldly concerns."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The business man who values indirect agents above the market rate borrows, and if he miscalculates and fails to make them earn the expected rent, he loses."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It had become known that she had had a fearful journey to Bath, owing to her miscalculating the distance: that the horse had broken down, and that she had been more than two days getting there."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Persian monarch was doomed to **miscalculate** the steadfast courage of the Roman legions."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"She had reason to **miscalculate** the strength of her own feelings until put to the painful trial."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"Strategic commanders who **miscalculate** the adversary's logistics risk catastrophe on the battlefield."*

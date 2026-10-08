@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misogynistic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hating women in particular.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hating women in particular.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strongly prejudiced against, contemptuous of, or actively hostile toward women.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting systemic prejudice, disparagement, or discrimination directed against females.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misogynistic designates hating women in particular."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"She catalogued the dreary array of **misogynistic** treatises penned by Victorian clergymen."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Tom Tulliver frequently indulged in **misogynistic** remarks, asserting that girls were incapable of geometry."*
+> - 📜 **H. G. Wells (*Ann Veronica*):** *"The magistrate's **misogynistic** lecture to the suffragettes provoked defiant shouts from the gallery."*

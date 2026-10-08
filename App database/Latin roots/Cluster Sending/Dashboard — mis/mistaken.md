@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mistaken
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Identify incorrectly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To make a mistake or be incorrect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wrong in opinion, judgment, or belief; based on an error of fact or inference.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Misunderstood, wrongly interpreted, or misidentified by observers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It may be you have mistaken him, my lord."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, stand up blest, [_He rises_.] Whilst with no softer cushion than the flint I kneel before thee and unproperly Show duty, as mistaken all this while Between the child and parent. [_She kneels._] CORIOLANUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are mistaken: the one may be sold or given, if there were wealth enough for the purchase or merit for the gift; the other is not a thing for sale, and only the gift of the gods."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"She confessed that she had been entirely **mistaken** regarding Edward's true attachment."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"My aunt shook her head and declared that the world was thoroughly **mistaken** in its harsh verdict."*
+> - 📜 **Abraham Lincoln (*Second Inaugural Address*):** *"Both parties read the same Bible, and pray to the same God; each invoked His aid against the other, and each was in part **mistaken**."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # missal
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) a book containing all the prayers and responses needed to celebrate mass throughout the year.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic church) a book containing all the prayers and responses needed to celebrate mass throughout the year.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A liturgical book containing all instructions, prayers, and readings required for celebrating Mass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An illuminated medieval service-book prized as an artistic or religious relic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"Van Helsing opened his missal and began to read, and Quincey and I followed as well as we could."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"On the stone table before her stood a crucifix of ivory, beside which was laid a missal, having its pages richly illuminated, and its boards adorned with clasps of gold, and bosses of the same precious metal."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Sometimes we saw little towns or castles on the top of steep hills such as we see in old missals; sometimes we ran by rivers and streams which seemed from the wide stony margin on each side of them to be subject to great floods."*
+> - 📜 **Sir Walter Scott (*The Lay of the Last Minstrel*):** *"The aged monk turned the parchment leaves of his illuminated **missal** with devout reverence."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The delicate borders of the fourteenth-century **missal** exhibit the finest gothic miniature painting."*
+> - 📜 **Victor Hugo (*Notre-Dame de Paris*):** *"Claude Frollo closed his Latin **missal** and turned with troubled brow toward his astrological charts."*

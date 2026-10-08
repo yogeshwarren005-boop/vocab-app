@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misery
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of ill-being due to affliction or misfortune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of intense unhappiness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of great suffering, distress, poverty, or discomfort of mind or body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cause or source of deep unhappiness, tribulation, or painful affliction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But when we in our viciousness grow hard— O misery on’t!—the wise gods seal our eyes, In our own filth drop our clear judgments, make us Adore our errors, laugh at’s while we strut To our confusion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And we two will rail against our mistress the world and all our misery."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But seven years since, in Syracusa, boy, Thou know’st we parted; but perhaps, my son, Thou sham’st to acknowledge me in misery."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"**Misery** acquaints a man with strange bedfellows; I will here shroud till the dregs of the storm be past."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"No words can describe the agonizing **misery** that overwhelmed my spirit after the deed was done."*
+> - 📜 **Victor Hugo (*Les Misérables*):** *"The endless **misery** of the Parisian underclass cried aloud for human compassion and social justice."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # surmisal
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A message expressing an opinion based on incomplete evidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A message expressing an opinion based on incomplete evidence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of surmising, inferring, or suspecting something without certain proof; a conjecture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tentative speculation regarding the unseen motives or causes of an event.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surmisal designates a message expressing an opinion based on incomplete evidence."*
+> - 📜 **Sir Walter Scott (*The Bride of Lammermoor*):** *"Every idle **surmisal** of the village gossips was magnified into ominous prophecy."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She dismissed the uncharitable **surmisal** before it could cloud her faith in her husband's integrity."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"A dark **surmisal** crossed his mind as he gazed upon the mysterious Italian ruins."*

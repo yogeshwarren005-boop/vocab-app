@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misconstruction
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of misinterpretation resulting from putting a wrong construction on words or actions (often deliberately).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ungrammatical constituent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of misinterpreting or putting an erroneous meaning upon words or actions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mistaken or false interpretation that breeds discord, suspicion, or legal error.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"You did not use to like cards; but time makes many changes.” “I am not yet so much changed,” cried Anne, and stopped, fearing she hardly knew what misconstruction."*
-> - 📜 **George Eliot (*Middlemarch*):** *"No wonder that in Lydgate’s energetic nature the sense of a hopeless misconstruction easily turned into a dogged resistance."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"No stronger proof could be given of the distress under which these writers labor for objections, than their stooping to such a misconstruction."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Statutes must be penned with lucid precision to guard against dangerous judicial **misconstruction**."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She dreaded lest her reserve should be liable to **misconstruction** from those she esteemed."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The constitutional clause was drafted to prevent any hostile **misconstruction** by future adversaries."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mismate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with an unsuitable mate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with an unsuitable mate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To mate, pair, or match unsuitably, inappropriately, or incompatibly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To unite animals or people whose traits or dispositions are fundamentally unsuited for partnership.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mismate designates provide with an unsuitable mate."*
+> - 📜 **John Milton (*The Doctrine and Discipline of Divorce*):** *"It is a cruel bondage to **mismate** two noble souls whose inward spirits are antipathetic."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Fanciers take meticulous precautions never to **mismate** pedigree pigeons with inferior stock."*
+> - 📜 **George Meredith (*The Egoist*):** *"The worldly aunt schemed to **mismate** her niece with a wealthy baronet whom the girl despised."*

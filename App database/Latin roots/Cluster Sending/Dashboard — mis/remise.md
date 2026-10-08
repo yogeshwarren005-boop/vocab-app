@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # remise
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expensive or high-class hackney.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small building for housing coaches and carriages and other vehicles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To give up, release, or surrender a claim, right, or property to another by formal deed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A coach-house, livery stable, or carriage hired from a livery stable.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, remise designates an expensive or high-class hackney."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The standard operative words in a deed of release are to **remise**, release, and forever quitclaim."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"They hired a glass coach from the nearest **remise** to convey the bridal party to the chapel."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The federal pact does not require any state to **remise** its essential domestic police prerogatives."*

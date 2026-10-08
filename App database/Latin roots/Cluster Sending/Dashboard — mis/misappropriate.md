@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misappropriate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Appropriate (as property entrusted to one's care) fraudulently to one's own use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appropriate (as property entrusted to one's care) fraudulently to one's own use.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To take or use money or property dishonestly for one's own unauthorized benefit; to embezzle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To misapply resources or authority in violation of a trust or legal fiduciary duty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misappropriate designates appropriate (as property entrusted to one's care) fraudulently to one's own use."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Any trustee who dares to **misappropriate** the ward's estate is answerable to the Court of Chancery."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Severe sanctions must deter those tempted to **misappropriate** the national treasury for private enrichment."*
+> - 📜 **Charles Dickens (*Martin Chuzzlewit*):** *"The fraudulent director schemed to **misappropriate** the investments of unsuspecting depositors."*

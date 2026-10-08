@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # impermissibility
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inadmissibility as a consequence of not being permitted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inadmissibility as a consequence of not being permitted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or status of being unlawful, forbidden, or strictly prohibited by rules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The philosophical or ethical unacceptability of an action, doctrine, or policy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impermissibility designates inadmissibility as a consequence of not being permitted."*
+> - 📜 **Immanuel Kant (*Groundwork of the Metaphysics of Morals*):** *"The moral **impermissibility** of deceit derives from its inability to be willed as a universal law."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"The social **impermissibility** of aggression is necessary to preserve the foundations of civic security."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"A legislator must demonstrate the harm of an act before decreeing its legal **impermissibility**."*

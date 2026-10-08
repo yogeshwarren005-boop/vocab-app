@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # commissure
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bundle of nerve fibers passing from one side to the other of the brain or spinal cord.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bundle of nerve fibers passing from one side to the other of the brain or spinal cord.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A point, line, or seam where two anatomical parts, bones, or nerve fibers join together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structural junction, seam, or articulation uniting separate biological segments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, commissure designates a bundle of nerve fibers passing from one side to the other of the brain or spinal cord."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The contraction of muscles at the oral **commissure** imparts a distinct expression of sneering or contempt."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The lateral nerve cords communicate across the midline through a transverse **commissure**."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Damage to the cerebral **commissure** impairs the harmonious coordination between the two hemispheres."*

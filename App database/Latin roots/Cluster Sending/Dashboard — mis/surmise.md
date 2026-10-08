@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # surmise
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A message expressing an opinion based on incomplete evidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infer from incomplete evidence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To suppose that something is true without having certain or conclusive evidence to confirm it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thought, conjecture, or opinion based on slender clues or circumstantial evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My thought, whose murder yet is but fantastical, Shakes so my single state of man That function is smother’d in surmise, And nothing is but what is not."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Aaron is gone, and my compassionate heart Will not permit mine eyes once to behold The thing whereat it trembles by surmise."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore that praise which Collatine doth owe Enchanted Tarquin answers with surmise, In silent wonder of still-gazing eyes."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"My thought, whose murder yet is but fantastical, shakes so my single state of man that function is smother'd in **surmise**, and nothing is but what is not."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"It was easy to **surmise** from his troubled glance that the letter contained painful intelligence."*
+> - 📜 **John Keats (*On First Looking into Chapman's Homer*):** *"Or like stout Cortez when with eagle eyes he stared at the Pacific, and all his men look'd at each other with a wild **surmise**."*

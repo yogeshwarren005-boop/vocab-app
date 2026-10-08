@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mistreated
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat badly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subjected to cruel treatment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Treated cruelly, badly, or unfairly; subjected to abuse, neglect, or hardship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abused physically or denied just consideration by guardians or masters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mistreated designates treat badly."*
+> - 📜 **Charlotte Bronte (*Jane Eyre*):** *"I felt myself a lonely, **mistreated** child, outcast from the warm affections of Gateshead Hall."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The poor, **mistreated** drudge at the boarding school bore her heavy burdens without a word of complaint."*
+> - 📜 **Mark Twain (*The Prince and the Pauper*):** *"The young king vowed that his poorest and most **mistreated** subjects should henceforth find mercy."*

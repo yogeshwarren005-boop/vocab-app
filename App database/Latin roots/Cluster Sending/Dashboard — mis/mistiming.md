@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mistiming
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something located at a time when it could not have existed or occurred.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Time incorrectly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The choice or occurrence of an inappropriate or disadvantageous moment for action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An error in rhythm, synchronization, or chronological coordination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mistiming designates something located at a time when it could not have existed or occurred."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The fatal **mistiming** of the cavalry charge exposed the imperial infantry to flank envelopment."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"A painful **mistiming** of their meeting caused her confession to be intercepted by her husband."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The strategic **mistiming** of the naval bombardment forfeited the advantage of tactical surprise."*

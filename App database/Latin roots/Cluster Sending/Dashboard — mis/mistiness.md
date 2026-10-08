@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mistiness
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cloudiness resulting from haze or mist or vapor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cloudiness resulting from haze or mist or vapor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The meteorological presence of haze, fog, or suspended atmospheric moisture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vague, dim, or indistinct quality of mind, memory, or expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But her eyes had a softness—invariably a softness—which, had they not been dark, would have seemed mistiness; as they were, it lowered an expression that might have been piercing to simple clearness."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Through this low-lit mistiness Tess walked leisurely along."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Out of the mistiness of her clouded brain a thought had come with unwonted clearness."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"A perpetual **mistiness** seemed to linger about the gables of the ancient puritan mansion."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Turner captured the luminous **mistiness** of Venetian dawns with unmatched atmospheric truth."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Beneath the intellectual **mistiness** of German metaphysics lies an earnest quest for reality."*

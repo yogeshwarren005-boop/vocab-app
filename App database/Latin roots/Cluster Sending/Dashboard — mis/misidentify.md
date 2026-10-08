@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misidentify
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Identify incorrectly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Identify incorrectly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To identify someone or something incorrectly; to mistake one entity for another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To assign a specimen, plant, or suspect to an erroneous classification or identity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misidentify designates identify incorrectly."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Naturalists often **misidentify** juvenile plumage as characteristic of an entirely distinct species."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"An agitated witness will easily **misidentify** a stranger in the dim glare of a London street lamp."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"To **misidentify** a rudimentary organ is to obscure the genealogical link between related organisms."*

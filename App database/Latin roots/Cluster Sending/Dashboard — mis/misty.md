@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misty
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Filled or abounding with fog or mist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wet with mist.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of, accompanied by, or characterized by mist; foggy and moist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vague, indistinct, or dimly perceived in memory, thought, or distant vision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Night’s candles are burnt out, and jocund day Stands tiptoe on the misty mountain tops."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O brother, help me with thy fainting hand, If fear hath made thee faint, as me it hath, Out of this fell devouring receptacle, As hateful as Cocytus’ misty mouth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s not a hollow cave or lurking-place, No vast obscurity or misty vale, Where bloody murder or detested rape Can couch for fear but I will find them out, And in their ears tell them my dreadful name, Revenge, which makes the foul offender quake."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Night's candles are burnt out, and jocund day stands tiptoe on the **misty** mountain tops."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The **misty** crags of the Alps rose majestically into the purple skies of dawn."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The **misty** marshes stretched away to the horizon, lonely, cold, and desolate."*

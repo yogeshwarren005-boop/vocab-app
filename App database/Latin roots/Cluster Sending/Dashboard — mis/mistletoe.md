@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mistletoe
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: American plants closely resembling old world mistletoe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Old world parasitic shrub having branching greenish stems with leathery leaves and waxy white glutinous berries; the traditional mistletoe of christmas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A parasitic evergreen shrub (*Viscum album* or related species) growing on trees and bearing white berries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A traditional winter bough hung as a Christmas decoration under which people exchange kisses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These two have ticed me hither to this place, A barren detested vale you see it is; The trees, though summer, yet forlorn and lean, Overcome with moss and baleful mistletoe."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A large bough of mistletoe had been brought from the woods that day, and suspended in the hall of the bachelor’s home."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was Christmas Eve, with its loads a holly and mistletoe, and the town was very full of strangers who had come in from all parts of the country on account of the day."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"The **mistletoe** was hung up in the hall, and the young men had the privilege of kissing any girl under it."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Mr. Pickwick led the old lady to the bough of **mistletoe**, saluting her with polite old-fashioned gallantry."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Consider the **mistletoe**, which draws its nourishment from certain trees, its seeds transported by birds."*

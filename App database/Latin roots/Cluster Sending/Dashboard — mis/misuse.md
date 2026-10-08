@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misuse
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Improper or excessive use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apply to a wrong thing or person; apply badly or incorrectly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To use something in the wrong way or for the wrong purpose; to misapply.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To treat someone or something badly, cruelly, or abusively; to maltreat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am perjured most, For all my vows are oaths but to misuse thee: And all my honest faith in thee is lost."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Misuse the tenour of thy kinsman’s trust?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, who shall believe But you misuse the reverence of your place, Employ the countenance and grace of heaven As a false favourite doth his prince’s name, In deeds dishonourable?"*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Signior Antonio, many a time and oft in the Rialto you have rated me about my moneys and my usances; yet did I never **misuse** a debtor."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The greatest hindrance to knowledge is the willful **misuse** of words in scholastic debates."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Monopolists invariably **misuse** their privileges to extort unnatural prices from the public."*

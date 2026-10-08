@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misanthropist
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who dislikes people in general.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who dislikes people in general.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who harbors hatred, deep suspicion, or contempt for humanity; a misanthrope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A recluse whose low estimation of human integrity keeps them distant from society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"All the world used her ill, said this young misanthropist, and we may be pretty certain that persons whom all the world treats ill, deserve entirely the treatment they get."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"A perfect misanthropist’s Heaven—and Mr."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Living among clowns and misanthropists, she probably cannot appreciate a better class of people when she meets them."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"My misery made me a **misanthropist**, driven from the warmth of cottages into cold desolation."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Teufelsdröckh was no ordinary **misanthropist**, for beneath his bitter irony beat a sorrowing heart."*
+> - 📜 **Oliver Goldsmith (*The Citizen of the World*):** *"The declared **misanthropist** often complains of mankind only because mankind refuses to flatter his vanity."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misapprehend
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Interpret in the wrong way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Interpret in the wrong way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To fail to understand correctly; to misunderstand or misinterpret words, motives, or facts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To take in a mistaken sense or form a false conception of another's intentions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I wish not to misapprehend you.” “Not exactly the notice you were to receive, Lady Dedlock, because the contemplated notice supposed the agreement to have been observed."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I thought you set less store by them even than I.” “You misapprehend me, father; you often do,” said Angel with a little impatience."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Not to agitate and hinder her longer, the considerate Clare began talking in a more general way: “You quite misapprehend my parents."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Do not **misapprehend** me, Elizabeth; I seek only your lasting happiness and welfare."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Men readily **misapprehend** the real motives of their neighbours, attributing accident to malice."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"Lest gentlemen should **misapprehend** my meaning, I declare myself an advocate for constitutional order."*

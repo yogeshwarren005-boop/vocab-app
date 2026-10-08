@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # impermissible
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not permitted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not allowable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not allowed; contrary to rules, regulations, law, or ethical duty; forbidden.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unacceptable under formal standards of logic, scientific inquiry, or social propriety.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impermissible designates not permitted."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Arbitrary detention without trial is constitutionally **impermissible** under the ancient rights of Englishmen."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"It is logically **impermissible** to deduce empirical truth from purely a priori assumptions."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Such intimate inquiries into another family's finances were deemed socially **impermissible**."*

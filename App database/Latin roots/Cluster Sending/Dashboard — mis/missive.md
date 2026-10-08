@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # missive
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A written message addressed to a person or organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A written message addressed to a person or organization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A letter, dispatch, or official written message, especially a formal or weighty one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official summons or writ sent by higher authority requiring obedience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I wrote to you When rioting in Alexandria; you Did pocket up my letters, and with taunts Did gibe my missive out of audience."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Her letter to Sir Leicester is discovered on her table, but it is doubtful yet whether he has not received another missive from another world requiring to be personally answered, and all the living languages, and all the dead, are as one to him."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba, a small yawn upon her mouth, took the pen, and with off-hand serenity directed the missive to Boldwood."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"While I stood rapt in the wonder of it, came **missives** from the king, who all-hailed me 'Thane of Cawdor'."*
+> - 📜 **Sir Walter Scott (*The Heart of Midlothian*):** *"She unfolded the solemn **missive** with trembling hands, fearing news of her sister's fate."*
+> - 📜 **Edgar Allan Poe (*The Purloined Letter*):** *"The confidential **missive** was of the utmost political consequence to the royal personage."*

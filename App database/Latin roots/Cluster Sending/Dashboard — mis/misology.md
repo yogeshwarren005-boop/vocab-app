@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misology
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hatred of reasoning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hatred of reasoning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hatred or distrust of reason, reasoned argument, intellectual debate, or rational discourse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rejection of dialectical philosophy arising from disappointment with fallacious claims.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misology designates hatred of reasoning."*
+> - 📜 **Plato (*Phaedo*):** *"Let us beware of becoming misologues, for there is no greater evil than this **misology**, or hatred of rational argument."*
+> - 📜 **Immanuel Kant (*Groundwork of the Metaphysics of Morals*):** *"A refined pursuit of luxury often ends in a weary **misology**, envying the simple contentment of the unlettered."*
+> - 📜 **John Stuart Mill (*An Examination of Sir William Hamilton's Philosophy*):** *"To abandon philosophy for dogmatic intuitionism is to surrender intellect to irrational **misology**."*

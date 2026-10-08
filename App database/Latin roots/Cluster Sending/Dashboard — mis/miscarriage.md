@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # miscarriage
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Failure of a plan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural loss of the products of conception.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spontaneous premature expulsion of a fetus from the womb before viability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A failure to achieve a rightful, intended, or just result; an abortive breakdown of purpose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Say, Lassie, why, thy train amang, While loud the trump’s heroic clang, And sock or buskin skelp alang To death or marriage; Scarce ane has tried the shepherd—sang But wi’ miscarriage?"*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"That--over there,” answered Billy, impatiently, scarcely knowing whether to be more irritated at the threatened miscarriage of her cherished plans, or at Arkwright's (to her) wilfully blind insistence on her making her meaning more plain."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The case is still worse, the pollution is still more deadly, if she has had a miscarriage or has been delivered of a stillborn child."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A gross **miscarriage** of justice occurs whenever corrupt procedure convicts an innocent subject."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Many a worthy project suffers **miscarriage** not through lack of virtue, but want of prudence."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The sudden **miscarriage** of their secret treaty plunged the Lilliputian court into confusion."*

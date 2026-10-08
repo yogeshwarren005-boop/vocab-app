@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mismanage
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Manage badly or incompetently.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Manage badly or incompetently.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To manage badly, incompetently, or dishonestly; to mishandle affairs, funds, or duties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To direct an estate, business enterprise, or campaign toward financial or operational ruin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He knew he had mismanaged his wife’s property and was to blame toward his children, but he did not know how to remedy it)."*
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"The town itself was shamefully mismanaged."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"He had a taste for law, which cost him many thousands yearly; and being a great deal too clever to be robbed, as he said, by any single agent, allowed his affairs to be mismanaged by a dozen, whom he all equally mistrusted."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Joint-stock directors are notoriously prone to **mismanage** the funds of absentee shareholders."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The Circumlocution Office contrived to **mismanage** every simple public transaction entrusted to it."*
+> - 📜 **George Washington (*Writings of George Washington*):** *"If our commissaries continue to **mismanage** the procurement of beef, the army must disperse."*

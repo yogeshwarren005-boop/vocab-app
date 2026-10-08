@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misogynism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hatred of women.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hatred of women.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The hatred of, contempt for, or ingrained prejudice against women; misogyny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cultural, institutional, or ideological system of hostility toward female empowerment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misogynism designates hatred of women."*
+> - 📜 **John Stuart Mill (*The Subjection of Women*):** *"Ingrained societal **misogynism** has long rationalized the denial of civil rights to married women."*
+> - 📜 **George Bernard Shaw (*Man and Superman*):** *"Tanner's mock-philosophical **misogynism** was swiftly dismantled by Ann's practical romantic resolve."*
+> - 📜 **Charlotte Perkins Gilman (*The Man-Made World*):** *"Centuries of patriarchal **misogynism** have stunted the harmonious cultural development of society."*

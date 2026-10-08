@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mistreat
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat badly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat badly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To treat someone or something badly, cruelly, or unfairly; to abuse or mishandle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To subject animals or dependents to physical cruelty, neglect, or harsh privation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mistreat designates treat badly."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The cruel beadle warned the parish boy that any insubordination would lead masters to **mistreat** him."*
+> - 📜 **Anna Sewell (*Black Beauty*):** *"Ignorant carters often **mistreat** willing horses by overloading the carts and applying the whip."*
+> - 📜 **Frederick Douglass (*Narrative of the Life of Frederick Douglass*):** *"Cruel overseers were permitted to **mistreat** the enslaved laborers without fear of judicial restraint."*

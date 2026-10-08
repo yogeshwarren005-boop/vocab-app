@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # submission
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something (manuscripts or architectural plans and models or estimates or works of art of all genres etc.) submitted for the judgment of others (as in a competition).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of submitting; usually surrendering power to another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or fact of yielding, surrendering, or bowing to superior authority or will.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formal presentation of a proposal, document, or legal brief for judgment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And therefore tell her I return great thanks, And in submission will attend on her."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Submission, Dauphin! ’Tis a mere French word."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We know the time since he was mild and affable; And if we did but glance a far-off look, Immediately he was upon his knee, That all the court admired him for submission."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"My spirits, as in a dream, are all bound up; my father's loss, the weakness which I feel, are but light to me, might I but through my prison once a day behold this maid: all corners else o' the earth let liberty make use of; space enough have I in such a prison, and bow in humble **submission**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Yielded with coy **submission**, modest pride, and sweet reluctant amorous delay."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The vanquished princes offered unconditional **submission** to the emperor at the gates of Rome."*

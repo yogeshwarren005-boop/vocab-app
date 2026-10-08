@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # postmistress
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman postmaster.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman postmaster.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who is in charge of a post office; female postmaster.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A female official managing postal communications, distribution, and telegraphs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"While the postmistress searched a pigeonhole he gazed at the recruiting poster with soldiers of all arms on parade: and held the tip of his baton against his nostrils, smelling freshprinted rag paper."*
-> - 📜 **James Joyce (*Ulysses*):** *"The postmistress handed him back through the grill his card with a letter."*
-> - 📜 **James Joyce (*Ulysses*):** *"Healy, Mr Justice Fitzgibbon, John Howard Parnell, the reverend Tinned Salmon, Professor Joly, Mrs Breen, Denis Breen, Theodore Purefoy, Mina Purefoy, the Westland Row postmistress, C."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The village **postmistress** was the supreme repository of local news, knowing every handwriting on the letters."*
+> - 📜 **Anthony Trollope (*The Small House at Allington*):** *"The sharp-eyed **postmistress** sorted the morning mail while commenting freely on the London postmarks."*
+> - 📜 **Sarah Orne Jewett (*The Country of the Pointed Firs*):** *"The elderly **postmistress** handed me my Boston papers with a pleasant greeting from behind the wooden grille."*

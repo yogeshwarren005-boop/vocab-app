@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mislaid
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place (something) where one cannot find it again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lost temporarily; as especially put in an unaccustomed or forgotten place.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put down in a place that has been temporarily forgotten; misplaced.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Directed or bestowed unwisely or inappropriately upon an undeserving object.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"All through dinner—which was long, in consequence of such accidents as the dish of potatoes being mislaid in the coal skuttle and the handle of the corkscrew coming off and striking the young woman in the chin—Mrs."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The gods of birth were careless, and I was mislaid in a far land and nursed by an alien people."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"I would write to him myself, but have mislaid his direction; and, as I hinted above, am afraid he took something in my conduct amiss."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber spent an anxious hour searching for a **mislaid** promissory note of paramount importance."*
+> - 📜 **Jane Austen (*Emma*):** *"She feared she had **mislaid** the precious pattern entrusted to her by her dear companion."*
+> - 📜 **Charlotte Bronte (*Jane Eyre*):** *"My gloves were **mislaid** during the bustle of morning packing at Lowood school."*

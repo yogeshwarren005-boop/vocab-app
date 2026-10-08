@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misogynist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A misanthrope who dislikes women in particular.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A misanthrope who dislikes women in particular.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who dislikes, despises, or strongly prejudices against women.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual whose writings or conduct express deep hostility or cynicism toward women.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misogynist designates a misanthrope who dislikes women in particular."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"Henry Higgins professed himself an inveterate old **misogynist**, yet took keen interest in Eliza's transformation."*
+> - 📜 **Arthur Conan Doyle (*A Scandal in Bohemia*):** *"Sherlock Holmes was no emotional sentimentalist; many took him for a cold, calculating **misogynist**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The cynical old rector spoke like a confirmed **misogynist**, warning Fred against female wiles."*

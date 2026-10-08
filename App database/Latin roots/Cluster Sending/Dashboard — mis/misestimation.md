@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misestimation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mistake in calculating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mistake in calculating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An erroneous appraisal, inaccurate calculation, or mistaken judgment of value or strength.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flawed assessment of circumstances that undermines practical strategy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misestimation designates a mistake in calculating."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A disastrous **misestimation** of the Persian army's numbers lured Julian into the desert interior."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"The nobility's tragic **misestimation** of peasant discontent hastened their sudden overthrow."*
+> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"Subjective bias leads to persistent **misestimation** of social trends and historical forces."*

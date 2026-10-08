@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # miserable
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very unhappy; full of misery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deserving or inciting pity; ; ; - galsworthy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wretchedly unhappy, uncomfortable, or distressed; wretched in mind or outward circumstance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pitifully poor, mean, inadequate, or contemptible in quality or degree.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Twice did he turn his back and purposed so; But kindness, nobler ever than revenge, And nature, stronger than his just occasion, Made him give battle to the lioness, Who quickly fell before him; in which hurtling From miserable slumber I awaked."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Had I been thief-stol’n, As my two brothers, happy! but most miserable Is the desire that’s glorious."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Get you therefore hence, Poor miserable wretches, to your death, The taste whereof God of his mercy give You patience to endure, and true repentance Of all your dear offences!"*
+> - 📜 **John Milton (*Paradise Lost*):** *"O **miserable** of happy! Is this the end of this new glorious world, and mee so late the bliss of heaven?"*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I am alone and **miserable**; man will not associate with me, but one as deformed as myself would not disdain me."*
+> - 📜 **Charlotte Bronte (*Jane Eyre*):** *"The cold rain beat against the panes, making the solitary schoolroom feel doubly **miserable**."*

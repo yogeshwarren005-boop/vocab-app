@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misogynous
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hating women in particular.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hating women in particular.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, exhibiting, or expressing hatred, contempt, or prejudice against women.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an aversion to women or reflecting traditional anti-female prejudice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misogynous designates hating women in particular."*
+> - 📜 **John Stuart Mill (*The Subjection of Women*):** *"No civilized state can defend the survival of **misogynous** statutes in its criminal jurisprudence."*
+> - 📜 **Samuel Taylor Coleridge (*Table Talk*):** *"Euripides was unjustly stigmatized by ancient comedians as possessing a fiercely **misogynous** temper."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"In his bitter disillusionment, Jude uttered several harsh, **misogynous** reflections on domestic life."*

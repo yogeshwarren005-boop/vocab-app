@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misty-eyed
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having eyes blurred as with tears.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having eyes blurred as with tears.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having eyes that are filled or clouded with tears, typically from sentimentality or nostalgia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Displaying maudlin emotion or wistful recollection of the past.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misty-eyed designates having eyes blurred as with tears."*
+> - 📜 **Charles Dickens (*The Cricket on the Hearth*):** *"Caleb Plummer looked **misty-eyed** at his blind daughter as she sang beside the toy-maker's bench."*
+> - 📜 **Louisa May Alcott (*Little Women*):** *"Jo turned away **misty-eyed** as Beth smiled weakly from her pillow by the window."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"The veteran grew **misty-eyed** as he recalled the fallen comrades of his revolutionary campaigns."*

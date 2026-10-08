@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # commiseration
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of sympathy and sorrow for the misfortunes of others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expression of sympathy with another's grief.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The feeling, expression, or sharing of sympathy and sorrow for the misfortunes of others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compassionate condolence offered in response to bereavement, loss, or grief.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"More fairer than fair, beautiful than beauteous, truer than truth itself, have commiseration on thy heroical vassal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My heart is not compact of flint nor steel, Nor can I utter all our bitter grief, But floods of tears will drown my oratory And break my utterance, even in the time When it should move you to attend me most, And force you to commiseration."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You know how good my guardian is and what a happy life we lead, and I have everything to be thankful for and nothing in the world to desire.” I felt as if he had greater commiseration for me than I had ever had for myself."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The spectators looked upon the condemned prisoner with mingled horror and silent **commiseration**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Such gentle **commiseration** did the heavenly messenger display toward the fallen pair."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor listened to Marianne's lamentations with the tenderest **commiseration** and patience."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # intermission
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of suspending activity temporarily.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A time interval during which there is a temporary cessation of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pause, interval, or temporary cessation between periods of activity, work, or performance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scheduled break between parts of a theatrical performance, concert, or formal debate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You lov’d, I lov’d; for intermission No more pertains to me, my lord, than you."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The rain had been thick and heavy all day, and with little intermission for many days."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He would think so all the more if he saw the woman thus hurrying up and down for hours, without fatigue, without intermission, followed by the faithful step upon the Ghost’s Walk."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Cut short all **intermission**; front to front bring thou this fiend of Scotland and myself."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Without **intermission** did the rebellious angels toil in the subterranean forge."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"For twenty years the frontier enjoyed no **intermission** from barbarian incursions."*

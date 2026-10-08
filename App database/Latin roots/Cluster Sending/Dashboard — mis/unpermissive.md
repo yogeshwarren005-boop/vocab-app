@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # unpermissive
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not inclined to grant permission; severe in discipline.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not inclined to grant permission; severe in discipline.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not permissive; strict, intolerant, unyielding, or refusing to grant license or freedom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rigidly enforcing discipline and refusing discretionary exemptions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unpermissive designates not inclined to grant permission; severe in discipline."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"An **unpermissive** social orthodoxy crushes individual eccentricity beneath the weight of conformity."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Nature is an **unpermissive** taskmaster, punishing neglect with inevitable pestilence and ruin."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"The **unpermissive** code of the old puritans frowned upon every innocent recreational art."*

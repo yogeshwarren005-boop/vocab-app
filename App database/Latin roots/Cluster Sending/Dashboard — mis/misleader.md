@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misleader
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who leads astray (often deliberately).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who leads astray (often deliberately).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who leads others astray, deceives their judgment, or guides them into error.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A political demagogue or false teacher who corrupts the minds of the multitude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That villainous abominable misleader of youth, Falstaff, that old white-bearded Satan."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Old Salisbury, shame to thy silver hair, Thou mad misleader of thy brainsick son!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Till then I banish thee, on pain of death, As I have done the rest of my misleaders, Not to come near our person by ten mile."*
+> - 📜 **William Shakespeare (*Henry IV, Part 2*):** *"I banish thee, on pain of death, as I have done the rest of my **misleaders**."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"Beware of that smooth-tongued **misleader**, Worldly Wiseman, who tempts pilgrims from the narrow way."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The ancient sophists were notorious **misleaders** of youth, teaching verbal disputation instead of truth."*

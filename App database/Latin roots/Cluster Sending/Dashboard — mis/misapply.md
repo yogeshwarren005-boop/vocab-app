@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misapply
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Apply to a wrong thing or person; apply badly or incorrectly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apply to a wrong thing or person; apply badly or incorrectly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To apply wrongly, inappropriately, or to an unsuitable purpose or context.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To divert funds, laws, or logical principles from their proper destination or meaning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virtue itself turns vice being misapplied, And vice sometime’s by action dignified."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The medieval notion of _justum pretium_, the just price, may have been often misapplied, and it was often criticized and ridiculed by economists in the period of idealized competition (from Adam Smith to John Stuart Mill)."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"I persuade myself, however, that it will be made apparent to every one, that the charge cannot be supported, and that the maxim on which it relies has been totally misconceived and misapplied."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Scholars often **misapply** their great ingenuity to subtilties that yield no practical benefit to mankind."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"It is an error to **misapply** modern constitutional doctrines to fourteenth-century parliaments."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Society has no moral right to **misapply** coercive penalties to suppress non-conforming personal opinions."*

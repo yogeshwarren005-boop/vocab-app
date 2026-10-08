@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mislead
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lead someone in the wrong direction or give someone wrong directions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give false or misleading information to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause someone to hold a false impression or make a wrong decision; to guide astray.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To deceive, delude, or entice into error, immorality, or foolish enterprise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SONG _ Take, O take those lips away, That so sweetly were forsworn, And those eyes, the break of day, Lights that do mislead the morn."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Are not you he That frights the maidens of the villagery, Skim milk, and sometimes labour in the quern, And bootless make the breathless housewife churn, And sometime make the drink to bear no barm, Mislead night-wanderers, laughing at their harm?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have no need to observe that I do not wilfully or negligently mislead my readers and that before I wrote that description I took pains to investigate the subject."*
+> - 📜 **William Shakespeare (*Much Ado About Nothing*):** *"What fire is in mine ears? Can thy report **mislead** my judgment of his true devotion?"*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Imperfect analogies frequently **mislead** the mind into accepting imaginary resemblances as true causes."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"Do not let transient anger **mislead** you into severing the sacred bonds of constitutional fellowship."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # emissary
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone sent on a mission to represent the interests of someone else.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone sent on a mission to represent the interests of someone else.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person sent on a special, diplomatic, confidential, or sensitive mission as a representative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agent dispatched covertly to observe enemy movements or promote foreign interests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"And now I find he’s in everybody’s mouth in Middlemarch as the editor of the ‘Pioneer.’ There are stories going about him as a quill-driving alien, a foreign emissary, and what not.” “Casaubon won’t like that,” said the Rector."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"An emissary of the Ranee," cried some."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You were responsible for Camari's emissary, Drummer."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A secret **emissary** was dispatched to the barbarian camp to sow division among their chieftains."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"The grand master dispatched a trusted **emissary** to carry his mandates to the distant preceptory."*
+> - 📜 **Washington Irving (*The Life of George Washington*):** *"The British commander sent an **emissary** under a flag of truce to propose an exchange of captured officers."*

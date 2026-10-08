@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # intromission
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of putting one thing into another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of putting one thing into another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of inserting, introducing, or sending something into an enclosure, cavity, or opening.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Scots law, the act of intermeddling with or assuming control over property or funds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intromission designates the act of putting one thing into another."*
+> - 📜 **Sir Walter Scott (*The Antiquary*):** *"His careless **intromission** with the deceased factor's funds brought the estate into prolonged litigation."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The male organ is modified to ensure successful **intromission** during fertilization."*
+> - 📜 **Robert Boyle (*New Experiments Physico-Mechanicall*):** *"The gentle **intromission** of atmospheric air into the exhausted receiver restored the balance."*

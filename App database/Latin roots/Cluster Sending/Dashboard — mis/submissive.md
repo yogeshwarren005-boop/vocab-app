@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # submissive
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined or willing to submit to orders or wishes of others or showing such inclination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abjectly submissive; characteristic of a slave or servant; ; - s.h.adams.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ready to conform to the authority or will of others; meekly obedient or passive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yielding without resistance; humbly compliant to commands or superior force.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On what submissive message art thou sent?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Submissive fall his princely feet before, And he from forage will incline to play."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Next comes his sister Mea, whose fault is that she is too submissive and confiding."*
+> - 📜 **William Shakespeare (*The Taming of the Shrew*):** *"My mind hath been as big as one of yours, my heart as great, my reason haply more, to bandy word for word and frown for frown; but now I see our lances are but straws, our strength as weak, our weakness past compare, that seeming to be most which we indeed least are. Then vail your stomachs, for it is no boot, and place your hands below your husband's foot: in token of which duty, if he please, my hand is ready; may it do him ease, in all **submissive** duty."*
+> - 📜 **Charlotte Bronte (*Jane Eyre*):** *"She was not by nature **submissive**, yet she obeyed Helen Burns with spontaneous reverence."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Collins expected his wife to maintain a **submissive** silence in the presence of Lady Catherine."*

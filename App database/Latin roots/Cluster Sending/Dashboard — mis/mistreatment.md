@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mistreatment
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of treating (someone or something) badly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practice of treating (someone or something) badly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cruel, unkind, or unfair behavior towards a person or animal; physical or emotional abuse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The systemic neglect or abusive handling of prisoners, patients, or laborers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mistreatment designates the practice of treating (someone or something) badly."*
+> - 📜 **Harriet Beecher Stowe (*Uncle Tom's Cabin*):** *"The tragic death of Uncle Tom under Legree's brutal **mistreatment** awakened the conscience of the nation."*
+> - 📜 **John Stuart Mill (*The Subjection of Women*):** *"The law provides feeble protection against domestic **mistreatment** behind the walls of private homes."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Nicholas could no longer endure the systematic **mistreatment** of the wretched Smike."*

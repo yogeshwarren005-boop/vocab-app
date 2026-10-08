@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mis]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mismanagement
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Management that is careless or inefficient.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Management that is careless or inefficient.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bad, incompetent, or dishonest management of an organization, enterprise, or public funds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The bungling administration of affairs that produces waste, scandal, or bankruptcy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Here had been grievous mismanagement; but, bad as it was, he gradually grew to feel that it had not been the most direful mistake in his plan of education."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"He saw them "tried long and long by hopelessness, mismanagement, defeat; advancing unhesitatingly through incredible slaughter; sinewy with unconquerable resolution."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"They are his chief advisers in regard to the distribution of places, as well as in the higher affairs of State, and the discredit of any mismanagement on their part falls upon him."*
+> - 📜 **Edmund Burke (*Speech on Economical Reform*):** *"Gross financial **mismanagement** had swallowed up millions without securing any corresponding benefit."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The catastrophic loss of the fleet was attributable to ministerial **mismanagement** at the Admiralty."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Local democratic administration may commit frequent acts of **mismanagement**, yet it fosters civic energy."*

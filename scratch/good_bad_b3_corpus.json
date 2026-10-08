@@ -1,0 +1,949 @@
+{
+  "p1a": [
+    "antimalarial",
+    "comal",
+    "dismal",
+    "dismally",
+    "malabo",
+    "malabsorption",
+    "malacanthidae",
+    "malacca",
+    "malachi",
+    "malachias",
+    "malachite",
+    "malacia",
+    "malaclemys",
+    "malacologist",
+    "malacology",
+    "malaconotinae",
+    "malacopterygian",
+    "malacopterygii",
+    "malacosoma",
+    "malacostraca",
+    "malacothamnus",
+    "maladaptive",
+    "maladjusted",
+    "maladjustive",
+    "maladjustment",
+    "maladroit",
+    "maladroitly",
+    "maladroitness",
+    "malady",
+    "malaga",
+    "malahini",
+    "malaise",
+    "malamud",
+    "malamute",
+    "malanga",
+    "malaprop",
+    "malapropism",
+    "malapropos",
+    "malar"
+  ],
+  "p1b": [
+    "malaria",
+    "malarial",
+    "malarkey",
+    "malarky",
+    "malathion",
+    "malawi",
+    "malawian",
+    "malaxis",
+    "malaxis-unifolia",
+    "malay",
+    "malaya",
+    "malayalam",
+    "malayan",
+    "malayo-polynesian",
+    "malaysia",
+    "malaysian",
+    "malcolmia",
+    "malcontent",
+    "male",
+    "maleate",
+    "maleberry",
+    "malebranche",
+    "malecite",
+    "maledict",
+    "malediction",
+    "malefactor",
+    "malefic",
+    "maleficence",
+    "maleficent",
+    "malemute",
+    "maleness",
+    "maleo",
+    "maleseet",
+    "malevich",
+    "malevolence",
+    "malevolency",
+    "malevolent",
+    "malevolently",
+    "malformation"
+  ],
+  "p2a": [
+    "malfunction",
+    "mali",
+    "malian",
+    "malice",
+    "malicious",
+    "maliciously",
+    "maliciousness",
+    "malign",
+    "malignance",
+    "malignancy",
+    "malignant",
+    "malignantly",
+    "maligner",
+    "malignity",
+    "malignly",
+    "malignment",
+    "malik",
+    "malinger",
+    "malingerer",
+    "malingering",
+    "malinois",
+    "malinowski",
+    "mall",
+    "mallard",
+    "mallarme",
+    "malleability",
+    "malleable",
+    "mallee",
+    "mallet",
+    "malleus",
+    "mallon",
+    "mallophaga",
+    "mallotus",
+    "mallow",
+    "malmo",
+    "malmsey",
+    "malnourish",
+    "malnourished",
+    "malnourishment"
+  ],
+  "p2b": [
+    "malnutrition",
+    "malocclusion",
+    "malodor",
+    "malodorous",
+    "malodorousness",
+    "malodour",
+    "malodourous",
+    "malone",
+    "malonylurea",
+    "malope",
+    "malopterurus",
+    "malory",
+    "malosma",
+    "malraux",
+    "mals",
+    "malt",
+    "malta",
+    "malted",
+    "maltese",
+    "maltha",
+    "malthus",
+    "malthusian",
+    "malthusianism",
+    "malti",
+    "maltman",
+    "malto",
+    "maltose",
+    "maltreat",
+    "maltreated",
+    "maltreater",
+    "maltreatment",
+    "maltster",
+    "malus",
+    "permalloy",
+    "unmalicious",
+    "unmalleability",
+    "unmalleable",
+    "unmalted"
+  ],
+  "results": {
+    "antimalarial": [],
+    "comal": [],
+    "dismal": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "The sight is **dismal**; And our affairs from England come too late."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "It is a sort of attenuated variety of Ixion’s punishment, and contributes a **dismal** chapter to the history of gaols."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "This funeral seems to me the most **dismal** thing I ever saw."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "Their **dismal** scream is truly Ben Jonsonian."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "On the following morning they were very cross and **dismal**; they held their aching heads with both hands, and wore a most pitiable expression: when beer or wine was offered them, they turned away with disgust, but relished the juice of lemons. (7."
+      }
+    ],
+    "dismally": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "It is curious to speculate on the feelings of a dog, who will rest peacefully for hours in a room with his master or any of the family, without the least notice being taken of him; but if left for a short time by himself, barks or howls **dismally**."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "I lay there **dismally** calculating that sixteen entire hours must elapse before I could hope for a resurrection."
+      },
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "Better pass boldly into that other world, in the full glory of some passion, than fade and wither **dismally** with age."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The War of the Worlds",
+        "sentence": "All the gaunt wrecks, the blackened skeletons of houses that stared so **dismally** at the sunlit grass of the hill, would presently be echoing with the hammers of the restorers and ringing with the tapping of their trowels."
+      },
+      {
+        "author": "Mary Shelley",
+        "work": "Frankenstein",
+        "sentence": "It was already one in the morning; the rain pattered **dismally** against the panes, and my candle was nearly burnt out, when, by the glimmer of the half-extinguished light, I saw the dull yellow eye of the creature open; it breathed hard, and a convulsive motion agitated its limbs."
+      }
+    ],
+    "malabo": [],
+    "malabsorption": [],
+    "malacanthidae": [],
+    "malacca": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Hooker, extend along the heights of the peninsula of **Malacca**, and are thinly scattered, on the one hand over India and on the other as far north as Japan."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "The long and narrow peninsula of **Malacca**, extending south-eastward from the territories of Birmah, forms the most southerly point of all Asia."
+      }
+    ],
+    "malachi": [
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "1:1 The burden of the word of the LORD to Israel by **Malachi**."
+      }
+    ],
+    "malachias": [],
+    "malachite": [
+      {
+        "author": "H. G. Wells",
+        "work": "The Time Machine",
+        "sentence": "I slipped on the uneven floor, and fell over one of the **malachite** tables, almost breaking my shin."
+      }
+    ],
+    "malacia": [],
+    "malaclemys": [],
+    "malacologist": [],
+    "malacology": [],
+    "malaconotinae": [],
+    "malacopterygian": [],
+    "malacopterygii": [],
+    "malacosoma": [],
+    "malacostraca": [],
+    "malacothamnus": [],
+    "maladaptive": [],
+    "maladjusted": [],
+    "maladjustive": [],
+    "maladjustment": [],
+    "maladroit": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Out of which **maladroit** delay sprang anxieties, disappointments, shocks, catastrophes, and passing-strange destinies."
+      }
+    ],
+    "maladroitly": [],
+    "maladroitness": [],
+    "malady": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "No, no, it cannot be; and yet my heart Will not confess he owes the **malady** That doth my life besiege."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "The mere cadence of the sentences, the subtle monotony of their music, so full as it was of complex refrains and movements elaborately repeated, produced in the mind of the lad, as he passed from chapter to chapter, a form of reverie, a **malady** of dreaming, that made him unconscious of the falling day and creeping shadows."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "I would e’en take it for sublime, did I not know that the colic is a noisy **malady**."
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "I must regret that an attack of gout, from which **malady** I am a constant sufferer, forbids absolutely any travelling on my part for some time to come; but I am happy to say I can send a sufficient substitute, one in whom I have every possible confidence."
+      },
+      {
+        "author": "William James",
+        "work": "Pragmatism",
+        "sentence": "Both my parents were naturally inclined to sobriety; but, unfortunately, and as it too frequently happens, in low and crowded neighbourhoods, drunkenness is as contagious as the small-pox, or any other destructive **malady**."
+      }
+    ],
+    "malaga": [],
+    "malahini": [],
+    "malaise": [
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Soutenus par la force de la jeunesse et par l'exaltation de l'amour, ils n'éprouvaient aucun **malaise**; et, s'ils avaient entendu de la musique, ils se seraient mis à danser."
+      }
+    ],
+    "malamud": [],
+    "malamute": [],
+    "malanga": [],
+    "malaprop": [],
+    "malapropism": [],
+    "malapropos": [],
+    "malar": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "He adduces another instance, in the case of the **malar** bone (40. ‘Annuario della Soc. dei Naturalisti,’ Modena, 1867, p. 83."
+      }
+    ],
+    "malaria": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Macnamara gives reasons for believing that the inhabitants of districts subject to **malaria** are apt to be sterile; but this cannot apply in several of the above cases."
+      }
+    ],
+    "malarial": [],
+    "malarkey": [],
+    "malarky": [],
+    "malathion": [],
+    "malawi": [],
+    "malawian": [],
+    "malaxis": [],
+    "malaxis-unifolia": [],
+    "malay": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Wallace, who is now studying the natural history of the **Malay** archipelago, has arrived at almost exactly the same general conclusions that I have on the origin of species."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "As I entered, a sallow **Malay** attendant had hurried up with a pipe for me and a supply of the drug, beckoning me to an empty berth."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "A crooked smile, like a **Malay** crease, writhed across the face of one of the women."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "No turbaned Turk, no hired Venetian or **Malay**, could have smote him with more seeming malice."
+      }
+    ],
+    "malaya": [],
+    "malayalam": [],
+    "malayan": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Most of the remnants survive on islands, such as Madagascar and the **Malayan** archipelago, where they have not been exposed to so severe a competition as they would have been on well-stocked continents."
+      }
+    ],
+    "malayo-polynesian": [],
+    "malaysia": [],
+    "malaysian": [],
+    "malcolmia": [],
+    "malcontent": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Now, brother of Clarence, how like you our choice, That you stand pensive as half **malcontent**?"
+      }
+    ],
+    "male": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "That very hour, and in the self-same inn, A mean woman was delivered Of such a burden, **male** twins, both alike."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Rays of **male** vision seem to have a tickling effect upon virgin faces in rural districts; she brushed hers with her hand, as if Gabriel had been irritating its pink surface by actual touch, and the free air of her previous movements was reduced at the same time to a chastened phase of itself."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "But I am strongly inclined to suspect that the most frequent cause of variability may be attributed to the **male** and female reproductive elements having been affected prior to the act of conception."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "And certainly, the mistakes that we **male** and female mortals make when we have our own way might fairly raise some wonder that we are so fond of it."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "Has only one **male** visitor, but a good deal of him."
+      }
+    ],
+    "maleate": [],
+    "maleberry": [],
+    "malebranche": [],
+    "malecite": [],
+    "maledict": [],
+    "malediction": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "But still the disappointed father held a strong lever; and Fred felt as if he were being banished with a **malediction**."
+      }
+    ],
+    "malefactor": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "But yet” is as a gaoler to bring forth Some monstrous **malefactor**."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "It was put up in wuld times by the relations of a **malefactor** who was tortured there by nailing his hand to a post and afterwards hung."
+      },
+      {
+        "author": "Jonathan Swift",
+        "work": "Gulliver's Travels",
+        "sentence": "The **malefactor** was fixed in a chair upon a scaffold erected for that purpose, and his head cut off at one blow, with a sword of about forty feet long."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "18:29 Pilate then went out unto them, and said, What accusation bring ye against this man? 18:30 They answered and said unto him, If he were not a **malefactor**, we would not have delivered him up unto thee."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Ball and the Cross",
+        "sentence": "From addressing Michael gruffly, as if he were a **malefactor**, he began suddenly to speak to him with a sort of eager and feverish amiability as if he were a child."
+      }
+    ],
+    "malefic": [],
+    "maleficence": [],
+    "maleficent": [
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "But now it sounded to me like the name of some **maleficent** and sinful being."
+      }
+    ],
+    "malemute": [],
+    "maleness": [],
+    "maleo": [],
+    "maleseet": [],
+    "malevich": [],
+    "malevolence": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "The son of Duncan, From whom this tyrant holds the due of birth, Lives in the English court and is receiv’d Of the most pious Edward with such grace That the **malevolence** of fortune nothing Takes from his high respect."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "How can Less not feel the pain; how not feel indignation or **malevolence** towards More?"
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "To his feature as to all other objects, the meteoric light imparted a new expression; or it might well be that the physician was not careful then, as at all other times, to hide the **malevolence** with which he looked upon his victim."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "They went away by one of the London night coaches, and I know no more about him; except that his **malevolence** to me at parting was audacious."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Sense and Sensibility",
+        "sentence": "It is a reasonable and laudable pride which resists such **malevolence**."
+      }
+    ],
+    "malevolency": [],
+    "malevolent": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "This is his uncle’s teaching, this is Worcester, **Malevolent** to you in all aspects, Which makes him prune himself, and bristle up The crest of youth against your dignity."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "Hester Prynne was now fully sensible of the deep injury for which she was responsible to this unhappy man, in permitting him to lie for so many years, or, indeed, for a single moment, at the mercy of one whose purposes could not be other than **malevolent**."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Raising his great hands until they touched his chin, he rubbed them softly, and softly chuckled; looking as like a **malevolent** baboon, I thought, as anything human could look."
+      }
+    ],
+    "malevolently": [
+      {
+        "author": "Joseph Conrad",
+        "work": "Heart of Darkness",
+        "sentence": "I started the lame engine ahead. ‘It must be this miserable trader—this intruder,’ exclaimed the manager, looking back **malevolently** at the place we had left. ‘He must be English,’ I said. ‘It will not save him from getting into trouble if he is not careful,’ muttered the manager darkly."
+      }
+    ],
+    "malformation": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "A woman’s dress being a part of her countenance, and any disorder in the one being of the same nature with a **malformation** or wound in the other, Bathsheba said at once—"
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Wisdom of Father Brown",
+        "sentence": "The old Duke really had a slight **malformation** of the ear, which really was more or less hereditary."
+      }
+    ],
+    "malfunction": [],
+    "mali": [],
+    "malian": [],
+    "malice": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Believe it, my lord, in mine own direct knowledge, without any **malice**, but to speak of him as my kinsman, he’s a most notable coward, an infinite and endless liar, an hourly promise-breaker, the owner of no one good quality worthy your lordship’s entertainment."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "La Baronne poussa ce genre de **malice** jusqu'à prier Édouard de venir, avec sa femme, passer la prochaine saison des vendanges dans son château, et à faire cette invitation en termes si perfidement calculés, que le Baron pouvait facilement croire qu'Ottilie y était comprise."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "The gaiety with which they had set out had somehow vanished; and yet there was no enmity or **malice** between them."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Casaubon a great soul?” Celia was not without a touch of naive **malice**."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "If **malice** and vanity wear the coat of philanthropy, shall that pass?"
+      }
+    ],
+    "malicious": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Either you must confess yourselves wondrous **malicious** Or be accused of folly."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "One could almost be positive that there was a **malicious** leer upon the hideous creature’s face, and a mischievous delight in its twitchings."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Casaubon was gone away, and said in her easy staccato, which always seemed to contradict the suspicion of any **malicious** intent—"
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "That Himmalehan, salt-sea Mastodon, clothed with such portentousness of unconscious power, that his very panics are more to be dreaded than his most fearless and **malicious** assaults!"
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "It was a look so intelligent, yet inexplicable, perverse, sometimes so **malicious**, but generally accompanied by a wild flow of spirits, that Hester could not help questioning at such moments whether Pearl was a human child."
+      }
+    ],
+    "maliciously": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I will be treble-sinewed, hearted, breathed, And fight **maliciously**."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Yet the voice spake true; for scarce had he pushed from the ship, when numbers of sharks, seemingly rising from out the dark waters beneath the hull, **maliciously** snapped at the blades of the oars, every time they dipped in the water; and in this way accompanied the boat with their bites."
+      },
+      {
+        "author": "Jonathan Swift",
+        "work": "Gulliver's Travels",
+        "sentence": "And from this time began an intrigue between his majesty and a junto of ministers, **maliciously** bent against me, which broke out in less than two months, and had like to have ended in my utter destruction."
+      }
+    ],
+    "maliciousness": [
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "2:15 For so is the will of God, that with well doing ye may put to silence the ignorance of foolish men: 2:16 As free, and not using your liberty for a cloke of **maliciousness**, but as the servants of God."
+      }
+    ],
+    "malign": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "With a kind of smile, Which ne’er came from the lungs, but even thus— For, look you, I may make the belly smile As well as speak—it tauntingly replied To th’ discontented members, the mutinous parts That envied his receipt; even so most fitly As you **malign** our senators for that They are not such as you."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "And this cruel outward accuser was there in the shape of a wife—nay, of a young bride, who, instead of observing his abundant pen-scratches and amplitude of paper with the uncritical awe of an elegant-minded canary-bird, seemed to present herself as a spy watching everything with a **malign** power of inference."
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "Can it be that there is a **malign** influence of the sun at periods which affects certain natures--as at times the moon does others?"
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The Time Machine",
+        "sentence": "Hitherto I had merely thought myself impeded by the childish simplicity of the little people, and by some unknown forces which I had only to understand to overcome; but there was an altogether new element in the sickening quality of the Morlocks—a something inhuman and **malign**."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "‘Faults!’ she cried, bursting into passionate tears. ‘Who dares **malign** him?"
+      }
+    ],
+    "malignance": [],
+    "malignancy": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "By your patience, no; my stars shine darkly over me; the **malignancy** of my fate might perhaps distemper yours; therefore I shall crave of you your leave that I may bear my evils alone."
+      }
+    ],
+    "malignant": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "But—O **malignant** and ill-boding stars!— Now thou art come unto a feast of death, A terrible and unavoided danger."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "But the general aspect of the swamp was **malignant**."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Looking at the mother, you might hope that the daughter would become like her, which is a prospective advantage equal to a dowry—the mother too often standing behind the daughter like a **malignant** prophecy—“Such as I am, she will shortly be."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "Hence, you see, my double deduction that you had been out in vile weather, and that you had a particularly **malignant** boot-slitting specimen of the London slavey."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "But this is a rash argument, as we should thus be compelled to believe in the existence of many cruel and **malignant** spirits, only a little more powerful than man; for the belief in them is far more general than in a beneficent Deity."
+      }
+    ],
+    "malignantly": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "When he had no power, But was a petty servant to the state, He was your enemy, ever spake against Your liberties and the charters that you bear I’ th’ body of the weal; and, now arriving A place of potency and sway o’ th’ state, If he should still **malignantly** remain Fast foe to th’ plebeii, your voices might Be curses to yourselves."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Gifted with the high perception, I lack the low, enjoying power; damned, most subtly and most **malignantly**! damned in the midst of Paradise!"
+      }
+    ],
+    "maligner": [],
+    "malignity": [
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "Inasmuch as he carries the **malignity** and the lie with him, he so far deceases from nature."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Nor was it his unwonted magnitude, nor his remarkable hue, nor yet his deformed lower jaw, that so much invested the whale with natural terror, as that unexampled, intelligent **malignity** which, according to specific accounts, he had over and over again evinced in his assaults."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "She doubted not that the continual presence of Roger Chillingworth—the secret poison of his **malignity**, infecting all the air about him—and his authorised interference, as a physician, with the minister’s physical and spiritual infirmities—that these bad opportunities had been turned to a cruel purpose."
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "It would be impossible to describe the expression of hate and baffled **malignity**--of anger and hellish rage--which came over the Count’s face."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Silas Marner",
+        "sentence": "Godfrey said to himself again and again, that if he let slip this one opportunity of confession, he might never have another; the revelation might be made even in a more odious way than by Dunstan’s **malignity**: _she_ might come as she had threatened to do."
+      }
+    ],
+    "malignly": [],
+    "malignment": [],
+    "malik": [],
+    "malinger": [],
+    "malingerer": [],
+    "malingering": [],
+    "malinois": [],
+    "malinowski": [],
+    "mall": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "_The master, the swabber, the boatswain, and I, The gunner, and his mate, Lov’d **Mall**, Meg, and Marian, and Margery, But none of us car’d for Kate: For she had a tongue with a tang, Would cry to a sailor “Go hang!” She lov’d not the savour of tar nor of pitch, Yet a tailor might scratch her where’er she did itch."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "His mode of dressing, and the particular styles that from time to time he affected, had their marked influence on the young exquisites of the Mayfair balls and Pall **Mall** club windows, who copied him in everything that he did, and tried to reproduce the accidental charm of his graceful, though to him only half-serious, fopperies."
+      },
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "All the branches of the tall trees which lined the **mall** were gay with little light green leaves and the sunlight slanted through them on to the water."
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "_“The Pall **Mall** Gazette,” 18 September._"
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The Time Machine",
+        "sentence": "I saw the _Pall **Mall** Gazette_ on the table by the door."
+      }
+    ],
+    "mallard": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "She once being loofed, The noble ruin of her magic, Antony, Claps on his sea-wing and, like a doting **mallard**, Leaving the fight in height, flies after her."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Hewitt states that a wild duck, reared in captivity, “after breeding a couple of seasons with her own **mallard**, at once shook him off on my placing a male Pintail on the water."
+      }
+    ],
+    "mallarme": [],
+    "malleability": [
+      {
+        "author": "Jonathan Swift",
+        "work": "Gulliver's Travels",
+        "sentence": "I saw another at work to calcine ice into gunpowder; who likewise showed me a treatise he had written concerning the **malleability** of fire, which he intended to publish."
+      }
+    ],
+    "malleable": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Boult, take her away; use her at thy pleasure: crack the glass of her virginity, and make the rest **malleable**."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "The characters of the narrative would not be warmed and rendered **malleable** by any heat that I could kindle at my intellectual forge."
+      }
+    ],
+    "mallee": [],
+    "mallet": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "His wit’s as thick as Tewksbury mustard; there’s no more conceit in him than is in a **mallet**."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "See you this?” and withdrawing it from the folds that had hidden it, he held up a white arm of sperm whale bone, terminating in a wooden head like a **mallet**."
+      }
+    ],
+    "malleus": [],
+    "mallon": [],
+    "mallophaga": [],
+    "mallotus": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "The males alone of the capelin (**Mallotus** villosus, one of Salmonidae), are provided with a ridge of closely-set, brush-like scales, by the aid of which two males, one on each side, hold the female, whilst she runs with great swiftness on the sandy beach, and there deposits her spawn. (2."
+      }
+    ],
+    "mallow": [],
+    "malmo": [],
+    "malmsey": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Yonder he comes, and that arrant **malmsey**-nose knave, Bardolph, with him."
+      }
+    ],
+    "malnourish": [],
+    "malnourished": [],
+    "malnourishment": [],
+    "malnutrition": [],
+    "malocclusion": [],
+    "malodor": [],
+    "malodorous": [
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "He saw the squalid tract of her vice, miserable and **malodorous**."
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "We were prepared for some unpleasantness, for as we were opening the door a faint, **malodorous** air seemed to exhale through the gaps, but none of us ever expected such an odour as we encountered."
+      }
+    ],
+    "malodorousness": [],
+    "malodour": [],
+    "malodourous": [],
+    "malone": [
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "**Malone**'s sentence is an important piece of external history."
+      },
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "Perhaps it would be better to insert his mother’s name before the surname: Thomas **Malone** Chandler, or better still: T."
+      }
+    ],
+    "malonylurea": [],
+    "malope": [],
+    "malopterurus": [],
+    "malory": [],
+    "malosma": [],
+    "malraux": [],
+    "mals": [],
+    "malt": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "DROMIO OF SYRACUSE. [_Within._] Mome, **malt**-horse, capon, coxcomb, idiot, patch!"
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "The church remains, by great good fortune, unrestored and intact, and a few of the old houses; but the ancient **malt**-house, which was formerly so characteristic of the parish, has been pulled down these twenty years; also most of the thatched and dormered cottages that were once lifeholds."
+      },
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "Here, _garçon_, bring us two halves of **malt** whisky, like a good fellow...."
+      },
+      {
+        "author": "William James",
+        "work": "Pragmatism",
+        "sentence": "Just come from Doctor Sprawles: says I must take exercise; no **malt** liquor--nothing at breakfast--no lunch--no supper."
+      }
+    ],
+    "malta": [
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Wisdom of Father Brown",
+        "sentence": "Then the grey sky-line brightened into silver, and in the broadening light he realized that he had been to the house which belonged to an Anglo-Indian Major named Putnam; and that the Major had a native cook from **Malta** who was of his communion."
+      }
+    ],
+    "malted": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "I went therefrom to Norcombe, and **malted** there two-and-twenty years, and-two-and-twenty years I was there turnip-hoeing and harvesting."
+      }
+    ],
+    "maltese": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "They, with two others below, formed the revolving **Maltese** cross of the reaping-machine, which had been brought to the field on the previous evening to be ready for operations this day."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "I have brought a little petitioner,” he said, “or rather, I have brought him to see if he will be approved before his petition is offered.” He showed the white object under his arm, which was a tiny **Maltese** puppy, one of nature’s most naive toys."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "**MALTESE** SAILOR. (_Reclining and shaking his cap_.) It’s the waves—the snow’s caps turn to jig it now."
+      }
+    ],
+    "maltha": [],
+    "malthus": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "This is the doctrine of **Malthus**, applied to the whole animal and vegetable kingdoms."
+      }
+    ],
+    "malthusian": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "As Tess grew older, and began to see how matters stood, she felt quite a **Malthusian** towards her mother for thoughtlessly giving her so many little sisters and brothers, when it was such a trouble to nurse and provide for them."
+      }
+    ],
+    "malthusianism": [],
+    "malti": [],
+    "maltman": [],
+    "malto": [],
+    "maltose": [],
+    "maltreat": [],
+    "maltreated": [
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Nor would they permit Gabriel to be any way **maltreated**, say or do what he would; so that it came to pass that Gabriel had the complete freedom of the ship."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "That, marching him constantly up and down by the collar (as if he had been taking too much laudanum), she, at those times, shook him, rumpled his hair, made light of his linen, stopped his ears as if she confounded them with her own, and otherwise tousled and **maltreated** him."
+      }
+    ],
+    "maltreater": [],
+    "maltreatment": [],
+    "maltster": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "A curved settle of unplaned oak stretched along one side, and in a remote corner was a small bed and bedstead, the owner and frequent occupier of which was the **maltster**."
+      }
+    ],
+    "malus": [],
+    "permalloy": [],
+    "unmalicious": [],
+    "unmalleability": [],
+    "unmalleable": [],
+    "unmalted": []
+  }
+}

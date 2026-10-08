@@ -1,0 +1,929 @@
+{
+  "dir_map": {
+    "apt": "Dashboard \u2014 apt",
+    "bas": "Dashboard \u2014 bas"
+  },
+  "p1a": [
+    "adapt",
+    "adaptability",
+    "adaptable",
+    "adaptation",
+    "adaptational",
+    "adaptative",
+    "adapted",
+    "adapter",
+    "adaption",
+    "adaptive",
+    "adaptor",
+    "apt",
+    "aptenodytes",
+    "apteral",
+    "apterous",
+    "apterygidae",
+    "apterygiformes",
+    "apteryx",
+    "aptitude",
+    "aptitudinal",
+    "aptly",
+    "aptness",
+    "coapt",
+    "colaptes",
+    "inapt",
+    "inaptitude",
+    "inaptness",
+    "nonadaptive",
+    "readapt",
+    "unadaptability",
+    "unadaptable",
+    "unadapted"
+  ],
+  "p1b": [
+    "abash",
+    "abashed",
+    "abashment",
+    "basal",
+    "basalt",
+    "basaltic",
+    "bascule",
+    "base",
+    "base-forming",
+    "baseball",
+    "baseboard",
+    "baseborn",
+    "based",
+    "basel",
+    "baseless",
+    "baseline",
+    "basely",
+    "basement",
+    "baseness",
+    "basenji",
+    "basia",
+    "basic",
+    "basically",
+    "basics",
+    "basidial",
+    "basidiocarp",
+    "basidiolichen",
+    "basidiomycete",
+    "basidiomycetes",
+    "basidiomycetous",
+    "basidiomycota",
+    "basidiomycotina",
+    "basidiospore",
+    "basidiosporous",
+    "basidium",
+    "basifixed",
+    "basify"
+  ],
+  "p2a": [
+    "basil",
+    "basilar",
+    "basilary",
+    "basileus",
+    "basilica",
+    "basilican",
+    "basilicata",
+    "basiliscus",
+    "basilisk",
+    "basin",
+    "basinal",
+    "basined",
+    "basinet",
+    "basinful",
+    "basipetal",
+    "basis",
+    "basiscopic",
+    "basle",
+    "basophil",
+    "basophile",
+    "basophilia",
+    "basophilic",
+    "basotho",
+    "basra",
+    "bass",
+    "bassariscidae",
+    "bassariscus",
+    "bassarisk",
+    "basse-normandie",
+    "basset",
+    "basseterre",
+    "bassia",
+    "bassine",
+    "bassinet",
+    "bassist",
+    "basso",
+    "bassoon"
+  ],
+  "p2b": [
+    "bassoonist",
+    "basswood",
+    "bast",
+    "bastard",
+    "bastardisation",
+    "bastardise",
+    "bastardised",
+    "bastardization",
+    "bastardize",
+    "bastardized",
+    "bastardly",
+    "bastardy",
+    "baste",
+    "baster",
+    "bastille",
+    "bastinado",
+    "basting",
+    "bastion",
+    "bastioned",
+    "bastnaesite",
+    "bastnasite",
+    "basuco",
+    "basuto",
+    "basutoland",
+    "contrabass",
+    "contrabassoon",
+    "debase",
+    "debased",
+    "debasement",
+    "debaser",
+    "debasing",
+    "sebastiana",
+    "sebastodes",
+    "sebastopol",
+    "subbase",
+    "surbase",
+    "unabashed"
+  ],
+  "results": {
+    "adapt": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "We have seen that man by selection can certainly produce great results, and can **adapt** organic beings to his own uses, through the accumulation of slight but useful variations, given to him by the hand of Nature."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "They **adapt** themselves to it as they may; but in proportion as a man has any thing in him divine, the firmament flows before him and takes his signet[66] and form."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "Man is an animal who more than any other can **adapt** himself to all climates and circumstances."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "The only member of our small society who positively refused to **adapt** himself to circumstances, was Jip."
+      },
+      {
+        "author": "Mary Shelley",
+        "work": "Frankenstein",
+        "sentence": "Urged thus far, I had no choice but to **adapt** my nature to an element which I had willingly chosen."
+      }
+    ],
+    "adaptability": [],
+    "adaptable": [],
+    "adaptation": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "This circumstance, and the generally sleepy air of the whole prospect here, together with the animated and contrasting state of the reverse fa\u00e7ade, suggested to the imagination that on the **adaptation** of the building for farming purposes the vital principle of the house had turned round inside its body to face the other way."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "One of the most remarkable features in our domesticated races is that we see in them **adaptation**, not indeed to the animal\u2019s or plant\u2019s own good, but to man\u2019s use or fancy."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Considered, indeed, in relation to the latter, whose mind was matured, she was altogether a mistake, and calculated to shock his trust in final causes, including the **adaptation** of fine young women to purplefaced bachelors."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "Her nature appeared to possess depth, too, as well as variety; but\u2014or else Hester\u2019s fears deceived her\u2014it lacked reference and **adaptation** to the world into which she was born."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Micawber, I must observe, in his **adaptation** of himself to a new state of society, had acquired a bold buccaneering air, not absolutely lawless, but defensive and prompt."
+      }
+    ],
+    "adaptational": [],
+    "adaptative": [],
+    "adapted": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "The Soldier\u2019s Joy\u201d has, too, an additional charm, in being so admirably **adapted** to the tambourine aforesaid\u2014no mean instrument in the hands of a performer who understands the proper convulsions, spasms, St."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "In one very limited sense, as we shall hereafter see, this may be true; but it is preposterous to attribute to mere external conditions, the structure, for instance, of the woodpecker, with its feet, tail, beak, and tongue, so admirably **adapted** to catch insects under the bark of trees."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "For to Dorothea, after that toy-box history of the world **adapted** to young ladies which had made the chief part of her education, Mr."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "It is a cold night, and I observe that your circulation is more **adapted** for summer than for winter."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "This series of books will include in complete editions those masterpieces of English Literature that are best **adapted** for the use of schools and colleges."
+      }
+    ],
+    "adapter": [],
+    "adaption": [],
+    "adaptive": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "These resemblances, though so intimately connected with the whole life of the being, are ranked as merely \u201c**adaptive** or analogical characters;\u201d but to the consideration of these resemblances we shall have to recur."
+      }
+    ],
+    "adaptor": [],
+    "apt": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I have a heart as little **apt** as yours, But yet a brain that leads my use of anger To better vantage."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Separation, which was the means that chance offered to Gabriel Oak by Bathsheba\u2019s disappearance, though effectual with people of certain humours, is **apt** to idealize the removed object with others\u2014notably those whose affection, placid and regular as it may be, flows deep and long."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "We are told that an utilitarian will be **apt** to make his own particular case an exception to moral rules, and, when under temptation, will see an utility in the breach of a rule, greater than he will see in its observance."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Hairless dogs have imperfect teeth; long-haired and coarse-haired animals are **apt** to have, as is asserted, long or many horns; pigeons with feathered feet have skin between their outer toes; pigeons with short beaks have small feet, and those with long beaks large feet."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Miss Brooke knows that they are **apt** to become feeble in the utterance: the aroma is mixed with the grosser air."
+      }
+    ],
+    "aptenodytes": [],
+    "apteral": [],
+    "apterous": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Glow-worm, female, **apterous**; luminosity of the."
+      }
+    ],
+    "apterygidae": [],
+    "apterygiformes": [],
+    "apteryx": [],
+    "aptitude": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Their noise increased to a chorus of baas, upon which Oak pulled the milk-can from before the fire, and taking a small tea-pot from the pocket of his smock-frock, filled it with milk, and taught those of the helpless creatures which were not to be restored to their dams how to drink from the spout\u2014a trick they acquired with astonishing **aptitude**."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Casaubon\u2019s learning as mere accomplishment; for though opinion in the neighborhood of Freshitt and Tipton had pronounced her clever, that epithet would not have described her to circles in whose more precise vocabulary cleverness implies mere **aptitude** for knowing and doing, apart from character."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "The natural **aptitude** of the French for seizing the picturesqueness of things seems to be peculiarly evinced in what paintings and engravings they have of their whaling scenes."
+      }
+    ],
+    "aptitudinal": [],
+    "aptly": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "That monster custom, who all sense doth eat, Of habits evil, is angel yet in this, That to the use of actions fair and good He likewise gives a frock or livery That **aptly** is put on."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "It is only fair to Bathsheba to explain here a little fact which did not come to light till a long time afterwards: that Troy\u2019s presentation of himself so **aptly** at the roadside this evening was not by any distinctly preconcerted arrangement."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The War of the Worlds",
+        "sentence": "These bunches have since been named rather **aptly**, by that distinguished anatomist, Professor Howes, the _hands_."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Wisdom of Father Brown",
+        "sentence": "But he never consciously carried his actions outside the sphere of his own duty; and in this case the two attitudes were **aptly** tested."
+      }
+    ],
+    "aptness": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "The main blaze of it is past, but a small thing would make it flame again; for the nobles receive so to heart the banishment of that worthy Coriolanus that they are in a ripe **aptness** to take all power from the people and to pluck from them their tribunes for ever."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "It was for herself that he loved Tess; her soul, her heart, her substance\u2014not for her skill in the dairy, her **aptness** as his scholar, and certainly not for her simple formal faith-professions."
+      }
+    ],
+    "coapt": [],
+    "colaptes": [],
+    "inapt": [
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "It was a sombre evening, with a lurid light in the sky; and as I saw the prospect scowling in the distance, with here and there some larger object starting up into the sullen glare, I fancied it was no **inapt** companion to the memory of this fierce woman."
+      }
+    ],
+    "inaptitude": [
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "The beautiful laws of time and space, once dislocated by our **inaptitude**, are holes and dens."
+      }
+    ],
+    "inaptness": [],
+    "nonadaptive": [],
+    "readapt": [],
+    "unadaptability": [],
+    "unadaptable": [],
+    "unadapted": [],
+    "abash": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Why then, you princes, Do you with cheeks **abash**\u2019d behold our works And call them shames, which are, indeed, naught else But the protractive trials of great Jove To find persistive constancy in men; The fineness of which metal is not found In fortune\u2019s love?"
+      }
+    ],
+    "abashed": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Oak went up to the door a little **abashed**: his mental rehearsal and the reality had had no common grounds of opening."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "**Abashed** glances of servile wonder were exchanged by the sailors, as this was said; and with fascinated eyes they awaited whatever magic might follow."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "In a moment, however, wisely judging that one token of her shame would but poorly serve to hide another, she took the baby on her arm, and with a burning blush, and yet a haughty smile, and a glance that would not be **abashed**, looked around at her townspeople and neighbours."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Creakle\u2019s presence: which so **abashed** me, when I was ushered into it, that I hardly saw Mrs."
+      },
+      {
+        "author": "John Milton",
+        "work": "Paradise Lost",
+        "sentence": "Awake, arise, or be for ever fallen!\" They heard, and were **abashed**, and up they sprung Upon the wing, as when men wont to watch On duty, sleeping found by whom they dread, Rouse and bestir themselves ere well awake."
+      }
+    ],
+    "abashment": [],
+    "basal": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "At the other end of the series we have the cells of the hive-bee, placed in a double layer: each cell, as is well known, is an hexagonal prism, with the **basal** edges of its six sides bevelled so as to join on to a pyramid, formed of three rhombs."
+      }
+    ],
+    "basalt": [],
+    "basaltic": [],
+    "bascule": [],
+    "base": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Spend\u2019st thou thy fury on some worthless song, Darkening thy power to lend **base** subjects light?"
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "C'\u00e9tait une occupation agr\u00e9able que de prendre la carte du Capitaine pour **base** de tous ces projets; mais on ne s'arracha qu'avec peine aux premi\u00e8res id\u00e9es d'apr\u00e8s lesquelles Charlotte avait dirig\u00e9 ses plantations."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "The game of prisoner\u2019s **base**, which not so long ago seemed to enjoy a perennial vitality in front of the worn-out stocks, may, so far as I can say, be entirely unknown to the rising generation of schoolboys there."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Certain plants excrete a sweet juice, apparently for the sake of eliminating something injurious from their sap: this is effected by glands at the **base** of the stipules in some Leguminos\u00e6, and at the back of the leaf of the common laurel."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Still, if I believe that I can set going a better method of treatment\u2014if I believe that I can pursue certain observations and inquiries which may be a lasting benefit to medical practice, I should be a **base** truckler if I allowed any consideration of personal comfort to hinder me."
+      }
+    ],
+    "base-forming": [],
+    "baseball": [],
+    "baseboard": [],
+    "baseborn": [],
+    "based": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Bathsheba\u2019s momentary impulse at hearing this was to ask why he thought that, till she remembered that, far from being a conceited assumption on Boldwood\u2019s part, it was but the natural conclusion of serious reflection **based** on deceptive premises of her own offering."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Psychology will be **based** on a new foundation, that of the necessary acquirement of each mental power and capacity by gradation."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "But a government in which the majority rule in all cases can not be **based** on justice, even as far as men understand it."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "In fact, the artist\u2019s design seemed this: a final theory of my own, partly **based** upon the aggregated opinions of many aged persons with whom I conversed upon the subject."
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "Then, as he is criminal he is selfish; and as his intellect is small and his action is **based** on selfishness, he confines himself to one purpose."
+      }
+    ],
+    "basel": [],
+    "baseless": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "These our actors, As I foretold you, were all spirits and Are melted into air, into thin air: And, like the **baseless** fabric of this vision, The cloud-capp\u2019d towers, the gorgeous palaces, The solemn temples, the great globe itself, Yea, all which it inherit, shall dissolve, And, like this insubstantial pageant faded, Leave not a rack behind."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "She knew that it was all sentiment, all **baseless** impressibility, which had caused her to read the scene as her own condemnation; nevertheless she could not get over it; she could not contravene in her own defenceless person all those untoward omens."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "It had been easy for me to gain a temporary effect by a mirage of **baseless** opinion; but it is ever the trial of the scrupulous explorer to be saluted with the impatient scorn of chatterers who attempt only the smallest achievements, being indeed equipped for no other."
+      }
+    ],
+    "baseline": [],
+    "basely": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "The miserable change now at my end Lament nor sorrow at, but please your thoughts In feeding them with those my former fortunes Wherein I lived the greatest prince o\u2019 th\u2019 world, The noblest; and do now not **basely** die, Not cowardly put off my helmet to My countryman; a Roman by a Roman Valiantly vanquished."
+      },
+      {
+        "author": "Francis Bacon",
+        "work": "The Essays",
+        "sentence": "Neither is it possible that those that have cast away so **basely** so much of their strength, should greatly esteem children, (being of the same matter,) as chaste men do."
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "What can it not do when it is properly applied; and what might it do when **basely** used."
+      },
+      {
+        "author": "Thomas Henry Huxley",
+        "work": "Evolution and Ethics",
+        "sentence": "He that sold His country, or was slack when she required His every nerve in action and at stretch, Paid with the blood that he had **basely** spared The price of his default."
+      }
+    ],
+    "basement": [
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "After a cursory glance at the rest of the rooms, from **basement** to attic, we came to the conclusion that the dining-room contained any effects which might belong to the Count; and so we proceeded to minutely examine them."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Crupp, and to remove the \u2018young gal\u2019 to the **basement** also, I abandoned myself to enjoyment."
+      }
+    ],
+    "baseness": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Since Cleopatra died, I have lived in such dishonour that the gods Detest my **baseness**."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "No nature could be less suspicious than hers: when she was a child she believed in the gratitude of wasps and the honorable susceptibility of sparrows, and was proportionately indignant when their **baseness** was made manifest."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "I had no consolation in seeing how different she was from this detestable Rufus with the mulberry-coloured great-coat, for I felt that in the very difference between them, in the self-denial of her pure soul and the sordid **baseness** of his, the greatest danger lay."
+      }
+    ],
+    "basenji": [],
+    "basia": [],
+    "basic": [],
+    "basically": [],
+    "basics": [],
+    "basidial": [],
+    "basidiocarp": [],
+    "basidiolichen": [],
+    "basidiomycete": [],
+    "basidiomycetes": [],
+    "basidiomycetous": [],
+    "basidiomycota": [],
+    "basidiomycotina": [],
+    "basidiospore": [],
+    "basidiosporous": [],
+    "basidium": [],
+    "basifixed": [],
+    "basify": [],
+    "basil": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "He once called her his **basil** plant; and when she asked for an explanation, said that **basil** was a plant which had flourished wonderfully on a murdered man\u2019s brains."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "It is your best work, **Basil**, the best thing you have ever done,\u201d said Lord Henry languidly."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Persuasion",
+        "sentence": "What do you take his age to be?' `Sixty,' said I, `or perhaps sixty-two.' `Forty,' replied Sir **Basil**, `forty, and no more.' Picture to yourselves my amazement; I shall not easily forget Admiral Baldwin."
+      }
+    ],
+    "basilar": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Flower have shewn to exist uniformly in the higher and lower apes.\u201d I will give only two additional cases; the acromio-**basilar** muscle is found in all mammals below man, and seems to be correlated with a quadrupedal gait, (50."
+      }
+    ],
+    "basilary": [],
+    "basileus": [],
+    "basilica": [],
+    "basilican": [],
+    "basilicata": [],
+    "basiliscus": [],
+    "basilisk": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "It is a **basilisk** unto mine eye, Kills me to look on\u2019t."
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "But as I did so the head turned, and the eyes fell full upon me, with all their blaze of **basilisk** horror."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Wisdom of Father Brown",
+        "sentence": "Every negro in England was put under special regulations and made to report himself; the outgoing ships would no more have taken a nigger than a **basilisk**."
+      }
+    ],
+    "basin": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Sly is discovered in a rich nightgown, with Attendants: some with apparel, **basin**, ewer, and other appurtenances; and Lord, dressed like a servant."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "The sheep-washing pool was a perfectly circular **basin** of brickwork in the meadows, full of the clearest water."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "As soon as this occurred, the bees ceased to excavate, and began to build up flat walls of wax on the lines of intersection between the basins, so that each hexagonal prism was built upon the festooned edge of a smooth **basin**, instead of on the straight edges of a three-sided pyramid as in the case of ordinary cells."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "She would never have disowned any one on the ground of poverty: a De Bracy reduced to take his dinner in a **basin** would have seemed to her an example of pathos worth exaggerating, and I fear his aristocratic vices would not have horrified her."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "At such times I have seen his face, even on a cold day, glisten with moisture, as though it were new raised from a **basin**."
+      }
+    ],
+    "basinal": [],
+    "basined": [],
+    "basinet": [],
+    "basinful": [
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Micawber was obliged, in great trepidation, to run down to the water-butt in the backyard, and draw a **basinful** to lave her brow with."
+      }
+    ],
+    "basipetal": [],
+    "basis": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "How many times shall Caesar bleed in sport, That now on Pompey\u2019s **basis** lies along, No worthier than the dust!"
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Fitness being the **basis** of beauty, nobody could have denied that his steady swings and turns in and about the flock had elements of grace."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "It arises, in fact, whenever a person is called on to adopt a standard or refer morality to any **basis** on which he has not been accustomed to rest it."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "When one cell comes into contact with three other cells, which, from the spheres being nearly of the same size, is very frequently and necessarily the case, the three flat surfaces are united into a pyramid; and this pyramid, as Huber has remarked, is manifestly a gross imitation of the three-sided pyramidal **basis** of the cell of the hive-bee."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Lydgate was ambitious above all to contribute towards enlarging the scientific, rational **basis** of his profession."
+      }
+    ],
+    "basiscopic": [],
+    "basle": [],
+    "basophil": [],
+    "basophile": [],
+    "basophilia": [],
+    "basophilic": [],
+    "basotho": [],
+    "basra": [],
+    "bass": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Why, \u2019tis a plain case: he that went like a **bass**-viol in a case of leather; the man, sir, that, when gentlemen are tired, gives them a sob, and \u2019rests them; he, sir, that takes pity on decayed men and gives them suits of durance; he that sets up his rest to do more exploits with his mace than a morris-pike."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "In addition to the dulcet piping of Gabriel\u2019s flute, Boldwood supplied a **bass** in his customary profound voice, uttering his notes so softly, however, as to abstain entirely from making anything like an ordinary duet of the song; they rather formed a rich unexplored shadow, which threw her tones into relief."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "It\u2019s what I should expect, when a fellow like Trapping **Bass** is let off so easily."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "If you stand on its summit and look at these two F-shaped spoutholes, you would take the whole head for an enormous **bass**-viol, and these spiracles, the apertures in its sounding-board."
+      },
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "Decidedly Villona was in excellent spirits; he kept up a deep **bass** hum of melody for miles of the road."
+      }
+    ],
+    "bassariscidae": [],
+    "bassariscus": [],
+    "bassarisk": [],
+    "basse-normandie": [],
+    "basset": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Enter the King, Gloucester, Bishop of Winchester, Exeter, York, Warwick and Vernon; Suffolk, Somerset, **Basset** and others."
+      }
+    ],
+    "basseterre": [],
+    "bassia": [],
+    "bassine": [],
+    "bassinet": [],
+    "bassist": [],
+    "basso": [
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "A foreign friend once pointed it out to me, in the skeleton of a foe he had slain, and with the vertebr\u00e6 of which he was inlaying, in a sort of **basso**-relievo, the beaked prow of his canoe."
+      }
+    ],
+    "bassoon": [
+      {
+        "author": "George Eliot",
+        "work": "Silas Marner",
+        "sentence": "He winked, as he spoke, at two of the company, who were known officially as the \u201c**bassoon**\u201d and the \u201ckey-bugle,\u201d in the confidence that he was expressing the sense of the musical profession in Raveloe."
+      }
+    ],
+    "bassoonist": [],
+    "basswood": [],
+    "bast": [],
+    "bastard": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "If my dear love were but the child of state, It might for Fortune\u2019s **bastard** be unfathered, As subject to time\u2019s love or to time\u2019s hate, Weeds among weeds, or flowers with flowers gathered."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "For instance, rudimentary mamm\u00e6 are very general in the males of mammals: I presume that the \u201c**bastard**-wing\u201d in birds may be safely considered as a digit in a rudimentary state: in very many snakes one lobe of the lungs is rudimentary; in other snakes there are rudiments of the pelvis and hind limbs."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "Let him not peep or steal, or skulk up and down with the air of a charity-boy, a **bastard**, or an interloper, in the world which exists for him."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "23:2 A **bastard** shall not enter into the congregation of the LORD; even to his tenth generation shall he not enter into the congregation of the LORD."
+      }
+    ],
+    "bastardisation": [],
+    "bastardise": [],
+    "bastardised": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "So with languages: the most symmetrical and complex ought not to be ranked above irregular, abbreviated, and **bastardised** languages, which have borrowed expressive words and useful forms of construction from various conquering, conquered, or immigrant races."
+      }
+    ],
+    "bastardization": [],
+    "bastardize": [],
+    "bastardized": [],
+    "bastardly": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Wilt thou, wilt thou, thou **bastardly** rogue?"
+      }
+    ],
+    "bastardy": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "But once he slander\u2019d me with **bastardy**."
+      }
+    ],
+    "baste": [],
+    "baster": [],
+    "bastille": [
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "You would have almost thought they were pulling down the cursed **Bastille**, such wild cries they raised, as the now useless brick and mortar were being hurled into the sea."
+      },
+      {
+        "author": "Thomas Henry Huxley",
+        "work": "Evolution and Ethics",
+        "sentence": "Then shame to manhood, and opprobrious more To France than all her losses and defeats, Old or of later date, by sea or land, Her house of bondage worse than that of old Which God avenged on Pharaoh--the **Bastille**!"
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "So resistless was the force of the ocean bearing him on, that even to draw his breath or turn his head was as impracticable as if he had been struggling in the surf at the South Sea, until he was landed in the outer courtyard of the **Bastille**."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Wisdom of Father Brown",
+        "sentence": "Every instant the human sea grew wider and wider; it surged up against the rails and steps of the traitor's house; it was already certain that the place would be burst into like the **Bastille**, when the broken french window opened and Dr Hirsch came out on the balcony."
+      }
+    ],
+    "bastinado": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I will deal in poison with thee, or in **bastinado**, or in steel."
+      }
+    ],
+    "basting": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Lest it make you choleric, and purchase me another dry **basting**."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "From six that morning till past noon the huge wood fire in the kitchen roared and sparkled at its highest, the kettle, the saucepan, and the three-legged pot appearing in the midst of the flames like Shadrach, Meshach, and Abednego; moreover, roasting and **basting** operations were continually carried on in front of the genial blaze."
+      }
+    ],
+    "bastion": [],
+    "bastioned": [],
+    "bastnaesite": [],
+    "bastnasite": [],
+    "basuco": [],
+    "basuto": [],
+    "basutoland": [],
+    "contrabass": [],
+    "contrabassoon": [],
+    "debase": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Let deeds express What\u2019s like to be their words: \u201cWe did request it; We are the greater poll, and in true fear They gave us our demands.\u201d Thus we **debase** The nature of our seats and make the rabble Call our cares fears, which will in time Break ope the locks o\u2019 th\u2019 Senate and bring in The crows to peck the eagles."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "But your cure must begin somewhere, and put it that a thousand things which **debase** a population can never be reformed without this particular reform to begin with."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "57:9 And thou wentest to the king with ointment, and didst increase thy perfumes, and didst send thy messengers far off, and didst **debase** thyself even unto hell."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Man Who Was Thursday",
+        "sentence": "Who would **debase** himself to be merely brave, like any common prizefighter?"
+      }
+    ],
+    "debased": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Yes, that\u2019s the d\u2019Urberville nose and chin\u2014a little **debased**."
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "Instead of working wickedness by night and growing more **debased** in the assimilating of it by day, she shall take her place with the other Angels."
+      },
+      {
+        "author": "Jonathan Swift",
+        "work": "Gulliver's Travels",
+        "sentence": "I durst make no return to this malicious insinuation, which **debased** human understanding below the sagacity of a common hound, who has judgment enough to distinguish and follow the cry of the ablest dog in the pack, without being ever mistaken."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Emma",
+        "sentence": "He had gone away rejected and mortified--disappointed in a very sanguine hope, after a series of what appeared to him strong encouragement; and not only losing the right lady, but finding himself **debased** to the level of a very wrong one."
+      },
+      {
+        "author": "John Milton",
+        "work": "Paradise Lost",
+        "sentence": "Can thus The image of God in Man, created once So goodly and erect, though faulty since, To such unsightly sufferings be **debased** Under inhuman pains?"
+      }
+    ],
+    "debasement": [],
+    "debaser": [],
+    "debasing": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "He could not make the request; it was **debasing** loveliness to ask it to buy and sell, and jarred with his conceptions of her."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Dogma gives a charter to mistake, but the very breath of science is a contest with mistake, and must keep the conscience alive.\u201d Alas! the scientific conscience had got into the **debasing** company of money obligation and selfish respects."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "The victim, from my cradle, of pecuniary liabilities to which I have been unable to respond, I have ever been the sport and toy of **debasing** circumstances."
+      },
+      {
+        "author": "Mary Shelley",
+        "work": "Frankenstein",
+        "sentence": "For a moment my soul was elevated from its **debasing** and miserable fears to contemplate the divine ideas of liberty and self-sacrifice of which these sights were the monuments and the remembrancers."
+      }
+    ],
+    "sebastiana": [],
+    "sebastodes": [],
+    "sebastopol": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "In the **Sebastopol** goose the scapular feathers are greatly elongated, curled, or even spirally twisted, with the margins plumose. (72."
+      }
+    ],
+    "subbase": [],
+    "surbase": [],
+    "unabashed": [
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "Frank rude health glowed in her face, on her fat red cheeks and in her **unabashed** blue eyes."
+      }
+    ]
+  }
+}

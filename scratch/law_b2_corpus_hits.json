@@ -1,0 +1,1265 @@
+{
+  "leg_words": [
+    "allegation",
+    "allege",
+    "alleged",
+    "allegedly",
+    "allegement",
+    "allegiance",
+    "allegiant",
+    "allegoric",
+    "allegorical",
+    "allegorically",
+    "allegorise",
+    "allegoriser",
+    "allegorize",
+    "allegorizer",
+    "allegory",
+    "allegretto",
+    "allegro",
+    "college",
+    "collegial",
+    "collegian",
+    "collegiate",
+    "delegacy",
+    "delegate",
+    "delegating",
+    "delegation",
+    "elegance",
+    "elegant",
+    "elegantly",
+    "elegiac",
+    "elegise",
+    "elegist",
+    "elegize",
+    "elegy",
+    "extralegal",
+    "illegal",
+    "illegalise",
+    "illegality",
+    "illegalize",
+    "illegally",
+    "illegibility",
+    "illegible",
+    "illegibly",
+    "illegitimacy",
+    "illegitimate",
+    "illegitimately",
+    "inelegance",
+    "inelegant",
+    "inelegantly",
+    "intercollegiate",
+    "leg",
+    "legacy",
+    "legal",
+    "legalese",
+    "legalisation",
+    "legalise",
+    "legalism",
+    "legality",
+    "legalization",
+    "legalize",
+    "legally",
+    "legate",
+    "legatee",
+    "legateship",
+    "legation",
+    "legato",
+    "legend",
+    "legendary",
+    "leger",
+    "legerdemain",
+    "legerity",
+    "leggy",
+    "legibility",
+    "legible",
+    "legibly",
+    "leging",
+    "legion",
+    "legionary",
+    "legionella",
+    "legionnaire",
+    "legislate",
+    "legislating",
+    "legislation",
+    "legislative",
+    "legislatively",
+    "legislator",
+    "legislatorship",
+    "legislature",
+    "legitimacy",
+    "legitimate",
+    "legitimately",
+    "legitimation",
+    "legitimatise",
+    "legitimatize",
+    "legitimise",
+    "legitimize",
+    "legless",
+    "leglike",
+    "lego",
+    "legs",
+    "legume",
+    "leguminosae",
+    "leguminous",
+    "nonlegal",
+    "prolegomenon",
+    "relegate",
+    "relegating",
+    "relegation"
+  ],
+  "mand_words_p1": [
+    "almandine",
+    "almandite",
+    "comandra",
+    "command",
+    "commandant",
+    "commandeer",
+    "commander",
+    "commandership",
+    "commandery",
+    "commanding",
+    "commandment",
+    "commando",
+    "countermand",
+    "demand",
+    "demander",
+    "demanding",
+    "demandingly",
+    "manda",
+    "mandaean",
+    "mandaeanism",
+    "mandala",
+    "mandalay",
+    "mandamus",
+    "mandara",
+    "mandarin",
+    "mandatary",
+    "mandate",
+    "mandator",
+    "mandatorily",
+    "mandatory",
+    "mande"
+  ],
+  "mand_words_p2": [
+    "mandean",
+    "mandeanism",
+    "mandela",
+    "mandelamine",
+    "mandelbrot",
+    "mandelshtam",
+    "mandelstam",
+    "mandevilla",
+    "mandible",
+    "mandibula",
+    "mandibular",
+    "mandibulate",
+    "mandibulofacial",
+    "mandioc",
+    "mandioca",
+    "mandola",
+    "mandolin",
+    "mandragora",
+    "mandrake",
+    "mandrel",
+    "mandril",
+    "mandrill",
+    "mandrillus",
+    "manduca",
+    "manducate",
+    "manduction",
+    "nonmandatory",
+    "remand",
+    "remandate",
+    "undemanding"
+  ],
+  "hits": {
+    "allegation": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "My Lord of Suffolk, Buckingham, and York, Reprove my **allegation** if you can, Or else conclude my words effectual."
+      }
+    ],
+    "allege": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "The reasons you **allege** do more conduce To the hot passion of distemp’red blood Than to make up a free determination ’Twixt right and wrong; for pleasure and revenge Have ears more deaf than adders to the voice Of any true decision."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Other people would say so, and would **allege** that he was currying favor with Bulstrode for the sake of making himself important and getting on in the world."
+      }
+    ],
+    "alleged": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "The great Duke Came to the bar, where to his accusations He pleaded still not guilty and **alleged** Many sharp reasons to defeat the law."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "A process somewhat analogous to that of **alleged** formations of the universe, time and times ago, was observable."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "As to the excessive religiousness **alleged** against Miss Brooke, he had a very indefinite notion of what it consisted in, and thought that it would die out with marriage."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "And as for the matter of the **alleged** uncleanliness of our business, ye shall soon be initiated into certain facts hitherto pretty generally unknown, and which, upon the whole, will triumphantly plant the sperm whale-ship at least among the cleanliest things of this tidy earth."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "It arose out of a scuffle between two churchwardens, one of whom was **alleged** to have pushed the other against a pump; the handle of which pump projecting into a school-house, which school-house was under a gable of the church-roof, made the push an ecclesiastical offence."
+      }
+    ],
+    "allegedly": [],
+    "allegement": [],
+    "allegiance": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Yet he that can endure To follow with **allegiance** a fallen lord Does conquer him that did his master conquer, And earns a place i’ th’ story."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "And Fred, notwithstanding his general scepticism about Rosy, listened to her music with perfect **allegiance**, wishing he could do the same thing on his flute."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "All men recognize the right of revolution; that is, the right to refuse **allegiance** to and to resist the government, when its tyranny or its inefficiency are great and unendurable."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "I myself am a savage, owning no **allegiance** but to the King of the Cannibals; and ready at any moment to rebel against him."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Man Who Was Thursday",
+        "sentence": "Many moderns, inured to a weak worship of intellect and force, might have wavered in their **allegiance** under this oppression of a great personality."
+      }
+    ],
+    "allegiant": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "For your great graces Heaped upon me, poor undeserver, I Can nothing render but **allegiant** thanks, My prayers to heaven for you, my loyalty, Which ever has and ever shall be growing, Till death, that winter, kill it."
+      }
+    ],
+    "allegoric": [
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Man Who Was Thursday",
+        "sentence": "The man was a Norman, taller than the average of the French and very angular; and his swarthy figure stood dark against a square of sunlight, almost like some **allegoric** figure of labour frescoed on a ground of gold."
+      }
+    ],
+    "allegorical": [
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "An **allegorical** meaning may lurk here."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "‘Ah!’ said my aunt, rubbing her nose as if she were a little vexed. ‘That’s his **allegorical** way of expressing it."
+      }
+    ],
+    "allegorically": [],
+    "allegorise": [],
+    "allegoriser": [],
+    "allegorize": [],
+    "allegorizer": [],
+    "allegory": [
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "So ignorant are most landsmen of some of the plainest and most palpable wonders of the world, that without some hints touching the plain facts, historical and otherwise, of the fishery, they might scout at Moby Dick as a monstrous fable, or still worse and more detestable, a hideous and intolerable **allegory**."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "4:24 Which things are an **allegory**: for these are the two covenants; the one from the mount Sinai, which gendereth to bondage, which is Agar."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Ball and the Cross",
+        "sentence": "It sums up my whole **allegory**,\" said the professor."
+      }
+    ],
+    "allegretto": [],
+    "allegro": [
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "It appears that she was formerly a _danseuse_ at the **Allegro**, and that she has known the bridegroom for some years."
+      }
+    ],
+    "college": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "We thank you, maiden, But may not be so credulous of cure, When our most learned doctors leave us, and The congregated **college** have concluded That labouring art can never ransom nature From her inaidable estate."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "They were his father and mother, his brother the Reverend Felix—curate at a town in the adjoining county, home for the inside of a fortnight—and his other brother, the Reverend Cuthbert, the classical scholar, and Fellow and Dean of his **College**, down from Cambridge for the long vacation."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "And you know yourself he was thought equal to the best society at **college**."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "Isa Whitney, brother of the late Elias Whitney, D.D., Principal of the Theological **College** of St."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "Next to his reserve and the faultless propriety of his conduct, his contemporaries at **college** seemed most impressed by the great maturity of his mind."
+      }
+    ],
+    "collegial": [],
+    "collegian": [],
+    "collegiate": [
+      {
+        "author": "Francis Bacon",
+        "work": "The Essays",
+        "sentence": "Soon after our dinner was served in; which was right good viands, both for bread and treat: better than any **collegiate** diet, that I have known in Europe."
+      }
+    ],
+    "delegacy": [],
+    "delegate": [
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "Each philosopher, each bard, each actor has only done for me, as by a **delegate**, what one day I can do for myself."
+      },
+      {
+        "author": "Thomas Henry Huxley",
+        "work": "Evolution and Ethics",
+        "sentence": "Now happiest they that occupy the scenes The most remote from his abhorred resort, Whom once as **delegate** of God on earth They feared, and as His perfect image loved."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Man Who Was Thursday",
+        "sentence": "Comrade Gregory,\" he said, \"I suppose this man is a **delegate**?"
+      }
+    ],
+    "delegating": [
+      {
+        "author": "Jane Austen",
+        "work": "Emma",
+        "sentence": "But consider--you need not be afraid of **delegating** power to _me_."
+      }
+    ],
+    "delegation": [
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "The political parties meet in numerous conventions; the greater the concourse, and with each new uproar of announcement, The **delegation** from Essex![276] The Democrats from New Hampshire!"
+      }
+    ],
+    "elegance": [
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "Because, **elegance** comes of no breeding, but of birth."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "With his hospitable intellect he embraces children, beggars, insane, and scholars, and entertains the thought of all, adding to it commonly some breadth and **elegance**."
+      },
+      {
+        "author": "Joseph Conrad",
+        "work": "Heart of Darkness",
+        "sentence": "When near the buildings I met a white man, in such an unexpected **elegance** of get-up that in the first moment I took him for a sort of vision."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "In these cases we have feathers symmetrically shaded, like those which give so much **elegance** to the plumage of many natural species."
+      },
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "The poor lady sang _Killarney_ in a bodiless gasping voice, with all the old-fashioned mannerisms of intonation and pronunciation which she believed lent **elegance** to her singing."
+      }
+    ],
+    "elegant": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Shepherd Oak, Jan Coggan, Moon, Poorgrass, Cain Ball, and several others were assembled here, all dripping wet to the very roots of their hair, and Bathsheba was standing by in a new riding-habit—the most **elegant** she had ever worn—the reins of her horse being looped over her arm."
+      },
+      {
+        "author": "Lewis Carroll",
+        "work": "Alice's Adventures in Wonderland",
+        "sentence": "Then they all crowded round her once more, while the Dodo solemnly presented the thimble, saying “We beg your acceptance of this **elegant** thimble;” and, when it had finished this short speech, they all cheered."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "And this cruel outward accuser was there in the shape of a wife—nay, of a young bride, who, instead of observing his abundant pen-scratches and amplitude of paper with the uncritical awe of an **elegant**-minded canary-bird, seemed to present herself as a spy watching everything with a malign power of inference."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "A sainted soul is always **elegant**, and, if it will, passes unchallenged into the most guarded ring."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "In the male the modified antenna is either swollen in the middle or angularly bent, or converted (Fig. 4) into an **elegant**, and sometimes wonderfully complex, prehensile organ. (9."
+      }
+    ],
+    "elegantly": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "As they are so conspicuous and so **elegantly** branched, and as owing to their great length they are not well adapted for pinching, the suspicion has crossed my mind that they may in addition serve as an ornament, like the horns on the head and thorax of the various species above described."
+      },
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "Jimmy, whose imagination was kindling, conceived the lively youth of the Frenchmen twined **elegantly** upon the firm framework of the Englishman’s manner."
+      },
+      {
+        "author": "Thomas Henry Huxley",
+        "work": "Evolution and Ethics",
+        "sentence": "She judges of refinement by the eye, He by the test of conscience, and a heart Not soon deceived; aware that what is base No polish can make sterling, and that vice, Though well-perfumed and **elegantly** dressed, Like an unburied carcass tricked with flowers, Is but a garnished nuisance, fitter far For cleanly riddance than for fair attire."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "The Marquis took a gentle little pinch of snuff, and shook his head; as **elegantly** despondent as he could becomingly be of a country still containing himself, that great means of regeneration."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Emma",
+        "sentence": "The Picture, **elegantly** framed, came safely to hand soon after Mr."
+      }
+    ],
+    "elegiac": [],
+    "elegise": [],
+    "elegist": [],
+    "elegize": [],
+    "elegy": [],
+    "extralegal": [],
+    "illegal": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "He had persistently elevated Hellenic Paganism at the expense of Christianity; yet in that civilization an **illegal** surrender was not certain disesteem."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "I have done nothing actionable from the first, but as long as you keep that door locked you lay yourself open to an action for assault and **illegal** constraint."
+      },
+      {
+        "author": "William James",
+        "work": "Pragmatism",
+        "sentence": "This was just; and however **illegal** were the means, I applauded them for the end."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Ball and the Cross",
+        "sentence": "He knew that the kind of man who in his own back garden wears good clothes and spoils them with a bad hat is not the kind of man who has an abstract horror of **illegal** actions of violence or the evasion of the police."
+      }
+    ],
+    "illegalise": [],
+    "illegality": [],
+    "illegalize": [],
+    "illegally": [
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "Clair, then it is obvious that no crime has been committed, and that, therefore, I am **illegally** detained."
+      }
+    ],
+    "illegibility": [],
+    "illegible": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Casaubon should think her handwriting bad and **illegible**."
+      },
+      {
+        "author": "Joseph Conrad",
+        "work": "Heart of Darkness",
+        "sentence": "Approach cautiously.’ There was a signature, but it was **illegible**—not Kurtz—a much longer word. ‘Hurry up.’ Where?"
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Then she would open it at the place where Jip had made it **illegible** last night, and call Jip up, to look at his misdeeds."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Ball and the Cross",
+        "sentence": "The upper of these two roads was decorated with a big public house, a butcher's shop, a small public house, a sweetstuff shop, a very small public house, and an **illegible** signpost."
+      }
+    ],
+    "illegibly": [
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Dear me, Annie, how **illegibly** your cousin Maldon writes, and how stupid I am!"
+      }
+    ],
+    "illegitimacy": [
+      {
+        "author": "Jane Austen",
+        "work": "Emma",
+        "sentence": "A degradation to **illegitimacy** and ignorance, to be married to a respectable, intelligent gentleman-farmer!"
+      }
+    ],
+    "illegitimate": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I am a bastard begot, bastard instructed, bastard in mind, bastard in valour, in everything **illegitimate**."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "It seems at first sight a mysterious fact that in different nations, under different conditions and climates, in Naples, Prussia, Westphalia, Holland, France, England and the United States, the excess of male over female births is less when they are **illegitimate** than when legitimate. (54."
+      }
+    ],
+    "illegitimately": [],
+    "inelegance": [
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "For the first time his soul revolted against the dull **inelegance** of Capel Street."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Emma",
+        "sentence": "Of pride, indeed, there was, perhaps, scarcely enough; his indifference to a confusion of rank, bordered too much on **inelegance** of mind."
+      }
+    ],
+    "inelegant": [
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "As in general shape the noble Sperm Whale’s head may be compared to a Roman war-chariot (especially in front, where it is so broadly rounded); so, at a broad view, the Right Whale’s head bears a rather **inelegant** resemblance to a gigantic galliot-toed shoe."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Sense and Sensibility",
+        "sentence": "Most grateful did Elinor feel to Lady Middleton for observing, at this moment, \"that it rained very hard,\" though she believed the interruption to proceed less from any attention to her, than from her ladyship's great dislike of all such **inelegant** subjects of raillery as delighted her husband and mother."
+      }
+    ],
+    "inelegantly": [],
+    "intercollegiate": [],
+    "leg": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Truly, madam, if God have lent a man any manners, he may easily put it off at court: he that cannot make a **leg**, put off’s cap, kiss his hand, and say nothing, has neither **leg**, hands, lip, nor cap; and indeed such a fellow, to say precisely, were not for the court; but for me, I have an answer will serve all men."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "’Twas a bad **leg** allowed me to read the _Pilgrim’s Progress_, and Mark Clark learnt All-Fours in a whitlow."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Sexual selection by always allowing the victor to breed might surely give indomitable courage, length to the spur, and strength to the wing to strike in the spurred **leg**, as well as the brutal cock-fighter, who knows well that he can improve his breed by careful selection of the best cocks."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "The paper man she was making would have had his **leg** injured, but for her habitual care of whatever she held in her hands."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "Is a tall man, left-handed, limps with the right **leg**, wears thick-soled shooting-boots and a grey cloak, smokes Indian cigars, uses a cigar-holder, and carries a blunt pen-knife in his pocket."
+      }
+    ],
+    "legacy": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Unthrifty loveliness why dost thou spend, Upon thyself thy beauty’s **legacy**?"
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "But he may have been looking for money, my dear, and we all thought of your having a pretty **legacy** as well as Fred;—and now everything is so dreadful—there’s no pleasure in thinking of anything, with that poor boy disappointed as he is."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "He accepted, from his sister’s stock of ready money, a small sum on account of his **legacy**; barely enough, I should have thought, to keep him for a month."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Sense and Sensibility",
+        "sentence": "He had just compunction enough for having done nothing for his sisters himself, to be exceedingly anxious that everybody else should do a great deal; and an offer from Colonel Brandon, or a **legacy** from Mrs."
+      }
+    ],
+    "legal": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Was ever seen An emperor in Rome thus overborne, Troubled, confronted thus; and, for the extent Of **legal** justice, used in such contempt?"
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "It may be merely this **legal** reason which influences her, or it may be a religious one, but she is reluctant to talk on the point."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "Every step in political improvement renders it more so, by removing the sources of opposition of interest, and levelling those inequalities of **legal** privilege between individuals or classes, owing to which there are large portions of mankind whose happiness it is still practicable to disregard."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Standish, with as much disgust at such non-**legal** quibbling as a man can well betray towards a valuable client."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "‘Come, man, come, only three minutes, or it won’t be **legal**.’"
+      }
+    ],
+    "legalese": [],
+    "legalisation": [],
+    "legalise": [],
+    "legalism": [],
+    "legality": [
+      {
+        "author": "Joseph Conrad",
+        "work": "Heart of Darkness",
+        "sentence": "Brought from all the recesses of the coast in all the **legality** of time contracts, lost in uncongenial surroundings, fed on unfamiliar food, they sickened, became inefficient, and were then allowed to crawl away and rest."
+      }
+    ],
+    "legalization": [],
+    "legalize": [],
+    "legally": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "For though **legally** at liberty to do as he chose, and though their daughter-in-law’s qualifications could make no practical difference to their lives, in the probability of her living far away from them, he wished for affection’s sake not to wound their sentiment in the most important decision of his life."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "I find that the first will would not have been **legally** good after the burning of the last; it would not have stood if it had been disputed, and you may be sure it would have been disputed."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "I am aware that I have been on many a man’s premises, and might have been **legally** ordered off, but I am not aware that I have been in many men’s houses."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "I have come **legally** to man’s estate."
+      },
+      {
+        "author": "Jonathan Swift",
+        "work": "Gulliver's Travels",
+        "sentence": "It is a maxim among these lawyers that whatever has been done before, may **legally** be done again: and therefore they take special care to record all the decisions formerly made against common justice, and the general reason of mankind."
+      }
+    ],
+    "legate": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Enter Winchester in Cardinal’s habit, a **Legate** and two Ambassadors."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "Cardinal Caprara,[418] the Pope's[419] **legate** at Paris, defended himself from the glances of Napoleon, by an immense pair of green spectacles."
+      },
+      {
+        "author": "Thomas Henry Huxley",
+        "work": "Evolution and Ethics",
+        "sentence": "There stands the messenger of truth; there stands The **legate** of the skies; his theme divine, His office sacred, his credentials clear."
+      }
+    ],
+    "legatee": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Such conversation paused suddenly, like an organ when the bellows are let drop, if Mary Garth came into the room; and all eyes were turned on her as a possible **legatee**, or one who might get access to iron chests."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Queequeg,” said I, “come along, you shall be my lawyer, executor, and **legatee**."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "All the rest he died possessed of, he bequeathed to Peggotty; whom he left residuary **legatee**, and sole executrix of that his last will and testament."
+      }
+    ],
+    "legateship": [],
+    "legation": [],
+    "legato": [],
+    "legend": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "It is possible that there was this golden **legend** under the utilitarian one: “I will help to my last effort the woman I have loved so dearly."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "It is monstrous—as if you had had a vision of Hades in your childhood, like the boy in the **legend**."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "In short, the poet owes to his **legend** what sculpture owed to the temple."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "George might have been only a large seal, or sea-horse; bearing all this in mind, it will not appear altogether incompatible with the sacred **legend** and the ancientest draughts of the scene, to hold this so-called dragon no other than the great Leviathan himself."
+      },
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "I went to the stern and tried to decipher the **legend** upon it but, failing to do so, I came back and examined the foreign sailors to see had any of them green eyes for I had some confused notion...."
+      }
+    ],
+    "legendary": [
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "A poetical version of the **legendary** history of Britain, by Layamon."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "And as if the now tested reality of his might had in former **legendary** times thrown its shadow before it; we find some book naturalists—Olassen and Povelson—declaring the Sperm Whale not only to be a consternation to every other creature in the sea, but also to be so incredibly ferocious as continually to be athirst for human blood."
+      },
+      {
+        "author": "Thomas Henry Huxley",
+        "work": "Evolution and Ethics",
+        "sentence": "An ancient, not a **legendary** tale, By one of sound intelligence rehearsed, (If such, who plead for Providence may seem In modern eyes) shall make the doctrine clear."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The War of the Worlds",
+        "sentence": "The **legendary** hosts of Goths and Huns, the hugest armies Asia has ever seen, would have been but a drop in that current."
+      }
+    ],
+    "leger": [],
+    "legerdemain": [],
+    "legerity": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "KING HENRY. ’Tis good for men to love their present pains Upon example; so the spirit is eased; And when the mind is quick’ned, out of doubt, The organs, though defunct and dead before, Break up their drowsy grave and newly move, With casted slough and fresh **legerity**."
+      }
+    ],
+    "leggy": [],
+    "legibility": [],
+    "legible": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "She inserted the words in a small though **legible** handwriting; enclosed the sheet in an envelope, and dipped her pen for the direction."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "B.’ are **legible** upon the lining of this hat, but as there are some thousands of Bakers, and some hundreds of Henry Bakers in this city of ours, it is not easy to restore lost property to any one of them."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "This car-load of torn sails is more **legible** and interesting now than if they should be wrought into paper and printed books."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "It was from Peggotty; something less **legible** than usual, and brief."
+      },
+      {
+        "author": "Mary Shelley",
+        "work": "Frankenstein",
+        "sentence": "My reign is not yet over”—these words were **legible** in one of these inscriptions—“you live, and my power is complete."
+      }
+    ],
+    "legibly": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "At that time the opinion existed that it was beneath a gentleman to write **legibly**, or with a hand in the least suitable to a clerk."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "It was an ordinance of the Republic One and Indivisible of Liberty, Equality, Fraternity, or Death, that on the door or doorpost of every house, the name of every inmate must be **legibly** inscribed in letters of a certain size, at a certain convenient height from the ground."
+      }
+    ],
+    "leging": [],
+    "legion": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Take him unto torment!” With that, methoughts, a **legion** of foul fiends Environed me, and howled in mine ears Such hideous cries that with the very noise I trembling waked, and for a season after Could not believe but that I was in hell, Such terrible impression made my dream."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "God is alone,—but the devil, he is far from being alone; he sees a great deal of company; he is **legion**."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "And he answered, saying, My name is **Legion**: for we are many."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Man Who Was Thursday",
+        "sentence": "The man had two companions now, solemn Frenchmen in frock-coats and silk hats, one of them with the red rosette of the **Legion** of Honour, evidently people of a solid social position."
+      }
+    ],
+    "legionary": [],
+    "legionella": [],
+    "legionnaire": [],
+    "legislate": [
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "His words are wisdom to those legislators who contemplate no essential reform in the existing government; but for thinkers, and those who **legislate** for all time, he never once glances at the subject."
+      }
+    ],
+    "legislating": [],
+    "legislation": [
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "But though in science the particular truths precede the general theory, the contrary might be expected to be the case with a practical art, such as morals or **legislation**."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "No man with a genius for **legislation** has appeared in America."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "Death is Nature’s remedy for all things, and why not **Legislation**’s?"
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Ball and the Cross",
+        "sentence": "Hutton, \"the Master described before both Houses of Parliament the real scientific objection to all existing **legislation** about lunacy."
+      }
+    ],
+    "legislative": [
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "[Footnote 237: Jeremy Bentham (1748-1832), English philosopher, jurist, and **legislative** reformer.]"
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "Only they who go to soirées and **legislative** halls must have new coats, coats to change as often as the man changes in them."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Perhaps the only formal whaling code authorized by **legislative** enactment, was that of Holland."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "The period was hardly, if at all, earlier than that of our story, when a dispute concerning the right of property in a pig not only caused a fierce and bitter contest in the **legislative** body of the colony, but resulted in an important modification of the framework itself of the legislature."
+      }
+    ],
+    "legislatively": [],
+    "legislator": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "All the rest is to show what sort of **legislator** a philanthropist is likely to make,” ended the Rector, throwing down the paper, and clasping his hands at the back of his head, while he looked at Mr."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "Must the citizen ever for a moment, or in the least degree, resign his conscience to the **legislator**?"
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "He was a soldier, **legislator**, judge; he was a ruler in the Church; he had all the Puritanic traits, both good and evil."
+      }
+    ],
+    "legislatorship": [],
+    "legislature": [
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "The learned member of the **legislature**, at Westminister,[571] or at Washington, speaks and votes for thousands."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "If the **legislature** regards it, it is chiefly to regulate the number of hooks to be used there; but they know nothing about the hook of hooks with which to angle for the pond itself, impaling the **legislature** for a bait."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "When the principles of breeding and inheritance are better understood, we shall not hear ignorant members of our **legislature** rejecting with scorn a plan for ascertaining whether or not consanguineous marriages are injurious to man."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "The period was hardly, if at all, earlier than that of our story, when a dispute concerning the right of property in a pig not only caused a fierce and bitter contest in the legislative body of the colony, but resulted in an important modification of the framework itself of the **legislature**."
+      },
+      {
+        "author": "Jonathan Swift",
+        "work": "Gulliver's Travels",
+        "sentence": "And that these two bodies made up the most august assembly in Europe; to whom, in conjunction with the prince, the whole **legislature** is committed."
+      }
+    ],
+    "legitimacy": [
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "Again, when the **legitimacy** of inflicting punishment is admitted, how many conflicting conceptions of justice come to light in discussing the proper apportionment of punishment to offences."
+      }
+    ],
+    "legitimate": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I’ th’ progress of this business, Ere a determinate resolution, he, I mean the Bishop, did require a respite, Wherein he might the King his lord advertise Whether our daughter were **legitimate**, Respecting this our marriage with the dowager, Sometimes our brother’s wife."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "So little are instinctive guesses the fruit of a **legitimate** induction that, at this moment, as he stood with the door in his hand, Troy never once thought of Fanny in connection with what he saw."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "That a feeling is bestowed on us by Nature, does not necessarily **legitimate** all its promptings."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "The **legitimate** inference the disciple would draw was: \"We are to have _such_ a good time as the sinners have now\"; or, to push it to its extreme import: \"You sin now; we shall sin by and by; we would sin now, if we could; not being successful, we expect our revenue to-morrow."
+      },
+      {
+        "author": "Joseph Conrad",
+        "work": "Heart of Darkness",
+        "sentence": "It looked like a high-handed proceeding; but it was really a case of **legitimate** self-defence."
+      }
+    ],
+    "legitimately": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "I have already stated that I cannot honestly admit Forbes’s view on continental extensions, which, if **legitimately** followed out, would lead to the belief that within the recent period all existing islands have been nearly or quite joined to some continent."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "By proper Shelter and Clothing we **legitimately** retain our own internal heat; but with an excess of these, or of Fuel, that is, with an external heat greater than our own internal, may not cookery properly be said to begin?"
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Nor, perhaps, will it fail to be eventually perceived, that behind those forms and usages, as it were, he sometimes masked himself; incidentally making use of them for other and more private ends than they were **legitimately** intended to subserve."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "After some conversation among these gentlemen, from which I might have supposed that there was nothing in the world to be **legitimately** taken into account but the supreme comfort of prisoners, at any expense, and nothing on the wide earth to be done outside prison-doors, we began our inspection."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Wisdom of Father Brown",
+        "sentence": "He also began to remember that pistol-shots are sometimes serious things; accompanied with consequences with which he was **legitimately** concerned."
+      }
+    ],
+    "legitimation": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I have disclaim’d Sir Robert and my land; **Legitimation**, name, and all is gone."
+      }
+    ],
+    "legitimatise": [],
+    "legitimatize": [],
+    "legitimise": [],
+    "legitimize": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "If I cannot **legitimize** our former relations at least I can assist you."
+      }
+    ],
+    "legless": [],
+    "leglike": [],
+    "lego": [],
+    "legs": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "His **legs** bestrid the ocean; his reared arm Crested the world; his voice was propertied As all the tuned spheres, and that to friends; But when he meant to quail and shake the orb, He was as rattling thunder."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "The girl on the summit of the load sat motionless, surrounded by tables and chairs with their **legs** upwards, backed by an oak settle, and ornamented in front by pots of geraniums, myrtles, and cactuses, together with a caged canary—all probably from the windows of the house just vacated."
+      },
+      {
+        "author": "Lewis Carroll",
+        "work": "Alice's Adventures in Wonderland",
+        "sentence": "Alice caught the baby with some difficulty, as it was a queer-shaped little creature, and held out its arms and **legs** in all directions, “just like a star-fish,” thought Alice."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "The pouter has a much elongated body, wings, and **legs**; and its enormously developed crop, which it glories in inflating, may well excite astonishment and even laughter."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Brooke sat down in his arm-chair, stretched his **legs** towards the wood-fire, which had fallen into a wondrous mass of glowing dice between the dogs, and rubbed his hands gently, looking very mildly towards Dorothea, but with a neutral leisurely air, as if he had nothing particular to say."
+      }
+    ],
+    "legume": [],
+    "leguminosae": [],
+    "leguminous": [],
+    "nonlegal": [],
+    "prolegomenon": [],
+    "relegate": [],
+    "relegating": [],
+    "relegation": [],
+    "almandine": [],
+    "almandite": [],
+    "comandra": [],
+    "command": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "And I in going, madam, weep o’er my father’s death anew; but I must attend his majesty’s **command**, to whom I am now in ward, evermore in subjection."
+      }
+    ],
+    "commandant": [],
+    "commandeer": [],
+    "commander": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "It is reported that he has taken their great’st **commander**, and that with his own hand he slew the duke’s brother."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Saisissant avec un tact merveilleux ce qui pouvait être agréable à chacun, elle donnait des ordres sans avoir l'air de **commander**; on lui obéissait avec plaisir, et lorsqu'elle s'apercevait d'un oubli ou d'une négligence, elle y remédiait sans gronder et en faisant elle-même ce qu'elle avait ordonné de faire."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "In this case I found her biography sandwiched in between that of a Hebrew rabbi and that of a staff-**commander** who had written a monograph upon the deep-sea fishes."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "An English politician and **commander** of the fifteenth century, called \"the King Maker.\" He appears in Shakespeare's plays, _Henry IV._, _V._, and _VI._]"
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "But when I stood on the shore they at once rose up with a great flapping of wings at the signal of their **commander**, and when they had got into rank circled about over my head, twenty-nine of them, and then steered straight to Canada, with a regular _honk_ from the leader at intervals, trusting to break their fast in muddier pools."
+      }
+    ],
+    "commandership": [],
+    "commandery": [],
+    "commanding": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I think this upstart is old Talbot’s ghost, He speaks with such a proud **commanding** spirit."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "It was two hours, owing to sundry wrong turnings, ere she found herself on a summit **commanding** the long-sought-for vale, the Valley of the Great Dairies, the valley in which milk and butter grew to rankness, and were produced more profusely, if less delicately, than at her home—the verdant plain so well watered by the river Var or Froom."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Brooke was to explain himself to the worthy electors of Middlemarch from the balcony of the White Hart, which looked out advantageously at an angle of the market-place, **commanding** a large area in front and two converging streets."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "He was a man of about fifty, tall, portly, and imposing, with a massive, strongly marked face and a **commanding** figure."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "Cultivated men always feel and speak so as if a great fortune, the achievement of a civil or social measure, great personal influence, a graceful and **commanding** address, had their value as proofs of the energy of the spirit."
+      }
+    ],
+    "commandment": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I thought that all things had been savage here And therefore put I on the countenance Of stern **commandment**."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "If any one imagines that this law is lax, let him keep its **commandment** one day."
+      },
+      {
+        "author": "Francis Bacon",
+        "work": "The Essays",
+        "sentence": "For they have by **commandment**, (though in form of courtesy) cloistered us within these wall, for three days: who knoweth, whether it be not, to take some taste of our manners and conditions?"
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Think not, is my eleventh **commandment**; and sleep when you can, is my twelfth—So here goes again."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "45:21 And the children of Israel did so: and Joseph gave them wagons, according to the **commandment** of Pharaoh, and gave them provision for the way."
+      }
+    ],
+    "commando": [],
+    "countermand": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Have you no **countermand** for Claudio yet, But he must die tomorrow?"
+      }
+    ],
+    "demand": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Her father bequeath’d her to me, and she herself, without other advantage, may lawfully make title to as much love as she finds; there is more owing her than is paid, and more shall be paid her than she’ll **demand**."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Now that Oak had turned himself into a shepherd, it seemed that bailiffs were most in **demand**."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "These elements are, a hurt to some assignable person or persons on the one hand, and a **demand** for punishment on the other."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Although naturalists very properly **demand** a full explanation of every difficulty from those who believe in the mutability of species, on their own side they ignore the whole subject of the first appearance of species in what they consider reverent silence."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "And a stranger was absolutely necessary to Rosamond’s social romance, which had always turned on a lover and bridegroom who was not a Middlemarcher, and who had no connections at all like her own: of late, indeed, the construction seemed to **demand** that he should somehow be related to a baronet."
+      }
+    ],
+    "demander": [
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Ne sachant plus comment occuper ses heures d'ennui, la pauvre Charlotte étendit ses correspondances, dont au reste le Capitaine était souvent l'objet; car elle continuait à **demander** pour lui à ses nombreux amis et connaissances un emploi convenable."
+      }
+    ],
+    "demanding": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Gracious my lord, hard by here is a hovel; Some friendship will it lend you ’gainst the tempest: Repose you there, whilst I to this hard house,— More harder than the stones whereof ’tis rais’d; Which even but now, **demanding** after you, Denied me to come in,—return, and force Their scanted courtesy."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "The sun, on account of the mist, had a curious sentient, personal look, **demanding** the masculine pronoun for its adequate expression."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "I have insisted to him on what Aristotle has stated with admirable brevity, that for the achievement of any work regarded as an end there must be a prior exercise of many energies or acquired facilities of a secondary order, **demanding** patience."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Even when wearied nature seemed **demanding** repose he would not seek that repose in his hammock."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "Yet the taste of the age, **demanding** whatever was elaborate in compositions of this kind, did not fail to extend its influence over our stern progenitors, who had cast behind them so many fashions which it might seem harder to dispense with."
+      }
+    ],
+    "demandingly": [],
+    "manda": [],
+    "mandaean": [],
+    "mandaeanism": [],
+    "mandala": [],
+    "mandalay": [],
+    "mandamus": [],
+    "mandara": [],
+    "mandarin": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Bennett relates (11. ‘Wanderings in New South Wales,’ vol. ii. 1834, p. 62.) that in China after a drake of the beautiful **mandarin** Teal had been stolen, the duck remained disconsolate, though sedulously courted by another **mandarin** drake, who displayed before her all his charms."
+      }
+    ],
+    "mandatary": [],
+    "mandate": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Fulvia perchance is angry; or who knows If the scarce-bearded Caesar have not sent His powerful **mandate** to you: “Do this or this; Take in that kingdom and enfranchise that."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "After this their conversation dwindled to a casual remark now and then as they rambled onward, Tess inwardly wondering how far he was going with her, and not liking to send him back by positive **mandate**."
+      },
+      {
+        "author": "Mary Shelley",
+        "work": "Frankenstein",
+        "sentence": "The generous nature of Safie was outraged by this command; she attempted to expostulate with her father, but he left her angrily, reiterating his tyrannical **mandate**."
+      }
+    ],
+    "mandator": [],
+    "mandatorily": [],
+    "mandatory": [],
+    "mande": []
+  }
+}

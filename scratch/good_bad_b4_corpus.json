@@ -1,0 +1,1546 @@
+{
+  "dir_map": {
+    "pecc": "Dashboard — pecc",
+    "prav": "Dashboard — prav",
+    "pur": "Dashboard — pur",
+    "suav": "Dashboard — suav",
+    "van": "Dashboard — van"
+  },
+  "p1a": [
+    "impeccability",
+    "impeccable",
+    "impeccably",
+    "impeccant",
+    "peccable",
+    "peccadillo",
+    "peccant",
+    "peccary",
+    "depravation",
+    "deprave",
+    "depraved",
+    "depravity",
+    "pravachol",
+    "pravastatin",
+    "suave",
+    "suavely",
+    "suaveness",
+    "suavity",
+    "appurtenance",
+    "appurtenant",
+    "depurate",
+    "expurgate",
+    "expurgated",
+    "expurgation",
+    "expurgator",
+    "impure",
+    "impureness",
+    "impurity",
+    "nonpurulent",
+    "nonsuppurative",
+    "purace",
+    "purana",
+    "puranic",
+    "purau",
+    "purcell",
+    "purchasable",
+    "purchase",
+    "purchaser",
+    "purchasing"
+  ],
+  "p1b": [
+    "pure",
+    "pureblood",
+    "pureblooded",
+    "purebred",
+    "puree",
+    "purely",
+    "pureness",
+    "purgation",
+    "purgative",
+    "purgatorial",
+    "purgatory",
+    "purge",
+    "purging",
+    "purification",
+    "purifier",
+    "purify",
+    "purifying",
+    "purim",
+    "purine",
+    "purinethol",
+    "purism",
+    "purist",
+    "puritan",
+    "puritanic",
+    "puritanical",
+    "puritanically",
+    "puritanism",
+    "purity",
+    "purl",
+    "purlieu",
+    "purloin",
+    "purloo",
+    "purr",
+    "purse",
+    "purse-proud"
+  ],
+  "p2a": [
+    "purser",
+    "purslane",
+    "pursual",
+    "pursuance",
+    "pursuant",
+    "pursue",
+    "pursued",
+    "pursuer",
+    "pursuing",
+    "pursuit",
+    "pursy",
+    "purulence",
+    "purulency",
+    "purulent",
+    "purus",
+    "repurchase",
+    "suppurate",
+    "suppuration",
+    "suppurative",
+    "unexpurgated",
+    "unpurified",
+    "advance",
+    "advanced",
+    "advancement",
+    "advancer",
+    "advancing",
+    "advantage",
+    "advantageous",
+    "advantageously",
+    "advantageousness",
+    "devanagari",
+    "disadvantage",
+    "disadvantaged",
+    "disadvantageous",
+    "disadvantageously",
+    "divan",
+    "evanesce",
+    "evanescence",
+    "evanescent"
+  ],
+  "p2b": [
+    "evans",
+    "evansville",
+    "unvaned",
+    "van",
+    "vanadate",
+    "vanadinite",
+    "vanadium",
+    "vancocin",
+    "vancomycin",
+    "vancouver",
+    "vane",
+    "vaned",
+    "vanellus",
+    "vanern",
+    "vanessa",
+    "vanilla",
+    "vanilla-scented",
+    "vanillin",
+    "vaniloquence",
+    "vanir",
+    "vanish",
+    "vanished",
+    "vanisher",
+    "vanishing",
+    "vanishingly",
+    "vanitas",
+    "vanity",
+    "vantage",
+    "vanuatu"
+  ],
+  "results": {
+    "impeccability": [],
+    "impeccable": [],
+    "impeccably": [],
+    "impeccant": [],
+    "peccable": [],
+    "peccadillo": [],
+    "peccant": [
+      {
+        "author": "John Milton",
+        "work": "Paradise Lost",
+        "sentence": "But let us call to synod all the Blest, Through Heaven's wide bounds: from them I will not hide My judgements; how with mankind I proceed, As how with **peccant** Angels late they saw, And in their state, though firm, stood more confirmed."
+      }
+    ],
+    "peccary": [],
+    "depravation": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Think, we had mothers; do not give advantage To stubborn critics, apt, without a theme, For **depravation**, to square the general sex By Cressid’s rule."
+      }
+    ],
+    "deprave": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I know them, yea, And what they weigh, even to the utmost scruple, Scambling, out-facing, fashion-monging boys, That lie and cog and flout, **deprave** and slander, Go antickly, show outward hideousness, And speak off half a dozen dangerous words, How they might hurt their enemies, if they durst; And this is all!"
+      }
+    ],
+    "depraved": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Who lives that’s not **depraved** or depraves?"
+      },
+      {
+        "author": "Francis Bacon",
+        "work": "The Essays",
+        "sentence": "And the **depraved** custom of change, and the delight in meretricious embracements, (where sin is turned into art,) maketh marriage a dull thing, and a kind of imposition or tax."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "‘I do him no wrong,’ she returned. ‘They are a **depraved**, worthless set."
+      },
+      {
+        "author": "Mary Shelley",
+        "work": "Frankenstein",
+        "sentence": "I had turned loose into the world a **depraved** wretch, whose delight was in carnage and misery; had he not murdered my brother?"
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Wisdom of Father Brown",
+        "sentence": "Drugger Davis was one of the most terrible and **depraved** criminals that ever baffled our police."
+      }
+    ],
+    "depravity": [
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "Without question, she is equally in the dark as to her soul, its present **depravity**, and future destiny!"
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "The **depravity** of the human heart is such--’"
+      },
+      {
+        "author": "Mary Shelley",
+        "work": "Frankenstein",
+        "sentence": "We do also, unfortunately,” replied my father, “for indeed I had rather have been for ever ignorant than have discovered so much **depravity** and ungratitude in one I valued so highly."
+      }
+    ],
+    "pravachol": [],
+    "pravastatin": [],
+    "suave": [
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Te fais-tu une juste idée de la **suave** harmonie d'un pareil tableau?"
+      },
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "He was a **suave**, elderly man who balanced his imposing body, when at rest, upon a large silk umbrella."
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "The gentleman who saw me was particularly **suave** in manner, but uncommunicative in equal proportion."
+      }
+    ],
+    "suavely": [
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "Oh, it won’t do—really it won’t,” said Holmes **suavely**."
+      },
+      {
+        "author": "Joseph Conrad",
+        "work": "Heart of Darkness",
+        "sentence": "A clean-shaved man, with an official manner and wearing gold-rimmed spectacles, called on me one day and made inquiries, at first circuitous, afterwards **suavely** pressing, about what he was pleased to denominate certain ‘documents.’ I was not surprised, because I had had two rows with the manager on the subject out there."
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "Then, without any seeming change, he brought the conversation gently round to his visit, and **suavely** said:--"
+      }
+    ],
+    "suaveness": [],
+    "suavity": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Minchin, with mingled **suavity** and surprise."
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "I attended to all the ghastly formalities, and the urbane undertaker proved that his staff were afflicted--or blessed--with something of his own obsequious **suavity**."
+      }
+    ],
+    "appurtenance": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "The **appurtenance** of welcome is fashion and ceremony."
+      }
+    ],
+    "appurtenant": [],
+    "depurate": [],
+    "expurgate": [],
+    "expurgated": [],
+    "expurgation": [],
+    "expurgator": [],
+    "impure": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "But if black scandal or foul-faced reproach Attend the sequel of your imposition, Your mere enforcement shall acquittance me From all the **impure** blots and stains thereof, For God doth know, and you may partly see, How far I am from the desire of this."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "The fields were sallow with the **impure** light, and all were tinged in monochrome, as if beheld through stained glass."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "What is the nature and power of that science-baffling star, without parallax,[211] without calculable elements, which shoots a ray of beauty even into trivial and **impure** actions, if the least mark of independence appear?"
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "If by living thus reserved and austere, like a hermit in the woods, so long, it has acquired such wonderful purity, who would not regret that the comparatively **impure** waters of Flint’s Pond should be mingled with it, or itself should ever go to waste its sweetness in the ocean wave?"
+      },
+      {
+        "author": "Francis Bacon",
+        "work": "The Essays",
+        "sentence": "And therefore there are with you seen infinite men that marry not, but chose rather a libertine and **impure** single life, than to be yoked in marriage; and many that do marry, marry late, when the prime and strength of their years is past."
+      }
+    ],
+    "impureness": [],
+    "impurity": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "But no perfection is so absolute That some **impurity** doth not pollute."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "I admired spotlessness, even though I could lay no claim to it, and hated **impurity**, as I hope I do now."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "By turns our purity inspires and our **impurity** casts us down."
+      },
+      {
+        "author": "Thomas Henry Huxley",
+        "work": "Evolution and Ethics",
+        "sentence": "Polite refinement offers him in vain Her golden tube, through which a sensual world Draws gross **impurity**, and likes it well, The neat conveyance hiding all the offence."
+      }
+    ],
+    "nonpurulent": [],
+    "nonsuppurative": [],
+    "purace": [],
+    "purana": [
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "The Vishnu **Purana** says, “The house-holder is to remain at eventide in his court-yard as long as it takes to milk a cow, or longer if he pleases, to await the arrival of a guest.” I often performed this duty of hospitality, waited long enough to milk a whole herd of cows, but did not see the man approaching from the town."
+      }
+    ],
+    "puranic": [],
+    "purau": [],
+    "purcell": [],
+    "purchasable": [],
+    "purchase": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Enough to **purchase** what you have made known."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "I shall soon **purchase** my discharge, and then—"
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "I have kept every breed which I could **purchase** or obtain, and have been most kindly favoured with skins from several quarters of the world, more especially by the Honourable W."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Casaubon, that he arranged for the **purchase** of the picture in which Saint Thomas Aquinas sat among the doctors of the Church in a disputation too abstract to be represented, but listened to with more or less attention by an audience above."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "Had I been recognised in that den my life would not have been worth an hour’s **purchase**; for I have used it before now for my own purposes, and the rascally Lascar who runs it has sworn to have vengeance upon me."
+      }
+    ],
+    "purchaser": [
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "The fruits do not yield their true flavor to the **purchaser** of them, nor to him who raises them for the market."
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "The **purchaser** is a foreign nobleman, Count de Ville, who effected the purchase himself paying the purchase money in notes ‘over the counter,’ if your Lordship will pardon us using so vulgar an expression."
+      }
+    ],
+    "purchasing": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Ay, I warrant you, and not without his true **purchasing**."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "His method of engaging himself in this business of **purchasing** a tomb was that of an absolutely unpractised man."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "What is there to decide whether a particular pleasure is worth **purchasing** at the cost of a particular pain, except the feelings and judgment of the experienced?"
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Bulstrode met all the expenses, and had ceased to be sorry that he was **purchasing** the right to carry out his notions of improvement without hindrance from prejudiced coadjutors; but he had had to spend large sums, and the building had lingered."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "You need not, however, go to the expense of **purchasing** one, as we have one belonging to my dear daughter Alice (now in Philadelphia), which would, I should think, fit you very well."
+      }
+    ],
+    "pure": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "So thou be good, slander doth but approve, Thy worth the greater being wooed of time, For canker vice the sweetest buds doth love, And thou present’st a **pure** unstained prime."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Ce que nous appelons pierre calcaire, n'est qu'une terre calcaire plus ou moins **pure** et très-étroitement unie à un acide subtil que nous ne pouvons saisir que sous la forme d'air."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Love, being an extremely exacting usurer (a sense of exorbitant profit, spiritually, by an exchange of hearts, being at the bottom of **pure** passions, as that of exorbitant profit, bodily or materially, is at the bottom of those of lower atmosphere), every morning Oak’s feelings were as sensitive as the money-market in calculations upon his chances."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "There is not a suspicion existing in the mind of any one at all acquainted with the subject that the owner of either of them has deviated in any one instance from the **pure** blood of Mr."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "She thought of often having them by her, to feed her eye at these little fountains of **pure** color."
+      }
+    ],
+    "pureblood": [],
+    "pureblooded": [],
+    "purebred": [],
+    "puree": [],
+    "purely": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Understand more clear, What’s past and what’s to come is strew’d with husks And formless ruin of oblivion; But in this extant moment, faith and troth, Strain’d **purely** from all hollow bias-drawing, Bids thee with most divine integrity, From heart of very heart, great Hector, welcome."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Whether from a **purely** mechanical, or from any other cause, when Bathsheba arose it was with a quieted spirit, and a regret for the antagonistic instincts which had seized upon her just before."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Youatt remarks, “have been **purely** bred from the original stock of Mr."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "A wife, a modest young lady, with the **purely** appreciative, unambitious abilities of her sex, is sure to think her husband’s mind powerful."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "TO THE RED-HEADED LEAGUE: On account of the bequest of the late Ezekiah Hopkins, of Lebanon, Pennsylvania, U.S.A., there is now another vacancy open which entitles a member of the League to a salary of £ 4 a week for **purely** nominal services."
+      }
+    ],
+    "pureness": [
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "22:30 He shall deliver the island of the innocent: and it is delivered by the **pureness** of thine hands."
+      }
+    ],
+    "purgation": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "If their **purgation** did consist in words, They are as innocent as grace itself."
+      }
+    ],
+    "purgative": [
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "I know of nothing more **purgative** of winter fumes and indigestions."
+      }
+    ],
+    "purgatorial": [
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "[Footnote 659: With doomsdays and **purgatorial**, etc."
+      }
+    ],
+    "purgatory": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "There is no world without Verona walls, But **purgatory**, torture, hell itself."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "We have gone through several rounds of **purgatory** since you left, and I have lately got on to a worse ledge of it than ever."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "As described by Dante in his _Divine Commedia_, an epic about hell, **purgatory**, and paradise.]"
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Ball and the Cross",
+        "sentence": "MacIan thought vaguely of a weird ballad of his own country which describes the soul in **Purgatory** as walking on a plain full of sharp stones, and only saved by its own charities upon earth."
+      }
+    ],
+    "purge": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Like as to make our appetite more keen With eager compounds we our palate urge, As to prevent our maladies unseen, We sicken to shun sickness when we **purge**."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "Here, she said to herself had been the scene of her guilt, and here should be the scene of her earthly punishment; and so, perchance, the torture of her daily shame would at length **purge** her soul, and work out another purity than that which she had lost: more saint-like, because the result of martyrdom."
+      },
+      {
+        "author": "Thomas Henry Huxley",
+        "work": "Evolution and Ethics",
+        "sentence": "Now mark a spot or two That so much beauty would do well to **purge**; And show this queen of cities, that so fair May yet be foul; so witty, yet not wise."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "34:3 For in the eighth year of his reign, while he was yet young, he began to seek after the God of David his father: and in the twelfth year he began to **purge** Judah and Jerusalem from the high places, and the groves, and the carved images, and the molten images."
+      },
+      {
+        "author": "John Milton",
+        "work": "Paradise Lost",
+        "sentence": "Or, could we break our way By force, and at our heels all Hell should rise With blackest insurrection to confound Heaven's purest light, yet our great Enemy, All incorruptible, would on his throne Sit unpolluted, and th' ethereal mould, Incapable of stain, would soon expel Her mischief, and **purge** off the baser fire, Victorious."
+      }
+    ],
+    "purging": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "The other two, slight air, and **purging** fire, Are both with thee, wherever I abide, The first my thought, the other my desire, These present-absent with swift motion slide."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "Do ye not perceive, that whatsoever thing from without entereth into the man, it cannot defile him; 7:19 Because it entereth not into his heart, but into the belly, and goeth out into the draught, **purging** all meats? 7:20 And he said, That which cometh out of the man, that defileth the man."
+      }
+    ],
+    "purification": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "We were talking about this very family, and ’twas only last **Purification** Day in this very world, when the use-money is gied away to the second-best poor folk, you know, shepherd, and I can mind the day because they all had to traypse up to the vestry—yes, this very man’s family."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "The body sins once, and has done with its sin, for action is a mode of **purification**."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "The Mexicans also practised a similar **purification** at the end of every fifty-two years, in the belief that it was time for the world to come to an end."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "What can a ruined soul like mine effect towards the redemption of other souls?—or a polluted soul towards their **purification**?"
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Persuasion",
+        "sentence": "It was almost enough to spread **purification** and perfume all the way."
+      }
+    ],
+    "purifier": [
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Cette conviction, éclose sous le ciel pur et le beau soleil du printemps, lui apparaissait avec tant de force et de clarté, qu'elle comprit la nécessité de **purifier** son amour pour Édouard de toute espérance personnelle."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "3:2 But who may abide the day of his coming? and who shall stand when he appeareth? for he is like a refiner's fire, and like fullers' soap: 3:3 And he shall sit as a refiner and **purifier** of silver: and he shall purify the sons of Levi, and purge them as gold and silver, that they may offer unto the LORD an offering in righteousness."
+      }
+    ],
+    "purify": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "The spots whereof could weeping **purify**, Her tears should drop on them perpetually."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "Some love might come across his life, and **purify** him, and shield him from those sins that seemed to be already stirring in spirit and in flesh—those curious unpictured sins whose very mystery lent them their subtlety and their charm."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "They cause that in all the universe men **purify** and sanctify their hearts, and clothe themselves in their holiday garments to offer sacrifices and oblations to their ancestors."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "It was his custom, too, as it has been that of many other pious Puritans, to fast—not however, like them, in order to **purify** the body, and render it the fitter medium of celestial illumination—but rigorously, and until his knees trembled beneath him, as an act of penance."
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "We men here, all save Jonathan, have seen with their own eyes what is to be done before that place can be **purify**."
+      }
+    ],
+    "purifying": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "One good woman in ten, madam, which is a **purifying** o’ the song."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Some considered that he might do more than others “where there was liver;”—at least there would be no harm in getting a few bottles of “stuff” from him, since if these proved useless it would still be possible to return to the **Purifying** Pills, which kept you alive if they did not remove the yellowness."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "And now, after lying half a century in his garret and other dust holes, these things were not burned; instead of a _bonfire_, or **purifying** destruction of them, there was an _auction_, or increasing of them."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "12:4 And she shall then continue in the blood of her **purifying** three and thirty days; she shall touch no hallowed thing, nor come into the sanctuary, until the days of her **purifying** be fulfilled."
+      }
+    ],
+    "purim": [
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "9:26 Wherefore they called these days **Purim** after the name of Pur."
+      }
+    ],
+    "purine": [],
+    "purinethol": [],
+    "purism": [],
+    "purist": [],
+    "puritan": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "If men could be contented to be what they are, there were no fear in marriage; for young Charbon the **puritan** and old Poysam the papist, howsome’er their hearts are sever’d in religion, their heads are both one; they may jowl horns together like any deer i’ the herd."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Here, in the quiet of Boldwood’s parlour, where everything that was not grave was extraneous, and where the atmosphere was that of a **Puritan** Sunday lasting all the week, the letter and its dictum changed their tenor from the thoughtlessness of their origin to a deep solemnity, imbibed from their accessories now."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Lydgate was no **Puritan**, but he did not care for play, and winning money at it had always seemed a meanness to him; besides, he had an ideal of life which made this subservience of conduct to the gaining of small sums thoroughly hateful to him."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "The people had tasted this new joy; and, as we could not hope to suppress newspapers now,--no, not by the strongest party,--neither then could king, prelate, or **puritan**,--alone or united, suppress an organ, which was ballad, epic, newspaper, caucus, lecture, Punch,[530] and library, at the same time."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "As for the lives of one’s neighbours, if one wishes to be a prig or a **Puritan**, one can flaunt one’s moral views about them, but they are not one’s concern."
+      }
+    ],
+    "puritanic": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "There was a strong assumption of superiority in this **Puritanic** toleration, hardly less trying to the blond flesh of an unenthusiastic sister than a **Puritanic** persecution."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Elsewhere match that bloom of theirs, ye cannot, save in Salem, where they tell me the young girls breathe such musk, their sailor sweethearts smell them miles off shore, as though they were drawing nigh the odorous Moluccas instead of the **Puritanic** sands."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "He was a soldier, legislator, judge; he was a ruler in the Church; he had all the **Puritanic** traits, both good and evil."
+      }
+    ],
+    "puritanical": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Tess, ever since you told me of that child of ours, it is just as if my feelings, which have been flowing in a strong **puritanical** stream, had suddenly found a way open in the direction of you, and had all at once gushed through."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Ball and the Cross",
+        "sentence": "When Italy is mad on art the Church seems too **Puritanical**; when England is mad on Puritanism the Church seems too artistic."
+      }
+    ],
+    "puritanically": [
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "As a matter of fact, we may affirm that among utilitarians as among adherents of other systems, there is every imaginable degree of rigidity and of laxity in the application of their standard: some are even **puritanically** rigorous, while others are as indulgent as can possibly be desired by sinner or by sentimentalist."
+      }
+    ],
+    "puritanism": [
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "Yes: there was to be, as Lord Henry had prophesied, a new Hedonism that was to recreate life and to save it from that harsh uncomely **puritanism** that is having, in our own day, its curious revival."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "Their immediate posterity, the generation next to the early emigrants, wore the blackest shade of **Puritanism**, and so darkened the national visage with it, that all the subsequent years have not sufficed to clear it up."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Ball and the Cross",
+        "sentence": "When Italy is mad on art the Church seems too Puritanical; when England is mad on **Puritanism** the Church seems too artistic."
+      }
+    ],
+    "purity": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "To win me soon to hell my female evil Tempteth my better angel from my side, And would corrupt my saint to be a devil, Wooing his **purity** with her foul pride."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Whatever one may think of plenary inspiration, one must heartily subscribe to these words of Paul: ‘Be thou an example—in word, in conversation, in charity, in spirit, in faith, in **purity**.’ It is the only safeguard for us poor human beings. ‘_Integer vitae_,’ says a Roman poet, who is strange company for St Paul—"
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Throughout an enormously large proportion of the ocean, the bright blue tint of the water bespeaks its **purity**."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Dorothea too was unhappy, as she went on with her plan-drawing, questioning the **purity** of her own feeling and speech in the scene which had ended with that little explosion."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "See what my wife found in its crop!” He held out his hand and displayed upon the centre of the palm a brilliantly scintillating blue stone, rather smaller than a bean in size, but of such **purity** and radiance that it twinkled like an electric point in the dark hollow of his hand."
+      }
+    ],
+    "purl": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "From the trees came the sound of steady dripping upon the drifted leaves under them, and from the direction of the church she could hear another noise—peculiar, and not intermittent like the rest, the **purl** of water falling into a pool."
+      }
+    ],
+    "purlieu": [],
+    "purloin": [],
+    "purloo": [],
+    "purr": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "After Tess had settled down to her cow there was for a time no talk in the barton, and not a sound interfered with the **purr** of the milk-jets into the numerous pails, except a momentary exclamation to one or other of the beasts requesting her to turn round or stand still."
+      }
+    ],
+    "purse": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Take this **purse** of gold, And let me buy your friendly help thus far, Which I will over-pay, and pay again When I have found it."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Boldwood, more like a somnambulist than a wakeful man, pulled out the large canvas bag he carried by way of a **purse**, and searched it."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "But I am not going to hand money out of my **purse** to have experiments tried on me."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "They would have had the lady’s **purse** and watch if it hadn’t been for him."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "The vulgar proverb, \"I will get it from his **purse** or get it from his skin,\" is sound philosophy."
+      }
+    ],
+    "purse-proud": [],
+    "purser": [],
+    "purslane": [
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "I have made a satisfactory dinner, satisfactory on several accounts, simply off a dish of **purslane** (_Portulaca oleracea_) which I gathered in my cornfield, boiled and salted."
+      }
+    ],
+    "pursual": [],
+    "pursuance": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Breakfast over, he rose, and telling her the hour at which he might be expected to dinner, went off to the miller’s in a mechanical **pursuance** of the plan of studying that business, which had been his only practical reason for coming here."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "In **pursuance** of this resolve, he took up his residence in the Puritan town as Roger Chillingworth, without other introduction than the learning and intelligence of which he possessed more than a common measure."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "In **pursuance** of my aunt’s kind scheme, I was shortly afterwards fitted out with a handsome purse of money, and a portmanteau, and tenderly dismissed upon my expedition."
+      }
+    ],
+    "pursuant": [
+      {
+        "author": "H. G. Wells",
+        "work": "The War of the Worlds",
+        "sentence": "And **pursuant** to this idea of a holiday, he insisted upon playing cards after we had eaten."
+      },
+      {
+        "author": "Jonathan Swift",
+        "work": "Gulliver's Travels",
+        "sentence": "My master, **pursuant** to the advice of his friend, carried me in a box the next market-day to the neighbouring town, and took along with him his little daughter, my nurse, upon a pillion behind him."
+      }
+    ],
+    "pursue": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Here he comes; I pray you make us friends; I will **pursue** the amity."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "While waiting, however, there came along a farmer in his spring cart, driving approximately in the direction that she wished to **pursue**."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "They **pursue** sensual indulgences to the injury of health, though perfectly aware that health is the greater good."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Even without any change in the proportional numbers of the animals on which our wolf preyed, a cub might be born with an innate tendency to **pursue** certain kinds of prey."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Lydgate foresaw that science and his profession were the objects he should alone **pursue** enthusiastically; but he could not imagine himself pursuing them in such a home as Wrench had—the doors all open, the oil-cloth worn, the children in soiled pinafores, and lunch lingering in the form of bones, black-handled knives, and willow-pattern."
+      }
+    ],
+    "pursued": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Would I might never O’ertake **pursued** success, but I do feel, By the rebound of yours, a grief that smites My very heart at root."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "She leant against the stone as a means of rest for a short interval, then bestirred herself, and again **pursued** her way."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "After five years’ work I allowed myself to speculate on the subject, and drew up some short notes; these I enlarged in 1844 into a sketch of the conclusions, which then seemed to me probable: from that period to the present day I have steadily **pursued** the same object."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Vincy, I must repeat, that you will not get any concurrence from me as to the course you have **pursued** with your eldest son."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "We both thought the best resource was flight, when **pursued** by so formidable an antagonist; so you will find the nest empty when you call to-morrow."
+      }
+    ],
+    "pursuer": [
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "The hunger for wealth, which reduces the planet to a garden, fools the eager **pursuer**."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The War of the Worlds",
+        "sentence": "Suddenly he stumbled and fell; his immediate **pursuer** went headlong, and he rose to his feet to find himself with a couple of antagonists again."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "He had a strong idea that the coffin he had seen was running after him; and, pictured as hopping on behind him, bolt upright, upon its narrow end, always on the point of overtaking him and hopping on at his side--perhaps taking his arm--it was a **pursuer** to shun."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "1:6 And from the daughter of Zion all her beauty is departed: her princes are become like harts that find no pasture, and they are gone without strength before the **pursuer**."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Ball and the Cross",
+        "sentence": "**Pursuer** and pursued were fixed in their distance as they fled, for some quarter of a mile, when they came to a place where two or three of the trees grew twistedly together, making a special obscurity."
+      }
+    ],
+    "pursuing": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Now proud as an enjoyer, and anon Doubting the filching age will steal his treasure, Now counting best to be with you alone, Then bettered that the world may see my pleasure, Sometime all full with feasting on your sight, And by and by clean starved for a look, Possessing or **pursuing** no delight Save what is had, or must from you be took."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Then there’s **pursuing** practice, in this way.” He gave the movements as before."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "When we engage in a pursuit, a clear and precise conception of what we are **pursuing** would seem to be the first thing we need, instead of the last we are to look forward to."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "And as the snow melted from the bases of the mountains, the arctic forms would seize on the cleared and thawed ground, always ascending higher and higher, as the warmth increased, whilst their brethren were **pursuing** their northern journey."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Lydgate foresaw that science and his profession were the objects he should alone pursue enthusiastically; but he could not imagine himself **pursuing** them in such a home as Wrench had—the doors all open, the oil-cloth worn, the children in soiled pinafores, and lunch lingering in the form of bones, black-handled knives, and willow-pattern."
+      }
+    ],
+    "pursuit": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Mad in **pursuit** and in possession so, Had, having, and in quest, to have extreme, A bliss in proof, and proved, a very woe; Before a joy proposed behind a dream."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "When we engage in a **pursuit**, a clear and precise conception of what we are pursuing would seem to be the first thing we need, instead of the last we are to look forward to."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "You must often be weary with the **pursuit** of subjects in your own track."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "If there are any to whom it is no interruption to acquire these things, and who know how to use them when acquired, I relinquish to them the **pursuit**."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Bell, ‘History of British Reptiles,’ 2nd ed., 1849, pp. 156-159.) This structure no doubt aids the male in his eager search and **pursuit** of the female."
+      }
+    ],
+    "pursy": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Forgive me this my virtue; For in the fatness of these **pursy** times Virtue itself of vice must pardon beg, Yea, curb and woo for leave to do him good."
+      }
+    ],
+    "purulence": [],
+    "purulency": [],
+    "purulent": [],
+    "purus": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Let’s see: [_Reads_.] _Integer vitae, scelerisque **purus**, Non eget Mauri iaculis, nec arcu._"
+      }
+    ],
+    "repurchase": [
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "The fact is, Copperfield, I was unable to **repurchase** them at the time of their seizure; in the first place, because the broker, having an idea that I wanted them, ran the price up to an extravagant extent; and, in the second place, because I--hadn’t any money."
+      }
+    ],
+    "suppurate": [],
+    "suppuration": [],
+    "suppurative": [],
+    "unexpurgated": [],
+    "unpurified": [],
+    "advance": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "But thou art all my art, and dost **advance** As high as learning, my rude ignorance."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "This venture, unaided and alone, into the paths of farming as master and not as man, with an **advance** of sheep not yet paid for, was a critical juncture with Gabriel Oak, and he recognised his position clearly."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "It may be further objected, that many who begin with youthful enthusiasm for everything noble, as they **advance** in years sink into indolence and selfishness."
+      },
+      {
+        "author": "Lewis Carroll",
+        "work": "Alice's Adventures in Wonderland",
+        "sentence": "Of course,” the Mock Turtle said: “**advance** twice, set to partners—"
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "I have chosen this example because an explanation is not in this case applicable, which most naturalists would **advance**, namely, that specific characters are more variable than generic, because they are taken from parts of less physiological importance than those commonly used for classing genera."
+      }
+    ],
+    "advanced": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "An **Advanced** post of the Volscian camp before Rome."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "With a sensation of bodily faintness he **advanced**: at one point the rails were broken through, and there he saw the footprints of his ewes."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "Thus the idea of legal constraint is still the generating idea of the notion of justice, though undergoing several transformations before that notion, as it exists in an **advanced** state of society, becomes complete."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "The case of the Jerusalem artichoke, which is never propagated by seed, and of which consequently new varieties have not been produced, has even been **advanced**—for it is now as tender as ever it was—as proving that acclimatisation cannot be effected!"
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "He discerned Dorothea, jumped off his horse at once, and, having delivered it to his groom, **advanced** towards her with something white on his arm, at which the two setters were barking in an excited manner."
+      }
+    ],
+    "advancement": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Nay, do not think I flatter; For what **advancement** may I hope from thee, That no revenue hast, but thy good spirits To feed and clothe thee?"
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Oak’s **Advancement**—A Great Hope Chapter L."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "We do not meet for games of strength[1] or skill, for the recitation of histories, tragedies, and odes, like the ancient Greeks; for parliaments of love and poesy, like the Troubadours;[2] nor for the **advancement** of science, like our co-temporaries in the British and European capitals."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "**Advancement** of the intellectual powers through natural selection—Importance of imitation—Social and moral faculties—Their development within the limits of the same tribe—Natural selection as affecting civilised nations—Evidence that civilised nations were once barbarous."
+      },
+      {
+        "author": "Francis Bacon",
+        "work": "The Essays",
+        "sentence": "The **advancement** of science which he sought was conceived by him as a means to a practical end the increase of man's control over nature, and the comfort and convenience of humanity."
+      }
+    ],
+    "advancer": [],
+    "advancing": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "BENEDICK. [**Advancing** from the arbour.] This can be no trick: the conference was sadly borne."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "The truth was, that as she now stood—excited, wild, and honest as the day—her alluring beauty bore out so fully the epithets he had bestowed upon it that he was quite startled at his temerity in **advancing** them as false."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "This firm foundation is that of the social feelings of mankind; the desire to be in unity with our fellow creatures, which is already a powerful principle in human nature, and happily one of those which tend to become stronger, even without express inculcation, from the influences of **advancing** civilization."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Even when climate, for instance extreme cold, acts directly, it will be the least vigorous, or those which have got least food through the **advancing** winter, which will suffer most."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "**Advancing** womanhood had tempered her plainness, which was of a good human sort, such as the mothers of our race have very commonly worn in all latitudes under a more or less becoming headgear."
+      }
+    ],
+    "advantage": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "When I have seen the hungry ocean gain **Advantage** on the kingdom of the shore, And the firm soil win of the watery main, Increasing store with loss, and loss with store."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Perhaps it was some excuse for her thus torturing honesty to her own **advantage**, that she had absolutely no other sound judgment within easy reach."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "Again, Utility is often summarily stigmatized as an immoral doctrine by giving it the name of Expediency, and taking **advantage** of the popular use of that term to contrast it with Principle."
+      },
+      {
+        "author": "Lewis Carroll",
+        "work": "Alice's Adventures in Wonderland",
+        "sentence": "Which would _not_ be an **advantage**,” said Alice, who felt very glad to get an opportunity of showing off a little of her knowledge."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Yet the **advantage** of plumed seeds no doubt stands in the closest relation to the land being already thickly clothed by other plants; so that the seeds may be widely distributed and fall on unoccupied ground."
+      }
+    ],
+    "advantageous": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Here is everything **advantageous** to life."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "How shall I get you to see how **advantageous** it will be to you to secure her at once?"
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "No naturalist doubts the advantage of what has been called the “physiological division of labour;” hence we may believe that it would be **advantageous** to a plant to produce stamens alone in one flower or on one whole plant, and pistils alone in another flower or on another plant."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "He meant to be a unit who would make a certain amount of difference towards that spreading change which would one day tell appreciably upon the averages, and in the mean time have the pleasure of making an **advantageous** difference to the viscera of his own patients."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Education is costly; and even if it were not, and I could afford it, I am of opinion that it would not be at all **advantageous** to you to be kept at school."
+      }
+    ],
+    "advantageously": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "They found Naumann painting industriously, but no model was present; his pictures were **advantageously** arranged, and his own plain vivacious person set off by a dove-colored blouse and a maroon velvet cap, so that everything was as fortunate as if he had expected the beautiful young English lady exactly at that time."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "I wrote a Story, with a purpose growing, not remotely, out of my experience, and sent it to Traddles, and he arranged for its publication very **advantageously** for me; and the tidings of my growing reputation began to reach me from travellers whom I encountered by chance."
+      }
+    ],
+    "advantageousness": [],
+    "devanagari": [],
+    "disadvantage": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Martius, we have at **disadvantage** fought, And did retire to win our purpose."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "She had an attribute which amounted to a **disadvantage** just now; and it was this that caused Alec d’Urberville’s eyes to rivet themselves upon her."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "I have collected a long list of such cases; but here, as before, I lie under a great **disadvantage** in not being able to give them."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Before he left the next morning, while taking a pleasant walk with Miss Brooke along the gravelled terrace, he had mentioned to her that he felt the **disadvantage** of loneliness, the need of that cheerful companionship with which the presence of youth can lighten or vary the serious toils of maturity."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "These are daring men, and though we shall take them at a **disadvantage**, they may do us some harm unless we are careful."
+      }
+    ],
+    "disadvantaged": [],
+    "disadvantageous": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "We may suspect that a hand as perfect as that of man would have been **disadvantageous** for climbing; for the most arboreal monkeys in the world, namely, Ateles in America, Colobus in Africa, and Hylobates in Asia, are either thumbless, or their toes partially cohere, so that their limbs are converted into mere grasping hooks. (71."
+      }
+    ],
+    "disadvantageously": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "There was a certain animal form of refinement in his nature; and however pleasant a strange condition might be whilst privations were easily warded off, it was **disadvantageously** coarse when money was short."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "The Vicar himself seemed to wear rather a changed aspect, as most men do when acquaintances made elsewhere see them for the first time in their own homes; some indeed showing like an actor of genial parts **disadvantageously** cast for the curmudgeon in a new piece."
+      }
+    ],
+    "divan": [
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "With these he constructed a sort of Eastern **divan**, upon which he perched himself cross-legged, with an ounce of shag tobacco and a box of matches laid out in front of him."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "Lord Henry stretched himself out on the **divan** and laughed."
+      }
+    ],
+    "evanesce": [],
+    "evanescence": [
+      {
+        "author": "Joseph Conrad",
+        "work": "Heart of Darkness",
+        "sentence": "And it is not my own extremity I remember best—a vision of greyness without form filled with physical pain, and a careless contempt for the **evanescence** of all things—even of this pain itself."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "So that to this hunter’s wondrous skill, the proverbial **evanescence** of a thing writ in water, a wake, is to all desired purposes well nigh as reliable as the steadfast land."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "Very orderly and methodical he looked, with a hand on each knee, and a loud watch ticking a sonorous sermon under his flapped waist-coat, as though it pitted its gravity and longevity against the levity and **evanescence** of the brisk fire."
+      }
+    ],
+    "evanescent": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Where, however, happy circumstance permits its development, the compounded feeling proves itself to be the only love which is strong as death—that love which many waters cannot quench, nor the floods drown, beside which the passion usually called by the name is **evanescent** as steam."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "Conversation is an **evanescent** relation,--no more."
+      },
+      {
+        "author": "Joseph Conrad",
+        "work": "Heart of Darkness",
+        "sentence": "Looking past that mad helmsman, who was shaking the empty rifle and yelling at the shore, I saw vague forms of men running bent double, leaping, gliding, distinct, incomplete, **evanescent**."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "In times of strong emotion mankind disdain all base considerations; but such times are **evanescent**."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "All merely graceful attributes are usually the most **evanescent**; nor does nature adorn the human ruin with blossoms of new beauty, that have their roots and proper nutriment only in the chinks and crevices of decay, as she sows wall-flowers over the ruined fortress of Ticonderoga."
+      }
+    ],
+    "evans": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "SIR HUGH **EVANS**, a Welsh parson DOCTOR CAIUS, a French physician MISTRESS QUICKLY, servant to Doctor Caius John RUGBY, servant to Doctor Caius"
+      }
+    ],
+    "evansville": [],
+    "unvaned": [],
+    "van": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Go charge Agrippa Plant those that have revolted in the **van** That Antony may seem to spend his fury Upon himself."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "On choisit d'abord le Bélisaire de **Van**-Dick."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "No sound of the rider in their **van** could now be discovered."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "**Van** Mons, in his treatise on pears and apples, shows how utterly he disbelieves that the several sorts, for instance a Ribston-pippin or Codlin-apple, could ever have proceeded from the seeds of the same tree."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "Oh, you mean the little problem of the Grosvenor Square furniture **van**."
+      }
+    ],
+    "vanadate": [],
+    "vanadinite": [],
+    "vanadium": [],
+    "vancocin": [],
+    "vancomycin": [],
+    "vancouver": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Sproat, who in **Vancouver** Island closely attended to the subject of extinction, believed that changed habits of life, consequent on the advent of Europeans, induces much ill health."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "She has explored seas and archipelagoes which had no chart, where no Cook or **Vancouver** had ever sailed."
+      }
+    ],
+    "vane": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "But she could hardly get a clear voice for what came instinctively to her lips: “There is little honour to the woman in that speech.” It was only whispered, for something unutterably mournful no less than distressing in this spectacle of a man showing himself to be so entirely the **vane** of a passion enervated the feminine instinct for punctilios."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "Sir Henry Wotton[608] was born four years after Shakspeare, and died twenty-three years after him; and I find, among his correspondents and acquaintances, the following persons:[609] Theodore Beza, Isaac Casaubon, Sir Philip Sidney, Earl of Essex, Lord Bacon, Sir Walter Raleigh, John Milton, Sir Henry **Vane**, Isaac Walton, Dr."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "Your voice and the voice of Sibyl **Vane** are two things that I shall never forget."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "See ye my boy’s hand on the hill?—Crazed;—aloft there!—keep thy keenest eye upon the boats:—mark well the whale!—Ho! again!—drive off that hawk! see! he pecks—he tears the **vane**”—pointing to the red flag flying at the main-truck—“Ha! he soars away with it!—Where’s the old man now? see’st thou that sight, oh Ahab!—shudder, shudder!"
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Ball and the Cross",
+        "sentence": "Cumberland **Vane**, a cheerful, middle-aged gentleman, honourably celebrated for the lightness of his sentences and the lightness of his conversation."
+      }
+    ],
+    "vaned": [],
+    "vanellus": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Thus in the male of our common peewit (**Vanellus** cristatus) the tubercle on the shoulder of the wing becomes more prominent during the breeding-season, and the males fight together."
+      }
+    ],
+    "vanern": [],
+    "vanessa": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "The ocelli on the tail-coverts of the peacock offer a familiar example, as well as those on the wings of the peacock-butterfly (**Vanessa**)."
+      }
+    ],
+    "vanilla": [],
+    "vanilla-scented": [],
+    "vanillin": [],
+    "vaniloquence": [],
+    "vanir": [],
+    "vanish": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "**Vanish**, or I shall give thee thy deserving And blemish Caesar’s triumph."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Those were slow, silent, often turbid; flowing over beds of mud into which the incautious wader might sink and **vanish** unawares."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "She felt as if all her morning’s gloom would **vanish** if she could see her husband glad because of her presence."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "Hosmer Angel **vanish** from your memory, as he has done from your life."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "But see the facts nearly, and these mountainous inequalities **vanish**."
+      }
+    ],
+    "vanished": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "The things that threaten’d me Ne’er look’d but on my back; when they shall see The face of Caesar, they are **vanished**."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "These two hundred seemed to have absolutely **vanished** from the hill."
+      },
+      {
+        "author": "Lewis Carroll",
+        "work": "Alice's Adventures in Wonderland",
+        "sentence": "You’ll see me there,” said the Cat, and **vanished**."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Dagley—a thin, worn woman, from whose life pleasure had so entirely **vanished** that she had not even any Sunday clothes which could give her satisfaction in preparing for church—had already had a misunderstanding with her husband since he had come home, and was in low spirits, expecting the worst."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "With a nod he **vanished** into the bedroom, whence he emerged in five minutes tweed-suited and respectable, as of old."
+      }
+    ],
+    "vanisher": [],
+    "vanishing": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "If wild heat had to do wi’ it, making ye long to over-come the awkwardness about your husband’s **vanishing**, it mid be wrong; but a cold-hearted agreement to oblige a man seems different, somehow."
+      },
+      {
+        "author": "Lewis Carroll",
+        "work": "Alice's Adventures in Wonderland",
+        "sentence": "I said pig,” replied Alice; “and I wish you wouldn’t keep appearing and **vanishing** so suddenly: you make one quite giddy."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "To superficial observers his chin had too **vanishing** an aspect, looking as if it were being gradually reabsorbed."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "I thought of the assistant’s fondness for photography, and his trick of **vanishing** into the cellar."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "It would indeed give me a certain household joy to quit this lofty seeking, this spiritual astronomy, or search of stars, and come down to warm sympathies with you; but then I know well I shall mourn always the **vanishing** of my mighty gods."
+      }
+    ],
+    "vanishingly": [],
+    "vanitas": [],
+    "vanity": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "My fore-past proofs, howe’er the matter fall, Shall tax my fears of little **vanity**, Having vainly fear’d too little."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Gabriel, perhaps a little piqued by the comely traveller’s indifference, glanced back to where he had witnessed her performance over the hedge, and said, “**Vanity**."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Certainly such elements in the character of a marriageable girl tended to interfere with her lot, and hinder it from being decided according to custom, by good looks, **vanity**, and merely canine affection."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "If malice and **vanity** wear the coat of philanthropy, shall that pass?"
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "Then I feel, Harry, that I have given away my whole soul to some one who treats it as if it were a flower to put in his coat, a bit of decoration to charm his **vanity**, an ornament for a summer’s day."
+      }
+    ],
+    "vantage": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "But these offers, Which serve not for his **vantage**, he shakes off, And so should you."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "None can be an impartial or wise observer of human life but from the **vantage** ground of what we should call voluntary poverty."
+      },
+      {
+        "author": "Francis Bacon",
+        "work": "The Essays",
+        "sentence": "We have high towers; the highest about half a mile in height; and some of them likewise set upon high mountains; so that the **vantage** of the hill with the tower is in the highest of them three miles at least."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The War of the Worlds",
+        "sentence": "I began walking, therefore, in a big curve, seeking some point of **vantage** and continually looking at the sand-heaps that hid these new-comers to our earth."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Crupp shook her head in such a determined manner, that I had not an inch of **vantage**-ground left."
+      }
+    ],
+    "vanuatu": []
+  }
+}

@@ -1,0 +1,811 @@
+{
+  "affiliate": [],
+  "affiliated": [],
+  "affiliation": [],
+  "biped": [
+    {
+      "author": "Henry David Thoreau",
+      "work": "Walden",
+      "sentence": "At another time, hearing Plato\u2019s definition of a man,\u2014a biped without feathers,\u2014and that one exhibited a cock plucked and called it Plato\u2019s man, he thought it an important difference that the _knees_ bent the wrong way."
+    },
+    {
+      "author": "Charles Darwin",
+      "work": "The Descent of Man",
+      "sentence": "Man alone has become a biped; and we can, I think, partly see how he has come to assume his erect attitude, which forms one of his most conspicuous characters."
+    },
+    {
+      "author": "G. K. Chesterton",
+      "work": "The Wisdom of Father Brown",
+      "sentence": "One horse reared up to his full height-- the titanic and terrifying height of a horse when he becomes a biped."
+    }
+  ],
+  "bipedal": [
+    {
+      "author": "Charles Darwin",
+      "work": "The Descent of Man",
+      "sentence": "As soon as some ancient member in the great series of the Primates came to be less arboreal, owing to a change in its manner of procuring subsistence, or to some change in the surrounding conditions, its habitual manner of progression would have been modified: and thus it would have been rendered more strictly quadrupedal or bipedal."
+    }
+  ],
+  "centipede": [
+    {
+      "author": "Herman Melville",
+      "work": "Moby-Dick",
+      "sentence": "Ye see an old man cut down to the stump; leaning on a shivered lance; propped up on a lonely foot. \u2019Tis Ahab\u2014his body\u2019s part; but Ahab\u2019s soul\u2019s a centipede, that moves upon a hundred legs."
+    }
+  ],
+  "condensate": [],
+  "condensation": [
+    {
+      "author": "Ralph Waldo Emerson",
+      "work": "Essays",
+      "sentence": "They say that by electro-magnetism, your salad shall be grown from the seed whilst your fowl is roasting for dinner: it is a symbol of our modern aims and endeavors,--of our condensation and acceleration of objects: but nothing is gained: nature cannot be cheated: man's life is but seventy salads long, grow they swift or grow they slow."
+    },
+    {
+      "author": "Herman Melville",
+      "work": "Moby-Dick",
+      "sentence": "It was merely the condensation of the man."
+    }
+  ],
+  "condense": [
+    {
+      "author": "George Eliot",
+      "work": "Middlemarch",
+      "sentence": "His notes already made a formidable range of volumes, but the crowning task would be to condense these voluminous still-accumulating results and bring them, like the earlier vintage of Hippocratic books, to fit a little shelf."
+    },
+    {
+      "author": "Ralph Waldo Emerson",
+      "work": "Essays",
+      "sentence": "Carlyle formulates perfectly the defects of his friend's poetic and literary productions when he says: 'For me it is too ethereal, speculative, theoretic; I will have all things condense themselves, take shape and body, if they are to have my sympathy.' ..."
+    },
+    {
+      "author": "Herman Melville",
+      "work": "Moby-Dick",
+      "sentence": "Father Mapple rose, and in a mild voice of unassuming authority ordered the scattered people to condense."
+    }
+  ],
+  "condenser": [],
+  "condensing": [
+    {
+      "author": "Jonathan Swift",
+      "work": "Gulliver's Travels",
+      "sentence": "Some were condensing air into a dry tangible substance, by extracting the nitre, and letting the aqueous or fluid particles percolate; others softening marble, for pillows and pin-cushions; others petrifying the hoofs of a living horse, to preserve them from foundering."
+    }
+  ],
+  "dense": [
+    {
+      "author": "Thomas Hardy",
+      "work": "Far from the Madding Crowd",
+      "sentence": "They reached the bottom of the town, and the Casterbridge lamps lay before them like fallen Pleiads as they turned to the left into the dense shade of a deserted avenue of chestnuts, and so skirted the borough."
+    },
+    {
+      "author": "Charles Darwin",
+      "work": "The Origin of Species",
+      "sentence": "If we admire the several ingenious contrivances, by which the flowers of the orchis and of many other plants are fertilised through insect agency, can we consider as equally perfect the elaboration by our fir-trees of dense clouds of pollen, in order that a few granules may be wafted by a chance breeze on to the ovules?"
+    },
+    {
+      "author": "George Eliot",
+      "work": "Middlemarch",
+      "sentence": "They are the fruity must of soundest wine; Or say, they are regenerating fire Such as hath turned the dense black element Into a crystal pathway for the sun."
+    }
+  ],
+  "densely": [
+    {
+      "author": "Thomas Hardy",
+      "work": "Tess of the d'Urbervilles",
+      "sentence": "He therefore valiantly hides his personality behind a publisher\u2019s shutters, and cries \u201cShame!\u201d So densely is the world with any shifting of positions, even the best warranted advance, galls somebody\u2019s kibe."
+    },
+    {
+      "author": "Henry David Thoreau",
+      "work": "Walden",
+      "sentence": "It is remarkable that a single mouse should thus be allowed a whole pine tree for its dinner, gnawing round instead of up and down it; but perhaps it is necessary in order to thin these trees, which are wont to grow up densely."
+    },
+    {
+      "author": "Herman Melville",
+      "work": "Moby-Dick",
+      "sentence": "Towards the stern of the boat it is spirally coiled away in the tub, not like the worm-pipe of a still though, but so as to form one round, cheese-shaped mass of densely bedded \u201csheaves,\u201d or layers of concentric spiralizations, without any hollow but the \u201cheart,\u201d or minute vertical tube formed at the axis of the cheese."
+    }
+  ],
+  "denseness": [],
+  "densification": [],
+  "densimeter": [],
+  "densitometer": [],
+  "densitometry": [],
+  "density": [
+    {
+      "author": "Thomas Hardy",
+      "work": "Far from the Madding Crowd",
+      "sentence": "By reason of the density of the interwoven foliage overhead, it was gloomy there at cloudless noontide, twilight in the evening, dark as midnight at dusk, and black as the ninth plague of Egypt at midnight."
+    },
+    {
+      "author": "Herman Melville",
+      "work": "Moby-Dick",
+      "sentence": "Owing to the density of the crowd of reposing whales, more immediately surrounding the embayed axis of the herd, no possible chance of escape was at present afforded us."
+    },
+    {
+      "author": "H. G. Wells",
+      "work": "The War of the Worlds",
+      "sentence": "The density of the weed gave me a reassuring sense of hiding."
+    }
+  ],
+  "dexter": [],
+  "dexterity": [
+    {
+      "author": "William Shakespeare",
+      "work": "The Complete Works of William Shakespeare",
+      "sentence": "O most wicked speed, to post With such dexterity to incestuous sheets!"
+    },
+    {
+      "author": "Thomas Hardy",
+      "work": "Far from the Madding Crowd",
+      "sentence": "It was a small tube or trochar, with a lance passing down the inside; and Gabriel began to use it with a dexterity that would have graced a hospital surgeon."
+    },
+    {
+      "author": "Charles Darwin",
+      "work": "The Descent of Man",
+      "sentence": "Pallas, \u2018Spicilegia Zoologica,\u2019 fasc. xiii. 1779, p. 18.) The walrus, though having so short a neck and so unwieldy a body, \u201ccan strike either upwards, or downwards, or sideways, with equal dexterity.\u201d (29."
+    }
+  ],
+  "dexterous": [
+    {
+      "author": "Herman Melville",
+      "work": "Moby-Dick",
+      "sentence": "Whereupon planting his feet firmly against two opposite planks of the boat, the gigantic negro, stooping a little, presented his flat palm to Flask\u2019s foot, and then putting Flask\u2019s hand on his hearse-plumed head and bidding him spring as he himself should toss, with one dexterous fling landed the little man high and dry on his shoulders."
+    },
+    {
+      "author": "H. G. Wells",
+      "work": "The Time Machine",
+      "sentence": "All the buildings and trees seemed easily practicable to such dexterous climbers as the Morlocks, to judge by their wells, must be."
+    },
+    {
+      "author": "Jonathan Swift",
+      "work": "Gulliver's Travels",
+      "sentence": "My mistress had a daughter of nine years old, a child of towardly parts for her age, very dexterous at her needle, and skilful in dressing her baby."
+    }
+  ],
+  "dexterously": [
+    {
+      "author": "Thomas Hardy",
+      "work": "Far from the Madding Crowd",
+      "sentence": "The girl, who wore no riding-habit, looked around for a moment, as if to assure herself that all humanity was out of view, then dexterously dropped backwards flat upon the pony\u2019s back, her head over its tail, her feet against its shoulders, and her eyes to the sky."
+    },
+    {
+      "author": "Charles Darwin",
+      "work": "The Descent of Man",
+      "sentence": "The moose, for instance, with horns extending five and a half feet from tip to tip, although so skilful in their use that he will not touch or break a twig when walking quietly, cannot act so dexterously whilst rushing away from a pack of wolves."
+    },
+    {
+      "author": "Herman Melville",
+      "work": "Moby-Dick",
+      "sentence": "One of the attending harpooneers now advances with a long, keen weapon called a boarding-sword, and watching his chance he dexterously slices out a considerable hole in the lower part of the swaying mass."
+    }
+  ],
+  "erudite": [
+    {
+      "author": "George Eliot",
+      "work": "Middlemarch",
+      "sentence": "Bulstrode, appeared to have found an agreeable resort in this certainly not erudite household."
+    },
+    {
+      "author": "Herman Melville",
+      "work": "Moby-Dick",
+      "sentence": "Did erudite Stubb, mounted upon your capstan, deliver lectures on the anatomy of the Cetacea; and by help of the windlass, hold up a specimen rib for exhibition?"
+    },
+    {
+      "author": "Nathaniel Hawthorne",
+      "work": "The Scarlet Letter",
+      "sentence": "At all events, if it involved any secret information in regard to old Roger Chillingworth, it was in a tongue unknown to the erudite clergyman, and did but increase the bewilderment of his mind."
+    }
+  ],
+  "eruditely": [],
+  "eruditeness": [],
+  "erudition": [
+    {
+      "author": "William Shakespeare",
+      "work": "The Complete Works of William Shakespeare",
+      "sentence": "Praise him that gat thee, she that gave thee suck; Fam\u2019d be thy tutor, and thy parts of nature Thrice fam\u2019d beyond, beyond all erudition; But he that disciplin\u2019d thine arms to fight\u2014 Let Mars divide eternity in twain And give him half; and, for thy vigour, Bull-bearing Milo his addition yield To sinewy Ajax."
+    },
+    {
+      "author": "George Eliot",
+      "work": "Middlemarch",
+      "sentence": "How far the judicious Hooker or any other hero of erudition would have been the same at Mr."
+    },
+    {
+      "author": "Herman Melville",
+      "work": "Moby-Dick",
+      "sentence": "Johnson never attained to that erudition; Noah Webster\u2019s ark does not hold it."
+    }
+  ],
+  "expedite": [
+    {
+      "author": "Mary Shelley",
+      "work": "Frankenstein",
+      "sentence": "Sometimes I thought that the fiend followed me and might expedite my remissness by murdering my companion."
+    }
+  ],
+  "expedition": [
+    {
+      "author": "William Shakespeare",
+      "work": "The Complete Works of William Shakespeare",
+      "sentence": "He had, before this last expedition, twenty-five wounds upon him."
+    },
+    {
+      "author": "Thomas Hardy",
+      "work": "Far from the Madding Crowd",
+      "sentence": "Then Oak went back again, ascended to the top, stepped off the ladder for greater expedition, and went on thatching."
+    },
+    {
+      "author": "George Eliot",
+      "work": "Middlemarch",
+      "sentence": "But Sir James came in again, ready to accompany Dorothea to the Grange, and she finished her expedition well, not swerving in her resolution until she descended at her own door."
+    }
+  ],
+  "expeditionary": [],
+  "expeditious": [
+    {
+      "author": "William Shakespeare",
+      "work": "The Complete Works of William Shakespeare",
+      "sentence": "I\u2019ll deliver all; And promise you calm seas, auspicious gales, And sail so expeditious that shall catch Your royal fleet far off. [_Aside to Ariel._] My Ariel, chick, That is thy charge: then to the elements Be free, and fare thou well!"
+    },
+    {
+      "author": "Charles Dickens",
+      "work": "David Copperfield",
+      "sentence": "I soon became at least as expeditious and as skilful as either of the other boys."
+    },
+    {
+      "author": "Jane Austen",
+      "work": "Emma",
+      "sentence": "Our coachman and horses are so extremely expeditious!--I believe we drive faster than any body.-- What a pleasure it is to send one's carriage for a friend!-- I understand you were so kind as to offer, but another time it will be quite unnecessary."
+    }
+  ],
+  "expeditiously": [
+    {
+      "author": "Charles Dickens",
+      "work": "David Copperfield",
+      "sentence": "She made a hasty gesture with her hand, as if to entreat my patience and my silence, and turned towards London, whence, as her dress betokened, she had come expeditiously on foot."
+    },
+    {
+      "author": "Jane Austen",
+      "work": "Sense and Sensibility",
+      "sentence": "Palmer, travelling more expeditiously with Colonel Brandon, was to join them at Cleveland soon after their arrival."
+    }
+  ],
+  "expeditiousness": [],
+  "facia": [],
+  "facial": [
+    {
+      "author": "Thomas Hardy",
+      "work": "Far from the Madding Crowd",
+      "sentence": "The room inside was lighted only by the ruddy glow from the kiln mouth, which shone over the floor with the streaming horizontality of the setting sun, and threw upwards the shadows of all facial irregularities in those assembled around."
+    },
+    {
+      "author": "George Eliot",
+      "work": "Middlemarch",
+      "sentence": "I am not sure that the greatest man of his age, if ever that solitary superlative existed, could escape these unfavorable reflections of himself in various small mirrors; and even Milton, looking for his portrait in a spoon, must submit to have the facial angle of a bumpkin."
+    },
+    {
+      "author": "Charles Darwin",
+      "work": "The Descent of Man",
+      "sentence": "Habitual spasms of the muscles, and a cicatrix from a severe burn, have permanently modified the facial bones."
+    }
+  ],
+  "facially": [],
+  "facile": [
+    {
+      "author": "William Shakespeare",
+      "work": "The Complete Works of William Shakespeare",
+      "sentence": "When we consider The importancy of Cyprus to the Turk; And let ourselves again but understand That, as it more concerns the Turk than Rhodes, So may he with more facile question bear it, For that it stands not in such warlike brace, But altogether lacks the abilities That Rhodes is dress\u2019d in."
+    },
+    {
+      "author": "John Locke",
+      "work": "An Essay Concerning Human Understanding",
+      "sentence": "A l'aide de l'aiguille aimant\u00e9e, ce travail serait aussi facile qu'agr\u00e9able; si sous le rapport de l'exactitude, il laisse \u00e0 d\u00e9sirer, il suffit pour un aper\u00e7u g\u00e9n\u00e9ral."
+    },
+    {
+      "author": "Thomas Hardy",
+      "work": "Tess of the d'Urbervilles",
+      "sentence": "Distinction does not consist in the facile use of a contemptible set of conventions, but in being numbered among those who are true, and honest, and just, and pure, and lovely, and of good report\u2014as you are, my Tess."
+    }
+  ],
+  "facilitate": [
+    {
+      "author": "Arthur Conan Doyle",
+      "work": "The Adventures of Sherlock Holmes",
+      "sentence": "If you could send her into the cellar on some errand, and then turn the key upon her, you would facilitate matters immensely."
+    },
+    {
+      "author": "Ralph Waldo Emerson",
+      "work": "Essays",
+      "sentence": "Manners aim to facilitate life, to get rid of impediments, and bring the man pure to energize."
+    },
+    {
+      "author": "Herman Melville",
+      "work": "Moby-Dick",
+      "sentence": "First: In order to facilitate the fastening to it of an additional line from a neighboring boat, in case the stricken whale should sound so deep as to threaten to carry off the entire line originally attached to the harpoon."
+    }
+  ],
+  "facilitation": [],
+  "facilitative": [],
+  "facilitator": [],
+  "facilitatory": [],
+  "facility": [
+    {
+      "author": "William Shakespeare",
+      "work": "The Complete Works of William Shakespeare",
+      "sentence": "I will something affect the letter; for it argues facility."
+    },
+    {
+      "author": "Thomas Hardy",
+      "work": "Far from the Madding Crowd",
+      "sentence": "The facility with which even the most timid women sometimes acquire a relish for the dreadful when that is amalgamated with a little triumph, is marvellous."
+    },
+    {
+      "author": "Charles Darwin",
+      "work": "The Origin of Species",
+      "sentence": "In the case of animals with separate sexes, facility in preventing crosses is an important element of success in the formation of new races,\u2014at least, in a country which is already stocked with other races."
+    }
+  ],
+  "facing": [
+    {
+      "author": "William Shakespeare",
+      "work": "The Complete Works of William Shakespeare",
+      "sentence": "POMPEY. \u2019Twas never merry world since, of two usuries, the merriest was put down, and the worser allowed by order of law a furred gown to keep him warm; and furred with fox on lambskins too, to signify that craft, being richer than innocency, stands for the facing."
+    },
+    {
+      "author": "Thomas Hardy",
+      "work": "Far from the Madding Crowd",
+      "sentence": "The sympathetic man still looked the other way, and wondered when she would recover coolness sufficient to justify him in facing her again."
+    },
+    {
+      "author": "George Eliot",
+      "work": "Middlemarch",
+      "sentence": "Suddenly a noise roused his attention, and on the far side of a field on his left hand he could see six or seven men in smock-frocks with hay-forks in their hands making an offensive approach towards the four railway agents who were facing them, while Caleb Garth and his assistant were hastening across the field to join the threatened group."
+    }
+  ],
+  "filial": [
+    {
+      "author": "William Shakespeare",
+      "work": "The Complete Works of William Shakespeare",
+      "sentence": "KING. \u2019Tis sweet and commendable in your nature, Hamlet, To give these mourning duties to your father; But you must know, your father lost a father, That father lost, lost his, and the survivor bound In filial obligation, for some term To do obsequious sorrow."
+    },
+    {
+      "author": "George Eliot",
+      "work": "Middlemarch",
+      "sentence": "The mother\u2019s eyes are not always deceived in their partiality: she at least can best judge who is the tender, filial-hearted child."
+    },
+    {
+      "author": "Charles Darwin",
+      "work": "The Descent of Man",
+      "sentence": "Mill.), the parental and filial affections being here included, would inevitably acquire a moral sense or conscience, as soon as its intellectual powers had become as well, or nearly as well developed, as in man."
+    }
+  ],
+  "filiate": [],
+  "filiation": [],
+  "filicales": [],
+  "filicide": [],
+  "filicinae": [],
+  "filicopsida": [],
+  "filing": [
+    {
+      "author": "Charles Darwin",
+      "work": "The Descent of Man",
+      "sentence": "Lastly, it is a remarkable fact, as proved by the foregoing quotations, that the same fashions in modifying the shape of the head, in ornamenting the hair, in painting, tattooing, in perforating the nose, lips, or ears, in removing or filing the teeth, etc., now prevail, and have long prevailed, in the most distant quarters of the world."
+    },
+    {
+      "author": "Herman Melville",
+      "work": "Moby-Dick",
+      "sentence": "(_Carpenter standing before his vice-bench, and by the light of two lanterns busily filing the ivory joist for the leg, which joist is firmly fixed in the vice."
+    },
+    {
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "sentence": "He looked at them, and saw in them, without knowing it, the slow sure filing down of misery-worn face and figure, that was to make the meagreness of Frenchmen an English superstition which should survive the truth through the best part of a hundred years."
+    }
+  ],
+  "gingiva": [],
+  "gingival": [],
+  "gingivectomy": [],
+  "gingivitis": [],
+  "impedance": [],
+  "impede": [
+    {
+      "author": "Ralph Waldo Emerson",
+      "work": "Essays",
+      "sentence": "Nor in fine does his abruptness ever impede a true urbanity."
+    },
+    {
+      "author": "Jane Austen",
+      "work": "Emma",
+      "sentence": "As to there being any quantity of snow fallen or likely to fall to impede their return, that was a mere joke; he was afraid they would find no difficulty."
+    }
+  ],
+  "impeded": [
+    {
+      "author": "Charles Darwin",
+      "work": "The Descent of Man",
+      "sentence": "The various ornaments possessed by the males are certainly of the highest importance to them, for in some cases they have been acquired at the expense of greatly impeded powers of flight or of running."
+    },
+    {
+      "author": "Nathaniel Hawthorne",
+      "work": "The Scarlet Letter",
+      "sentence": "Hatred, by a gradual and quiet process, will even be transformed to love, unless the change be impeded by a continually new irritation of the original feeling of hostility."
+    },
+    {
+      "author": "H. G. Wells",
+      "work": "The Time Machine",
+      "sentence": "Hitherto I had merely thought myself impeded by the childish simplicity of the little people, and by some unknown forces which I had only to understand to overcome; but there was an altogether new element in the sickening quality of the Morlocks\u2014a something inhuman and malign."
+    }
+  ],
+  "impediment": [
+    {
+      "author": "William Shakespeare",
+      "work": "The Complete Works of William Shakespeare",
+      "sentence": "May I never To this good purpose, that so fairly shows, Dream of impediment!"
+    },
+    {
+      "author": "George Eliot",
+      "work": "Middlemarch",
+      "sentence": "Brooke\u2019s definition of the place he might have held but for the impediment of indolence."
+    },
+    {
+      "author": "Ralph Waldo Emerson",
+      "work": "Essays",
+      "sentence": "But the impediment lies in the choosing."
+    }
+  ],
+  "impeding": [],
+  "interfacial": [],
+  "millipede": [],
+  "pedal": [],
+  "pedaler": [],
+  "pedaller": [],
+  "pedant": [
+    {
+      "author": "William Shakespeare",
+      "work": "The Complete Works of William Shakespeare",
+      "sentence": "I, that have been love\u2019s whip, A very beadle to a humorous sigh, A critic, nay, a night-watch constable, A domineering pedant o\u2019er the boy, Than whom no mortal so magnificent!"
+    }
+  ],
+  "pedate": [],
+  "pedestal": [
+    {
+      "author": "William Shakespeare",
+      "work": "The Complete Works of William Shakespeare",
+      "sentence": "Hermione comes down from the pedestal."
+    },
+    {
+      "author": "Thomas Hardy",
+      "work": "Tess of the d'Urbervilles",
+      "sentence": "To put with one hand a pedestal under the feet of the two faithful ones, and with the other to exalt the unfaithful by the same artificial means, he deemed to be alike inconsistent with his convictions, his position, and his hopes."
+    },
+    {
+      "author": "Ralph Waldo Emerson",
+      "work": "Essays",
+      "sentence": "They recorded, that when the Thasians[123] erected a statue to Theagenes, a victor in the games, one of his rivals went to it by night, and endeavored to throw it down by repeated blows, until at last he moved it from its pedestal, and was crushed to death beneath its fall."
+    }
+  ],
+  "pedestrian": [
+    {
+      "author": "Thomas Hardy",
+      "work": "Far from the Madding Crowd",
+      "sentence": "It was not a bridle-path\u2014merely a pedestrian\u2019s track, and the boughs spread horizontally at a height not greater than seven feet above the ground, which made it impossible to ride erect beneath them."
+    },
+    {
+      "author": "Herman Melville",
+      "work": "Moby-Dick",
+      "sentence": "Why did the poor poet of Tennessee, upon suddenly receiving two handfuls of silver, deliberate whether to buy him a coat, which he sadly needed, or invest his money in a pedestrian trip to Rockaway Beach?"
+    },
+    {
+      "author": "Charles Dickens",
+      "work": "David Copperfield",
+      "sentence": "Whenever she was particularly discomposed, she always performed one of these pedestrian feats; and the amount of her discomposure might always be estimated by the duration of her walk."
+    }
+  ],
+  "pedicure": [],
+  "pedigree": [
+    {
+      "author": "William Shakespeare",
+      "work": "The Complete Works of William Shakespeare",
+      "sentence": "But for the rest: you tell a pedigree Of threescore and two years, a silly time To make prescription for a kingdom\u2019s worth."
+    },
+    {
+      "author": "Thomas Hardy",
+      "work": "Far from the Madding Crowd",
+      "sentence": "Shepherd would like to hear the pedigree of yer life, father\u2014wouldn\u2019t ye, shepherd?"
+    },
+    {
+      "author": "Charles Darwin",
+      "work": "The Origin of Species",
+      "sentence": "In the time of the Romans, as we hear from Pliny, immense prices were given for pigeons; \u201cnay, they are come to this pass, that they can reckon up their pedigree and race.\u201d Pigeons were much valued by Akber Khan in India, about the year 1600; never less than 20,000 pigeons were taken with the court."
+    }
+  ],
+  "pedigreed": [],
+  "profiling": [],
+  "quadruped": [
+    {
+      "author": "Thomas Hardy",
+      "work": "Tess of the d'Urbervilles",
+      "sentence": "She is angry\u2014she doesn\u2019t know what we mean\u2014she\u2019ll kick over the milk!\u201d exclaimed Tess, gently striving to free herself, her eyes concerned with the quadruped\u2019s actions, her heart more deeply concerned with herself and Clare."
+    },
+    {
+      "author": "Charles Darwin",
+      "work": "The Origin of Species",
+      "sentence": "Man keeps the natives of many climates in the same country; he seldom exercises each selected character in some peculiar and fitting manner; he feeds a long and a short beaked pigeon on the same food; he does not exercise a long-backed or long-legged quadruped in any peculiar manner; he exposes sheep with long and short wool to the same climate."
+    },
+    {
+      "author": "George Eliot",
+      "work": "Middlemarch",
+      "sentence": "Meanwhile tiny Miss Noble carried on her arm a small basket, into which she diverted a bit of sugar, which she had first dropped in her saucer as if by mistake; looking round furtively afterwards, and reverting to her teacup with a small innocent noise as of a tiny timid quadruped."
+    }
+  ],
+  "quadrupedal": [
+    {
+      "author": "Charles Darwin",
+      "work": "The Descent of Man",
+      "sentence": "Flower have shewn to exist uniformly in the higher and lower apes.\u201d I will give only two additional cases; the acromio-basilar muscle is found in all mammals below man, and seems to be correlated with a quadrupedal gait, (50."
+    },
+    {
+      "author": "G. K. Chesterton",
+      "work": "The Wisdom of Father Brown",
+      "sentence": "Seeing him thus quadrupedal in the grass, the priest raised his eyebrows rather sadly; and for the first time guessed that \"fancies things\" might be an euphemism."
+    }
+  ],
+  "reaffiliation": [],
+  "rudapithecus": [],
+  "rude": [
+    {
+      "author": "William Shakespeare",
+      "work": "The Complete Works of William Shakespeare",
+      "sentence": "But thou art all my art, and dost advance As high as learning, my rude ignorance."
+    },
+    {
+      "author": "John Locke",
+      "work": "An Essay Concerning Human Understanding",
+      "sentence": "Chez les Allemands, la pr\u00e9tention est toujours rude et dure, et leurs gr\u00e2ces sont tendres et douces, c'est-\u00e0-dire, oppos\u00e9es \u00e0 la pr\u00e9tention et par cons\u00e9quent incapables de s'unir avec elle."
+    },
+    {
+      "author": "Thomas Hardy",
+      "work": "Far from the Madding Crowd",
+      "sentence": "Well, you need not think more of that: perhaps you did not mean to be rude to me by speaking out your mind: indeed, I believe you did not,\u201d said the shrewd woman, in painfully innocent earnest."
+    }
+  ],
+  "rudely": [
+    {
+      "author": "William Shakespeare",
+      "work": "The Complete Works of William Shakespeare",
+      "sentence": "Therefore, most absolute sir, if thou wilt have The leading of thine own revenges, take Th\u2019 one half of my commission and set down\u2014 As best thou art experienced, since thou know\u2019st Thy country\u2019s strength and weakness\u2014thine own ways, Whether to knock against the gates of Rome, Or rudely visit them in parts remote To fright them ere destroy."
+    },
+    {
+      "author": "George Eliot",
+      "work": "Middlemarch",
+      "sentence": "The sense that Sir James was depreciating Will, and behaving rudely to him, roused her resolution and dignity: there was no touch of confusion in her manner."
+    },
+    {
+      "author": "Henry David Thoreau",
+      "work": "Walden",
+      "sentence": "These are the coarsest mills, in which all gossip is first rudely digested or cracked up before it is emptied into finer and more delicate hoppers within doors."
+    }
+  ],
+  "rudeness": [
+    {
+      "author": "William Shakespeare",
+      "work": "The Complete Works of William Shakespeare",
+      "sentence": "I thought he slept, and put My clouted brogues from off my feet, whose rudeness Answer\u2019d my steps too loud."
+    },
+    {
+      "author": "Thomas Hardy",
+      "work": "Far from the Madding Crowd",
+      "sentence": "Perhaps you don\u2019t like the rudeness of my reprimanding you, for I know it is rudeness; but I thought it would do good."
+    },
+    {
+      "author": "George Eliot",
+      "work": "Middlemarch",
+      "sentence": "Sir Godwin\u2019s rudeness towards her and utter want of feeling ranged him with Dover and all other creditors\u2014disagreeable people who only thought of themselves, and did not mind how annoying they were to her."
+    }
+  ],
+  "rudiment": [
+    {
+      "author": "Charles Darwin",
+      "work": "The Origin of Species",
+      "sentence": "Indeed, we may sometimes observe a mere tendency to produce a rudiment inherited: for instance, in the common snapdragon (Antirrhinum) a rudiment of a fifth stamen so often appears, that this plant must have an inherited tendency to produce it."
+    },
+    {
+      "author": "Henry David Thoreau",
+      "work": "Walden",
+      "sentence": "Pray tell me any thing new that has happened to a man any where on this globe,\u201d\u2014and he reads it over his coffee and rolls, that a man has had his eyes gouged out this morning on the Wachito River; never dreaming the while that he lives in the dark unfathomed mammoth cave of this world, and has but the rudiment of an eye himself."
+    },
+    {
+      "author": "Bram Stoker",
+      "work": "Dracula",
+      "sentence": "This gave me an idea, or the rudiment of one."
+    }
+  ],
+  "rudimentary": [
+    {
+      "author": "Thomas Hardy",
+      "work": "Far from the Madding Crowd",
+      "sentence": "When Farmer Oak smiled, the corners of his mouth spread till they were within an unimportant distance of his ears, his eyes were reduced to chinks, and diverging wrinkles appeared round them, extending upon his countenance like the rays in a rudimentary sketch of the rising sun."
+    },
+    {
+      "author": "Charles Darwin",
+      "work": "The Origin of Species",
+      "sentence": "Multiple, rudimentary, and lowly organised structures variable."
+    },
+    {
+      "author": "Joseph Conrad",
+      "work": "Heart of Darkness",
+      "sentence": "He had the power to charm or frighten rudimentary souls into an aggravated witch-dance in his honour; he could also fill the small souls of the pilgrims with bitter misgivings: he had one devoted friend at least, and he had conquered one soul in the world that was neither rudimentary nor tainted with self-seeking."
+    }
+  ],
+  "rudiments": [
+    {
+      "author": "William Shakespeare",
+      "work": "The Complete Works of William Shakespeare",
+      "sentence": "But, my good lord, this boy is forest-born And hath been tutored in the rudiments Of many desperate studies by his uncle, Whom he reports to be a great magician, Obscured in the circle of this forest."
+    },
+    {
+      "author": "Thomas Hardy",
+      "work": "Far from the Madding Crowd",
+      "sentence": "He was learning the sheep-keeping business, so as to follow on at the flock when the other should die, but had got no further than the rudiments as yet\u2014still finding an insuperable difficulty in distinguishing between doing a thing well enough and doing it too well."
+    },
+    {
+      "author": "Charles Darwin",
+      "work": "The Origin of Species",
+      "sentence": "For the workers of Myrmica have not even rudiments of ocelli, though the male and female ants of this genus have well-developed ocelli."
+    }
+  ],
+  "rudra": [],
+  "sesquipedalian": [],
+  "sesquipedality": [],
+  "sororal": [],
+  "sorority": [],
+  "spin": [
+    {
+      "author": "William Shakespeare",
+      "work": "The Complete Works of William Shakespeare",
+      "sentence": "Mount them, and make incision in their hides, That their hot blood may spin in English eyes, And dout them with superfluous courage, ha!"
+    },
+    {
+      "author": "Thomas Hardy",
+      "work": "Tess of the d'Urbervilles",
+      "sentence": "It was then that the ecstasy and the dream began, in which emotion was the matter of the universe, and matter but an adventitious intrusion likely to hinder you from spinning where you wanted to spin."
+    },
+    {
+      "author": "Henry David Thoreau",
+      "work": "Walden",
+      "sentence": "The parent will sometimes roll and spin round before you in such a dishabille, that you cannot, for a few moments, detect what kind of creature it is."
+    }
+  ],
+  "spinach": [],
+  "spinacia": [],
+  "spinal": [
+    {
+      "author": "Charles Darwin",
+      "work": "The Origin of Species",
+      "sentence": "A white ass, but _not_ an albino, has been described without either spinal or shoulder-stripe; and these stripes are sometimes very obscure, or actually quite lost, in dark-coloured asses."
+    },
+    {
+      "author": "Herman Melville",
+      "work": "Moby-Dick",
+      "sentence": "Now, I consider that the phrenologists have omitted an important thing in not pushing their investigations from the cerebellum through the spinal canal."
+    }
+  ],
+  "spinally": [],
+  "spindle": [
+    {
+      "author": "Herman Melville",
+      "work": "Moby-Dick",
+      "sentence": "The Manxman took the reel, and holding it high up, by the projecting handle-ends of the spindle, round which the spool of line revolved, so stood with the angular log hanging downwards, till Ahab advanced to him."
+    },
+    {
+      "author": "King James Bible",
+      "work": "The Holy Bible",
+      "sentence": "31:19 She layeth her hands to the spindle, and her hands hold the distaff."
+    }
+  ],
+  "spine": [
+    {
+      "author": "Charles Darwin",
+      "work": "The Origin of Species",
+      "sentence": "The spine is always striped; the legs are generally barred; and the shoulder-stripe, which is sometimes double and sometimes treble, is common; the side of the face, moreover, is sometimes striped."
+    },
+    {
+      "author": "Arthur Conan Doyle",
+      "work": "The Adventures of Sherlock Holmes",
+      "sentence": "If I lay on my face the weight would come upon my spine, and I shuddered to think of that dreadful snap."
+    },
+    {
+      "author": "Herman Melville",
+      "work": "Moby-Dick",
+      "sentence": "Up, spine, and meet it! (_Leaps to his feet_.)"
+    }
+  ],
+  "spine-tipped": [],
+  "spinel": [],
+  "spineless": [],
+  "spinelessness": [],
+  "spinet": [
+    {
+      "author": "Jonathan Swift",
+      "work": "Gulliver's Travels",
+      "sentence": "I had learned in my youth to play a little upon the spinet."
+    }
+  ],
+  "spinifex": [],
+  "spininess": [],
+  "spinmeister": [],
+  "spinnability": [],
+  "spinnable": [],
+  "spinnaker": [],
+  "spinnbar": [],
+  "spinnbarkeit": [],
+  "spinner": [],
+  "spinney": [],
+  "spinning": [
+    {
+      "author": "William Shakespeare",
+      "work": "The Complete Works of William Shakespeare",
+      "sentence": "In that pleasant humour they all posted to Rome; and intending, by their secret and sudden arrival, to make trial of that which everyone had before avouched, only Collatinus finds his wife, though it were late in the night, spinning amongst her maids: the other ladies were all found dancing and revelling, or in several disports."
+    },
+    {
+      "author": "Thomas Hardy",
+      "work": "Far from the Madding Crowd",
+      "sentence": "The dry leaves in the ditch simmered and boiled in the same breezes, a tongue of air occasionally ferreting out a few, and sending them spinning across the grass."
+    },
+    {
+      "author": "George Eliot",
+      "work": "Middlemarch",
+      "sentence": "As for Rosamond, she was in the water-lily\u2019s expanding wonderment at its own fuller life, and she too was spinning industriously at the mutual web."
+    }
+  ],
+  "spinose": [
+    {
+      "author": "Charles Darwin",
+      "work": "The Descent of Man",
+      "sentence": "The hairy and spinose kinds are invariably rejected, as were four conspicuously-coloured species."
+    }
+  ],
+  "spinous": [],
+  "spinoza": [
+    {
+      "author": "Herman Melville",
+      "work": "Moby-Dick",
+      "sentence": "This Right Whale I take to have been a Stoic; the Sperm Whale, a Platonian, who might have taken up Spinoza in his latter years."
+    }
+  ],
+  "spinster": [
+    {
+      "author": "William Shakespeare",
+      "work": "The Complete Works of William Shakespeare",
+      "sentence": "Forsooth, a great arithmetician, One Michael Cassio, a Florentine, A fellow almost damn\u2019d in a fair wife, That never set a squadron in the field, Nor the division of a battle knows More than a spinster, unless the bookish theoric, Wherein the toged consuls can propose As masterly as he: mere prattle without practice Is all his soldiership."
+    },
+    {
+      "author": "Arthur Conan Doyle",
+      "work": "The Adventures of Sherlock Holmes",
+      "sentence": "I was half-dragged up to the altar, and before I knew where I was I found myself mumbling responses which were whispered in my ear, and vouching for things of which I knew nothing, and generally assisting in the secure tying up of Irene Adler, spinster, to Godfrey Norton, bachelor."
+    }
+  ],
+  "spinsterhood": [],
+  "spinus": [
+    {
+      "author": "Charles Darwin",
+      "work": "The Descent of Man",
+      "sentence": "Colour, however, sometimes comes into play; for in order to raise hybrids from the siskin (Fringilla spinus) and the canary, it is much the best plan, according to Bechstein, to place birds of the same tint together."
+    }
+  ],
+  "spiny": [
+    {
+      "author": "Thomas Hardy",
+      "work": "Tess of the d'Urbervilles",
+      "sentence": "The pollard willows, tortured out of their natural shape by incessant choppings, became spiny-haired monsters as they stood up against it."
+    }
+  ],
+  "spiny-backed": [],
+  "spiny-edged": [],
+  "spiny-finned": [],
+  "spiny-leafed": [],
+  "spiny-leaved": [],
+  "spiny-stemmed": [],
+  "subgingival": [],
+  "surfacing": [],
+  "unaffiliated": []
+}

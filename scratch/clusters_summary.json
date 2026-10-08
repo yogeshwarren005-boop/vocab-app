@@ -1,0 +1,312 @@
+[
+  {
+    "cluster": "03_Reference_and_Rules",
+    "dashboards": 0,
+    "words": 0
+  },
+  {
+    "cluster": "Cluster Action",
+    "dashboards": 20,
+    "words": 1262
+  },
+  {
+    "cluster": "Cluster Action & State",
+    "dashboards": 26,
+    "words": 1082
+  },
+  {
+    "cluster": "Cluster Anatomy & Clinical Medicine",
+    "dashboards": 25,
+    "words": 394
+  },
+  {
+    "cluster": "Cluster Animal & Plant",
+    "dashboards": 17,
+    "words": 514
+  },
+  {
+    "cluster": "Cluster Animal Adjectives & Biological",
+    "dashboards": 13,
+    "words": 254
+  },
+  {
+    "cluster": "Cluster Asking & Seeking",
+    "dashboards": 11,
+    "words": 389
+  },
+  {
+    "cluster": "Cluster Binding",
+    "dashboards": 11,
+    "words": 342
+  },
+  {
+    "cluster": "Cluster Body",
+    "dashboards": 24,
+    "words": 551
+  },
+  {
+    "cluster": "Cluster Body & State",
+    "dashboards": 9,
+    "words": 110
+  },
+  {
+    "cluster": "Cluster Botany, Minerals & Elements",
+    "dashboards": 21,
+    "words": 477
+  },
+  {
+    "cluster": "Cluster Building & Dwelling",
+    "dashboards": 9,
+    "words": 113
+  },
+  {
+    "cluster": "Cluster Carrying",
+    "dashboards": 6,
+    "words": 535
+  },
+  {
+    "cluster": "Cluster Clothing & Covering",
+    "dashboards": 8,
+    "words": 179
+  },
+  {
+    "cluster": "Cluster Color & Appearance",
+    "dashboards": 11,
+    "words": 154
+  },
+  {
+    "cluster": "Cluster Death",
+    "dashboards": 7,
+    "words": 176
+  },
+  {
+    "cluster": "Cluster Destruction",
+    "dashboards": 12,
+    "words": 171
+  },
+  {
+    "cluster": "Cluster Emotion",
+    "dashboards": 18,
+    "words": 677
+  },
+  {
+    "cluster": "Cluster Equality",
+    "dashboards": 5,
+    "words": 133
+  },
+  {
+    "cluster": "Cluster Faith",
+    "dashboards": 3,
+    "words": 92
+  },
+  {
+    "cluster": "Cluster Fire, Heat & Ash",
+    "dashboards": 10,
+    "words": 358
+  },
+  {
+    "cluster": "Cluster Food, Eating & Drink",
+    "dashboards": 13,
+    "words": 392
+  },
+  {
+    "cluster": "Cluster General",
+    "dashboards": 6,
+    "words": 292
+  },
+  {
+    "cluster": "Cluster Giving & Receiving",
+    "dashboards": 4,
+    "words": 88
+  },
+  {
+    "cluster": "Cluster Good & Bad",
+    "dashboards": 17,
+    "words": 654
+  },
+  {
+    "cluster": "Cluster Greek-Latin Hybrid",
+    "dashboards": 13,
+    "words": 820
+  },
+  {
+    "cluster": "Cluster Holding",
+    "dashboards": 13,
+    "words": 712
+  },
+  {
+    "cluster": "Cluster Law",
+    "dashboards": 12,
+    "words": 678
+  },
+  {
+    "cluster": "Cluster Law, Justice & Feudal",
+    "dashboards": 16,
+    "words": 360
+  },
+  {
+    "cluster": "Cluster Life",
+    "dashboards": 10,
+    "words": 876
+  },
+  {
+    "cluster": "Cluster Light",
+    "dashboards": 9,
+    "words": 217
+  },
+  {
+    "cluster": "Cluster Mind & Knowledge",
+    "dashboards": 14,
+    "words": 888
+  },
+  {
+    "cluster": "Cluster Motion",
+    "dashboards": 30,
+    "words": 1552
+  },
+  {
+    "cluster": "Cluster Movement & Speed",
+    "dashboards": 21,
+    "words": 685
+  },
+  {
+    "cluster": "Cluster Nature",
+    "dashboards": 29,
+    "words": 952
+  },
+  {
+    "cluster": "Cluster Number & Measure",
+    "dashboards": 15,
+    "words": 744
+  },
+  {
+    "cluster": "Cluster Objects & Forms",
+    "dashboards": 11,
+    "words": 298
+  },
+  {
+    "cluster": "Cluster Order",
+    "dashboards": 11,
+    "words": 542
+  },
+  {
+    "cluster": "Cluster Placing",
+    "dashboards": 9,
+    "words": 1093
+  },
+  {
+    "cluster": "Cluster Power",
+    "dashboards": 10,
+    "words": 428
+  },
+  {
+    "cluster": "Cluster Quantity",
+    "dashboards": 17,
+    "words": 762
+  },
+  {
+    "cluster": "Cluster Sacred",
+    "dashboards": 10,
+    "words": 228
+  },
+  {
+    "cluster": "Cluster Sending",
+    "dashboards": 10,
+    "words": 762
+  },
+  {
+    "cluster": "Cluster Senses & Perception",
+    "dashboards": 11,
+    "words": 298
+  },
+  {
+    "cluster": "Cluster Separation & Loosening",
+    "dashboards": 10,
+    "words": 952
+  },
+  {
+    "cluster": "Cluster Sight",
+    "dashboards": 10,
+    "words": 424
+  },
+  {
+    "cluster": "Cluster Sleep, Rest & Stillness",
+    "dashboards": 6,
+    "words": 78
+  },
+  {
+    "cluster": "Cluster Society",
+    "dashboards": 22,
+    "words": 916
+  },
+  {
+    "cluster": "Cluster Space & Environment",
+    "dashboards": 24,
+    "words": 740
+  },
+  {
+    "cluster": "Cluster Speech",
+    "dashboards": 15,
+    "words": 363
+  },
+  {
+    "cluster": "Cluster Speech & Communication",
+    "dashboards": 16,
+    "words": 896
+  },
+  {
+    "cluster": "Cluster Structure",
+    "dashboards": 16,
+    "words": 718
+  },
+  {
+    "cluster": "Cluster Thought",
+    "dashboards": 11,
+    "words": 397
+  },
+  {
+    "cluster": "Cluster Time",
+    "dashboards": 12,
+    "words": 381
+  },
+  {
+    "cluster": "Cluster Touch",
+    "dashboards": 7,
+    "words": 110
+  },
+  {
+    "cluster": "Cluster Truth, Deception & Error",
+    "dashboards": 9,
+    "words": 577
+  },
+  {
+    "cluster": "Cluster Turning",
+    "dashboards": 15,
+    "words": 592
+  },
+  {
+    "cluster": "Cluster Virtue",
+    "dashboards": 9,
+    "words": 333
+  },
+  {
+    "cluster": "Cluster War",
+    "dashboards": 10,
+    "words": 262
+  },
+  {
+    "cluster": "Cluster Weight",
+    "dashboards": 6,
+    "words": 294
+  },
+  {
+    "cluster": "Cluster Writing",
+    "dashboards": 7,
+    "words": 294
+  },
+  {
+    "cluster": "Derived Words",
+    "dashboards": 0,
+    "words": 0
+  }
+]

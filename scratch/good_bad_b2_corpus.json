@@ -1,0 +1,1639 @@
+{
+  "dir_map": {
+    "bene": "Dashboard \u2014 bene",
+    "culp": "Dashboard \u2014 culp",
+    "fam": "Dashboard \u2014 fam",
+    "felic": "Dashboard \u2014 felic",
+    "mend": "Dashboard \u2014 mend",
+    "noxa": "Dashboard \u2014 noxa"
+  },
+  "words_by_root": {
+    "bene": [
+      "beneath",
+      "benefice",
+      "beneficed",
+      "beneficence",
+      "beneficent",
+      "beneficial",
+      "beneficially",
+      "beneficiary",
+      "beneficiate",
+      "beneficiation",
+      "benefit",
+      "benelux",
+      "benet",
+      "probenecid",
+      "unbeneficed"
+    ],
+    "culp": [
+      "culpability",
+      "culpable",
+      "culpableness",
+      "culpably",
+      "culprit",
+      "exculpate",
+      "exculpated",
+      "exculpation",
+      "exculpatory",
+      "inculpability",
+      "inculpable",
+      "inculpableness",
+      "inculpate",
+      "inculpation",
+      "inculpative",
+      "inculpatory",
+      "mea culpa"
+    ],
+    "fam": [
+      "defamation",
+      "defamatory",
+      "defame",
+      "defamer",
+      "fame",
+      "famed",
+      "familial",
+      "familiar",
+      "familiarisation",
+      "familiarise",
+      "familiarised",
+      "familiarising",
+      "familiarity",
+      "familiarization",
+      "familiarize",
+      "familiarized",
+      "familiarizing",
+      "familiarly",
+      "family",
+      "famine",
+      "famish",
+      "famished",
+      "famishment",
+      "famotidine",
+      "famous",
+      "famously",
+      "famulus",
+      "infamous",
+      "infamy",
+      "overfamiliar",
+      "subfamily",
+      "superfamily",
+      "unfamiliar",
+      "unfamiliarity"
+    ],
+    "felic": [
+      "felicia",
+      "felicitate",
+      "felicitation",
+      "felicitous",
+      "felicitously",
+      "felicitousness",
+      "felicity",
+      "infelicitous",
+      "infelicitously",
+      "infelicity"
+    ],
+    "mend": [
+      "amend",
+      "amendable",
+      "amendatory",
+      "amended",
+      "amendment",
+      "commend",
+      "commendable",
+      "commendation",
+      "emend",
+      "emendation",
+      "emended",
+      "mend",
+      "mendacious",
+      "mendaciously",
+      "mendacity",
+      "mendel",
+      "mendeleev",
+      "mendelevium",
+      "mendeleyev",
+      "mendelian",
+      "mendelianism",
+      "mendelism",
+      "mendelsohn",
+      "mendelssohn",
+      "mender",
+      "mendicancy",
+      "mendicant",
+      "mendicity",
+      "mending",
+      "recommend",
+      "recommendation",
+      "unamended"
+    ],
+    "noxa": [
+      "conocarpus",
+      "conoclinium",
+      "dinoceras",
+      "dinocerata",
+      "dinocerate",
+      "innocence",
+      "innocency",
+      "innocense",
+      "innocent",
+      "innocently",
+      "innocuous",
+      "innoxious",
+      "noc",
+      "nocent",
+      "nociceptive",
+      "noctambulation",
+      "noctambulism",
+      "noctambulist",
+      "noctiluca",
+      "noctilucent",
+      "noctua",
+      "noctuid",
+      "noctuidae",
+      "nocturia",
+      "nocturnal",
+      "nocturnally",
+      "nocturne",
+      "nox",
+      "noxious",
+      "noxiously",
+      "noxiousness",
+      "obnoxious",
+      "obnoxiously",
+      "obnoxiousness"
+    ]
+  },
+  "p1a": [
+    "beneath",
+    "benefice",
+    "beneficed",
+    "beneficence",
+    "beneficent",
+    "beneficial",
+    "beneficially",
+    "beneficiary",
+    "beneficiate",
+    "beneficiation",
+    "benefit",
+    "benelux",
+    "benet",
+    "probenecid",
+    "unbeneficed",
+    "culpability",
+    "culpable",
+    "culpableness",
+    "culpably",
+    "culprit",
+    "exculpate",
+    "exculpated",
+    "exculpation",
+    "exculpatory",
+    "inculpability",
+    "inculpable",
+    "inculpableness",
+    "inculpate",
+    "inculpation",
+    "inculpative",
+    "inculpatory",
+    "mea culpa"
+  ],
+  "p1b": [
+    "defamation",
+    "defamatory",
+    "defame",
+    "defamer",
+    "fame",
+    "famed",
+    "familial",
+    "familiar",
+    "familiarisation",
+    "familiarise",
+    "familiarised",
+    "familiarising",
+    "familiarity",
+    "familiarization",
+    "familiarize",
+    "familiarized",
+    "familiarizing",
+    "familiarly",
+    "family",
+    "famine",
+    "famish",
+    "famished",
+    "famishment",
+    "famotidine",
+    "famous",
+    "famously",
+    "famulus",
+    "infamous",
+    "infamy",
+    "overfamiliar",
+    "subfamily",
+    "superfamily",
+    "unfamiliar",
+    "unfamiliarity"
+  ],
+  "p2a": [
+    "felicia",
+    "felicitate",
+    "felicitation",
+    "felicitous",
+    "felicitously",
+    "felicitousness",
+    "felicity",
+    "infelicitous",
+    "infelicitously",
+    "infelicity",
+    "amend",
+    "amendable",
+    "amendatory",
+    "amended",
+    "amendment",
+    "commend",
+    "commendable",
+    "commendation",
+    "emend",
+    "emendation",
+    "emended",
+    "mend",
+    "mendacious",
+    "mendaciously",
+    "mendacity",
+    "mendel",
+    "mendeleev",
+    "mendelevium",
+    "mendeleyev",
+    "mendelian",
+    "mendelianism",
+    "mendelism",
+    "mendelsohn",
+    "mendelssohn",
+    "mender",
+    "mendicancy",
+    "mendicant",
+    "mendicity",
+    "mending",
+    "recommend",
+    "recommendation",
+    "unamended"
+  ],
+  "p2b": [
+    "conocarpus",
+    "conoclinium",
+    "dinoceras",
+    "dinocerata",
+    "dinocerate",
+    "innocence",
+    "innocency",
+    "innocense",
+    "innocent",
+    "innocently",
+    "innocuous",
+    "innoxious",
+    "noc",
+    "nocent",
+    "nociceptive",
+    "noctambulation",
+    "noctambulism",
+    "noctambulist",
+    "noctiluca",
+    "noctilucent",
+    "noctua",
+    "noctuid",
+    "noctuidae",
+    "nocturia",
+    "nocturnal",
+    "nocturnally",
+    "nocturne",
+    "nox",
+    "noxious",
+    "noxiously",
+    "noxiousness",
+    "obnoxious",
+    "obnoxiously",
+    "obnoxiousness"
+  ],
+  "results": {
+    "beneath": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "From below your duke to **beneath** your constable, it will fit any question."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Gabriel had not beheld the sight for more than half a minute, when the vehicle was brought to a standstill just **beneath** his eyes."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "In our diagram, this is indicated by the broken lines, **beneath** the capital letters, converging in sub-branches downwards towards a single point; this point representing a single species, the supposed single parent of our several new sub-genera and genera."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "How class your man?\u2014as better than the most, Or, seeming better, worse **beneath** that cloak?"
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "His brows were drawn into two hard black lines, while his eyes shone out from **beneath** them with a steely glitter."
+      }
+    ],
+    "benefice": [],
+    "beneficed": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "He will even speak well of the bishop, though I tell him it is unnatural in a **beneficed** clergyman; what can one do with a husband who attends so little to the decencies?"
+      }
+    ],
+    "beneficence": [
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "It seems to me that this feature in the case--a right in some person, correlative to the moral obligation--constitutes the specific difference between justice, and generosity or **beneficence**."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Bulstrode\u2019s power was not due simply to his being a country banker, who knew the financial secrets of most traders in the town and could touch the springs of their credit; it was fortified by a **beneficence** that was at once ready and severe\u2014ready to confer obligations, and severe in watching the result."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "Hester had often fancied that Providence had a design of justice and retribution, in endowing the child with this marked propensity; but never, until now, had she bethought herself to ask, whether, linked with that design, there might not likewise be a purpose of mercy and **beneficence**."
+      },
+      {
+        "author": "Thomas Henry Huxley",
+        "work": "Evolution and Ethics",
+        "sentence": "He feeds the secret fire By which the mighty process is maintained, Who sleeps not, is not weary; in whose sight Slow-circling ages are as transient days; Whose work is without labour, whose designs No flaw deforms, no difficulty thwarts, And whose **beneficence** no charge exhausts."
+      },
+      {
+        "author": "Mary Shelley",
+        "work": "Frankenstein",
+        "sentence": "Yet he might not have been so perfectly humane, so thoughtful in his generosity, so full of kindness and tenderness amidst his passion for adventurous exploit, had she not unfolded to him the real loveliness of **beneficence** and made the doing good the end and aim of his soaring ambition."
+      }
+    ],
+    "beneficent": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Considering his position he became wonderfully free from the chronic melancholy which is taking hold of the civilized races with the decline of belief in a **beneficent** Power."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "She longed for work which would be directly **beneficent** like the sunshine and the rain, and now it appeared that she was to live more and more in a virtual tomb, where there was the apparatus of a ghastly labor producing what would never see the light."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "We are escorted on every hand through life by spiritual agents, and a **beneficent** purpose lies in wait for us."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "If the cloud that hangs over the engine were the perspiration of heroic deeds, or as **beneficent** as that which floats over the farmer\u2019s fields, then the elements and Nature herself would cheerfully accompany men on their errands and be their escort."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "I have, however, shewn that men of eminence are by no means so.\u201d (15. \u2018Hereditary Genius,\u2019 1870, p. 330.) Great lawgivers, the founders of **beneficent** religions, great philosophers and discoverers in science, aid the progress of mankind in a far higher degree by their works than by leaving a numerous progeny."
+      }
+    ],
+    "beneficial": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Therefore, merchant, I\u2019ll limit thee this day To seek thy health by **beneficial** help."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "In an improving state of the human mind, the influences are constantly on the increase, which tend to generate in each individual a feeling of unity with all the rest; which feeling, if perfect, would make him never think of, or desire, any **beneficial** condition for himself, in the benefits of which they are not included."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "From experiments which I have tried, I have found that the visits of bees, if not indispensable, are at least highly **beneficial** to the fertilisation of our clovers; but humble-bees alone visit the common red clover (Trifolium pratense), as other bees cannot reach the nectar."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "That is a poor reason for giving up a connection which I think I may say will be mutually **beneficial**."
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "He took with him a bag in which were many instruments and drugs, \u201cthe ghastly paraphernalia of our **beneficial** trade,\u201d as he once called, in one of his lectures, the equipment of a professor of the healing craft."
+      }
+    ],
+    "beneficially": [],
+    "beneficiary": [
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "This giving is flat usurpation, and therefore when the **beneficiary** is ungrateful, as all beneficiaries hate all Timons,[466] not at all considering the value of the gift, but looking back to the greater store it was taken from, I rather sympathize with the **beneficiary**, than with the anger of my lord, Timon."
+      }
+    ],
+    "beneficiate": [],
+    "beneficiation": [],
+    "benefit": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "How can I then return in happy plight That am debarred the **benefit** of rest?"
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "In the ashpit was a heap of potatoes roasting, and a boiling pipkin of charred bread, called \u201ccoffee\u201d, for the **benefit** of whomsoever should call, for Warren\u2019s was a sort of clubhouse, used as an alternative to the inn."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "Utilitarianism, therefore, could only attain its end by the general cultivation of nobleness of character, even if each individual were only benefited by the nobleness of others, and his own, so far as happiness is concerned, were a sheer deduction from the **benefit**."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "In social animals it will adapt the structure of each individual for the **benefit** of the community; if each in consequence profits by the selected change."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "He had not himself attended to the affairs of the Infirmary, though he had a strong interest in whatever was for the **benefit** of Middlemarch, and was most happy to meet the gentlemen present on any public question\u2014\u201cany public question, you know,\u201d Mr."
+      }
+    ],
+    "benelux": [],
+    "benet": [],
+    "probenecid": [],
+    "unbeneficed": [],
+    "culpability": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Her **culpability** lay in her making no attempt to control feeling by subtle and careful inquiry into consequences."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Bulstrode, which on the one hand would have inclined her to desire that the mildest view of his character should be the true one, but on the other, made her the more afraid of seeming to palliate his **culpability**."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "As if the estrangement between them had come of any **culpability** of hers."
+      }
+    ],
+    "culpable": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Lords, take your places; and, I pray you all, Proceed no straiter \u2019gainst our uncle Gloucester Than from true evidence of good esteem He be approved in practice **culpable**."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Could intensity of love justify what might be considered in upright souls as **culpable** reticence?"
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Brooke was really **culpable**; he ought to have hindered it."
+      }
+    ],
+    "culpableness": [],
+    "culpably": [],
+    "culprit": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Especially if there was anything discreditable to be found out concerning another man, Caleb preferred not to know it; and if he had to tell anybody under him that his evil doings were discovered, he was more embarrassed than the **culprit**."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "It must be confessed, however, that the case looks exceedingly grave against the young man, and it is very possible that he is indeed the **culprit**."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "It could have betokened nothing short of the anticipated execution of some noted **culprit**, on whom the sentence of a legal tribunal had but confirmed the verdict of public sentiment."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "An unhappy **culprit**, found guilty of imperfect exercise, approaches at his command."
+      }
+    ],
+    "exculpate": [],
+    "exculpated": [
+      {
+        "author": "Mary Shelley",
+        "work": "Frankenstein",
+        "sentence": "A thousand times rather would I have confessed myself guilty of the crime ascribed to Justine, but I was absent when it was committed, and such a declaration would have been considered as the ravings of a madman and would not have **exculpated** her who suffered through me."
+      }
+    ],
+    "exculpation": [],
+    "exculpatory": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Tess\u2019s voice throughout had hardly risen higher than its opening tone; there had been no **exculpatory** phrase of any kind, and she had not wept."
+      }
+    ],
+    "inculpability": [],
+    "inculpable": [],
+    "inculpableness": [],
+    "inculpate": [],
+    "inculpation": [],
+    "inculpative": [],
+    "inculpatory": [],
+    "mea culpa": [],
+    "defamation": [],
+    "defamatory": [],
+    "defame": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "O comfort-killing night, image of hell, Dim register and notary of shame, Black stage for tragedies and murders fell, Vast sin-concealing chaos, nurse of blame, Blind muffled bawd, dark harbour for **defame**, Grim cave of death, whisp\u2019ring conspirator With close-tongued treason and the ravisher!"
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "Thus are we ministers of God\u2019s own wish: that the world, and men for whom His Son die, will not be given over to monsters, whose very existence would **defame** Him."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "\u2018You are a precious set of people, ain\u2019t you?\u2019 said Uriah, in the same low voice, and breaking out into a clammy heat, which he wiped from his forehead, with his long lean hand, \u2018to buy over my clerk, who is the very scum of society,--as you yourself were, Copperfield, you know it, before anyone had charity on you,--to **defame** me with his lies?"
+      }
+    ],
+    "defamer": [],
+    "fame": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "O how I faint when I of you do write, Knowing a better spirit doth use your name, And in the praise thereof spends all his might, To make me tongue-tied speaking of your **fame**."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "The same may be said of the majority of the great objects of human life--power, for example, or **fame**; except that to each of these there is a certain amount of immediate pleasure annexed, which has at least the semblance of being naturally inherent in them; a thing which cannot be said of money."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Casaubon to become engaged and married: but this learned gentleman was possessed of a fortune; he had assembled his voluminous notes, and had made that sort of reputation which precedes performance,\u2014often the larger part of a man\u2019s **fame**."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "The Carlyles were sitting alone at dinner on a Sunday afternoon at the end of August when a Dumfries carriage drove to the door, and there stepped out of it a young American then unknown to **fame**, but whose influence in his own country equals that of Carlyle in ours, and whose name stands connected with his wherever the English language is spoken."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "Your friendship is dearer to me than any **fame** or reputation."
+      }
+    ],
+    "famed": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "As surely as my soul intends to live With that dread King that took our state upon Him To free us from His Father\u2019s wrathful curse, I do believe that violent hands were laid Upon the life of this thrice-**famed** duke."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "The **famed** theaters, Covent Garden, Drury Lane, the Park, and Tremont,[622] have vainly assisted."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Was it not so, O Timor Tom! thou **famed** leviathan, scarred like an iceberg, who so long did\u2019st lurk in the Oriental straits of that name, whose spout was oft seen from the palmy beach of Ombay?"
+      },
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "He would have had his Erin **famed**, The green flag gloriously unfurled, Her statesmen, bards and warriors raised Before the nations of the World."
+      },
+      {
+        "author": "Thomas Henry Huxley",
+        "work": "Evolution and Ethics",
+        "sentence": "And such thine, in whom Our British Themis gloried with just cause, Immortal Hale! for deep discernment praised, And sound integrity not more, than **famed** For sanctity of manners undefiled."
+      }
+    ],
+    "familial": [],
+    "familiar": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "He nor that affable **familiar** ghost Which nightly gulls him with intelligence, As victors of my silence cannot boast, I was not sick of any fear from thence."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Just before dawn he was assisted in waking by the abnormal reverberation of **familiar** music."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "What means are there of determining which is the acutest of two pains, or the intensest of two pleasurable sensations, except the general suffrage of those who are **familiar** with both?"
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "It is **familiar** to almost every one, that in a flower the relative position of the sepals, petals, stamens, and pistils, as well as their intimate structure, are intelligible on the view that they consist of metamorphosed leaves, arranged in a spire."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Every leaf was at rest in the sunshine, the **familiar** scene was changeless, and seemed to represent the prospect of her life, full of motiveless ease\u2014motiveless, if her own energy could not seek out reasons for ardent action."
+      }
+    ],
+    "familiarisation": [],
+    "familiarise": [
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Je me **familiarise** chaque jour davantage avec l'histoire naturelle et avec sa marche progressive, ce qui me sugg\u00e8re une foule de r\u00e9flexions sur les pas que nous faisons \u00e0 la fois en avant et en arri\u00e8re."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Emma",
+        "sentence": "Weston had his five minutes share of it; but five minutes were enough to **familiarise** the idea to his quickness of mind.-- He saw the advantages of the match, and rejoiced in them with all the constancy of his wife; but the wonder of it was very soon nothing; and by the end of an hour he was not far from believing that he had always foreseen it."
+      }
+    ],
+    "familiarised": [
+      {
+        "author": "Mary Shelley",
+        "work": "Frankenstein",
+        "sentence": "I ought to have **familiarised** the old De Lacey to me, and by degrees to have discovered myself to the rest of his family, when they should have been prepared for my approach."
+      }
+    ],
+    "familiarising": [],
+    "familiarity": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Good Monsieur Lavache, give my Lord Lafew this letter; I have ere now, sir, been better known to you, when I have held **familiarity** with fresher clothes; but I am now, sir, muddied in Fortune\u2019s mood, and smell somewhat strong of her strong displeasure."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "The great aids to idealization in love were present here: occasional observation of her from a distance, and the absence of social intercourse with her\u2014visual **familiarity**, oral strangeness."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Our **familiarity** with the larger domestic animals tends, I think, to mislead us: we see no great destruction falling on them, and we forget that thousands are annually slaughtered for food, and that in a state of nature an equal number would have somehow to be disposed of."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Any services you desire of me will be the more readily rendered if you will avoid a tone of **familiarity** which did not lie in our former intercourse, and can hardly be warranted by more than twenty years of separation."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "The editors of the several volumes will be chosen for their special qualifications in connection with the texts to be issued under their individual supervision, but **familiarity** with the practical needs of the classroom, no less than sound scholarship, will characterize the editing of every book in the series."
+      }
+    ],
+    "familiarization": [],
+    "familiarize": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "In his shrinking from the humiliation of a dependent attitude towards Bulstrode, he began to **familiarize** his imagination with another step even more unlike his remembered self."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "I shut him out on the landing to wait for the answer, and went into my chambers again, in such a nervous state that I was fain to lay the letter down on my breakfast table, and **familiarize** myself with the outside of it a little, before I could resolve to break the seal."
+      }
+    ],
+    "familiarized": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "On the contrary, he would have despised any ostentation of expense; his profession had **familiarized** him with all grades of poverty, and he cared much for those who suffered hardships."
+      },
+      {
+        "author": "Jonathan Swift",
+        "work": "Gulliver's Travels",
+        "sentence": "I soon grew so **familiarized** to the sight of spirits, that after the third or fourth time they gave me no emotion at all: or, if I had any apprehensions left, my curiosity prevailed over them."
+      }
+    ],
+    "familiarizing": [],
+    "familiarly": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Because that I **familiarly** sometimes Do use you for my fool, and chat with you, Your sauciness will jest upon my love, And make a common of my serious hours."
+      },
+      {
+        "author": "Lewis Carroll",
+        "work": "Alice's Adventures in Wonderland",
+        "sentence": "The first question of course was, how to get dry again: they had a consultation about this, and after a few minutes it seemed quite natural to Alice to find herself talking **familiarly** with them, as if she had known them all her life."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "They generally are of two sorts; those composed almost entirely of females, and those mustering none but young vigorous males, or bulls, as they are **familiarly** designated."
+      },
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "Two men in outdoor dress had taken possession of the fireplace and were chatting **familiarly** with Miss Healy and the baritone."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "But the point which drew all eyes, and, as it were, transfigured the wearer\u2014so that both men and women who had been **familiarly** acquainted with Hester Prynne were now impressed as if they beheld her for the first time\u2014was that SCARLET LETTER, so fantastically embroidered and illuminated upon her bosom."
+      }
+    ],
+    "family": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "My gracious lord, here in the parliament Let us assail the **family** of York."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "We were talking about this very **family**, and \u2019twas only last Purification Day in this very world, when the use-money is gied away to the second-best poor folk, you know, shepherd, and I can mind the day because they all had to traypse up to the vestry\u2014yes, this very man\u2019s **family**."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "A person would be more likely to be blamed than applauded for giving his **family** or friends no superiority in good offices over strangers, when he could do so without violating any other duty; and no one thinks it unjust to seek one person in preference to another as a friend, connexion, or companion."
+      },
+      {
+        "author": "Lewis Carroll",
+        "work": "Alice's Adventures in Wonderland",
+        "sentence": "Our **family** always _hated_ cats: nasty, low, vulgar things!"
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Every one must have heard of cases of albinism, prickly skin, hairy bodies, etc., appearing in several members of the same **family**."
+      }
+    ],
+    "famine": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "E\u2019en as the o\u2019erflowing Nilus presageth **famine**."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "--Puisque la **famine** vous chasse d'ici, belle dame, lui dit-il, ayez le courage d'en agir \u00e0 la polonaise: venez me d\u00e9vorer chez moi, et ainsi de suite \u00e0 la ronde, jusqu'\u00e0 ce que vous ayez affam\u00e9 la contr\u00e9e tout enti\u00e8re."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Thus, from the war of nature, from **famine** and death, the most exalted object which we are capable of conceiving, namely, the production of the higher animals, directly follows."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "A lockjaw that bends a man's head back to his heels, hydrophobia that makes him bark at his wife and babes, insanity that makes him eat grass; war, plague, cholera, **famine** indicate a certain ferocity in nature, which, as it had its inlet by human crime, must have its outlet by human suffering."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "Bankruptcy and repudiation are the springboards from which much of our civilization vaults and turns its somersets, but the savage stands on the unelastic plank of **famine**."
+      }
+    ],
+    "famish": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "You are all resolved rather to die than to **famish**?"
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "10:3 The LORD will not suffer the soul of the righteous to **famish**: but he casteth away the substance of the wicked."
+      },
+      {
+        "author": "John Milton",
+        "work": "Paradise Lost",
+        "sentence": "But this usurper his encroachment proud Stays not on Man; to God his tower intends Siege and defiance: Wretched man!what food Will he convey up thither, to sustain Himself and his rash army; where thin air Above the clouds will pine his entrails gross, And **famish** him of breath, if not of bread?"
+      }
+    ],
+    "famished": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I\u2019ll tell you what, you thin man in a censer, I will have you as soundly swinged for this, you bluebottle rogue, you filthy **famished** correctioner, if you be not swinged, I\u2019ll forswear half-kirtles."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "There was the huge **famished** brute, its black muzzle buried in Rucastle\u2019s throat, while he writhed and screamed upon the ground."
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "Having then reached my normal state, I discovered that I was half **famished** with hunger; so making a hasty toilet, I went into the other room."
+      },
+      {
+        "author": "Thomas Henry Huxley",
+        "work": "Evolution and Ethics",
+        "sentence": "Health suffers, and the spirits ebb; the heart Recoils from its own choice--at the full feast Is **famished**--finds no music in the song, No smartness in the jest, and wonders why."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "So expressive it was, of a hopeless and lost creature, that a **famished** traveller, wearied out by lonely wandering in a wilderness, would have remembered home and friends in such a tone before lying down to die."
+      }
+    ],
+    "famishment": [],
+    "famotidine": [],
+    "famous": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "He was **famous**, sir, in his profession, and it was his great right to be so: Gerard de Narbon."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "In Lord Moreton\u2019s **famous** hybrid from a chestnut mare and male quagga, the hybrid, and even the pure offspring subsequently produced from the mare by a black Arabian sire, were much more plainly barred across the legs than is even the pure quagga."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Seated in a **famous** arm-chair and in his best suit, constantly within sight of good cheer, he had a comfortable consciousness of being on the premises, mingled with fleeting suggestions of Sunday and the bar at the Green Man; and he informed Mary Garth that he should not go out of reach of his brother Peter while that poor fellow was above ground."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "When an actor I had, of course, learned all the secrets of making up, and had been **famous** in the green-room for my skill."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "TURPIN, AUTHOR OF \"STORIES FROM AMERICAN HISTORY,\" \"CLASSIC FABLES,\" \"**FAMOUS** PAINTERS,\" ETC."
+      }
+    ],
+    "famously": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I say unto you, what he hath done **famously** he did it to that end."
+      }
+    ],
+    "famulus": [],
+    "infamous": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "O Antony, Nobler than my revolt is **infamous**, Forgive me in thine own particular, But let the world rank me in register A master-leaver and a fugitive."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "I say, sir, we decline to co-operate with a man whose character is not cleared from **infamous** lights cast upon it, not only by reports but by recent actions."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "The world had looked upon him as **infamous**."
+      },
+      {
+        "author": "Joseph Conrad",
+        "work": "Heart of Darkness",
+        "sentence": "I found myself back in the sepulchral city resenting the sight of people hurrying through the streets to filch a little money from each other, to devour their **infamous** cookery, to gulp their unwholesome beer, to dream their insignificant and silly dreams."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "If I ever could reproach her with her **infamous** condition, I would go anywhere to do so."
+      }
+    ],
+    "infamy": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Well, the truth is, Sir John, you live in great **infamy**."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "His meeting with Adrian Singleton had strangely moved him, and he wondered if the ruin of that young life was really to be laid at his door, as Basil Hallward had said to him with such **infamy** of insult."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "No tribe could hold together if murder, robbery, treachery, etc., were common; consequently such crimes within the limits of the same tribe \u201care branded with everlasting **infamy**\u201d (31."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "On the other hand, a penalty which, in our days, would infer a degree of mocking **infamy** and ridicule, might then be invested with almost as stern a dignity as the punishment of death itself."
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "Have you seen that awful den of hellish **infamy**--with the very moonlight alive with grisly shapes, and every speck of dust that whirls in the wind a devouring monster in embryo?"
+      }
+    ],
+    "overfamiliar": [],
+    "subfamily": [],
+    "superfamily": [],
+    "unfamiliar": [
+      {
+        "author": "Joseph Conrad",
+        "work": "Heart of Darkness",
+        "sentence": "Brought from all the recesses of the coast in all the legality of time contracts, lost in uncongenial surroundings, fed on **unfamiliar** food, they sickened, became inefficient, and were then allowed to crawl away and rest."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "For they are only being driven from promontory to cape; and if one coast is no longer enlivened with their jets, then, be sure, some other and remoter strand has been very recently startled by the **unfamiliar** spectacle."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The Time Machine",
+        "sentence": "But people, **unfamiliar** with such speculations as those of the younger Darwin, forget that the planets must ultimately fall back one by one into the parent body."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Silas Marner",
+        "sentence": "Thought had been very busy in Eppie as she listened to the contest between her old long-loved father and this new **unfamiliar** father who had suddenly come to fill the place of that black featureless shadow which had held the ring and placed it on her mother\u2019s finger."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Ball and the Cross",
+        "sentence": "A moment afterwards the engine started, with a throb and leap **unfamiliar** to Turnbull, who had only once been in a motor during a general election, and utterly unknown to MacIan, who in his present mood thought it was the end of the world."
+      }
+    ],
+    "unfamiliarity": [
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Wisdom of Father Brown",
+        "sentence": "No one can calculate the turns of mood in convalescence: but Father Brown's depression must have had a great deal to do with his mere **unfamiliarity** with the sea."
+      }
+    ],
+    "felicia": [],
+    "felicitate": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "In my true heart I find she names my very deed of love; Only she comes too short, that I profess Myself an enemy to all other joys Which the most precious square of sense possesses, And find I am alone **felicitate** In your dear highness\u2019 love."
+      }
+    ],
+    "felicitation": [],
+    "felicitous": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "She also, by a **felicitous** thought, took a handkerchief from her bundle and tied it round her face under her bonnet, covering her chin and half her cheeks and temples, as if she were suffering from toothache."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "The **felicitous** word \u201cdemise,\u201d which had seasonably occurred to him, had raised his spirits even above their usual evening pitch."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "Emerson has passages of noble and pathetic eloquence; he has passages of shrewd and **felicitous** wit; he has crisp epigram; he has passages of exquisitely touched observation of nature."
+      },
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "The man glanced from the lady\u2019s face to the little egg-shaped head and back again; and, almost before he was aware of it, his tongue had found a **felicitous** moment:"
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Persuasion",
+        "sentence": "He had remained in Shropshire, lamenting the blindness of his own pride, and the blunders of his own calculations, till at once released from Louisa by the astonishing and **felicitous** intelligence of her engagement with Benwick."
+      }
+    ],
+    "felicitously": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Brooke read them, seemed **felicitously** worded\u2014surprisingly the right thing, and determined a sequel which he had never before thought of."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "Truly, you did well,\u201d said the Marquis, **felicitously** sensible that such vermin were not to ruffle him, \u201cto see a thief accompanying my carriage, and not open that great mouth of yours."
+      }
+    ],
+    "felicitousness": [],
+    "felicity": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "If thou didst ever hold me in thy heart, Absent thee from **felicity** awhile, And in this harsh world draw thy breath in pain, To tell my story."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "Lowell speaks, he hits the mark with a **felicity** that is almost his own in this generation."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "They flaunt their conjugal **felicity** in one\u2019s face, as if it were the most fascinating of sins."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Dick continued his copying in a state of absolute **felicity**."
+      },
+      {
+        "author": "Jonathan Swift",
+        "work": "Gulliver's Travels",
+        "sentence": "He was then past his prime, being twenty-eight years and three quarters old, of which he had reigned about seven in great **felicity**, and generally victorious."
+      }
+    ],
+    "infelicitous": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "This amazed and enraptured Tess, whose slight experiences had been so **infelicitous** till now; and in her reaction from indignation against the male sex she swerved to excess of honour for Clare."
+      }
+    ],
+    "infelicitously": [],
+    "infelicity": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Casaubon\u2019s words seemed to leave unsaid: what believer sees a disturbing omission or **infelicity**?"
+      }
+    ],
+    "amend": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "If this penetrate, I will consider your music the better; if it do not, it is a vice in her ears which horsehairs and calves\u2019 guts, nor the voice of unpaved eunuch to boot, can never **amend**."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "Unjust laws exist: shall we be content to obey them, or shall we endeavor to **amend** them, and obey them until we have succeeded, or shall we transgress them at once?"
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Littimer. \u2018Gentlemen, I wish you a good day, and hoping you and your families will also see your wickedness, and **amend**!\u2019"
+      },
+      {
+        "author": "Mary Shelley",
+        "work": "Frankenstein",
+        "sentence": "I have no one near me, gentle yet courageous, possessed of a cultivated as well as of a capacious mind, whose tastes are like my own, to approve or **amend** my plans."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "7:3 Thus saith the LORD of hosts, the God of Israel, **Amend** your ways and your doings, and I will cause you to dwell in this place."
+      }
+    ],
+    "amendable": [],
+    "amendatory": [],
+    "amended": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Ambitious love hath so in me offended That barefoot plod I the cold ground upon, With sainted vow my faults to have **amended**."
+      },
+      {
+        "author": "Francis Bacon",
+        "work": "The Essays",
+        "sentence": "So likewise during marriage, is the case much **amended**, as it ought to be if those things were tolerated only for necessity?"
+      }
+    ],
+    "amendment": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "What hope is there of his majesty\u2019s **amendment**?"
+      },
+      {
+        "author": "Francis Bacon",
+        "work": "The Essays",
+        "sentence": "During which time, we had every hour joy of the **amendment** of our sick; who thought themselves cast into some divine pool of healing; they mended so kindly, and so fast."
+      },
+      {
+        "author": "Jonathan Swift",
+        "work": "Gulliver's Travels",
+        "sentence": "I wrote for their **amendment**, and not their approbation."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Emma",
+        "sentence": "Weston's quick **amendment**; and so ended a most satisfactory meeting."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Man Who Was Thursday",
+        "sentence": "I move, as an **amendment**, that Comrade Syme be appointed to the post."
+      }
+    ],
+    "commend": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Those parts of thee that the world\u2019s eye doth view, Want nothing that the thought of hearts can mend: All tongues, the voice of souls, give thee that due, Uttering bare truth, even so as foes **commend**."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Which notwithstanding they cannot handsomely do, without the borrowed help and satire of times past; condemning the vices of their own times, by the expressions of vices in times which they **commend**, which cannot but argue the community of vice in both."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "If you would serve your brother, because it is fit for you to serve him, do not take back your words when you find that prudent people do not **commend** you."
+      },
+      {
+        "author": "Francis Bacon",
+        "work": "The Essays",
+        "sentence": "To this he said, \"You have reason for to **commend** that excellent institution of the Feast of the Family."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "How lovingly and fervently did it **commend** the pretty creature I had won, with all her artless graces best displayed, to my most gentle care!"
+      }
+    ],
+    "commendable": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "So our virtues Lie in th\u2019 interpretation of the time, And power, unto itself most **commendable**, Hath not a tomb so evident as a chair T\u2019 extol what it hath done."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Poorgrass, thus assured, trilled forth a flickering yet **commendable** piece of sentiment, the tune of which consisted of the key-note and another, the latter being the sound chiefly dwelt upon."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Good phrases are surely, and ever were, very **commendable**. \u2014_Justice Shallow_."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "Authors we have, in numbers, who have written out their vein, and who, moved by a **commendable** prudence, sail for Greece or Palestine, follow the trapper into the prairie, or ramble round Algiers, to replenish their merchantable stock."
+      },
+      {
+        "author": "Jonathan Swift",
+        "work": "Gulliver's Travels",
+        "sentence": "He allowed your crimes to be great, but that still there was room for mercy, the most **commendable** virtue in a prince, and for which his majesty was so justly celebrated."
+      }
+    ],
+    "commendation": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Albeit you have deserved High **commendation**, true applause, and love, Yet such is now the Duke\u2019s condition That he misconsters all that you have done."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Such a tenderly-shaped reproach for his previous delay was the one speech in the language that he could pardon for not being **commendation** of his readiness now."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "I expressed my sense of this **commendation**, and said I was very sorry we were going to lose one another."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Emma",
+        "sentence": "Woodhouse's ear; and when their going farther was resolved on, confessed his wish to be made acquainted with the whole village, and found matter of **commendation** and interest much oftener than Emma could have supposed."
+      }
+    ],
+    "emend": [],
+    "emendation": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "[1] This phrase is a conjectural **emendation** of the unintelligible expression, \u201cas the Devil said to the Owl,\u201d used by the natives."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Indeed I think it is one among several cities to which an extreme hyperbole has been applied\u2014\u2018See Rome and die:\u2019 but in your case I would propose an **emendation** and say, See Rome as a bride, and live henceforth as a happy wife."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Persuasion",
+        "sentence": "Every **emendation** of Anne's had been on the side of honesty against importance."
+      }
+    ],
+    "emended": [],
+    "mend": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Those parts of thee that the world\u2019s eye doth view, Want nothing that the thought of hearts can **mend**: All tongues, the voice of souls, give thee that due, Uttering bare truth, even so as foes commend."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "I am afraid I have made a hole with my tongue that my heart will never **mend**."
+      },
+      {
+        "author": "Joseph Conrad",
+        "work": "Heart of Darkness",
+        "sentence": "Or think of a decent young citizen in a toga\u2014perhaps too much dice, you know\u2014coming out here in the train of some prefect, or tax-gatherer, or trader even, to **mend** his fortunes."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Now while Peleg was vainly trying to **mend** a pen with his jack-knife, old Bildad, to my no small surprise, considering that he was such an interested party in these proceedings; Bildad never heeded us, but went on mumbling to himself out of his book, \u201c_Lay_ not up for yourselves treasures upon earth, where moth\u2014"
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "To-morrow will, I hope, **mend** all this; she will be herself at home in Exeter."
+      }
+    ],
+    "mendacious": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Yes\u2014what the **mendacious** family chronicles call extinct in the male line\u2014that is, gone down\u2014gone under."
+      }
+    ],
+    "mendaciously": [],
+    "mendacity": [],
+    "mendel": [],
+    "mendeleev": [],
+    "mendelevium": [],
+    "mendeleyev": [],
+    "mendelian": [],
+    "mendelianism": [],
+    "mendelism": [],
+    "mendelsohn": [],
+    "mendelssohn": [],
+    "mender": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "A trade, sir, that I hope I may use with a safe conscience, which is indeed, sir, a **mender** of bad soles."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "Monsieur the Marquis cast his eyes over the submissive faces that drooped before him, as the like of himself had drooped before Monseigneur of the Court--only the difference was, that these faces drooped merely to suffer and not to propitiate--when a grizzled **mender** of the roads joined the group."
+      }
+    ],
+    "mendicancy": [],
+    "mendicant": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "They probably despised her already; how much more they would despise her in the character of a **mendicant**!"
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Casaubon, too, was the centre of his own world; if he was liable to think that others were providentially made for him, and especially to consider them in the light of their fitness for the author of a \u201cKey to all Mythologies,\u201d this trait is not quite alien to us, and, like the other **mendicant** hopes of mortals, claims some of our pity."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "Our reading is **mendicant** and sycophantic."
+      }
+    ],
+    "mendicity": [],
+    "mending": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Why, this is like the **mending** of highways In summer, where the ways are fair enough."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Some were beginning to consider Oak a \u201cnear\u201d man, for though his condition had thus far improved, he lived in no better style than before, occupying the same cottage, paring his own potatoes, **mending** his stockings, and sometimes even making his bed with his own hands."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Her mamma, who had returned from an excursion to the kitchen, sat on the other side of the small work-table with an air of more entire placidity, until, the clock again giving notice that it was going to strike, she looked up from the lace-**mending** which was occupying her plump fingers and rang the bell."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "So that all the pecuniary outgoes, excepting for washing and **mending**, which for the most part were done out of the house, and their bills have not yet been received,\u2014and these are all and more than all the ways by which money necessarily goes out in this part of the world,\u2014were"
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "All our arguing with him would not avail; let him be, I say: and Heaven have mercy on us all\u2014Presbyterians and Pagans alike\u2014for we are all somehow dreadfully cracked about the head, and sadly need **mending**."
+      }
+    ],
+    "recommend": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Do not stand upon\u2019t.\u2014 We **recommend** to you, tribunes of the people, Our purpose to them, and to our noble consul Wish we all joy and honour."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "He wants me to **recommend** him, or it is to tell me of some little scandal or another connected with my work-people."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "To any ethical student who finds the realization difficult, I **recommend**, as a means of facilitating it, the second of M."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "I did not **recommend** you to paint, my friend."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "I should **recommend** you also to send a note by the cabman to your wife to say that you have thrown in your lot with me."
+      }
+    ],
+    "recommendation": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Peacock\u2019s retirement without further **recommendation** than his own merits and such argument for solid professional acquirement as might be gathered from his having apparently wasted no time on other branches of knowledge."
+      },
+      {
+        "author": "William James",
+        "work": "Pragmatism",
+        "sentence": "His own trade, by the **recommendation** of the rough, ill-mannered, but good-natured Mr."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Micawber\u2019s experience any other **recommendation**, than that she should try to reclaim Mr."
+      },
+      {
+        "author": "Jonathan Swift",
+        "work": "Gulliver's Travels",
+        "sentence": "The king made me a present to the value of about two hundred pounds English, and my protector, his kinsman, as much more, together with a letter of **recommendation** to a friend of his in Lagado, the metropolis."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Emma",
+        "sentence": "The simplicity and cheerfulness of her nature, her contented and grateful spirit, were a **recommendation** to every body, and a mine of felicity to herself."
+      }
+    ],
+    "unamended": [],
+    "conocarpus": [],
+    "conoclinium": [],
+    "dinoceras": [],
+    "dinocerata": [],
+    "dinocerate": [],
+    "innocence": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "And God in justice hath revealed to us The truth and **innocence** of this poor fellow, Which he had thought to have murdered wrongfully."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "--Mademoiselle m'y a forc\u00e9e par des gestes tant\u00f4t suppliants et tant\u00f4t mena\u00e7ants, et puis, ajouta-elle dans toute l'**innocence** de son coeur, j'avais tant de plaisir \u00e0 manger ces mets d\u00e9licats!"
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "So the girls and their mother all walked together, a child on each side of Tess, holding her hand and looking at her meditatively from time to time, as at one who was about to do great things; her mother just behind with the smallest; the group forming a picture of honest beauty flanked by **innocence**, and backed by simple-souled vanity."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "He vehemently contended for her **innocence**, and the remote impersonal passion for her beauty which he had felt before, had passed now into personal devotion, and tender thought of her lot."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "There are several people in the neighbourhood, however, and among them Miss Turner, the daughter of the neighbouring landowner, who believe in his **innocence**, and who have retained Lestrade, whom you may recollect in connection with the Study in Scarlet, to work out the case in his interest."
+      }
+    ],
+    "innocency": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Thou knowest in the state of **innocency** Adam fell, and what should poor Jack Falstaff do in the days of villainy?"
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "But the eye soon gets wonted to it, for the eye and it are effects of one cause; then its **innocency** and benefit appear, and presently, all its energy spent, it pales and dwindles before the revelation of the new hour."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Oh, immortal infancy, and **innocency** of the azure!"
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "20:4 But Abimelech had not come near her: and he said, LORD, wilt thou slay also a righteous nation? 20:5 Said he not unto me, She is my sister? and she, even she herself said, He is my brother: in the integrity of my heart and **innocency** of my hands have I done this."
+      }
+    ],
+    "innocense": [],
+    "innocent": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I know him: he was a botcher\u2019s \u2019prentice in Paris, from whence he was whipped for getting the shrieve\u2019s fool with child, a dumb **innocent** that could not say him nay."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Ne pas respecter un plaisir aussi **innocent**, c'\u00e9tait manquer non-seulement aux devoirs de l'amiti\u00e9, mais encore \u00e0 ceux de l'humanit\u00e9, dans son d\u00e9pit, il ne songeait pas que pour des oreilles musicales il n'y a pas de tortures plus cruelles que d'\u00e9couter une ex\u00e9cution au-dessous du m\u00e9diocre."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Sergeant Troy, being entirely **innocent** of the practice of expectation, was never disappointed."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Peel\u2019s late conduct on the Catholic question, **innocent** of future gold-fields, and of that gorgeous plutocracy which has so nobly exalted the necessities of genteel life."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "However **innocent** he might be, he could not be such an absolute imbecile as not to see that the circumstances were very black against him."
+      }
+    ],
+    "innocently": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Two bowed and toothless old almsmen then looked at each other and chuckled, **innocently** enough; but the sound had a strange weird effect in that place."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Chichely was his Majesty\u2019s coroner, and ended **innocently** with the question, \u201cDon\u2019t you agree with me, Dr."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Belated, and not **innocently**, one bitter winter\u2019s midnight, on the road running between two country towns, the blacksmith half-stupidly felt the deadly numbness stealing over him, and sought refuge in a leaning, dilapidated barn."
+      },
+      {
+        "author": "William James",
+        "work": "Pragmatism",
+        "sentence": "To your house, sir,\" I **innocently** replied."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "\u2018I don\u2019t know that it will be a girl, yet, ma\u2019am,\u2019 said my mother **innocently**."
+      }
+    ],
+    "innocuous": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "He has discovered the art of making fire, by which hard and stringy roots can be rendered digestible, and poisonous roots or herbs **innocuous**."
+      }
+    ],
+    "innoxious": [
+      {
+        "author": "Jane Austen",
+        "work": "Persuasion",
+        "sentence": "Everybody has their taste in noises as well as in other matters; and sounds are quite **innoxious**, or most distressing, by their sort rather than their quantity."
+      }
+    ],
+    "noc": [],
+    "nocent": [],
+    "nociceptive": [],
+    "noctambulation": [],
+    "noctambulism": [],
+    "noctambulist": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Roads, garden-paths, the house-fronts, the barton-walls were warm as hearths, and reflected the noontime temperature into the **noctambulist**\u2019s face."
+      }
+    ],
+    "noctiluca": [],
+    "noctilucent": [],
+    "noctua": [],
+    "noctuid": [],
+    "noctuidae": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "The front-wings of the Bombycidae and **Noctuidae** (11."
+      }
+    ],
+    "nocturia": [],
+    "nocturnal": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "After such a **nocturnal** reconnoitre it is hard to get back to earth, and to believe that the consciousness of such majestic speeding is derived from a tiny human frame."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "On the other hand, cats, from their **nocturnal** rambling habits, cannot be matched, and, although so much valued by women and children, we hardly ever see a distinct breed kept up; such breeds as we do sometimes see are almost always imported from some other country, often from islands."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "What was this **nocturnal** expedition, and why should I go armed?"
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "I am beginning to feel this **nocturnal** existence tell on me."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The Time Machine",
+        "sentence": "But, gradually, the truth dawned on me: that Man had not remained one species, but had differentiated into two distinct animals: that my graceful children of the Upper World were not the sole descendants of our generation, but that this bleached, obscene, **nocturnal** Thing, which had flashed before me, was also heir to all the ages."
+      }
+    ],
+    "nocturnally": [],
+    "nocturne": [
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Le souvenir de la visite **nocturne** de son mari qui lui avait \u00e9t\u00e9 d'abord si p\u00e9nible, lui causa un fr\u00e9missement myst\u00e9rieux auquel succ\u00e9da bient\u00f4t un pieux et doux espoir."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "Play me a **nocturne**, Dorian, and, as you play, tell me, in a low voice, how you have kept your youth."
+      }
+    ],
+    "nox": [],
+    "noxious": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "The dairyman, who had thrown himself into abstraction to better realize the taste, and so divine the particular species of **noxious** weed to which it appertained, suddenly exclaimed\u2014"
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "Even that most intractable of enemies, disease, may be indefinitely reduced in dimensions by good physical and moral education, and proper control of **noxious** influences; while the progress of science holds out a promise for the future of still more direct conquests over this detestable foe."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Lydgate was much worried, and conscious of new elements in his life as **noxious** to him as an inlet of mud to a creature that has been used to breathe and bathe and dart after its illuminated prey in the clearest of waters."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "Instantly the book becomes **noxious**.[17] The guide is a tyrant."
+      },
+      {
+        "author": "Joseph Conrad",
+        "work": "Heart of Darkness",
+        "sentence": "One morning he gave me a packet of papers and a photograph\u2014the lot tied together with a shoe-string. \u2018Keep this for me,\u2019 he said. \u2018This **noxious** fool\u2019 (meaning the manager) \u2018is capable of prying into my boxes when I am not looking.\u2019 In the afternoon I saw him."
+      }
+    ],
+    "noxiously": [],
+    "noxiousness": [],
+    "obnoxious": [
+      {
+        "author": "Thomas Henry Huxley",
+        "work": "Evolution and Ethics",
+        "sentence": "But where all Stand chargeable with guilt, and to the shafts Of wrath **obnoxious**, God may choose His mark, May punish, if He please, the less, to warn The more malignant."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Spenlow in the morning, that I wanted leave of absence for a short time; and as I was not in the receipt of any salary, and consequently was not **obnoxious** to the implacable Jorkins, there was no difficulty about it."
+      },
+      {
+        "author": "Mary Shelley",
+        "work": "Frankenstein",
+        "sentence": "He was a Turkish merchant and had inhabited Paris for many years, when, for some reason which I could not learn, he became **obnoxious** to the government."
+      },
+      {
+        "author": "John Milton",
+        "work": "Paradise Lost",
+        "sentence": "Who aspires, must down as low As high he soared; **obnoxious**, first or last, To basest things."
+      }
+    ],
+    "obnoxiously": [],
+    "obnoxiousness": []
+  }
+}

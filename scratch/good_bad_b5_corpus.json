@@ -1,0 +1,684 @@
+{
+  "dir_map": {
+    "vil": "Dashboard — vil",
+    "viti": "Dashboard — viti",
+    "vulg": "Dashboard — vulg"
+  },
+  "p1": [
+    "advil",
+    "anvil",
+    "coville",
+    "devil",
+    "devilise",
+    "devilish",
+    "devilishly",
+    "devilize",
+    "devilment",
+    "devilry",
+    "deviltry",
+    "evil",
+    "evilly",
+    "evilness",
+    "revile",
+    "revilement",
+    "sevilla",
+    "seville",
+    "vila",
+    "vile",
+    "vilely",
+    "vileness",
+    "vilification",
+    "vilifier",
+    "vilify",
+    "vilipend",
+    "villa",
+    "villa-lobos",
+    "village",
+    "villager",
+    "villahermosa",
+    "villain",
+    "villainage",
+    "villainess",
+    "villainous",
+    "villainousness"
+  ],
+  "p2": [
+    "villainy",
+    "villard",
+    "villein",
+    "villeinage",
+    "villoma",
+    "villon",
+    "villus",
+    "vilna",
+    "vilnius",
+    "vilno",
+    "inviting",
+    "invitingly",
+    "uninviting",
+    "vitiate",
+    "vitiated",
+    "vitiation",
+    "viticulture",
+    "viticulturist",
+    "vitiliginous",
+    "vitiligo",
+    "vitis",
+    "divulge",
+    "divulgement",
+    "divulgence",
+    "vulgar",
+    "vulgarian",
+    "vulgarisation",
+    "vulgarise",
+    "vulgariser",
+    "vulgarism",
+    "vulgarity",
+    "vulgarization",
+    "vulgarize",
+    "vulgarizer",
+    "vulgarly",
+    "vulgate"
+  ],
+  "results": {
+    "advil": [],
+    "anvil": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Here I clip The **anvil** of my sword and do contest As hotly and as nobly with thy love As ever in ambitious strength I did Contend against thy valour."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "The weather was still favourable, the ground ringing under her feet like an **anvil**."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "BOOK I. (_Folio_), CHAPTER I. (_Sperm Whale_).—This whale, among the English of old vaguely known as the Trumpa whale, and the Physeter whale, and the **Anvil** Headed whale, is the present Cachalot of the French, and the Pottsfich of the Germans, and the Macrocephalus of the Long Words."
+      },
+      {
+        "author": "Thomas Henry Huxley",
+        "work": "Evolution and Ethics",
+        "sentence": "Often urged (As often as, libidinous discourse Exhausted, he resorts to solemn themes Of theological and grave import), They gain at last his unreserved assent, Till, hardened his heart's temper in the forge Of lust and on the **anvil** of despair, He slights the strokes of conscience."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "41:7 So the carpenter encouraged the goldsmith, and he that smootheth with the hammer him that smote the **anvil**, saying, It is ready for the sodering: and he fastened it with nails, that it should not be moved."
+      }
+    ],
+    "coville": [],
+    "devil": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "To win me soon to hell my female evil Tempteth my better angel from my side, And would corrupt my saint to be a **devil**, Wooing his purity with her foul pride."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "The gate would not open, try how he would, and knowing there was the **Devil**’s hand in it, he kneeled down."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "I should rather refer it to the **devil**."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "As he stepped up to the cab, he pulled a gold watch from his pocket and looked at it earnestly, ‘Drive like the **devil**,’ he shouted, ‘first to Gross & Hankey’s in Regent Street, and then to the Church of St."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "On my saying, What have I to do with the sacredness of traditions, if I live wholly from within? my friend suggested: \"But these impulses may be from below, not from above.\" I replied: \"They do not seem to me to be such; but if I am the **Devil**'s child, I will live then from the **Devil**.\" No law can be sacred to me but that of my nature."
+      }
+    ],
+    "devilise": [],
+    "devilish": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Having thus far proceeded (Unless thou think’st me **devilish**) is’t not meet That I did amplify my judgement in Other conclusions?"
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "And a **devilish** deal better than too much,” said Mr."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "Why, Watson, let us put their own **devilish** trade-mark upon them."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "That **devilish** Iron Horse, whose ear-rending neigh is heard throughout the town, has muddied the Boiling Spring with his foot, and he it is that has browsed off all the woods on Walden shore, that Trojan horse, with a thousand men in his belly, introduced by mercenary Greeks!"
+      },
+      {
+        "author": "Joseph Conrad",
+        "work": "Heart of Darkness",
+        "sentence": "The wilderness had patted him on the head, and, behold, it was like a ball—an ivory ball; it had caressed him, and—lo!—he had withered; it had taken him, loved him, embraced him, got into his veins, consumed his flesh, and sealed his soul to its own by the inconceivable ceremonies of some **devilish** initiation."
+      }
+    ],
+    "devilishly": [
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "Shouldering one another to get next at the sharpening-stone, were men stripped to the waist, with the stain all over their limbs and bodies; men in all sorts of rags, with the stain upon those rags; men **devilishly** set off with spoils of women’s lace and silk and ribbon, with the stain dyeing those trifles through and through."
+      }
+    ],
+    "devilize": [],
+    "devilment": [],
+    "devilry": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Moreover, by chance or by **devilry**, the ministrant was antecedently made interesting by being a handsome stranger who had evidently seen better days."
+      },
+      {
+        "author": "Joseph Conrad",
+        "work": "Heart of Darkness",
+        "sentence": "Don’t you know the **devilry** of lingering starvation, its exasperating torment, its black thoughts, its sombre and brooding ferocity?"
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "Here is a fellow, who, infected by the most pestilent and blasphemous code of **devilry** that ever was known, abandoned his property to the vilest scum of the earth that ever did murder by wholesale, and you ask me why I am sorry that a man who instructs youth knows him?"
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Wisdom of Father Brown",
+        "sentence": "You do it at your own peril,\" he said; \"but wouldn't you be an atheist to keep sane in all this **devilry**?"
+      }
+    ],
+    "deviltry": [],
+    "evil": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Not from the stars do I my judgement pluck, And yet methinks I have astronomy, But not to tell of good, or **evil** luck, Of plagues, of dearths, or seasons’ quality, Nor can I fortune to brief minutes tell; Pointing to each his thunder, rain and wind, Or say with princes if it shall go well By oft predict that I in heaven find."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Yes,” added Joseph, beginning to feel like a man in the Bible; “for **evil** do thrive so in these times that ye may be as much deceived in the cleanest shaved and whitest shirted man as in the raggedest tramp upon the turnpike, if I may term it so."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "But is utility the only creed which is able to furnish us with excuses for **evil** doing, and means of cheating our own conscience?"
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "If a fair balance be struck between the good and **evil** caused by each part, each will be found on the whole advantageous."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "But I shall not therefore drop one iota of my convictions, or cease to identify myself with that truth which an **evil** generation hates."
+      }
+    ],
+    "evilly": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "O monument And wonder of good deeds **evilly** bestowed!"
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "The figure that now stood by its bows was tall and swart, with one white tooth **evilly** protruding from its steel-like lips."
+      }
+    ],
+    "evilness": [],
+    "revile": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "And did not she herself **revile** me there?"
+      },
+      {
+        "author": "Joseph Conrad",
+        "work": "Heart of Darkness",
+        "sentence": "They had no heart to grin, or even to **revile** me: but I believe they thought me gone mad—with fright, maybe."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "22:28 Thou shalt not **revile** the gods, nor curse the ruler of thy people."
+      },
+      {
+        "author": "John Milton",
+        "work": "Paradise Lost",
+        "sentence": "To whom The gracious Judge without **revile** replied."
+      }
+    ],
+    "revilement": [],
+    "sevilla": [],
+    "seville": [
+      {
+        "author": "Walt Whitman",
+        "work": "Leaves of Grass",
+        "sentence": "You lithe matador in the arena at **Seville**!"
+      }
+    ],
+    "vila": [],
+    "vile": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "No longer mourn for me when I am dead, Than you shall hear the surly sullen bell Give warning to the world that I am fled From this **vile** world with vilest worms to dwell: Nay if you read this line, remember not, The hand that writ it, for I love you so, That I in your sweet thoughts would be forgot, If thinking on me then should make you woe."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "He had a high chirping voice and a **vile** accent."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "Hence, you see, my double deduction that you had been out in **vile** weather, and that you had a particularly malignant boot-slitting specimen of the London slavey."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "A hideous Jew, in the most amazing waistcoat I ever beheld in my life, was standing at the entrance, smoking a **vile** cigar."
+      },
+      {
+        "author": "Joseph Conrad",
+        "work": "Heart of Darkness",
+        "sentence": "It seemed to me I had never breathed an atmosphere so **vile**, and I turned mentally to Kurtz for relief—positively for relief. ‘Nevertheless I think Mr."
+      }
+    ],
+    "vilely": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "On safeguard he came to me, and did curse Against the Volsces, for they had so **vilely** Yielded the town."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "But it was the constant shadow of my presence, the closest propinquity of the man whom he had most **vilely** wronged, and who had grown to exist only by this perpetual poison of the direst revenge!"
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "The place smells so **vilely**,” said the latter as we came in."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "1:21 Ye mountains of Gilboa, let there be no dew, neither let there be rain, upon you, nor fields of offerings: for there the shield of the mighty is **vilely** cast away, the shield of Saul, as though he had not been anointed with oil."
+      }
+    ],
+    "vileness": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Good alone Is good without a name; **vileness** is so: The property by what it is should go, Not by the title."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "The coarse brawl, the loathsome den, the crude violence of disordered life, the very **vileness** of thief and outcast, were more vivid, in their intense actuality of impression, than all the gracious shapes of art, the dreamy shadows of song."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "Wilson laid his hand on the shoulder of a pale young man beside him—“I have sought, I say, to persuade this godly youth, that he should deal with you, here in the face of Heaven, and before these wise and upright rulers, and in hearing of all the people, as touching the **vileness** and blackness of your sin."
+      }
+    ],
+    "vilification": [],
+    "vilifier": [],
+    "vilify": [
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "Let us not **vilify** but raise it to that standard."
+      }
+    ],
+    "vilipend": [],
+    "villa": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "The Herons, though an ordinary **villa**, stood in its own grounds, and was certainly the last place in which one would have expected to find lodgings, so private was its appearance."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Then came the moment of transition; it was with the sense of promotion he had when he, an orphan educated at a commercial charity-school, was invited to a fine **villa** belonging to Mr."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "It is a _bijou_ **villa**, with a garden at the back, but built out in front right up to the road, two stories."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "We heard what the rich man said, we knew of his **villa**, his grove, his wine, and his company, but the provocation and point of the invitation came out of these beguiling stars."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "After a few years he could not endure to be long out of England, and gave up the **villa** that he had shared at Trouville with Lord Henry, as well as the little white walled-in house at Algiers where they had more than once spent the winter."
+      }
+    ],
+    "villa-lobos": [],
+    "village": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "And to that end I have been with Sir Oliver Martext, the vicar of the next **village**, who hath promised to meet me in this place of the forest and to couple us."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Au fond, le **village**; un peu à droite, l'église et le clocher, au-dessus duquel, de cette hauteur, le regard se glisse au loin."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "The practice of divination by Bible and key, the regarding of valentines as things of serious import, the shearing-supper, and the harvest-home, have, too, nearly disappeared in the wake of the old houses; and with them have gone, it is said, much of that love of fuddling to which the **village** at one time was notoriously prone."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Young women of such birth, living in a quiet country-house, and attending a **village** church hardly larger than a parlor, naturally regarded frippery as the ambition of a huckster’s daughter."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "A series of disgraceful brawls took place, two of which ended in the police-court, until at last he became the terror of the **village**, and the folks would fly at his approach, for he is a man of immense strength, and absolutely uncontrollable in his anger."
+      }
+    ],
+    "villager": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Till then, my noble friend, chew upon this: Brutus had rather be a **villager** Than to repute himself a son of Rome Under these hard conditions as this time Is like to lay upon us."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "She reassured herself by a remembrance that the path was public, and that the traveller was probably some **villager** returning home; regretting, at the same time, that the meeting should be about to occur in the darkest point of her route, even though only just outside her own door."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "I was not only nearer to some of those which commonly frequent the garden and the orchard, but to those wilder and more thrilling songsters of the forest which never, or rarely, serenade a **villager**,—the wood-thrush, the veery, the scarlet tanager, the field-sparrow, the whippoorwill, and many others."
+      },
+      {
+        "author": "Thomas Henry Huxley",
+        "work": "Evolution and Ethics",
+        "sentence": "Even in the spring and play-time of the year That calls the unwonted **villager** abroad With all her little ones, a sportive train, To gather king-cups in the yellow mead, And prank their hair with daisies, or to pick A cheap but wholesome salad from the brook, These shades are all my own."
+      }
+    ],
+    "villahermosa": [],
+    "villain": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "He hath out-**villain**’d villainy so far that the rarity redeems him."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "He had sunk from his modest elevation as pastoral king into the very slime-pits of Siddim; but there was left to him a dignified calm he had never before known, and that indifference to fate which, though it often makes a **villain** of a man, is the basis of his sublimity when it does not."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "It seems to me, Ryder, that there is the making of a very pretty **villain** in you."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "An English king, the last of the Plantagenet line, the hero--or **villain**--of Shakespeare's historical play, Richard III.]"
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "What is yonder undetected **villain**’s marble mansion with a door-plate for a waif; what is that but a Fast-Fish?"
+      }
+    ],
+    "villainage": [],
+    "villainess": [],
+    "villainous": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I’ll tell thee, Charles, it is the stubbornest young fellow of France, full of ambition, an envious emulator of every man’s good parts, a secret and **villainous** contriver against me his natural brother."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "I tell ye what it is, men”—cried Stubb to his crew—“it’s against my religion to get mad; but I’d like to eat that **villainous** Yarman—Pull—won’t ye?"
+      },
+      {
+        "author": "William James",
+        "work": "Pragmatism",
+        "sentence": "Andrew,\" repeated he, for the third time, \"avoid evil communication, and get thee gone from Blackwall, as fast as your legs can carry you--for, there's **villainous** bad company just landed here--wicked enough to spoil even the immaculate Mr."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "I thought him looking as **villainous** as ever, and I replied that I saw no change in him."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Man Who Was Thursday",
+        "sentence": "He had only to snap the thread of a rash vow made to a **villainous** society, and all his life could be as open and sunny as the square beneath him."
+      }
+    ],
+    "villainousness": [],
+    "villainy": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "He hath out-villain’d **villainy** so far that the rarity redeems him."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "So I said, ‘Mistress Everdene, there’s places empty, and there’s gifted men willing; but the spite’—no, not the spite—I didn’t say spite—‘but the **villainy** of the contrarikind,’ I said (meaning womankind), ‘keeps ’em out.’ That wasn’t too strong for her, say?"
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "There has been some **villainy** here,” said Holmes; “this beauty has guessed Miss Hunter’s intentions and has carried his victim off."
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "This looked like some new scheme of **villainy**...."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The Time Machine",
+        "sentence": "I wondered vaguely what foul **villainy** it might be that the Morlocks did under the new moon."
+      }
+    ],
+    "villard": [],
+    "villein": [],
+    "villeinage": [],
+    "villoma": [],
+    "villon": [],
+    "villus": [],
+    "vilna": [],
+    "vilnius": [],
+    "vilno": [],
+    "inviting": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "No it was builded far from accident, It suffers not in smiling pomp, nor falls Under the blow of thralled discontent, Whereto th’ **inviting** time our fashion calls: It fears not policy that heretic, Which works on leases of short-numbered hours, But all alone stands hugely politic, That it nor grows with heat, nor drowns with showers."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Doubtless; but I fear that my young relative Will Ladislaw is chiefly determined in his aversion to these callings by a dislike to steady application, and to that kind of acquirement which is needful instrumentally, but is not charming or immediately **inviting** to self-indulgent taste."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "They are the kings of the world who give the color of their present thought to all nature and all art, and persuade men, by the cheerful serenity of their carrying the matter, that this thing which they do is the apple which the ages have desired to pluck, now at last ripe, and **inviting** nations to the harvest."
+      },
+      {
+        "author": "Joseph Conrad",
+        "work": "Heart of Darkness",
+        "sentence": "At that time there were many blank spaces on the earth, and when I saw one that looked particularly **inviting** on a map (but they all look that) I would put my finger on it and say, ‘When I grow up I will go there.’ The North Pole was one of these places, I remember."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Hearing this, the captain vowed that they were the grateful parties (meaning himself and mate) and concluded by **inviting** Stubb down into his cabin to drink a bottle of Bordeaux."
+      }
+    ],
+    "invitingly": [
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "But presently I came to a smoky light proceeding from a low, wide building, the door of which stood **invitingly** open."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "The whole of his lank cheek was **invitingly** before me, and I struck it with my open hand with that force that my fingers tingled as if I had burnt them."
+      }
+    ],
+    "uninviting": [
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Ball and the Cross",
+        "sentence": "It was a sufficiently **uninviting** one; nothing so far as could be seen but a steep and shelving bank of shingle, made of loose little pebbles such as children like, but slanting up higher than a house."
+      }
+    ],
+    "vitiate": [],
+    "vitiated": [
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "To inquire how far the bad effects of this deficiency have been mitigated in practice, or to what extent the moral beliefs of mankind have been **vitiated** or made uncertain by the absence of any distinct recognition of an ultimate standard, would imply a complete survey and criticism of past and present ethical doctrine."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "This is generally attributed to **vitiated** instincts; but how many cultivated plants display the utmost vigour, and yet rarely or never seed!"
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "Now we know only a few laws, and our result is **vitiated**, not, of course, by any confusion or irregularity in Nature, but by our ignorance of essential elements in the calculation."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "There was excellent blood in his veins—royal stuff; though sadly **vitiated**, I fear, by the cannibal propensity he nourished in his untutored youth."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "As he possessed no higher attribute, and neither sacrificed nor **vitiated** any spiritual endowment by devoting all his energies and ingenuities to subserve the delight and profit of his maw, it always pleased and satisfied me to hear him expatiate on fish, poultry, and butcher’s meat, and the most eligible methods of preparing them for the table."
+      }
+    ],
+    "vitiation": [],
+    "viticulture": [],
+    "viticulturist": [],
+    "vitiliginous": [],
+    "vitiligo": [],
+    "vitis": [],
+    "divulge": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Well, I will take him, then torture my wife, pluck the borrowed veil of modesty from the so-seeming Mistress Page, **divulge** Page himself for a secure and wilful Actaeon, and to these violent proceedings all my neighbours shall cry aim. [_Clock strikes_.] The clock gives me my cue, and my assurance bids me search."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "I have thought that Walden Pond would be a good place for business, not solely on account of the railroad and the ice trade; it offers advantages which it may not be good policy to **divulge**; it is a good port and a good foundation."
+      }
+    ],
+    "divulgement": [],
+    "divulgence": [],
+    "vulgar": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "How can my Muse want subject to invent While thou dost breathe that pour’st into my verse, Thine own sweet argument, too excellent, For every **vulgar** paper to rehearse?"
+      },
+      {
+        "author": "Lewis Carroll",
+        "work": "Alice's Adventures in Wonderland",
+        "sentence": "Our family always _hated_ cats: nasty, low, **vulgar** things!"
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "But her feeling towards the **vulgar** rich was a sort of religious hatred: they had probably made all their money out of high retail prices, and Mrs."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "Had there been women in the house, I should have suspected a mere **vulgar** intrigue."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "He is to resist the **vulgar** prosperity that retrogrades ever to barbarism, by preserving and communicating heroic sentiments, noble biographies, melodious verse, and the conclusions of history."
+      }
+    ],
+    "vulgarian": [],
+    "vulgarisation": [],
+    "vulgarise": [],
+    "vulgariser": [],
+    "vulgarism": [],
+    "vulgarity": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "He did not mean to think of furniture at present; but whenever he did so it was to be feared that neither biology nor schemes of reform would lift him above the **vulgarity** of feeling that there would be an incompatibility in his furniture not being of the best."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "**Vulgarity**, ignorance, misapprehension, are old acquaintances."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "They affect us just as **vulgarity** affects us."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Emma",
+        "sentence": "How can she find any appellation for them, deep enough in familiar **vulgarity**?"
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Ball and the Cross",
+        "sentence": "All the old blackcoated bustle with its cockney vivacity and **vulgarity** had disappeared."
+      }
+    ],
+    "vulgarization": [],
+    "vulgarize": [],
+    "vulgarizer": [],
+    "vulgarly": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "First, for this woman, To justify this worthy nobleman, So **vulgarly** and personally accused, Her shall you hear disproved to her eyes, Till she herself confess it."
+      }
+    ],
+    "vulgate": []
+  }
+}

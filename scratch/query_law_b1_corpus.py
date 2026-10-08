@@ -1,48 +1,54 @@
+# -*- coding: utf-8 -*-
 import sqlite3
 import json
+import re
 
-conn = sqlite3.connect('main app/corpus/citation_corpus.db')
-c = conn.cursor()
+with open('scratch/law_words.json', encoding='utf-8') as f:
+    d = json.load(f)['words_by_root']
 
-words = [
-    # arbitr (18)
-    'arbitrable', 'arbitrage', 'arbitrager', 'arbitrageur', 'arbitral', 'arbitrament', 'arbitrarily', 'arbitrariness', 'arbitrary', 'arbitrate', 'arbitration', 'arbitrational', 'arbitrative', 'arbitrator', 'arbitrement', 'nonarbitrable', 'nonarbitrary', 'unarbitrary',
-    # crim (46)
-    'crime', 'crimea', 'criminal', 'criminalisation', 'criminalise', 'criminalism', 'criminality', 'criminalization', 'criminalize', 'criminally', 'criminalness', 'criminate', 'criminative', 'criminatory', 'criminological', 'criminologist', 'criminology', 'crimson', 'crimson-magenta', 'crimson-purple', 'crimson-yellow', 'decriminalisation', 'decriminalise', 'decriminalization', 'decriminalize', 'discriminable', 'discriminate', 'discriminating', 'discrimination', 'discriminative', 'discriminator', 'discriminatory', 'encrimson', 'incriminate', 'incriminating', 'incriminatingly', 'incrimination', 'incriminatory', 'indiscriminate', 'indiscriminately', 'indiscriminating', 'recriminate', 'recrimination', 'recriminative', 'recriminatory', 'undiscriminating',
-    # damn (8)
-    'damn', 'damnable', 'damnably', 'damnation', 'damnatory', 'damned', 'damnify', 'damning',
-    # fisc (5)
-    'confiscate', 'confiscation', 'fisc', 'fiscal', 'fiscally'
-]
+b1_words = d['jud'] + d['jur'] + d['lic'] + d['litig']
+print(f"Batch 1 words: {len(b1_words)}")
 
-print(f"Total target words: {len(words)}")
+db_path = 'main app/corpus/citation_corpus.db'
+conn = sqlite3.connect(db_path)
+cur = conn.cursor()
 
-corpus_hits = {}
-for w in words:
-    term = w.replace('-', ' ')
-    search_q = f'"{term}"'
+results = {}
+for w in b1_words:
+    clean_w = w.replace('-', ' ')
+    query = f'"{clean_w}"'
     try:
-        c.execute('''
-            SELECT s.author, s.work, s.sentence
-            FROM sentences_fts f
-            JOIN sentences s ON f.rowid = s.id
-            WHERE sentences_fts MATCH ?
-        ''', (search_q,))
-        rows = c.fetchall()
+        cur.execute('''
+            SELECT s.author, s.work, s.sentence 
+            FROM sentences_fts f 
+            JOIN sentences s ON f.rowid = s.id 
+            WHERE f.sentence MATCH ? LIMIT 150
+        ''', (query,))
+        rows = cur.fetchall()
     except Exception as e:
         rows = []
-    by_author = {}
-    for auth, work, sent in rows:
-        if auth not in by_author and 30 < len(sent) < 400:
-            by_author[auth] = {'work': work, 'sentence': sent}
-    corpus_hits[w] = by_author
 
-with open('scratch/corpus_hits_law_b1.json', 'w', encoding='utf-8') as f:
-    json.dump(corpus_hits, f, ensure_ascii=False, indent=2)
+    seen = set()
+    dedup = []
+    pattern = re.compile(rf'\b{re.escape(clean_w)}\b', re.IGNORECASE)
+    for a, wrk, st in rows:
+        if a not in seen:
+            if pattern.search(st):
+                bolded_sentence = pattern.sub(lambda m: f'**{m.group(0)}**', st)
+                seen.add(a)
+                dedup.append({
+                    'author': a,
+                    'work': wrk,
+                    'sentence': bolded_sentence
+                })
+                if len(dedup) == 5:
+                    break
+    results[w] = dedup
 
-counts = {w: len(corpus_hits[w]) for w in words}
-print(f"Words with >= 3 distinct authors in corpus: {sum(1 for c in counts.values() if c >= 3)} / {len(words)}")
-need_quotes = [w for w, count in counts.items() if count < 3]
-print(f"Words with < 3 authors in corpus ({len(need_quotes)}):")
-for w in need_quotes:
-    print(f"  {w:20}: {counts[w]} authors")
+found_count = sum(1 for w, v in results.items() if len(v) >= 3)
+print(f"Batch 1 words with >=3 corpus hits: {found_count} / {len(b1_words)}")
+
+with open('scratch/law_b1_corpus_hits.json', 'w', encoding='utf-8') as f:
+    json.dump(results, f, ensure_ascii=False, indent=2)
+
+print("Saved to scratch/law_b1_corpus_hits.json")

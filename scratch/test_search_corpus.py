@@ -1,19 +1,30 @@
-import sqlite3
-
+import sqlite3, sys
+sys.stdout.reconfigure(encoding='utf-8')
 conn = sqlite3.connect('main app/corpus/citation_corpus.db')
-c = conn.cursor()
+cur = conn.cursor()
 
-def search_term(t):
-    try:
-        c.execute('SELECT s.author, s.work, s.sentence FROM sentences s JOIN sentences_fts f ON s.id = f.rowid WHERE f.sentence MATCH ? LIMIT 10', (f'"{t}"',))
-        res = c.fetchall()
-        print(f'Term {t}: {len(res)} hits')
-        for a, w, s in res[:3]:
-            print(f'  {a} ({w}): {s[:100]}...')
-    except Exception as e:
-        print(f'Error searching {t}: {e}')
+def search(w):
+    cur.execute('''
+        SELECT s.author, s.work, s.sentence 
+        FROM sentences_fts f 
+        JOIN sentences s ON f.rowid = s.id 
+        WHERE f.sentence MATCH ? LIMIT 10
+    ''', (f'"{w}"',))
+    rows = cur.fetchall()
+    print(f'=== {w} ({len(rows)} hits) ===')
+    seen = set()
+    for a, wrk, st in rows:
+        if a not in seen:
+            seen.add(a)
+            clean_s = ' '.join(st.split())
+            print(f'  {a} | {wrk} | {clean_s[:90]}...')
 
-for t in ['antacid', 'tacit', 'taciturn', 'tacitus', 'taco', 'tacoma', 'taconite', 'setaceous', 'crayfish', 'poplar']:
-    search_term(t)
-
-conn.close()
+words = [
+    'fallibility', 'fallible', 'fallout', 'falseness', 'falsetto', 
+    'falsification', 'falsify', 'falsity', 'falstaff', 'infallibility', 
+    'unfaltering', 'unfalteringly', 'approbate', 'approbation', 
+    'approbative', 'approbatory', 'disapprobation', 'improbability', 
+    'improbable', 'opprobrious', 'opprobrium'
+]
+for w in words:
+    search(w)

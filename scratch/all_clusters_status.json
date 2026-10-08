@@ -1,0 +1,422 @@
+{
+  "Cluster Action": {
+    "total": 1262,
+    "problem": 0,
+    "pristine": 1262,
+    "pass": true,
+    "dashboards": 20
+  },
+  "Cluster Action & State": {
+    "total": 1082,
+    "problem": 0,
+    "pristine": 1082,
+    "pass": true,
+    "dashboards": 26
+  },
+  "Cluster Anatomy & Clinical Medicine": {
+    "total": 394,
+    "problem": 0,
+    "pristine": 394,
+    "pass": true,
+    "dashboards": 25
+  },
+  "Cluster Animal & Plant": {
+    "total": 514,
+    "problem": 0,
+    "pristine": 514,
+    "pass": true,
+    "dashboards": 17
+  },
+  "Cluster Animal Adjectives & Biological": {
+    "total": 254,
+    "problem": 0,
+    "pristine": 254,
+    "pass": true,
+    "dashboards": 13
+  },
+  "Cluster Asking & Seeking": {
+    "total": 389,
+    "problem": 0,
+    "pristine": 389,
+    "pass": true,
+    "dashboards": 11
+  },
+  "Cluster Binding": {
+    "total": 342,
+    "problem": 0,
+    "pristine": 342,
+    "pass": true,
+    "dashboards": 11
+  },
+  "Cluster Body": {
+    "total": 551,
+    "problem": 0,
+    "pristine": 551,
+    "pass": true,
+    "dashboards": 24
+  },
+  "Cluster Body & State": {
+    "total": 110,
+    "problem": 0,
+    "pristine": 110,
+    "pass": true,
+    "dashboards": 9
+  },
+  "Cluster Botany, Minerals & Elements": {
+    "total": 477,
+    "problem": 0,
+    "pristine": 477,
+    "pass": true,
+    "dashboards": 21
+  },
+  "Cluster Building & Dwelling": {
+    "total": 113,
+    "problem": 0,
+    "pristine": 113,
+    "pass": true,
+    "dashboards": 9
+  },
+  "Cluster Carrying": {
+    "total": 535,
+    "problem": 0,
+    "pristine": 535,
+    "pass": true,
+    "dashboards": 6
+  },
+  "Cluster Clothing & Covering": {
+    "total": 179,
+    "problem": 0,
+    "pristine": 179,
+    "pass": true,
+    "dashboards": 8
+  },
+  "Cluster Color & Appearance": {
+    "total": 154,
+    "problem": 0,
+    "pristine": 154,
+    "pass": true,
+    "dashboards": 11
+  },
+  "Cluster Death": {
+    "total": 176,
+    "problem": 0,
+    "pristine": 176,
+    "pass": true,
+    "dashboards": 7
+  },
+  "Cluster Destruction": {
+    "total": 171,
+    "problem": 0,
+    "pristine": 171,
+    "pass": true,
+    "dashboards": 12
+  },
+  "Cluster Emotion": {
+    "total": 677,
+    "problem": 0,
+    "pristine": 677,
+    "pass": true,
+    "dashboards": 18
+  },
+  "Cluster Equality": {
+    "total": 133,
+    "problem": 0,
+    "pristine": 133,
+    "pass": true,
+    "dashboards": 5
+  },
+  "Cluster Faith": {
+    "total": 92,
+    "problem": 0,
+    "pristine": 92,
+    "pass": true,
+    "dashboards": 3
+  },
+  "Cluster Fire, Heat & Ash": {
+    "total": 358,
+    "problem": 0,
+    "pristine": 358,
+    "pass": true,
+    "dashboards": 10
+  },
+  "Cluster Food, Eating & Drink": {
+    "total": 392,
+    "problem": 0,
+    "pristine": 392,
+    "pass": true,
+    "dashboards": 13
+  },
+  "Cluster General": {
+    "total": 292,
+    "problem": 0,
+    "pristine": 292,
+    "pass": true,
+    "dashboards": 6
+  },
+  "Cluster Giving & Receiving": {
+    "total": 88,
+    "problem": 0,
+    "pristine": 88,
+    "pass": true,
+    "dashboards": 4
+  },
+  "Cluster Good & Bad": {
+    "total": 654,
+    "problem": 0,
+    "pristine": 654,
+    "pass": true,
+    "dashboards": 17
+  },
+  "Cluster Greek-Latin Hybrid": {
+    "total": 820,
+    "dashboards": 13,
+    "problem": 820,
+    "pristine": 0,
+    "pass": false
+  },
+  "Cluster Holding": {
+    "total": 712,
+    "dashboards": 13,
+    "problem": 712,
+    "pristine": 0,
+    "pass": false
+  },
+  "Cluster Law": {
+    "total": 678,
+    "dashboards": 12,
+    "problem": 0,
+    "pristine": 678,
+    "pass": true
+  },
+  "Cluster Law, Justice & Feudal": {
+    "total": 360,
+    "problem": 0,
+    "pristine": 360,
+    "pass": true,
+    "dashboards": 16
+  },
+  "Cluster Life": {
+    "total": 876,
+    "dashboards": 10,
+    "problem": 876,
+    "pristine": 0,
+    "pass": false
+  },
+  "Cluster Light": {
+    "total": 217,
+    "problem": 0,
+    "pristine": 217,
+    "pass": true,
+    "dashboards": 9
+  },
+  "Cluster Mind & Knowledge": {
+    "total": 888,
+    "problem": 0,
+    "pristine": 888,
+    "pass": true,
+    "dashboards": 14
+  },
+  "Cluster Motion": {
+    "total": 1552,
+    "problem": 0,
+    "pristine": 1552,
+    "pass": true,
+    "dashboards": 30
+  },
+  "Cluster Movement & Speed": {
+    "total": 685,
+    "problem": 0,
+    "pristine": 685,
+    "pass": true,
+    "dashboards": 21
+  },
+  "Cluster Nature": {
+    "total": 952,
+    "dashboards": 29,
+    "problem": 952,
+    "pristine": 0,
+    "pass": false
+  },
+  "Cluster Number & Measure": {
+    "total": 744,
+    "dashboards": 15,
+    "problem": 744,
+    "pristine": 0,
+    "pass": false
+  },
+  "Cluster Objects & Forms": {
+    "total": 298,
+    "problem": 0,
+    "pristine": 298,
+    "pass": true,
+    "dashboards": 11
+  },
+  "Cluster Order": {
+    "total": 542,
+    "problem": 0,
+    "pristine": 542,
+    "pass": true,
+    "dashboards": 11
+  },
+  "Cluster Placing": {
+    "total": 1093,
+    "dashboards": 9,
+    "problem": 1093,
+    "pristine": 0,
+    "pass": false
+  },
+  "Cluster Power": {
+    "total": 428,
+    "problem": 0,
+    "pristine": 428,
+    "pass": true,
+    "dashboards": 10
+  },
+  "Cluster Quantity": {
+    "total": 762,
+    "dashboards": 17,
+    "problem": 762,
+    "pristine": 0,
+    "pass": false
+  },
+  "Cluster Sacred": {
+    "total": 228,
+    "problem": 0,
+    "pristine": 228,
+    "pass": true,
+    "dashboards": 10
+  },
+  "Cluster Sending": {
+    "total": 762,
+    "dashboards": 10,
+    "problem": 762,
+    "pristine": 0,
+    "pass": false
+  },
+  "Cluster Senses & Perception": {
+    "total": 298,
+    "problem": 0,
+    "pristine": 298,
+    "pass": true,
+    "dashboards": 11
+  },
+  "Cluster Separation & Loosening": {
+    "total": 952,
+    "dashboards": 10,
+    "problem": 952,
+    "pristine": 0,
+    "pass": false
+  },
+  "Cluster Sight": {
+    "total": 424,
+    "problem": 0,
+    "pristine": 424,
+    "pass": true,
+    "dashboards": 10
+  },
+  "Cluster Sleep, Rest & Stillness": {
+    "total": 78,
+    "problem": 0,
+    "pristine": 78,
+    "pass": true,
+    "dashboards": 6
+  },
+  "Cluster Society": {
+    "total": 916,
+    "dashboards": 22,
+    "problem": 916,
+    "pristine": 0,
+    "pass": false
+  },
+  "Cluster Space & Environment": {
+    "total": 740,
+    "dashboards": 24,
+    "problem": 740,
+    "pristine": 0,
+    "pass": false
+  },
+  "Cluster Speech": {
+    "total": 363,
+    "problem": 0,
+    "pristine": 363,
+    "pass": true,
+    "dashboards": 15
+  },
+  "Cluster Speech & Communication": {
+    "total": 896,
+    "dashboards": 16,
+    "problem": 895,
+    "pristine": 1,
+    "pass": false
+  },
+  "Cluster Structure": {
+    "total": 718,
+    "dashboards": 16,
+    "problem": 718,
+    "pristine": 0,
+    "pass": false
+  },
+  "Cluster Thought": {
+    "total": 397,
+    "problem": 0,
+    "pristine": 397,
+    "pass": true,
+    "dashboards": 11
+  },
+  "Cluster Time": {
+    "total": 381,
+    "problem": 0,
+    "pristine": 381,
+    "pass": true,
+    "dashboards": 12
+  },
+  "Cluster Touch": {
+    "total": 110,
+    "problem": 0,
+    "pristine": 110,
+    "pass": true,
+    "dashboards": 7
+  },
+  "Cluster Truth, Deception & Error": {
+    "total": 577,
+    "problem": 0,
+    "pristine": 577,
+    "pass": true,
+    "dashboards": 9
+  },
+  "Cluster Turning": {
+    "total": 592,
+    "problem": 0,
+    "pristine": 592,
+    "pass": true,
+    "dashboards": 15
+  },
+  "Cluster Virtue": {
+    "total": 333,
+    "problem": 0,
+    "pristine": 333,
+    "pass": true,
+    "dashboards": 9
+  },
+  "Cluster War": {
+    "total": 262,
+    "problem": 0,
+    "pristine": 262,
+    "pass": true,
+    "dashboards": 10
+  },
+  "Cluster Weight": {
+    "total": 294,
+    "problem": 0,
+    "pristine": 294,
+    "pass": true,
+    "dashboards": 6
+  },
+  "Cluster Writing": {
+    "total": 294,
+    "problem": 0,
+    "pristine": 294,
+    "pass": true,
+    "dashboards": 7
+  }
+}

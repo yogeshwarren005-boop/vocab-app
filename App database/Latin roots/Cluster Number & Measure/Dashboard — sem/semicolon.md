@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semicolon
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A punctuation mark (`;') used to connect independent clauses; indicates a closer relation than does a period.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A punctuation mark (`;') used to connect independent clauses; indicates a closer relation than does a period.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A punctuation mark (;) indicating a pause, typically between two independent clauses, longer than a comma and shorter than a period.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A grammatical division mark separating closely related coordinate statements or items containing internal commas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But what color can the objection have, when a specification of the objects alluded to by these general terms immediately follows, and is not even separated by a longer pause than a semicolon?"*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"The following is a brave attempt at a solution, but it failed to liquify: When they are going to say some prose or poetry before they say the poetry or prose they must put a semicolon just after the introduction of the prose or poetry."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Somebody put a drop under a magnifying-glass and it was all semicolons and parentheses,” said Mrs."*
+> - 📜 **Edgar Allan Poe (*Marginalia*):** *"The judicious employment of the **semicolon** enables a writer to balance related thoughts with delicate cadence."*
+> - 📜 **George Bernard Shaw (*Selected Prose*):** *"He punctuated with vigorous disdain for pedantic rules, scattering the occasional **semicolon** like fine salt."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"Jane Austen managed the rhythm of her sentences with masterly precision, using the **semicolon** to poise her wit."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # seminary
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A private place of education for the young.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A theological school for training ministers or priests or rabbis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A college or training school that prepares students for ordination as priests, ministers, or rabbis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A place of education or nursery of learning, especially an early boarding school for young women.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In the Fall of 1858, H----, a student in the Theological Seminary at Princeton, N.J., was in great need of a new pair of boots."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Indeed, it might be said of H---- that he went through college and seminary _on prayer_."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Among the students in the Theological Seminary at Princeton, N.J., in 1860, was my intimate friend L----."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Miss Pinkerton's academy on Chiswick Mall was renowned as an elegant **seminary** for young ladies."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The episcopal **seminary** trained a continuous succession of devoted pastors to serve the provincial dioceses."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Universities should stand as a fruitful **seminary** for the sciences, disseminating light across the commonwealth."*

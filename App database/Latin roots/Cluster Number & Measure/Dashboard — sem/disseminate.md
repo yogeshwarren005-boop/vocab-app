@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # disseminate
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to become widely known.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to become widely known.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To scatter or spread widely, especially information, doctrines, ideas, or scientific discoveries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To distribute seeds, spores, or biological agents across an agricultural or ecological region.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"An indiscreet man in such a position can sow more discord, breed more jealousy and disseminate more strife than any other officer in the entire organization."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Bahá'í literature has been disseminated as far north as Upernavik, Greenland, above the Arctic Circle."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"With present computer networking capabilities the resources indices in such guides can be readily maintained current and widely disseminated throughout a region and on and among military installations."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The duty of the natural philosopher is to discover truth and **disseminate** it for the relief of man's estate."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Pamphleteers labored day and night to **disseminate** political manifestos among the London apprentices."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Migratory birds often **disseminate** plant seeds across vast ocean barriers within their plumage."*

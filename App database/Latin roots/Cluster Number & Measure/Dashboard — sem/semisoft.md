@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semisoft
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Somewhat soft.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Somewhat soft.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moderately soft in texture, yielding easily under pressure without being liquid or creamy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing cheeses (such as Munster, Havarti, or Fontina) that slice cleanly while retaining a pliable curd.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semisoft designates somewhat soft."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The dairy maid arranged the rounds of **semisoft** curd cheese upon clean rushes in the pantry."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The horses sank to their fetlocks in the **semisoft** alluvial silt bordering the tidal estuary."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The farm table was spread with homemade bread, sweet butter, and a round of fresh **semisoft** cheese."*

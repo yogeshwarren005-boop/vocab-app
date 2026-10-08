@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # disseminator
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who spreads the news.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who spreads the news.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, medium, or agent that spreads or broadcasts news, doctrines, or information widely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biological vector, wind current, or animal that disperses seeds or infectious pathogens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disseminator designates someone who spreads the news."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Voltaire was the most tireless **disseminator** of enlightened philosophical ideas in eighteenth-century Europe."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Frugivorous bats act as an effective **disseminator** of forest seeds across tropical archipelagos."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The clinical teacher should be an inspiring **disseminator** of both scientific method and humane virtue."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # seminude
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Partially clothed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Partially clothed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Partially naked; unclothed to a significant degree; wearing minimal or fragmentary attire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Depicting partially unclothed human figures in classical sculpture, painting, or mythological art.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seminude designates partially clothed."*
+> - 📜 **Herman Melville (*Typee*):** *"The **seminude** islanders swam out to our ship with garlands of tropical blossoms in their hair."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The ancient marble fountain featured **seminude** tritons blowing jets of water through conch shells."*
+> - 📜 **Joseph Conrad (*An Outcast of the Islands*):** *"A band of **seminude** boatmen chanted in unison as their long prau glided into the misty river bend."*

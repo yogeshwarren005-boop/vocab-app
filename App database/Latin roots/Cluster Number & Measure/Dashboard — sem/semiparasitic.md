@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semiparasitic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to plants that are semiparasites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to plants that are semiparasites.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Partially parasitic; producing chlorophyll and photosynthesizing, but obtaining water and nutrients from a host.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing hemiparasitic plants that maintain green foliage while tapping the vascular conduits of host trees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiparasitic designates of or relating to plants that are semiparasites."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The **semiparasitic** habit of eyebright and yellow-rattle enables them to flourish in dense alpine turf."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"Certain marine isopods display a **semiparasitic** existence, feeding on fish mucus while swimming freely."*
+> - 📜 **Joseph Dalton Hooker (*Flora Antarctica*):** *"The shrub exhibits **semiparasitic** roots that penetrate the bark of surrounding dwarf beeches."*

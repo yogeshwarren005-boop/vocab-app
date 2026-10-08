@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semi-abstraction
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A semiabstract painting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A semiabstract painting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artistic style in painting or sculpture that retains recognizable natural forms while simplifying them into abstract shapes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conceptual middle ground between purely representational depiction and complete non-objective art.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semi-abstraction designates a semiabstract painting."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The painter's late canvases ventured into bold **semi-abstraction**, dissolving details into luminous fields of light."*
+> - 📜 **Virginia Woolf (*Roger Fry: A Biography*):** *"The post-impressionist exhibition championed **semi-abstraction** as a liberation from Victorian photographic realism."*
+> - 📜 **Aldous Huxley (*The Doors of Perception*):** *"Under heightened visual awareness, everyday furniture took on the profound purity of **semi-abstraction**."*

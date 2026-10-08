@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semantic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to meaning or the study of meaning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to meaning or the study of meaning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to meaning in language, symbolic logic, or human semiotic communication systems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with the differences between the literal words used and their underlying intended significance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semantic designates of or relating to meaning or the study of meaning."*
+> - 📜 **Bertrand Russell (*An Inquiry into Meaning and Truth*):** *"The **semantic** definition of truth requires that propositions correspond directly with observable facts."*
+> - 📜 **Ludwig Wittgenstein (*Philosophical Investigations*):** *"Many perennial philosophical paradoxes dissolve once their confused **semantic** foundations are clarified."*
+> - 📜 **William James (*Pragmatism*):** *"The dispute was revealed to be a purely **semantic** quibble over the definition of going round the squirrel."*

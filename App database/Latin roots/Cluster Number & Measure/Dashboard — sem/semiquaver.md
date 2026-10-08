@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semiquaver
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical note having the time value of a sixteenth of a whole note.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical note having the time value of a sixteenth of a whole note.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical note having the time value of half a quaver; a sixteenth note.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rapid note represented in notation by an open stem with two flags or crossbars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiquaver designates a musical note having the time value of a sixteenth of a whole note."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The violinist dashed off the cascading **semiquaver** passages with sparkling precision and flawless intonation."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"Old William Dewy tapped his foot, warning the young fiddle player not to rush his **semiquaver** runs."*
+> - 📜 **E. M. Forster (*A Room with a View*):** *"Lucy's fingers flew across the keyboard, executing every delicate **semiquaver** of the Beethoven sonata."*

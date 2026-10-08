@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semi-upright
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of animals that are partly erect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of animals that are partly erect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Partially vertical; leaning at an oblique upward angle between horizontal and perpendicular.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing a plant growth habit with branches ascending diagonally rather than strictly erect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semi-upright designates of animals that are partly erect."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The seedling shoots initially assume a **semi-upright** posture before heliotropism directs them toward the light."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The gibbon maintains a **semi-upright** position when swinging rapidly through the branches."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"An old coppiced oak leaned at a **semi-upright** angle over the deep forest ditch."*

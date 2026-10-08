@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semantics
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of language meaning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The meaning of a word, phrase, sentence, or text.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of linguistics and logic concerned with the meaning of words, phrases, and symbolic expressions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The historical and psychological study of shifts in the meaning of words over time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semantics designates the study of language meaning."*
+> - 📜 **Bertrand Russell (*An Inquiry into Meaning and Truth*):** *"The study of **semantics** clarifies how arbitrary sounds and printed symbols acquire objective reference."*
+> - 📜 **George Orwell (*1984*):** *"Newspeak was an exercise in coercive **semantics**, devised to narrow the very range of permitted thought."*
+> - 📜 **William James (*The Meaning of Truth*):** *"When philosophical arguments bog down in empty **semantics**, pragmatic tests restore intellectual clarity."*

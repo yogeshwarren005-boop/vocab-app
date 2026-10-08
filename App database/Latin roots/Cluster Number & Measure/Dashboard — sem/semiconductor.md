@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semiconductor
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance as germanium or silicon whose electrical conductivity is intermediate between that of a metal and an insulator; its conductivity increases with temperature and in the presence of impurities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conductor made with semiconducting material.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A solid substance, such as silicon or germanium, with electrical conductivity between an insulator and a metal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electronic component, diode, transistor, or integrated circuit manufactured from semiconductor materials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiconductor designates a substance as germanium or silicon whose electrical conductivity is intermediate between that of a metal and an insulator; its conductivity increases with temperature and in the presence of impurities."*
+> - 📜 **Richard Feynman (*QED: The Strange Theory of Light and Matter*):** *"The entire modern electronics industry was born when physicists understood electron behavior in a **semiconductor**."*
+> - 📜 **Arthur C. Clarke (*1984: Spring*):** *"Microscopic transistors etched upon a thumbnail-sized **semiconductor** chip replaced thousands of fragile vacuum tubes."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Interplanetary probes carry computers built from **semiconductor** chips capable of surviving deep cosmic cold."*

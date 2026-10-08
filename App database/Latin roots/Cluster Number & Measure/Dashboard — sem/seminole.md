@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # seminole
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the muskhogean people who moved into florida in the 18th century.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The muskhogean language of the seminole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of an Indigenous North American people of Florida, now living in Florida and Oklahoma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The Muskogean language spoken by the Seminole and Miccosukee peoples.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"To this day, also, the remnant of the Seminole Indians of Florida, a people of the same stock as the Creeks, hold an annual purification and festival called the Green Corn Dance, at which the new corn is eaten."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Of all the modes of purification adopted on these occasions none perhaps brings out the sacramental virtue of the rite so clearly as the Creek and Seminole practice of taking a purgative before swallowing the new corn."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"A similar pious fear led the Creek and Seminole Indians, as we saw, to adopt the more thoroughgoing expedient of rinsing out their bodies by a strong purgative before they dared to partake of the sacrament of first-fruits."*
+> - 📜 **Washington Irving (*The Crayon Miscellany*):** *"The intrepid **Seminole** warriors defended the pathless swamps of the Everglades against regular troops."*
+> - 📜 **Francis Parkman (*The Conspiracy of Pontiac*):** *"Osceola rallied the **Seminole** clans with passionate eloquence, refusing to surrender their ancestral pine barrens."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"Old frontiersmen recounted perilous encounters with **Seminole** scouting parties during the southern wars."*

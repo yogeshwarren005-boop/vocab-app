@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semipublic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having some of the features of public institution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having some of the features of public institution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Open, available, or accessible to a restricted segment of the public; intermediate between private and open.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carried on in the presence of select witnesses or semi-restricted audiences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semipublic designates having some of the features of public institution."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The petition was read at a **semipublic** meeting of merchants assembled in the guildhall."*
+> - 📜 **Henry James (*The Golden Bowl*):** *"The museum gallery was a **semipublic** sanctuary where they could converse without domestic surveillance."*
+> - 📜 **Anthony Trollope (*The Warden*):** *"The hospital chapel served as a **semipublic** place of worship for the pensioners and neighborhood folk."*

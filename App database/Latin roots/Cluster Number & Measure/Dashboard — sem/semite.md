@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semite
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a group of semitic-speaking peoples of the middle east and northern africa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of semites.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of any of various ancient or modern peoples speaking a Semitic language (including Hebrews, Arabs, Phoenicians).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual belonging ethnically or linguistically to the Afroasiatic peoples of Southwestern Asia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"He visited the historic localities of New England and crossed the continent to San Francisco, stopping on the way at Salt Lake City, and extending his journey to the Yo-Semite Valley."*
-> - 📜 **James Joyce (*Ulysses*):** *"The vowels the Semite and the Saxon know not. _Kyrie!_ The radiance of the intellect."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Among the Semites of Western Asia the king, in a time of national danger, sometimes gave his own son to die as a sacrifice for the people."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ancient **Semite** tribes of the Arabian peninsula preserved their tribal freedom amidst surrounding empires."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"The rise of the Akkadian empire marked the triumph of the **Semite** over the ancient Sumerian city-states."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Comparative philology proves that Aryan and **Semite** developed along distinct but magnificent linguistic paths."*

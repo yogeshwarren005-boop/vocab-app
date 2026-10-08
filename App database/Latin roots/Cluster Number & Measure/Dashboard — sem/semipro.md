@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semipro
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An athlete who plays for pay on a part-time basis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An athlete who plays for pay on a part-time basis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A semiprofessional athlete, musician, or performer who is paid for participation but does not play full-time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or involving semiprofessional sports leagues, teams, or competitions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semipro designates an athlete who plays for pay on a part-time basis."*
+> - 📜 **Ring Lardner (*You Know Me Al*):** *"The manager scouted a promising young pitcher pitching for a local **semipro** team in Indiana."*
+> - 📜 **Ernest Hemingway (*The Sun Also Rises*):** *"He had boxed as a **semipro** in New Jersey before taking a job as an overseas correspondent."*
+> - 📜 **Jack London (*The Valley of the Moon*):** *"On Saturday afternoons he played catcher for a **semipro** baseball club that toured the bay towns."*

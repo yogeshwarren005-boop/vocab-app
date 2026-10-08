@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semestral
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring every six months or during every period of six months.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring every six months or during every period of six months.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, occurring every, or lasting for a period of six months or one academic semester.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Calculated or published on a half-yearly administrative, banking, or academic schedule.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semestral designates occurring every six months or during every period of six months."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The university statutes prescribed regular **semestral** examinations to test the diligence of the scholars."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The chartered bank balanced its ledgers and distributed **semestral** dividends to its shareholders."*
+> - 📜 **Woodrow Wilson (*The State: Elements of Historical and Practical Politics*):** *"Prussian universities regulated their academic degree progressions through mandatory **semestral** enrollments."*

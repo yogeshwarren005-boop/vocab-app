@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semiannual
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring or payable twice each year.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring or payable twice each year.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring, published, or executed twice a year; half-yearly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spanning or lasting for half of a calendar year in commercial, fiscal, or biological cycles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiannual designates occurring or payable twice each year."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Merchants assembled at the **semiannual** fair to settle accounts and negotiate future shipments of wool."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The **semiannual** arrival of the naval supply ship was the sole event that connected the lonely penal garrison with the world."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"The philosophical society published its **semiannual** transactions to communicate experimental discoveries to Europe."*

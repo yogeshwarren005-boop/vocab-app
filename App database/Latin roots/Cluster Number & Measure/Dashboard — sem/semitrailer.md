@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semitrailer
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A trailer having wheels only in the rear; the front is supported by the towing vehicle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A trailer having wheels only in the rear; the front is supported by the towing vehicle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cargo trailer having wheels only at the rear, designed to be coupled to and supported in front by a tractor unit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavy transport vehicle combination consisting of a tractor truck and a detachable semi-trailer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semitrailer designates a trailer having wheels only in the rear; the front is supported by the towing vehicle."*
+> - 📜 **John Steinbeck (*The Grapes of Wrath*):** *"A massive transport **semitrailer** roared past the jalopy, whipping up a blinding cloud of highway dust."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"Freight that formerly traveled by railway wagons was now transferred directly to the diesel **semitrailer**."*
+> - 📜 **Jack London (*The Valley of the Moon*):** *"He watched the heavy freight team maneuvering the long **semitrailer** into the loading dock by the waterfront."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semisolid
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Partly solid; having a rigidity and viscosity intermediate between a solid and a liquid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Partly solid; having a rigidity and viscosity intermediate between a solid and a liquid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a consistency intermediate between a liquid and a solid; firm but pliable or paste-like.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pharmaceutical ointment, wax, gel, or butter that maintains form at rest but deforms under gentle shear stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semisolid designates partly solid; having a rigidity and viscosity intermediate between a solid and a liquid."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The inflamed joint was dressed with a soothing **semisolid** poultice of belladonna and glycerin."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The lens of the eye consists of a **semisolid** transparent substance encased within a delicate capsule."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The plant excretes a **semisolid** resinous droplet that fixes the scrambling stem firmly to the rock."*

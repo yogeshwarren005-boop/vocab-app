@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semicoma
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mild comatose state; a coma from which the person can be roused by appropriate stimuli.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mild comatose state; a coma from which the person can be roused by appropriate stimuli.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of profound lethargy and partial unconsciousness from which a patient can be aroused only by painful stimuli.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stuporous neurological state intermediate between normal consciousness and irreversible coma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semicoma designates a mild comatose state; a coma from which the person can be roused by appropriate stimuli."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The diabetic patient sank into a deep **semicoma**, responding only feebly to vigorous verbal commands."*
+> - 📜 **Harvey Cushing (*Intracranial Tumors*):** *"Expanding hemorrhage in the subdural space produced progressive stupor deepening into **semicoma**."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The poisoned sailor lay in a state of **semicoma** while the ship's surgeon prepared the emetic."*

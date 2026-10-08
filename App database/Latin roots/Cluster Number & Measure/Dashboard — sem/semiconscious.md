@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semiconscious
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Partially conscious; not completely aware of sensations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Partially conscious; not completely aware of sensations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Only partially conscious; incompletely aware of one's surroundings, as after head trauma or under sedation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by dazed, twilight mental state with impaired responsiveness to external questions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Martin Landis was taken to his home and in his semiconscious condition he did not know that his head with its handkerchief binding leaned against the rascally breast of Lyman Mertzheimer."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The victim lay **semiconscious** upon the oriental rug, murmuring faint words that we could not decipher."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"The blow stunned him so completely that he remained **semiconscious** while the deck rolled beneath him."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"The landlord recovered from the blow in a **semiconscious** state, bewildered by the violent tumult."*

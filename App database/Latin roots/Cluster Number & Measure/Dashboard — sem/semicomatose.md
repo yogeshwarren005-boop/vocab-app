@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semicomatose
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a state of partial coma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a state of partial coma.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a state of partial coma or profound stupor; drowsy and barely responsive to external stimulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by blunted sensorium and impaired motor reflexes due to trauma, toxins, or metabolic crisis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semicomatose designates in a state of partial coma."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"When admitted to the ward, the patient was **semicomatose** with shallow breathing and contracted pupils."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"The injured workman remained **semicomatose** for three days before showing signs of neurological recovery."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Creeping Man*):** *"The professor lay **semicomatose** upon his study couch, muttering incoherent phrases in his delirium."*

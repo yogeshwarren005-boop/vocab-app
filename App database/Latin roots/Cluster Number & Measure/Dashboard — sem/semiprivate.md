@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semiprivate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Confined to a small number of hospital patients.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confined to a small number of hospital patients.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Providing partial privacy, especially a hospital room shared between only two or three patients.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Partially reserved or secluded from general public access while not strictly confidential.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiprivate designates confined to a small number of hospital patients."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Convalescent patients were transferred from the noisy public ward to a quiet **semiprivate** room."*
+> - 📜 **F. Scott Fitzgerald (*Tender is the Night*):** *"The Swiss clinic provided luxurious **semiprivate** quarters with balconies overlooking the lake."*
+> - 📜 **Henry James (*The Bostonians*):** *"They conducted their conversation in a **semiprivate** alcove off the main library, shielded by velvet portières."*

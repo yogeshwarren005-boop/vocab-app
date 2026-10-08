@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semanticist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in the study of meaning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in the study of meaning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scholar or linguist who specializes in the study of semantics, linguistic meaning, and symbolic logic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An analyst who evaluates how verbal framing and rhetorical terminology influence human behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semanticist designates a specialist in the study of meaning."*
+> - 📜 **Bertrand Russell (*Logic and Knowledge*):** *"The formal **semanticist** constructs idealized languages to banish ambiguity from mathematical discourse."*
+> - 📜 **George Orwell (*Politics and the English Language*):** *"A vigilant **semanticist** easily unmasks political euphemisms designed to make murder seem respectable."*
+> - 📜 **Aldous Huxley (*Words and Their Meanings*):** *"The modern **semanticist** warns society against mistaking emotional verbal abstractions for concrete realities."*

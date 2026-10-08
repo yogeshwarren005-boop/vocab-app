@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semester
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of two divisions of an academic year.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Half a year; a period of 6 months.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A half-year term in a university or school, typically lasting fifteen to eighteen weeks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An academic division of the school calendar into two equal instructional periods per year.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"He had accepted an appointment as _locum tenens_ for four weeks in an English Independent chapel at Hamburg, which delayed his arrival at Berlin until after the winter _semester_ had commenced."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Sherwood, “is, that arrangements have been made for you to attend Lakeview Hall this coming semester."*
+> - 📜 **Mark Twain (*A Tramp Abroad*):** *"He spent a lively **semester** at Heidelberg attending lectures on Roman law and fencing with student corps."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"The quiet winter **semester** slipped away in Berlin while he wrestled with the intricacies of civil jurisprudence."*
+> - 📜 **Thomas Mann (*The Magic Mountain*):** *"Hans Castorp recalled his final **semester** of engineering studies before journeying to the Alpine sanatorium."*

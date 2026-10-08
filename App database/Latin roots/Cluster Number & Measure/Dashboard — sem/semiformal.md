@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semiformal
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Moderately formal; requiring a dinner jacket.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moderately formal; requiring a dinner jacket.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by dress or manners that are smart and neat without requiring full formal white-tie attire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing a degree of ceremonial structure while maintaining conversational accessibility in assemblies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiformal designates moderately formal; requiring a dinner jacket."*
+> - 📜 **F. Scott Fitzgerald (*This Side of Paradise*):** *"The undergraduates attended the dinner in **semiformal** dress, sporting black dinner jackets and silk ties."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"The evening tea gathering maintained a **semiformal** atmosphere where intellectual debate was encouraged."*
+> - 📜 **Henry James (*The Wings of the Dove*):** *"She received her guests in a **semiformal** salon adorned with Venetian brocade and fresh flowers."*

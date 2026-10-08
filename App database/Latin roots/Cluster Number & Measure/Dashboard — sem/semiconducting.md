@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semiconducting
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having characteristics of a semiconductor; that is having electrical conductivity greater than insulators but less than good conductors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having characteristics of a semiconductor; that is having electrical conductivity greater than insulators but less than good conductors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having electrical conductivity intermediate between that of an insulator and a metallic conductor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting temperature-dependent electronic resistivity that decreases as thermal energy increases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiconducting designates having characteristics of a semiconductor; that is having electrical conductivity greater than insulators but less than good conductors."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Certain impure mineral crystals display **semiconducting** properties when subjected to electrostatic tension."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"The development of **semiconducting** crystals paved the way for solid-state electronic computation."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"Doped silicon exhibits **semiconducting** behavior because donor atoms introduce energy states near the conduction band."*

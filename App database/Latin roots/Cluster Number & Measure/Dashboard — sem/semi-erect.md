@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semi-erect
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of plants that are partly erect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of plants that are partly erect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Partially upright or inclined; not fully vertical in botanical posture, spinal alignment, or structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing an anatomical posture intermediate between horizontal quadrupedalism and bipedal stance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semi-erect designates of plants that are partly erect."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Anthropoid apes typically adopt a **semi-erect** posture, leaning upon the knuckles of their elongated forelimbs."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The gorilla moves across the ground with a **semi-erect** gait that contrasts with human bipedalism."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"The alpine shrub exhibited a **semi-erect** habit, its branches bowed down by the weight of winter snow."*

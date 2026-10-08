@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semifinal
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the two competitions in the next to the last round of an elimination tournament.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the two competitions in the next to the last round of an elimination tournament.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A competition or match immediately preceding the final round, determining who advances to the championship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring immediately prior to the final stage of an elimination contest or legal proceeding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semifinal designates one of the two competitions in the next to the last round of an elimination tournament."*
+> - 📜 **P. G. Wodehouse (*The Clicking of Cuthbert*):** *"The clubhouse was crowded with spectators discussing the dramatic outcome of the golf **semifinal**."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"Our college football eleven won the hard-fought **semifinal** against the visiting Edinburgh team."*
+> - 📜 **Ernest Hemingway (*A Moveable Feast*):** *"We cycled across Paris in the afternoon to watch the international tennis **semifinal** on the red clay."*

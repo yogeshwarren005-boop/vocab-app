@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # disseminative
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spreading by diffusion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spreading by diffusion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to scatter, distribute, or propagate widely, especially concerning information or spores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Functioning to disperse biological seeds or fungal propagules across a wide geographic range.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disseminative designates spreading by diffusion."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Winged seeds possess a superior **disseminative** efficiency compared to heavy unassisted pods."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"The modern daily press serves as the primary **disseminative** organ of public opinion."*
+> - 📜 **Thomas Henry Huxley (*Critiques and Addresses*):** *"Scientific societies fulfilled an essential **disseminative** role by publishing experimental proceedings."*

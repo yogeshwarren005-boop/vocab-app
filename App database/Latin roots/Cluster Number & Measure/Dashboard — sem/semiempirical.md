@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semiempirical
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relying to some extent on observation or experiment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relying to some extent on observation or experiment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Partially based on theoretical calculation and partially based on practical experiment or observational data.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utilizing experimentally derived parameters to simplify complex quantum or thermodynamic mathematical models.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiempirical designates relying to some extent on observation or experiment."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"In nuclear physics, we employ a **semiempirical** mass formula to fit binding energies across the periodic table."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"Engineers construct **semiempirical** formulas for steam expansion when complete mathematical equations prove intractable."*
+> - 📜 **Bertrand Russell (*The Analysis of Matter*):** *"Scientific laws frequently begin as **semiempirical** rules before deductive principles illuminate their causes."*

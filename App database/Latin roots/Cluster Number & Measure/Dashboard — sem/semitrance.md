@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semitrance
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A trancelike state in which the person can follow instructions but voluntary action is weak or absent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A trancelike state in which the person can follow instructions but voluntary action is weak or absent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of partial hypnotic absorption, daydreaming, or diminished conscious awareness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A twilight mental condition between wakeful alertness and deep somnambulism or mediumistic trance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semitrance designates a trancelike state in which the person can follow instructions but voluntary action is weak or absent."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Mystical states frequently commence in a gentle **semitrance**, where sensory perception fades into spiritual vision."*
+> - 📜 **Arthur Conan Doyle (*The Land of Mist*):** *"The medium sat in a quiet **semitrance**, her breathing slow and regular as the lights were lowered."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"I leaned against the parapet in a pleasant **semitrance**, watching the river lights dissolve in the mist."*

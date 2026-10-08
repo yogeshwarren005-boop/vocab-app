@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semi-climbing
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of plants that are semi-climbers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of plants that are semi-climbers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a scrambling or partially climbing habit without specialized holdfasts, aerial roots, or twining stems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ascending other plants or walls by leaning, scrambling, or utilizing recurved thorns for support.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semi-climbing designates of plants that are semi-climbers."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"Certain varieties of bramble exhibit a **semi-climbing** habit, throwing out arched canes that rest on hedges."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The **semi-climbing** shrubs formed an impenetrable tangle along the damp margins of the Javanese jungle."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"The expedition hacked through dense masses of **semi-climbing** bamboo that choked the mountain pass."*

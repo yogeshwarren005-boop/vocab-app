@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semi-processed
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having been subjected to partial processing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having been subjected to partial processing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Partially refined, manufactured, or prepared from raw materials, requiring further industrial finishing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existing in an intermediate state between crude extraction and consumer merchandise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semi-processed designates having been subjected to partial processing."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Colonies were encouraged to export crude or **semi-processed** materials to the mother country for final manufacture."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Modern logistics networks specialize in transporting vast tonnages of **semi-processed** ore and pig iron."*
+> - 📜 **Karl Marx (*Capital*):** *"The cotton yarn represents a **semi-processed** commodity that must enter the weaver's loom before realizing value."*

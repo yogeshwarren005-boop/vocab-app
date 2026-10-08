@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semiskilled
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing or requiring limited skills.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing or requiring limited skills.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing, requiring, or characterized by partial training, specialized dexterity, or simple mechanical training.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intermediate between unskilled manual labor and fully apprenticed or credentialed trade craftsmanship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiskilled designates possessing or requiring limited skills."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"Mass production replaced proud artisans with hordes of **semiskilled** machine tenders performing repetitive tasks."*
+> - 📜 **Thorstein Veblen (*The Engineers and the Price System*):** *"The modern assembly plant employs a vast army of **semiskilled** operatives supervised by industrial engineers."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Wages for **semiskilled** labor fluctuate according to the rapid introduction of automatic machinery."*

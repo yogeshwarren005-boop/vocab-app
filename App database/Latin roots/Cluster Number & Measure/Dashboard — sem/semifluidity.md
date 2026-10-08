@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semifluidity
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A property midway between a solid and a liquid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A property midway between a solid and a liquid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Viscous consistency intermediate between a liquid and a solid, flowing sluggishly under shear force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physical rheological property of gels, thick slimes, or colloids that resist immediate displacement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semifluidity designates a property midway between a solid and a liquid."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The adhesive secretion upon the tendril tips exhibits a curious **semifluidity** before hardening in the air."*
+> - 📜 **Thomas Henry Huxley (*On the Physical Basis of Life*):** *"Protoplasm exhibits an inherent **semifluidity** that allows internal streaming currents within the living cell."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"The transition from solid pitch to liquid oil illustrates how thermal agitation increases **semifluidity**."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semisweet
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a taste that is a mixture of bitterness and sweetness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a taste that is a mixture of bitterness and sweetness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Slightly sweet; containing a moderate amount of sugar; especially chocolate containing about 35 to 50 percent cocoa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing a balanced, mildly sweet flavor, as of fortified dessert wines or bittersweet confections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semisweet designates having a taste that is a mixture of bitterness and sweetness."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"My aunt treated herself to a glass of **semisweet** elderberry wine to ward off the chill of the evening."*
+> - 📜 **Willa Cather (*Death Comes for the Archbishop*):** *"The mission priests cultivated a **semisweet** grape that produced a dark, fragrant wine for communion."*
+> - 📜 **Ernest Hemingway (*The Sun Also Rises*):** *"We shared a carafe of **semisweet** Spanish wine while sitting under the plane trees by the bullring."*

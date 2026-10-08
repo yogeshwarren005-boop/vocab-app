@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semifinalist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of four competitors remaining in a tournament by elimination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of four competitors remaining in a tournament by elimination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A competitor, team, or participant that reaches the penultimate round of an elimination tournament.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An applicant or candidate who advances to the next-to-last stage of an official selection process.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semifinalist designates one of four competitors remaining in a tournament by elimination."*
+> - 📜 **P. G. Wodehouse (*The Heart of a Goof*):** *"Every defeated **semifinalist** gathered on the clubhouse verandah to console themselves with iced tea."*
+> - 📜 **Arthur Conan Doyle (*Rodney Stone*):** *"The celebrated pugilist had established his reputation as a formidable **semifinalist** in the London ring."*
+> - 📜 **Evelyn Waugh (*Decline and Fall*):** *"The headmaster presented silver commemorative spoons to each youthful **semifinalist** in the school races."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semi-automatize
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make semiautomatic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make semiautomatic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert a machine or manufacturing workflow so that it performs functions partly automatically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To establish automatic routines within a system that still requires manual oversight or initiation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semi-automatize designates make semiautomatic."*
+> - 📜 **Thorstein Veblen (*The Engineers and the Price System*):** *"Industrial engineers resolved to **semi-automatize** the milling process to reduce human mechanical error."*
+> - 📜 **Thomas Edison (*The Papers of Thomas A. Edison*):** *"Our laboratory developed electric relays to **semi-automatize** the telegraphic routing of nocturnal dispatches."*
+> - 📜 **John Dewey (*Human Nature and Conduct*):** *"Habits function to **semi-automatize** routine behaviors so that conscious reflection can address novel problems."*

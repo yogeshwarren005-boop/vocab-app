@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semipermanent
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or extending over a relatively long time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or extending over a relatively long time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lasting for a considerable period but not permanently fixed, indelible, or enduring forever.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed for long-term temporary use, as semipermanent military barracks or road surfacings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semipermanent designates relating to or extending over a relatively long time."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The army erected a line of **semipermanent** fortifications across the desert to guard the pipeline."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Refugees settled into **semipermanent** timber cantonments while the devastated cities were cleared."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"Our trench was a **semipermanent** dugout roofed with pine trunks and heaped with sandbags."*

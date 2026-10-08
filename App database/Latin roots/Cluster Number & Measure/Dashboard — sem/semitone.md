@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semitone
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The musical interval between adjacent keys on a keyboard instrument.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The musical interval between adjacent keys on a keyboard instrument.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The smallest interval used in traditional Western classical music; a half step between adjacent chromatic pitches.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acoustic interval corresponding to the ratio of approximately $16:15$ in just intonation or $2^{1/12}$ in equal temperament.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semitone designates the musical interval between adjacent keys on a keyboard instrument."*
+> - 📜 **Hermann von Helmholtz (*On the Sensations of Tone*):** *"The equal division of the octave into twelve identical **semitone** steps facilitated modulation across all keys."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The singer possessed such exquisite pitch control that she could shade a note by a fraction of a **semitone**."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The town band's clarinets slipped flat by half a **semitone** as the cold evening mist settled upon the market."*

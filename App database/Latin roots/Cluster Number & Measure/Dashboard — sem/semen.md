@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semen
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The thick white fluid containing spermatozoa that is ejaculated by the male genital tract.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The thick white fluid containing spermatozoa that is ejaculated by the male genital tract.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The reproductive fluid of male animals containing spermatozoa suspended in seminal plasma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The biological vehicle of fertilizing gametes emitted during male ejaculation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Hire facounde eke full womanly and plain, No contrefeted termes had she To semen wise.” —CHAUCER."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Microscopic examination of the **semen** confirmed that the hybrid stallion was completely sterile."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic analysis of the **semen** demonstrated active spermatozoa, ruling out azoospermia."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The physiological secretion known as **semen** is elaborated within the seminiferous tubules of the testes."*

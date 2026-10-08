@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semaphore
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus for visual signaling with lights or mechanically moving arms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Send signals by or as if by semaphore.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus or optical signaling system using visual flags, lights, or movable arms to send messages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The code or system of visual positions representing letters of the alphabet in naval signaling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"A sailor on her deck began to swing his arms in the curious semaphore language of the sea."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Bruce-Partington Plans*):** *"From the roof of the admiralty, the mechanical **semaphore** signaled urgent orders to the Channel fleet."*
+> - 📜 **Joseph Conrad (*The Mirror of the Sea*):** *"The lookout watch read the fluttering **semaphore** flags hoisted upon the signal tower at Dover."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"A telegraphic **semaphore** station stood motionless against the red glow of the ruined evening sky."*

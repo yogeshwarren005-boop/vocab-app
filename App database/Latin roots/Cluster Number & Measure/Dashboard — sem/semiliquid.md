@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semiliquid
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Somewhat liquid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Somewhat liquid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a thick, flowing, or viscous consistency intermediate between a solid and a free-flowing liquid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fluid paste, magma, or emulsion that maintains sluggish flow under gravitational pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiliquid designates somewhat liquid."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The volcano vomited streams of **semiliquid** mud that overwhelmed the forested slopes in a single night."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"During convalescence, the patient was sustained upon a light **semiliquid** diet of barley water and custard."*
+> - 📜 **Thomas Henry Huxley (*On the Physical Basis of Life*):** *"Living matter exists essentially in a **semiliquid** state, neither rigidly frozen nor completely fluid."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # insemination
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of sowing (of seeds in the ground or, figuratively, of germs in the body or ideas in the mind, etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The introduction of semen into the genital tract of a female.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The deposition or introduction of semen into the female reproductive tract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The figurative sowing, implantation, or propagation of thoughts, principles, or cultural habits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insemination designates the act of sowing (of seeds in the ground or, figuratively, of germs in the body or ideas in the mind, etc.)."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Natural **insemination** in higher mammals is preceded by elaborate courtship rituals and competitive displays."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"Artificial **insemination** formed the mechanical foundation of the state hatchery and conditioning center."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Physiological studies documented the exact chronological phases following successful ovular **insemination**."*

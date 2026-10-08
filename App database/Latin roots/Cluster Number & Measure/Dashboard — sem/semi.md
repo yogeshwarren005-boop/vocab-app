@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semi
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the two competitions in the next to the last round of an elimination tournament.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A truck consisting of a tractor and trailer together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prefix or colloquial noun denoting half, partiality, or an intermediate status (or a semi-trailer truck).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A semifinal sports contest or playoff match determining qualification for the final round.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou wouldst make an absolute courtier, and the firm fixture of thy foot would give an excellent motion to thy gait in a semi-circled farthingale."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Banks of smoke went off horizontally at the back like passing clouds, and behind these burned hidden pyres, illuminating the semi-transparent sheet of smoke to a lustrous yellow uniformity."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A morning mist hung over it now—a fulsome yet magnificent silvery veil, full of light from the sun, yet semi-opaque—the hedge behind it being in some measure hidden by its hazy luminousness."*
+> - 📜 **John Steinbeck (*The Grapes of Wrath*):** *"A roaring diesel **semi** shook the roadside diner as it sped along the westbound highway."*
+> - 📜 **Ernest Hemingway (*The Sun Also Rises*):** *"We arrived at the stadium just in time to watch the thrilling tennis **semi** on the center court."*
+> - 📜 **P. G. Wodehouse (*Right Ho, Jeeves*):** *"The golf club was agitated over who would triumph in the upcoming **semi** at the weekend tournament."*

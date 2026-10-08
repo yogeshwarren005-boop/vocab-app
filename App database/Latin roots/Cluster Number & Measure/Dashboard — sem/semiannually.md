@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semiannually
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Twice a year.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Twice a year.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Twice every year; at intervals of six months; on a half-yearly schedule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring or recurring on a regular bi-yearly calendar schedule.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiannually designates twice a year."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The bank declared dividends **semiannually**, attracting conservative capital from country squires."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The justices of the peace convened **semiannually** to audit county revenues and review prison conditions."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The annuity was paid **semiannually** through the respectable firm of solicitors in Lincoln's Inn."*

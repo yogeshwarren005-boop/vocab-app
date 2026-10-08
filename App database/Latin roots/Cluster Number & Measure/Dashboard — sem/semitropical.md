@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semitropical
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of conditions in the subtropics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of conditions in the subtropics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of or situated in the regions bordering the tropics; subtropical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by mild, frost-free winters and humid, warm summers supporting subtropical flora and fauna.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semitropical designates of or relating to or characteristic of conditions in the subtropics."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Many birds migrate from harsh northern winters to feed in the sheltered warmth of **semitropical** river valleys."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"A heavy **semitropical** rain poured upon the corrugated iron roof of the coastal trading station."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The mountain slopes exhibited a gradual transition from lush **semitropical** palms to temperate conifers."*

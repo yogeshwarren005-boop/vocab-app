@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semiotician
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in the study of meaning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in the study of meaning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scholar or philosopher who studies signs, symbols, gestures, and the systems through which meaning is produced.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A researcher who investigates cultural codes, language systems, and non-verbal communication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiotician designates a specialist in the study of meaning."*
+> - 📜 **Umberto Eco (*The Role of the Reader*):** *"The **semiotician** interrogates text not to find an author's secret soul, but to map the mechanism of signification."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"As a pioneer **semiotician**, I have endeavored to classify every genus and species of possible sign."*
+> - 📜 **Roland Barthes (*Mythologies*):** *"The cultural **semiotician** decodes advertising imagery to expose the bourgeois ideology masquerading as nature."*

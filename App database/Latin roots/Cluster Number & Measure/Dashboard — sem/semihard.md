@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semihard
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Somewhat hard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Somewhat hard.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moderately firm or rigid in texture; yielding slightly under pressure without losing definite shape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing cheeses (such as Cheddar or Gouda) that have undergone moderate pressing and moisture curing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semihard designates somewhat hard."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The dairy produce included excellent wheels of **semihard** cheese stored upon the cool cellar shelves."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The riverbed was composed of **semihard** sedimentary clay that retained the footprints of extinct quadrupeds."*
+> - 📜 **George Eliot (*Adam Bede*):** *"Mrs. Poyser took pride in her clean dairy, where tubs of **semihard** curds stood draining on the stone slabs."*

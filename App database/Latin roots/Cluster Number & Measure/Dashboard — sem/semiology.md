@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semiology
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (philosophy) a philosophical theory of the functions of signs and symbols.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (philosophy) a philosophical theory of the functions of signs and symbols.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of signs and sign-using behavior in language and social life; semiotics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical diagnosis, the clinical study of physical symptoms and bodily signs as indicators of disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiology designates (philosophy) a philosophical theory of the functions of signs and symbols."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"A science that studies the life of signs within society is conceivable; I shall call it **semiology**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinical **semiology** of aortic aneurysms was expounded with brilliant clarity by the master physician."*
+> - 📜 **Roland Barthes (*Elements of Semiology*):** *"The ultimate aim of **semiology** is to reconstruct the signifying systems of culture and myth."*

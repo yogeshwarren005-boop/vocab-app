@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semipolitical
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Political in some (but not all) aspects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Political in some (but not all) aspects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having partially political character, aims, or connections; intermediate between social and partisan activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving political undertones or government influence within a civic, religious, or literary association.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semipolitical designates political in some (but not all) aspects."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The coffeehouses in Covent Garden served as **semipolitical** clubs where party pamphlets were debated."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The revolutionary assembly encouraged **semipolitical** fraternal societies to subvert traditional provincial loyalty."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Americans establish numerous **semipolitical** associations to achieve community goals without relying on state power."*

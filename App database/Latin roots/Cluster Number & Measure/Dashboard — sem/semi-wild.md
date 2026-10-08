@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semi-wild
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Partially wild.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Partially wild.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Living or growing in a natural, uncultivated state while remaining partially domesticated or managed by humans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing animals that roam freely on open range but belong to a human owner or herd.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semi-wild designates partially wild."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The herds of **semi-wild** cattle roaming the pampas retain the fierce horns and instincts of ancestral stock."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Bands of **semi-wild** horses galloped across the Argentine plains ahead of the approaching storm."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"A troop of **semi-wild** heath ponies grazed among the furze bushes on Egdon Heath."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semiabstract
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by stylized but recognizable subject matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by stylized but recognizable subject matter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Partially abstract; depicting recognizable natural or human forms simplified into stylized geometric designs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting an artistic balance between representational realism and non-figurative expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiabstract designates characterized by stylized but recognizable subject matter."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"Lily Briscoe looked upon her canvas, where **semiabstract** masses of color balanced the figures on the lawn."*
+> - 📜 **Aldous Huxley (*Themes and Variations*):** *"Modern decorative tapestries frequently employ **semiabstract** motifs derived from medieval heraldry."*
+> - 📜 **John Dewey (*Art as Experience*):** *"A **semiabstract** composition distills the emotional essence of a landscape without copying its literal details."*

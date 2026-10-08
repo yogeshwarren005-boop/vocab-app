@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semidiameter
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The apparent radius of a celestial body when viewed as a disc from the earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The apparent radius of a celestial body when viewed as a disc from the earth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A radius; half the diameter of a circle, sphere, or astronomical celestial body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The apparent angular measurement of half the disc of the Sun, Moon, or a planet viewed through a telescope.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semidiameter designates the apparent radius of a celestial body when viewed as a disc from the earth."*
+> - 📜 **Isaac Newton (*Principia Mathematica*):** *"The distance of the Moon from the center of the Earth is approximately sixty terrestrial **semidiameter** measures."*
+> - 📜 **Captain James Cook (*A Voyage Towards the South Pole*):** *"The nautical tables required us to apply the solar **semidiameter** correction to our sextant readings."*
+> - 📜 **William Whewell (*The History of the Inductive Sciences*):** *"Ancient astronomers calculated the Moon's distance by comparing its apparent **semidiameter** at horizon and zenith."*

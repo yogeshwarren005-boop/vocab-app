@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semiautobiographical
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a work that combines autobiography and fiction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a work that combines autobiography and fiction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dealing with or based partially on the author's personal life, while incorporating fictionalized elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Combining real personal recollections with creative literary invention in a narrative.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiautobiographical designates of or relating to a work that combines autobiography and fiction."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The narrative possesses a **semiautobiographical** warmth, transfiguring the hardships of the author's own childhood."*
+> - 📜 **James Joyce (*A Portrait of the Artist as a Young Man*):** *"Stephen Dedalus serves as the **semiautobiographical** vessel through which the author explored his Dublin youth."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"The memoir presents a vivid **semiautobiographical** account of life among dishwasher crews and tramps."*

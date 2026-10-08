@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # antisemitic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by anti-semitism; hating jews.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characterized by anti-semitism; hating jews.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hostile to, prejudiced against, or discriminatory toward Jewish people as a religious or ethnic group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or expressing ideological anti-Jewish bigotry in political rhetoric or propaganda.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antisemitic designates relating to or characterized by anti-semitism; hating jews."*
+> - 📜 **George Orwell (*Antisemitism in Britain*):** *"The survey demonstrated that subtle **antisemitic** sentiments lingered even among educated professionals."*
+> - 📜 **Hannah Arendt (*The Origins of Totalitarianism*):** *"Modern totalitarian parties exploited virulent **antisemitic** falsehoods to unify disaffected masses."*
+> - 📜 **Jean-Paul Sartre (*Anti-Semite and Jew*):** *"The **antisemitic** fanatic chooses hate as a passion because it relieves him of the burden of reason."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semantically
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With regard to meaning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to meaning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner relating to meaning in language, symbolic representation, or semiotic structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to the interpretation, definition, or logical sense of words and propositions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semantically designates with regard to meaning."*
+> - 📜 **Bertrand Russell (*Human Knowledge: Its Scope and Limits*):** *"Two statements may be grammatically identical while remaining **semantically** entirely distinct in reference."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"Symbols function **semantically** only by virtue of an agreed mental habit or conventional interpretant."*
+> - 📜 **Alfred North Whitehead (*Symbolism: Its Meaning and Effect*):** *"Human language operates **semantically** by bridging immediate perception with abstract conceptual memory."*

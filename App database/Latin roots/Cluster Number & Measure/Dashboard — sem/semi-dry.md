@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semi-dry
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Somewhat dry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Somewhat dry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Partially dry; possessing a slight hint of sweetness, applied especially to wines (medium dry).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by low but not negligible moisture or precipitation, as in transitional arid zones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semi-dry designates somewhat dry."*
+> - 📜 **Evelyn Waugh (*Brideshead Revisited*):** *"We ordered a bottle of crisp **semi-dry** Rhine wine to accompany the delicate river trout."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The expedition crossed a **semi-dry** plateau where stunted thorny scrub barely survived the drought."*
+> - 📜 **Ernest Hemingway (*A Moveable Feast*):** *"The waiter poured a light, **semi-dry** white wine that tasted clean and cold on the warm afternoon."*

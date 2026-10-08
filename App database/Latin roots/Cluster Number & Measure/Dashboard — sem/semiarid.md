@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semiarid
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Somewhat arid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Somewhat arid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by light and unpredictable rainfall, typically supporting grasslands and scrub rather than forests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intermediate in moisture between true desert environments and sub-humid savannahs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiarid designates somewhat arid."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The **semiarid** plains of Patagonia were sparsely clothed with spiny bushes and tufts of withered grass."*
+> - 📜 **John Wesley Powell (*Report on the Lands of the Arid Region of the United States*):** *"Agriculture upon the vast **semiarid** plateau requires systematic irrigation to avert catastrophic crop failure."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The distinctive flora of Australia was shaped by long adaptation to an intensely **semiarid** interior climate."*

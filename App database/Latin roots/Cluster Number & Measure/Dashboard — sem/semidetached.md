@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semidetached
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attached on one side only.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attached on one side only.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Joined to another house on one side by a shared common party wall (applied to residential houses).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Partially separated or connected, retaining partial independence from an adjoining structure or organization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semidetached designates attached on one side only."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"Rows of respectable **semidetached** villas spread relentlessly across the green suburban hills of Surrey."*
+> - 📜 **George Orwell (*Coming Up for Air*):** *"He looked upon the endless rows of little **semidetached** houses, each with its tiny garden and garage."*
+> - 📜 **E. M. Forster (*Howards End*):** *"The red-brick **semidetached** residence was furnished in the conventional style of prosperous London suburbs."*

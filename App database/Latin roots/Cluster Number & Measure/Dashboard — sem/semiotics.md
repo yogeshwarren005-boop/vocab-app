@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semiotics
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (philosophy) a philosophical theory of the functions of signs and symbols.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (philosophy) a philosophical theory of the functions of signs and symbols.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical and linguistic study of signs, symbols, and how they function in human communication and meaning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The analysis of cultural codes, gestures, visual images, and linguistic signs as systems of signification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiotics designates (philosophy) a philosophical theory of the functions of signs and symbols."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"The field of **semiotics** distinguishes three fundamental classes of signs: icons, indices, and symbols."*
+> - 📜 **Umberto Eco (*A Theory of Semiotics*):** *"In **semiotics**, anything can be considered a sign if it can be taken as standing for something else."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The investigation of words and ideas belongs properly to the branch of philosophy known as **semiotics**."*

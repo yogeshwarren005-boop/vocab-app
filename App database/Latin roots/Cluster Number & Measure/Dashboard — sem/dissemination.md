@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # dissemination
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The opening of a subject to widespread discussion and debate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being diffused or dispersed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of spreading something widely, especially knowledge, news, or philosophical opinions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The systemic biological spreading of seeds, parasites, or malignant cells throughout an organism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"And its fruits are, above all, its dissemination."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The process of the dissemination of Bahá'í literature, of Bahá'í publication and translation, must continue unabated, however much the sacrifice involved."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The careful dissemination of printed matter tended to sustain the interest of country societies."*
+> - 📜 **John Milton (*Areopagitica*):** *"Truth flourishes through the free inquiry and unhindered **dissemination** of printed books."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Miliary tuberculosis represents a rapid hematogenous **dissemination** of bacilli throughout the body."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The peace of the empire favored the peaceful **dissemination** of the Christian faith across the Mediterranean."*

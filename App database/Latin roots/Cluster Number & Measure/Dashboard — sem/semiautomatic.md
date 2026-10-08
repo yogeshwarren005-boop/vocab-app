@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semiautomatic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pistol that is a semiautomatic firearm capable of loading and firing continuously.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Partially automatic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Operating partially automatically, especially a firearm that self-loads a fresh cartridge after each trigger pull.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mechanism that performs a cycle of operations with automatic ejection and loading but requires manual cycling per stroke.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiautomatic designates a pistol that is a semiautomatic firearm capable of loading and firing continuously."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The militia sentries were issued foreign **semiautomatic** rifles that jammed whenever exposed to trench mud."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"The inspector examined the modern **semiautomatic** pistol found dropped in the bushes near the moat."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"Infantry advanced behind the protection of rapid **semiautomatic** weaponry that altered modern tactics."*

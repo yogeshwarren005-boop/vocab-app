@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semiparasite
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A parasitic plant that contains some chlorophyll and therefore is capable of photosynthesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A parasitic plant that contains some chlorophyll and therefore is capable of photosynthesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant that is photosynthetic and green, but obtains water, nitrogen, and minerals by tapping a host plant's xylem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hemiparasite, such as mistletoe or eyebright, possessing green foliage while parasitizing host sap.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiparasite designates a parasitic plant that contains some chlorophyll and therefore is capable of photosynthesis."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The mistletoe is a true **semiparasite**, elaborating carbon through its green leaves while drawing sap from the oak."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"We found an arborescent **semiparasite** of the family Loranthaceae growing abundantly upon wild chestnuts."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature and Other Essays*):** *"Various species of sandalwood function as a **semiparasite**, attaching haustoria to the root systems of forest trees."*

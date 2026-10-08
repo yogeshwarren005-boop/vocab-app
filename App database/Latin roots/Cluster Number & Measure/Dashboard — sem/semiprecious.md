@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semiprecious
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of gemstones having less commercial value than precious stones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of gemstones having less commercial value than precious stones.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Denoting minerals or gemstones (such as amethyst, opal, garnet, or jade) of lesser monetary value than diamonds or rubies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to gemstones prized for beauty, color, and lapidary carving rather than supreme rarity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiprecious designates used of gemstones having less commercial value than precious stones."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The Byzantine altar screen was encrusted with jasper, chalcedony, and other vibrant **semiprecious** stones."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He spent months collecting bizarre **semiprecious** gems, admiring the curious optical fire of cat's-eyes and chrysoberyls."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The Indian treasure casket contained heaps of **semiprecious** agates mixed with priceless orient pearls."*

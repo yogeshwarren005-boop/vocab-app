@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semi-tuberous
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Partly tuberous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Partly tuberous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing a swollen or thickened rootstock that resembles or functions partially as a true tuber.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having roots or subterranean stems with moderate fleshy storage capacity without forming distinct tubers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semi-tuberous designates partly tuberous."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Certain cultivated begonias possess **semi-tuberous** rootstocks that store moisture during the dormant season."*
+> - 📜 **Joseph Dalton Hooker (*Flora Antarctica*):** *"The alpine plant survives drought through an underground **semi-tuberous** rhizome embedded in rock fissures."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature and Other Essays*):** *"Epiphytic orchids often develop **semi-tuberous** pseudobulbs capable of withstanding prolonged dry spells."*

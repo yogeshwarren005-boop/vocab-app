@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semiconductive
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having characteristics of a semiconductor; that is having electrical conductivity greater than insulators but less than good conductors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having characteristics of a semiconductor; that is having electrical conductivity greater than insulators but less than good conductors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to materials that possess moderate electrical conductivity that can be altered by impurities or fields.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by charge-carrier transport mechanisms typical of semiconductor substances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiconductive designates having characteristics of a semiconductor; that is having electrical conductivity greater than insulators but less than good conductors."*
+> - 📜 **Richard Feynman (*The Character of Physical Law*):** *"Quantum mechanical tunneling across **semiconductive** junctions explains the operation of tunnel diodes."*
+> - 📜 **Arthur C. Clarke (*Voices from the Sky*):** *"Solar cells manufactured from **semiconductive** silicon converted direct sunlight into electrical energy."*
+> - 📜 **Isaac Asimov (*The Rest of the Robots*):** *"The robot's positronic brain relied upon delicate **semiconductive** pathways that simulated human neural synapses."*

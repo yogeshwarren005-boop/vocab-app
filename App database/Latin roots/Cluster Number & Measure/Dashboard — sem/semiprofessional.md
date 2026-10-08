@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semiprofessional
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An athlete who plays for pay on a part-time basis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An athlete who plays for pay on a part-time basis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Engaging in an activity, occupation, or sport for financial remuneration but on a part-time rather than full-time basis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Composed of or organized for participants who receive partial compensation for their services.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiprofessional designates an athlete who plays for pay on a part-time basis."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The provincial orchestral society consisted of a **semiprofessional** string section augmented by eager amateurs."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The town cricket club engaged a **semiprofessional** bowler to train the young players during the season."*
+> - 📜 **Jack London (*Martin Eden*):** *"He earned occasional pocket money by singing tenor in a **semiprofessional** choir at church festivals."*

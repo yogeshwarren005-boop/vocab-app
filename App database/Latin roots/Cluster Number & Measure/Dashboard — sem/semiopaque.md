@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semiopaque
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Partially opaque.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Partially opaque.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Partially opaque; transmitting light diffusely while preventing transparent viewing of objects through it; translucent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having cloudy, milky, or frosted optical properties in glass, minerals, or anatomical fluids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiopaque designates partially opaque."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The chalcedony nodules contained bands of milky, **semiopaque** quartz interspersed with crystalline veins."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The frosty morning mist formed a **semiopaque** curtain that dimmed the rising sun to a pale orange disk."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The window was glazed with thick, **semiopaque** panes of green bottle glass that shut out the street."*

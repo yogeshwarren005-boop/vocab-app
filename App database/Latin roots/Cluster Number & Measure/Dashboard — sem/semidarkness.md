@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semidarkness
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Partial darkness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Partial darkness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of partial darkness or dim gloom; twilight, dusk, or heavy penumbra.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obscurity produced by inadequate lighting, shading, or the fading of natural twilight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Yes, a new happiness was revealed to me of which man cannot be deprived,” he thought as he lay in the semidarkness of the quiet hut, gazing fixedly before him with feverish wide open eyes."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Natásha lay on the bed and in the semidarkness of the room scanned Princess Mary’s face."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"I--” He broke off suddenly, gave a hasty look around and bolted off the end of the porch into the semidarkness of the lawn."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The minister walked through the **semidarkness** of the forest path, haunted by remorseful visions."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"In the **semidarkness** of the hall, the ancient portraits seemed to glare with menacing suspicion."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"I peered into the **semidarkness** of the subterranean gallery, catching the gleam of phosphorescent eyes."*

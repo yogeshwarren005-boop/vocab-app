@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semiofficial
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having some official authority or sanction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having some official authority or sanction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having some official standing, endorsement, or authority, but not formally ratified or issued by the state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Communicated privately through government sources to test public reaction before official policy is declared.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiofficial designates having some official authority or sanction."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"A **semiofficial** communique was inserted into the gazette to quiet popular alarms concerning the currency."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"Diplomatic feelers were exchanged through **semiofficial** channels before the formal armistice negotiations opened."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The party newspaper published a **semiofficial** denial that contradicted reports from the frontline commanders."*

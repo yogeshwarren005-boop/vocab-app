@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semolina
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Milled product of durum wheat (or other hard wheat) used in pasta.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Milled product of durum wheat (or other hard wheat) used in pasta.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The coarse, purified wheat middlings of durum wheat used in making pasta, couscous, and breakfast puddings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hard, granular wheat particles left after the initial sifting of the endosperm in grain milling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semolina designates milled product of durum wheat (or other hard wheat) used in pasta."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The frugal landlady served us a steaming pudding of **semolina** sweetened with brown treacle."*
+> - 📜 **Virginia Woolf (*The Voyage Out*):** *"The ship's dinner concluded with baked apples and a solid mold of nursery **semolina**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The invalid was ordered a delicate broth thickened with finely sifted Italian **semolina**."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semi-prostrate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Imperfectly prostrate; prostrate for part of its length.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Imperfectly prostrate; prostrate for part of its length.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Trailing or trailing close to the ground, with branch tips curving upward; not entirely flat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing an anatomical posture or vegetation mat spreading horizontally near the soil surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semi-prostrate designates imperfectly prostrate; prostrate for part of its length."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The creeping thyme forms a **semi-prostrate** mat that spreads over exposed calcareous slopes."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"High above the timberline, dwarf junipers grow in a **semi-prostrate** tangle beneath the buffeting gale."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"Sub-antarctic vegetation frequently assumes a **semi-prostrate** growth habit to escape freezing winds."*

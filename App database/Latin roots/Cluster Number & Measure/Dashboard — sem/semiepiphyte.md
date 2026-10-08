@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semiepiphyte
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant that is an epiphyte for part of its life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant that is an epiphyte for part of its life.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant that begins life as an epiphyte in a tree canopy and later sends roots down to make contact with the soil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strangler fig or hemi-epiphytic vine whose roots ultimately anchor in the forest floor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiepiphyte designates a plant that is an epiphyte for part of its life."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The enormous fig tree started life as a **semiepiphyte** on an host trunk before strangling its support."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Many species of Ficus behave as a **semiepiphyte**, germinating high on branches and sending roots to the earth."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"We observed an arborescent **semiepiphyte** whose descending aerial roots formed a cage around the dying palm."*

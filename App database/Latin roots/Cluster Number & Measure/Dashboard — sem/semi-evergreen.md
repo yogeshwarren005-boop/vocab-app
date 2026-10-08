@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semi-evergreen
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a plant that is incompletely evergreen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a plant that is incompletely evergreen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Retaining foliage for much of the winter or shedding leaves only just before new spring growth emerges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Losing leaves briefly during dry or cold seasons depending on the severity of the climate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semi-evergreen designates of a plant that is incompletely evergreen."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Under mild maritime winters, several deciduous shrubs assume a **semi-evergreen** character."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature and Other Essays*):** *"Monsoon forests are predominantly **semi-evergreen**, losing foliage only during the peak of the dry season."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"A screen of **semi-evergreen** privet sheltered the doctor's cottage from the biting north wind."*

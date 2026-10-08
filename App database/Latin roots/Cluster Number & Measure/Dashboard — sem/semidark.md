@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semidark
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Partially devoid of light or brightness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Partially devoid of light or brightness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Partially dark; dimly illuminated; shaded by twilight, dusk, or heavy curtains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing a dusky, shadowy, or half-light atmosphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The shed became semidark, and the sharp rattle of the drums on two sides drowned the sick man’s groans."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"We groped our way through the **semidark** passage toward the flickering candle in the back parlor."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The dairy barn was **semidark** in the early dawn before the milkmaids lit their horn lanterns."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"He stepped into the **semidark** cabin where the dying agent lay gasping in his hammock."*

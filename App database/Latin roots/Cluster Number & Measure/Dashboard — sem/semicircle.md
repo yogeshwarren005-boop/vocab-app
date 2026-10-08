@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semicircle
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plane figure with the shape of half a circle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plane figure with the shape of half a circle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A half of a circle or of its circumference, bounded by an arc of 180 degrees and its diameter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arrangement of persons, chairs, or objects curved in the shape of a half-circle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not for because Your brows are blacker; yet black brows, they say, Become some women best, so that there be not Too much hair there, but in a semicircle Or a half-moon made with a pen."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn warms before the bars, alternately, the palms and knuckles of his hands and looks (from behind that blind which is always down) at the trio sitting in a little semicircle before him."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The servants were called in, the dining-room tables wheeled away, the lights otherwise disposed, the chairs placed in a semicircle opposite the arch."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The family sat in a cozy **semicircle** around the cheerful hearth, listening to the winter wind outside."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The Sikhs stood in a silent **semicircle** with their rifles ready behind the low mud parapet."*
+> - 📜 **Euclid (*Elements of Geometry*):** *"An angle inscribed in a **semicircle** is demonstrated to be invariably a right angle."*

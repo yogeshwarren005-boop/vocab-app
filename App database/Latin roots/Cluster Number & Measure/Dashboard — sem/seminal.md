@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # seminal
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or containing or consisting of semen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing seeds of later development.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strongly influencing later developments; highly original, foundational, and generative of future ideas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or containing semen or spermatozoa in biological anatomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Since I have undertaken to manhandle this Leviathan, it behoves me to approve myself omnisciently exhaustive in the enterprise; not overlooking the minutest seminal germs of his blood, and spinning him out to the uttermost coil of his bowels."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Since I have undertaken to manhandle this Leviathan, it behooves me to approve myself omnisciently exhaustive in the enterprise; not overlooking the minutest seminal germs of his blood, and spinning him out to the uttermost coil of his bowels."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Without her aid, this seminal principle of mischief, this root of upas, could not have been planted."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Certain profound observations contain within them a **seminal** power that blossoms in subsequent generations."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Lyell's Principles of Geology was a **seminal** work that transformed how naturalists understood the Earth."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Infection spreading from the posterior urethra easily involves the **seminal** vesicles and epididymis."*

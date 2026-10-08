@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semivowel
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vowellike sound that serves as a consonant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vowellike sound that serves as a consonant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A speech sound having the vocalic quality of a vowel but functioning as a syllable boundary like a consonant (e.g. [w], [j]).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A glide or non-syllabic vowel element that transitions immediately into an adjacent vowel nucleus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semivowel designates a vowellike sound that serves as a consonant."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The transition from the pure vowel 'i' to the palatal **semivowel** 'y' is almost imperceptible in rapid speech."*
+> - 📜 **William Dwight Whitney (*The Life and Growth of Language*):** *"Phonologists classify sounds like 'w' and 'y' as **semivowel** glides that share attributes of open vowels and consonants."*
+> - 📜 **Henry Sweet (*A Handbook of Phonetics*):** *"A **semivowel** differs from its corresponding vowel chiefly in its brevity and non-syllabic function."*

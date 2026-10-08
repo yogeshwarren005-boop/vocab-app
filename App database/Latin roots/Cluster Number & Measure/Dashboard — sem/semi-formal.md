@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semi-formal
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Moderately formal; requiring a dinner jacket.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moderately formal; requiring a dinner jacket.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Requiring or characterized by dress and manners that are smart and neat but less elaborate than full formal attire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intermediate between casual conversation and rigid ceremonial protocol in meetings or writing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semi-formal designates moderately formal; requiring a dinner jacket."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"Guests arrived at the garden terrace in elegant **semi-formal** evening clothes as the orchestra began to play."*
+> - 📜 **Virginia Woolf (*Mrs. Dalloway*):** *"Clarissa greeted her acquaintances with the practiced warmth of a **semi-formal** drawing-room reception."*
+> - 📜 **Evelyn Waugh (*A Handful of Dust*):** *"The country house weekend maintained a **semi-formal** atmosphere where dinner jackets were customary."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semirigid
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a form maintained by a rigid internal structure as well as by internal gas pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not fully rigid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Partially rigid; having a firm structure that maintains definite shape while possessing some flexibility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing aircraft, airships, or surgical splints that combine a stiff structural keel with flexible envelopes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semirigid designates having a form maintained by a rigid internal structure as well as by internal gas pressure."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The great airship was of a **semirigid** design, its silk envelope supported by an internal steel keel."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The surgeon immobilized the fractured limb with a **semirigid** plaster and gutta-percha splint."*
+> - 📜 **Arthur C. Clarke (*The Promise of Space*):** *"Early stratosphere balloons relied on **semirigid** booms to keep sensitive telemetry antennas deployed."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semibreve
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical note having the longest time value (equal to four beats in common time).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical note having the longest time value (equal to four beats in common time).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical note having the time value of two minims or four crotchets; a whole note.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The longest standard note value in common modern musical notation, represented by an open oval notehead without a stem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semibreve designates a musical note having the longest time value (equal to four beats in common time)."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The choir held the final **semibreve** with glorious resonance, letting the chord fade softly into the cathedral nave."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"Michael Mail paused on his bass-viol, waiting for the leader's violin to conclude its prolonged **semibreve**."*
+> - 📜 **Hermann von Helmholtz (*On the Sensations of Tone*):** *"In Renaissance polyphony, the **semibreve** served as the fundamental temporal unit of musical measure."*

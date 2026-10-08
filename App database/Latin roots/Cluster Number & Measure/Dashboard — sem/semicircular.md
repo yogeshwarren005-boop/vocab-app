@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semicircular
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curved into a half circle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curved into a half circle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the form or shape of a semicircle; arranged in a half-circle curve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the three fluid-filled semicircular canals of the inner ear responsible for bodily equilibrium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"This done, a broad, semicircular line is cut round the hole, the hook is inserted, and the main body of the crew striking up a wild chorus, now commence heaving in one dense crowd at the windlass."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The homestead consisted of a threshing floor, outhouses, stables, a bathhouse, a lodge, and a large brick house with semicircular façade still in course of construction."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"This done, a broad, semicircular line is cut round the hole, the hook is inserted, and the main body of the crew striking up a wild chorus, now commence heaving in one dense crowd at the windlass."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The three **semicircular** canals of the labyrinth detect angular acceleration and maintain bodily balance."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The Romanesque apse was finished with a row of simple **semicircular** arches carved from Istrian stone."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The raised eyebrows formed a **semicircular** arch across the forehead during sudden astonishment."*

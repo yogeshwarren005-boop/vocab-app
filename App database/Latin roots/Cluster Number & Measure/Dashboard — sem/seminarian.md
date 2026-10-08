@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # seminarian
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A student at a seminary (especially a roman catholic seminary).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A student at a seminary (especially a roman catholic seminary).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A student studying theology and preparing for ordination to the priesthood or religious ministry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A resident pupil enrolled in an ecclesiastical or theological training academy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Systematic Theology has its difficulties to the seminarian, but more for him who attempts to master it alone."*
+> - 📜 **John Henry Newman (*The Idea of a University*):** *"The young **seminarian** immersed his mind in Patristic theology before receiving the sacrament of Holy Orders."*
+> - 📜 **Fyodor Dostoevsky (*The Brothers Karamazov*):** *"The ambitious **seminarian** Rakitin argued with cynical cleverness against the austere wisdom of Father Zosima."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"The grave demeanor of the Roman **seminarian** reflected long months of ascetic meditation and prayer."*

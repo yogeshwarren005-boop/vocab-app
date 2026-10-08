@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semigloss
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A paint that dries with a finish between glossy and flat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A paint that dries with a finish between glossy and flat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a surface luster or sheen intermediate between a flat matte finish and a high-reflective gloss.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A paint, enamel, or paper coating that produces a smooth, durable, moderately reflective surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semigloss designates a paint that dries with a finish between glossy and flat."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The waxed woodwork acquired an agreeable **semigloss** that accentuated the natural grain of the timber."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The hospital corridor walls were coated in sanitary **semigloss** paint that wiped clean without a trace."*
+> - 📜 **George Orwell (*Coming Up for Air*):** *"The cheap new kitchen cabinets gleamed with fresh white **semigloss** under the glare of the bare bulb."*

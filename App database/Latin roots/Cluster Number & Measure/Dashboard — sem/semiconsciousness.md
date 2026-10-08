@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semiconsciousness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marginal consciousness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marginal consciousness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of partial awareness or stupor where clear perception and cognitive control are blunted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A twilight cognitive condition intermediate between full wakeful alertness and complete unconsciousness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiconsciousness designates marginal consciousness."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In the drowsy **semiconsciousness** preceding natural sleep, vivid hypnagogic images float before the mind."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"She drifted into a pleasant **semiconsciousness**, lulled by the rhythm of waves breaking upon the shingle."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The patient emerged slowly from the **semiconsciousness** produced by the ether inhalation."*

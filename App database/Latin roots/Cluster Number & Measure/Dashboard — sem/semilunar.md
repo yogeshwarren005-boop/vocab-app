@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semilunar
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling the new moon in shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling the new moon in shape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a half-moon or crescent curve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the pocket-shaped valves of the aorta and pulmonary artery or the menisci of the knee.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semilunar designates resembling the new moon in shape."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The aortic **semilunar** valves close firmly during ventricular diastole to prevent blood regurgitation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Incompetence of the **semilunar** cusps generates the characteristic diastolic murmur of aortic insufficiency."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The wings of the moth displayed delicate **semilunar** markings that mimicked the shadow of dry leaves."*

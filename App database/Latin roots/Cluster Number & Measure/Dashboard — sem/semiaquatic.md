@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semiaquatic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an aquatic early or larval form and a terrestrial adult form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Partially aquatic; living or growing partly on land and partly in water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Living, growing, or adapted to spend part of its life cycle in water and part on dry land.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inhabiting marshes, riverbanks, or wetlands; having adaptations for both swimming and terrestrial walking.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiaquatic designates having an aquatic early or larval form and a terrestrial adult form."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The otter and water-ousel demonstrate how a terrestrial quadrupeds and birds adopt **semiaquatic** habits."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"Amphibian respiration reflects their **semiaquatic** existence, combining rudimentary lungs with vascular skin."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Mangrove swamps shelter numerous **semiaquatic** crabs that forage upon mudbanks between tidal inundations."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semicentenary
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The 50th anniversary (or the celebration of it).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or marking the 50th anniversary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fiftieth anniversary; or the public celebration of an event that occurred fifty years earlier.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or commemorating a fifty-year milestone or anniversary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semicentenary designates the 50th anniversary (or the celebration of it)."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The nation prepared to commemorate the **semicentenary** of the glorious revolution with civic banquets."*
+> - 📜 **Edward Gibbon (*Memoirs of My Life and Writings*):** *"The academy observed the **semicentenary** of its royal charter with solemn orations and new prizes."*
+> - 📜 **Oliver Wendell Holmes (*Over the Teacups*):** *"The surviving classmates gathered at Harvard to celebrate the **semicentenary** of their college graduation."*

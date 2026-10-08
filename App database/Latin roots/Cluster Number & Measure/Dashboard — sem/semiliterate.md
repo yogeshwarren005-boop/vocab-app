@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semiliterate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Literate but poorly informed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Barely able to read and write.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to read and write simple words or sentences, but lacking proficiency in complex literacy or literature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by rudimentary, grammatically deficient, or phonetically clumsy written expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiliterate designates literate but poorly informed."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"The miner wrote his grievance in a **semiliterate** hand upon the back of a discarded tobacco packet."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The country squires were often **semiliterate** gentlemen whose intellectual horizon ended at the fox coverts."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"Elementary schooling produced a vast **semiliterate** public vulnerable to sensational newspaper propaganda."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semi-climber
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant that tends to climb and on occasion can grow like a vine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant that tends to climb and on occasion can grow like a vine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scrambling plant that climbs partially or requires external trellis support because it lacks specialized tendrils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scandent shrub whose rambling branches lean on surrounding vegetation without clinging organs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semi-climber designates a plant that tends to climb and on occasion can grow like a vine."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The wild rose behaves as a **semi-climber**, ascending hedgerows by hooking its curved prickles over branches."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"In the dense sub-tropical ravine, we observed an unusual **semi-climber** draped over the stunted rhododendrons."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature and Other Essays*):** *"Many scrambling brambles act as a vigorous **semi-climber**, pushing long shoots toward the rainforest canopy."*

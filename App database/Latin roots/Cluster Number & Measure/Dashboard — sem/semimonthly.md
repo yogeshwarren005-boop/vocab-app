@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semimonthly
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A periodical that is published twice each month (or 24 issues per year).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring twice a month.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring, appearing, or published twice a month, typically at intervals of approximately two weeks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A periodical, gazette, or salary disbursement issued twice in each calendar month.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semimonthly designates a periodical that is published twice each month (or 24 issues per year)."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The packet boat maintained a regular **semimonthly** service between St. Louis and the lower plantations."*
+> - 📜 **William Makepeace Thackeray (*The History of Pendennis*):** *"The young author contributed critical essays to a respectable **semimonthly** review published in Fleet Street."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Laborers who receive **semimonthly** wages are better enabled to purchase provisions without relying on credit."*

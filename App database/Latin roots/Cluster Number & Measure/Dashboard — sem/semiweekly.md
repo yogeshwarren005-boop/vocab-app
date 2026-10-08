@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semiweekly
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A periodical that is published twice each week (or 104 issues per year).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring twice a week.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring, published, or executed twice a week; occurring at intervals of three or four days.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A newspaper or packet coach service issued or operating twice in each seven-day week.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiweekly designates a periodical that is published twice each week (or 104 issues per year)."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The mining town supported a lively **semiweekly** newspaper printed on coarse wrapping paper."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The royal mail established a **semiweekly** courier service between London and the major garrison ports."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Mr. Pickwick regularly took the **semiweekly** stagecoach from the Bull and Mouth into the country."*

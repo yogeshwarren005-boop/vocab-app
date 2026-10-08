@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semiotic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to semiotics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to semiotics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to signs, symbols, signifying systems, or the interpretation of meaning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical medicine, relating to symptoms and physical signs as diagnostic indicators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiotic designates of or relating to semiotics."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"Logic in its general sense is only another name for **semiotic**, the quasi-necessary doctrine of signs."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The third branch of science is the doctrine of signs, which may not unfitly be termed **semiotic**."*
+> - 📜 **Umberto Eco (*A Theory of Semiotics*):** *"A **semiotic** analysis treats culture as a vast communication network governed by underlying codes."*

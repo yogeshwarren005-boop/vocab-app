@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semipermeable
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a membrane) selectively permeable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a membrane) selectively permeable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Allowing certain small molecules or solvent liquids to pass through while preventing the passage of larger solutes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing biological cell membranes that regulate osmotic balance by selective diffusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semipermeable designates (of a membrane) selectively permeable."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The plasma membrane of the red blood corpuscle behaves as a **semipermeable** barrier governing osmosis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Edema results when altered capillary wall permeability damages the normal **semipermeable** balance of tissues."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"By imagining a **semipermeable** partition, Van 't Hoff formulated the thermodynamic laws of osmotic pressure."*

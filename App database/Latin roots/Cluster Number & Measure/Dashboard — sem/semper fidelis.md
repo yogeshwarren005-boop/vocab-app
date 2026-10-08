@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semper fidelis
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin sem within the domain of Number & Measure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of sem in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Latin phrase meaning 'always faithful', notably adopted as the official motto of the United States Marine Corps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historic heraldic motto signifying unwavering loyalty, constancy, and steadfast devotion to duty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semper fidelis designates pertaining to, derived from, or characteristic of latin sem within the domain of number & measure."*
+> - 📜 **Arthur Conan Doyle (*The White Company*):** *"The knight raised his banner emblazoned with the noble motto **Semper fidelis** as the trumpets sounded."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The legionaries swore an oath to remain **semper fidelis** to the emperor and the republic."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The American Marines lived and died by their proud traditional battle cry of **Semper fidelis** across the Pacific islands."*

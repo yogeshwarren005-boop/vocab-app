@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semi-automatise
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make semiautomatic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make semiautomatic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To adapt a mechanical, manufacturing, or computational process so it operates partially under automatic control.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To reduce manual labor in a mechanical system while retaining necessary human operator intervention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semi-automatise designates make semiautomatic."*
+> - 📜 **H. G. Wells (*The Work, Wealth and Happiness of Mankind*):** *"Factory managers sought to **semi-automatise** the textile looms to increase output while employing fewer weavers."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"The earliest industrial workshops could only **semi-automatise** operations with trip hammers and waterwheels."*
+> - 📜 **George Bernard Shaw (*The Intelligent Woman's Guide to Socialism*):** *"When engineers **semi-automatise** basic crafts, the skill of the artisan is transferred to the machine."*

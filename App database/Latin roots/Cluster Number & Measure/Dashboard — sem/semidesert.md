@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semidesert
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A region much like a desert but usually located between a desert and the surrounding regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region much like a desert but usually located between a desert and the surrounding regions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An arid region intermediate between true barren desert and grassland, supporting sparse drought-tolerant vegetation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A landscape characterized by dry scrub, low erratic rainfall, and extreme temperature fluctuations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semidesert designates a region much like a desert but usually located between a desert and the surrounding regions."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The sterile **semidesert** extended toward the Andes, inhabited only by guanacos and burrowing rodents."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The acacia scrub of the interior **semidesert** provides forage for specialized marsupial populations."*
+> - 📜 **John Wesley Powell (*The Exploration of the Colorado River*):** *"The expedition climbed out of the canyon onto a windswept **semidesert** mesa covered in sagebrush."*

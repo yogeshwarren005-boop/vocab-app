@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semasiology
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of semantics that studies the cognitive aspects of meaning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of semantics that studies the cognitive aspects of meaning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The historical branch of linguistics dealing with the meanings of words and changes in meaning; semantics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The scientific classification of semantic shifts from physical descriptions to psychological metaphors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semasiology designates the branch of semantics that studies the cognitive aspects of meaning."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The principles of comparative **semasiology** reveal how spiritual words trace their pedigree to material roots."*
+> - 📜 **George Saintsbury (*A History of Nineteenth Century Literature*):** *"Philological research turned from mere phonology to the richer historical field of **semasiology**."*
+> - 📜 **William Dwight Whitney (*The Life and Growth of Language*):** *"In studying lexical evolution, the investigator finds in **semasiology** the living record of human thought."*

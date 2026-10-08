@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sem]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # semisynthetic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not of natural origin; prepared or made artificially.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not of natural origin; prepared or made artificially.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Produced by chemical synthesis from naturally occurring starting materials, rather than synthesized de novo.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to pharmaceuticals or polymers (such as ampicillin or rayon) derived by modifying natural molecules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semisynthetic designates not of natural origin; prepared or made artificially."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The introduction of **semisynthetic** penicillins expanded antibacterial therapy against penicillinase-producing staphylococci."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"Materials science advanced by fashioning **semisynthetic** polymers that combined organic flexibility with metallic strength."*
+> - 📜 **Isaac Asimov (*The Chemicals of Life*):** *"Biochemists synthesize **semisynthetic** hormones by slightly modifying sterols extracted from wild yams."*

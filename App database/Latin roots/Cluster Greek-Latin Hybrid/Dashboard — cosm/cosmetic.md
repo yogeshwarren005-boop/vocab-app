@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cosm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cosmetic
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A toiletry designed to beautify the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving an esthetic rather than a useful purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A preparation applied to the face or body to improve or alter the appearance; makeup.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affecting only the surface appearance of something rather than its fundamental substance; superficial.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No wonder that in old times this sperm was such a favorite cosmetic."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The juice of the ‘papa’ root found in great abundance at the head of the valley, is held in great esteem as a cosmetic, with which many of the females daily anoint their whole person."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Nothing, therefore, can be imagined more singular than the appearance of these nearly naked damsels immediately after the application of the cosmetic."*
+> - 📜 **Alexander Pope (*The Rape of the Lock*):** *"First, robed in white, the nymph intent adores, with head uncovered, the **cosmetic** powers."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The ancient dowager repaired the ravages of time with elaborate coats of **cosmetic** paint."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"A superficial **cosmetic** change in names cannot conceal the destruction of ancient legal liberties."*

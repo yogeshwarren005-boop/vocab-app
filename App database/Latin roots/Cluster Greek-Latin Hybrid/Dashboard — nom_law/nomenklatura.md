@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — nom_law]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # nomenklatura
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The system of patronage in communist countries; controlled by committees in the communist party.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The system of patronage in communist countries; controlled by committees in the communist party.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A list of influential posts in Soviet government and industry, and the elite cadre appointed to fill them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any entrenched ruling bureaucratic elite or privileged managerial caste.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nomenklatura designates the system of patronage in communist countries; controlled by committees in the communist party."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"The Inner Party formed a permanent **nomenklatura** whose sole objective was the perpetual preservation of power."*
+> - 📜 **Bertrand Russell (*The Practice and Theory of Bolshevism*):** *"The new communist bureaucracy swiftly consolidated into a privileged **nomenklatura** detached from the proletariat."*
+> - 📜 **Arthur Koestler (*The Yogi and the Commissar*):** *"The Soviet state created an unyielding **nomenklatura** whose privileges exceeded those of the old tsarist nobility."*

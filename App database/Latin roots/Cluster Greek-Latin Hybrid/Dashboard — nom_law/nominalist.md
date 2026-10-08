@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — nom_law]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # nominalist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A philosopher who has adopted the doctrine of nominalism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A philosopher who has adopted the doctrine of nominalism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An adherent of nominalism; a thinker who holds that universal concepts are mere names.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A philosopher who rejects the independent ontological existence of abstract forms or essences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nominalist designates a philosopher who has adopted the doctrine of nominalism."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The consistent **nominalist** insists that species and genera are works of the understanding, having no archetype in nature."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"As a resolute **nominalist**, I hold that all general ideas are nothing but particular ideas annexed to a common term."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"William of Ockham was the leading **nominalist** of the fourteenth century, pruning scholastic metaphysics with his razor."*

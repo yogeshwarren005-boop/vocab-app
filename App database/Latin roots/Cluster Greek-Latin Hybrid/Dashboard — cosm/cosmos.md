@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cosm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cosmos
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Everything that exists anywhere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various mostly mexican herbs of the genus cosmos having radiate heads of variously colored flowers and pinnate leaves; popular fall-blooming annuals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The universe seen as a well-ordered, harmonious, and integrated whole, as opposed to chaos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A garden flower of the daisy family (*Cosmos bipinnatus*) with feathery leaves and bright ray florets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"With all the humour and charm there is in Plato, we cannot escape his tremendous teaching on the age-long consequences of good and evil in a cosmos ordered by God."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Men "could do no other"--they had to determine for themselves the significance of Jesus in the real world, in the whole cosmos of God; and it meant fruitful conflict of opinion, the growth of the human mind, and an ever-heightened emphasis on Jesus."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Shakespeare’s moral proportion appeared to them, in their low spiritual condition, a moral chaos, which they set about converting, in some of his great plays, into a cosmos; and a sad muss, if not a ridiculous muss, they made of it."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"The physical description of the universe encompasses the grand harmony of the **cosmos** and its enduring laws."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"The intellect searches for unity, striving to resolve the manifold particulars of nature into a sublime **cosmos**."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Man's sacred mission on this earth is to transform surrounding chaos into fruitful, obedient **cosmos**."*

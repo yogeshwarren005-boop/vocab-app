@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — theo]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # theology
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The rational and systematic study of religion and its influences and of the nature of religious truth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A particular system or school of religious beliefs and teachings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The systematic study of the nature of God, divine truth, and religious faith, practice, and experience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specific religious system of doctrinal beliefs, principles, or concepts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Some people might have cried “Alas, poor Theology!” at the hideous defacement—the last grotesque phase of a creed which had served mankind well in its time."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Felix, though an offshoot from a far more recent point in the devolution of theology than his father, was less self-sacrificing and disinterested."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The sermon, as might be expected, was of the extremest antinomian type; on justification by faith, as expounded in the theology of St Paul."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Others apart sat on a hill retired, in thoughts more elevate, and reasoned high of providence, foreknowledge, will, and fate; vain **theology** in wandering mazes lost."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman senate adopted the varied **theology** of conquered nations without fear or jealousy."*
+> - 📜 **David Hume (*Dialogues Concerning Natural Religion*):** *"Natural **theology** seeks to infer the wisdom and benevolence of the supreme architect from the frame of the universe."*

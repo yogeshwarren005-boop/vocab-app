@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — nom_law]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # noma
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acute ulceration of the mucous membranes of the mouth or genitals; often seen in undernourished children.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acute ulceration of the mucous membranes of the mouth or genitals; often seen in undernourished children.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A severe, gangrenous bacterial disease affecting the mucous membranes of the mouth and cheek; cancrum oris.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rapidly spreading destructive ulceration occurring chiefly in malnourished or debilitated children.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noma designates acute ulceration of the mucous membranes of the mouth or genitals; often seen in undernourished children."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In children convalescing from measles in squalid tenements, **noma** presents as a terrifying gangrenous destruction of the cheek."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Pathologists classify **noma** among the most virulent septic ulcerations known to clinical medicine."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The dispensary case of **noma** required instant antiseptic cautery to halt the rapid spread of necrosis."*

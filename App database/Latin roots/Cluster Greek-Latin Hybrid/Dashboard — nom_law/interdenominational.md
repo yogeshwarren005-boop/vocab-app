@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — nom_law]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # interdenominational
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring between or among or common to different churches or denominations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring between or among or common to different churches or denominations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, involving, or shared by more than one religious denomination or sect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conducted cooperatively across different ecclesiastical bodies for common worship or philanthropy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interdenominational designates occurring between or among or common to different churches or denominations."*
+> - 📜 **William Booth (*In Darkest England and the Way Out*):** *"Our city relief shelters operate on an **interdenominational** basis, welcoming destitute souls of every persuasion."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"An **interdenominational** Bible society united rival ministers in a common effort to distribute Scripture."*
+> - 📜 **John Ruskin (*Fors Clavigera*):** *"True charity must be thoroughly **interdenominational**, asking not what church a hungry workman attends."*

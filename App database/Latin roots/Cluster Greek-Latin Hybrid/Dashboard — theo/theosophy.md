@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — theo]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # theosophy
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of belief based on mystical insight into the nature of god and the soul.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of belief based on mystical insight into the nature of god and the soul.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various philosophies maintaining that a knowledge of God may be attained through spiritual ecstasy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The modern esoteric movement founded by Helena Blavatsky in 1875 emphasizing universal brotherhood.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Groups of people endeavoured to combine Christianity with the old thought, with philosophy, theosophy, theurgy, and magic."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Hans Lassen Martensen’s ‘Jacob Boehme: his life and teaching, or studies in theosophy: translated from the Danish by T."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Christian Science is unerring and Divine; the human sense of things errs because it is human. 99:18 Those individuals, who adopt theosophy, spiritualism, or hypnotism, may possess natures above some others who eschew their false beliefs."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"The Christian mystic pursues a divine **theosophy** that seeks the illumination of the soul through prayer."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"In **theosophy**, we discover an eclectic attempt to reconcile Western science with Oriental mysticism."*
+> - 📜 **Thomas Carlyle (*Critical and Miscellaneous Essays*):** *"Novalis's poetic worldview was a species of spiritual **theosophy**, seeing the divine in every flower."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — nom_law]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # nomenclature
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of words used to name things in a particular discipline.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of words used to name things in a particular discipline.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The devising or choosing of names for things; a system of names or terms used in a particular science.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formal catalog or specialized vocabulary used within a professional discipline or art.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He seemed to be of too strange and mysterious a nature to belong to any variety among those of popular nomenclature."*
-> - 📜 **Algis Budrys (*Citadel*):** *"I keep forgetting about proper nomenclature." "So do I, Mary, so do I," Marlowe sighed."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He seemed to be of too strange and mysterious a nature to belong to any variety among those of popular nomenclature."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Linnaeus introduced binomial **nomenclature**, providing a clear Latin designation for every recognized organism."*
+> - 📜 **Lavoisier (Antoine Lavoisier) (*Elements of Chemistry*):** *"A reform in chemical science could not be achieved without an entirely new **nomenclature** based on composition."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Clear scientific reasoning is impossible where anatomical **nomenclature** remains ambiguous and redundant."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — theo]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # theologise
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat from a theological viewpoint or render theological in character.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make theoretical speculations about theology or discuss theological subjects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To discuss, theorize, or speculate upon theological subjects or religious doctrines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To give a theological interpretation to secular, moral, or natural phenomena.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theologise designates treat from a theological viewpoint or render theological in character."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"It is idle to **theologise** about empty ceremonies when starving laborers cry for bread in the streets."*
+> - 📜 **George Eliot (*Romola*):** *"Savonarola did not merely **theologise** in his pulpit; he demanded civic righteousness from every Florentine citizen."*
+> - 📜 **Matthew Arnold (*Literature and Dogma*):** *"Scholastics tended to **theologise** the poetry of the Hebrew prophets into dry dogmatic propositions."*

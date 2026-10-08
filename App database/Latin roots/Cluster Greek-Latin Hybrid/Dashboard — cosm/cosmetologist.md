@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cosm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cosmetologist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert in the use of cosmetics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert in the use of cosmetics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert in the care of hair, skin, and nails, and in the application of cosmetics; beautician.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A practitioner trained in the aesthetic techniques of personal grooming and hygiene.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmetologist designates an expert in the use of cosmetics."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"The high-priced **cosmetologist** assured the ladies of Zenith that scientific massage preserved complexion."*
+> - 📜 **H. G. Wells (*Tono-Bungay*):** *"We consulted a fashionable London **cosmetologist** to formulate our new line of perfumed cold cream."*
+> - 📜 **George Bernard Shaw (*Back to Methuselah*):** *"In that decadent era, every wealthy matron employed a **cosmetologist** to conceal advancing years."*

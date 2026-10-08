@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hier]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hierocracy
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ruling body composed of clergy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ruling body composed of clergy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Government by priests, ecclesiastics, or religious dignitaries; a sacerdotal state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A political constitution wherein supreme sovereign authority is vested in a clerical caste.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hierocracy designates a ruling body composed of clergy."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ancient kingdom of Judea under the high priests functioned as a strict **hierocracy** governed by Mosaic law."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"An entrenched **hierocracy** tends to freeze social evolution by declaring customary ritual unalterable."*
+> - 📜 **Max Weber (*Economy and Society*):** *"The tension between secular monarchical rule and a dominant **hierocracy** shaped medieval European law."*

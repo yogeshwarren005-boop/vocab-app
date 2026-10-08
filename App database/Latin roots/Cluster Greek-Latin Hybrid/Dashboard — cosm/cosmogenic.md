@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cosm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cosmogenic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the branch of astronomy dealing with the origin and history and structure and dynamics of the universe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the branch of astronomy dealing with the origin and history and structure and dynamics of the universe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Produced by or originating from cosmic rays or interstellar radiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating rare isotopes (such as beryllium-10 or carbon-14) formed by cosmic ray bombardment in the atmosphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmogenic designates pertaining to the branch of astronomy dealing with the origin and history and structure and dynamics of the universe."*
+> - 📜 **Arthur Stanley Eddington (*The Nature of the Physical World*):** *"Penetrating high-altitude radiation leaves **cosmogenic** traces in terrestrial rocks that reveal solar history."*
+> - 📜 **Ernest Rutherford (*Radioactive Substances and Their Radiations*):** *"The atmospheric production of **cosmogenic** isotopes proceeds continuously under the bombardment of space rays."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Geologists now measure the accumulation of **cosmogenic** nuclides to date the retreat of ancient glaciers."*

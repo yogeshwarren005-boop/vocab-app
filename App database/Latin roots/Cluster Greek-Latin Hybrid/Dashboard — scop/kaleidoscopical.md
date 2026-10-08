@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — scop]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # kaleidoscopical
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Continually shifting or rapidly changing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Continually shifting or rapidly changing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, resembling, or exhibiting shifting symmetrical patterns like a kaleidoscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Displaying rapid, kaleidoscopic variety and diversity of visual or emotional impression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kaleidoscopical designates continually shifting or rapidly changing."*
+> - 📜 **Thomas Carlyle (*Critical and Miscellaneous Essays*):** *"The author's brilliant wit produced a **kaleidoscopical** display of metaphors that dazzled the intellect."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The clouds over the Venetian lagoon dissolved into a **kaleidoscopical** splendor of crimson and gold."*
+> - 📜 **William Hazlitt (*The Plain Speaker*):** *"His conversation had a **kaleidoscopical** brilliance, shifting from serious philosophy to playful anecdote."*

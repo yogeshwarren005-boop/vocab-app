@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — theo]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # theory-based
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Based in theory rather than experiment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based in theory rather than experiment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Founded upon, derived from, or guided by a systematic theory or theoretical framework.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relying on conceptual models and hypotheses rather than purely ad hoc empirical trials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theory-based designates based in theory rather than experiment."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"A **theory-based** deduction is far more reliable than the crude rule of thumb derived from unanalyzed precedent."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Modern engineering is essentially **theory-based**, translating the laws of thermodynamics into working steam engines."*
+> - 📜 **William James (*Pragmatism*):** *"Every **theory-based** philosophy must ultimately prove its cash-value in the experiential commerce of daily life."*

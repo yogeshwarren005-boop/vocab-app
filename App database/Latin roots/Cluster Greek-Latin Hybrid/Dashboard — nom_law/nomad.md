@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — nom_law]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # nomad
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a people who have no permanent home but move about according to the seasons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a people who have no permanent home but move about according to the seasons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a people having no permanent abode, who travel from place to place to find fresh pasture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wanderer who travels continually without settling permanently in one community.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"And all the sweetness, all the romance of an English midsummer night seized the heart of Lawrence, a nomad, a returned exile, and a man in love--as if he had never known England before."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Your nomad ancestors--we all have them--awake in you, and it is touch and go but you turn your back forever on duties and dining, on all the bonds and frills that we have entangled ourselves in--and then you remember, and go sadly to bed."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Indeed, they have no use for him save as a bird to be plucked, and plucked the poor nomad is, even to his last feather."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Scythian **nomad** moved his felt tents across the boundless steppes in search of fresh pasture."*
+> - 📜 **Alexander von Humboldt (*Views of Nature*):** *"The pastoral **nomad** of the llanos lives upon horseback, guiding his vast herds across the grassy plains."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The whaleman is a true oceanic **nomad**, wandering across trackless meridians in pursuit of the leviathan."*

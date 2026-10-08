@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — scop]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # microscopic
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or used in microscopy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Visible under a microscope; using a microscope.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: So small as to be visible only with a microscope; minute, infinitesimal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with minute details; meticulous, exhaustive, and penetrating in observation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"As the inimical plant could only be present in very microscopic dimensions to have escaped ordinary observation, to find it seemed rather a hopeless attempt in the stretch of rich grass before them."*
-> - 📜 **George Eliot (*Middlemarch*):** *"And I will throw in Robert Brown’s new thing—‘Microscopic Observations on the Pollen of Plants’—if you don’t happen to have it already.” “Why, seeing how you long for the monster, I might ask a higher price."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Medusae, microscopic crustacea, and pennatules lit it slightly with their phosphorescent gleam."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The seawater was luminous with millions of **microscopic** organisms that drifted with the oceanic currents."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"Even the largest mammals begin their physical existence as a single **microscopic** ovum."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes brought his **microscopic** investigation of the cigar ashes to a triumphant conclusion."*

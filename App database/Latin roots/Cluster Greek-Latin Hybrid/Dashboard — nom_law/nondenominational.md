@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — nom_law]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # nondenominational
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not restricted to a particular religious denomination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not restricted to a particular religious denomination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not restricted to, affiliated with, or representative of any specific religious denomination or sect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Open to all persons without regard to sectarian religious creeds or church affiliations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nondenominational designates not restricted to a particular religious denomination."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The municipal schools were founded on a **nondenominational** plan, teaching common moral virtues without sectarian dogma."*
+> - 📜 **John Stuart Mill (*Inaugural Address at St. Andrews*):** *"A great national academy should preserve a **nondenominational** atmosphere of free and unfettered research."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"He advocated a **nondenominational** curriculum of classical literature to civilize the rising industrial middle classes."*

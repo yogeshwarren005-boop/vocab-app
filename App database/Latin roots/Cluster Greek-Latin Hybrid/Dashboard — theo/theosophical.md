@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — theo]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # theosophical
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to theosophy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to theosophy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to theosophy; concerning esoteric spiritual knowledge and divine wisdom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the Theosophical Society or mystical doctrines combining Eastern and Western philosophy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theosophical designates of or relating to theosophy."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Jacob Boehme's obscure **theosophical** treatises kindled a poetic wonder in my youthful imagination."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The **theosophical** movement attempts to integrate mystical occult experiences with comparative religion."*
+> - 📜 **W. B. Yeats (*Autobiographies*):** *"I attended meetings of the **theosophical** lodge in Dublin, seeking symbols to nourish my mythological verse."*

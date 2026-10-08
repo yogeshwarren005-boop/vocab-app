@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cosm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cosmopolite
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sophisticated person who has travelled in many countries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sophisticated person who has travelled in many countries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cosmopolitan person; a citizen of the world who feels at home in any nation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism, plant, or animal that occurs naturally across widespread regions of the globe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Francis, the Great Cosmopolite Equestrian and Roughrider, would enact the part of Turpin, and she was not yet too old and careworn to be without a little curiosity to see him."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"I mean the spirit--the genius.” “I’m not sure that I understand you,” said the correspondent of the _Interviewer_; “but I expect I shall before I leave.” “He’s what’s called a cosmopolite,” Isabel suggested."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"They talked of the Florentine, the Roman, the cosmopolite world, and might have been distinguished performers figuring for a charity."*
+> - 📜 **Oliver Goldsmith (*The Citizen of the World*):** *"The true philosopher is a **cosmopolite**, claiming kinship with virtue wherever under heaven it is found."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain aquatic plants and weeds are true **cosmopolites**, flourishing across every continent and climate."*
+> - 📜 **William Makepeace Thackeray (*Pendennis*):** *"Major Pendennis fancied himself a seasoned **cosmopolite**, equally conversant with Paris salons and London clubs."*

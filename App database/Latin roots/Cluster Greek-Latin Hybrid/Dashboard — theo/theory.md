@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — theo]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # theory
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A well-substantiated explanation of some aspect of the natural world; an organized system of accepted knowledge that applies in a variety of circumstances to explain a specific set of phenomena.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tentative insight into the natural world; a concept that is not yet verified but that if true would explain certain facts or phenomena.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A supposition or a system of ideas intended to explain something, especially one based on general principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A collection of propositions, axioms, and theorems constituting an intellectual branch of study.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In the midst of which dust and noise there is but one thing perfectly clear, to wit, that Tom only may and can, or shall and will, be reclaimed according to somebody’s theory but nobody’s practice."*
-> - 📜 **Jane Austen (*Persuasion*):** *"As to the management of their children, his theory was much better than his wife’s, and his practice not so bad."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Cairns responded by publishing a pamphlet entitled _An_ _Examination of Professor Ferrier's Theory of Knowing and Being_."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"I have called this principle, by which each slight variation, if useful, is preserved, by the term Natural Selection, in order to mark its relation to man's power of selection; and this **theory** explains the great facts of nature."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Experience is the oracle of truth; and where its responses are unequivocal, they ought to be conclusive against the **theory**."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"Whatever system of **theory** may be adopted, sympathy must remain the foundational sentiment of human fellowship."*

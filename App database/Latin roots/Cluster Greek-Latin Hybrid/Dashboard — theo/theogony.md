@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — theo]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # theogony
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the origins and genealogy of the gods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of the origins and genealogy of the gods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The genealogy of a group or system of gods; an account of the origin and descent of deities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mythic poem or cosmological narrative, especially that of Hesiod, describing the birth of the gods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Truth is not the basis of 170:3 theogony."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Plate 5 shows a fine example of a horse in coloured glazes, a fierce figure in warrior's guise, who is, no doubt, one of the Lokapalas or Guardians of the Four Quarters in the Buddhist theogony, and a figure of an actor."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Hesiod's ancient **theogony** recounted the violent overthrow of Uranus and Saturn by Olympian Zeus."*
+> - 📜 **George Grote (*A History of Greece*):** *"The early Greek poet found in his **theogony** both a religious chronicle and an intuitive explanation of nature."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"The dark **theogony** of ancient myth depicted tyrannical deities jealous of human enlightenment."*

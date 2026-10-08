@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cosm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # microcosmic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of a microcosm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of a microcosm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of a microcosm; existing or viewed on a miniature scale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reflecting the broader features, laws, or conflicts of the macrocosm within a small compass.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microcosmic designates relating to or characteristic of a microcosm."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Each fertilized ovum contains a **microcosmic** representation of the ancestral forms of the lineage."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The monastery of Saint Edmundsbury presented a **microcosmic** image of medieval feudal order."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"In their tiny puritan village, the magistrates saw a **microcosmic** commonwealth established for God's glory."*

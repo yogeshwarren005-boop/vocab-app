@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — theo]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # theocratic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or being a theocracy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or being a theocracy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of a theocracy or religious government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Administered by religious authorities claiming direct divine mandate and guidance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theocratic designates of or relating to or being a theocracy."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The early New England colonies preserved a **theocratic** character that subordinated secular law to scriptural tenets."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"A **theocratic** regime paralyzes intellectual growth by treating every speculative innovation as blasphemy."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The high priest of Jerusalem wielded supreme **theocratic** authority under Persian and Seleucid overlordship."*

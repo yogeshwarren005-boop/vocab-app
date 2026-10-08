@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — theo]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # theologiser
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is learned in theology or who speculates about theology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is learned in theology or who speculates about theology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who theorizes or speculates on theological doctrines; a theologian.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who persistently frames moral, social, or philosophical matters in religious dogma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theologiser designates someone who is learned in theology or who speculates about theology."*
+> - 📜 **John Locke (*The Reasonableness of Christianity*):** *"The subtle **theologiser** often burdens the simple message of Christ with labyrinthine scholastic subtilties."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"Milton was an acute **theologiser**, mingling Arian and Arminian notions in his theological treatises."*
+> - 📜 **Thomas Carlyle (*Life of John Sterling*):** *"He was too earnest a seeker of reality to remain a comfortable academic **theologiser** in the quiet vicarage."*

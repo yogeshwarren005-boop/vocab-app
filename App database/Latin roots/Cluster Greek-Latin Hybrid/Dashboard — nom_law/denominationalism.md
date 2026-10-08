@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — nom_law]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # denominationalism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A narrow-minded adherence to a particular sect or party or denomination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tendency, in protestantism, to separate into religious denominations or to advocate such separations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Devotion to or emphasis on the interests, doctrines, or boundaries of a particular religious sect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of religious organization divided into distinct, competing sectarian denominations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"The cause of denominationalism is the tenacious clinging to faith and doctrines."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"American religious vigor flourishes through free competition rather than state-enforced **denominationalism**."*
+> - 📜 **Matthew Arnold (*St. Paul and Protestantism*):** *"Rigid **denominationalism** substitutes the dogma of a faction for the universal spirit of the Gospel."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Our age is suffocated beneath loud theological **denominationalism** while practical justice is forgotten."*

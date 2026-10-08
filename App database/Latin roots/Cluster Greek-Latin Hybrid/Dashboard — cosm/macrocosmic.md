@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cosm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # macrocosmic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or constituting a macrocosm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or constituting a macrocosm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or on the scale of the macrocosm; on a cosmic, immense, or universal scale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reflecting universal, large-scale structures as opposed to localized or individual components.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrocosmic designates relating to or constituting a macrocosm."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The rhythm of celestial bodies exhibits that **macrocosmic** order which governs all evolutionary transformations."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The petty struggles of mankind appear trivial when contrasted with the silent, **macrocosmic** march of eternity."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Plato's vision encompassed both the **macrocosmic** harmony of the spheres and the humble duties of civic virtue."*

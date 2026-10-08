@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cosm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cosmologic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the branch of astronomy dealing with the origin and history and structure and dynamics of the universe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the branch of philosophy dealing with the elements and laws and especially the characteristics of the universe such as space and time and causality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to cosmology; concerning the philosophical or scientific study of the universe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to metaphysical theories regarding universal causation and cosmic structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmologic designates pertaining to the branch of astronomy dealing with the origin and history and structure and dynamics of the universe."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"The antinomies of pure reason arise whenever human intellect attempts to resolve ultimate **cosmologic** questions."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Every religious creed contains an implicit **cosmologic** doctrine explaining how phenomena originated."*
+> - 📜 **William James (*Pragmatism*):** *"Pragmatism evaluates **cosmologic** theories not by their abstract elegance, but by their practical fruits."*

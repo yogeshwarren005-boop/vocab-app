@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cosm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cosmea
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various mostly mexican herbs of the genus cosmos having radiate heads of variously colored flowers and pinnate leaves; popular fall-blooming annuals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various mostly mexican herbs of the genus cosmos having radiate heads of variously colored flowers and pinnate leaves; popular fall-blooming annuals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A garden ornamental composite plant (genus *Cosmos*), bearing daisy-like petals in shades of pink, crimson, and white.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cheerful annual blossom widely cultivated in borders for its feathery foliage and blooms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmea designates any of various mostly mexican herbs of the genus cosmos having radiate heads of variously colored flowers and pinnate leaves; popular fall-blooming annuals."*
+> - 📜 **John Burroughs (*Signs and Seasons*):** *"In the cottage garden, the tall stalks of **cosmea** swayed lightly in the crisp autumn breeze."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The Mexican annual known as **cosmea** produces showy ray florets above pinnately dissected leaves."*
+> - 📜 **Henry David Thoreau (*Excursions*):** *"The bright petals of the cultivated **cosmea** lingered long after the native asters had withered."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hier]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hierarchy
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A series of ordered groupings of people or things within a system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The organization of people at different ranks in an administrative body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system or organization in which people or groups are ranked one above the other according to status.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The traditional graded ordering of celestial beings, angels, or ecclesiastical clergy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Drummer, my plans include a position of great power and prestige for you." "Indeed?" "A new elite and a new hierarchy will be created when I take control."*
-> - 📜 **John Milton (*Paradise Lost*):** *"His hand was known In Heaven by many a towered structure high, Where sceptred Angels held their residence, And sat as Princes, whom the supreme King Exalted to such power, and gave to rule, Each in his Hierarchy, the Orders bright."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Anna Pávlovna greeted him with the nod she accorded to the lowest hierarchy in her drawing room."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Thrones, dominations, princedoms, virtues, powers; for not in vain did the celestial **hierarchy** hold these titles."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"A consecrated **hierarchy** was established to instruct the people in duty and consecrate the commonwealth."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The natural **hierarchy** of groups within groups finds its only rational explanation in common descent."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cosm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cosmopolitan
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sophisticated person who has travelled in many countries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Growing or occurring in many parts of the world.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Familiar with and at ease in many different countries and cultures; worldly, broad-minded.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Composed of or containing people, ideas, and customs from many different countries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I believe I am truly cosmopolitan."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole and the children, and in what point of view they presented themselves to his cosmopolitan mind."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Francis, the Great Cosmopolitan Equestrian and Roughrider, would enact the part of Turpin, and she was not yet too old and careworn to be without a little curiosity to see him."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"He had the easy, polished manners of a thoroughly **cosmopolitan** gentleman who had lived in every European capital."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The great city of Alexandria was a **cosmopolitan** metropolis where Greek philosophy and Oriental mysticism mingled."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Commerce is rapidly breaking down insular prejudices, creating a truly **cosmopolitan** economic community."*

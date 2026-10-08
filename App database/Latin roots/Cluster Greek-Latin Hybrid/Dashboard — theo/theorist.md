@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — theo]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # theorist
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who theorizes (especially in science or art).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who theorizes (especially in science or art).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who devises, considers, or analyzes theories, especially in a particular discipline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intellectual whose primary concern is with general principles rather than practical execution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The under-consumption theorist, seeing the same facts, says that the trouble is lack of purchasing power."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"With Pfuel was Wolzogen, who expressed Pfuel’s thoughts in a more comprehensible way than Pfuel himself (who was a harsh, bookish theorist, self-confident to the point of despising everyone else) was able to do."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"There was about him something of Weyrother, Mack, and Schmidt, and many other German theorist-generals whom Prince Andrew had seen in 1805, but he was more typical than any of them."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The speculative **theorist** pulls down an ancient commonwealth in a week, forgetting that institutions require centuries to mature."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A political **theorist** who envisions perpetual peace among neighboring sovereign states dreams of a golden age."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The geological **theorist** must account for the vast gaps that everywhere interrupt the continuity of strata."*

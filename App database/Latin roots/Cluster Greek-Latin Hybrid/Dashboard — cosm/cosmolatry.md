@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cosm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cosmolatry
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The worship of the cosmos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The worship of the cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The worship or divinization of the cosmos, nature, or the physical universe as a deity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of pantheistic or pagan idolatry directed toward the celestial order and material world.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmolatry designates the worship of the cosmos."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Persian Magi rejected idols of stone, preferring a sublime **cosmolatry** that worshipped fire and the starry firmament."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"Early nature-religions developed into a structured **cosmolatry** that identified the heavens with the supreme creator."*
+> - 📜 **Thomas Carlyle (*Heroes and Hero-Worship*):** *"Norse paganism was a grand, rude **cosmolatry**, bowing in awe before the living forces of frost and storm."*

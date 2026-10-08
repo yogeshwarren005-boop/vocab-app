@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — nom_law]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # nominalism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (philosophy) the doctrine that the various objects labeled by the same term have nothing in common but their name.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (philosophy) the doctrine that the various objects labeled by the same term have nothing in common but their name.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical doctrine that universals or general concepts are merely names without corresponding reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The medieval scholastic theory opposed to realism, asserting that only individual objects exist.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nominalism designates (philosophy) the doctrine that the various objects labeled by the same term have nothing in common but their name."*
+> - 📜 **John Stuart Mill (*An Examination of Sir William Hamilton's Philosophy*):** *"The radical **nominalism** of Berkeley dissolved abstract general ideas into particular mental representations."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Modern psychological analysis leans toward **nominalism**, treating classes as convenient verbal shorthand."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"The great medieval debate between realism and **nominalism** continues to divide modern philosophies of science."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — theo]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # apotheosize
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deify or glorify.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deify or glorify.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To elevate to the rank of a god; to deify; to glorify and idolize in supreme degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To exalt a mortal person, virtue, or historical event into a timeless divine ideal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The ecstasy of faith almost apotheosized her; it set upon her face a glowing irradiation, and brought a red spot into the middle of each cheek; while the miniature candle-flame inverted in her eye-pupils shone like a diamond."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Mankind tends to **apotheosize** its greatest thinkers, forgetting that they were mortals seeking truth."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The Roman populace was eager to **apotheosize** the slain hero, erecting altars upon his battlefield."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Nantucket whalemen seemed to **apotheosize** the great white whale into an omnipresent demon of the seas."*

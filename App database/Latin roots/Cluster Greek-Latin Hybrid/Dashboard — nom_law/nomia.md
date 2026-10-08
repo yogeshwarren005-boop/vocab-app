@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — nom_law]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # nomia
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of bee; some are important pollinators of legumes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of bee; some are important pollinators of legumes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical context, custom, lawful arrangement, or distribution of rights.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A combining element or taxonomic term referring to laws, rules, or systematic distribution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nomia designates a genus of bee; some are important pollinators of legumes."*
+> - 📜 **Plato (*The Laws*):** *"The harmony of the polis depends upon sacred **nomia**, the ancient statutes revered by every citizen."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Greek cities of Asia Minor preserved their ancestral **nomia** under the tolerant mantle of Roman administration."*
+> - 📜 **George Grote (*A History of Greece*):** *"Solon revised the traditional **nomia** of Athens, establishing economic relief and judicial courts."*

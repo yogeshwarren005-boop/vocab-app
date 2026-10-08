@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — theo]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # theoriser
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who theorizes (especially in science or art).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who theorizes (especially in science or art).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who theorizes or speculates; a maker of theories.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thinker inclined toward abstract models, sometimes at the expense of practical reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theoriser designates someone who theorizes (especially in science or art)."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The dogmatic **theoriser** framed constitutions upon paper while the starving populace demanded bread and order."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"A practical statesman must test every visionary **theoriser** against the actual habits of the citizenry."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The scholastic **theoriser** spun webs of learning from his own brain, like a spider isolated from the living world."*

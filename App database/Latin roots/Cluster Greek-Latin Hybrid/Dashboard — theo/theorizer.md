@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — theo]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # theorizer
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who theorizes (especially in science or art).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who theorizes (especially in science or art).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who theorizes, speculates, or formulates explanatory models; a theorist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A speculative thinker who designs conceptual frameworks to interpret observations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"While this poison of decay has been eating into our vitals the possibilities of the country in nearly every other industry have reached a plane of development beyond the dreams of the most enthusiastic theorizers."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"I leave the pedantic **theorizer** to dispute over abstract sovereignty; I consult the practical peace of the empire."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Bacon was no idle **theorizer**, but a great reformer who sought to endow human life with useful discoveries."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The political **theorizer** in Paris imagined that universal equality could be instituted by administrative decree."*

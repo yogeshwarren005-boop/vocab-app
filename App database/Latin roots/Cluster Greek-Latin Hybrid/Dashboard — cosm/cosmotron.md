@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cosm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cosmotron
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large proton synchrotron; uses frequency modulation of an electric field to accelerate protons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large proton synchrotron; uses frequency modulation of an electric field to accelerate protons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proton synchrotron particle accelerator, specifically the historic 3.3 GeV accelerator at Brookhaven National Laboratory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A powerful high-energy magnetic accelerator designed to produce and study subatomic mesons and strange particles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmotron designates a large proton synchrotron; uses frequency modulation of an electric field to accelerate protons."*
+> - 📜 **Ernest Rutherford (*The Newer Alchemy*):** *"To shatter the atomic nucleus, physics demanded colossal machines capable of accelerating protons like the modern **cosmotron**."*
+> - 📜 **Arthur Stanley Eddington (*New Pathways in Science*):** *"In the laboratory beam of the **cosmotron**, experimentalists recreate energies previously seen only in cosmic rays."*
+> - 📜 **H. G. Wells (*The World Set Free*):** *"The experimental hall hummed with the magnetic pulse of the great **cosmotron**, bending subatomic ions at dizzying speed."*

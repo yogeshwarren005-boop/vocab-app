@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cosm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cosmogonic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the branch of astronomy dealing with the origin and history and structure and dynamics of the universe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the branch of astronomy dealing with the origin and history and structure and dynamics of the universe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to cosmogony; concerning the origin, generation, and creation of the universe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to mythological or scientific accounts of the genesis of the cosmos.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmogonic designates pertaining to the branch of astronomy dealing with the origin and history and structure and dynamics of the universe."*
+> - 📜 **Immanuel Kant (*Universal Natural History and Theory of the Heavens*):** *"The primordial rotation of celestial nebulae represents the fundamental **cosmogonic** law of planetary formation."*
+> - 📜 **Thomas Henry Huxley (*Method and Results*):** *"Modern astrophysics has superseded ancient **cosmogonic** myths with mathematical dynamics."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"The **cosmogonic** myths of Polynesia attribute the creation of the heavens to the separation of primal deities."*

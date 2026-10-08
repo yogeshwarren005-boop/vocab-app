@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hier]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hierolatry
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The worship of saints.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The worship of saints.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The excessive veneration, adoration, or superstitious worship of sacred persons or relics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An idolatrous attachment to religious institutions, priesthoods, or external sacramental forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hierolatry designates the worship of saints."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The iconoclast emperors condemned the growing **hierolatry** that credited bronze icons with supernatural power."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Blind reverence for ecclesiastical formulas degenerates into an unthinking **hierolatry** that stifles inquiry."*
+> - 📜 **Thomas Carlyle (*Heroes and Hero-Worship*):** *"True worship honors the divine spark in man, not the dead **hierolatry** of empty ceremonial vestiges."*

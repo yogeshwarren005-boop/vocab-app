@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — nom_law]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # nonnomadic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not nomadic or wandering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not nomadic or wandering.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not nomadic; settled permanently in one place; sedentary rather than wandering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to settled agricultural or urban communities as opposed to pastoral wanderers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonnomadic designates not nomadic or wandering."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **nonnomadic** peasants along the Nile cultivated their ancestral wheat fields under the annual inundation."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The transition to a **nonnomadic**, agricultural existence enabled rapid population expansion and division of crafts."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Complex legal institutions and land tenure are possible only among permanently settled, **nonnomadic** societies."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cosm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cosmetician
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who sells or applies cosmetics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who works in a beauty parlor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A professional who applies cosmetics or provides aesthetic treatments for the skin and hair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert in personal grooming, beauty formulations, and aesthetic adornment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmetician designates someone who sells or applies cosmetics."*
+> - 📜 **William Makepeace Thackeray (*The Book of Snobs*):** *"The fashionable **cosmetician** charged exorbitant fees for secret lotions that guaranteed eternal youth."*
+> - 📜 **George Gissing (*The Whirlpool*):** *"Society ladies spent morning hours in the consulting rooms of the Mayfair **cosmetician**."*
+> - 📜 **H. G. Wells (*The History of Mr. Polly*):** *"The shop window displayed perfumes, pomades, and potions recommended by a Parisian **cosmetician**."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — nom_law]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # nominative
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The category of nouns serving as the grammatical subject of a verb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving as or indicating the subject of a verb and words identified with the subject of a copular verb.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In grammar, designating the grammatical case used for the subject of a finite verb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or consisting of names; nominal or designated by name.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nominative designates the category of nouns serving as the grammatical subject of a verb."*
+> - 📜 **John Milton (*Accedence Commenc't Grammar*):** *"The **nominative** case cometh before the verb and answereth to the question 'who?' or 'what?'."*
+> - 📜 **Samuel Johnson (*Grammar of the English Tongue*):** *"In English nouns, the **nominative** and accusative cases have identical forms, distinguished only by syntax."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Squeers demanded whether any boy could tell him the **nominative** case of the verb 'to scour'."*

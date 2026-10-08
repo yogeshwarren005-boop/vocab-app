@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — nom_law]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # nominator
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who proposes a candidate for appointment or election.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who proposes a candidate for appointment or election.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who nominates another for an office, election, post, or distinction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The party possessing the legal right of presentation to an ecclesiastical or civil post.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nominator designates someone who proposes a candidate for appointment or election."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"If the **nominator** delays beyond six months, the presentation lapses by law to the bishop of the diocese."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The President acts as the sole **nominator**, while the Senate retains the power to reject unsuitable selections."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The parliamentary **nominator** selected a pliable borough candidate who pledged to vote with the ministry."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — theo]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # theorization
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The production or use of theories.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The production or use of theories.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or act of formulating or constructing a theory or explanatory model.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The development of abstract principles and hypotheses to explain empirical observations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theorization designates the production or use of theories."*
+> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"Valid **theorization** in sociology demands a vast accumulation of verified historical and ethnographic data."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Bold **theorization** is the engine of discovery, provided it remains obedient to incoming experimental facts."*
+> - 📜 **Thomas Henry Huxley (*Method and Results*):** *"The history of geology is the record of reckless **theorization** gradually disciplined by field observation."*

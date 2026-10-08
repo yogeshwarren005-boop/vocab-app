@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cosm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cosmocampus
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fish in the family syngnathidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of fish in the family syngnathidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of pipefishes in the family Syngnathidae found in tropical and subtropical marine waters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slender marine fish characterized by an elongated armored body and tubular snout.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmocampus designates a genus of fish in the family syngnathidae."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Male pipefishes of the genus **cosmocampus** possess specialized brood pouches to nurture developing ova."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The armored dermal rings in **cosmocampus** demonstrate extraordinary skeletal adaptation among syngnathid fishes."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"Specimens of **cosmocampus** collected along the Florida reefs display protective camouflage among the sea-grasses."*

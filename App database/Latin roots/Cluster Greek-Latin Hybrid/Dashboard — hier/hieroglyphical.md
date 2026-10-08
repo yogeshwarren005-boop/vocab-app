@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hier]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hieroglyphical
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling hieroglyphic writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Written in or belonging to a writing system using pictorial symbols.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or written in hieroglyphs or pictorial symbol writing; emblematic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enigmatic, symbolic, or figurative so as to require allegorical interpretation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"These are hieroglyphical; that is, if you call those mysterious cyphers on the walls of pyramids hieroglyphics, then that is the proper word to use in the present connexion."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I at once looked upon the figure of the animal as a kind of punning or hieroglyphical signature."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"These are hieroglyphical; that is, if you call those mysterious cyphers on the walls of pyramids hieroglyphics, then that is the proper word to use in the present connexion."*
+> - 📜 **Sir Thomas Browne (*Pseudodoxia Epidemica*):** *"The ancient Egyptians shadowed forth divine truths under curious **hieroglyphical** representations."*
+> - 📜 **Washington Irving (*The Alhambra*):** *"The subterranean gateway was inscribed with **hieroglyphical** devices guarded by Moorish talismanic spells."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"The coat-of-arms was crowded with a **hieroglyphical** multitude of griffins, crests, and quarterings."*

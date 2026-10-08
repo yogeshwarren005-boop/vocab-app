@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hier]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hieroglyph
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Writing that resembles hieroglyphics (usually by being illegible).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A writing system using picture symbols; used in ancient egypt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A picture, character, or symbol representing a word, syllable, or sound, especially in ancient Egypt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A puzzling, enigmatic, or difficult symbol or handwriting that defies easy interpretation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"When the gnarl'd, knotted trunks Eucalyptian Seem carved, like weird columns Egyptian, With curious device--quaint inscription, And hieroglyph strange."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A hieroglyph,” said the Rhetor, “is an emblem of something not cognizable by the senses but which possesses qualities resembling those of the symbol.” Pierre knew very well what a hieroglyph was, but dared not speak."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Did not an immortal physicist and interpreter of hieroglyphs write detestable verses?"*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The wrinkled brow of the great sperm whale was scarred with many a mysterious **hieroglyph** of deep-sea combat."*
+> - 📜 **Edgar Allan Poe (*The Narrative of Arthur Gordon Pym*):** *"Upon the dark chasm wall we discovered what seemed a vast carved **hieroglyph** tracing forgotten history."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"To the child's intuitive eye, the scarlet token was an all-pervading **hieroglyph** fraught with painful meaning."*

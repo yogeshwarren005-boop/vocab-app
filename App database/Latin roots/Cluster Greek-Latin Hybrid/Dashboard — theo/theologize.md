@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — theo]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # theologize
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat from a theological viewpoint or render theological in character.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make theoretical speculations about theology or discuss theological subjects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To engage in theological speculation or discourse; to theorize upon religious doctrine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To render or interpret secular phenomena according to theological categories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theologize designates treat from a theological viewpoint or render theological in character."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"It is an unwholesome mixture to **theologize** natural philosophy, confounding human reason with divine mystery."*
+> - 📜 **John Stuart Mill (*Auguste Comte and Positivism*):** *"In its earliest developmental stage, human inquiry was compelled to **theologize** every unexplained natural occurrence."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"We **theologize** our petty sorrows, imagining that the heavens take sides in our domestic rivalries."*

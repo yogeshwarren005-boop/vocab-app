@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hier]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hieratical
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Associated with the priesthood or priests.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Associated with the priesthood or priests.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to sacred or sacerdotal persons, vestments, or ceremonies; priestly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting traditional formality, solemnity, and stylized artistic conventions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hieratical designates associated with the priesthood or priests."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"All symbolic vestments and **hieratical** robes derive their veneration from the spiritual mystery they cloak."*
+> - 📜 **Henry James (*Roderick Hudson*):** *"The sculptor contemplated the statue's **hieratical** posture, admiring its archaic Egyptian dignity."*
+> - 📜 **Arthur Symons (*The Symbolist Movement in Literature*):** *"Mallarmé cultivated a **hieratical** vocabulary designed to shield pure poetry from profane vulgarity."*

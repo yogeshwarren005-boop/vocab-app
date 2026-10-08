@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — scop]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # scopolamine
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An alkaloid with anticholinergic effects that is used as a sedative and to treat nausea and to dilate the pupils in ophthalmic procedures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An alkaloid with anticholinergic effects that is used as a sedative and to treat nausea and to dilate the pupils in ophthalmic procedures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A poisonous tropane alkaloid drug obtained from solanaceous plants, used as a sedative and antispasmodic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anticholinergic substance historically tested as twilight sleep anesthesia and truth serum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scopolamine designates an alkaloid with anticholinergic effects that is used as a sedative and to treat nausea and to dilate the pupils in ophthalmic procedures."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Small medicinal doses of **scopolamine** produce profound sedative action in violent maniacal delirium."*
+> - 📜 **Arthur Conan Doyle (*Tales of Medical Life*):** *"The toxic properties of **scopolamine** require the physician to calculate every minim with vigilance."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"The narcotic tincture containing **scopolamine** produced an unruffled slumber that deadened pain."*

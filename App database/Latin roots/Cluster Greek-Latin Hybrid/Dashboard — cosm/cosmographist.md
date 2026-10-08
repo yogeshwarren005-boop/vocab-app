@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cosm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cosmographist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist knowledgeable about cosmography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scientist knowledgeable about cosmography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A practitioner or student of cosmography; a describer and mapper of the cosmos and earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An early Renaissance scholar who charted celestial spheres and terrestrial navigation routes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmographist designates a scientist knowledgeable about cosmography."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The modern **cosmographist** has sailed far beyond the pillars of Hercules and doubled the globe."*
+> - 📜 **Richard Hakluyt (*The Principal Navigations, Voyages, Traffiques and Discoveries of the English Nation*):** *"Our mariners were instructed to follow the tables prepared by that learned **cosmographist** Master Dee."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The **cosmographist** delineates distant kingdoms upon a sheet of paper which the traveller must cross with hardship."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — scop]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # gyroscope
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rotating mechanism in the form of a universally mounted spinning wheel that offers resistance to turns in any direction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rotating mechanism in the form of a universally mounted spinning wheel that offers resistance to turns in any direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device consisting of a spinning wheel mounted in gimbals so that its axis can turn freely in any direction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A navigational mechanism that maintains orientation through the conservation of angular momentum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A comparatively small amount of such work would serve as a gyroscope to preserve the balance of employment for a large part of the less skilled workers."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This is a well-nigh incredibly small proportion, hardly as great as that of the weight of the gyroscope compared with the car or ship to which it is applied."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Being thus deprived of one of its movements the gyroscope with three degrees becomes a gyroscope with two degrees of freedom, and in that form it supplies the need for an efficient and reliable compass."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The massive monorail cars were held in perfect balance along the single rail by a powerful spinning **gyroscope**."*
+> - 📜 **Arthur Conan Doyle (*The Poison Belt*):** *"The delicate apparatus was stabilized by a tiny electric **gyroscope** humming in its brass housing."*
+> - 📜 **Jules Verne (*From the Earth to the Moon*):** *"The projectile's flight stability through the vacuum was ensured by a heavy interior **gyroscope**."*

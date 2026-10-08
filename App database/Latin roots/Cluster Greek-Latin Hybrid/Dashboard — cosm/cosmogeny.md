@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cosm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cosmogeny
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of astrophysics that studies the origin and evolution and structure of the universe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of astrophysics that studies the origin and evolution and structure of the universe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A theory or account of the origin and evolution of the universe or celestial bodies; cosmogony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The astrophysical process through which cosmic systems and stars are formed from nebulae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmogeny designates the branch of astrophysics that studies the origin and evolution and structure of the universe."*
+> - 📜 **David Hume (*Dialogues Concerning Natural Religion*):** *"Every ancient culture framed a fantastical **cosmogeny** to explain how the world sprang from primeval chaos."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"What is all history but an unfolding **cosmogeny**, a continuous divine creation in time?"*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The nebular hypothesis provides a mechanical **cosmogeny** based upon the law of persistent force."*

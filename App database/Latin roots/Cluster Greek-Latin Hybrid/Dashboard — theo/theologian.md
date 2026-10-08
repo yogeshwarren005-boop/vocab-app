@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — theo]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # theologian
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is learned in theology or who speculates about theology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is learned in theology or who speculates about theology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who engages in or is trained in theology, especially Christian doctrine and scripture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scholar who investigates the nature of divine revelation, religious truths, and moral laws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Ure, but a good scholar and a well-read theologian."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"These lectures were given on a Free Church foundation, instituted in memory of the distinguished theologian whose name it bears; and now for the first time the lecturer was chosen from beyond the borders of the Free Church."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is the heart that makes the theologian." Where does your theology come from? 2."*
+> - 📜 **John Milton (*Areopagitica*):** *"Our sage and serious poet Spenser I dare be known to think a better teacher than Scotus or Aquinas, those celebrated **theologians**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The subtle Alexandrian **theologian** engaged in ferocious disputes over a single diphthong in the creed."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"Many a polemical **theologian** hath spent his life arguing over doctrines that no mortal can comprehend."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — nom_law]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # denominational
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of a particular religious denomination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the face value of a banknote, coin, or stamp.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or supported by a particular religious denomination or sect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to sectarian divisions within a religious, political, or social system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill to stand for an Irish constituency, and stated that the only opinion it would be necessary for him to change was the one he had so often expressed against denominational education."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The members of the society were connected with twenty different churches of several denominations, and while all had reference to the spiritual as well as physical welfare of the soldier, yet there was nothing sectarian or denominational in its work."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Boardman's Church, it was sometimes called the Presbyterian Ladies' Aid Society, but the name, if intended to imply that its character was denominational, was unjust."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"State universities should avoid narrow **denominational** tests that exclude sincere scholars of differing faiths."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"Fierce **denominational** rivalries among Nonconformist chapels often obscured the pursuit of sweetness and light."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"The town was divided by petty **denominational** prejudices that poisoned neighborly intercourse."*

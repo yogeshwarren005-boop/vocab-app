@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cosm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cosmetically
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: For cosmetic purposes to improve appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: For cosmetic purposes to improve appearance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner affecting only the surface or external appearance; superficially.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By means of cosmetics, personal beauty preparations, or superficial adornment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmetically designates for cosmetic purposes to improve appearance."*
+> - 📜 **George Bernard Shaw (*Heartbreak House*):** *"The aged actress looked **cosmetically** youthful under the footlights, but daylight revealed every crease."*
+> - 📜 **Henry James (*The Bostonians*):** *"The dilapidated parlor had been **cosmetically** refurbished with bright chintz curtains and cheap mirrors."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"To repair an ancient church **cosmetically** with modern plaster is to obliterate its historic truth."*

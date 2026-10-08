@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cosm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # macrocosm
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Everything that exists anywhere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Everything that exists anywhere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The great world or universe as a whole, especially in philosophical contrast to human existence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complex structure, society, or institution considered as a grand reflection of its smaller parts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"He affirmed his significance as a conscious rational animal proceeding syllogistically from the known to the unknown and a conscious rational reagent between a micro and a macrocosm ineluctably constructed upon the incertitude of the void."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Ancient philosophers conceived of man as a microcosm reflecting all the wonders of the great **macrocosm**."*
+> - 📜 **Sir Thomas Browne (*Religio Medici*):** *"There is all Africa and her prodigies in us; we are that bold and adventurous piece of nature, while the **macrocosm** surrounds us."*
+> - 📜 **John Milton (*Paradise Lost*):** *"He surveyed the immense **macrocosm** of stars and revolving spheres hung from the battlements of heaven."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cosm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cosmonaut
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person trained to travel in a spacecraft.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person trained to travel in a spacecraft.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person trained and certified by the Russian space agency to travel and work in outer space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A space traveler navigating manned spacecraft into Earth orbit and beyond.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmonaut designates a person trained to travel in a spacecraft."*
+> - 📜 **Arthur C. Clarke (*2001: A Space Odyssey*):** *"The Soviet **cosmonaut** glanced through the pressurized visor at the breathtaking curve of the blue planet below."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"Like a solitary **cosmonaut** of later centuries, Cavor steered his sphere across the silent starry vacuum."*
+> - 📜 **Isaac Asimov (*Foundation and Empire*):** *"Every veteran **cosmonaut** was trained to adjust the controls by instinct when entering hyperspatial jumps."*

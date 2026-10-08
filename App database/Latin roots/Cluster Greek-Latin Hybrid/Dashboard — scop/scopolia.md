@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — scop]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # scopolia
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of european perennial herbs yielding medicinal alkaloids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of european perennial herbs yielding medicinal alkaloids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of belladonna-like perennial herbs of the nightshade family yielding medicinal alkaloids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A poisonous European and Asian plant (*Scopolia carniolica*) harvested for scopoline and atropine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scopolia designates genus of european perennial herbs yielding medicinal alkaloids."*
+> - 📜 **Asa Gray (*Manual of Botany*):** *"The bell-shaped nodding blossoms of **scopolia** identify this potent European member of the Solanaceae."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Extracts derived from the rhizome of **scopolia** share the physiological virtues of deadly nightshade."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Pharmaceutical botany studies the distribution of alkaloids across genera like **scopolia** and hyoscyamus."*

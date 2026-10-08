@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hier]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hieronymus
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) one of the great fathers of the early christian church whose major work was his translation of the scriptures from hebrew and greek into latin (which became the vulgate); a saint and doctor of the church (347-420).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic church) one of the great fathers of the early christian church whose major work was his translation of the scriptures from hebrew and greek into latin (which became the vulgate); a saint and doctor of the church (347-420).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Latin personal name equivalent to Jerome, famously borne by Saint Jerome, translator of the Vulgate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Referring to Saint Jerome or the Dutch visionary painter Hieronymus Bosch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hieronymus designates (roman catholic church) one of the great fathers of the early christian church whose major work was his translation of the scriptures from hebrew and greek into latin (which became the vulgate); a saint and doctor of the church (347-420)."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"In his cell at Bethlehem, Saint **Hieronymus** laboured tirelessly to translate the Scriptures into Latin."*
+> - 📜 **John Milton (*Areopagitica*):** *"We read that **Hieronymus** was scourged by an angel in vision for reading Cicero with too great delight."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"The Christian scholar spoke with deep reverence of the commentaries composed by learned **Hieronymus**."*

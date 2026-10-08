@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — theo]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # theosophist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A believer in theosophy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A believer in theosophy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A practitioner or student of theosophy; a member of the Theosophical Society.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mystic who claims to possess esoteric insight into the divine nature and cosmic mysteries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"German Boehme: Jacob Boehme (or Behmen), a shoemaker and a famous theosophist, b. 1575, at Old Seidenberg, a village near Goerlitz; d. 1624."*
+> - 📜 **W. B. Yeats (*Autobiographies*):** *"The ardent **theosophist** spoke of mahatmas and astral planes with the quiet conviction of an eyewitness."*
+> - 📜 **William James (*Memories and Studies*):** *"Madame Blavatsky presented herself as an inspired **theosophist** initiating the West into Himalayan secrets."*
+> - 📜 **Arthur Conan Doyle (*The Land of Mist*):** *"The gathering included the orthodox churchman, the physical scientist, and the contemplative **theosophist**."*

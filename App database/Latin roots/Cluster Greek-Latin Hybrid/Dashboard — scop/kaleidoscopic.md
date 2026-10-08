@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — scop]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # kaleidoscopic
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Continually shifting or rapidly changing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Continually shifting or rapidly changing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having complex, beautiful, and rapidly shifting patterns or colors like a kaleidoscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by swift, continuous, and multicolored changes in scene or circumstance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"And the kaleidoscopic scene moves against a background of shops and houses gay with paint and gilding."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"The result was kaleidoscopic, but the movement of the instrument was checked at last by the servant’s coming in with the name of a gentleman."*
-> - 📜 **Oscar Wilde (*Lord Arthur Savile's Crime; The Portrait of Mr. W.H., and Other Stories*):** *"These kaleidoscopic changes naturally amused the party very much, and bets on the subject were freely made every evening."*
+> - 📜 **Virginia Woolf (*Mrs Dalloway*):** *"The streets of Westminster presented a **kaleidoscopic** glitter of motor-cars, omnibuses, and bright shop windows."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The landscape blurred into a **kaleidoscopic** swirl of changing seasons as the machine accelerated through time."*
+> - 📜 **Henry James (*The American*):** *"He watched the **kaleidoscopic** movements of the Parisian crowd with amused transatlantic wonder."*

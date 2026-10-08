@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — nom_law]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # nominal
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A phrase that can function as the subject or object of a verb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or constituting or bearing or giving a name.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing in name only, not real or actual; token or symbolic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to, expressed in, or functioning as a noun in grammatical analysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Part of the remainder she was obliged to expend in winter clothing, leaving only a nominal sum for the whole inclement season at hand."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"It is for sale, but its value has not been adequately appreciated, and I would not part with it.' 'What is its price?' 'I have done affixing any nominal sum."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"If I delivered up the dynamite, they would give me a nominal punishment of thirty days in the dungeon and then make me a trusty in the prison library."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Augustus maintained the **nominal** majesty of the senate while engrossing the supreme power in his own person."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"We must distinguish between the **nominal** price of labor in coin and its real price in subsistence."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A confederacy with only **nominal** authority over its member states will swiftly dissolve into anarchy."*

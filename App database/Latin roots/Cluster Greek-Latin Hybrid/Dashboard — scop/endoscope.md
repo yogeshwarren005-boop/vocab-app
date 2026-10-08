@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — scop]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # endoscope
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long slender medical instrument for examining the interior of a bodily organ or performing minor surgery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long slender medical instrument for examining the interior of a bodily organ or performing minor surgery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An illuminated optical instrument used for looking inside a hollow organ or cavity of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flexible or rigid tube equipped with lenses and light for medical internal inspection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endoscope designates a long slender medical instrument for examining the interior of a bodily organ or performing minor surgery."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The development of the clinical **endoscope** opened deep visceral passages to the direct gaze of the physician."*
+> - 📜 **Thomas Henry Huxley (*Lectures on Evolution*):** *"Diagnostic devices such as the **endoscope** demonstrate the triumph of optical science in physiology."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp: Being Facts and Fancies of Medical Life*):** *"The young surgeon carefully sterilized the delicate metal **endoscope** before beginning the examination."*

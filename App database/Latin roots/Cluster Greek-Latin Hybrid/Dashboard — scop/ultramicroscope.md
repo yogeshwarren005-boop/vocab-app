@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — scop]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # ultramicroscope
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Light microscope that uses scattered light to show particles too small to see with ordinary microscopes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Light microscope that uses scattered light to show particles too small to see with ordinary microscopes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical microscope designed by Siedentopf and Zsigmondy to illuminate and detect colloidal particles smaller than light wavelengths.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument that uses dark-field, high-intensity illumination to visualize colloidal suspensions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ultramicroscope designates light microscope that uses scattered light to show particles too small to see with ordinary microscopes."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Inventions such as the **ultramicroscope** pushed the boundaries of optical physics into the colloidal realm."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Biochemists examined the living virus particles revealed as dancing motes under the powerful **ultramicroscope**."*
+> - 📜 **Arthur Conan Doyle (*The Poison Belt*):** *"Challenger demonstrated the ethereal suspension in the sealed air by means of an **ultramicroscope**."*

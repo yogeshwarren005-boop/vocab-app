@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — scop]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # scopes
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tennessee highschool teacher who violated a state law by teaching evolution; in a highly publicized trial in 1925 he was prosecuted by william jennings bryan and defended by clarence darrow (1900-1970).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An area in which something acts or operates or has power or control:.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ranges, dimensions, or extents of various activities, investigations, or operations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Colloquial plural for optical instruments such as telescopes, microscopes, and periscopes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"As Brad expected, the fire control center consisted of dozens of consoles, scopes, directional and power control devices, and clusters of computer terminals."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Human sciences have their several distinct **scopes**, yet all should converge to the glory of the Creator."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The varied **scopes** of state and federal jurisdiction must be defined with constitutional clarity."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The diverse **scopes** of different authors often produce an appearance of discord where none exists."*

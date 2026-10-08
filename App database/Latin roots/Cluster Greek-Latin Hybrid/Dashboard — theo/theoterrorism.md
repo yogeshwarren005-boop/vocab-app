@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — theo]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # theoterrorism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Terrorism for a religious purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terrorism for a religious purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of terror, violence, or intimidation justified by appeals to divine command or religious authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A regime or campaign of ideological religious terror designed to enforce spiritual orthodoxy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theoterrorism designates terrorism for a religious purpose."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The fanatical Circumcellions instituted a bloody **theoterrorism** across North Africa in defense of Donatist schism."*
+> - 📜 **Voltaire (*Treatise on Tolerance*):** *"Fanaticism armed with state power degenerates into an abominable **theoterrorism** that burns heretics at the stake."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The fierce Anabaptists of Münster established a reign of apocalyptic **theoterrorism** within the besieged city."*

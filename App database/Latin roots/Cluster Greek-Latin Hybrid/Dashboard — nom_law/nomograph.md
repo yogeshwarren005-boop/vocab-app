@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — nom_law]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # nomograph
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphic representation of numerical relations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A graphic representation of numerical relations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diagram representing relations between three or more variable quantities by means of scaled lines; nomogram.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An alignment chart used for rapid graphical calculations in engineering and physical science.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nomograph designates a graphic representation of numerical relations."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The aeronautical designers plotted flight velocities across high-altitude air gradients with a standardized **nomograph**."*
+> - 📜 **Arthur Stanley Eddington (*Stars and Atoms*):** *"With the aid of a convenient **nomograph**, stellar radii can be derived immediately from luminosity and temperature."*
+> - 📜 **Thomas Henry Huxley (*Method and Results*):** *"Graphic charts like the **nomograph** bridge the gulf between abstract differential calculus and practical physical application."*

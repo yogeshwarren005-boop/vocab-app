@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hier]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hierarchically
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a hierarchical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a hierarchical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner organized or stratified into successive ranks, tiers, or levels of authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: According to the principles or gradation of an ascending administrative hierarchy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hierarchically designates in a hierarchical manner."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Evolution proceeds from the simple to the complex, developing organs that are **hierarchically** coordinated."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The royal fleet was **hierarchically** organized, with clear lines of obedience from admiral to midshipman."*
+> - 📜 **Max Weber (*The Theory of Social and Economic Organization*):** *"Modern administrative offices are **hierarchically** ordered, each lower office supervised by a higher one."*

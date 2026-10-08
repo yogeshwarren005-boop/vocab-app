@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hier]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hierarchic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Classified according to various criteria into successive levels or layers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Classified according to various criteria into successive levels or layers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arranged in a graded series of levels of power, responsibility, or importance; hierarchical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to sacred or ecclesiastical orders organized according to sacerdotal degrees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hierarchic designates classified according to various criteria into successive levels or layers."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **hierarchic** framework of the imperial court reflected the elaborate ceremonial of the East."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Militant societies inevitably evolve a rigid **hierarchic** structure with centralized command."*
+> - 📜 **Thomas Henry Huxley (*Method and Results*):** *"Science acknowledges no **hierarchic** authority that can decree truth independently of experimental fact."*

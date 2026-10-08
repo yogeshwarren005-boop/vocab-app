@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — scop]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # microscopical
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or used in microscopy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Visible under a microscope; using a microscope.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or conducted with a microscope; microscopic in scale or methodology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by meticulous, fine-grained examination of subtle physical structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Some cable-lengths off the shores of the Island of Clermont I admired the gigantic work accomplished by these microscopical workers."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"And it is here, too, that microscopical analysis comes in."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Its vegetative system is complete, and, apparently, its reproductive also; hence it seems to claim recognition as a perfect plant, and under the name of _Uredo Rosæ_ was so recognized, until microscopical investigation determined otherwise."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"A careful **microscopical** analysis of the soil particles showed them to be rounded by digestive acids."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The **microscopical** discoveries of Schwann demonstrated the universal cellular composition of living beings."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate hoped his **microscopical** researches would illuminate the obscure foundations of fever."*

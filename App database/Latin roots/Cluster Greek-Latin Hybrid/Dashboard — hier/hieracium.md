@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hier]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hieracium
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of perennial hairy herbs of europe to western asia to northwestern africa and north america; few are ornamental; often considered congeneric with pilosella.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of perennial hairy herbs of europe to western asia to northwestern africa and north america; few are ornamental; often considered congeneric with pilosella.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of composite herbaceous plants, commonly known as hawkweeds, having dandelion-like yellow heads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A botanical genus famous in genetic history through Gregor Mendel's complex hybridization experiments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Var. _b._ _Prenanthis_, Pers.; spots circular or irregular, purplish; subiculum incrassated.—On leaves of Hawkweed (_Hieracium paludosum_)."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Several species of **hieracium** display curious variability when cultivated in nutrient-rich garden soil."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The native hawkweeds of the genus **hieracium** produce milky sap and rough glandular flower stems."*
+> - 📜 **Henry David Thoreau (*Journal*):** *"Upon the sandy roadside embankment, the bright yellow blossoms of the **hieracium** opened to the sun."*

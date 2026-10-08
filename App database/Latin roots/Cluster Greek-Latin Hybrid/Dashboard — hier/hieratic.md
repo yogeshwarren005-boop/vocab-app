@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hier]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hieratic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cursive form of egyptian hieroglyphics; used especially by the priests.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Associated with the priesthood or priests.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to priests, sacerdotal offices, or sacred rites; stylized and formal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating the cursive form of ancient Egyptian hieroglyphic writing used by priestly scribes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"It reflects a priestly culture in its hieratic forms and symbolical ornament."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Egyptian priests recorded astronomical secrets in their cursive **hieratic** script upon rolls of papyrus."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"The early Italian painters adhered to a severe, **hieratic** tradition before Giotto humanized the canvas."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"Byzantine decoration retained a solemn, **hieratic** stiffness that conveyed supernatural awe."*

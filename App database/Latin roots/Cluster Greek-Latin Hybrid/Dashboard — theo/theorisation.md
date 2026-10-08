@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — theo]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # theorisation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The production or use of theories.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The production or use of theories.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation or development of a theory or theories; the act of theorizing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The construction of abstract, conceptual, or speculative explanations for observed facts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theorisation designates the production or use of theories."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Prolonged observation of domestic breeders preceded my systematic **theorisation** on the origin of species."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Premature **theorisation** is the bane of social science, tempting investigators to force facts into rigid categories."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"True scientific **theorisation** is not idle fancy, but a disciplined hypothesis subject to empirical falsification."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — theo]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # theoretician
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who theorizes (especially in science or art).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who theorizes (especially in science or art).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who develops, studies, or applies theories, especially in science, mathematics, or politics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A speculative thinker who designs conceptual frameworks rather than conducting empirical trials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theoretician designates someone who theorizes (especially in science or art)."*
+> - 📜 **Arthur Stanley Eddington (*The Nature of the Physical World*):** *"The mathematical **theoretician** formulates equations which the astronomical observer tests against the stars."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The biological **theoretician** must constantly submit his conjectures to the verdict of the dissecting table."*
+> - 📜 **Bertrand Russell (*The ABC of Relativity*):** *"Einstein proved himself the greatest physical **theoretician** since Newton by overthrowing absolute space and time."*

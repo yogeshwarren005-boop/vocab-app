@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — nom_law]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # denomination
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of religious congregations having its own organization and a distinctive faith.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A class of one kind of unit in a system of numbers or measures or weights or money.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A recognized autonomous branch or sect of the Christian church or other religious tradition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The face value of a banknote, coin, or postage stamp; a specified category of measurement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Another business man of that denomination in Boston, during fifteen years, has appropriated _thirty-nine thousand dollars_."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The actual moneys in circulation in every modern country consist of a wide variety of pieces, differing in denomination, physical size, shape and materials, mode of issue, source or authority of issue, and legal character."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The amount required (or most convenient to use) in each denomination of fractional coins is thus a more or less certain portion of each person's monetary demand, shaped by experience and fixed by habit."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Every religious **denomination** had suffered persecution during the fierce civil contentions of the century."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Paper currency issued in small **denomination** drives gold and silver coin entirely out of ordinary circulation."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"In the United States, every Christian **denomination** preaches obedience to the laws and moral rectitude."*

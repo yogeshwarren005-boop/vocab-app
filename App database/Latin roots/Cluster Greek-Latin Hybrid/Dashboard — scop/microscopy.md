@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — scop]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # microscopy
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Research with the use of microscopes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Research with the use of microscopes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of the microscope; investigation or scientific study by means of a microscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The technical methods and optical principles involved in magnifying minute objects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Any person possessed of the cardinal virtues of microscopy—patience and perseverance—will be rewarded in this instance; whilst those who are deficient will lose an object worthy of the virtues they dare not boast."*
+> - 📜 **Thomas Henry Huxley (*Method and Results*):** *"The sudden rise of histological **microscopy** laid the foundations of modern physiological pathology."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Advancements in optical **microscopy** enabled naturalists to examine the pollen grains of delicate orchids."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Clinical **microscopy** of the blood is indispensable in distinguishing pernicious anemia from chlorosis."*

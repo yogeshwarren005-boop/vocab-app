@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hier]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hierarchal
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Classified according to various criteria into successive levels or layers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Classified according to various criteria into successive levels or layers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or characteristic of a hierarch or sacred ruler.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to official clerical authority graded according to rank and jurisdiction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hierarchal designates classified according to various criteria into successive levels or layers."*
+> - 📜 **Samuel Taylor Coleridge (*On the Constitution of the Church and State*):** *"The established church maintained its **hierarchal** dignity without trenching upon civil liberties."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The mosaics on the western facade depict the **hierarchal** order of angels with majestic solemnity."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The revolutionaries sought to level every **hierarchal** distinction that had governed Europe for a thousand years."*

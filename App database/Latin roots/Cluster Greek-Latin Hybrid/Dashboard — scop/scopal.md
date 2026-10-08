@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — scop]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # scopal
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to scope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to scope.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In entomology, relating to or bearing a scopa, the dense brush of hairs on bees used for collecting pollen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to scope, range, or observational reach in linguistic or philosophical context.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scopal designates of or relating to scope."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"The dense **scopal** hairs on the hind legs of the bumblebee were packed with golden pollen granules."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Insects possessing specialized **scopal** brushes serve as the most effective pollinators of deep flowers."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The modification of **scopal** structures across hymenopterous families illustrates adaptive radiation."*

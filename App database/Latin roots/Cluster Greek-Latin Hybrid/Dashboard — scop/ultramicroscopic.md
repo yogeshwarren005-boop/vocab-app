@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — scop]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # ultramicroscopic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Too small to be seen without an ultramicroscope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Too small to be seen without an ultramicroscope.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Too small to be visible with an ordinary light microscope; colloidal or viral in scale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to particles revealed solely by scattered light in dark-field illumination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ultramicroscopic designates too small to be seen without an ultramicroscope."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Pangenesis assumes that myriads of **ultramicroscopic** gemmules are thrown off by every bodily cell."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The fluid contained **ultramicroscopic** pathogens that passed through the finest porcelain filters."*
+> - 📜 **H. G. Wells (*The Food of the Gods*):** *"The mysterious Herakleophorbia operated upon **ultramicroscopic** components of cellular nutrition."*

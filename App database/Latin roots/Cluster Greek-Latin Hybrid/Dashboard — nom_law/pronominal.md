@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — nom_law]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # pronominal
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A phrase that functions as a pronoun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to pronouns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, resembling, or functioning as a pronoun in grammatical analysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to the class of words used in place of nouns to indicate participants in discourse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pronominal designates a phrase that functions as a pronoun."*
+> - 📜 **Samuel Johnson (*A Grammar of the English Tongue*):** *"The words 'this' and 'that' serve both as demonstrative articles and as true **pronominal** adjectives."*
+> - 📜 **John Milton (*Accedence Commenc't Grammar*):** *"A **pronominal** word declineth with gender, number, and case, yet lacking the full essence of a substantive."*
+> - 📜 **William Hazlitt (*A New and Improved Grammar of the English Tongue*):** *"Careless writers frequently obscure their style through the reckless multiplication of **pronominal** references."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — nom_law]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # denominationally
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to denomination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to denomination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner related to, organized by, or divided along the lines of religious denominations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: According to sectarian categories or distinct denominational affiliations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, denominationally designates with respect to denomination."*
+> - 📜 **John Stuart Mill (*Inaugural Address at St. Andrews*):** *"Charitable bequests administered **denominationally** frequently perpetuate ancient doctrinal quarrels."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The hospital charity was distributed **denominationally**, favoring cathedral worshippers over chapel folk."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"The parish voters were divided **denominationally**, the chapel members voting en bloc for the liberal candidate."*

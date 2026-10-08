@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cosm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cosmologist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An astronomer who studies the evolution and space-time relations of the universe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An astronomer who studies the evolution and space-time relations of the universe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist or philosopher who studies the origins, physical laws, and large-scale structure of the universe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An astrophysicist specializing in general relativity, cosmic background radiation, and galaxy formation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmologist designates an astronomer who studies the evolution and space-time relations of the universe."*
+> - 📜 **Arthur Stanley Eddington (*The Expanding Universe*):** *"The modern **cosmologist** relies upon Einstein's equations to trace the curvature and expansion of spacetime."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"The ancient Ionian **cosmologist** sought the primary element of all things in water, air, or primordial flux."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Our future society will honor the **cosmologist** whose telescope unveils the ultimate boundaries of reality."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cosm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # microcosm
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A miniature model of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A miniature model of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A community, place, or situation regarded as encapsulating in miniature the characteristics of something much larger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Human beings or human nature viewed as an epitome or miniature reflection of the great universe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you see this in the map of my microcosm, follows it that I am known well enough too?"*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"If her world is a microcosm, the cosmic quality of it is at least as eminent as the littleness."*
-> - 📜 **James Joyce (*Ulysses*):** *"On that mystery and not on the madonna which the cunning Italian intellect flung to the mob of Europe the church is founded and founded irremovably because founded, like the world, macro and microcosm, upon the void."*
+> - 📜 **Sir Thomas Browne (*Religio Medici*):** *"Whilst I study to find how I am a **microcosm**, or little world, I find myself something more than the great."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"If you see this in the map of my **microcosm**, follows it that I am known well enough too?"*
+> - 📜 **George Eliot (*Middlemarch*):** *"The provincial town was a complete **microcosm** of English society, with all its petty rivalries and quiet virtues."*

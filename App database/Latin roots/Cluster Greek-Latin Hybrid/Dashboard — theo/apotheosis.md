@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — theo]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # apotheosis
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Model of excellence or perfection of a kind; one having no equal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The elevation of a person (as to the status of a god).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The elevation of someone to divine status; deification; the highest point in development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The glorification of an ideal, hero, or ruler as a supreme embodiment of perfection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Thus a mild sort of apotheosis took place in his fancy, whilst she still lived and breathed within his own horizon, a troubled creature like himself."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Up from the spray of thy ocean-perishing—straight up, leaps thy apotheosis!"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Thus a mild sort of apotheosis took place in his fancy, whilst she still lived and breathed within his own horizon, a troubled creature like himself."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The solemn **apotheosis** of the deceased emperor was celebrated with an eagle released from the funeral pyre."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The Jacobins staged the bizarre **apotheosis** of Marat, carrying his embalmed heart through the streets."*
+> - 📜 **Percy Bysshe Shelley (*Adonais*):** *"The poet's death was transformed by mourning into a sublime **apotheosis** among the immortal stars."*

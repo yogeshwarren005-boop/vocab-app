@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — theo]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # theorem
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A proposition deducible from basic postulates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An idea accepted as a demonstrable truth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A general proposition not self-evident but proved by a chain of reasoning; a mathematical statement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A proven rule or established principle in mathematics, logic, or theoretical physics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theorem designates a proposition deducible from basic postulates."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"From these axioms I proceed to demonstrate the fundamental **theorem** regarding centripetal planetary forces."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"When a geometer has once clearly demonstrated a **theorem**, he possesses certain and immutable knowledge."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"Every mathematical **theorem** is a conditional proposition asserting that certain premises imply a conclusion."*

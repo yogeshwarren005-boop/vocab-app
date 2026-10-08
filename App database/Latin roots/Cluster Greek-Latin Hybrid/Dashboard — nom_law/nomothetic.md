@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — nom_law]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # nomothetic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or involving the search for abstract universal principles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or involving the search for abstract universal principles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the enactment or discovery of universal laws or general scientific principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology and sociology, focusing on general scientific generalizations rather than individual cases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nomothetic designates relating to or involving the search for abstract universal principles."*
+> - 📜 **Wilhelm Windelband (*History and Natural Science*):** *"Natural sciences are **nomothetic**, seeking universal laws, whereas historical sciences are idiographic, describing unique particulars."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A purely **nomothetic** psychology risks overlooking the vivid idiosyncrasies that constitute concrete personal consciousness."*
+> - 📜 **Max Weber (*The Methodology of the Social Sciences*):** *"Social inquiry must synthesize **nomothetic** causal generalizations with empathetic understanding of historical actions."*

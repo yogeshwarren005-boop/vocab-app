@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — scop]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # microscopist
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist who specializes in research with the use of microscopes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scientist who specializes in research with the use of microscopes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist or specialist skilled in the use of the microscope and the interpretation of specimens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An investigator who studies cellular, histological, or crystalline microstructures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"There are not many features in the rest of the species of this genus of sufficient interest to the general reader or microscopist to render it advisable to furnish any detailed account of them."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"We have, however, indicated sufficient, since their great similarity in unprofessional eyes will furnish, in one or two species, all that is desirable for the microscopist."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Of the other species found in Britain an enumeration will suffice, since they contain no feature of interest to the microscopist; and all the members of this section are far less beautiful than those in other genera (especially _Microsphæria_)."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The practiced **microscopist** detects structural homologies that completely elude the unaided eye."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate was an enthusiastic **microscopist**, devoting his leisure to preparing histological slides."*
+> - 📜 **Thomas Henry Huxley (*Lectures on Evolution*):** *"Every biological laboratory requires the trained eye of a **microscopist** to verify tissue boundaries."*

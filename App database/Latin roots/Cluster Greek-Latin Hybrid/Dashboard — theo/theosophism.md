@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — theo]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # theosophism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belief in theosophy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belief in theosophy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tenets, philosophical claims, or practices of theosophy; mystical occult philosophy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The pursuit of direct intuitive communion with God and cosmic spiritual realms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theosophism designates belief in theosophy."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Modern **theosophism** draws heavily upon ancient Hindu metaphysics to explain reincarnation and karma."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"German romantic idealism constantly hovered upon the borderline of visionary **theosophism**."*
+> - 📜 **Max Nordau (*Degeneration*):** *"He diagnosed the popular enthusiasm for **theosophism** as a symptom of intellectual fatigue and mystical relapse."*

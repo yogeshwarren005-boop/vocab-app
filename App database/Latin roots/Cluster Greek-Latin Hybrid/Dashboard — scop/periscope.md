@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — scop]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # periscope
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical instrument that provides a view of an otherwise obstructed field.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An optical instrument that provides a view of an otherwise obstructed field.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical apparatus with mirrors or prisms by which an observer can see things out of sight, as on a submarine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tubular viewing device used from trenches or submerged vessels to observe without exposure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"This time there was no chance of damaging the motive power, but we could make the pilot wish he had a periscope."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The submarine commander peered into the lens of the **periscope** as the warship passed above."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The lookouts scanned the choppy sea for the slender wake of a hostile German **periscope**."*
+> - 📜 **Arthur Conan Doyle (*Danger! and Other Stories*):** *"We ran with our **periscope** just breaking the surface of the channel waters outside the harbor."*

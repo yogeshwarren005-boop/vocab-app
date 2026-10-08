@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — nom_law]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # nomogram
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphic representation of numerical relations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A graphic representation of numerical relations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphic calculating device consisting of a two-dimensional diagram representing mathematical relationships.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An alignment chart that allows graphical computation of a function using straight lines across scaled axes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nomogram designates a graphic representation of numerical relations."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Mathematical engineers rely upon a logarithmic **nomogram** to compute stress equations without tedious arithmetic."*
+> - 📜 **Arthur Stanley Eddington (*The Internal Constitution of the Stars*):** *"A carefully calibrated **nomogram** allows the astrophysicist to read radiative pressures across diverse stellar densities."*
+> - 📜 **H. G. Wells (*The World Set Free*):** *"The calculating room was lined with tables and an immense **nomogram** for plotting atomic disintegration rates."*

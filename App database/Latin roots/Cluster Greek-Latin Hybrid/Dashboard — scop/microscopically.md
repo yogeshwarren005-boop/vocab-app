@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — scop]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # microscopically
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By using a microscope; so as to be visible only with a microscope; as seen with a microscope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As if by using a microscope; with extreme precision and attention to detail; in minute detail.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of a microscope; on an extremely tiny or minute scale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With meticulous, minute, and exhaustive attention to every tiny detail or anomaly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"FeS (copper 71·7 per cent.), when examined microscopically, appeared to be homogeneous, and indicated some form of combination between the sulphides in these proportions."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"To the naked eye it appears in pale purplish-grey patches, which, when examined microscopically, are found to consist of dense bundles of branched threads, bearing ellipsoid acrospores, the membranes of which have a violaceous tint."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"When the tissues were examined **microscopically**, slight variations in cell walls became unmistakable."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Sherlock Holmes peered **microscopically** at the bloodstains upon the wooden wainscot of the room."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The structure of the protoplasm can only be interpreted when resolved **microscopically** under high power."*

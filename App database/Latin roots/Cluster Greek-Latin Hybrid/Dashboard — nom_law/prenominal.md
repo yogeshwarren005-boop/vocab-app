@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — nom_law]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # prenominal
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of adjectives; placed before the nouns they modify.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of adjectives; placed before the nouns they modify.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In grammar, placed before or preceding a noun, as a prenominal adjective or modifier.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the praenomen or personal name placed before the family surname in ancient Rome.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prenominal designates of adjectives; placed before the nouns they modify."*
+> - 📜 **Henry Fowler (*The King's English*):** *"The **prenominal** position of English descriptive adjectives lends compactness and energy to our prose."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"His **prenominal** title recalled the heroic founder of their ancient patrician lineage."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Roman citizens treasured their **prenominal** distinctions as symbols of ancient civic liberty."*

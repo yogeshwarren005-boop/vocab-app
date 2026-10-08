@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — scop]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # gyroscopic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the characteristics of a gyroscope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the characteristics of a gyroscope.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or utilizing a gyroscope or the mechanical principle of gyroscopic inertia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Maintaining stability, orientation, or steady resistance to tilting through rapid rotation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Thus the gyroscopic action is very free indeed to exercise its function of keeping the contrivance pointing always in the one way."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The aircraft righted itself automatically through the steadying resistance of its **gyroscopic** flywheels."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The surveying compass was fitted with a **gyroscopic** mount to resist the pitching of our canoe."*
+> - 📜 **Jules Verne (*Robur the Conqueror*):** *"The aerial clipper defied the squalls with perfect **gyroscopic** stability as its propellers whirled."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hier]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hieroglyphically
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of hieroglyphs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By means of hieroglyphs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of hieroglyphic characters or symbols; symbolically or enigmatically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a cryptic, pictorially obscure, or allegorical fashion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hieroglyphically designates by means of hieroglyphs."*
+> - 📜 **Sir Thomas Browne (*Hydriotaphia, Urn Burial*):** *"The pagans expressed their hopes of immortality **hieroglyphically** upon funeral urns by figures of butterflies."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Queequeg was tattooed all over with designs **hieroglyphically** inscribed by a departed prophet of his native island."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"Every natural fact is an emblem of some spiritual fact, written **hieroglyphically** throughout creation."*

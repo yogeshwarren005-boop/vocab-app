@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — nom_law]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # undenominational
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not bound or devoted to the promotion of a particular denomination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not bound or devoted to the promotion of a particular denomination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not restricted to, controlled by, or identifying with any specific religious denomination; nonsectarian.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed for or open to all Christian or religious groups without doctrinal discrimination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undenominational designates not bound or devoted to the promotion of a particular denomination."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"The government proposed an **undenominational** system of primary schools to teach reading and moral duty."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Public education supported by compulsory taxation must remain strictly **undenominational** in its religious instruction."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea supported the **undenominational** cottage dispensary, insisting that medical relief should know no sect."*

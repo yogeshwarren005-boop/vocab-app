@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — theo]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # theocentric
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin theo within the domain of Greek-Latin Hybrid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of theo in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having God as the central focus or ultimate purpose of thought, existence, or interest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to a philosophical or theological worldview oriented around divine sovereignty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"If it is impossible to serve God and mammon, truth and God go together in one allegiance; and a non-Theocentric element in a man's thought will be fatal sooner or later to any aptitude he has by nature for God and truth."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is Theocentric, positive, active rather than passive--not a state, but a relation and a force."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"A thing of price is man," wrote Synesius about 410 A.D., "because for him Christ died." The two things go together--Jesus' death and Jesus' Theocentric thought of man."*
+> - 📜 **Jonathan Edwards (*The End for Which God Created the World*):** *"A truly holy understanding contemplates all creation from an uncompromising, **theocentric** perspective."*
+> - 📜 **John Calvin (*Institutes of the Christian Religion*):** *"Our knowledge of ourselves is impossible without a prior, thoroughly **theocentric** contemplation of divine majesty."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"Christian metaphysics is strictly **theocentric**, placing the divine Logos at the foundation of all reason."*

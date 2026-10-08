@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cosm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cosmetology
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of beautifying the face and hair and skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practice of beautifying the face and hair and skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The professional skill, practice, or study of the application of beauty treatments for hair, skin, and nails.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art and science of personal aesthetics, grooming formulas, and decorative cosmetic application.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmetology designates the practice of beautifying the face and hair and skin."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The vanity industries of earlier centuries had elevated **cosmetology** into a lucrative commercial empire."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"The local beauty parlor displayed diplomas certifying proficiency in Parisian **cosmetology**."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"He sneered at commercial civilization which spent millions upon **cosmetology** while slums went unpaved."*

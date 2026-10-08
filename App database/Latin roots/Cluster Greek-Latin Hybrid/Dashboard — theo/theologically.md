@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — theo]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # theologically
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As regards theology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a theological manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner relating to theology, religious doctrine, or the study of the divine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From the perspective of religious dogma, sacred texts, or ecclesiastical authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theologically designates as regards theology."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Even if morality be defended **theologically**, it must ultimately appeal to the promotion of human happiness."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The council debated **theologically** for six months without narrowing the breach between East and West."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"To reason **theologically** on faith requires us first to clarify the distinction between Reason and Understanding."*

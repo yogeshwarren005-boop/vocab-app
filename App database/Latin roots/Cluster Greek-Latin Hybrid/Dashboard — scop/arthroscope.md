@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — scop]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # arthroscope
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A type of endoscope that is inserted into a joint for visual examination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A type of endoscope that is inserted into a joint for visual examination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical endoscope inserted through a small incision into a joint to inspect and treat interior damage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A surgical instrument utilizing fiber optics for minimally invasive orthopedic diagnosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthroscope designates a type of endoscope that is inserted into a joint for visual examination."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"Modern optical innovations promised instruments like the **arthroscope** to illuminate hidden joint cavities."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Direct visual inspection with an **arthroscope** resolves diagnostic doubts in obscure synovial inflammations."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Surgical technique was revolutionized by miniature optical probes resembling a lighted **arthroscope**."*

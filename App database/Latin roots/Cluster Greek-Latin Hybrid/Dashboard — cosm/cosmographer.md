@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cosm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cosmographer
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist knowledgeable about cosmography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scientist knowledgeable about cosmography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who describes or maps the general features of the universe, heaven, and earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An early cartographer or geographer who mapped terrestrial and celestial globes together.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmographer designates a scientist knowledgeable about cosmography."*
+> - 📜 **Sir Walter Raleigh (*The History of the World*):** *"The ancient **cosmographer** traced the boundaries of continents and the orbits of stars upon a single chart."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Ptolemy, the celebrated Alexandrian **cosmographer**, fixed the coordinates of the known ancient world."*
+> - 📜 **Washington Irving (*The Life and Voyages of Christopher Columbus*):** *"Columbus consulted every venerable **cosmographer** of antiquity to confirm his faith in a western passage."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cosm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cosmogonical
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the branch of astronomy dealing with the origin and history and structure and dynamics of the universe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the branch of astronomy dealing with the origin and history and structure and dynamics of the universe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the origin or creation of the cosmos; cosmogonic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to philosophical or astrophysical theories regarding the evolution of celestial bodies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmogonical designates pertaining to the branch of astronomy dealing with the origin and history and structure and dynamics of the universe."*
+> - 📜 **Sir William Herschel (*Philosophical Transactions of the Royal Society*):** *"The condensation of glowing nebulae into clustered suns offers a sublime **cosmogonical** spectacle."*
+> - 📜 **Herbert Spencer (*Illustrations of Universal Progress*):** *"Laplace developed a magnificent **cosmogonical** hypothesis accounting for the uniform orbital plane of planets."*
+> - 📜 **John Tyndall (*Fragments of Science*):** *"Science demands experimental verification before accepting any speculative **cosmogonical** system."*

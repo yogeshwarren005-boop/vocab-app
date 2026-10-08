@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cosm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cosmic
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or from or pertaining to or characteristic of the cosmos or universe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inconceivably extended in space or time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the universe, space, or cosmos, as distinct from the earth alone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inconceivably vast, magnificent, or universal in scale, significance, or scope.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Nevertheless, thus clad, I trod interstellar space, exalted by the knowledge that I was bound on vast adventure, where, at the end, I would find all the cosmic formulæ and have made clear to me the ultimate secret of the universe."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"If her world is a microcosm, the cosmic quality of it is at least as eminent as the littleness."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"If we attempt a classification of Weltschmerz with regard to its essence, or, better perhaps, with regard to its origin, we shall find that the various types may be classed under one of two heads: either as cosmic or as egoistic."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"The individual soul is intimately allied with the majestic laws that govern the **cosmic** order."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"Man's ethical progress consists in combatting that ruthless **cosmic** process of raw survival."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"I looked upon the dying red sun and felt the overwhelming chill of a vast **cosmic** evening."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — theo]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # pantheon
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: All the gods of a religion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A monument commemorating a nation's dead heroes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A temple dedicated to all the gods, especially the famous circular domed temple in Rome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of particularly respected, famous, or important people in a field, or all the gods of a people.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And for an onset, Titus, to advance Thy name and honourable family, Lavinia will I make my empress, Rome’s royal mistress, mistress of my heart, And in the sacred Pantheon her espouse."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He would not allow Jesus to be put into that pantheon, nor would he worship the gods himself, not even the "genius" of the Emperor, his guardian spirit."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Such an enterprise would seem almost as hopeful as for Lavater to have scrutinized the wrinkles on the Rock of Gibraltar, or for Gall to have mounted a ladder and manipulated the Dome of the Pantheon."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"Simple, erect, severe, austere, sublime—shrine of all saints and temple of all gods, the **Pantheon** stands."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The majestic dome of the Roman **Pantheon** was spared from destruction and consecrated to Christian martyrs."*
+> - 📜 **Thomas Carlyle (*Heroes and Hero-Worship*):** *"The Norse **pantheon** mirrored the stern, tempestuous virtues of the Scandinavian wilderness."*

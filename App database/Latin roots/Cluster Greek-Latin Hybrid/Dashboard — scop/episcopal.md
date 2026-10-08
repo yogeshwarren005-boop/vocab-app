@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — scop]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # episcopal
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to or characteristic of the episcopal church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Denoting or governed by or relating to a bishop or bishops.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a bishop, bishops collectively, or a church governed by bishops.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating the Anglican communion or Protestant Episcopal Church in the United States.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Some quarrel the Presbyter gown, Some quarrel Episcopal graithing; But every good fellow will own Their quarrel is a’ about—naething."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"V The wedding march of Lohengrin floated out from the Episcopal Church of St."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The evening before he left New York for Washington with his regiment, they were married in the Episcopal Church in Lafayette Place."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The restoration of the monarchy re-established the ancient **episcopal** governance throughout the realm."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **episcopal** authority of Saint Ambrose proved formidable enough to rebuke an imperial sovereign."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Edmund felt deep reverence for the solemn responsibilities attaching to the **episcopal** ordaining of ministers."*

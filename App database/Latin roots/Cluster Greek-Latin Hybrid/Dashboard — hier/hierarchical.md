@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hier]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hierarchical
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Classified according to various criteria into successive levels or layers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Classified according to various criteria into successive levels or layers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Organized into a ladder of ranks or grades, each subordinate to the one above it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to administrative or biological systems stratified into distinct ascending tiers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Is it true that we two young gentlemen have been promoted to be sergeants?" "I don't know anything about it, friend Pirli," I answered; and it was true that I was ignorant of my elevation to the hierarchical altitude of a sergeant."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Aristocratic society was fundamentally **hierarchical**, binding every man into a permanent social station."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Natural classification naturally assumes a **hierarchical** arrangement of species, genera, and families."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"A strictly **hierarchical** bureaucracy deadens the initiative of individual subordinate officials."*

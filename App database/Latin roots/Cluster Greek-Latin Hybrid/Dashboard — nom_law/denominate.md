@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — nom_law]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # denominate
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assign a name or title to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assign a name or title to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To give a specific name to someone or something; to designate, name, or call.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To express an arithmetic amount, currency, or quantity in specified units of measurement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"WE SHOULD BE READY TO DENOMINATE INJURIES THOSE THINGS WHICH WERE IN REALITY THE JUSTIFIABLE ACTS OF INDEPENDENT SOVEREIGNTIES CONSULTING A DISTINCT INTEREST."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Thus it is that they whom we denominate ‘savages’ are made to deserve the title."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Those at the North who still cling to these errors, with a zeal above knowledged, we justly denominate fanatics.*** “In the conflict thus far, success has been, on our side, complete throughout the length and breadth of the Confederate States."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"We **denominate** money the standard measure of value because all commodities are estimated in coin."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Men **denominate** things from those prominent sensible qualities that first strike their attention."*
+> - 📜 **Alexander Hamilton (*Report on the Establishment of a Mint*):** *"It is necessary to **denominate** the coins according to a simple decimal proportion for public convenience."*

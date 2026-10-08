@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cosm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cosmological
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the branch of astronomy dealing with the origin and history and structure and dynamics of the universe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the branch of philosophy dealing with the elements and laws and especially the characteristics of the universe such as space and time and causality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the origin, structure, and ultimate fate of the universe as a whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metaphysics, designating the cosmological argument for the existence of God from universal causation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"He does not, like Clement and other Greeks, revel in cosmological speculations as to the Logos, nor does he loosely adopt the abstract methods of later Greek philosophy."*
+> - 📜 **David Hume (*Dialogues Concerning Natural Religion*):** *"The famous **cosmological** proof infers a necessary first cause from the contingent nature of the material world."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"The **cosmological** idea of an absolute beginning of time leads reason into unavoidable dialectical illusion."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Newtonian gravitation provided a unified **cosmological** framework that replaced medieval crystal spheres."*

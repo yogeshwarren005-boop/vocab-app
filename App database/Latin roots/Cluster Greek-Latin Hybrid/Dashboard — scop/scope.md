@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — scop]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # scope
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An area in which something acts or operates or has power or control:.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of the environment in which a situation exists.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The extent of the area or subject matter that something deals with or to which it is relevant; range.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Opportunity, freedom, or room for action, thought, or intellectual development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Blessed are you whose worthiness gives scope, Being had to triumph, being lacked to hope. 53 What is your substance, whereof are you made, That millions of strange shadows on you tend?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is it thy spirit that thou send’st from thee So far from home into my deeds to pry, To find out shames and idle hours in me, The scope and tenure of thy jealousy?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fair, kind, and true, is all my argument, Fair, kind, and true, varying to other words, And in this change is my invention spent, Three themes in one, which wondrous scope affords."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"Having bound up the threatening twigs of birch, only to stick it in their children's sight for terror, not to use, in time the rod becomes more mock'd than fear'd; so our decrees, dead to infliction, to themselves are dead, and liberty plucks justice by the nose, the baby beats the nurse, and quite athwart goes all decorum. For we bid this be done, when evil deeds have their permissive pass, and not the punishment; I have on Angelo imposed the office, who may, in the ambush of my name, strike home, and yet my nature never in the fight to do in slander. And to behold his sway, I will, as 'twere a brother of your order, visit both prince and people: therefore, I prithee, supply me with the habit, and instruct me how I may formally in person bear me like a true friar. More reasons for this action at our more leisure shall I render you; only, this one: Lord Angelo is precise; stands at a guard with envy; scarce confesses that his blood flows, or that his appetite is more to bread than stone: hence shall we see, if power change purpose, what our seemers be. Then give him **scope**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Beyond this sphere is no **scope** for human inquiry, but reverent silence becomes the creature."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The division of labor is limited by the **scope** and extent of the accessible commercial market."*

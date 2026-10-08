@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hier]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hierarch
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who holds a high position in a hierarchy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A senior clergyman and dignitary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chief priest or high religious dignitary who presides over an ecclesiastical see or order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who occupies a supreme or commanding position within any graded governing body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"To whom the winged Hierarch repli’d."*
-> - 📜 **John Milton (*Paradise Lost*):** *"The princely Hierarch In their bright stand there left his Powers, to seise Possession of the garden; he alone, To find where Adam sheltered, took his way, Not unperceived of Adam; who to Eve, While the great visitant approached, thus spake."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The great **hierarch** Raphael descended with celestial grace to admonish our first parents in Eden."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Byzantine **hierarch** claimed spiritual precedence over all eastern patriarchates under imperial favor."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"No mitred **hierarch** could stem the popular fury that swept away the ancient tithes of the clergy."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cosm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cosmid
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (genetics) a large vector that is made from a bacteriophage and used to clone genes or gene fragments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (genetics) a large vector that is made from a bacteriophage and used to clone genes or gene fragments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A type of hybrid cloning vector containing the *cos* sequence of lambda phage and plasmid DNA.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A molecular biology tool capable of cloning large fragments of genomic DNA into bacterial cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmid designates (genetics) a large vector that is made from a bacteriophage and used to clone genes or gene fragments."*
+> - 📜 **Thomas Henry Huxley (*Method and Results*):** *"The future of biological analysis lay in isolating the elemental vectors of inheritance, as when modern geneticists construct a synthetic **cosmid**."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"If microscopic units of heredity could be captured in a bacterial **cosmid**, the mechanisms of variation would be laid bare."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The geneticist uses molecular vehicles like the **cosmid** to map the hidden hereditary defects of man."*

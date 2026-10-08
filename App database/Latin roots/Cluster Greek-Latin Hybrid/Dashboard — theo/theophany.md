@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — theo]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # theophany
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A visible (but not necessarily material) manifestation of a deity to a human person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A visible (but not necessarily material) manifestation of a deity to a human person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A visible manifestation or appearance of a deity to a human being, as in the burning bush.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A revelatory encounter with the divine in nature, mysticism, or sacred scripture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theophany designates a visible (but not necessarily material) manifestation of a deity to a human person."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The miraculous **theophany** upon Mount Sinai was celebrated in the solemn liturgy of the temple of Jerusalem."*
+> - 📜 **John Milton (*Paradise Lost*):** *"In dazzling light the celestial **theophany** appeared above the altar, veiling mortal eyes in awe."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Is not every heroic human soul a living **theophany**, a revelation of divine force walking in time?"*

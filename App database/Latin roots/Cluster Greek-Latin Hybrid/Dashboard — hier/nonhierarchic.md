@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hier]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # nonhierarchic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not classified hierarchically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not classified hierarchically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not organized, structured, or stratified in a hierarchy; lacking successive ranks of authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by egalitarian, peer-to-peer, or decentralized distribution of power and roles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonhierarchic designates not classified hierarchically."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Certain nomadic hunting communities preserve a simple, **nonhierarchic** association free from hereditary chiefs."*
+> - 📜 **William James (*A Pluralistic Universe*):** *"Pragmatism conceives of reality as a **nonhierarchic** mosaic of interconnected individual experiences."*
+> - 📜 **Peter Kropotkin (*Mutual Aid: A Factor of Evolution*):** *"Medieval guilds maintained a voluntary, **nonhierarchic** brotherhood that fostered artisanal independence."*

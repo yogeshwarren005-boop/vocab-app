@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — nom_law]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # nominalistic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to nominalism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to nominalism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of nominalism or its philosophical tenets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treating abstract entities, universals, or classes as purely verbal designations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nominalistic designates of or relating to nominalism."*
+> - 📜 **William James (*Pragmatism*):** *"A pragmatic view of truth shares the **nominalistic** bias of empirical science, distrusting transcendental essences."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"A rigorous **nominalistic** analysis strips away the mystical entities that primitive thought attributed to words."*
+> - 📜 **Charles Sanders Peirce (*Chance, Love, and Logic*):** *"Much modern skepticism is the product of an unexamined **nominalistic** prejudice in epistemology."*

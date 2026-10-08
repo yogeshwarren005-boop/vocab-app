@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — theo]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # theoretical
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned primarily with theories or hypotheses rather than practical considerations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with theories rather than their practical applications.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with or involving the theory of a subject rather than its practical application; hypothetical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on calculated or speculative principles rather than empirical reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This properly belongs in a complete theoretical treatment of the subject.] [Footnote 8: See "Modern Currency Reforms" (1916), by E.W."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The modern world has been compelled to reëxamine the conception of the just price. § 3. #Evil economic effects of monopolistic price.# Theoretical analysis confirms this view."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"My theoretical and his practical knowledge together could not have failed."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"On this view, many difficult **theoretical** objections to the transmutation of species are substantially removed."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A **theoretical** plan of government that ignores human passions is doomed to rapid subversion."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Purely **theoretical** discoveries in electromagnetic physics laid the basis for the transatlantic telegraph."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — scop]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # episcopate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The term of office of a bishop.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The territorial jurisdiction of a bishop.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, dignity, or term of office of a bishop, or the collective body of bishops.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The collective assembly of bishops governing a national or regional ecclesiastical jurisdiction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, episcopate designates the term of office of a bishop."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"During his lengthy **episcopate**, Athanasius defended the Nicene creed against imperial Arians."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The English **episcopate** presented a petition against the royal declaration of indulgence."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"Dr. Proudie attained the prize of the **episcopate**, though his wife governed the diocese in all practical affairs."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — scop]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # horoscope
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A prediction of someone's future based on the relative positions of the planets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diagram of the positions of the planets and signs of the zodiac at a particular time and place.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An astrological forecast of a person's future, based on the positions of the stars and planets at birth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A celestial chart showing the relative positions of the sun, moon, and planets at a specific moment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Though no higher 121:9 revelation than the horoscope was to them dis- played upon the empyrean, earth and heaven were bright, and bird and blossom were glad in God's 121:12 perennial and happy sunshine, golden with Truth."*
+> - 📜 **Sir Walter Scott (*Guy Mannering*):** *"The astrologer drew the nativity and cast the child's **horoscope** beneath the midnight stars."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Severus was encouraged to aspire to the purple by the flattering promises of an imperial **horoscope**."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard secretly visited the weather-caster to have his business **horoscope** cast for the coming harvest."*

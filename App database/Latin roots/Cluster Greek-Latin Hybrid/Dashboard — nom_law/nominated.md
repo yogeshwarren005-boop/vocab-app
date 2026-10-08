@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — nom_law]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # nominated
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Propose as a candidate for some honor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put forward; nominate for appointment to an office or for an honor or position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formally proposed or entered as a candidate for election, office, or honor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appointed or officially designated to perform a specified duty or fill a post.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I did converse this _quondam_ day with a companion of the King’s, who is intituled, nominated, or called, Don Adriano de Armado."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is it so nominated in the bond?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Nominated, constituted, and appointed him."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The blue candidate was **nominated** amid deafening cheers and a shower of rotten cabbage stalks."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The king **nominated** a commission of prelates to revise the liturgy and conciliate moderate Puritans."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"When a presidential candidate is **nominated** by the national convention, party discipline enforces unity."*

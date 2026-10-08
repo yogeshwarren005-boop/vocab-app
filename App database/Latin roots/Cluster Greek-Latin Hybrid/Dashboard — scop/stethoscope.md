@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — scop]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # stethoscope
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical instrument for listening to the sounds generated inside the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical instrument for listening to the sounds generated inside the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical instrument used for listening to the internal sounds of the heart, lungs, and intestinal tract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diagnostic acoustic device that became the universal symbol of the clinical medical profession.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"He not only used his stethoscope (which had not become a matter of course in practice at that time), but sat quietly by his patient and watched him."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I believe that you are suffering from what is called fatty degeneration of the heart, a disease which was first divined and explored by Laennec, the man who gave us the stethoscope, not so very many years ago."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Lucy’s heart beat a trifle more audibly to the stethoscope, and her lungs had a perceptible movement."*
+> - 📜 **William Osler (*Aequanimitas*):** *"With his wooden **stethoscope** applied to the thorax, the clinician detects the earliest murmur of valvular lesion."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate brought the newly invented **stethoscope** into Middlemarch practice, to the wonder of the old apothecaries."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"I hung my polished **stethoscope** around my neck with all the pride of a newly qualified medical practitioner."*

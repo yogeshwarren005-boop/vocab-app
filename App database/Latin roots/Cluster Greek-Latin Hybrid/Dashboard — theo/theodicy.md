@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — theo]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # theodicy
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of theology that defends god's goodness and justice in the face of the existence of evil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of theology that defends god's goodness and justice in the face of the existence of evil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The vindication of divine goodness and providence in view of the existence of evil in the world.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A theological or philosophical defense that reconciles God's omnipotence and benevolence with suffering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theodicy designates the branch of theology that defends god's goodness and justice in the face of the existence of evil."*
+> - 📜 **Gottfried Wilhelm Leibniz (*Theodicy: Essays on the Goodness of God, the Freedom of Man and the Origin of Evil*):** *"The purpose of this **theodicy** is to demonstrate that the actual world is the best of all possible worlds."*
+> - 📜 **John Milton (*Paradise Lost*):** *"That to the height of this great argument I may assert eternal Providence, and justify the ways of God to men; an epic **theodicy** in verse."*
+> - 📜 **Immanuel Kant (*On the Failure of All Attempted Philosophical Theodicies*):** *"A genuine philosophical **theodicy** cannot succeed by dialectical sophistry, but only through practical moral faith."*

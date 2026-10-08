@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — theo]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # theorize
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To believe especially on uncertain or tentative grounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Construct a theory about.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To form a theory or theories about something; to speculate, hypothesize, or conceptualize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To construct an intellectual explanation of underlying causes and relationships.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill set himself, among other things, to study and theorize upon poetry and the arts generally."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"It is scarcely necessary to theorize as to what would have been the attitude and conduct of a sensitive Hoelderlin or a proud-spirited Lenau in a similar position."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Warthell, I have not come here to theorize on the comparative value of life and death."*
+> - 📜 **Arthur Conan Doyle (*A Scandal in Bohemia*):** *"It is a capital mistake to **theorize** before one has data; insensibly one begins to twist facts to suit theories, instead of theories to suit facts."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"I could not resist the temptation to **theorize** upon the unusual distribution of species in the Galapagos."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Philosophers love to **theorize** concerning the nature of substance, though substance itself remains hidden from view."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cosm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cosmology
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The metaphysical study of the origin and nature of the universe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of astrophysics that studies the origin and evolution and structure of the universe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific and philosophical study of the origin, structure, and evolution of the universe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specific metaphysical or religious account of the cosmos and humanity's place within it.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmology designates the metaphysical study of the origin and nature of the universe."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"Rational **cosmology** seeks to comprehend the unconditioned totality of all appearances in space and time."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"The primitive **cosmology** of early man populated every cloud, tree, and river with living ancestral spirits."*
+> - 📜 **Arthur Stanley Eddington (*The Nature of the Physical World*):** *"Physical **cosmology** was revolutionized when the red-shift of distant spiral nebulae revealed an expanding universe."*

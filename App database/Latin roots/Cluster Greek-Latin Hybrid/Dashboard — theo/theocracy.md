@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — theo]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # theocracy
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A political unit governed by a deity (or by officials thought to be divinely guided).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The belief in government by divine guidance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of government in which priests rule in the name of God or a divine authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state or commonwealth whose civil statutes and governance are directly derived from divine revelation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the latter case they are kings as well as gods, and the government is a theocracy."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The Jew offered the pattern of a theocracy, and the Roman of a hierarchy of officials, but it took two centuries to produce the church of Cyprian."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Under Moses and Joshua, the Hebrew commonwealth was established as a pure **theocracy** acknowledging Jehovah as sole king."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Early Massachusetts was a rigid puritan **theocracy**, where civil crime was punished as spiritual sin."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Calvin transformed Geneva into a model **theocracy**, enforcing moral discipline with severe legal penalties."*

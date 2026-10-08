@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cosm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cosmography
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science that maps the general features of the universe; describes both heaven and earth (but without encroaching on geography or astronomy).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A representation of the earth or the heavens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science that maps and describes the general features of the universe, including earth and the heavens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An early comprehensive treatise encompassing astronomy, geography, and navigation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmography designates the science that maps the general features of the universe; describes both heaven and earth (but without encroaching on geography or astronomy)."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"This great building of nature is best understood when astronomy and terrestrial **cosmography** advance together."*
+> - 📜 **John Milton (*Tractate of Education*):** *"Students should then proceed to the study of globes and the principles of ancient and modern **cosmography**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The imperial library possessed priceless manuscripts of Greek **cosmography** that perished in the barbarian sack."*

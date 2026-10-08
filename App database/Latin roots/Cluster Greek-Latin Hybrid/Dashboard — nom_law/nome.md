@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — nom_law]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # nome
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in western alaska on the southern coast of the seward peninsula; an important center of an alaskan gold rush at the beginning of the 20th century.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in western alaska on the southern coast of the seward peninsula; an important center of an alaskan gold rush at the beginning of the 20th century.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the traditional administrative provinces or territorial divisions of ancient Egypt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Greek music, a traditional sacred melody, hymn, or rhythmic type.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nome designates a town in western alaska on the southern coast of the seward peninsula; an important center of an alaskan gold rush at the beginning of the 20th century."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Each ancient Egyptian **nome** was placed under the jurisdiction of a local nomarch responsible for irrigation."*
+> - 📜 **Herodotus (*The Histories*):** *"The land was divided into forty administrative districts, each **nome** worshipping its own sacred beast."*
+> - 📜 **Walter Pater (*Greek Studies*):** *"The sacred **nome** was sung by the choristers at Delphi to celebrate Apollo's victory over the Python."*

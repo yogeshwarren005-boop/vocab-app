@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — scop]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # endoscopy
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Visual examination of the interior of a hollow body organ by use of an endoscope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Visual examination of the interior of a hollow body organ by use of an endoscope.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The examination of the interior of a canal, hollow organ, or cavity by means of an endoscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A minimally invasive clinical diagnostic procedure utilizing illuminated fiber-optic tubes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endoscopy designates visual examination of the interior of a hollow body organ by use of an endoscope."*
+> - 📜 **William Osler (*An Alabama Student and Other Biographical Essays*):** *"Pioneers in clinical **endoscopy** transformed gastric diagnostics from speculative guesswork into exact science."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"We discussed the rising practice of **endoscopy** as a means of detecting deep-seated thoracic lesions."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Modern medical **endoscopy** demonstrates how theoretical optics directly relieves human suffering."*

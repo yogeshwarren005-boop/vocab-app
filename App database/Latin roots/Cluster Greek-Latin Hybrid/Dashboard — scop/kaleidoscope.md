@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — scop]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # kaleidoscope
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex pattern of constantly changing colors and shapes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An optical toy in a tube; it produces symmetrical patterns as bits of colored glass are reflected by mirrors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical tube with mirrors reflecting loose colored fragments to produce symmetrical geometric patterns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A constantly changing sequence of elements, colors, events, or impressions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"In consequence of this, poetic diction has become latterly a kaleidoscope, and one's chief curiosity is as to the precise combinations into which the pieces will be shifted."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was marvellous, a feast for the eyes, this complication of coloured tints, a perfect kaleidoscope of green, yellow, orange, violet, indigo, and blue; in one word, the whole palette of an enthusiastic colourist!"*
+> - 📜 **Lord Byron (*Don Juan*):** *"The rainbow seemed a heavenly **kaleidoscope**, changing its brilliant hues across the azure vault."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"London society presented an ever-shifting **kaleidoscope** of fashion, folly, and sudden ruin."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"History appears as an immense, dazzling **kaleidoscope** turned by the hand of unseen Destiny."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — theo]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # theorise
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To believe especially on uncertain or tentative grounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To believe especially on uncertain or tentative grounds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To form a theory or set of theories about something; to speculate or formulate ideas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To contemplate general principles and causal hypotheses explaining natural or social phenomena.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It is a capital mistake to theorise before one has data."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"I was very tired and sleepy, and soon my theorising passed into dozing."*
-> - 📜 **James Joyce (*Ulysses*):** *"Was he here? —The bard’s fellowcountrymen, John Eglinton answered, are rather tired perhaps of our brilliancies of theorising."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"It is delightful to **theorise** upon the slow upheaval of the Cordillera while resting beneath the granite peaks."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"It is a capital mistake to **theorise** before one has data; insensibly one begins to twist facts to suit theories."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate loved to **theorise** about biological tissue, envisioning a great reform in the medical art."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — theo]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # apotheosise
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deify or glorify.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deify or glorify.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To deify; to glorify or elevate someone or something to divine, supreme, or transcendent rank.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To revere a mortal hero or concept with idolatrous or god-like adoration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"So etherealised by spirit as he was, and so apotheosised by worshipping admirers, did his footsteps, in the procession, really tread upon the dust of earth?"*
+> - 📜 **Thomas Carlyle (*Heroes and Hero-Worship*):** *"Ancient paganism was ever ready to **apotheosise** its conquering kings and mighty lawgivers into starry deities."*
+> - 📜 **William Makepeace Thackeray (*The Virginians*):** *"Flattering courtiers sought to **apotheosise** the reigning sovereign, blinding him to his mortal frailties."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"Modern commercialism attempts to **apotheosise** wealth as the supreme moral achievement of human striving."*

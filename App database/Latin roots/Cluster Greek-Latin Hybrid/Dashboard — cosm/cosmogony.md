@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cosm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cosmogony
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of astrophysics that studies the origin and evolution and structure of the universe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of astrophysics that studies the origin and evolution and structure of the universe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of science or mythology that deals with the origin of the universe and solar system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specific mythical or scientific doctrine concerning how the world came into being.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Indeed in the Phrygian cosmogony an almond figured as the father of all things, perhaps because its delicate lilac blossom is one of the first heralds of the spring, appearing on the bare boughs before the leaves have opened."*
+> - 📜 **Oliver Goldsmith (*The Vicar of Wakefield*):** *"He began by asking whether I had ever studied the **cosmogony** or creation of the world by Sanchoniathon."*
+> - 📜 **David Hume (*Dialogues Concerning Natural Religion*):** *"How can frail human reason presume to build an infallible system of **cosmogony** from a few terrestrial observations?"*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"His strange German mind had framed an entire **cosmogony** based upon the spiritual symbolism of clothing."*

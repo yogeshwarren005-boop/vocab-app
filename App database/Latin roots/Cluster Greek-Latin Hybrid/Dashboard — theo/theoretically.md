@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — theo]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # theoretically
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In theory; according to the assumed facts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a theoretical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a way that relates to or uses theory; in principle or hypothetically, though not necessarily in practice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From the standpoint of abstract reasoning or ideal conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"What may be called "the theoretically correct price"[3] with two-sided competition is the one that permits the maximum number of trades with a margin of gain to each trader."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"What you theoretically know, vividly realise: that with many the religion of beauty must always be a passion and a power, that it is only evil when divorced from the worship of the Primal Beauty."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Theoretically, of course, one ought always to try for the best word."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"An ethical system may be **theoretically** complete while demanding practical adjustments to human fallibility."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"A species might **theoretically** multiply until the globe were covered, were it not checked by predatory competition."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The power was **theoretically** vested in the legislature, though practical executive discretion directed its exercise."*

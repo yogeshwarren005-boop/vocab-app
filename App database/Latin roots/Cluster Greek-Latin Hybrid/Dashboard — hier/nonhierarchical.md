@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hier]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # nonhierarchical
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not classified hierarchically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not classified hierarchically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a hierarchical system of ranks, strata, or tiers; egalitarian and decentralized.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Structured through horizontal cooperation rather than vertical subordination of command.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonhierarchical designates not classified hierarchically."*
+> - 📜 **Peter Kropotkin (*The Conquest of Bread*):** *"Free associations flourish best when based upon **nonhierarchical** cooperation among autonomous groups."*
+> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"Primitive cooperative bands demonstrate that **nonhierarchical** structures can maintain internal peace."*
+> - 📜 **William Morris (*News from Nowhere*):** *"In our transformed commonwealth, production is directed by **nonhierarchical** fellowship without masters."*

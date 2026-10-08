@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — morph]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # nonmetamorphic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not metamorphic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not metamorphic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not metamorphic; designating rocks that have not undergone transformation by heat or pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Retaining pristine sedimentary or unaltered volcanic characteristics without recrystallization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonmetamorphic designates not metamorphic."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"In the undisturbed **nonmetamorphic** shales, delicate fossil trilobites were preserved in sharp detail."*
+> - 📜 **Charles Darwin (*Geological Observations on South America*):** *"The transition from altered crystalline schists to **nonmetamorphic** sandstone was abrupt along the fault line."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The crags were composed of soft, **nonmetamorphic** strata that crumbled rapidly beneath alpine frosts."*

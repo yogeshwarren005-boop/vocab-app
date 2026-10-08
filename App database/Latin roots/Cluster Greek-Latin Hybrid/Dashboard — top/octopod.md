@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # octopod
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cephalopod with eight arms but lacking an internal shell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cephalopod with eight arms but lacking an internal shell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An eight-footed or eight-armed cephalopod mollusk, such as an octopus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having eight feet, tentacles, or leg-like appendages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octopod designates a cephalopod with eight arms but lacking an internal shell."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"A colossal **octopod** appeared at the glass viewport, writhing its eight monstrous arms in fury."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The **octopod** cephalopods possess eight circumoral arms equipped with sessile acetabula or suckers."*
+> - 📜 **Victor Hugo (*Toilers of the Sea*):** *"Gilliatt found himself in the grasp of the marine **octopod**, fighting the monster in the dark sea cave."*

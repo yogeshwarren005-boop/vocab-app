@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — chron]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # synchronously
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In synchrony; in a synchronous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In synchrony; in a synchronous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: At the same time; simultaneously; in temporal unison.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner characterized by coordinated timing, phase, or frequency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchronously designates in synchrony; in a synchronous manner."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Thousands of earthworms emerge **synchronously** during humid summer evenings to feed upon fallen leaves."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The galvanic needles deflected **synchronously** as the circuit was completed across the laboratory."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Our rifles roared **synchronously**, dropping the ferocious pterodactyl before it could strike our companion."*

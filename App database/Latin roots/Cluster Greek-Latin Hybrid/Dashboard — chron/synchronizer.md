@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — chron]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # synchronizer
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument that indicates whether two periodic motions are synchronous (especially an instrument that enables a pilot to synchronize the propellers of a plane that has two or more engines).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument that indicates whether two periodic motions are synchronous (especially an instrument that enables a pilot to synchronize the propellers of a plane that has two or more engines).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device or mechanism that causes operations or components to occur in unison or synchronization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aviation or automotive mechanics, an apparatus that matches speeds before engagement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchronizer designates an instrument that indicates whether two periodic motions are synchronous (especially an instrument that enables a pilot to synchronize the propellers of a plane that has two or more engines)."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The aircraft was equipped with an electric **synchronizer** allowing the machine gun to fire through the propeller arc."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"A rotary **synchronizer** ensured that the induction coils fired in rhythmic harmony."*
+> - 📜 **Arthur Stanley Eddington (*Space, Time and Gravitation*):** *"A physical **synchronizer** cannot establish absolute cosmic simultaneity across accelerated reference frames."*

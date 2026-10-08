@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # topographic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with topography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with topography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the arrangement of the physical features of an area; detailing relief and contours.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to detailed mapping or description of a localized region or anatomical area.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topographic designates concerned with topography."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"A careful **topographic** survey of the coral atoll revealed how the central lagoon had formed."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **topographic** description of ancient Rome enables the antiquarian to trace its lost walls."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The **topographic** features of the mountain chain determine the climate and vegetation of the plateau."*

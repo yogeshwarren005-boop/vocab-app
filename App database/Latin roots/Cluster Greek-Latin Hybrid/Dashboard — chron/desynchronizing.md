@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — chron]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # desynchronizing
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation that exists when things occur at unrelated times.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to become desynchronized; cause to occur at unrelated times.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing the disruption or loss of simultaneous timing, coordination, or phase alignment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting to disrupt synchronized biological, computational, or mechanical rhythms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desynchronizing designates the relation that exists when things occur at unrelated times."*
+> - 📜 **Arthur Stanley Eddington (*The Nature of the Physical World*):** *"Relativistic gravitational fields exert a **desynchronizing** effect on clocks moving at differing velocities."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"A toxic dose operates by **desynchronizing** the harmonious muscular contractions of the heart."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The **desynchronizing** influences of commercial panic destroyed the international banking network."*

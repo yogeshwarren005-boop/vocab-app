@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — morph]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # isomorphic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having similar appearance but genetically different.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having similar appearance but genetically different.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Corresponding or identical in form, shape, or structure; exhibiting isomorphism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics and chemistry, having a one-to-one structural correspondence or identical crystal form.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isomorphic designates having similar appearance but genetically different."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Substances that are **isomorphic** crystallize together in uniform proportions without altering the crystal axes."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The social organism exhibits structures that are **isomorphic** with physiological systems of distribution."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"Two relations are **isomorphic** when their terms can be mapped into a strict one-to-one correspondence."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # topicalize
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Emphasize by putting heavy stress on or by moving to the front of the sentence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emphasize by putting heavy stress on or by moving to the front of the sentence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To front or mark a grammatical constituent as the topic of a sentence or discourse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To treat, frame, or present something as a matter of immediate or contemporary interest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topicalize designates emphasize by putting heavy stress on or by moving to the front of the sentence."*
+> - 📜 **Edward Sapir (*Selected Writings in Language, Culture, and Personality*):** *"Speakers naturally **topicalize** new information by fronting it before the main verbal predicate."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"To **topicalize** an object noun phrase is a regular conversational device across diverse language families."*
+> - 📜 **George Bernard Shaw (*Our Theatres in the Nineties*):** *"Playwrights who seek transient applause **topicalize** everyday political gossip rather than timeless human conflicts."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — morph]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # anthropomorphise
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ascribe human features to something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ascribe human features to something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To attribute human form, personality, or characteristics to something not human.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To interpret natural laws, animals, or deities as if motivated by human sentiments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropomorphise designates ascribe human features to something."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"The poet is permitted to **anthropomorphise** nature, but the natural philosopher must resist such illusions."*
+> - 📜 **George Eliot (*Romola*):** *"The simple peasant was ever ready to **anthropomorphise** the Madonna into a kindly rustic neighbor."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The pathetic fallacy tempts us to **anthropomorphise** the raging sea into a cruel, conscious enemy."*

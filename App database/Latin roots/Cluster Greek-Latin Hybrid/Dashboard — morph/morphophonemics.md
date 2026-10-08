@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — morph]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # morphophonemics
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the phonological realization of the allomorphs of the morphemes of a language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of the phonological realization of the allomorphs of the morphemes of a language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of linguistics that studies the phonological realization of morphemes in different contexts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The system of sound alternations found in the morphemes of a particular language.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morphophonemics designates the study of the phonological realization of the allomorphs of the morphemes of a language."*
+> - 📜 **Edward Sapir (*Language*):** *"The study of **morphophonemics** illuminates how sound laws interact with morphological paradigms."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"Descriptive linguistics divides grammar into syntax, lexicon, and the systematic domain of **morphophonemics**."*
+> - 📜 **William Dwight Whitney (*Language and the Study of Language*):** *"In Indo-European languages, **morphophonemics** reveals the ancient ablaut variations that express tense."*

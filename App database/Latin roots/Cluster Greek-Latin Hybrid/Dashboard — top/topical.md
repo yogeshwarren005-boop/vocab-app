@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # topical
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the surface of a body part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or arranged by topics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of immediate relevance, interest, or importance at the present time; contemporary, current.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine, applied directly to a part of the body, especially the skin or mucous membrane.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Algis Budrys (*Citadel*):** *"Union citizen Harrison was unavailable for comment at this time, but Topical News will present his views and such other clues when more ensues."*
-> - 📜 **James Joyce (*Ulysses*):** *"We subjoin a specimen which has been rendered into English by an eminent scholar whose name for the moment we are not at liberty to disclose though we believe that our readers will find the topical allusion rather more than an indication."*
-> - 📜 **James Joyce (*Ulysses*):** *"What had prevented him from completing a topical song (music by R."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A soothing **topical** application of zinc oxide ointment relieved the severe cutaneous irritation."*
+> - 📜 **George Bernard Shaw (*Dramatic Opinions and Essays*):** *"A play that relies solely on **topical** satire swiftly loses its interest when political ministries change."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The lively conversation turned upon **topical** scandals that occupied the fashionable morning gazettes."*

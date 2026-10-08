@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # topographical
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with topography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with topography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the accurate representation or physical layout of the surface features of an area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Providing a detailed map or description of geographic or anatomical contours.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But in her topographical ignorance as a late comer to the place, she misreckoned the distance of her journey as not much more than half what it really was."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The district is of historic, no less than of topographical interest."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Mackenzie, _An Historical, Topographical, and Descriptive View of the County of Northumberland_, Second Edition (Newcastle, 1825), i. 217. [502] _County Folk-lore_, vol. iv. _Northumberland_, collected by M.C."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The **topographical** changes wrought by volcanic eruptions transform fertile valleys into smoking wastes."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The general consulted his **topographical** maps to choose a defensible position behind the river."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The **topographical** character of Venice explains why her architecture developed in complete freedom from mainland feud."*

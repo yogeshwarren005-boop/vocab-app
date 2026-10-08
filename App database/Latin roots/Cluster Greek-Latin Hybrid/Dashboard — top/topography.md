@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # topography
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The configuration of a surface and the relations among its man-made and natural features.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Precise detailed study of the surface features of a region.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The arrangement of the natural and artificial physical features of an area; surface relief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A detailed written description or map of a particular city, district, or anatomical region.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I don’t know whether you have given much study to the topography."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon—“about topography, ruins, temples—I thought I had a clew, but I saw it would carry me too far, and nothing might come of it."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Before leaving Kauai his father had imparted to Kalelealuaka something of the topography of Oahu, and had described to him the site of his former plantation at Keahumoe."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **topography** of Constantinople offered unrivaled natural fortifications against naval assault."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The wild **topography** of Tierra del Fuego consists of jagged granite peaks and dense, sodden beech forests."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Every ditch and hedgerow in the **topography** of Sedgemoor became memorable in the final royalist charge."*

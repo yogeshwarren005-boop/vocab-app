@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # tops
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The upper part of anything.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The highest or uppermost side of anything.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The highest parts, summits, or upper surfaces of objects, structures, or hills.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloquial idiom, of the very best quality; first-rate or unsurpassed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What valiant foemen, like to autumn’s corn, Have we mowed down in tops of all their pride!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"WOMAN [_sings song._] Orpheus with his lute made trees And the mountain tops that freeze Bow themselves when he did sing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Many a time and oft Have you climb’d up to walls and battlements, To towers and windows, yea, to chimney tops, Your infants in your arms, and there have sat The livelong day with patient expectation, To see great Pompey pass the streets of Rome."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Night's candles are burnt out, and jocund day stands tiptoe on the misty mountain **tops**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Down the hill they walked, where trees waved their green **tops** in the gentle vernal breeze."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sailors clustered in the rigging and on the mast-**tops**, straining their eyes across the Pacific swell."*

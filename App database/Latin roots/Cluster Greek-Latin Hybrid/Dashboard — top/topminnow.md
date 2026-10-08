@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # topminnow
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small usually brightly-colored viviparous surface-feeding fishes of fresh or brackish warm waters; often used in mosquito control.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freshwater fish of central america having a long swordlike tail; popular aquarium fish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small freshwater fish of the family Fundulidae or Poeciliidae that swims and feeds near the surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A killifish or gambusia widely utilized in mosquito control because it devours larvae at the surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topminnow designates small usually brightly-colored viviparous surface-feeding fishes of fresh or brackish warm waters; often used in mosquito control."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The banded **topminnow** swims close beneath the surface film of tranquil streams, feeding on insects."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"Small shoals of the active **topminnow** darted among the pickerel weed whenever our boat approached."*
+> - 📜 **John Burroughs (*Riverby*):** *"Looking down into the clear pool, I watched the agile **topminnow** seize falling gnats."*

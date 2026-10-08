@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cotopaxi
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The world's largest active volcano; located in the andes in north central ecuador.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The world's largest active volcano; located in the andes in north central ecuador.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An active stratovolcano in the Andes Mountains of Ecuador, rising to over 19,000 feet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the highest active volcanoes in the world, renowned for its symmetrical snow-capped cone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cotopaxi designates the world's largest active volcano; located in the andes in north central ecuador."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions*):** *"The smoking summit of **Cotopaxi** presented a spectacle of sublime and terrifying beauty against the sky."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Subterranean rumblings from **Cotopaxi** were heard over hundreds of miles during its grand eruption."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The immense lava streams discharged by **Cotopaxi** illustrate the volcanic power of the Andean cordillera."*

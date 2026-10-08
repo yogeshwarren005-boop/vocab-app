@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # isotopic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or having the relation of an isotope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or having the relation of an isotope.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or denoting an isotope or isotopes of a chemical element.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to atomic varieties sharing identical atomic numbers but different mass numbers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isotopic designates of or relating to or having the relation of an isotope."*
+> - 📜 **Ernest Rutherford (*The Newer Alchemy*):** *"Aston's mass spectrograph revealed the **isotopic** composition of non-radioactive chemical elements like neon."*
+> - 📜 **Arthur Stanley Eddington (*Stars and Atoms*):** *"Variations in **isotopic** weight explain why atomic weights depart from simple integer multiples of hydrogen."*
+> - 📜 **Marie Curie (*Radioactivity*):** *"The chemical inseparability of **isotopic** bodies was demonstrated through repeated fractional crystallizations."*

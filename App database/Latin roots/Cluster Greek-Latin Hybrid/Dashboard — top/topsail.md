@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # topsail
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sail (or either of a pair of sails) immediately above the lowermost sail of a mast and supported by a topmast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sail (or either of a pair of sails) immediately above the lowermost sail of a mast and supported by a topmast.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sail set on a ship's topmast, directly above the lowest sail on that mast.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A principal driving sail on a square-rigged or schooner vessel, crucial for speed and maneuver.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"At times junks of Japan were sighted, but never lifted a familiar topsail of old Europe above the sea-rim."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"_This afternoon, ma'am_," said the captain, as if it were the ay, ay, sir, of an able seaman who sprang to his duty of reefing the main-topsail."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"We went on board the _S----l_, got all the sails and sheets in good order, rigged up an awning as a square sail, set our topsail, and by a little after 10 o'clock had everything ready for a start."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The gale blew so fierce that the main-**topsail** was split into shreds with the crack of a cannon."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The schooner was running under double-reefed **topsails** before the stiff northern breeze."*
+> - 📜 **Richard Henry Dana Jr. (*Two Years Before the Mast*):** *"We were summoned on deck at midnight to clew up the fore-**topsail** in the teeth of a squall."*

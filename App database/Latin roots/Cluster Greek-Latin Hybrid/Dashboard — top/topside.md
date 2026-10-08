@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # topside
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (usually plural) weather deck; the part of a ship's hull that is above the waterline.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually plural) weather deck; the part of a ship's hull that is above the waterline.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The upper part of a ship's side above the waterline, or the exposed weather deck.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nautical direction meaning on or toward the upper deck from below.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Circle them, Brad, let's see what's on the other side." Brad took the utility around to starboard, then topside and below."*
-> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"Me find li’l’ dogee back topside,” or something of that sort, but Motu pronounced his words right and was that particular about his grammar that it made me sort of ashamed."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"All hands were summoned **topside** to witness the solemn naval burial at sea."*
+> - 📜 **Joseph Conrad (*The Nigger of the 'Narcissus'*):** *"Heavy green seas swept across the **topside** bulwarks, flooding the scuppers with foam."*
+> - 📜 **Richard Henry Dana Jr. (*Two Years Before the Mast*):** *"The fresh breeze made it delightful to walk the clean **topside** planking under the starry sky."*

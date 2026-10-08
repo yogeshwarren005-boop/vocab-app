@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # overtop
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Look down on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Look down on.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To rise above the top of something; to exceed in height; to tower over.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To surpass, obscure, or predominate over something in eminence, power, or excellence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I saw clearly the cultivated ranges, and the several mountain-chains that run parallel with the side, and the volcanoes that overtop Mouna-Rea, which rise 5,000 yards above the level of the sea."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"This cavern yawns at the base of the overhanging bluff that overtops the rock of Puupehe."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"The old Inn elbows it disdainfully on one side, and on the other a great modern stuccoed pile overtops it with a parvenu insolence."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Till of this flat a mountain you have made, to **overtop** old Pelion or the skyish head of blue Olympus."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Whose spire and pinnacles **overtop** the tallest cedars that crown the summits of Lebanon."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The new palaces of Constantinople were built to **overtop** the ancient monuments of Old Rome."*

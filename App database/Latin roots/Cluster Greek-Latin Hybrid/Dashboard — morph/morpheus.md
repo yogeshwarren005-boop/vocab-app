@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — morph]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # morpheus
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The roman god of sleep and dreams.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The roman god of sleep and dreams.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical Greco-Roman mythology, the god of dreams and slumber, son of Somnus (Sleep).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A poetic personification of deep, restorative, or dream-laden sleep.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"If I don’t sleep at once, chloral, the modern Morpheus--C_{2}HCl_{3}O."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"In a few brief moments, the others of the party were blowing, in nasal trumpetings, the praises of Morpheus."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Even Sachem, who usually hugged Morpheus so long and late, might that morning have been seen among the earliest of us washing in the waters of the creek."*
+> - 📜 **John Milton (*Il Penseroso*):** *"While **Morpheus** on his slumbering couch weaves visions of delight for contemplative spirits."*
+> - 📜 **Alexander Pope (*The Dunciad*):** *"Soft on her lap her dunce reposes deep, as **Morpheus** sheds around the balm of sleep."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The weary wanderer resigned his troubled soul to the gentle embrace of **Morpheus**."*

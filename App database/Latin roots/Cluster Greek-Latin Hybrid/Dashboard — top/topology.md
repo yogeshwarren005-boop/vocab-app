@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # topology
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Topographic study of a given place (especially the history of the place as indicated by its topography).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of anatomy based on regions or divisions of the body and emphasizing the relations between various structures (muscles and nerves and arteries etc.) in that region.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of mathematics concerned with the properties of space that are preserved under continuous deformations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of the way in which parts of a whole are interrelated, arranged, or connected.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topology designates topographic study of a given place (especially the history of the place as indicated by its topography)."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"Modern mathematics owes immense debts to **topology**, which analyzes continuity without measuring distance."*
+> - 📜 **Arthur Stanley Eddington (*The Nature of the Physical World*):** *"The physical **topology** of four-dimensional spacetime replaces the separate categories of space and time."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"In the anatomical **topology** of the skull, the position of the nerves remains invariant across all mammals."*

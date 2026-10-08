@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # topically
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a restricted area of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a restricted area of the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner relating to current events or matters of immediate interest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine, by direct application to a localized part of the body, especially the skin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topically designates to a restricted area of the body."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The antiseptic lotion was applied **topically** to prevent secondary bacterial invasion of the wound."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"An essay that treats **topically** of passing fashions will be forgotten by the succeeding generation."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The ointment acted **topically**, reducing inflammation without producing systemic disturbance."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # topographically
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With regard to topography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to topography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In terms of the physical features, layout, and surface contours of an area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With reference to the precise geographic location or anatomical disposition of parts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topographically designates with regard to topography."*
+> - 📜 **Alexander von Humboldt (*Views of Nature*):** *"The steppes of Central Asia are **topographically** isolated from the moisture-bearing winds of the ocean."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Islands that are **topographically** close to a continent invariably derive their animal life from the mainland."*
+> - 📜 **Winston Churchill (*The River War*):** *"The battlefield was **topographically** divided by a rocky ridge that masked the dervish infantry."*

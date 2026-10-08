@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — morph]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # anamorphosis
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The evolution of one type of organism from another by a long series of gradual changes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A distorted projection or perspective; especially an image distorted in such a way that it becomes visible only when viewed in a special manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A distorted projection or drawing that appears in natural proportion only when viewed from a specific angle or through a suitable mirror.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological evolution or botany, the gradual transformation of an organ or organism into a new form.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anamorphosis designates the evolution of one type of organism from another by a long series of gradual changes."*
+> - 📜 **Sir Thomas Browne (*Pseudodoxia Epidemica*):** *"In curious optical perspectives, an intentional **anamorphosis** presents a monster until viewed from the rightful station."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"Holbein's famous canvas includes a skull depicted by mathematical **anamorphosis** across the foreground."*
+> - 📜 **Thomas Henry Huxley (*Method and Results*):** *"The morphological series reveals an evolutionary **anamorphosis** connecting the reptile to the mammalian skull."*

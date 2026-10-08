@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — morph]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # morphophonemic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to morphophonemics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to morphophonemics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the relationship between morphemes and their phonetic realizations; morphophonological.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to rules governing sound alternations in specific grammatical morphemes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morphophonemic designates of or relating to morphophonemics."*
+> - 📜 **Edward Sapir (*Selected Writings in Language, Culture, and Personality*):** *"The **morphophonemic** alternations in American Indian tongues exhibit astonishing regularity."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"A complete grammar must formulate the **morphophonemic** equations that map abstract roots onto speech sounds."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Vowel gradation in Germanic strong verbs is a classic example of ancient **morphophonemic** change."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — morph]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # metamorphous
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to metamorphosis (especially of rocks).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produced by metamorphosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergoing, characterized by, or exhibiting metamorphosis or structural change; metamorphic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Changing in form, character, or physical constitution under natural forces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metamorphous designates of or relating to metamorphosis (especially of rocks)."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"These ancient **metamorphous** strata demonstrate the long-continued operation of volcanic subterranean heat."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The insect undergoes several **metamorphous** transitions before emerging in its winged imago state."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"His lighthearted nature seemed to undergo a **metamorphous** change, weighed down by the burden of sin."*

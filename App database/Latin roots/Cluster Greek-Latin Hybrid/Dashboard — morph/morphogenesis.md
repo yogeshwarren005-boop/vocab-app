@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — morph]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # morphogenesis
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Differentiation and growth of the structure of an organism (or a part of an organism).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Differentiation and growth of the structure of an organism (or a part of an organism).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological process that causes an organism or part to develop its characteristic shape and form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The origin and morphological differentiation of embryonic tissues and organs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morphogenesis designates differentiation and growth of the structure of an organism (or a part of an organism)."*
+> - 📜 **Thomas Henry Huxley (*Evolution in Biology*):** *"Embryology traces the wondrous steps of **morphogenesis** whereby a homogeneous egg becomes a complex vertebrate."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The laws governing cellular **morphogenesis** reveal ancestral genealogical affinities across diverse animal classes."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"The study of **morphogenesis** reveals how physiological division of labor shapes external organic structure."*

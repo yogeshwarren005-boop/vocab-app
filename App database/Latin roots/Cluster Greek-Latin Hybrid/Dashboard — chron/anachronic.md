@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — chron]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # anachronic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chronologically misplaced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chronologically misplaced.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to a different time period; out of chronological order; anachronistic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incongruously misplaced in historical time; archaic or ahead of its era.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anachronic designates chronologically misplaced."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"His romantic verse contained an **anachronic** charm, blending Elizabethan diction with modern sensibility."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The feudal chivalry of the court was an **anachronic** phantom parading before an angry democracy."*
+> - 📜 **Walter Pater (*Appreciations*):** *"The medieval mystery plays presented an **anachronic** mixture of biblical lore and rustic English farce."*

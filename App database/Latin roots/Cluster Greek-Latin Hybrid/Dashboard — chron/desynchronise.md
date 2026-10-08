@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — chron]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # desynchronise
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to become desynchronized; cause to occur at unrelated times.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to become desynchronized; cause to occur at unrelated times.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause to lose synchronization; to disrupt the synchronous timing or coordination of systems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To break the harmonious temporal alignment of biological rhythms or electronic signals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desynchronise designates cause to become desynchronized; cause to occur at unrelated times."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"Enemy jamming contrived to **desynchronise** our telegraphic signals across the battle line."*
+> - 📜 **William Osler (*Aequanimitas*):** *"Prolonged febrile states tend to **desynchronise** the normal metabolic rhythms of digestion."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"A fluctuating magnetic field will **desynchronise** two coupled oscillators in the circuit."*

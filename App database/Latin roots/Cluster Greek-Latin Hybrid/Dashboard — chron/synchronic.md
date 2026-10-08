@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — chron]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # synchronic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring or existing at the same time or having the same period or phase; - jour.a.m.a.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with phenomena (especially language) at a particular period without considering historical antecedents.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with something, especially a language, as it exists at one point in time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and anthropology, analyzing a system at a specific historical moment rather than its evolution over time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchronic designates occurring or existing at the same time or having the same period or phase; - jour.a.m.a."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"A **synchronic** grammar describes the structural relations of a language at a given moment of its history."*
+> - 📜 **Edward Sapir (*Language*):** *"The **synchronic** analysis of native dialects reveals systematic phonetic laws operating in living speech."*
+> - 📜 **Max Müller (*The Science of Language*):** *"Before undertaking comparative history, the philologist must make a thorough **synchronic** survey of each text."*

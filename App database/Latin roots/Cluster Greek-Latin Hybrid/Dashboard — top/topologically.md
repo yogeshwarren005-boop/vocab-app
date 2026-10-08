@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # topologically
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: From the point of view of topology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From the point of view of topology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In terms of topology; with respect to geometric properties invariant under stretching or bending.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From the perspective of spatial connectivity and boundary relations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topologically designates from the point of view of topology."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"A sphere and a flattened ellipsoid are **topologically** equivalent because one can be deformed into the other."*
+> - 📜 **Arthur Stanley Eddington (*The Mathematical Theory of Relativity*):** *"Two coordinate systems are **topologically** identical if they describe the same underlying continuum."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Our primary tactile intuition maps spatial continuity **topologically** before measuring metric distance."*

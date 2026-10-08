@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — chron]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # chronoperates
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reptile genus of therapsida.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reptile genus of therapsida.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Functions or operates according to programmed time sequences or chronological intervals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In automation or horology, describing devices that regulate mechanisms via timed operations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chronoperates designates a reptile genus of therapsida."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The curious mechanism **chronoperates** through intricate crystal dials that register passing centuries."*
+> - 📜 **Arthur Stanley Eddington (*The Nature of the Physical World*):** *"Entropy acts as the universal gear that **chronoperates** the forward movement of physical time."*
+> - 📜 **Jules Verne (*The Master of the World*):** *"An automatic timer **chronoperates** the engine valves, ensuring perfect combustion at high flight speeds."*

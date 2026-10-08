@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — morph]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # morphology
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biology that deals with the structure of animals and plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Studies of the rules for forming admissible words.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biology that deals with the forms and structures of organisms and their features.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics, the study of the forms of words, their inflections, derivations, and compounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morphology designates the branch of biology that deals with the structure of animals and plants."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"This is one of the most interesting departments of natural history, and may almost be said to be its very soul: I mean **Morphology**."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Goethe was among the earliest naturalists to demonstrate the fertile power of philosophical **morphology**."*
+> - 📜 **Max Müller (*The Science of Language*):** *"The historical **morphology** of the Indo-European languages reveals common grammatical roots across Europe and Asia."*

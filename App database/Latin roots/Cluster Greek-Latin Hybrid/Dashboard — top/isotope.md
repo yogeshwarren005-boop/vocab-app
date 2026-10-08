@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # isotope
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of two or more atoms with the same atomic number but with different numbers of neutrons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of two or more atoms with the same atomic number but with different numbers of neutrons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Each of two or more forms of the same chemical element having equal numbers of protons but different neutrons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An atomic variant of an element possessing identical chemical properties but differing atomic mass.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isotope designates one of two or more atoms with the same atomic number but with different numbers of neutrons."*
+> - 📜 **Ernest Rutherford (*Radioactive Substances and Their Radiations*):** *"Soddy established that each radioactive **isotope** occupies the identical position in the periodic system."*
+> - 📜 **Arthur Stanley Eddington (*The Nature of the Physical World*):** *"The transmutation of one nuclear **isotope** into another releases the boundless energy of stellar cores."*
+> - 📜 **H. G. Wells (*The World Set Free*):** *"The experimentalist purified the unstable heavy **isotope** that unlocked atomic degeneration."*

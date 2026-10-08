@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — chron]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # chronological
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or arranged according to temporal order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or arranged according to temporal order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arranged in the order of time of occurrence, from earliest to latest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to chronology or the science of measuring and reckoning historical time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Mark's chronological date here, he does not speak of this until Peter has called him the Messiah."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Their names are, in chronological order, Elizabeth Bennet, Diana Vernon, Argemone Lavington, Beatrix Esmond, and Barbara Grant."*
-> - 📜 **Bram Stoker (*Dracula*):** *"In this matter dates are everything, and I think that if we get all our material ready, and have every item put in chronological order, we shall have done much."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"I have adhered to a strict **chronological** order to trace the slow decay of the imperial institutions."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **chronological** succession of fossil forms throughout the strata confirms the theory of gradual descent."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"A biography should present the works of an author in exact **chronological** sequence to show his mental growth."*

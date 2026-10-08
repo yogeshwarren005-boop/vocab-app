@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # topsoil
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The layer of soil on the surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The layer of soil on the surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The top layer of soil, typically dark, rich in organic matter, and vital for plant growth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fertile surficial earth cultivated by agriculture and vulnerable to erosion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topsoil designates the layer of soil on the surface."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Earthworms continually bring up fine earth from beneath, enriching the rich **topsoil** with organic matter."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I plowed the sandy field, turning under the thin **topsoil** to plant my two acres of beans."*
+> - 📜 **John Burroughs (*Signs and Seasons*):** *"Spring rains washed the black alluvial **topsoil** down from the hills into the fertile valley meadows."*

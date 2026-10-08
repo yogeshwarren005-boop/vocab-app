@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # topless
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no top.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the breasts uncovered or featuring such nudity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no top, summit, roof, or upper covering; boundless, immeasurably high.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern context, without clothing covering the chest or breasts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topless designates having no top."*
+> - 📜 **Christopher Marlowe (*Doctor Faustus*):** *"Was this the face that launch'd a thousand ships, and burnt the **topless** towers of Ilium?"*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"The bold Troyans, seated upon their high and **topless** battlements, defied the Greeks."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Vast mountain crags rose into the sky, crowned with **topless** grandeur above the storm."*

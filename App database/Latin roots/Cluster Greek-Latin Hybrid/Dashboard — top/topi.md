@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # topi
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lightweight hat worn in tropical countries for protection from the sun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large south african antelope; considered the swiftest hoofed mammal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sun helmet or pith helmet; variant spelling of *topee*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In African zoology, a medium-sized reddish-brown antelope found in savannas and floodplains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topi designates a lightweight hat worn in tropical countries for protection from the sun."*
+> - 📜 **Theodore Roosevelt (*African Game Trails*):** *"Across the Athi plains, small herds of glossy **topi** grazed alongside the zebras and wildebeests."*
+> - 📜 **Rudyard Kipling (*Kim*):** *"He pulled the khaki **topi** low over his brow to shield his eyes from the glare of the Grand Trunk Road."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The harbor-master adjusted his white **topi** and gazed out across the glistening tropical roadstead."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — chron]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # desynchronize
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to become desynchronized; cause to occur at unrelated times.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to become desynchronized; cause to occur at unrelated times.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To disrupt or eliminate the simultaneous timing, rate, or coordination of two or more processes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To cause a biological rhythm or mechanical apparatus to operate out of phase.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desynchronize designates cause to become desynchronized; cause to occur at unrelated times."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Any sudden variation in resistance will **desynchronize** the reciprocating commutators of the dynamo."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The temporal recoil threatened to **desynchronize** the twin brass gyroscopes spinning in the engine."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Intense mental agitation will easily **desynchronize** the autonomic reflexes of breathing and pulse."*

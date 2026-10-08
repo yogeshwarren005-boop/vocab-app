@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — chron]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # chronicle
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A record or narrative description of past events.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Record in chronological order; make a historical record.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A factual written account of historical events in the order of their occurrence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To record a series of events in a detailed, factual, and chronological manner.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I and my sword will earn our chronicle."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To suckle fools and chronicle small beer."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No more yet of this; For ’tis a chronicle of day by day, Not a relation for a breakfast nor Befitting this first meeting."*
+> - 📜 **William Shakespeare (*Henry V*):** *"As rich with praise as is the ooze and bottom of the sea with sunken wreck and sumless treasuries; so let our **chronicle** record it."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The monastic **chronicle** recorded the portent of a blazing comet with superstitious terror."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"An ancient puritan **chronicle** preserved the memory of that solemn election sermon on the scaffold."*

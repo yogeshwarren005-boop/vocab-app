@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # topeka
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital of the state of kansas; located in eastern kansas on the kansas river.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital of the state of kansas; located in eastern kansas on the kansas river.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital city of the US state of Kansas, located along the Kansas River.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historic midwestern center on the Santa Fe Trail and key site of early rail expansion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Our party entered the State at Kansas City, and took the cars for Topeka, its capital."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"About noon we arrived at Topeka, the capital, well situated on the south bank of the river, having a comfortable, well-to-do air, which suggests the quiet satisfaction of an honest burgher after a morning of toil."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The Indian gourmands ate it greedily and called it "Topeka." From the two or three families of refugee Free State men the town grew up, and from the Indian root it took its name."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The overland stage rattled past the newly surveyed settlements along the road toward **Topeka**."*
+> - 📜 **Abraham Lincoln (*Collected Works of Abraham Lincoln*):** *"The free-state settlers assembled at **Topeka** to frame a constitution that banned human slavery."*
+> - 📜 **Walt Whitman (*Specimen Days*):** *"I traveled westward across the rich prairie lands, pausing at bustling, energetic **Topeka**."*

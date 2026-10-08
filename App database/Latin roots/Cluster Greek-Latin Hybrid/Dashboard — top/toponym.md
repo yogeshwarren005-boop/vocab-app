@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # toponym
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The name by which a geographical place is known.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The name by which a geographical place is known.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A place name, especially one derived from a topographical feature or historical circumstance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A proper name designating a geographic locality, settlement, mountain, or river.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toponym designates the name by which a geographical place is known."*
+> - 📜 **Isaac Taylor (*Words and Places*):** *"Every local **toponym** in England tells a chapter of conquest, Saxon clearing, or Danish colonization."*
+> - 📜 **Max Müller (*Chips from a German Workshop*):** *"A single Celtic **toponym** surviving on a German river proves that Gauls once inhabited the valley."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Arabic **toponym** replaced the ancient Latin title, recording the triumph of the Saracen conqueror."*

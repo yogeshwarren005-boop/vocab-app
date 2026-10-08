@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — morph]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # morphologically
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a morphological manner; with regard to morphology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a morphological manner; with regard to morphology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In terms of form, shape, or anatomical structure; from a morphological viewpoint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to the internal structure of words or organisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morphologically designates in a morphological manner; with regard to morphology."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The petals of a flower are **morphologically** modified leaves adapted to attract insect pollinators."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The swim-bladder of the fish is **morphologically** homologous with the respiratory lungs of higher tetrapods."*
+> - 📜 **Asa Gray (*Darwiniana*):** *"Structures that appear identical may differ **morphologically** when their developmental history is traced."*

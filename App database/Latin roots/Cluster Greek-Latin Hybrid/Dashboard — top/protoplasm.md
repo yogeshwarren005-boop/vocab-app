@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # protoplasm
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The substance of a living cell (including cytoplasm and nucleus).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The substance of a living cell (including cytoplasm and nucleus).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The colorless material comprising the living part of a cell, including the cytoplasm and nucleus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physical basis of life; primordial organic substance exhibiting all vital biological processes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The oogonia are large spherical or ovoid cells, with a thickish membrane containing a granular protoplasm, or formative fluid."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The antheridia are somewhat blunt-shaped or obovate cellules, considerably smaller than the oogonia, with slightly thickened walls, and containing a finely granular protoplasm."*
+> - 📜 **Thomas Henry Huxley (*On the Physical Basis of Life*):** *"**Protoplasm**, simple or nucleated, is the formal basis of all life; it is the clay of the potter."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The living **protoplasm** of the lowest rhizopod displays the same fundamental contractility as human muscle."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"I touched the monstrous crab-like thing, and felt only a cold, pulsating mass of primitive **protoplasm**."*

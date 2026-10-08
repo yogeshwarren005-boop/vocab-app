@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # topognosis
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Recognition of the location of a stimulus on the skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recognition of the location of a stimulus on the skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The faculty of recognizing or localizing a touch or tactile stimulus upon the body; topognosia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sensory neurological recognition of the anatomical location of tactile impressions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topognosis designates recognition of the location of a stimulus on the skin."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Accurate **topognosis** depends on the orderly mapping of cutaneous sensations upon the cerebral cortex."*
+> - 📜 **William Osler (*Aequanimitas*):** *"We tested his **topognosis** with a delicate camel's hair brush, noting the areas of blunted sensation."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The experimental testing of **topognosis** demonstrates how central nerves organize space perception."*

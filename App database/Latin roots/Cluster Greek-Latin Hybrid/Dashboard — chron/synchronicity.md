@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — chron]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # synchronicity
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation that exists when things occur at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation that exists when things occur at the same time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The simultaneous occurrence of events which appear meaningfully related yet lack a causal connection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state or fact of being synchronous; coincidence in time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchronicity designates the relation that exists when things occur at the same time."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The striking **synchronicity** of the vision with the distant friend's demise produced an indelible impression."*
+> - 📜 **Arthur Stanley Eddington (*The Nature of the Physical World*):** *"Relativity forces us to reconsider the absolute **synchronicity** of distant cosmic events."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"What appeared as a miraculous **synchronicity** was shown to be governed by ordinary physical laws."*

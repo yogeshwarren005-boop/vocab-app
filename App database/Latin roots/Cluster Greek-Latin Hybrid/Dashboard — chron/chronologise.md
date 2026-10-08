@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — chron]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # chronologise
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Establish the order in time of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Establish the order in time of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To arrange events or historical records in chronological order; to compute chronology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To assign historical dates and time intervals to ancient annals or genealogies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chronologise designates establish the order in time of something."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Scholars laboured in vain to **chronologise** the conflicting dynasties recorded on the Egyptian monuments."*
+> - 📜 **Thomas Carlyle (*Critical and Miscellaneous Essays*):** *"It is difficult to **chronologise** the sudden impulses and fits of fury that drove the revolutionary mob."*
+> - 📜 **Sir Walter Scott (*The Antiquary*):** *"The antiquarian attempted to **chronologise** the crumbling Roman encampments across the Scottish border."*

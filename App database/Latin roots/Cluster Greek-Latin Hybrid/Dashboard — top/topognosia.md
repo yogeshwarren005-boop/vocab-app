@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # topognosia
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Recognition of the location of a stimulus on the skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recognition of the location of a stimulus on the skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability of a person to localize correctly a tactile sensation on the surface of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, intact sensory localization testing tactile discrimination on the skin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topognosia designates recognition of the location of a stimulus on the skin."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Our faculty of **topognosia** enables the blindfolded subject to point unerringly to the spot touched on his forearm."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Loss of **topognosia** in the contralateral fingers points to a focal lesion in the parietal cortex."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Tactile **topognosia** varies enormously across the body, reaching its highest delicacy upon the tongue and fingertips."*

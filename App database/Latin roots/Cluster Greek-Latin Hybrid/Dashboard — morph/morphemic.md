@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — morph]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # morphemic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to morphemes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to morphemes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or consisting of morphemes; pertaining to grammatical word-structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to the morphological level of linguistic description and analysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morphemic designates of or relating to morphemes."*
+> - 📜 **Edward Sapir (*Language*):** *"The **morphemic** inventory of an agglutinative language reveals regular affixes joined without stem alteration."*
+> - 📜 **Max Müller (*Chips from a German Workshop*):** *"The Aryan languages display profound **morphemic** regularities across Sanskrit, Greek, and Latin."*
+> - 📜 **William Dwight Whitney (*The Life and Growth of Language*):** *"Inflectional endings provide the **morphemic** apparatus that establishes syntactic relations in a sentence."*

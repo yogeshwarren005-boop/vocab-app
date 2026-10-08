@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — chron]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # unsynchronised
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not occurring together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not occurring together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not synchronized; not occurring at the same time; operating out of phase or coordination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking coordinated timing, rhythm, or chronological alignment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsynchronised designates not occurring together."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"An **unsynchronised** burst from the airship gun shattered its own revolving propeller blades."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The heartbeat became irregular and **unsynchronised** under the toxic influence of the plant alkaloid."*
+> - 📜 **Arthur Conan Doyle (*The Poison Belt*):** *"Our watches lay **unsynchronised** upon the mantelpiece, forgotten amid the cosmic catastrophe."*

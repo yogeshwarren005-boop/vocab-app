@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — morph]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # metamorphic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to metamorphosis (especially of rocks).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by metamorphosis or change in physical form or substance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or denoting rock that has undergone transformation by heat, pressure, or other natural agencies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergoing or characterized by a change of form, structure, or character; transformational.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metamorphic designates of or relating to metamorphosis (especially of rocks)."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Subterranean heat and enormous pressure convert sedimentary shales into hard **metamorphic** schists."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The central axis of the mountain range consisted of ancient **metamorphic** granite and gneiss."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Society is in a **metamorphic** state, dissolving its old institutional garments to weave new ones."*

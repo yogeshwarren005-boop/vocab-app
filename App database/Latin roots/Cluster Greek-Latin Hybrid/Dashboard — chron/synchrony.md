@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — chron]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # synchrony
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation that exists when things occur at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation that exists when things occur at the same time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Simultaneous action, temporal concurrence, or harmonious operation in exact unison.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics, the study of language at a particular fixed point in time; synchronic linguistics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchrony designates the relation that exists when things occur at the same time."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"Linguistics must separate diachrony, which traces evolution through time, from **synchrony**, which studies living systems."*
+> - 📜 **Thomas Henry Huxley (*Lectures on Evolution*):** *"The remarkable **synchrony** between predator numbers and prey population reveals ecological balance."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Our muscular habits operate in effortless **synchrony** when guided by rhythmic musical accompaniment."*

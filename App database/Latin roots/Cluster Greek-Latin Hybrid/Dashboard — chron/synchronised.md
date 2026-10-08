@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — chron]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # synchronised
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Happen at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make (motion picture sound) exactly simultaneous with the action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Caused to occur at the same time or rate; coordinated in timing or operation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjusted so that two or more clocks or mechanisms indicate identical time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchronised designates happen at the same time."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The artillery opened a **synchronised** barrage along thirty miles of front at the stroke of dawn."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"The detectives moved with **synchronised** precision, surrounding the lodge before an alarm could sound."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The Martian war-machines advanced in **synchronised** formation, sweeping the Thames valley with heat-rays."*

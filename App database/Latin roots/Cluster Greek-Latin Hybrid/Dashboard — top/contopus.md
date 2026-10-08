@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # contopus
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pewees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pewees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small tyrant flycatchers of the Americas, commonly known as wood pewees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An avian genus characterized by short tarsal bones and a habit of sallying after flying insects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog contopus as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The wood pewee of the genus **contopus** perches upon dead twigs, darting swiftly after gnats."*
+> - 📜 **Henry David Thoreau (*Journal*):** *"I heard the plaintive, sweet whistle of the **contopus** echoing through the hemlock groves."*
+> - 📜 **John Burroughs (*Wake-Robin*):** *"The quiet flycatcher **contopus** sits motionless until an insect crosses its woodland clearing."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — chron]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # anachronous
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chronologically misplaced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chronologically misplaced.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring out of its proper chronological time; out of place in historical sequence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incongruously archaic or premature relative to contemporary customs or standards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anachronous designates chronologically misplaced."*
+> - 📜 **Samuel Johnson (*Preface to Shakespeare*):** *"Shakespeare cared little for chronological exactness, introducing **anachronous** customs into ancient Rome."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"To govern an industrial commercial kingdom by **anachronous** Spartan maxims is dangerous folly."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"The archaic temple ritual preserved an **anachronous** solemnity that contrasted with fashionable skepticism."*

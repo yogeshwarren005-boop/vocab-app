@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — morph]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # morpheme
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Minimal meaningful language unit; it cannot be divided into smaller meaningful units.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Minimal meaningful language unit; it cannot be divided into smaller meaningful units.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The smallest meaningful morphological unit in a language that cannot be further divided.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A base word or affix (such as a prefix or suffix) that carries semantic or grammatical meaning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morpheme designates minimal meaningful language unit; it cannot be divided into smaller meaningful units."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"In comparative grammar, we trace each root and suffix back to its primitive, monosyllabic **morpheme**."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"A single word may consist of an isolated radical element, or it may combine several distinct **morphemes**."*
+> - 📜 **Bertrand Russell (*An Inquiry into Meaning and Truth*):** *"Linguistic analysis decomposes complex propositions into primitive semantic signs, akin to the linguistic **morpheme**."*

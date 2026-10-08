@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — chron]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # synchronized
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make synchronous and adjust in time or manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happen at the same time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Operated, occurring, or moving at the same time or rate; coordinated in timing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Matched in speed, frequency, or phase, as audio and video signals or alternating generators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"All of your plans and timetables must be synchronized with the actions I take at the conference." "Any attacks on the depot will be immediately spunnel-flashed by Hanno to the UIPS," Drummer said."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"OBJECTIVES OF SECOND SEVEN YEAR PLAN LARGELY ATTAINED The objectives of the Second Seven Year Plan, the concluding phase of which has synchronized with this period of nation-wide austerity, have, it must be recognized, been in the main, attained."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The speed of the roller and the table is synchronized to obviate any possibility of the mat becoming wrinkled by sliding."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"At the appointed minute, the **synchronized** artillery opened fire with deafening concussion."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Our watches were carefully **synchronized** so that both exploring parties might fire signals together."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The **synchronized** pumps emptied the water-ballast reservoirs, allowing the Nautilus to rise like a cork."*

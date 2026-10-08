@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — morph]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # isomorphism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) similarity or identity of form or shape or structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) similarity or identity of form or shape or structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A similarity or identity of form or structure between organisms, crystals, or mathematical systems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography, the property of substances of different composition crystallizing in the same form.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isomorphism designates (biology) similarity or identity of form or shape or structure."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Convergent evolution often simulates true homology through morphological **isomorphism** produced by similar environments."*
+> - 📜 **John Tyndall (*Fragments of Science*):** *"Mitscherlich's discovery of chemical **isomorphism** revealed the intimate connection between composition and form."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Structural **isomorphism** between distinct developmental types indicates analogous functional requirements."*

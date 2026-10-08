@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # topee
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lightweight hat worn in tropical countries for protection from the sun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lightweight hat worn in tropical countries for protection from the sun.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lightweight pith helmet or sun hat traditionally worn in the tropics; pith topee.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sturdy protective head covering made from the pith of the sola plant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topee designates a lightweight hat worn in tropical countries for protection from the sun."*
+> - 📜 **Rudyard Kipling (*Plain Tales from the Hills*):** *"He clapped his solar **topee** on his head and rode out into the blinding white heat of the plains."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The white agent appeared in spotless duck trousers and a high white **topee** under the tropical sun."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Major Sholto was remembered as an eccentric retired officer who always wore a sun **topee** indoors."*

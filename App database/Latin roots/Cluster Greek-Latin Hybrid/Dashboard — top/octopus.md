@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # octopus
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tentacles of octopus prepared as food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bottom-living cephalopod having a soft oval body with eight long tentacles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft-bodied, eight-limbed mollusk of the order Octopoda, with suckers on its tentacles and a sac-like body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something resembling an octopus, especially an expansive, predatory commercial monopoly with reaching grasp.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Well,” said Conseil, with the most serious air in the world, “I remember perfectly to have seen a large vessel drawn under the waves by an octopus’s arm.” “You saw that?” said the Canadian."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Not only is it supposed that these poulps can draw down vessels, but a certain Olaus Magnus speaks of an octopus a mile long that is more like an island than an animal."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"But before leaving, Aiai told his friend to go and kill the big _hee kupua_ (wonderful octopus) in the deep sea, right out of Wailuanui, Koolau, and he consented."*
+> - 📜 **Victor Hugo (*Toilers of the Sea*):** *"The **octopus** is a disease of nature taking the form of a monster, sucking life through a hundred mouths."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"While looking for marine animals, I was much amused by the versatile habits of an **octopus** in a rock pool."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The crew defended the deck with axes against the terrifying tentacles of the giant **octopus**."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — chron]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # chronologically
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to chronology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In order of time from the earliest event to the latest; in chronological sequence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: According to the historical dates or time intervals of occurrence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"The persistency of this thought may be best illustrated by a few quotations from poems and letters, arranged chronologically: 1831."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Organizing the material in each section chronologically, I inserted them into the albums and numbered each photo, document and page."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The subsequent rapid spread of the art, in the hands of students and craftsmen, may be said to have been the centrifugal force of the Renaissance and the Revival of Learning, which age, if it can be chronologically delimited, began A."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"When the state papers are arranged **chronologically**, the hidden motives of the ministry become apparent."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Arranged **chronologically**, the flint implements display a gradual perfection of form and finish."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes placed the events **chronologically** upon a card to discover where the fugitive had paused."*

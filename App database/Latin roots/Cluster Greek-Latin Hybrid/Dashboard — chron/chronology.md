@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — chron]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # chronology
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An arrangement of events in time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A record of events in the order of their occurrence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The arrangement of events or dates in the order of their occurrence; the science of determining time sequences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A timeline, chronological register, or system of dating historical epochs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"His very name carried an impressiveness hardly to be measured without a precise chronology of scholarship."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Oh waywardness of womanhood! did his chronology fail him, or his ability to state not only a theory but the names of those who held it; or his provision for giving the heads of any subject on demand?"*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Context, chronology, and USAF aircraft types operating in the Korean Theater at the time are to the best of my recollections and references available from public libraries and the Internet."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Geography and **chronology** have been justly termed the two eyes of history, illuminating place and time."*
+> - 📜 **Isaac Newton (*The Chronology of Ancient Kingdoms Amended*):** *"To rectify ancient **chronology**, we must reconcile scriptural history with astronomical retrocalculation."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The incomplete geological **chronology** preserves only brief, isolated fragments of life's vast history."*

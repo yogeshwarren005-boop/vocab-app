@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # topper
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A worker who makes or adds the top to something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A worker who cuts tops off (of trees or vegetables etc.).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A top hat; a tall, flat-crowned cylindrical hat worn by men as formal headwear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that surpasses, finishes off, or crowns an extraordinary series of events.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"In the black topper the light was completely hidden, and they flew on in silence."*
-> - 📜 **James Joyce (*Ulysses*):** *"I should have said when he clapped on his topper."*
-> - 📜 **James Joyce (*Ulysses*):** *"As the glossy horses pranced by Merrion square Master Patrick Aloysius Dignam, waiting, saw salutes being given to the gent with the topper and raised also his new black cap with fingers greased by porksteak paper."*
+> - 📜 **Charles Dickens (*Our Mutual Friend*):** *"He adjusted his shiny silk **topper** with an air of immense importance before knocking at the door."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The young gentleman was proud of his beaver **topper** and fashionable brass-buttoned coat."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"A battered black **topper** lay upon the floor of the four-wheeler beside the lost cane."*

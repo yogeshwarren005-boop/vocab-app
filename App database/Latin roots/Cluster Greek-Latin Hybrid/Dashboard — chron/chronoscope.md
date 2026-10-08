@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — chron]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # chronoscope
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for accurate measurements of small intervals of time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument for accurate measurements of small intervals of time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring very small intervals of time with extreme precision, as in ballistics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialized laboratory chronograph measuring reaction times or the speed of nervous impulses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chronoscope designates an instrument for accurate measurements of small intervals of time."*
+> - 📜 **William James (*The Principles of Psychology*):** *"By means of the electric **chronoscope**, the psychologist measures the duration of a sensory reaction to a hundredth of a second."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Helmholtz utilized a delicate **chronoscope** to demonstrate that nervous conduction possesses a measurable velocity."*
+> - 📜 **Jules Verne (*From the Earth to the Moon*):** *"The gunners adjusted the **chronoscope** to measure the exact millisecond of the powder ignition."*

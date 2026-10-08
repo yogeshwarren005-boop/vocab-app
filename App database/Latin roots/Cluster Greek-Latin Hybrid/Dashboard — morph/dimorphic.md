@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — morph]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # dimorphic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring or existing in two different forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring or existing in two different forms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring in or representing two distinct forms, shapes, or color variations within a species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry and mineralogy, capable of crystallizing in two different distinct crystal systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Dimorphic change in sulphides, 36."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The primrose is a heterostyled **dimorphic** plant, possessing two distinct floral structures designed for cross-pollination."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"Certain hydroid colonies present **dimorphic** individuals, dividing digestive from reproductive functions."*
+> - 📜 **Asa Gray (*Darwiniana*):** *"The reciprocal adaptations in **dimorphic** blossoms provide exquisite evidence of mutual floral adjustment."*

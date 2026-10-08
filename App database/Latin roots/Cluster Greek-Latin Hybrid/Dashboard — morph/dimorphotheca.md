@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — morph]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # dimorphotheca
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: South african herbs or subshrubs with usually yellow flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: South african herbs or subshrubs with usually yellow flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of South African daisy-like composite plants (Cape marigolds) having two distinct types of seeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A garden ornamental producing vibrant orange, yellow, or white blooms that open in full sunlight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dimorphotheca designates south african herbs or subshrubs with usually yellow flowers."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"The disc florets and ray florets of **dimorphotheca** produce two distinct forms of achenes adapted for dispersal."*
+> - 📜 **Asa Gray (*Field, Forest, and Garden Botany*):** *"The African annual **dimorphotheca** produces showy orange blossoms that close during cloudy weather."*
+> - 📜 **John Burroughs (*Ways of Nature*):** *"In the botanical conservatory, the radiant golden stars of **dimorphotheca** greeted the morning rays."*

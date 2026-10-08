@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — chron]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # chronic
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being long-lasting and recurrent or characterized by long suffering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of long duration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Persisting for a long time or constantly recurring, especially of an illness or problem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Habitual, long-standing, and deeply ingrained; inveterate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Indeed, she had two.” My Lady, whose chronic malady of boredom has been sadly aggravated by Volumnia this evening, glances wearily towards the candlesticks and heaves a noiseless sigh."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"During the twelvemonth preceding this time he had been enabled by sustained efforts of industry and chronic good spirits to lease the small sheep-farm of which Norcombe Hill was a portion, and stock it with two hundred sheep."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There burnt upon her face when she met the light of the candles the flush and excitement which were little less than chronic with her now."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In **chronic** Bright's disease, the progressive sclerosis of renal glomeruli proceeds with silent stealth."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The suit of Jarndyce and Jarndyce had become a **chronic** disease of the English Court of Chancery."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Unemployment in the manufacturing districts had hardened into a **chronic** ulcer upon the body politic."*

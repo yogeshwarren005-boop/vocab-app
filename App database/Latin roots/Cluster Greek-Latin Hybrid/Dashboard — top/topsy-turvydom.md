@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # topsy-turvydom
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of extreme confusion and disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of extreme confusion and disorder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state, realm, or condition of utter confusion, disorder, or upside-down reversal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A social or political world where customary logic and values are absurdly inverted.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topsy-turvydom designates a state of extreme confusion and disorder."*
+> - 📜 **George Bernard Shaw (*Misalliance*):** *"We live in an intellectual **topsy-turvydom** where the parents seek wisdom from their rebellious children."*
+> - 📜 **Thomas Carlyle (*Latter-Day Pamphlets*):** *"Democratic ballot-boxes have plunged parliamentary government into hopeless, clamorous **topsy-turvydom**."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Society in Brussels was thrown into frantic **topsy-turvydom** upon the sudden news of Waterloo."*

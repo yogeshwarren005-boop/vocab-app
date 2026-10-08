@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — morph]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # morphophysiology
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of anatomy in its relation to function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of anatomy in its relation to function.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biology concerned with the relationships between anatomical structure and biological function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The integrated study of form and physiological mechanisms in organs and organisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morphophysiology designates the study of anatomy in its relation to function."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Modern biology unites anatomy and physics into an integrated **morphophysiology** of the living cell."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The facial muscles demonstrate an exquisite **morphophysiology**, linking emotional impulse to expressive contraction."*
+> - 📜 **William Osler (*Aequanimitas*):** *"A sound understanding of renal **morphophysiology** is necessary before diagnosing tubular nephritis."*

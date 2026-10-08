@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # ectopia
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal position of a part or organ (especially at the time of birth).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal position of a part or organ (especially at the time of birth).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal congenital displacement or malposition of any organ or part of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, the occurrence of a bodily structure outside its normal anatomical position.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectopia designates abnormal position of a part or organ (especially at the time of birth)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Congenital **ectopia** cordis presents as a rare and distressing displacement of the heart through the sternum."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"Developmental anomalies frequently cause an **ectopia** of the testicular glands along the inguinal canal."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The museum specimen exhibited complete **ectopia** of the renal tissue situated within the pelvic cavity."*

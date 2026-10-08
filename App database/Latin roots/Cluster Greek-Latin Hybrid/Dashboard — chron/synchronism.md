@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — chron]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # synchronism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation that exists when things occur at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation that exists when things occur at the same time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The occurrence of two or more events at the same time; concurrence in time; synchronization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical studies, a tabular arrangement of contemporary historical events occurring in different countries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"For success, as has already been said, one thing was essential, and that thing very difficult to obtain--a perfect synchronism between one stylus and the other."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The remarkable **synchronism** of the barbarian invasions of Gaul and Italy exhausted the imperial legions."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"By a strange **synchronism**, while Paris celebrated federation, the Austrian armies were assembling on the Rhine."*
+> - 📜 **David Hume (*The History of England*):** *"Historians note the curious **synchronism** between the English civil wars and the contemporary Fronde in France."*

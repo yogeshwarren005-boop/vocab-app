@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — chron]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # chronologize
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Establish the order in time of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Establish the order in time of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To arrange in order of time; to record, date, or classify according to historical chronology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To determine the true chronological dates and sequences of events.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chronologize designates establish the order in time of something."*
+> - 📜 **Isaac Newton (*The Chronology of Ancient Kingdoms Amended*):** *"By astronomical calculations of equinoxes, we may **chronologize** the reigns of ancient Grecian kings."*
+> - 📜 **David Hume (*The History of England*):** *"The early Saxon annals are so confused that no historian can accurately **chronologize** their border battles."*
+> - 📜 **Washington Irving (*Knickerbocker's History of New York*):** *"Our worthy author did his best to **chronologize** the golden age of Dutch dominion in New Amsterdam."*

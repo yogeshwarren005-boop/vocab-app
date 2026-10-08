@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — chron]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # synchronising
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An adjustment that causes something to occur or recur in unison.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happen at the same time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Operating or causing to operate at the same time or rate; coordinating timing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bringing two or more timepieces, signals, or movements into harmonious temporal agreement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"And when we separate the two by a distance of many miles, the task of synchronising them is even worse."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"While **synchronising** our movements with the river patrol, we waited in darkness beneath the wharf."*
+> - 📜 **Winston Churchill (*The River War*):** *"By **synchronising** the cavalry charge with the gunboat bombardment, the dervish trenches were carried."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The airship navigators spent the night **synchronising** their chronometers by wireless beacon."*

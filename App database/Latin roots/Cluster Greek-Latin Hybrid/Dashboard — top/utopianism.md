@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # utopianism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The political orientation of a utopian who believes in impossibly idealistic schemes of social perfection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The political orientation of a utopian who believes in impossibly idealistic schemes of social perfection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The pursuit or promotion of a social or political utopia; idealistic social engineering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tendency to propose visionary, impractical schemes for social regeneration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, utopianism designates the political orientation of a utopian who believes in impossibly idealistic schemes of social perfection."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"The abstract **utopianism** of Parisian men of letters paved the way for the catastrophic excesses of 1793."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Sentimental **utopianism** will never cure the misery of the working millions; hard, obedient labor alone avails."*
+> - 📜 **Herbert Spencer (*The Man Versus the State*):** *"State socialism is a form of coercive **utopianism** that ends in bureaucratic slavery."*

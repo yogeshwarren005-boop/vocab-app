@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — morph]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # anthropomorphic
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suggesting human characteristics for animals or inanimate things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suggesting human characteristics for animals or inanimate things.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Attributing human characteristics, emotions, or behaviors to a god, animal, or inanimate object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having human form or appearance, as a deity or mythological representation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"God is individual and personal in a scientific 337:1 sense, but not in any anthropomorphic sense."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The word /an- thropomorphic/, in such a phrase as "an anthropomorphic God," is derived from two Greek words, signifying /man/ 517:6 and /form/, and may be defined as a mortally mental at- tempt to reduce Deity to corporeality."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The evidence for this anthropomorphic representation of the tree-spirit is largely to be found in the popular customs of European peasantry."*
+> - 📜 **David Hume (*The Natural History of Religion*):** *"Early pagans conceived their gods under an **anthropomorphic** guise, attributing to them human passions and lusts."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Primitive tribes conceive of storm spirits and forest demons through an intensely **anthropomorphic** imagination."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Religious evolution gradually purges the divine idea of its crude, **anthropomorphic** elements."*

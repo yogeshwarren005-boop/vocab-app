@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # utopia
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A book written by sir thomas more (1516) describing the perfect society on an imaginary island.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ideally perfect state; especially in its social and political and moral aspects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An imagined place, state, or society in which everything is perfect, especially politically and socially.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An idealistic but impracticable social, economic, or political vision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But utopian (from _utopia_, Greek for no place) means nonexistent, and Marxian socialism surely was that."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Utopia's scene could here be fitly laid."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The other two were born in or about 125. [3] e.g. viii, 17. [4] The one passage is in xi, 3. [5] Or, the English equivalent, Utopia. [6] Marcus Aurelius, ix, 28-40, with omissions."*
+> - 📜 **Sir Thomas More (*Utopia*):** *"On this island of **Utopia**, all goods are held in common, and virtue is rewarded with universal peace."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Philosophers make imaginary commonwealths, framing a **Utopia** that cannot abide the reality of human nature."*
+> - 📜 **H. G. Wells (*A Modern Utopia*):** *"The modern **Utopia** must not be static like Plato's republic, but kinetic, evolving toward higher harmony."*

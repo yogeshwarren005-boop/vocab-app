@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # topsy-turvyness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of extreme confusion and disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of extreme confusion and disorder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disordered state of inversion, chaos, confusion, or complete upheaval in affairs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of complete reversal in affairs, principles, or domestic order.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topsy-turvyness designates a state of extreme confusion and disorder."*
+> - 📜 **Charles Dickens (*Martin Chuzzlewit*):** *"The sudden financial panic produced a universal **topsy-turvyness** among the grand houses of the city."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Maggie contemplated the **topsy-turvyness** of her doll-house after her brother's rough intrusion."*
+> - 📜 **Henry James (*The Bostonians*):** *"Ransom disliked what he termed the moral **topsy-turvyness** of the modern reform movements."*

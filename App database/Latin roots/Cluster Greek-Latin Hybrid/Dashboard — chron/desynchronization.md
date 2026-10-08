@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — chron]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # desynchronization
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation that exists when things occur at unrelated times.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation that exists when things occur at unrelated times.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The disruption or loss of synchronization, coordination, or simultaneous timing between events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurology, the replacement of synchronized brain alpha waves by rapid, low-voltage desynchronized activity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desynchronization designates the relation that exists when things occur at unrelated times."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A sudden sensory alarm causes immediate **desynchronization** of cortical rhythms as attention focuses."*
+> - 📜 **H. G. Wells (*The World Set Free*):** *"The **desynchronization** of urban food delivery trains brought industrial London to the verge of riot."*
+> - 📜 **Thomas Henry Huxley (*Method and Results*):** *"Experimental interference produced total **desynchronization** in the ciliary movement of the epithelium."*

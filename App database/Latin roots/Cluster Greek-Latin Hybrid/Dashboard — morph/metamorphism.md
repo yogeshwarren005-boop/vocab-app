@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — morph]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # metamorphism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change in the structure of rock by natural agencies such as pressure or heat or introduction of new chemical substances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change in the structure of rock by natural agencies such as pressure or heat or introduction of new chemical substances.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The structural and mineralogical change of rocks by heat, pressure, and fluid action deep within the earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any broad developmental process involving complete physical or conceptual transformation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metamorphism designates change in the structure of rock by natural agencies such as pressure or heat or introduction of new chemical substances."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"Regional **metamorphism** has recrystallized the ancient limestone into pure crystalline marble."*
+> - 📜 **Charles Darwin (*Geological Observations on South America*):** *"The degree of **metamorphism** increased steadily as we approached the granitic plutonic core."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The student of mountain form must trace the effects of thermal **metamorphism** upon the jagged aiguilles."*

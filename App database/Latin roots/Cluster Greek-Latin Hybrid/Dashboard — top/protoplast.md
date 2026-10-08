@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # protoplast
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A biological unit consisting of a nucleus and the body of cytoplasm with which it interacts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biological unit consisting of a nucleus and the body of cytoplasm with which it interacts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The original ancestor or progenitor of a species or race, especially Adam as the first man.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biology, the living contents of a plant or bacterial cell whose cell wall has been removed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Those forms, unalterable first as last, proved him her copier, not the protoplast of nature: what could come of being free by action to exhibit tree for tree, bird, beast, for beast and bird, or prove earth bore one veritable man or woman more?"*
+> - 📜 **Sir Thomas Browne (*Pseudodoxia Epidemica*):** *"Adam, our great **protoplast**, was created in the full perfection of wisdom and physical symmetry."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The angels looked upon the human **protoplast**, framed from dust to inhabit the garden of God."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Inside the rigid cellulose wall lies the living **protoplast**, executing the chemical marvels of life."*

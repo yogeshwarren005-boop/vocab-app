@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # topos
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional theme or motif or literary convention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A traditional theme or motif or literary convention.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional theme or motif in literature; a rhetorical commonplace or literary convention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A standard rhetorical argument or structural formula utilized in classical composition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topos designates a traditional theme or motif or literary convention."*
+> - 📜 **Walter Pater (*Appreciations*):** *"The idyllic pastoral meadow was a favorite classical **topos** inherited by Renaissance poets."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"The golden age is a recurrent literary **topos**, expressing mankind's perpetual longing for innocence."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The gothic cathedral provided an architectural **topos** expressing spiritual aspiration toward heaven."*

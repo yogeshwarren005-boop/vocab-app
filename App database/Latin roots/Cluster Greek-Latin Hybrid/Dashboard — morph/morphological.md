@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — morph]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # morphological
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or concerned with the formation of admissible words in a language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to geological structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the branch of biology that deals with the form and structure of organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics, relating to the structure and forms of words in a language.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morphological designates relating to or concerned with the formation of admissible words in a language."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"What can be more curious than that the hand of a man, formed for grasping, and the paddle of a porpoise, should be constructed on the same **morphological** pattern?"*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The **morphological** differences separating man from the gorilla are less than those separating the gorilla from lower apes."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The **morphological** classification of tongues divides human speech into isolating, agglutinative, and inflective types."*

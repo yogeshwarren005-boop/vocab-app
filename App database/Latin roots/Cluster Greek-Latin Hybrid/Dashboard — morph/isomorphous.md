@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — morph]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # isomorphous
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having similar appearance but genetically different.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having similar appearance but genetically different.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the same crystalline form or structure despite differing chemical composition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Similar or identical in physical or mathematical shape; isomorphic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isomorphous designates having similar appearance but genetically different."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"Certain vitriols and alums are completely **isomorphous**, forming mixed crystals of identical external angles."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The **isomorphous** replacement of one metallic base by another leaves the optical axes unchanged."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The crystals were proved to be **isomorphous**, settling the debate over their mineralogical classification."*

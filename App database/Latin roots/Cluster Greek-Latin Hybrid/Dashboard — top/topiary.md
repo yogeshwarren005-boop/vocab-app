@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # topiary
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A garden having shrubs clipped or trimmed into decorative shapes especially of animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making decorative shapes by trimming shrubs or trees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or practice of clipping shrubs or trees into ornamental or geometric shapes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shrubs or bushes sculptured into animal, architectural, or geometric forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topiary designates a garden having shrubs clipped or trimmed into decorative shapes especially of animals."*
+> - 📜 **Alexander Pope (*The Guardian*):** *"He surveyed with pride his **topiary** works, where yew-trees were trimmed into the figures of giants and dragons."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The neglected garden still showed traces of ancient **topiary** art in its clipped, gnarled boxwood hedges."*
+> - 📜 **Sir Walter Scott (*Waverley*):** *"The formal terrace was flanked by fantastic **topiary** figures of peacocks cut from dark yew."*

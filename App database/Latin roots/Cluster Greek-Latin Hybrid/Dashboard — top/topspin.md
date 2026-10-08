@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # topspin
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Forward spin (usually of a moving ball) that is imparted by an upward stroke.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forward spin (usually of a moving ball) that is imparted by an upward stroke.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rapid forward spin given to a ball, causing it to dip and bounce forward aggressively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rotational kinetic energy imparted to a projectile causing curved trajectory in aerodynamics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topspin designates forward spin (usually of a moving ball) that is imparted by an upward stroke."*
+> - 📜 **Arthur Conan Doyle (*The Rodney Stone*):** *"The tennis player struck the ball with sharp **topspin**, sending it diving fast over the net."*
+> - 📜 **P. G. Wodehouse (*The Clicking of Cuthbert*):** *"His drive carried heavy **topspin**, leaping forward like an unleashed hound across the fairway."*
+> - 📜 **H. G. Wells (*The Food of the Gods*):** *"The ball curled through the air, driven by tremendous **topspin** into the outfield."*

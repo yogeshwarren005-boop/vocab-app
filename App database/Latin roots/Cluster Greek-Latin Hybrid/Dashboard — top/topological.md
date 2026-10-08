@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # topological
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to topology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to topology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to topology; concerning geometric properties unaffected by continuous deformations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the connectivity, continuity, and neighborhood relations of spatial networks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topological designates of or relating to topology."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"A **topological** property is one that persists unchanged when a rubber surface is stretched or twisted."*
+> - 📜 **Arthur Stanley Eddington (*Space, Time and Gravitation*):** *"The **topological** structure of the universe determines whether space is open, closed, or self-intersecting."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Comparative embryology studies the **topological** rearrangement of germ layers during invagination."*

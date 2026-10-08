@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — chron]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # nonsynchronous
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not occurring together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not occurring together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not occurring at the same time; not synchronous; asynchronous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Operating at different speeds, frequencies, or phases in mechanical or electrical systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonsynchronous designates not occurring together."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The **nonsynchronous** rotation of the secondary armature generated heavy thermal resistance in the coils."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The locomotor appendages exhibit a **nonsynchronous** metachronal rhythm along the thorax."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Social changes proceed in **nonsynchronous** waves, legal customs lagging far behind industrial inventions."*

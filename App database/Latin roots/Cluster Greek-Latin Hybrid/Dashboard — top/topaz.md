@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # topaz
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellow quartz.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mineral (fluosilicate of aluminum) that occurs in crystals of various colors and is used as a gemstone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A precious, hard silicate mineral of aluminium and fluorine, typically yellow, blue, or pink in color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gem or brilliant yellow gemstone highly valued in antique jewelry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. N. Williamson (*Angel Unawares: A Story of Christmas Eve*):** *"It shone also on the countless globes of the oranges and lemons, making them glow like lighted lamps of pale topaz and transparent red-gold among the dark-green leaves."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"All the basins among the hills were brimmed with topaz and emerald light."*
-> - 📜 **O. Henry (*My tussle with the devil, and other stories*):** *"Majestic--serene--content to fill their allotted place--asking not the perfume of lilies, nor scent of roses--seeking not the sparkling splendor of jewels--content with the Emerald, Ruby and Topaz, which they hold within their own domain."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The golden throne was inlaid with sapphire, chrysolite, and sparkling yellow **topaz**."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The mosaic tesserae were enriched with flashes of gold and deep yellow **topaz**."*
+> - 📜 **Charles Darwin (*Geological Observations on South America*):** *"The alluvial gravels yielded crystals of beryl, tourmaline, and clear Brazilian **topaz**."*

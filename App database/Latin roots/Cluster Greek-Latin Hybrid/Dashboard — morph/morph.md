@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — morph]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # morph
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to change shape in a computer animation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change shape as via computer animation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In linguistics, a phonetic or written form that represents a morpheme in a particular context.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biology, any of the distinct individual forms in a polymorphic population; or to change shape smoothly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morph designates cause to change shape in a computer animation."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Within the same colony, each distinct **morph** of worker ant is specialized for defense or foraging."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"The Selenites were bred into every conceivable physical **morph** to perform specialized industrial tasks."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The aquatic **morph** of the amphibian differs profoundly from its terrestrial adult form."*

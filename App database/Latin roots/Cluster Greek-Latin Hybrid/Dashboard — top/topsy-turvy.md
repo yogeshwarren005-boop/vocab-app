@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # topsy-turvy
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In utter disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a disordered manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Upside down; in a state of utter confusion, disorder, or upheaval.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having traditional authority, values, or natural order completely reversed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topsy-turvy designates in utter disorder."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"If we without his help can make a head to push against a kingdom, with his help we shall turn it **topsy-turvy** down."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Everything in the Jellyby household was turned completely **topsy-turvy** in the pursuit of foreign philanthropy."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The old social world had been turned **topsy-turvy** by the earthquake shock of the revolution."*

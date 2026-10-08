@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — morph]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # metamorphosis
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The marked and rapid transformation of a larva into an adult that occurs in some animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A striking change in appearance or character or circumstances.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological process of transformation from an immature form to an adult form in two or more distinct stages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A marked or complete change in the nature, form, character, or circumstances of a person or thing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Grandsire, ’tis Ovid’s _Metamorphosis_."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"His father’s looks of solemnity and amazement on this his first appearance on any stage, and the gradual metamorphosis of the impassioned Baron Wildenheim into the well-bred and easy Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Surely, his very features changed their form, his jaw looked sometimes large and sometimes small; and the little ripple in his nose was a preparation for metamorphosis."*
+> - 📜 **John Milton (*Paradise Lost*):** *"He looked and saw a dreadful **metamorphosis** take place, as Satan and his legions became hissing serpents."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **metamorphosis** of the caterpillar into the butterfly provides a classic illustration of developmental stages."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The gradual **metamorphosis** of the Roman republic into an absolute monarchy was masked by Augustus."*

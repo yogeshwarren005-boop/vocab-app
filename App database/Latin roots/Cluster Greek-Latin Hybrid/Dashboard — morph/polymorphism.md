@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — morph]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # polymorphism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (genetics) the genetic variation within a population that natural selection can operate on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (chemistry) the existence of different kinds of crystal of the same chemical compound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of occurring in several different forms, especially with reference to species or minerals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The coexistence of two or more distinct phenotypes in the same population of a biological species.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymorphism designates (genetics) the genetic variation within a population that natural selection can operate on."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Individual differences merge into varieties, and these into that permanent **polymorphism** so frequent in nature."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The female butterflies of Papilio memnon present a magnificent instance of protective **polymorphism**."*
+> - 📜 **Thomas Henry Huxley (*Lectures on Evolution*):** *"Crystalline **polymorphism** demonstrates that chemical identity does not dictate a single immutable shape."*

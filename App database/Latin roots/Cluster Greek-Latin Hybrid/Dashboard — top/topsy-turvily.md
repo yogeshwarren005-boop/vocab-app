@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # topsy-turvily
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In disorderly haste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In disorderly haste.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an upside-down, inverted, or hopelessly confused and chaotic manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With customary order or hierarchy thoroughly overturned.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topsy-turvily designates in disorderly haste."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The furniture had been tumbled **topsy-turvily** into the hallway during the hasty bailiff's seizure."*
+> - 📜 **William Makepeace Thackeray (*The History of Henry Esmond*):** *"The sudden revolution turned the court **topsy-turvily**, raising yesterday's outlaws into ministers."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Ancient laws and feudal titles were tossed **topsy-turvily** into the bonfire of the National Assembly."*

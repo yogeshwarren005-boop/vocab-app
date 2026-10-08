@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — chron]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # desynchronisation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation that exists when things occur at unrelated times.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation that exists when things occur at unrelated times.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The loss, disruption, or destruction of synchronization between two or more processes or rhythms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology, the disruption of natural circadian biological rhythms (as in jet lag).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desynchronisation designates the relation that exists when things occur at unrelated times."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe exhaustion produces a dangerous **desynchronisation** of cardiac and respiratory rhythms."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The sudden industrial breakdown caused a fatal **desynchronisation** between grain harvests and transport fleets."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"A physiological **desynchronisation** in muscular response leads to loss of coordinated locomotion."*

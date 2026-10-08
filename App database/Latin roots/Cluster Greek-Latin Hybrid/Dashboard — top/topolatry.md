@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # topolatry
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The worship of places.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The worship of places.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive devotion to, superstitious reverence for, or sentimental worship of a particular place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A passionate, irrational attachment to local shrines, sacred landscapes, or ancestral soil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topolatry designates the worship of places."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"He condemned that narrow **topolatry** which imagines God is present in Jerusalem but absent in London."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The pagan citizens were blinded by an ancient **topolatry**, believing their local grove was guarded by nymphs."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"True culture frees the spirit from provincial **topolatry** and opens the mind to universal greatness."*

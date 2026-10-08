@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — chron]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # chronicler
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who writes chronicles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who writes chronicles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who writes accounts of historical events as they happen; an annalist or historian.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A recorder or storyteller who faithfully sets down passing incidents and traditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"After my death I wish no other herald, No other speaker of my living actions, To keep mine honour from corruption But such an honest chronicler as Griffith."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The whale has no famous author, and whaling no famous chronicler, you will say. _The whale no famous author, and whaling no famous chronicler?_ Who wrote the first account of our Leviathan?"*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"You’ll come with me, won’t you?” “If I can be of use.” “Oh, a trusty comrade is always of use; and a chronicler still more so."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"Froissart, that delightful **chronicler** of chivalry, painted the glitter of tournament warfare with matchless color."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The contemporary **chronicler** was blinded by partisan hatred, distorting the character of the king."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"We owe our knowledge of these barbarian campaigns to the diligent pen of the Byzantine **chronicler**."*

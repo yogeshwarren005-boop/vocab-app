@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — chron]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # synchronal
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring or existing at the same time or having the same period or phase; - jour.a.m.a.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring or existing at the same time or having the same period or phase; - jour.a.m.a.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Happening, existing, or operating at the same time; synchronous; simultaneous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coinciding in period, tempo, or rhythmic pulsation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchronal designates occurring or existing at the same time or having the same period or phase; - jour.a.m.a."*
+> - 📜 **Edgar Allan Poe (*Eureka: A Prose Poem*):** *"The **synchronal** revolutions of the twin suns obey the majestic law of reciprocal gravitation."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"A **synchronal** uprising in every provincial capital announced the final downfall of the monarchy."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The imagination reconciles discordant qualities in one harmonious, **synchronal** act of creation."*

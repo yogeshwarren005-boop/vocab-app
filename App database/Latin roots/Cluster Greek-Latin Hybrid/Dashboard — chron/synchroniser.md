@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — chron]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # synchroniser
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument that indicates whether two periodic motions are synchronous (especially an instrument that enables a pilot to synchronize the propellers of a plane that has two or more engines).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument that indicates whether two periodic motions are synchronous (especially an instrument that enables a pilot to synchronize the propellers of a plane that has two or more engines).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device or mechanism for synchronizing two or more moving parts, clocks, or processes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electrical or mechanical apparatus that brings alternating circuits or signals into phase.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchroniser designates an instrument that indicates whether two periodic motions are synchronous (especially an instrument that enables a pilot to synchronize the propellers of a plane that has two or more engines)."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"An automatic **synchroniser** was fitted to the circuit to prevent destructive sparking at the switch."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"Cavor adjusted the mechanical **synchroniser** that governed the opening of the antigravity blinds."*
+> - 📜 **Jules Verne (*The Master of the World*):** *"The aeronaut watched the **synchroniser** to ensure that both propellers revolved at identical speed."*

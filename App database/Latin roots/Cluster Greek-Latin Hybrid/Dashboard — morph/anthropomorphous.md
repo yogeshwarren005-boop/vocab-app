@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — morph]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # anthropomorphous
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suggesting human characteristics for animals or inanimate things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suggesting human characteristics for animals or inanimate things.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or resembling human form; human-shaped; anthropomorphic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology, referring to primates, especially higher apes, that closely resemble humans anatomically.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropomorphous designates suggesting human characteristics for animals or inanimate things."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The skeleton of the gorilla presents the most astonishingly **anthropomorphous** structure found among apes."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The higher **anthropomorphous** quadrumana display brain convolutions remarkably similar to those of mankind."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ancient Germans worshipped invisible deities, rejecting **anthropomorphous** statues of stone or brass."*

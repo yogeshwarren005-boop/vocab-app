@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # topicalization
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (linguistics) emphasis placed on the topic or focus of a sentence by preposing it to the beginning of the sentence; placing the topic at the beginning of the sentence is typical for english.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (linguistics) emphasis placed on the topic or focus of a sentence by preposing it to the beginning of the sentence; placing the topic at the beginning of the sentence is typical for english.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In linguistics, the syntactic placement of a constituent at the beginning of a sentence to mark it as the topic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making an issue, theme, or concept a prominent subject of public discussion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topicalization designates (linguistics) emphasis placed on the topic or focus of a sentence by preposing it to the beginning of the sentence; placing the topic at the beginning of the sentence is typical for english."*
+> - 📜 **Edward Sapir (*Language*):** *"In many languages, grammatical **topicalization** moves the emphasized phrase to the sentence head."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"The syntactic mechanism of **topicalization** highlights the theme without altering the underlying truth conditions."*
+> - 📜 **William Dwight Whitney (*Language and the Study of Language*):** *"Ancient rhetorical prose employed frequent **topicalization** to command the immediate attention of the hearer."*

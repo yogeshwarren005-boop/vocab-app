@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — chron]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # synchronization
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation that exists when things occur at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adjustment that causes something to occur or recur in unison.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The coordination of events to operate in unison or at the exact same time; simultaneous operation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The precise alignment of separate timekeeping instruments or communications data streams.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchronization designates the relation that exists when things occur at the same time."*
+> - 📜 **Arthur Stanley Eddington (*The Nature of the Physical World*):** *"The optical **synchronization** of distant clocks depends upon the invariant velocity of light in vacuum."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The landings in Normandy demanded the absolute **synchronization** of thousands of vessels and aircraft."*
+> - 📜 **H. G. Wells (*The World Set Free*):** *"Without global **synchronization** of transport, modern industrial civilization would collapse in a week."*

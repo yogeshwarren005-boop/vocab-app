@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # toponymy
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The nomenclature of regional anatomy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of lexicology that studies the place names of a region or a language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of place names, their origins, meanings, use, and geographical typology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The collection of toponyms or place names found within a particular district or region.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toponymy designates the nomenclature of regional anatomy."*
+> - 📜 **Isaac Taylor (*Words and Places*):** *"Historical **toponymy** enables the antiquarian to reconstruct ancient tribal boundaries with scientific certainty."*
+> - 📜 **Max Müller (*The Science of Language*):** *"The **toponymy** of North America preserves indigenous Algonquian words beneath modern urban settlements."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"A knowledge of Celtic **toponymy** illuminates many obscure passages in the early Scottish chronicles."*

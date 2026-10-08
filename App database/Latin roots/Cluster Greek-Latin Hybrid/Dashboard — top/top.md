@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # top
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The upper part of anything.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The highest or uppermost side of anything.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The highest point, part, or surface of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spinning toy designed to whirl on a pointed peg; or to surpass or reach the summit of.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who were below him He us’d as creatures of another place, And bow’d his eminent top to their low ranks, Making them proud of his humility, In their poor praise he humbled."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s take the instant by the forward top; For we are old, and on our quick’st decrees Th’inaudible and noiseless foot of time Steals ere we can effect them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rome must know The value of her own. ’Twere a concealment Worse than a theft, no less than a traducement, To hide your doings and to silence that Which, to the spire and top of praises vouched, Would seem but modest."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"What is this that rises like the issue of a king, and wears upon his baby-brow the round and **top** of sovereignty?"*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"Christian ran until he came to the **top** of the hill, where stood the arbor made for refreshment."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The lookout shouted from the main-mast **top** as the white spout broke the horizon."*

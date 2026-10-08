@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — morph]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # polymorph
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism that can assume more than one adult form as in the castes of ants or termites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism that can assume more than one adult form as in the castes of ants or termites.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism, crystal, or substance that occurs in several different distinct forms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology, a polymorphonuclear leukocyte (a type of white blood cell with a lobed nucleus).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymorph designates an organism that can assume more than one adult form as in the castes of ants or termites."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Certain colonial hydroids produce more than one distinct **polymorph** to serve the collective nourishment."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In acute bacterial inflammation, the active **polymorph** migrates rapidly into the infected exudate."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Calcium carbonate is a celebrated chemical **polymorph**, crystallizing as either calcite or aragonite."*

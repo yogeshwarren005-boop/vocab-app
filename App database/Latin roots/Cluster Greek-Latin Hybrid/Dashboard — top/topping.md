@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # topping
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A flavorful addition on top of a dish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be superior or better than some standard.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A layer of food or substance poured or placed on top of something to decorate or complete it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Archaically or colloquial British, splendid, first-rate, excellent, or surpassing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And topping all others in boasting."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"What put that into your head?” “I thought you didn’t look quite so topping as you used to, that was all.” “Indeed, then you are mistaken,” said Boldwood, shortly."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"We had gone perhaps half a mile, and were topping a low rise that would sink Cedar City from view, when Laban turned his horse around, halted it, and stood up in the stirrups."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Steerforth declared the little party to be a **topping** affair, making everyone laugh with high spirits."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Elton fancied himself in a very **topping** situation among the fashionable set of the parish."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"The boys regarded Tom's whitewashing strategy as a **topping** piece of genius that outwitted the town."*

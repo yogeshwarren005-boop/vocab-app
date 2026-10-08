@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — morph]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # amorphous
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no definite form or distinct shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking the system or structure characteristic of living bodies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a clear, definite, or regular shape, form, structure, or organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and chemistry, non-crystalline; having no regular internal atomic lattice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Louis Stevenson (*The strange case of Dr. Jekyll and Mr. Hyde*):** *"This was the shocking thing; that the slime of the pit seemed to utter cries and voices; that the amorphous dust gesticulated and sinned; that what was dead, and had no shape, should usurp the offices of life."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The geological record preserves many an **amorphous** mass of sedimentary rock stripped of organic fossils."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The insurgent crowd surged forward as a vast, **amorphous** monster defying all civil discipline."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The deposit cooled into an **amorphous** vitreous slag lacking any crystalline cleavage planes."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — chron]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # chronically
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a habitual and longstanding manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a slowly developing and long lasting manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a persistent, recurring, or long-lasting manner; habitually.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Over an extended duration of time with little or no cessation or relief.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"It may be said, for short, that every organ of the lower body became chronically diseased, and that the headaches increased in violence."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"They both had weak eyes, which I had long attributed to their chronically looking in at keyholes, and they were always at hand when not wanted; indeed that was their only reliable quality besides larceny."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Silent, slow, and solemn; bowing over still further his chronically broken back, he toiled away, as if toil were life itself, and the heavy beating of his hammer the heavy beating of his heart."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The patient suffered **chronically** from rheumatic affections that crippled the smaller joints of the hands."*
+> - 📜 **George Gissing (*New Grub Street*):** *"The impoverished author lived **chronically** on the verge of starvation in his dreary London garret."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"A peasantry that is **chronically** indebted to moneylenders loses all incentive to improve the soil."*

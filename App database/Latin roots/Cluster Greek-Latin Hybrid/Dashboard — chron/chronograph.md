@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — chron]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # chronograph
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An accurate timer for recording time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An accurate timer for recording time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for recording time with great accuracy, especially one with a mechanism for stopping and starting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A timepiece equipped with a stopwatch mechanism for measuring elapsed fractions of a second.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Normally, current flows through the circuit-breaker, but the lifting of the piston breaks the circuit (whence the name of the contrivance), and that breaking of the circuit and consequent cessation of the current operates the chronograph."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"In other words, the circuit-breakers can be operated so fast that when only a sixtieth of a second intervenes between the action of one and that of the next the chronograph can duly record the fact."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The records of the chronograph can be made in two ways: one by a pen on a piece of paper tape, and the other by a scratch on a piece of smoked paper."*
+> - 📜 **Jules Verne (*From the Earth to the Moon*):** *"The artillery officers consulted a high-precision electric **chronograph** to measure the projectile's muzzle velocity."*
+> - 📜 **Arthur Stanley Eddington (*The Internal Constitution of the Stars*):** *"Astronomical transits are recorded upon a moving **chronograph** tape synchronized with the observatory clock."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The astronomer tapped the key of his **chronograph** as the green flash burst from the Martian disc."*

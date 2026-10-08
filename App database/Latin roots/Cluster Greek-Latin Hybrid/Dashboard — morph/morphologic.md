@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — morph]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # morphologic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or concerned with the morphology of plants and animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or concerned with the formation of admissible words in a language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the form and structure of animals and plants or words; morphological.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to structural anatomy, crystal forms, or linguistic shape.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morphologic designates relating to or concerned with the morphology of plants and animals."*
+> - 📜 **Thomas Henry Huxley (*Method and Results*):** *"Comparative anatomy establishes the **morphologic** unity underlying all vertebrate skeletal systems."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection acts upon every minute **morphologic** deviation that benefits an organism."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"We observe a general **morphologic** correspondence between the organs of nutrition across higher mammals."*

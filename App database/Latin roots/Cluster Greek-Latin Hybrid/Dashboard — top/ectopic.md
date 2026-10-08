@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # ectopic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting ectopia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting ectopia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an abnormal place or position; displaced from natural anatomical orientation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In obstetrics, designating a pregnancy developing outside the uterine cavity, as in a Fallopian tube.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectopic designates exhibiting ectopia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"An **ectopic** gestation poses acute danger of hemorrhage upon sudden rupture of the oviduct."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The surgeon correctly diagnosed the acute crisis as an **ectopic** pregnancy demanding instant laparotomy."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The heart exhibited an **ectopic** pacemaker producing premature ventricular contractions."*

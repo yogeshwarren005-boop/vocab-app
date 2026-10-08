@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # topmast
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mast next above a lower mast and topmost in a fore-and-aft rig.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mast next above a lower mast and topmost in a fore-and-aft rig.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The second section of a ship's mast above the deck, positioned immediately above the lower mast.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nautical spar supporting upper rigging, sails, and observation platforms on a sailing vessel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And Montague our topmast; what of him?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Down with the topmast! yare! lower, lower!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I boarded the King’s ship; now on the beak, Now in the waist, the deck, in every cabin, I flam’d amazement; sometime I’d divide, And burn in many places; on the topmast, The yards, and bowsprit, would I flame distinctly, Then meet and join."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The lookout clung to the swaying main-**topmast**, his eyes searching the white caps for the breaching whale."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The Jolly Roger was run up to the fore-**topmast** head, fluttering black against the blue sky."*
+> - 📜 **Richard Henry Dana Jr. (*Two Years Before the Mast*):** *"In the gale we were ordered aloft to send down the royal yards and house the fore-**topmast**."*

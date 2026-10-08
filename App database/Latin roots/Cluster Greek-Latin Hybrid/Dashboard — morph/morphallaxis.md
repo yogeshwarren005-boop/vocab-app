@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — morph]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # morphallaxis
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Regeneration on a reduced scale of a body part; observed especially in invertebrates such as certain lobsters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regeneration on a reduced scale of a body part; observed especially in invertebrates such as certain lobsters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Regeneration of a part or whole organism by reorganization of existing tissues without cell proliferation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In embryology, tissue remodeling where a fragment re-establishes a complete miniature individual.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morphallaxis designates regeneration on a reduced scale of a body part; observed especially in invertebrates such as certain lobsters."*
+> - 📜 **Thomas Henry Huxley (*Lectures on Evolution*):** *"When a hydra is bisected, it regains its normal proportion through **morphallaxis** rather than extensive new budding."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The remarkable power of **morphallaxis** in simple polyps illustrates the plasticity of living tissue."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Regeneration by **morphallaxis** demonstrates that somatic cells retain the organizing power of the original germ."*

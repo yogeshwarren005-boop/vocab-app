@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — morph]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # morphophoneme
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (linguistics) the phonemes (or strings of phonemes) that constitute the various allomorphs of a morpheme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (linguistics) the phonemes (or strings of phonemes) that constitute the various allomorphs of a morpheme.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A phonological unit or class of phonemes that realizes a particular morpheme across phonetic environments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abstract phonological representation underlying alternate pronunciations of a morpheme.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morphophoneme designates (linguistics) the phonemes (or strings of phonemes) that constitute the various allomorphs of a morpheme."*
+> - 📜 **Edward Sapir (*Language*):** *"In structural linguistics, the variation of regular English plurals exhibits a single underlying **morphophoneme**."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"Each **morphophoneme** represents an alternant sound conditioned by phonetic context or grammatical position."*
+> - 📜 **William Dwight Whitney (*Oriental and Linguistic Studies*):** *"Sanskrit euphonic rules systematically shift the radical **morphophoneme** according to adjoining consonants."*

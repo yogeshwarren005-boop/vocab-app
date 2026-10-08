@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # dystopia
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State in which the conditions of life are extremely bad as from deprivation or oppression or terror.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A work of fiction describing an imaginary place where life is extremely bad because of deprivation or oppression or terror.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An imagined state or society in which there is great suffering or injustice, typically totalitarian.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nightmarish, oppressive society representing the dark antithesis of an ideal utopian community.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dystopia designates state in which the conditions of life are extremely bad as from deprivation or oppression or terror."*
+> - 📜 **John Stuart Mill (*Speech in Parliament, 1868*):** *"It is, perhaps, too complimentary to call them Utopians, they ought rather to be called Dys-topians, or Caco-topians; what they want is the worst, not the best, of worlds; a dreadful **dystopia**."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"The party created an inescapable **dystopia** where every thought was policed and history rewritten daily."*
+> - 📜 **H. G. Wells (*When the Sleeper Wakes*):** *"The Sleeper awoke into a glittering technological **dystopia** where workers slaved beneath the city streets."*

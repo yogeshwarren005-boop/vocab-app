@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — morph]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # polymorphic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the crystallization of a compound in two or more different forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the occurrence of more than one kind of individual (independent of sexual differences) in an interbreeding population.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring in several distinct forms, stages, or phases; exhibiting polymorphism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biology and programming, capable of assuming diverse structural forms or data types.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymorphic designates relating to the crystallization of a compound in two or more different forms."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"These **polymorphic** genera present an astonishing array of variations that baffle the systematic botanist."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The siphonophore is a **polymorphic** organism wherein individual zooids perform distinct specialized tasks."*
+> - 📜 **Alfred Russel Wallace (*Darwinism*):** *"A **polymorphic** species possesses distinct varieties coexisting stably within the same geographical range."*

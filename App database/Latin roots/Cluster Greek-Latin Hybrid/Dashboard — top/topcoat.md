@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # topcoat
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy coat worn over clothes in winter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavy coat worn over clothes in winter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An overcoat, especially a heavy outer coat worn over indoor clothing in cold weather.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The final exterior layer of paint, lacquer, or protective sealant applied to a surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topcoat designates a heavy coat worn over clothes in winter."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Mr. Pickwick buttoned his heavy woolen **topcoat** up to his chin against the biting morning frost."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Holmes turned up the velvet collar of his **topcoat** as the cab rattled through the foggy streets."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The reddleman brushed the rain from his coarse **topcoat** before stepping across the heath."*

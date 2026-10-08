@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — chron]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # synchronise
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Happen at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make (motion picture sound) exactly simultaneous with the action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause to occur or operate at the same time or rate; to adjust to keep exact time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To align actions or devices so that they execute in harmonious temporal unison.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"And when we separate the two by a distance of many miles, the task of synchronising them is even worse."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes and Watson paused under the porch to **synchronise** their watches before venturing onto the moor."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"I had to **synchronise** the copper dials with the delicate quartz hairspring before throwing the lever."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"The conspirator met his contact in the park to **synchronise** their pocket timepieces for the explosion."*

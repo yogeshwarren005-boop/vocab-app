@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # octopodidae
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of octopoda.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of octopoda.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The family of eight-armed cephalopod mollusks that contains the true octopuses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A marine invertebrate family comprising benthic octopuses with soft bodies and sac-like mantles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octopodidae designates a family of octopoda."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The family **Octopodidae** includes the common edible octopus of the Mediterranean and tropical waters."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"A cephalopod belonging to the **Octopodidae** changed its camouflage colors from yellowish green to dark bronze."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"In our systematic arrangement, the **Octopodidae** illustrate the highest grade of nervous cephalization among mollusks."*

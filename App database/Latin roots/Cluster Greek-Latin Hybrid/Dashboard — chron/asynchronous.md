@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — chron]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # asynchronous
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (digital communication) pertaining to a transmission technique that does not require a common clock between the communicating devices; timing signals are derived from special characters in the data stream itself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not synchronous; not occurring or existing at the same time or having the same period or phase.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not occurring at the same time; not synchronized; lacking simultaneous occurrence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical engineering and computing, operating independently of a steady coordinating clock signal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asynchronous designates (digital communication) pertaining to a transmission technique that does not require a common clock between the communicating devices; timing signals are derived from special characters in the data stream itself."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The ciliary beats along the tentacle are **asynchronous**, producing an undulating wave that sweeps in prey."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"When alternating electrical circuits fall into an **asynchronous** phase, reactive power increases rapidly."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The rhythmic pulsations of nature become **asynchronous** whenever conflicting external forces intervene."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # countertop
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The top side of a counter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The top side of a counter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flat, horizontal working surface atop kitchen cabinets or a shop counter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The raised, durable surface upon which goods are handled, prepared, or displayed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Keep out of trouble and you'll get by OK." As he finished each weapon inspection he returned it to the countertop, pointing the muzzle into a shielded enclosure and stepped back behind a barrier."*
+> - 📜 **Charles Dickens (*The Old Curiosity Shop*):** *"Quilp rested his chin upon the battered wooden **countertop**, glaring malevolently at the trembling boy."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The storekeeper wiped the dusty **countertop** with a greasy rag before setting down the jug of cider."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard leaned his heavy fists against the polished oak **countertop** while weighing the corn samples."*

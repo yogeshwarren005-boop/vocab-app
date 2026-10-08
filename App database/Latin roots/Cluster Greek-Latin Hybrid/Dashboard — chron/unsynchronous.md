@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — chron]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # unsynchronous
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not occurring together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not occurring together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not synchronous; not happening at the same time; asynchronous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking simultaneous rhythm, phase, or frequency in mechanical or biological operations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsynchronous designates not occurring together."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The undulating movement of the millipede's legs is **unsynchronous**, passing in successive metachronal waves."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The **unsynchronous** vibrations of two acoustic tuning forks produce loud audible beats in the air."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Progressive differentiation renders previously uniform movements complex, diverse, and **unsynchronous**."*

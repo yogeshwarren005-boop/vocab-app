@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # topicality
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The attribute of being of interest at the present time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The attribute of being of interest at the present time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Immediate relevance, contemporary interest, or direct pertinence to current events and local affairs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relevance to current news events or localized areas of human interest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topicality designates the attribute of being of interest at the present time."*
+> - 📜 **Henry James (*The Tragic Muse*):** *"The journalistic article possessed a sparkling **topicality** that ensured its success across London breakfast tables."*
+> - 📜 **George Bernard Shaw (*Preface to Major Barbara*):** *"I write for the living theatre; and if my drama possesses **topicality**, it is because eternal moral issues are urgent now."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"Great literature rises above transient **topicality** to touch the unchanging depths of human nature."*

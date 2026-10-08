@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # topic
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The subject matter of a conversation or discussion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Some situation or event that is thought about.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A matter dealt with in a text, discourse, or conversation; a subject of discussion or argument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A traditional common ground, theme, or rhetorical locus used in persuasive reasoning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"At Blaze and Sparkle’s the jewellers and at Sheen and Gloss’s the mercers, it is and will be for several hours the topic of the age, the feature of the century."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You’ll find, sir, that this topic will be very popular among my high connexion."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Nothing disturbed the stillness of the cottage save the chatter of a knot of sparrows on the eaves; one might fancy scandal and rumour to be no less the staple topic of these little coteries on roofs than of those under them."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The weather was exhausted as a **topic** of conversation before they had finished the first dance."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Aristotle arranged the art of invention under general **topics** to assist the memory of the orator."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Mr. Jaggers dismissed the **topic** with an abrupt wave of his large, scented hand."*

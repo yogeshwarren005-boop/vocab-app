@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — morph]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # morphea
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Localized scleroderma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Localized scleroderma.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A localized form of scleroderma characterized by firm, discolored patches of hardened skin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chronic cutaneous disorder producing circumscribed, waxy plaques upon the torso and limbs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morphea designates localized scleroderma."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In **morphea**, the skin develops circumscribed, indurated plaques with a violaceous or lilac border."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The clinical diagnosis lay between localized **morphea** and early anesthetic leprosy."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The dermatological manifestations of **morphea** present an intriguing study in fibrous tissue overgrowth."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — chron]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # synchronize
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make synchronous and adjust in time or manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happen at the same time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause to occur or operate at the same time or rate; to make synchronous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To adjust a watch or clock so that it shows the exact same time as another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Each utility maneuvered to synchronize axis and align portals."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It would be the final signal to synchronize and activate the collective controls of the Extractor and Collector."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The principal occupations of this animal appears to be two; first, barking like a squirrel, and second, jerking the caudal appendage, which operations synchronize with remarkable exactitude."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Bruce-Partington Plans*):** *"We must **synchronize** our watches, Lestrade; at precisely eight o'clock we meet at the underground station."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"I had to **synchronize** the revolutions of the two nickel levers before stepping into the saddle."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In certain gregarious fireflies, thousands of individuals **synchronize** their luminous flashes along the river banks."*

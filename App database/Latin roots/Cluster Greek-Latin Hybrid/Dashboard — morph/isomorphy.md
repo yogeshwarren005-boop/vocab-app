@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — morph]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # isomorphy
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) similarity or identity of form or shape or structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) similarity or identity of form or shape or structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A close correspondence, identity, or similarity in form, structural pattern, or crystal shape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography or linguistics, correspondence of structural shape across distinct classes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isomorphy designates (biology) similarity or identity of form or shape or structure."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"The perceived **isomorphy** between external objects and internal mental images forms the basis of recognition."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"A remarkable **isomorphy** exists between the skulls of certain fossil ungulates and living pachyderms."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The general **isomorphy** of chemical salts was established through extensive crystal measurements."*

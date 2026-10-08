@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # octopoda
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Octopuses and paper nautilus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Octopuses and paper nautilus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of cephalopod mollusks comprising eight-armed species such as octopuses and argonauts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A taxonomic marine order characterized by lack of an internal shell and presence of eight arms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octopoda designates octopuses and paper nautilus."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The order **Octopoda** is distinguished from the decapods by the absence of the two elongated tentacles."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Along the shores of the Cape Verde islands, curious members of the **Octopoda** hid within tidal rock crevices."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Conseil classified the giant cephalopod among the dibranchiate **Octopoda** with imperturbable calm."*

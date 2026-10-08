@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — morph]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # dimorphism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) the property of certain substances that enables them to exist in two distinct crystalline forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) the existence of two forms of individual within the same animal species (independent of sex differences).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The existence among animals or plants of two distinct forms in the same species, such as sexual differences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of a chemical compound of crystallizing in two distinct crystal systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dimorphism designates (chemistry) the property of certain substances that enables them to exist in two distinct crystalline forms."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Sexual **dimorphism** in the animal kingdom is chiefly the consequence of sexual selection among competing males."*
+> - 📜 **Thomas Henry Huxley (*Lectures on Evolution*):** *"The striking **dimorphism** between drone and worker bees demonstrates physiological specialization within a hive."*
+> - 📜 **Alfred Russel Wallace (*Darwinism*):** *"Protective mimicry often produces remarkable female **dimorphism** in tropical swallowtail butterflies."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — morph]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # morphia
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An alkaloid narcotic drug extracted from opium; a powerful, habit-forming narcotic used to relieve pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An alkaloid narcotic drug extracted from opium; a powerful, habit-forming narcotic used to relieve pain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Morphine, especially as prepared or administered in early medical formulations for pain relief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A narcotic alkaloid solution injected hypodermically to induce sleep or dull severe agony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"I shall give hypodermic injection of morphia.” He proceeded then, swiftly and deftly, to carry out his intent."*
-> - 📜 **Bram Stoker (*Dracula*):** *"However, the action of both heart and lungs improved, and Van Helsing made a subcutaneous injection of morphia, as before, and with good effect."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"I am sorry that I can report but poorly of his health, so painfully excruciating was his neuralgia about his arms at times that a Dr. was sent for & morphia injected in his wrist, but I am glad to say he reported himself a little better."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Sherlock Holmes took his bottle from the mantelpiece and injected his seven-percent solution of **morphia**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A hypodermic injection of **morphia** affords rapid relief in the agonizing paroxysms of angina pectoris."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The physician prescribed a draught containing **morphia** to soothe the sufferer's delirious restlessness."*

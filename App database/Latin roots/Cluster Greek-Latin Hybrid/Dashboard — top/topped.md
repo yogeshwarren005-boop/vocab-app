@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — top]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # topped
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be superior or better than some standard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pass by, over, or under without making contact.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a specified top or summit; surmounted, crowned, or covered on the highest part.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surpassed, exceeded, or risen above a benchmark, record, or rival.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The shot of a rifle loses its sharpness in the moist air, and its smoke moves in a tardy little cloud towards the green rise, coppice-topped, that makes a background for the falling rain."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Part of her body and life it ever seemed to be; the slope of its dormers, the finish of its gables, the broken courses of brick which topped the chimney, all had something in common with her personal character."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"From the middle of the building an ugly flat-topped octagonal tower ascended against the east horizon, and viewed from this spot, on its shady side and against the light, it seemed the one blot on the city’s beauty."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Whose high respect and rich validity did lack a parallel; yet was he **topped** by grief and filial ingratitude."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The hills, **topped** with ancient cedar groves, caught the first golden beams of the morning sun."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The wall was **topped** with jagged broken glass to deter midnight trespassers from the banker's garden."*

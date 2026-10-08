@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — chron]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # anachronistic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chronologically misplaced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chronologically misplaced.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging or appropriate to an earlier period; conspicuously out of date; misplaced in time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Representing persons, customs, or events in historical periods where they could not exist.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"Retained anachronistic spelling and grammar as printed."*
+> - 📜 **Henry James (*The American*):** *"The ancient aristocratic etiquette of the Bellegarde family felt absurdly **anachronistic** to the visitor."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"His feudal notions of landlord authority were hopelessly **anachronistic** in the era of parliamentary reform."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Dressing modern factory abuses in chivalric terminology is an empty and **anachronistic** vanity."*

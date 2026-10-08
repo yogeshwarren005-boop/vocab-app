@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — morph]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # dimorphous
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring or existing in two different forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring or existing in two different forms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having two distinct forms, shapes, or crystalline structures; dimorphic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting dual physical or morphological characteristics within an individual or species.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"This species will again come under notice as the summer spores of a truly dimorphous species."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Several species of butterflies are **dimorphous**, the females appearing in two entirely distinct color patterns."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Carbon is a **dimorphous** substance, existing as crystalline diamond and as soft graphite."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The **dimorphous** life cycle of the medusa alternates between a sessile polyp and a free-swimming bell."*

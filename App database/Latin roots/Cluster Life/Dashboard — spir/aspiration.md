@@ -3,26 +3,27 @@ latin_root: "[[Dashboard — spir]]"
 cluster: "[[Cluster Life]]"
 status: unread
 ---
+
 # aspiration
 
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
-if(!document.getElementById('apple-toggle-css')){const s=document.createElement('style');s.id='apple-toggle-css';s.textContent=':root{--apple-red:#FF375F;--apple-red-glow:rgba(255,55,95,0.45);--apple-amber:#FF9F0A;--apple-amber-glow:rgba(255,159,10,0.45);--apple-green:#30D158;--apple-green-glow:rgba(48,209,88,0.45)}.apple-c{position:relative;display:inline-flex;align-items:center;gap:8px;padding:2px 10px 2px 4px;border-radius:999px;background:var(--background-secondary,#111624);border:1px solid var(--background-modifier-border,#232d42);cursor:pointer;user-select:none;transition:border-color .2s ease,transform .2s ease,box-shadow .2s ease;line-height:1;vertical-align:middle;box-sizing:border-box}.apple-c:hover{border-color:var(--text-muted,#3b4b6b);transform:translateY(-1px);box-shadow:0 2px 8px rgba(0,0,0,.35)}.apple-c:active{transform:scale(.96)}.apple-c .track-c{position:relative;width:48px;height:18px;background:var(--background-primary,#090d17);border-radius:999px;border:1px solid var(--background-modifier-border,#1c2436);display:flex;align-items:center;justify-content:space-between;padding:0 6px;box-sizing:border-box}.apple-c .c-dot{width:3px;height:3px;border-radius:999px;background:var(--text-faint,#334155);opacity:.6}.apple-c .halo-c{position:absolute;top:1px;left:1px;width:14px;height:14px;border-radius:999px;transition:transform .35s cubic-bezier(.34,1.6,.64,1),background-color .25s ease,box-shadow .25s ease;display:flex;align-items:center;justify-content:center;box-sizing:border-box}.apple-c .halo-c .core-dot{width:5px;height:5px;border-radius:999px;background:#fff;box-shadow:0 0 4px #fff}.apple-c .halo-c.p0{transform:translateX(0);background:var(--apple-red);box-shadow:0 0 12px var(--apple-red),0 0 20px var(--apple-red-glow)}.apple-c .halo-c.p1{transform:translateX(15px);background:var(--apple-amber);box-shadow:0 0 12px var(--apple-amber),0 0 20px var(--apple-amber-glow)}.apple-c .halo-c.p2{transform:translateX(30px);background:var(--apple-green);box-shadow:0 0 12px var(--apple-green),0 0 20px var(--apple-green-glow)}.apple-c .label{font-size:11px;font-weight:700;letter-spacing:.2px;transition:color .2s ease;min-width:48px}.apple-c .label.unread{color:var(--apple-red)}.apple-c .label.learning{color:var(--apple-amber)}.apple-c .label.learned{color:var(--apple-green)}';document.head.appendChild(s);}
-const p = dv.current();
-const rawStatus = p.status || "unread";
-const states = [{ key: 'unread', label: 'unread', cls: 'unread', p: 'p0' }, { key: 'learning', label: 'learning', cls: 'learning', p: 'p1' }, { key: 'learned', label: 'learned', cls: 'learned', p: 'p2' }];
-let curIdx = states.findIndex(s => s.key === rawStatus);
-if (curIdx === -1) curIdx = 0;
-const toggle = document.createElement('div');
-toggle.className = 'apple-c';
-toggle.title = 'Click to glide: unread ➔ learning ➔ learned';
-const track = document.createElement('div');
-track.className = 'track-c';
-track.innerHTML = '<span class="c-dot"></span><span class="c-dot"></span><span class="c-dot"></span><div class="halo-c ' + states[curIdx].p + '"><div class="core-dot"></div></div>';
-const label = document.createElement('span');
-label.className = 'label ' + states[curIdx].cls;
-label.textContent = states[curIdx].label;
+if(!document.getElementById('apple-toggle-css')){const s=document.createElement('style');s.id='apple-toggle-css';s.textContent=':root{--apple-red:#FF375F;--apple-red-glow:rgba(255,55,95,0.45);--apple-amber:#FF9F0A;--apple-amber-glow:rgba(255,159,10,0.45);--apple-green:#30D158;--apple-green-glow:rgba(48,209,88,0.45)}.apple-c{position:relative;display:inline-flex;align-items:center;gap:8px;padding:2px 10px 2px 4px;border-radius:999px;background:var(--background-secondary,#111624);border:1px solid var(--background-modifier-border,#232d42);cursor:pointer;user-select:none;transition:border-color .2s ease,transform .2s ease,box-shadow .2s ease;line-height:1;vertical-align:middle;box-sizing:border-box}.apple-c:hover{border-color:var(--text-muted,#3b4b6b);transform:translateY(-1px);box-shadow:0 2px 8px rgba(0,0,0,.35)}.apple-c:active{transform:scale(.96)}.apple-c .track-c{position:relative;width:48px;height:18px;background:var(--background-primary,#090d17);border-radius:999px;border:1px solid var(--background-modifier-border,#1c2436);display:flex;align-items:center;justify-content:space-between;padding:0 6px;box-sizing:border-box}.apple-c .c-dot{width:3px;height:3px;border-radius:999px;background:var(--text-faint,#334155);opacity:.6}.apple-c .halo-c{position:absolute;top:1px;left:1px;width:14px;height:14px;border-radius:999px;transition:transform .35s cubic-bezier(.34,1.6,.64,1),background-color .25s ease,box-shadow .25s ease;display:flex;align-items:center;justify-content:center}.apple-c .halo-c::after{content:"";width:6px;height:6px;border-radius:999px;background:#fff;box-shadow:0 1px 2px rgba(0,0,0,.4)}.apple-c .halo-c.pos-0{transform:translateX(0);background-color:var(--apple-red);box-shadow:0 0 8px var(--apple-red-glow)}.apple-c .halo-c.pos-1{transform:translateX(15px);background-color:var(--apple-amber);box-shadow:0 0 8px var(--apple-amber-glow)}.apple-c .halo-c.pos-2{transform:translateX(30px);background-color:var(--apple-green);box-shadow:0 0 8px var(--apple-green-glow)}.apple-c .label{font-size:10px;font-weight:700;letter-spacing:.5px;text-transform:uppercase;margin-left:2px}.apple-c .label.s-0{color:var(--apple-red)}.apple-c .label.s-1{color:var(--apple-amber)}.apple-c .label.s-2{color:var(--apple-green)}';document.head.appendChild(s)}
+const p=dv.current();
+const states=[{key:'unread',label:'Unread',cls:'s-0',p:'pos-0'},{key:'learning',label:'Learning',cls:'s-1',p:'pos-1'},{key:'learned',label:'Learned',cls:'s-2',p:'pos-2'}];
+const statusVal=p.status||'unread';
+let curIdx=states.findIndex(s=>s.key===statusVal);
+if(curIdx===-1)curIdx=0;
+const cur=states[curIdx];
+const toggle=document.createElement('div');
+toggle.className='apple-c';
+const track=document.createElement('div');
+track.className='track-c';
+track.innerHTML='<span class="c-dot"></span><span class="c-dot"></span><span class="c-dot"></span><div class="halo-c '+cur.p+'"></div>';
+const label=document.createElement('span');
+label.className='label '+cur.cls;
+label.textContent=cur.label;
 toggle.appendChild(track);
 toggle.appendChild(label);
 toggle.addEventListener('click', async (e) => {
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A will to succeed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cherished desire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong hope, desire, or ambition to achieve noble and elevated goals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of breathing; in medicine, the withdrawal of fluid by suction or inhalation of matter into the lungs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That spirit of his In aspiration lifts him from the earth."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He and Jo listen to the music, probably with much the same amount of animal satisfaction; likewise as to awakened association, aspiration, or regret, melancholy or joyful reference to things beyond the senses, they are probably upon a par."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"But here was actually assembled the Jewish people, coming in swarms from all the world, for the feast; here was Judaism at its most pious; here was the pilgrim centre with all it meant of aspiration and blindness, of simple folly and gross sin."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Nor can I think that God, Creator wise, / Though threatening, will in earnest so destroy / Us his prime creatures, dignified so high, / Set over all his works; which, in our fall, / For us created, needs with us must fail, / Dependent made; so God shall uncreate, / Be frustrate, do, undo, and labour lose; / Not well conceived of God; who, though his power / Creation could repeat, yet would be loth / Us to abolish, lest the Adversary / Triumph and say: 'Fickle their state whom God / Most favours; who can please him long? Me first / He ruined, now mankind; whom will he next?' / Matter of scorn, not to be given the Foe. / However, I with thee have fixed my lot, / Certain to undergo like doom: if death / Consort with thee, death is to me as life; / So forcible within my heart I feel / The bond of nature draw me to my own; / My own in thee, for what thou art is mine; / Our state cannot be severed; we are one, / One flesh; to lose thee were to lose myself. / This noble **aspiration** sustained his soul."*
+> - 📜 **William Wordsworth (*The Excursion*):** *"The soul's deep **aspiration** reaches beyond the transient vanities of earthly ambition."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Accidental **aspiration** of foreign matter during anesthesia may lead to septic bronchopneumonia."*

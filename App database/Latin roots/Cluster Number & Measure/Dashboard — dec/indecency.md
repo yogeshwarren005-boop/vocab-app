@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # indecency
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being indecent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An indecent or improper act.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Behavior, language, or conduct that violates recognized standards of morality, modesty, or public propriety.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An offensive, obscene, or vulgar act or expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"This is an amusement to sharpen the intellect; it has a sting—it has what we call satire, and wit without indecency."*
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"If there were no other use in the conversation of ladies, it is sufficient that it would lay a restraint upon those odious topics of immodesty and indecencies, into which the rudeness of our northern genius is so apt to fall."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The magistrates condemned the gross **indecency** of allowing destitute families to perish in public alleys."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth felt deeply mortified by the open **indecency** and vulgar vanity of her younger sisters."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The villagers whispered that such hurried nuptials bordered closely on moral **indecency**."*

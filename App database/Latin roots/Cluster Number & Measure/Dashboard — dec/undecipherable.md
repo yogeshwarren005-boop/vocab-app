@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # undecipherable
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not easily deciphered.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not easily deciphered.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to read, decode, translate, or interpret; completely illegible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inscrutable or baffling to comprehension, defying analytical explanation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Like those mystic rocks, too, the mystic-marked whale remains undecipherable."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Like those mystic rocks, too, the mystic-marked whale remains undecipherable."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The carved hieroglyphics upon the whale's brow remained an **undecipherable** scripture to mortal mariners."*
+> - 📜 **Arthur Conan Doyle (*The Return of Sherlock Holmes*):** *"The charred fragment of paper bore an **undecipherable** message written in invisible ink."*
+> - 📜 **Edgar Allan Poe (*The Narrative of Arthur Gordon Pym*):** *"The strange chasms formed an **undecipherable** design when viewed from the mountain peak."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # deceitfully
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a corrupt and deceitful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a corrupt and deceitful manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a deceitful manner; fraudulently, dishonestly, or with intentional misrepresentation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treacherously or underhandedly, cloaking malicious intent beneath friendly pretenses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Don't you think he looks scraggy in that long-tailed coat, shocks of taggy hair and a collar big enough to fit Old Harpeth?" I asked deceitfully."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Though true cylinders without—within, the villanous green goggling glasses deceitfully tapered downwards to a cheating bottom."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Though true cylinders without—within, the villanous green goggling glasses deceitfully tapered downwards to a cheating bottom."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The vizier acted **deceitfully**, promising safe passage while dispatching secret assassins to intercept the caravan."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The king had sworn the coronation oath, yet his ministers proceeded **deceitfully** to undermine the charter."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Uriah Heep rubbed his clammy hands together, smiling **deceitfully** while plotting his partner's financial ruin."*

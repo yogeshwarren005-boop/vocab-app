@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decorously
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a proper and decorous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a proper and decorous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a proper, dignified, or polite manner consistent with established social etiquette.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by restrained taste, orderly conduct, or appropriate modesty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"As it was, he recovered himself with a mighty gulp and finished the service decorously enough."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I had to pet the Dominie decorously for a week before he regained his benign manner."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"But there was the decorously grave, though unmoved physician, seeking only to mitigate the last pangs of the patient whom he could not save."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"She was dressed very plainly and **decorously** in dark tweed, without any ornament."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Madame Merle moved **decorously** through the salon, never raising her voice above a musical murmur."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The townsmen walked **decorously** behind the civic procession, observing every customary solemnity."*

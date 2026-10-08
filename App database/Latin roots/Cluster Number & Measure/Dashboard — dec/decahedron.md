@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decahedron
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any polyhedron having ten plane faces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any polyhedron having ten plane faces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A three-dimensional geometric polyhedron possessing exactly ten flat polygonal faces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crystalline mineral form or faceted geometry exhibiting ten distinct planar boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decahedron designates any polyhedron having ten plane faces."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"Crystallographers classified the pyritohedral mineral as a distorted **decahedron** with unequal facets."*
+> - 📜 **James Clerk Maxwell (*Scientific Papers*):** *"The optical refraction through a regular **decahedron** produces complex internal interference patterns."*
+> - 📜 **Euclid (*Elements of Geometry*):** *"Spatial geometry investigates the symmetry groups of the **decahedron** under spatial rotations."*

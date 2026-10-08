@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decalescent
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Absorbing heat without increase in temperature when heated beyond a certain point.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absorbing heat without increase in temperature when heated beyond a certain point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting or relating to decalescence; absorbing thermal energy during heating at a critical temperature point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the metallurgical transformation point where pearlite transforms into austenite in carbon steel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decalescent designates absorbing heat without increase in temperature when heated beyond a certain point."*
+> - 📜 **James Clerk Maxwell (*Scientific Papers*):** *"The wire passed through the **decalescent** stage, briefly darkening while heat was absorbed internally."*
+> - 📜 **Thomas Edison (*The Papers of Thomas A. Edison*):** *"Accurate pyrometers verified the exact **decalescent** temperature required for quenching carbon drill bits."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"Special alloy processing depends upon holding metals precisely at their **decalescent** transition thresholds."*

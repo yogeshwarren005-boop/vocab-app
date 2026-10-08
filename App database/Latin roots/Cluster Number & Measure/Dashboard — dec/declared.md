@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # declared
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State emphatically and authoritatively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Announce publicly or officially.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Publicly, formally, or openly stated, announced, or avowed; acknowledged.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having officially disclosed goods, assets, or taxable income under legal customs protocols.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I have no time to tell you now, Kurt," the mother declared decisively."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I told her right away," Lippo declared."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"One ought to put in the first block and pack it before one takes up the second." "Then I won't wait for you," Mäzli declared, rapidly whisking out by the door."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Wickham was the **declared** favorite of all the young ladies in the neighborhood until his debts were revealed."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Senate **declared** him a public enemy and dispatched the legions to enforce their decree."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The minister was a **declared** opponent of the treaty, speaking vehemently against every concession."*

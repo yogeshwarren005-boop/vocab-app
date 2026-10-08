@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decryption
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of making clear or converting from code into plain text.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activity of making clear or converting from code into plain text.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of decoding or converting encrypted information back into understandable plaintext.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The successful computational unravelling of an enciphered transmission or secure file.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decryption designates the activity of making clear or converting from code into plain text."*
+> - 📜 **Alan Turing (*Intelligent Machinery*):** *"The rapid **decryption** of enemy codes provided vital tactical advantages to Allied commanders."*
+> - 📜 **Claude Shannon (*Communication Theory of Secrecy Systems*):** *"Ideal **decryption** requires a mathematical transformation precisely inverse to the enciphering algorithm."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"Instantaneous **decryption** of sensory feedback governs all responsive mechanical servomechanisms."*

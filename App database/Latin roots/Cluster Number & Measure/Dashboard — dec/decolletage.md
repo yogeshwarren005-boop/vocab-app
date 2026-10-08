@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decolletage
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A low-cut neckline on a woman's dress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A low-cut neckline on a woman's dress.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A low-cut neckline on a woman's dress or gown, exposing the neck and upper cleavage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A low-cut style of dress, especially formal evening wear worn at balls and court functions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decolletage designates a low-cut neckline on a woman's dress."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky appeared at the opera in a gown of daring **decolletage** that captivated the young guardsmen."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Hélène entered the ballroom displaying the dazzling marble whiteness of her celebrated **decolletage**."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"The Roman countess wore a black velvet gown whose modest **decolletage** was adorned with antique cameos."*

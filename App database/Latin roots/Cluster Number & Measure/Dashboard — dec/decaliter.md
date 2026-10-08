@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decaliter
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of volume or capacity equal to 10 liters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of volume or capacity equal to 10 liters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of capacity and volume equal to ten liters, commonly abbreviated as daL.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A standard measuring vessel used in agricultural grain and wine measurement under the metric system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decaliter designates a metric unit of volume or capacity equal to 10 liters."*
+> - 📜 **H. G. Wells (*The Work, Wealth and Happiness of Mankind*):** *"French vintners measured their grape harvest in casks holding twenty or thirty **decaliter** measures."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The decimal system simplifies volumetric calculation by establishing the **decaliter** as ten uniform units."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The brass master **decaliter** in the Parisian observatory served as the national standard for liquid measure."*

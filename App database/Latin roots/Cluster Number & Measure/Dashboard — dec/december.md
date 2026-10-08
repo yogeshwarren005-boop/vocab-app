@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # december
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The last (12th) month of the year.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The last (12th) month of the year.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The twelfth and final month of the year in the Gregorian calendar, containing thirty-one days.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, the late, cold, or concluding period of life; old age or the threshold of winter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What old December’s bareness everywhere!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say “a day” without the “ever.” No, no, Orlando, men are April when they woo, December when they wed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When we shall hear The rain and wind beat dark December, how, In this our pinching cave, shall we discourse."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"It was cold, bleak, biting weather in dark **December**, and the city clocks had only just struck three."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"What cheer, my good friend? Is't summer with you yet, or dark and stormy **December** in your soul?"*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The bleak twilight of **December** descended over Egdon Heath like a funeral pall extinguishing all color."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decongestant
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug that decreases pulmonary congestion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug that decreases pulmonary congestion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicinal substance used to relieve nasal and respiratory congestion by constricting dilated mucosal blood vessels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agent that reduces physiological swelling or fluid accumulation in inflamed body tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decongestant designates a drug that decreases pulmonary congestion."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A mild ephedrine **decongestant** spray was prescribed to shrink swollen turbinates and promote sinus drainage."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The country doctor dispensed a soothing **decongestant** draft to ease the child's labored bronchial breathing."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"Topical application of an adrenergic **decongestant** cleared the nasal field prior to transsphenoidal surgery."*

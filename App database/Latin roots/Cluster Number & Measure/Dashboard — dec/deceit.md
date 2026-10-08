@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # deceit
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being fraudulent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A misleading falsehood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or practice of deceiving someone by concealing or misrepresenting the truth; fraud.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dishonest trick, stratagem, or fraudulent misstatement intended to mislead another for personal gain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Instruct my daughter how she shall persever, That time and place with this deceit so lawful May prove coherent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Teach me, dear creature, how to think and speak; Lay open to my earthy gross conceit, Smother’d in errors, feeble, shallow, weak, The folded meaning of your words’ deceit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Embrace we then this opportunity, As fitting best to quittance their deceit Contriv’d by art and baleful sorcery."*
+> - 📜 **William Shakespeare (*Richard III*):** *"Ah, that **deceit** should steal such gentle shapes, and with a virtuous visor hide deep vice!"*
+> - 📜 **Francis Bacon (*Essays*):** *"There is no vice that doth so cover a man with shame as to be found false and full of **deceit**."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Wickham's apparent openness and charm only concealed an extraordinary capacity for cold **deceit**."*

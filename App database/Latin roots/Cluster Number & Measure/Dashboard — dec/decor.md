@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decor
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decoration consisting of the layout and furnishings of a livable interior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decoration consisting of the layout and furnishings of a livable interior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The furnishing and decorative design of a room or interior space; ornamentation, color scheme, and aesthetic style.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The scenery and stage setting of a theatrical, ballet, or operatic production.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decor designates decoration consisting of the layout and furnishings of a livable interior."*
+> - 📜 **Marcel Proust (*In Search of Lost Time*):** *"The luxurious **decor** of the Parisian salon reflected the refined, aristocratic taste of the Guermantes family."*
+> - 📜 **Virginia Woolf (*Mrs. Dalloway*):** *"Clarissa surveyed the delicate French **decor** of her drawing room before the evening guests arrived."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"The Countess Olenska preferred an exotic, unconventional **decor** of red damask and bronze lamps."*

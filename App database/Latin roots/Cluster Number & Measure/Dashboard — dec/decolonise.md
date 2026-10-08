@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decolonise
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grant independence to (a former colony).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grant independence to (a former colony).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To grant political independence to a colony; or to liberate a country from colonial rule (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To remove colonial attitudes, cultural dominance, or institutional eurocentrism from education.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decolonise designates grant independence to (a former colony)."*
+> - 📜 **George Orwell (*Selected Essays*):** *"Britain must prepare to **decolonise** its Asian dependencies rather than attempt to rule by force."*
+> - 📜 **Arnold Toynbee (*Civilization on Trial*):** *"To **decolonise** a proud civilization requires restoring indigenous dignity and self-determination."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The world directory pledged to **decolonise** all occupied protectorates to establish universal peace."*

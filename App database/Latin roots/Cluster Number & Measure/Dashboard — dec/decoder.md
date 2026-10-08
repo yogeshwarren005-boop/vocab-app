@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decoder
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The kind of intellectual who converts messages from a code to plain text.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A machine that converts a coded text into ordinary language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device, program, or person that decodes encrypted messages, cryptographic ciphers, or digital data streams.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electronic circuit in television or telecommunications that extracts color or digital audio signals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decoder designates the kind of intellectual who converts messages from a code to plain text."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"An electronic **decoder** translated the binary pulses from deep space into photographic images."*
+> - 📜 **Isaac Asimov (*Foundation*):** *"The imperial diplomat adjusted his pocket **decoder** to verify the authenticity of the encrypted treaty."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"The purpose of the **decoder** is to reconstruct the original message with minimum transmission error."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decayable
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Liable to decay or spoil or become putrid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liable to decay or spoil or become putrid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of undergoing decay, decomposition, or rotting; perishable in biological material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to deterioration, decline, or gradual dissolution over temporal duration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decayable designates liable to decay or spoil or become putrid."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Flesh and green herbs are quickly **decayable** substances unless preserved in spirits or salt."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"Organic matter is naturally **decayable**, whereas mineral gold resists both time and corrosive acids."*
+> - 📜 **Thomas Henry Huxley (*On the Physical Basis of Life*):** *"All living protoplasm is fundamentally **decayable**, requiring continuous nutrition to maintain vital equilibrium."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # indecision
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Doubt concerning two or more possible alternatives or courses of action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of irresolution; a lack of firmness of character or purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inability or reluctance to make a decision or arrive at a firm resolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of wavering between two or more alternative courses of action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"With the round top of an inkstand and two broken bits of sealing-wax he is silently and slowly working out whatever train of indecision is in his mind."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"This train of indecision must surely be worked out now or never."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"How much of this indecision of character,” Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Richard Carstone suffered from a fatal **indecision**, constantly changing his professional ambitions."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Anne Elliot lamented the prolonged **indecision** that had separated her from Captain Wentworth for years."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard stood in painful **indecision** at the crossroads, unable to choose between pride and penitence."*

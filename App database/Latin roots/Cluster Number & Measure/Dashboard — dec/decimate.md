@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decimate
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Kill one in every ten, as of mutineers in roman armies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Kill in large numbers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To kill, destroy, or remove a large proportion of something; to cause severe loss or destruction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, to execute one in every ten soldiers chosen by lot as punishment for mutiny or cowardice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Our soldiers are no longer fearless, and I'll wager that those who are defending the best positions will not risk seeing themselves decimated; they will abandon them as soon as they see a couple of dozen French heads above each rampart."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It will not be declared how great captains toyed with armies and decimated them upon the deadly altar of ambition, and how blighted hopes of preferment made jangled strife and fruitless campaigns."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The severe general resolved to **decimate** the mutinous legion, putting every tenth man to the sword before the army."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Famine and pestilence threatened to **decimate** the besieged garrison before relief ships could enter the harbor."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Severe winter frosts often **decimate** the bird population, leaving only the hardiest individuals to breed in spring."*

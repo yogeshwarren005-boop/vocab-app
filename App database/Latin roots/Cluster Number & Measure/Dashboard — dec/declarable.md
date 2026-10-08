@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # declarable
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: That must be declared.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: That must be declared.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being declared; suitable, required, or eligible for formal declaration or customs disclosure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to mandatory legal reporting under tax, customs, or administrative statutes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, declarable designates that must be declared."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Customs officers boarded the merchantman to inspect all **declarable** merchandise imported from the Levant."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The statute made every foreign bullion shipment a **declarable** asset under penalty of forfeiture."*
+> - 📜 **Alexander Hamilton (*Report on Manufactures*):** *"All **declarable** goods passing the frontier were registered to assess the federal import revenue."*

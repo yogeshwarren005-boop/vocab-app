@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decarbonate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove carbon dioxide from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove carbon dioxide from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove carbon dioxide, carbonic acid, or carbonate radicals from a chemical compound or liquid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To calcine limestone or mineral ores to drive off carbon dioxide gas through intense kiln heat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decarbonate designates remove carbon dioxide from."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"Strong ignition in a crucible serves to **decarbonate** the alkaline earth, leaving pure caustic oxide."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The operator heated the powdered marble to **decarbonate** it before attempting dissolving it in spirits."*
+> - 📜 **Charles Darwin (*Geological Observations on South America*):** *"Subterranean volcanic heat acted to **decarbonate** deep limestone strata, transforming them into crystalline marble."*

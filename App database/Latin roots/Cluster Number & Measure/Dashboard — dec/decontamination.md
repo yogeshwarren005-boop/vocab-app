@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decontamination
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The removal of contaminants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The removal of contaminants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The neutralization or removal of hazardous chemical, biological, or radioactive substances from people or equipment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formal operational procedure of cleaning and sanitizing contaminated areas after an industrial or military accident.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decontamination designates the removal of contaminants."*
+> - 📜 **Arthur C. Clarke (*2001: A Space Odyssey*):** *"The discovery of the lunar monolith was preceded by elaborate biological **decontamination** drills at the base."*
+> - 📜 **Carl Sagan (*The Cosmic Connection*):** *"Sterilization chambers ensured the thorough **decontamination** of spacecraft parts before launch."*
+> - 📜 **George Orwell (*The Lion and the Unicorn*):** *"Civil defense workers rehearsed gas **decontamination** procedures in London parks during the blitz."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decompress
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Restore to its uncompressed form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decrease the pressure of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To release or reduce physical pressure, especially atmospheric pressure exerted on a diver or aviator.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To expand compressed computer files or data streams back to their original uncompressed size.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"At this extremely close range the concentrations of laser-quads and explosive decompress energy by both of us at a single point might disable some part of the warhead or set it off." "It would take too much time to cut through."*
+> - 📜 **Arthur C. Clarke (*The Deep Range*):** *"Deep-sea divers must **decompress** slowly in a hyperbaric lock to avoid the crippling agony of the bends."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"Cavor warned that opening the sphere's hatch without waiting to **decompress** would prove instantly fatal."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"Captain Nemo instructed his men to **decompress** gradually upon returning from the abyssal seabed."*

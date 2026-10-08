@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # declension
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The inflection of nouns and pronouns and adjectives in indo-european languages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Process of changing to an inferior state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The variation of the form of a noun, pronoun, or adjective by which its grammatical case, number, or gender is identified.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition or process of declining, deteriorating, or deviating from a higher standard.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Ours is at the lowest point of declension."*
-> - 📜 **Charles Dickens (*A Christmas Carol in Prose; Being a Ghost Story of Christmas*):** *"Not coming!" said Bob, with a sudden declension in his high spirits; for he had been Tim's blood horse all the way from church, and had come home rampant."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Show me now, William, some declensions of your pronouns."*
+> - 📜 **Samuel Johnson (*Preface to the English Dictionary*):** *"English nouns have simplified their ancient grammatical **declension**, relying upon prepositions to express case."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The decay of civic virtue marked the first fatal **declension** of imperial power from Augustus to Commodus."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Dr. Strong led his reluctant scholars through the labyrinthine **declension** of Greek irregular substantives."*

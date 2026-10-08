@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decampment
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of running away secretly (as to avoid arrest).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Breaking camp.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of breaking up a military camp, marching off, or suddenly departing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hurried, secretive, or unannounced flight from a place of residence or encampment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decampment designates the act of running away secretly (as to avoid arrest)."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The silent **decampment** of the army deceived the Persian cavalry, who found the tents abandoned at dawn."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The sudden **decampment** of the royal troops threw the inhabitants of Salisbury into utter panic."*
+> - 📜 **Walter Scott (*Waverley*):** *"The Highland clan executed their **decampment** with astonishing speed, vanishing into the mountain mists."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decorticate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the outer layer of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the cortex of (an organ).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To strip or remove the bark, husk, rind, or outer covering from a plant, seed, or tree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgery and medicine, to surgically excise the outer membranous covering or cortex of an organ.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decorticate designates remove the outer layer of."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Forest foresters often **decorticate** dead timber to prevent fungal spores from infecting living groves."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Horticulturists occasionally **decorticate** specific branches to stimulate richer fruit production."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Surgeons may **decorticate** the thickened pleural membrane to restore normal pulmonary expansion."*

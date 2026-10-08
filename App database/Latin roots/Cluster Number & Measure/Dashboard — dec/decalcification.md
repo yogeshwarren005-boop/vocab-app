@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decalcification
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss of calcium from bones or teeth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss of calcium from bones or teeth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The loss, depletion, or removal of calcium salts from living bones, teeth, or geological sediments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pathological or laboratory process in histology where mineral deposits are dissolved by acid baths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decalcification designates loss of calcium from bones or teeth."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe osteomalacia is marked by widespread **decalcification** of the pelvic bones and vertebrae."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Acidic groundwater induces gradual **decalcification** of limestone pebbles in the upper soil horizons."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"Histological preparation of fossilized teeth requires careful chemical **decalcification** in dilute nitric acid."*

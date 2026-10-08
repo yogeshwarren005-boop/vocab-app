@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decumbent
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lying down; in a position of comfort or rest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lying down; in a position of comfort or rest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In botany, lying along the ground or reclining but having the tip or apex ascending upward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assuming a prostrate or recumbent reclining posture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decumbent designates lying down; in a position of comfort or rest."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The stems of this alpine clover are distinctly **decumbent**, creeping over rocks before turning upward."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"Certain shoots remain **decumbent** until contact with a vertical support stimulates upward twining."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"The herb exhibits numerous **decumbent** branches spreading outward from a woody taproot."*

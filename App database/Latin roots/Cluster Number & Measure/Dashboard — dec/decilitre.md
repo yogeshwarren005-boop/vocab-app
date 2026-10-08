@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decilitre
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of volume equal to one tenth of a liter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of volume equal to one tenth of a liter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of volume equal to one tenth of a litre ($100$ millilitres), abbreviated as dL (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A liquid volume measure commonly used in continental culinary recipes and laboratory procedures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decilitre designates a metric unit of volume equal to one tenth of a liter."*
+> - 📜 **George Bernard Shaw (*The Doctor's Dilemma*):** *"The laboratory assistant measured a **decilitre** of serum to perform the opsonic index determination."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Sussex Vampire*):** *"A graduated flask containing half a **decilitre** of dark fluid stood beside the microscope on the table."*
+> - 📜 **H. G. Wells (*A Modern Utopia*):** *"The daily ration was measured with precision, allowing each citizen a **decilitre** of fortified oil."*

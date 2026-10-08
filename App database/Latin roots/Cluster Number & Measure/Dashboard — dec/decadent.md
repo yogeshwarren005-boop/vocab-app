@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decadent
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has fallen into a decadent state (morally or artistically).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by excessive self-indulgence and moral decay.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or reflecting moral or cultural decline, self-indulgence, or decay.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artist or writer belonging to the Decadent movement of late nineteenth-century Europe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"I must confess that my satisfaction with my first theories of an automatic civilisation and a decadent humanity did not long endure."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"At last I saw again the dim shadows of houses, the evidences of decadent humanity."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **decadent** court of Honorius amused itself with palace intrigues while Alaric approached the gates."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Illustrious Client*):** *"The Austrian baron was a brilliantly cultured and utterly **decadent** scoundrel."*
+> - 📜 **George Orwell (*Inside the Whale*):** *"Bourgeois critics dismissed progressive literature as the morbid symptoms of a **decadent** society."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decapitation
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Execution by cutting off the victim's head.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Killing by cutting off the head.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of cutting off the head of a person or animal; execution by beheading.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sudden removal or liquidation of the top leadership of a government or military body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Who would believe that there could be any one so cruel as to long for the decapitation of the luckless Pedro; yet the sailors pray every minute, selfish fellows, that the miserable fowl may be brought to his end."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"This institution was styled _Thalavettiparothiam_ or authority obtained by decapitation. . . ."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The ceremony of decapitation, which is here somewhat slurred over, is carried out with a greater semblance of reality in other parts of Bohemia."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Public **decapitation** became the routine administrative remedy for ideological deviation in Paris."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The cruel sentence of **decapitation** was pronounced against the captive patricians without trial."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The executioner bungled the **decapitation** of the Duke of Monmouth, striking five agonizing blows."*

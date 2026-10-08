@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decatur
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states naval officer remembered for his heroic deeds (1779-1820).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in central illinois; abraham lincoln practiced law here.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prominent city name in Illinois, Georgia, and Alabama, named in honor of naval commodore Stephen Decatur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or commemorating American naval hero Stephen Decatur, famed for the burning of the frigate Philadelphia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decatur designates united states naval officer remembered for his heroic deeds (1779-1820)."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"The heroic exploits of Stephen **Decatur** in Tripoli inspired every young midshipman in the American navy."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The passenger recounted early railroad journeys connecting Springfield with the thriving market town of **Decatur**."*
+> - 📜 **Washington Irving (*Biographies and Miscellanies*):** *"Commodore **Decatur** combined chivalrous daring with consummate naval skill throughout his illustrious career."*

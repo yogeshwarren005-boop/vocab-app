@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decompose
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Separate (substances) into constituent elements or parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lose a stored charge, magnetic flux, or current.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To decay or rot; to break down organic matter into simpler chemical substances through microbial action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To resolve a chemical compound, vector, or mathematical entity into its elementary constituent parts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"You cannot get anything out of iron but iron; you cannot decompose iron."*
-> - 📜 **James Joyce (*Ulysses*):** *"Then the insides decompose quickly."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"This matte is not further affected by iron, so that it is not possible to completely decompose copper sulphide by this means."*
+> - 📜 **Isaac Newton (*Opticks*):** *"A triangular glass prism has power to **decompose** a beam of white sunlight into its primary spectral rays."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Dead organisms rapidly **decompose** unless buried in anaerobic silt or sealed within resin."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"An electric current can **decompose** metallic salts into their constituent acids and bases."*

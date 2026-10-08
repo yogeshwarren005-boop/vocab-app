@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # declivitous
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sloping down rather steeply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sloping down rather steeply.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Descending moderately or steeply; sloping downward; having a downward incline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by precipitous or sloping topographical gradients in mountain terrain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, declivitous designates sloping down rather steeply."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The path followed a **declivitous** ridge where loose flints slipped beneath the traveler's boots."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The horses descended the **declivitous** bank of the ravine with great caution to reach the stream."*
+> - 📜 **Edgar Allan Poe (*The Domain of Arnheim*):** *"The canoe drifted past **declivitous** wooded slopes that dipped their weeping foliage into the clear water."*

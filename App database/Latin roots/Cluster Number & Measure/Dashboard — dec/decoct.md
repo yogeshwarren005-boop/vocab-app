@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decoct
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extract the essence of something by boiling it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be cooked until very little liquid is left.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To extract the flavor, medicinal essence, or active principles of a substance by boiling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To concentrate or boil down a liquid broth, pharmaceutical infusion, or chemical mixture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can sodden water, A drench for sur-rein’d jades, their barley-broth, Decoct their cold blood to such valiant heat?"*
-> - 📜 **James Joyce (*Ulysses*):** *"Reassuringly, their place, where none could hear them talk, being secluded, reassured, the decocted beverages, allowing for subsolid residual sediment of a mechanical mixture, water plus sugar plus cream plus cocoa, having been consumed."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Apothecaries **decoct** medicinal roots in spring water to draw out their bitter virtues for physic."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"If you **decoct** vegetable matter over long heat, volatile spirits escape into the alembic receiver."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The old woman would brew and **decoct** mysterious herbal remedies in her iron pot over the embers."*

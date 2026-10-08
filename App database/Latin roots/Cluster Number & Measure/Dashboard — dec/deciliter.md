@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # deciliter
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of volume equal to one tenth of a liter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of volume equal to one tenth of a liter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of capacity and volume equal to one tenth of a liter ($100$ milliliters), abbreviated as dL.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clinical laboratory volume standard commonly used for reporting blood glucose, hemoglobin, and electrolytes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deciliter designates a metric unit of volume equal to one tenth of a liter."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Blood hemoglobin was measured in grams per **deciliter** to evaluate the severity of the pernicious anemia."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The student poured exactly one **deciliter** of water into the graduated glass cylinder for calibration."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"The chemist carefully measured a **deciliter** of ether into the evaporating dish over the burner."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # deceitfulness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being crafty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being crafty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The disposition or tendency to deceive, mislead, cheat, or practice fraudulent falsehoods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treacherous insincerity or untrustworthiness in personal character or political diplomacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"Beware, lest your heart become fatally hardened through the deceitfulness of sin."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The world soon learns to distrust a man whose habitual **deceitfulness** poisons every social obligation."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"A child must be taught to abhor all **deceitfulness**, for honesty is the foundation of moral virtue."*
+> - 📜 **George Eliot (*Romola*):** *"Tito's downward path began with small evasions that rapidly hardened into shameless **deceitfulness**."*

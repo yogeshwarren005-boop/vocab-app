@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decarburize
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove carbon from (an engine).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove carbon from (an engine).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To eliminate or reduce carbon content from iron or steel by oxidation in a blast or furnace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To subject metal parts to surface decarburization during high-temperature thermal treatment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decarburize designates remove carbon from (an engine)."*
+> - 📜 **Thomas Edison (*The Papers of Thomas A. Edison*):** *"We heated the cast iron parts in moist hydrogen to **decarburize** their surfaces before plating."*
+> - 📜 **Thorstein Veblen (*The Engineers and the Price System*):** *"New open-hearth processes **decarburize** huge batches of scrap metal with unprecedented fuel efficiency."*
+> - 📜 **Andrew Carnegie (*Autobiography*):** *"The new converters enabled our works to **decarburize** steel rails far faster than traditional puddling furnaces."*

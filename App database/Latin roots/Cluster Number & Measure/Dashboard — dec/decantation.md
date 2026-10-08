@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decantation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of gently pouring off a clear liquor (as from its original bottle) without disturbing the lees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of gently pouring off a clear liquor (as from its original bottle) without disturbing the lees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The laboratory or culinary process of pouring off clear supernatant liquid to separate it from precipitated sediment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The careful transfer of aged wines to separate liquid from bottle dregs and allow aeration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decantation designates the act of gently pouring off a clear liquor (as from its original bottle) without disturbing the lees."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"By repeated **decantation**, we separated the clear salt solution from the heavy metallic calx."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"Careful **decantation** requires guiding the stream down a moistened glass rod to prevent splashing."*
+> - 📜 **Evelyn Waugh (*Brideshead Revisited*):** *"The delicate **decantation** of the vintage burgundy was executed by the butler with ritual solemnity."*

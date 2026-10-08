@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decagon
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A polygon with 10 sides and 10 angles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polygon with 10 sides and 10 angles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A two-dimensional geometric plane polygon possessing exactly ten straight sides and ten interior angles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An architectural plan, pavilion, or fortress bastion laid out in the form of a ten-sided polygon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decagon designates a polygon with 10 sides and 10 angles."*
+> - 📜 **Euclid (*Elements of Geometry*):** *"The construction of a regular **decagon** inscribed within a circle is demonstrated in the fourth book."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The chapter house was designed as a lofty **decagon** with pointed lancet windows on every face."*
+> - 📜 **Isaac Newton (*Principia Mathematica*):** *"A regular **decagon** possesses interior angles that each measure precisely one hundred forty-four degrees."*

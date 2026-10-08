@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decarboxylase
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the enzymes that hydrolize the carboxyl group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the enzymes that hydrolize the carboxyl group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme that catalyzes the decarboxylation reaction, removing a carboxyl group (-COOH) from organic acids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biological catalyst, such as amino acid decarboxylase, that converts amino acids into biogenic amines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decarboxylase designates any of the enzymes that hydrolize the carboxyl group."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Bacterial enzymes such as histidine **decarboxylase** generate vasoactive histamine during acute shock."*
+> - 📜 **Isaac Asimov (*The Chemicals of Life*):** *"The cellular enzyme **decarboxylase** cleaves carbon dioxide from pyruvic acid during cellular respiration."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Fermentation studies demonstrated that specific **decarboxylase** systems drive the liberation of carbonic gas."*

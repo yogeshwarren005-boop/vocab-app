@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decadency
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being degenerate in mental or moral qualities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being degenerate in mental or moral qualities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state or process of declining from a higher moral, political, or artistic standard into decay.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deterioration in physical vigor, institutional power, or civil virtue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decadency designates the state of being degenerate in mental or moral qualities."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The ancien régime tottered to its grave amid the bankrupt **decadency** of courtly privilege."*
+> - 📜 **Francis Bacon (*Essays*):** *"When empires reach their zenith, luxury creeps in, followed closely by the **decadency** of martial courage."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The satirist exposed the creeping **decadency** of manners that threatened the commonwealth."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decreed
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Issue a decree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decide with authority.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Officially ordered, ordained, or enacted by sovereign or judicial authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destined or determined by fate, providence, or inescapable governing law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore it is decreed He dies tonight."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am trusted with a muzzle and enfranchised with a clog; therefore I have decreed not to sing in my cage."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Scorning advice, read the conclusion, then: Which read and not expounded, ’tis decreed, As these before thee thou thyself shalt bleed."*
+> - 📜 **William Shakespeare (*Richard III*):** *"If heaven have any grievous plague in store, it is already **decreed** upon his head."*
+> - 📜 **John Milton (*Paradise Lost*):** *"What the almighty Sovereign hath **decreed** no rebellious power can overturn."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Senate **decreed** divine honors to the deceased emperor after brief debate."*

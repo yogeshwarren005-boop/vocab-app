@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decapoda
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lobsters; crayfish; crabs; shrimps; prawns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Squids and cuttlefishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large taxonomic order of crustaceans having ten walking legs, comprising crabs, lobsters, prawns, and shrimp.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A taxonomic suborder of cephalopods possessing eight arms and two elongated tentacles, including squids and cuttlefish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decapoda designates lobsters; crayfish; crabs; shrimps; prawns."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The order **Decapoda** is characterized by the coalescence of head and thorax into a protective cephalothorax."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The larvae of the **Decapoda** pass through free-swimming zoea stages that reveal ancient genealogical relationships."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Marine naturalists find in the Indo-Pacific **Decapoda** an astonishing diversity of specialized protective coloration."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decoke
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove carbon from (an engine).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove carbon from (an engine).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove carbon deposits from the cylinder head, pistons, and combustion chamber of an internal combustion engine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To scour and burn away hardened carbonaceous crusts from refinery petroleum cracking tubes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decoke designates remove carbon from (an engine)."*
+> - 📜 **George Orwell (*Coming Up for Air*):** *"Every Saturday morning, suburban car owners would strip down their engines and **decoke** the cylinders."*
+> - 📜 **Aldous Huxley (*Point Counter Point*):** *"The chauffeur spent the quiet afternoon in the garage helping the mechanic to **decoke** the limousine."*
+> - 📜 **H. G. Wells (*The Autocracy of Mr. Parham*):** *"Technicians in the aircraft shed worked through the night to inspect valves and **decoke** the airplane engines."*

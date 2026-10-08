@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decry
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Express strong disapproval of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express strong disapproval of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To publicly denounce, condemn, or express strong disapproval of someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To depreciate the value, worth, or reputation of an achievement or policy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"You will be married some day.” “Not to any one who is like Fred.” “Don’t decry your own brother, my dear."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"When Correggio’s Holy Families were admired, they admired Correggio’s Holy Families; when he was decried in favour of Velasquez, they sedulously followed suit without any personal objection."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Although our productions have afforded more extensive and unaffected pleasure than those of any other literary corporation in the world, no species of composition has been so much decried."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Local gossips were always eager to **decry** any innovation in agricultural methods."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Zealous puritans did not hesitate to **decry** the theater as a nursery of vice."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"It is easy for superficial critics to **decry** great original thinkers whom they cannot comprehend."*

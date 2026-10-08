@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # deciphered
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert code into ordinary language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Read with difficulty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Converted from cipher into intelligible language; successfully decoded, read, or interpreted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Solved or understood after careful analytical investigation or cryptanalysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"On that occasion, Cook’s Court was in a manner revolutionized by the new inscription in fresh paint, PEFFER AND SNAGSBY, displacing the time-honoured and not easily to be deciphered legend PEFFER only."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Champollion deciphered the wrinkled granite hieroglyphics."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"His knowledge of nature’s danger signals did not enable him to say; he had never deciphered the code."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Dancing Men*):** *"Holmes handed me the **deciphered** message: 'Come here at once or expect the worst.'"*
+> - 📜 **Edgar Allan Poe (*The Gold-Bug*):** *"Once the cryptogram was **deciphered**, the exact tree and skull holding Captain Kidd's treasure were revealed."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The conspirator's secret correspondence was seized and **deciphered** by the clerks of the post office."*

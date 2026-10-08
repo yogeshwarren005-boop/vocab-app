@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decipherably
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a legible manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a legible manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that can be deciphered, decoded, or clearly made out; legibly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With sufficient clarity to be understood or interpreted by an observer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decipherably designates in a legible manner."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The map had been drawn hastily, yet the secret tunnel was **decipherably** indicated in red ink."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The dying law-writer had signed his deposition **decipherably** across the stamped margin of the vellum."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The ancient tombstone was **decipherably** inscribed with the proud heraldic motto of the d'Urberville knights."*

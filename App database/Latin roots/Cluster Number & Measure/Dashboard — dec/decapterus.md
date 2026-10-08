@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decapterus
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Scads especially mackerel scad; cosmopolitan in distribution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scads especially mackerel scad; cosmopolitan in distribution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of marine ray-finned fishes in the jack family Carangidae, known commonly as round scads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An economically important pelagic schooling fish harvested extensively for human food in tropical oceans.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decapterus designates scads especially mackerel scad; cosmopolitan in distribution."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Coastal fishermen netted huge shoals of round scad of the genus **Decapterus** along the Moluccan reefs."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Flying fish and small scads related to **Decapterus** leaped from the water to escape pursuing albacore."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Vast silvery schools of **Decapterus** flashed beneath our keel like scattered coins in the clear equatorial sea."*

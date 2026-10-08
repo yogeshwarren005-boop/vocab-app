@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # declivity
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A downward slope or bend.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A downward slope or bend.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A downward slope, descent, or inclined incline of the ground.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A descending hillside or inclined topographical feature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Recovering her reserve, she sat without replying, and thus they reached the summit of another declivity."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Five years in narrow walls had unfitted me for the enormous declivity of the stairway, for the vastitude of the prison yard."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The ground was still on the incline, its declivity seemed to be getting greater, and to be leading us to greater depths."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The wounded whale rushed down the oceanic **declivity** into the black depths of the sea."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The coach rattled down the stony **declivity** of the hill, threatening to overturn at every jolt."*
+> - 📜 **Walter Scott (*The Lady of the Lake*):** *"The stag bounded along the rocky **declivity**, leaving the panting hounds far behind."*

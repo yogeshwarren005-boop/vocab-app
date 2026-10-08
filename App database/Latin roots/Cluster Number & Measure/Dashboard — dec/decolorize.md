@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decolorize
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove color from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove color from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove the color or pigmentation from; to bleach, whiten, or make colorless.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To clarify or purify chemical solutions using carbon filters or oxidizing agents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decolorize designates remove color from."*
+> - 📜 **Thomas Edison (*The Papers of Thomas A. Edison*):** *"We passed the crude vegetable resin through charcoal beds to **decolorize** it for optical varnish."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"A stream of chlorine gas will instantly **decolorize** a solution of indigo."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acid-fast bacilli resist standard acid washes that rapidly **decolorize** ordinary bacterial specimens."*

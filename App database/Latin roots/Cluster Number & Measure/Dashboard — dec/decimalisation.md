@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decimalisation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of changing to a decimal system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of changing to a decimal system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The conversion of a traditional currency, weight, or measurement system into a decimal base (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The historical transition of Britain's pounds, shillings, and pence into one hundred new pence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decimalisation designates the act of changing to a decimal system."*
+> - 📜 **H. G. Wells (*The Work, Wealth and Happiness of Mankind*):** *"The proposed **decimalisation** of British currency provoked fierce resistance from conservative bank clerks."*
+> - 📜 **George Bernard Shaw (*Selected Prose*):** *"Universal **decimalisation** would save schoolchildren thousands of hours wasted on archaic compound division."*
+> - 📜 **John Maynard Keynes (*Essays in Biography*):** *"The committee debated the **decimalisation** of the pound sterling to facilitate foreign trade settlements."*

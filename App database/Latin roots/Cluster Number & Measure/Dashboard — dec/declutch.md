@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # declutch
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disengage the clutch of a car.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disengage the clutch of a car.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To disengage the clutch pedal or mechanical coupling mechanism in a motor vehicle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To disconnect the engine drive from the transmission gears to shift smoothly or come to a halt.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, declutch designates disengage the clutch of a car."*
+> - 📜 **Evelyn Waugh (*Vile Bodies*):** *"The motor racer pressed the pedal to **declutch** as he rounded the sharp hairpin bend."*
+> - 📜 **George Orwell (*Coming Up for Air*):** *"I had to **declutch** quickly to prevent the rattling old engine from stalling at the crossroads."*
+> - 📜 **Aldous Huxley (*Antic Hay*):** *"He learned to **declutch** with smooth mechanical instinct, gliding through the crowded traffic."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decouple
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disconnect or separate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regard as unconnected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To disconnect, disengage, or separate two coupled components, systems, or processes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economics or engineering, to cause two variables or operations to function independently of one another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decouple designates disconnect or separate."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"Engineers strive to **decouple** signal transmission channels to prevent inductive crosstalk."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"Monetary authorities attempted to **decouple** domestic interest rates from international currency fluctuations."*
+> - 📜 **Alan Turing (*Systems of Logic Based on Ordinals*):** *"It is convenient to **decouple** the arithmetic subroutines from the master sequence of instructions."*

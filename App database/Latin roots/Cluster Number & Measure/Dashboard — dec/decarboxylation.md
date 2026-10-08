@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decarboxylation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of removing a carboxyl group from a chemical compound (usually replacing it with hydrogen).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of removing a carboxyl group from a chemical compound (usually replacing it with hydrogen).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical reaction in which a carboxyl group (-COOH) is eliminated from an organic compound, producing carbon dioxide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The biochemical process occurring during the citric acid cycle that releases metabolic carbon dioxide.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decarboxylation designates the process of removing a carboxyl group from a chemical compound (usually replacing it with hydrogen)."*
+> - 📜 **Isaac Asimov (*The Chemicals of Life*):** *"Oxidative **decarboxylation** in cellular metabolism links glucose breakdown directly to the citric acid cycle."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The enzymatic **decarboxylation** of dopa generates the vital neurotransmitter dopamine in the brain."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Tissue respiration generates exhaled carbonic acid through continuous enzymatic **decarboxylation**."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # deception
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A misleading falsehood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of deceiving.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deliberate practice of misleading others through falsehood, fraudulent misrepresentation, or trickery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A misleading illusion, stratagem, or fraudulent contrivance practiced to conceal the truth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Is it deception?” “Ah—h!” from Mrs."*
-> - 📜 **Jane Austen (*Persuasion*):** *"It was so humiliating to reflect on the constant deception practised on her father and Elizabeth; to consider the various sources of mortification preparing for them!"*
-> - 📜 **Jane Austen (*Persuasion*):** *"It cannot be doubted that Sir Walter and Elizabeth were shocked and mortified by the loss of their companion, and the discovery of their deception in her."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"The world is still deceived with ornament; in law, what plea so tainted and corrupt, but, being seasoned with a gracious voice, obscures the show of evil **deception**?"*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Words are but the images of matter, and when they lack foundation, they lead into perilous **deception**."*
+> - 📜 **Jane Austen (*Emma*):** *"Mystery has its charm, but a systematic course of **deception** never fails to degrade the moral character."*

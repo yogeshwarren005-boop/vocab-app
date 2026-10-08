@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decollate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cut the head of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cut the head of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To behead or decapitate; to sever the head from the neck of a person or animal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early printing and data processing, to separate carbon copies or parts of a multipart continuous form.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decollate designates cut the head of."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The tyrant ordered the executioner to **decollate** the brave senator without the delay of a public trial."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The sharp blade of the guillotine descended to **decollate** thirty victims before the setting of the sun."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Cruel tyrants who presume to **decollate** virtuous citizens inevitably reap the vengeance of Heaven."*

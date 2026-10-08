@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decree
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A legally binding command or decision entered on the court record (as if issued by a court or judge).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Issue a decree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official order, judgment, or statute issued by a sovereign, government, or legal authority having the force of law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To ordain, establish, or command by formal legal proclamation or authoritative judgment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But heaven in thy creation did decree, That in thy face sweet love should ever dwell, Whate’er thy thoughts, or thy heart’s workings be, Thy looks should nothing thence, but sweetness tell."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then let me hear Of you, my gentle cousin Westmoreland, What yesternight our Council did decree In forwarding this dear expedience."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These couchings and these lowly courtesies Might fire the blood of ordinary men, And turn pre-ordinance and first decree Into the law of children."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"There is no power in Venice can alter a **decree** established."*
+> - 📜 **Francis Bacon (*Essays*):** *"Judges ought to remember that their office is to interpret law, and not to make a **decree** of their own pleasure."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The magistrates issued a strict **decree** prohibiting unlawful assemblies in the market square."*

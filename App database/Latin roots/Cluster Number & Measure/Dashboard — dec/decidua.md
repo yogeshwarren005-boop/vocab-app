@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decidua
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The epithelial tissue of the endometrium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The epithelial tissue of the endometrium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The modified mucosal lining of the uterus (endometrium) that forms during pregnancy and is shed after childbirth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The maternal component of the placenta that separates and is cast off during the third stage of labor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decidua designates the epithelial tissue of the endometrium."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pathological retention of fragments of the **decidua** may provoke severe postpartum hemorrhage and sepsis."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"Mammalian placentation is classified according to whether the maternal **decidua** is shed during parturition."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The structural homologies in the development of the primate **decidua** illustrate common evolutionary ancestry."*

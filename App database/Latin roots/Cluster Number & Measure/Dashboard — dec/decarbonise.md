@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decarbonise
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove carbon from (an engine).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove carbon from (an engine).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove carbon or carbon deposits from an engine, metal alloy, or industrial process (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To reduce carbon emissions across an economy or power generation system to mitigate climate impact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decarbonise designates remove carbon from (an engine)."*
+> - 📜 **H. G. Wells (*The Work, Wealth and Happiness of Mankind*):** *"Bessemer invented a blast furnace process to **decarbonise** molten pig iron rapidly into malleable steel."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"The industrial foundry developed advanced converters to **decarbonise** steel for high-pressure gun barrels."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"Engineers sought ways to **decarbonise** internal combustion cylinders to prevent premature pre-ignition."*

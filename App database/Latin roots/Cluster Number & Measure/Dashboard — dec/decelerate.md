@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decelerate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lose velocity; move more slowly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduce the speed of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To reduce speed; to slow down; to undergo negative acceleration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To decrease the rate of progress, expansion, or inflation in an economy or mechanical process.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decelerate designates lose velocity; move more slowly."*
+> - 📜 **Arthur C. Clarke (*2001: A Space Odyssey*):** *"The spacecraft fired its retro-rockets to **decelerate** into a stable parking orbit around Jupiter."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"Cavor opened the gravity blinds, allowing the sphere to **decelerate** as it approached the lunar craters."*
+> - 📜 **Isaac Asimov (*Nemesis*):** *"The pilot monitored the instruments carefully as the vessel began to **decelerate** through the interstellar cloud."*

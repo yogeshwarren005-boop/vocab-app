@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decigram
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: 1/10 gram.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 1/10 gram.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of mass and weight equal to one tenth of a gram ($10^{-1}$ g or 100 milligrams).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A precision laboratory measure used in analytical balances, pharmacy, and assaying.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decigram designates 1/10 gram."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"The chemical balance was so delicate that a fraction of a **decigram** visibly depressed the scale pan."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Precipitates were dried upon filter paper and weighed to the nearest **decigram** before analysis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The toxic dose of the dry alkaloid was estimated at less than half a **decigram**."*

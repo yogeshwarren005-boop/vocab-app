@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # declassification
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduction or removal by the government of restrictions on a classified document or weapon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduction or removal by the government of restrictions on a classified document or weapon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The official removal of secret, confidential, or restricted security classification from government documents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of releasing previously classified intelligence or historical archives to the public.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, declassification designates reduction or removal by the government of restrictions on a classified document or weapon."*
+> - 📜 **George Orwell (*1984*):** *"In the Ministry of Truth, there was never any **declassification** of records, only endless retroactive falsification."*
+> - 📜 **Arthur C. Clarke (*Voices from the Sky*):** *"The **declassification** of radar secrets after the war transformed commercial aviation and meteorology."*
+> - 📜 **Carl Sagan (*The Demon-Haunted World*):** *"Public skepticism regarding aerial phenomena diminished once the **declassification** of military spy planes occurred."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decennial
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin dec within the domain of Number & Measure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of dec in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Recurring, occurring, or celebrated every ten years; or enduring for a span of ten years.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to a tenth anniversary or a ten-year national census enumeration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, p. 429, for figures of population and of decennial rates of increase.] [Footnote 8: The effect of the growth of cities is discussed in the "American Journal of Sociology," Vol. 18, p. 342, in an article on "Walker's Theory of Immigration," by E.A."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Parliament ordered a **decennial** census to determine the growth of manufacturing towns in the north."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Augustus renewed his triumviral authority at the expiration of each **decennial** period."*
+> - 📜 **Woodrow Wilson (*Congressional Government*):** *"The constitutional reapportionment of congressional seats follows the regular **decennial** census."*

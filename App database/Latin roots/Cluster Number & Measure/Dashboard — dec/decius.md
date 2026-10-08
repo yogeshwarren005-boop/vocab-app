@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decius
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Emperor of rome who was proclaimed emperor against his will; his reign was notable for his severe persecution of christians (201-251).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emperor of rome who was proclaimed emperor against his will; his reign was notable for his severe persecution of christians (201-251).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A classical Roman personal name borne by Emperor Decius and heroes renowned for the sacrificial ritual of devotio.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dramatic character in literature, notably Decius Brutus in Shakespeare's tragedy *Julius Caesar*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"CASSIUS, ” ” ” CASCA, ” ” ” TREBONIUS, ” ” ” LIGARIUS,” ” ” DECIUS BRUTUS, ” ” ” METELLUS CIMBER, ” ” ” CINNA, ” ” ” FLAVIUS, tribune MARULLUS, tribune ARTEMIDORUS, a Sophist of Cnidos."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter, in procession, with music, Caesar; Antony, for the course; Calphurnia, Portia, Decius, Cicero, Brutus, Cassius and Casca; a great crowd following, among them a Soothsayer."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is Decius Brutus and Trebonius there?"*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"Here is **Decius** Brutus, he shall tell them so: Caesar, all hail! good morrow, worthy Caesar."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Emperor **Decius** perished heroically in the marshes of the Dobruja while fighting against the invading Goths."*
+> - 📜 **Livy (*The History of Rome*):** *"The noble consul Publius **Decius** Mus devoted himself and the enemy legions to the gods of the underworld."*

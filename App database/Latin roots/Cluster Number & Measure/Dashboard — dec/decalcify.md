@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decalcify
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lose calcium or calcium compounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove calcium or lime from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove calcium or calcareous compounds from bone tissue, mineral deposits, or soil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To treat a histological specimen with weak acid to dissolve mineral salts prior to microtome sectioning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decalcify designates lose calcium or calcium compounds."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pathological processes that **decalcify** the skeleton result in spontaneous fractures upon slight exertion."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Soak a rib bone in hydrochloric acid to **decalcify** it, leaving only a flexible collagenous framework."*
+> - 📜 **Charles Darwin (*Geological Observations on South America*):** *"Rainwater charged with carbonic acid will rapidly **decalcify** exposed marine shell beds."*

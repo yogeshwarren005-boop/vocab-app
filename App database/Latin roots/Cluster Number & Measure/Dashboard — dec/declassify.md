@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # declassify
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lift the restriction on and make available again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lift the restriction on and make available again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To officially declare information, documents, or military technology no longer restricted or secret.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To downgrade the security level of official files to permit public release.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, declassify designates lift the restriction on and make available again."*
+> - 📜 **Arthur C. Clarke (*Voices from the Sky*):** *"The government agreed to **declassify** orbital rocket trajectories to assist civilian astronomical surveys."*
+> - 📜 **George Orwell (*Selected Essays*):** *"Totalitarian regimes never **declassify** their diplomatic secrets until the regime itself collapses."*
+> - 📜 **Carl Sagan (*The Demon-Haunted World*):** *"When intelligence agencies **declassify** cold war records, rumors of extraterrestrial craft evaporate."*

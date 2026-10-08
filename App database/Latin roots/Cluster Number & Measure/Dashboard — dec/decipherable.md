@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decipherable
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily deciphered.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily deciphered.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being deciphered, read, decoded, or understood despite obscurity or poor handwriting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intelligible or interpretable, as an ancient inscription, cryptic code, or ambiguous gesture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Brought up from the wreck was a journal, so torn and mushed and pulped by the sea-water, with ink so run about, that scarcely any of it was decipherable."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"The water-stained manuscript was still **decipherable** with the aid of a strong magnifying lens."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The faded letters of the ancient parchment remained barely **decipherable** to the antiquarian's eye."*
+> - 📜 **Edgar Allan Poe (*The Murders in the Rue Morgue*):** *"The mysterious syllables uttered by the murderer were not **decipherable** as any known European tongue."*

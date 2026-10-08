@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # predecease
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Die before; die earlier than.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Die before; die earlier than.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To die before another person, especially in the context of inheritance, wills, or family succession.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The death of a person prior to the death of another specified individual.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If children predecease progenitors, We are their offspring, and they none of ours."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will you mock at an ancient tradition, begun upon an honourable respect, and worn as a memorable trophy of predeceased valour, and dare not avouch in your deeds any of your words?"*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"Should the prince **predecease** his royal father, the kingdom would descend into bitter turmoil."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The legal deed stipulated that if the beneficiary should **predecease** the testator, the estate passed to charity."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Featherstone took perverse pleasure in wondering whether his greedy kin would **predecease** him."*

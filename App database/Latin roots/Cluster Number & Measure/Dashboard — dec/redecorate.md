@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # redecorate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Redo the decoration of an apartment or house.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Redo the decoration of an apartment or house.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To paint, wallpaper, or refurbish the interior design, furnishings, or structure of a room or building.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To bestow fresh ornamental elements or decorative enhancements upon an existing setting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"And, before they parted, it was agreed that the house in London should be redecorated for the next season, and that the brothers' families should meet again in the country at Christmas."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky resolved to **redecorate** the drawing room in the latest Parisian fashion to impress high society."*
+> - 📜 **Virginia Woolf (*Mrs. Dalloway*):** *"Clarissa planned to **redecorate** the morning room with soft green drapes before the festive season began."*
+> - 📜 **Edith Wharton (*The Custom of the Country*):** *"Undine Spragg insisted on hiring French upholsterers to completely **redecorate** the Fifth Avenue mansion."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decaffeinate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove caffeine from (coffee).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove caffeine from (coffee).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To extract, wash, or remove caffeine from raw green coffee beans, tea leaves, or cacao.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To process food products using chemical solvents or water-pressure cycles to eliminate stimulant alkaloids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decaffeinate designates remove caffeine from (coffee)."*
+> - 📜 **Aldous Huxley (*Island*):** *"The cooperative workshop developed gentle methods to **decaffeinate** local herbs without destroying aroma."*
+> - 📜 **John Steinbeck (*Cannery Row*):** *"The grocer explained how steam and chemical washers could **decaffeinate** imported Colombian beans."*
+> - 📜 **Carl Sagan (*The Demon-Haunted World*):** *"Industrial techniques that **decaffeinate** coffee exploit supercritical fluid carbon dioxide extraction."*

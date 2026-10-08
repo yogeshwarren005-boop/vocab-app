@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decennium
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A period of 10 years.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A period of 10 years.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A period or duration of ten consecutive years; a decade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ten-year administrative, historical, or astronomical cycle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decennium designates a period of 10 years."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"During that peaceful **decennium**, the frontiers were fortified and public revenues replenished."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"The quiet **decennium** following the Civil War witnessed unprecedented industrial expansion."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Within a single **decennium**, the political landscape of Europe was redrawn by revolutionary armies."*

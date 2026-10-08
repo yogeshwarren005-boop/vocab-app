@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decimalize
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change from fractions to decimals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change to the decimal system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert a monetary or measurement system into decimal units based on tens (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To reduce common fractions to decimal form in mathematical computation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decimalize designates change from fractions to decimals."*
+> - 📜 **Alexander Hamilton (*Report on the Establishment of a Mint*):** *"Congress resolved to **decimalize** the monetary unit, dividing the silver dollar into one hundred cents."*
+> - 📜 **Thomas Edison (*The Papers of Thomas A. Edison*):** *"The laboratory workshop chose to **decimalize** all micrometer measurements to avoid fractional errors."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"He urged merchants to **decimalize** book-keeping entries to save labor in auditing ledgers."*

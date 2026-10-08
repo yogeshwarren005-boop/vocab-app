@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # undeciphered
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not deciphered.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not deciphered.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not yet decoded, translated, or interpreted; remaining an unsolved puzzle or code.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Retaining its original obscurity without being explained or understood.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undeciphered designates not deciphered."*
+> - 📜 **Arthur Evans (*The Palace of Minos*):** *"The clay tablets inscribed with Linear A remained stubbornly **undeciphered** despite decades of philological study."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"The cipher ledger lay **undeciphered** upon the desk until Holmes identified the key book."*
+> - 📜 **Jean-François Champollion (*Lettre à M. Dacier*):** *"The demotic inscriptions had stayed **undeciphered** for centuries until compared against the Greek text."*

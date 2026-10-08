@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # undecorated
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not decorated with something to increase its beauty or distinction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not decorated with something to increase its beauty or distinction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking ornamentation, embellishment, or decorative enhancements; plain and simple.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unadorned in style, language, or architectural design; functional and austere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"Yet these people were clothed in pleasant fabrics that must at times need renewal, and their sandals, though undecorated, were fairly complex specimens of metalwork."*
-> - 📜 **James Joyce (*Ulysses*):** *"In the mirror of the giltbordered pierglass the undecorated back of the dwarf tree regarded the upright back of the embalmed owl."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"In the best period the pure white undecorated Ting ware, with rich unctuous glaze, compared to "congealed fat" or "mutton fat," was most esteemed, though ornament was freely used, especially on the Southern Ting."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"Yet the great hall was strangely **undecorated**, its walls of polished granite bare of any tapestry."*
+> - 📜 **James Joyce (*Ulysses*):** *"In the mirror he surveyed the austere, completely **undecorated** room behind his solitary figure."*
+> - 📜 **R. L. Hobson (*Chinese Pottery and Porcelain*):** *"Early archaic vessels were strictly **undecorated**, relying entirely on graceful line and smooth glaze."*

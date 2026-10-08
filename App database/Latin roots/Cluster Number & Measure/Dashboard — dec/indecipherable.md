@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # indecipherable
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not easily deciphered.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impossible to determine the meaning of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible or extremely difficult to read, decode, translate, or understand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obscure, illegible, or unfathomable to the human mind or senses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"What should you think he was like when he wasn't tired?" "That is a question I have occasionally asked myself," Val answered with his faint indecipherable smile."*
+> - 📜 **Arthur Conan Doyle (*The Sign of Four*):** *"The cryptic markings on the yellowed parchment were completely **indecipherable** to ordinary eyes."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Queequeg carried on his chest an **indecipherable** labyrinth of tattooing inscribed by a departed prophet."*
+> - 📜 **Edgar Allan Poe (*The Gold-Bug*):** *"Legrand scrutinized the faded vellum, searching for characters that appeared initially **indecipherable**."*

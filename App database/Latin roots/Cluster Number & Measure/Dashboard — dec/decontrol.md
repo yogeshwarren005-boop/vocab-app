@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decontrol
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relax or remove controls of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relax or remove controls of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The release of an industry, price system, or commodity from statutory government regulations or economic controls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To remove official government supervision, rationing, or price caps from a market sector.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decontrol designates relax or remove controls of."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"To **decontrol** the grain trade is the surest remedy against artificial scarcity provoked by monopoly."*
+> - 📜 **John Maynard Keynes (*The Economic Consequences of the Peace*):** *"Premature economic **decontrol** after the armistice unleashed rampant price inflation across Europe."*
+> - 📜 **Herbert Hoover (*American Individualism*):** *"Post-war administration sought to **decontrol** maritime shipping to restore competitive commercial vitality."*

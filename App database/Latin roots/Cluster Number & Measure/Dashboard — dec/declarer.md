@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # declarer
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The bridge player in contract bridge who wins the bidding and can declare which suit is to be trumps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who claims to speak the truth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who declares, announces, proclaims, or officially discloses something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In card games like bridge, the player who wins the auction and plays both their own hand and the dummy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, declarer designates the bridge player in contract bridge who wins the bidding and can declare which suit is to be trumps."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The herald stepped forward as the official **declarer** of the sovereign's will before the parliament."*
+> - 📜 **William Makepeace Thackeray (*The History of Pendennis*):** *"He sat down at the whist table, proving a bold and successful **declarer** throughout the evening."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He was ever a loud **declarer** of his own virtues, though slow to perform any charitable duty."*

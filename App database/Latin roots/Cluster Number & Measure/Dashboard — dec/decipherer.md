@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decipherer
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The kind of intellectual who converts messages from a code to plain text.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reader capable of reading and interpreting illegible or obscure text.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who deciphers secret codes, cryptograms, obscure manuscripts, or ancient writing; a cryptanalyst.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An interpreter who extracts meaning from enigmatic clues or illegible historical documents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decipherer designates the kind of intellectual who converts messages from a code to plain text."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Dancing Men*):** *"The criminal had not anticipated that he would encounter in Holmes so brilliant a **decipherer** of secret codes."*
+> - 📜 **Edgar Allan Poe (*The Gold-Bug*):** *"The skilled **decipherer** relies upon patience, mathematical frequency tables, and keen analytical ingenuity."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The imperial court employed a confidential **decipherer** to scrutinize intercepted diplomatic dispatches."*

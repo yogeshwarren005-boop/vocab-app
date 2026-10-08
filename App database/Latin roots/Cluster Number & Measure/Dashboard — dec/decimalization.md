@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decimalization
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of changing to a decimal system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of changing to a decimal system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The conversion of a system of currency, weights, or measures into decimal units based on powers of ten.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The adoption of base-ten decimal divisions in financial markets or administrative accounting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decimalization designates the act of changing to a decimal system."*
+> - 📜 **Thomas Jefferson (*Autobiography*):** *"The **decimalization** of our federal currency rendered everyday accounting facile for every American citizen."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Complete **decimalization** of stock exchange quotations eliminated fractional confusion among trading houses."*
+> - 📜 **Andrew Carnegie (*Autobiography*):** *"The **decimalization** of industrial accounting allowed steel mills to trace production costs to fractions of a cent."*

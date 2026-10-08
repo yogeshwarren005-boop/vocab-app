@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decortication
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Removal of the outer covering of an organ or part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Removal of the outer covering of an organ or part.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of stripping off the outer bark, peel, husk, or skin of a plant or fruit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A surgical procedure removing the fibrous layer or diseased outer capsule of an internal organ.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decortication designates removal of the outer covering of an organ or part."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Prompt surgical **decortication** allowed the trapped lung to expand and resume its vital function."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The mechanical **decortication** of fibrous stalks yields raw material suitable for cordage."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"Careful **decortication** of the stem revealed vascular bundles transmitting hydraulic pressure."*

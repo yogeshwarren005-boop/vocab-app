@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decussation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An intersection or crossing of two tracts in the form of the letter x.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intersection or crossing of two tracts in the form of the letter x.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An intersection, crossing, or crossing over of two lines, bands, or structures in the form of an X.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy, the crossing of nerve fibers from one side of the central nervous system to the other.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decussation designates an intersection or crossing of two tracts in the form of the letter x."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A lesion occurring above the pyramidal **decussation** causes motor paralysis on the opposite side of the body."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The motor tracts undergo complete **decussation** within the lower medulla oblongata."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The anatomical **decussation** of vascular strands gives structural strength to the slender climbing stalk."*

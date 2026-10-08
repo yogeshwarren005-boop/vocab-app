@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # undeclared
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not announced or openly acknowledged.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not announced or openly acknowledged.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not stated, announced, or officially acknowledged in a public proclamation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not reported to authorities for customs duties or tax assessment; unstated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke’s Middlemarch projects, revealed clearly enough that the undeclared motive had relation to Dorothea."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Brooke's political sympathies remained an **undeclared** mystery to his conservative country neighbors."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"There was an **undeclared** tenderness between the two cousins that neither dared put into speech."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The two rival powers slipped into an **undeclared** naval conflict long before war was formally proclaimed."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decorum
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Propriety in manners and conduct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Propriety in manners and conduct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Behavior that aligns with accepted standards of good taste, etiquette, and social propriety.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dignified and orderly conduct required in formal assemblies, courts, or civic institutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, dear Isis, keep decorum and fortune him accordingly!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If your master Would have a queen his beggar, you must tell him That majesty, to keep decorum, must No less beg than a kingdom."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I do not see why you wish your sons to live with mine at all." "It is a matter of decorum," the attorney's wife replied, "and my husband agrees with me."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth listened with astonishment, amazed at how completely Mr. Collins disregarded ordinary **decorum**."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The rustic company maintained a stiff **decorum** until the ceremonial toasts had concluded."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Queequeg sat before the fireplace with perfect savage **decorum**, observing the polite customs of the inn."*

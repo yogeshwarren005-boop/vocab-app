@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decreased
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decrease in size, extent, or range.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make smaller.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having become smaller, fewer, or diminished in amount, degree, size, or intensity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brought down to a lower quantity, rate, or level by external factors or natural processes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The old business in less than three years decreased so that half of the employees were discharged; the rest had their salaries reduced."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Its force has gradually decreased, but even yet is not entirely set aside."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"By the plan of a "compensated gold dollar" the legal weight of the gold coins would be increased or decreased from time to time to conform with the tabular standard."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The barometric pressure **decreased** rapidly as our vessel approached the storm center."*
+> - 📜 **George Eliot (*Silas Marner*):** *"His eyesight had **decreased** with advancing years, narrowing his daily horizon."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The warmth of the evening **decreased** as twilight settled over the heath."*

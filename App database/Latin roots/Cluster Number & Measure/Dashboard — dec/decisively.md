@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decisively
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With firmness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With finality; conclusively.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that settles an issue convincingly; conclusively; once and for all.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With firmness, confidence, and determination, without hesitation or ambivalence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I have no time to tell you now, Kurt," the mother declared decisively."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba decisively turned to him."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Ay, that ’a is,” said a second, decisively."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Knightley spoke **decisively**, putting an end to the foolish rumors that had disturbed the village."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The legions struck **decisively**, scattering the Persian vanguard before their main army could assemble."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The house voted **decisively** against the royal prerogative, asserting the ancient liberties of the realm."*

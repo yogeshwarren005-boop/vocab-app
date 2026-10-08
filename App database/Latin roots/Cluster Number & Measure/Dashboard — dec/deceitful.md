@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # deceitful
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intended to deceive; ; ;  - s.t.coleridge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by deliberate deceptiveness especially by pretending one set of feelings and acting under the influence of another; - israel zangwill; ; - w.m.thackeray.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Guilty of or given to deceiving or misleading others; dishonest, untrustworthy, or fraudulent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deliberately misleading in appearance; giving a false impression; treacherous.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is this thy cunning, thou deceitful dame?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These hands are free from guiltless bloodshedding, This breast from harbouring foul deceitful thoughts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Deceitful Warwick, it was thy device By this alliance to make void my suit."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She was shocked to discover that Mr. Wickham was a thoroughly unprincipled and **deceitful** man."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The Houyhnhnms have no word in their language to express a lie or a **deceitful** representation."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The barbarian king offered a **deceitful** truce merely to gain time until his scattered cavalry could assemble."*

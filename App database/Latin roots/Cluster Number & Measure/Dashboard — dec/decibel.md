@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decibel
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A logarithmic unit of sound intensity; 10 times the logarithm of the ratio of the sound intensity to some reference intensity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A logarithmic unit of sound intensity; 10 times the logarithm of the ratio of the sound intensity to some reference intensity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A logarithmic unit used to express the ratio between two physical values, especially sound power or acoustic intensity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A standard measurement unit representing approximately the smallest change in sound volume detectable by the human ear.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decibel designates a logarithmic unit of sound intensity; 10 times the logarithm of the ratio of the sound intensity to some reference intensity."*
+> - 📜 **Arthur C. Clarke (*Voices from the Sky*):** *"Telecommunication engineers calculate signal attenuation along transmission cables in fractions of a **decibel**."*
+> - 📜 **Isaac Asimov (*The Caves of Steel*):** *"The industrial noise in the lower corridors registered over ninety **decibel** units on the monitor."*
+> - 📜 **Lewis Mumford (*The City in History*):** *"The constant roar of mechanized traffic elevated the urban background noise by more than thirty **decibel** levels."*

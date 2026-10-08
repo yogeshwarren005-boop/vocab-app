@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # undecagon
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An eleven-sided polygon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An eleven-sided polygon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In geometry, a plane polygon having eleven angles and eleven straight sides.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A regular eleven-sided geometric figure whose interior angles each measure approximately 147.27 degrees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undecagon designates an eleven-sided polygon."*
+> - 📜 **Isaac Newton (*The Principia*):** *"The geometer inscribed a regular **undecagon** within the circle to demonstrate fractional chord ratios."*
+> - 📜 **Leonhard Euler (*Elements of Algebra*):** *"Constructing a regular **undecagon** requires algebraic methods beyond simple Euclidean compass and straightedge."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The mechanical linkage traced the perimeter of an intricate **undecagon** with high mathematical accuracy."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decriminalization
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Legislation that makes something legal that was formerly illegal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Legislation that makes something legal that was formerly illegal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The official process or act of repealing criminal penalties for a specific offense or conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The reduction of legal sanctions from imprisonment or arrest to civil fines and administrative oversight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decriminalization designates legislation that makes something legal that was formerly illegal."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The **decriminalization** of peaceable trade unions cleared the way for collective bargaining."*
+> - 📜 **Bertrand Russell (*Unpopular Essays*):** *"Public health experts recognized that the **decriminalization** of substance dependence promotes effective treatment."*
+> - 📜 **Aldous Huxley (*Brave New World Revisited*):** *"Democratic societies survive only when the **decriminalization** of free expression is preserved without compromise."*

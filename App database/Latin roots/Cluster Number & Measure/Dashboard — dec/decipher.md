@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decipher
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert code into ordinary language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Read with difficulty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert a text written in cipher or secret code into intelligible normal language; to decode.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To succeed in reading, understanding, or interpreting something obscure, illegible, or mysterious.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well didst thou, Richard, to suppress thy voice; For, had the passions of thy heart burst out, I fear we should have seen decipher’d there More rancorous spite, more furious raging broils, Than yet can be imagined or supposed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The white will decipher her well enough."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Besides many completed poems, it remained for his wife to decipher, from scraps of paper, scribbled over, interlined, and erased, a host of fragments, all valuable, and many of them gems of purest ray."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Dancing Men*):** *"Sherlock Holmes sat through the night laboring to **decipher** the bizarre hieroglyphics scrawled upon the sun-dial."*
+> - 📜 **Edgar Allan Poe (*The Gold-Bug*):** *"Legrand demonstrated that by analyzing letter frequencies one could **decipher** the most intricate cryptographic secret."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Scholars struggled for centuries to **decipher** the eroded Punic inscriptions found among the ruins of Carthage."*

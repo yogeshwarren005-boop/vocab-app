@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decal
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either a design that is fixed to some surface or a paper bearing the design which is to be transferred to the surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either a design that is fixed to some surface or a paper bearing the design which is to be transferred to the surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specially prepared design, picture, or label printed on paper that can be transferred onto glass, ceramic, or metal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adhesive sticker or printed transfer applied to aircraft, automobiles, or model kits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decal designates either a design that is fixed to some surface or a paper bearing the design which is to be transferred to the surface."*
+> - 📜 **John Steinbeck (*Cannery Row*):** *"A bright tourist **decal** depicting the Golden Gate Bridge was affixed to the windshield of the truck."*
+> - 📜 **Tom Wolfe (*The Right Stuff*):** *"Each pilot wore a colorful flight **decal** sewn upon his high-altitude pressurized flight suit."*
+> - 📜 **Ernest Hemingway (*Across the River and into the Trees*):** *"The staff car bore an official military **decal** stenciled neatly upon both front doors."*

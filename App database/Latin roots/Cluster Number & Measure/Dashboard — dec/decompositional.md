@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decompositional
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing organic decay.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing organic decay.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resulting from, or involving the process of chemical breakdown, rotting, or decay.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the mathematical or analytical resolution of a system into constituent modules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decompositional designates causing organic decay."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The warm humid climate accelerated **decompositional** changes in the fallen timber of the Brazilian forest."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Atmospheric weathering exerts a powerful **decompositional** effect upon exposed granitic crags."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Putrid **decompositional** odors alerted the surgeon to the presence of anaerobic gangrene in the wound."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decile
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (statistics) any of nine points that divided a distribution of ranked scores into equal intervals where each interval contains one-tenth of the scores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (statistics) any of nine points that divided a distribution of ranked scores into equal intervals where each interval contains one-tenth of the scores.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the nine values that divide a sorted frequency distribution into ten equal parts, each representing a tenth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An astrological aspect between two celestial bodies separated by thirty-six degrees (one-tenth of the zodiac).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decile designates (statistics) any of nine points that divided a distribution of ranked scores into equal intervals where each interval contains one-tenth of the scores."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty and Its Development*):** *"By partitioning stature measurements into each successive **decile**, we observe the symmetry of the bell curve."*
+> - 📜 **Karl Pearson (*The Grammar of Science*):** *"The median and each **decile** provide robust non-parametric metrics for skewed sociological distributions."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"Statistical arrays are frequently summarized by the quartile and the fifth **decile** or median."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decline
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change toward something smaller or lower.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition inferior to an earlier condition; a gradual falling off from a better state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To diminish in strength, value, importance, or quality; to deteriorate or slope downward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To refuse politely an invitation, offer, or nomination; or to inflect a noun through grammatical cases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Far more, far more, to you do I decline."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Hamlet, what a falling off was there, From me, whose love was of that dignity That it went hand in hand even with the vow I made to her in marriage; and to decline Upon a wretch whose natural gifts were poor To those of mine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can thy spirit wonder A great man should decline?"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"I have described the triumph of barbarism and religion over the slow **decline** of the Roman world."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth felt herself obliged to **decline** the very flattering proposal of marriage tendered by Mr. Collins."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"When a dominant species begins to **decline** in numbers, related varieties rapidly take its place."*

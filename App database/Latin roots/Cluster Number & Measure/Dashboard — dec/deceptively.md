@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # deceptively
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a misleading way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a misleading way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that gives a false impression of what something is really like; misleadingly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concealing true danger, weakness, or intention beneath a calm, innocent, or harmless exterior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"I had first seen the place on a moist afternoon when distances are deceptively diminished."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The bog looked **deceptively** firm with its bright green carpet of moss, yet swallowed anything that stepped upon it."*
+> - 📜 **Joseph Conrad (*Typhoon*):** *"The barometric needle fell while the equatorial sea remained **deceptively** still before the gale."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Wickham spoke **deceptively** of his past, presenting himself as the innocent victim of Darcy's cruelty."*

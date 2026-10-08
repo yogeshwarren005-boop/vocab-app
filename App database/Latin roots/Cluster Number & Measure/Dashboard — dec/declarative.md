@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # declarative
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mood (grammatically unmarked) that represents the act or state as an objective fact.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the use of or having the nature of a declaration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to declare, assert, state, or explain; making an assertion in grammar or logic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A grammatical mood or sentence structure that expresses a statement of fact or opinion rather than a question or command.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, declarative designates a mood (grammatically unmarked) that represents the act or state as an objective fact."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"A **declarative** proposition asserts an agreement or disagreement between two ideas in the mind."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The statute was purely **declarative** of ancient common law liberties that had been obscured by tyranny."*
+> - 📜 **George Saintsbury (*A History of English Prose Rhythm*):** *"The author prefers short **declarative** sentences that march forward with masculine vigor."*

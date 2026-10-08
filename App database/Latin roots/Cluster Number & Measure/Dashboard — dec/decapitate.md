@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decapitate
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cut the head of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cut the head of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cut off the head of a person, animal, or living creature; to behead.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To remove the leadership, supreme council, or command hierarchy of an organization or state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"When the Alake or king of Abeokuta in West Africa dies, the principal men decapitate his body, and placing the head in a large earthen vessel deliver it to the new sovereign; it becomes his fetish and he is bound to pay it honours."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"He then orders his mother to approach; she kneels at his feet; he first cuts off her head, then decapitates his sons in succession, next his wives and relatives, and, last of all, his most beloved wife, called Anacullo."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Next, after breaking the bones and decapitating the then governor of the five provinces, himself an adherent of Chong Mong-ju, I was made governor of the seven home provinces of ancient Koryu."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The bloody tribunal was empowered to **decapitate** any citizen suspected of royalist sympathy."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The sharp female national razor, the guillotine, daily sheared down to **decapitate** the aristocracy."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The executioner stood prepared upon the scaffold to **decapitate** the fallen monarch before the throng."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decasyllable
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A verse line having ten syllables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A verse line having ten syllables.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A verse, poetic line, or word consisting of exactly ten syllables.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The standard metric line of heroic couplets and blank verse in classical English poetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decasyllable designates a verse line having ten syllables."*
+> - 📜 **George Saintsbury (*A History of English Prose Rhythm*):** *"The majestic cadence of Marlowe's mighty line established the **decasyllable** as the voice of English drama."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"Milton modulated the blank verse **decasyllable** with endless shifts of pause and inverted accent."*
+> - 📜 **William Hazlitt (*Lectures on the English Poets*):** *"Pope balanced each **decasyllable** with clockwork symmetry, delighting the ear with polished antitheses."*

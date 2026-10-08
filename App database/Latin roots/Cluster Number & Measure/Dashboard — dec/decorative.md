@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decorative
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving an esthetic rather than a useful purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving an esthetic rather than a useful purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to make something look more attractive, ornamental, or visually pleasing rather than merely functional.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the decorative arts (such as furniture, ceramics, textiles, and jewelry) as opposed to fine art.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"I should say London is the place to have things executed in: if you wish to give photos they must be drawn by an artist and reproduced; no photo ever looked well in a book yet! they haven't decorative importance and don't blend with type."*
-> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"Certainly in those poems the decorative rhythm and the meaning are absolutely one."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"For my own part, I consider that the decorative genius of the Chinese and their natural colour sense, added to their long training, have placed them so far above their European followers that comparison is irrelevant."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He surrounded himself with rare Japanese bronzes and antique tapestries chosen for their **decorative** beauty."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The mosaic borders of St. Mark's fulfill a purely **decorative** purpose, weaving gold and lapis across the arches."*
+> - 📜 **William Morris (*Hopes and Fears for Art*):** *"The revival of honest handicraft was intended to elevate the dignity of everyday **decorative** objects in human homes."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decrease
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A change downward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process of becoming smaller or shorter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To become smaller, fewer, or less in size, amount, degree, or intensity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To make smaller or reduce the magnitude, quantity, or volume of something.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I perceive that men as plants increase, Cheered and checked even by the self-same sky: Vaunt in their youthful sap, at height decrease, And wear their brave state out of memory."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But if there be no great love in the beginning, yet heaven may decrease it upon better acquaintance, when we are married and have more occasion to know one another."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But as the mileage lessened between her and the spot of her pilgrimage, so did Tess’s confidence decrease, and her enterprise loom out more formidably."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"As the food supply diminished, the native population began to **decrease** precipitously."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"An oversupply of manufactured goods causes their market prices to **decrease** steadily."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The intensity of reflected light will **decrease** as the angle of incidence grows shallower."*

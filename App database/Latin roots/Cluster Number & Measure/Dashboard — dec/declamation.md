@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # declamation
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vehement oratory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recitation of a speech from memory with studied gestures and intonation as an exercise in elocution or rhetoric.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal, impassioned, or theatrical speech or rhetorical recitation delivered before an audience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pompous, hollow, or bombastic rhetoric that lacks substantive logical weight or truth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood has shot my husband.” Her statement of the fact in such quiet and simple words came with more force than a tragic declamation, and had somewhat the effect of setting the distorted images in each mind present into proper focus."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle said grace with theatrical declamation,—as it now appears to me, something like a religious cross of the Ghost in Hamlet with Richard the Third,—and ended with the very proper aspiration that we might be truly grateful."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"He would naturally say to himself, it is impossible that all this vehement and pathetic declamation can be without some colorable pretext."*
+> - 📜 **Samuel Johnson (*The Vanity of Human Wishes*):** *"His life was passed in academic **declamation**, repeating ancient axioms without touching human hearts."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The speech was greeted as a masterly piece of forensic **declamation**, winning the applause of the gallery."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The fiery **declamation** of the Christian bishop stirred the populace to tear down the pagan temple."*

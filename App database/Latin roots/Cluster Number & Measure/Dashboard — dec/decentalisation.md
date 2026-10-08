@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decentalisation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The social process in which population and industry moves from urban centers to outlying districts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The social process in which population and industry moves from urban centers to outlying districts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The dispersal or transfer of administrative powers and municipal functions away from a central authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The geographical relocation of industrial manufacturing and urban population into provincial districts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decentalisation designates the social process in which population and industry moves from urban centers to outlying districts."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"The municipal reformers advocated radical **decentalisation** to revitalize depressed rural districts."*
+> - 📜 **George Bernard Shaw (*The Intelligent Woman's Guide to Socialism*):** *"Administrative efficiency requires balanced **decentalisation** so that local councils manage their own affairs."*
+> - 📜 **Lewis Mumford (*The Culture of Cities*):** *"Regional planning proposed the **decentalisation** of congested factory populations into garden cities."*

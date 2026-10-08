@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # deceive
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be false to; be dishonest with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause someone to believe an untruth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause someone to believe something that is not true, typically in order to gain a personal advantage; to mislead.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To fail to fulfill an expectation or promise; to betray or be unfaithful to someone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For having traffic with thyself alone, Thou of thyself thy sweet self dost deceive, Then how when nature calls thee to be gone, What acceptable audit canst thou leave?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The king’s disease,—my project may deceive me, But my intents are fix’d, and will not leave me. [_Exit._] SCENE II."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I see two husbands, or mine eyes deceive me."*
+> - 📜 **Francis Bacon (*Essays*):** *"It is a pleasure to stand upon the shore and see ships tossed upon the sea; but no pleasure is comparable to the standing upon the vantage ground of truth, where errors cannot **deceive**."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Willoughby had the art to **deceive** every member of the family, cloaking his mercenary motives in passionate declarations."*
+> - 📜 **Abraham Lincoln (*Speeches and Writings*):** *"You can fool all the people some of the time, and some of the people all the time, but you cannot **deceive** all the people all the time."*

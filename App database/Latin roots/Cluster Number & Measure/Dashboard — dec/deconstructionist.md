@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # deconstructionist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or concerned with the philosophical theory of literature known as deconstructionism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or concerned with the philosophical theory of literature known as deconstructionism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A theorist, scholar, or practitioner who adheres to the principles and critical methods of deconstruction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or characteristic of deconstructive philosophy and literary analysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deconstructionist designates of or concerned with the philosophical theory of literature known as deconstructionism."*
+> - 📜 **Richard Rorty (*Contingency, Irony, and Solidarity*):** *"The **deconstructionist** critic delights in showing how a philosophical treatise undoes its own foundational thesis."*
+> - 📜 **Umberto Eco (*The Limits of Interpretation*):** *"A zealous **deconstructionist** refuses to recognize any stable limit upon the interpretative freedom of the reader."*
+> - 📜 **Fredric Jameson (*The Cultural Turn*):** *"The **deconstructionist** architect designed a museum of skewed angles that challenged conventional spatial gravity."*

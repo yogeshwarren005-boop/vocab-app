@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # indecorously
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without decorousness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without decorousness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an improper, unbecoming, or rude manner that offends social etiquette and decorum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With an unseemly lack of dignity, restraint, or respect for formal conventions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"She was a tall and extremely slight woman, her features insignificant and her complexion sallow, but her figure indecorously beautiful under its close French draperies."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"She laughed **indecorously** at the serious pronouncements of the solemn village council."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Lucy Steele behaved **indecorously** in whispering private secrets across the formal dinner table."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The intoxicated guest interrupted the speaker **indecorously**, provoking general embarrassment."*

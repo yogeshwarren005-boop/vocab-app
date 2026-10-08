@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decaf
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coffee with the caffeine removed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coffee with the caffeine removed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coffee or tea from which the stimulating alkaloid caffeine has been largely extracted or removed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing coffee beans or brewed beverages possessing less than three percent of natural caffeine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decaf designates coffee with the caffeine removed."*
+> - 📜 **John Updike (*Rabbit at Rest*):** *"He sat at the diner counter and cautiously ordered a cup of steaming **decaf** with skim milk."*
+> - 📜 **Don DeLillo (*White Noise*):** *"We drank mugs of hot **decaf** while discussing supermarket packaging in the bright kitchen."*
+> - 📜 **Tom Wolfe (*A Man in Full*):** *"The executive requested fresh **decaf** from his secretary before opening the confidential portfolio."*

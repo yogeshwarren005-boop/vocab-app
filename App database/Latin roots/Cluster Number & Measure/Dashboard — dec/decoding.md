@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decoding
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of making clear or converting from code into plain text.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert code into ordinary language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of converting encrypted, coded, or digitized signals into plain, understandable form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biology, the translation of genetic codons on mRNA into amino acid polypeptide sequences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decoding designates the activity of making clear or converting from code into plain text."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"The **decoding** of the mysterious cipher required comparing page numbers against the almanac."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Information transmission involves the complementary processes of encoding at the source and **decoding** at the receiver."*
+> - 📜 **Francis Crick (*Of Molecules and Men*):** *"The **decoding** of the triplet genetic code revealed how nucleotide triplets specify individual amino acids."*

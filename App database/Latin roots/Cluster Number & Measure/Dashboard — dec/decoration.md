@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decoration
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something used to beautify.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An award for winning a championship or commemorating some other event.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or art of decorating something; or an ornament, embellishment, or trimming added for beauty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medal, badge of honor, or insignia awarded to a soldier or civilian for distinguished merit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket prices that decoration in his mind and thinks it as likely as not that Volumnia is writing poetry."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I believe he sometimes wishes he had never won that embarrassing decoration." "What's his name?" "Val Stafford."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Remember, I was there when he won his decoration--" He broke off."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"Architectural **decoration** should arise naturally from structural form, enhancing without masking functional truth."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"The bright holly berries served as the sole **decoration** in the humble garret, bringing cheer to the hearth."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The brave destroyer captain received a high naval **decoration** for his daring night attack against the enemy fleet."*

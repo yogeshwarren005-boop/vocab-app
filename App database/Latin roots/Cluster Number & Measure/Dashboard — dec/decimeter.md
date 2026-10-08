@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decimeter
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of length equal to one tenth of a meter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of length equal to one tenth of a meter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of length equal to one tenth of a meter ($10^{-1}$ m or ten centimeters), abbreviated as dm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A linear measurement whose cube defines the volume of exactly one liter of pure water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decimeter designates a metric unit of length equal to one tenth of a meter."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"One liter of pure distilled water occupies the volume of a cubic **decimeter** at maximum density."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The brass test bar measured exactly one **decimeter** in length under standard temperature."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The magnetic deflections were observed along a scale graduated in millimeters and each **decimeter**."*

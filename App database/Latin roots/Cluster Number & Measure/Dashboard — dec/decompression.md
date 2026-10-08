@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decompression
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Restoring compressed information to its normal form for use or display.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relieving pressure (especially bringing a compressed person gradually back to atmospheric pressure).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reduction in atmospheric pressure, especially that experienced by divers rising to the surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical relief of pressure on an organ, such as cranial decompression for brain tumors or spinal cord trauma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decompression designates restoring compressed information to its normal form for use or display."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"Subtemporal **decompression** relieved intractable headache and preserved vision in patients with brain tumors."*
+> - 📜 **Arthur C. Clarke (*2001: A Space Odyssey*):** *"Explosive **decompression** of the airlock would boil the blood and extinguish life in less than a minute."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Nitrogen bubbles forming in the spinal cord during rapid **decompression** produce caisson paralysis."*

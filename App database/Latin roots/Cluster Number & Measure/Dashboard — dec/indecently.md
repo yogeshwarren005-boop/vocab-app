@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # indecently
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an indecent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an indecent manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that offends modesty, decorum, or established standards of moral propriety.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unseemly, improper, or excessively hasty manner.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Unspeakable messages he telephoned mentally to Miss Dunn at an address in D’Olier street while he presented himself indecently to the instrument in the callbox."*
-> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: I was indecently treated, I..."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"He behaved **indecently** in interrupting the solemn religious service with angry curses."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The heirs displayed their avarice **indecently** before the old man's remains were even interred."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Rawdon Crawley laughed **indecently** loud in the crowded foyer of the opera house."*

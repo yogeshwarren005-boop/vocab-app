@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # indecorousness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of decorum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of decorum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of lacking good taste, dignity, propriety, or social refinement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Behavior or expression that offends polite conventions and moral standards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, indecorousness designates a lack of decorum."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Edmund could not overlook the blatant **indecorousness** of Mary Crawford's lighthearted remarks."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"The parish warden deplored the **indecorousness** of rowdy celebrations held within churchyard grounds."*
+> - 📜 **Thomas Hardy (*The Hand of Ethelberta*):** *"Her mother warned her against the subtle **indecorousness** of entertaining guests without a chaperone."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # deconstructionism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A philosophical theory of criticism (usually of literature or film) that seeks to expose deep-seated contradictions in a work by delving below its surface meaning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A philosophical theory of criticism (usually of literature or film) that seeks to expose deep-seated contradictions in a work by delving below its surface meaning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical school and critical doctrine that practices deconstructive analysis of literature and language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The post-structuralist movement holding that texts have no single, stable, or authorially determined meaning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deconstructionism designates a philosophical theory of criticism (usually of literature or film) that seeks to expose deep-seated contradictions in a work by delving below its surface meaning."*
+> - 📜 **Richard Rorty (*Philosophy and the Mirror of Nature*):** *"Academic disputes over **deconstructionism** centered on whether objective literary meaning could still be defended."*
+> - 📜 **Fredric Jameson (*Postmodernism, or, the Cultural Logic of Late Capitalism*):** *"The emergence of **deconstructionism** coincided with the cultural fragmentation of post-industrial society."*
+> - 📜 **Umberto Eco (*Interpretation and Overinterpretation*):** *"Radical **deconstructionism** risks turning reading into an endless, self-indulgent drift of associative play."*

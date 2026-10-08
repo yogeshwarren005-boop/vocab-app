@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decrescendo
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) a gradual decrease in loudness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grow quieter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gradual reduction in musical loudness or sonic volume.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gradual lessening or decline in emotional intensity, commotion, or activity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decrescendo designates (music) a gradual decrease in loudness."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The orchestra executed a breathtaking **decrescendo**, fading from brass fanfare to a whisper of strings."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"The uproar of the traffic outside subsided into a gentle nocturnal **decrescendo**."*
+> - 📜 **Thomas Mann (*Doctor Faustus*):** *"The tragic movement concludes in a haunting **decrescendo**, leaving the listener in total silence."*

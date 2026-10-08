@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decorousness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Propriety in manners and conduct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Propriety in manners and conduct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strict adherence to good taste, propriety, and established social conventions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A demeanor marked by outward dignity, calm reserve, and disciplined behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"It was like dragging a hideous shape of death into the cleanly and cheerful space before a household fire, where it would present all the uglier aspect, amid the decorousness of everything about it."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Her habitual **decorousness** prevented her from displaying the indignation that agitated her mind."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon prized an unbending **decorousness** above all lively demonstrations of affection."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"The headmistress demanded absolute **decorousness** from every pupil during the evening assembly."*

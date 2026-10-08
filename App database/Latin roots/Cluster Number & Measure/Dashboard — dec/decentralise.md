@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decentralise
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make less central.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less central.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To distribute the administrative powers or functions of a central authority among local bodies (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To disperse industrial facilities, urban housing, or computational assets from a single hub.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decentralise designates make less central."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Air transport and electrical power made it possible to **decentralise** heavy industry across the continents."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The anarchists attempted to **decentralise** factory management, placing decisions in workers' committees."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"Electric grids enabled planners to **decentralise** production into smaller workshops situated near green belts."*

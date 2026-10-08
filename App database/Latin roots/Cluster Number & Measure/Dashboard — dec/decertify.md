@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decertify
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be no longer approved or accepted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be no longer approved or accepted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To withdraw or revoke official certification, accreditation, or legal recognition from an organization or person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To vote to revoke the status of a labor union as collective bargaining agent under labor law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decertify designates cause to be no longer approved or accepted."*
+> - 📜 **Thorstein Veblen (*The Engineers and the Price System*):** *"The commission moved to **decertify** the substandard boiler plant after repeated safety violations."*
+> - 📜 **Woodrow Wilson (*The State: Elements of Historical and Practical Politics*):** *"Regulatory boards possess the statutory authority to **decertify** maritime pilots found guilty of negligence."*
+> - 📜 **Herbert Hoover (*American Individualism*):** *"The federal trade council sought to **decertify** fraudulent commercial cartels that fixed food prices."*

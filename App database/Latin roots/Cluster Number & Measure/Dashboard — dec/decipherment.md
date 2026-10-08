@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decipherment
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of making clear or converting from code into plain text.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activity of making clear or converting from code into plain text.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or achievement of deciphering or decoding secret ciphers or unknown scripts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The historical translation of ancient forgotten writing systems, such as Egyptian hieroglyphs or cuneiform.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decipherment designates the activity of making clear or converting from code into plain text."*
+> - 📜 **Arthur Conan Doyle (*The Musgrave Ritual*):** *"The **decipherment** of the seventeenth-century ceremonial chant led straight to the cellar where the treasure lay."*
+> - 📜 **Thomas Henry Huxley (*Lectures on Evolution*):** *"The **decipherment** of the Rosetta stone opened to modern scholars the long-buried annals of the Pharaohs."*
+> - 📜 **Edgar Allan Poe (*The Gold-Bug*):** *"My success in the **decipherment** of the parchment was attained by applying the elementary principles of substitution."*

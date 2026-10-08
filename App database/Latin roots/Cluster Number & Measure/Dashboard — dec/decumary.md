@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decumary
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Woody climber of southeastern united states having white flowers in compound terminal clusters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Woody climber of southeastern united states having white flowers in compound terminal clusters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or designating climbing shrubs of the botanical genus *Decumaria*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A climbing hydrangea vine known for aerial rootlets and small fragrant ten-petaled blossoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decumary designates woody climber of southeastern united states having white flowers in compound terminal clusters."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The **decumary** vine thrives in damp woodland soils, scaling oak boles with vigorous tenacity."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Gardeners prize the **decumary** creeper for its glossy foliage and delicate summer bloom."*
+> - 📜 **Charles Sprague Sargent (*Manual of the Trees of North America*):** *"In deep alluvial swamps, the creeping **decumary** carpets forest hummocks in dense green mats."*

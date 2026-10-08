@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decentralising
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make less central.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending away from a central point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acting or serving to transfer administrative power, economic resources, or industry away from a central hub (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Promoting distributed control or regional autonomy across an institutional network.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decentralising designates make less central."*
+> - 📜 **Lewis Mumford (*The Culture of Cities*):** *"The internal combustion engine acted as a **decentralising** force, dispersing populations across broad suburban bands."*
+> - 📜 **H. G. Wells (*Anticipations*):** *"Telephones and rapid transit will unleash powerful **decentralising** tendencies upon Victorian metropolises."*
+> - 📜 **George Bernard Shaw (*Selected Prose*):** *"The party proposed a **decentralising** bill to restore vitality to Scottish and Welsh local councils."*

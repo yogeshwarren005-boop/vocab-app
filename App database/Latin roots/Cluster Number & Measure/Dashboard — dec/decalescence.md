@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decalescence
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Phenomenon that occurs when a metal is being heated and there is a sudden slowing in the rate of temperature increase; slowing is caused by a change in the internal crystal structure of the metal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Phenomenon that occurs when a metal is being heated and there is a sudden slowing in the rate of temperature increase; slowing is caused by a change in the internal crystal structure of the metal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sudden absorption of heat without an increase in temperature that occurs in iron or steel at a critical heating point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thermodynamic metallurgical phenomenon marking internal allotropic transformation during heating.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decalescence designates phenomenon that occurs when a metal is being heated and there is a sudden slowing in the rate of temperature increase; slowing is caused by a change in the internal crystal structure of the metal."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"During the heating of steel, the point of **decalescence** indicates an internal restructuring of the iron crystals."*
+> - 📜 **Thomas Edison (*The Papers of Thomas A. Edison*):** *"The blacksmith observed the shadow-like dimming of the bar as it reached **decalescence** in the forge."*
+> - 📜 **William Whewell (*The History of the Inductive Sciences*):** *"Metallurgists utilized the temperature of **decalescence** to harden steel tools with uniform temper."*

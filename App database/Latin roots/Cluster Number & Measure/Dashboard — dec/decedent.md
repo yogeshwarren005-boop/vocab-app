@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decedent
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is no longer alive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is no longer alive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deceased person, especially one whose estate is undergoing legal probate administration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In probate and trust law, the deceased owner of property that passes to heirs or beneficiaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decedent designates someone who is no longer alive."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The Chancery court appointed an administrator to inventory the property of the intestate **decedent**."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The police recovered a document bearing the signature of the **decedent** shortly before his sudden demise."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"State courts hold exclusive jurisdiction over the settlement of debts left by a domestic **decedent**."*

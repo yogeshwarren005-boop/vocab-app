@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # deconstruction
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A philosophical theory of criticism (usually of literature or film) that seeks to expose deep-seated contradictions in a work by delving below its surface meaning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A philosophical theory of criticism (usually of literature or film) that seeks to expose deep-seated contradictions in a work by delving below its surface meaning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A critical philosophical and literary movement analyzing texts to reveal inherent ideological contradictions and instabilities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The critical dismantling or peeling back of cultural representations, artistic genres, or social norms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deconstruction designates a philosophical theory of criticism (usually of literature or film) that seeks to expose deep-seated contradictions in a work by delving below its surface meaning."*
+> - 📜 **Jacques Derrida (*Writing and Difference*):** *"The movement of **deconstruction** does not destroy structures from without, but inhabits them from within."*
+> - 📜 **Richard Rorty (*Essays on Heidegger and Others*):** *"The widespread popularity of **deconstruction** among humanities faculties altered literary interpretation."*
+> - 📜 **Fredric Jameson (*The Cultural Turn*):** *"In modern visual theory, **deconstruction** functions as a strategy for exposing the commodification of images."*

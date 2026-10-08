@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decompound
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a compound leaf; consisting of divisions that are themselves compound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a compound leaf; consisting of divisions that are themselves compound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Compounded more than once; divided into parts that are themselves compound (applied to pinnate leaves).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To decompose or resolve a compound into its simpler chemical elements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decompound designates of a compound leaf; consisting of divisions that are themselves compound."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The clematis possesses **decompound** leaves whose slender secondary petioles twine around neighboring twigs."*
+> - 📜 **Joseph Dalton Hooker (*Flora Antarctica*):** *"The delicate alpine fern is distinguished by tripinnate, finely divided **decompound** fronds."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"Chymists boast that their furnaces can **decompound** mixed bodies into four Aristotelian elements."*

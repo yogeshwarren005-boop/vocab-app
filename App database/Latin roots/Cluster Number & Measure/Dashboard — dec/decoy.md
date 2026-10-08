@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decoy
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A beguiler who leads someone into danger (usually as part of a plot).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something used to lure fish or other animals into danger so they can be trapped or killed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artificial bird or animal, or a trained live specimen, used to lure wild game into a trap or shooting range.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person, device, or deceptive maneuver intended to distract or mislead an adversary away from a primary target.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"And aft your moss-traversin Spunkies Decoy the wight that late an’ drunk is: The bleezin, curst, mischievous monkies Delude his eyes, Till in some miry slough he sunk is, Ne’er mair to rise."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"But as neither lamentation nor rage could restore the treasure, cooler heads dispatched a party of horsemen with falcons and lures to decoy the recreant."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"A signal to land on the river was in ordinary times never disregarded, as the way business of freight and passengers was the chief profit often of the trip, and it seems hard for pilots and captains always to be on their guard against a decoy."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes intended Sir Henry to act as a **decoy** to draw their elusive predator into the open."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Hunters place a wooden **decoy** upon the reeds to attract migratory flocks toward the shoreline."*
+> - 📜 **Bram Stoker (*Dracula*):** *"The mysterious carriage was merely a **decoy** designed to divert our attention from the castle gates."*

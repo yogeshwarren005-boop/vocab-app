@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decathlon
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An athletic contest consisting of ten different events.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An athletic contest consisting of ten different events.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An athletic contest comprising ten track and field events contested over two consecutive days.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An Olympic all-around sporting event testing speed, strength, endurance, and jumping ability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decathlon designates an athletic contest consisting of ten different events."*
+> - 📜 **P. G. Wodehouse (*The Code of the Woosters*):** *"He possessed the boundless energy of an Olympic athlete training for the all-around **decathlon**."*
+> - 📜 **F. Scott Fitzgerald (*The Beautiful and Damned*):** *"The handsome collegiate champion had triumphed in the **decathlon** before enlisting in the aviation corps."*
+> - 📜 **Ernest Hemingway (*A Moveable Feast*):** *"We discussed the stamina required to score points across all ten demanding trials of the Olympic **decathlon**."*

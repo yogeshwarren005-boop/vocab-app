@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # deceptive
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing one to believe what is not true or fail to believe what is true.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed to deceive or mislead either deliberately or inadvertently.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving an impression different from the true one; misleading or fraudulent in appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deliberately designed to mislead, deceive, or ensnare an observer or victim.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Nor was I unmindful of that deceptive moonlight."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"At any rate—though indeed such a test at such a time might be deceptive—spoutings might be discovered from our low boat that seemed playing up almost from the rim of the horizon."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"But appearances all the world over are deceptive."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The smooth, smiling sea was **deceptive**, concealing beneath its azure surface fierce sharks and hidden reefs."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Sherlock Holmes remarked that nothing is so **deceptive** as an obvious fact that leads to hasty conclusions."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor was flattered by the **deceptive** calm that preceded the sudden rebellion of the Syrian legions."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decomposition
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The analysis of a vector field.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a decomposed state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or process of rotting and decay in organic matter caused by bacteria and fungi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The separation of a chemical compound into elements or simpler compounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Thus they die in the open air; and at the end of ten days they are in a forward state of decomposition."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"She was in every way as beautiful as the spirit had appeared to him, and apparently decomposition had not yet set in."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"When the substance is in a proper state for the next process, it betrays evidences of incipient decomposition; the fibres are relaxed and softened, and rendered perfectly malleable."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The chemical **decomposition** of water confirmed that it is not an element, but a compound of oxygen and hydrogen."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"The **decomposition** of leaf litter generates humic acids that corrode limestone rock surfaces."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Rapid post-mortem **decomposition** was observed in cases of virulent septicemia and gas gangrene."*

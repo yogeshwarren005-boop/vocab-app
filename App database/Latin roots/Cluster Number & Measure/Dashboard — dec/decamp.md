@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decamp
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leave a camp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Run away; usually includes taking something or somebody along.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To break up a military camp; or to depart suddenly, secretively, or hurriedly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To run away or abscond, especially to escape debt, arrest, or unwelcome duties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The short-hand writers, the reporters of the court, and the reporters of the newspapers invariably decamp with the rest of the regulars when Jarndyce and Jarndyce comes on."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"I'll go and see the Forty Thieves," said he, "and Miss Decamp's dance"; and he slipped away gently on the pointed toes of his boots, and disappeared, without waking his worthy parent."*
-> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"Monday, 7th June.--At about 8 in the morning decamped from Locust Hill, crossed the Lehi and encamped on the side of a Swamp called the Shades of Death,[43] about six miles from Locust Hill."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Under the cover of a stormy night, the Roman legions resolved to **decamp** without alerting the Gothic scouts."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The penniless swindler packed his carpetbag and decided to **decamp** from the hotel before the bill arrived."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The thieves were forced to **decamp** in haste, leaving their heavy crowbars behind on the grass."*

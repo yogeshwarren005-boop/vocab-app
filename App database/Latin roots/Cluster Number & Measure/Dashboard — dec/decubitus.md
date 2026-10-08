@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decubitus
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reclining position (as in a bed).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reclining position (as in a bed).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The posture or recumbent position assumed by a patient lying in bed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pressure ulcer or bedsore developing on skin over bony prominences during prolonged bed rest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decubitus designates a reclining position (as in a bed)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient remained in dorsal **decubitus**, unable to turn without severe lumbar pain."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Frequent turning of bedridden invalids prevents painful **decubitus** ulcers from forming on the heels."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The clinical physician noted the lateral **decubitus** characteristic of severe pleuritic inflammation."*

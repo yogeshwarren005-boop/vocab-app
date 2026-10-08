@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decomposable
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being partitioned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being partitioned.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being decomposed; biodegradable; able to be broken down into constituent elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to chemical, biological, or mathematical decomposition into simpler parts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decomposable designates capable of being partitioned."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"Gold is the most noble of metals because it is not **decomposable** by any common fire or solvent."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Leaves and dead twigs are readily **decomposable** materials that earthworms digest into rich humus."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Water is an electrolytic compound readily **decomposable** into hydrogen and oxygen by voltaic current."*

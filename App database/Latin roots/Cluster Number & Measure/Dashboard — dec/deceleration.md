@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # deceleration
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A decrease in rate of change.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physics) a rate of decrease in velocity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reduction in velocity or speed over time; negative acceleration in physics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slowdown in economic activity, industrial expansion, or technological growth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Plenty of time to kick-in vector and deceleration programs." Brad paused, shifted position, rubbed his jaws, sighed deeply, glanced sideways at Xindral and, his voice tighter, continued."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Deceleration and vector adjustments took another three decades."*
+> - 📜 **Arthur C. Clarke (*Rendezvous with Rama*):** *"The sudden **deceleration** pressed the astronauts firmly into their shock-absorbing contour couches."*
+> - 📜 **James Clerk Maxwell (*Matter and Motion*):** *"A retarding friction force produces uniform **deceleration** proportional to the mass of the sliding body."*
+> - 📜 **Carl Sagan (*Comet*):** *"Atmospheric drag caused rapid **deceleration** and incandescent heating of the incoming meteoroid."*

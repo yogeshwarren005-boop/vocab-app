@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decerebrate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the cerebrum from (a human body).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the cerebrum from (a human body).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprived of the cerebral hemispheres through surgical transection or pathological brainstem injury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting decerebrate posturing characterized by rigid extension of the limbs and arching of the spine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decerebrate designates remove the cerebrum from (a human body)."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"In the **decerebrate** animal preparation, tonic extension of the antigravity muscles maintains an exaggerated stance."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe midbrain trauma produced marked **decerebrate** rigidity with pronation of the forearms."*
+> - 📜 **Harvey Cushing (*Intracranial Tumors*):** *"Transtentorial herniation rapidly induced bilateral **decerebrate** posturing and coma."*

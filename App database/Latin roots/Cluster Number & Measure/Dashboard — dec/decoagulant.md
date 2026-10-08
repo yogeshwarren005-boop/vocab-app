@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decoagulant
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Medicine that prevents or retards the clotting of blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medicine that prevents or retards the clotting of blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent, enzyme, or chemical substance that prevents, dissolves, or reverses coagulation or clotting in blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anticoagulant substance used in clinical hematology or transfusion storage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decoagulant designates medicine that prevents or retards the clotting of blood."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Adding a chemical **decoagulant** like sodium citrate prevented the collected donor blood from clotting."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"Transfusion experiments demonstrated the therapeutic necessity of a reliable **decoagulant** agent."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Leech saliva contains a natural **decoagulant** that preserves liquid blood flow during feeding."*

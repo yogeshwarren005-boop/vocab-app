@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decontaminate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rid of contamination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rid of contamination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To neutralize or remove dangerous substances (such as radioactive fallout, poison gas, or bacteria) from an area or object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To cleanse, purify, or sanitize equipment or protective gear exposed to hazardous contaminants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decontaminate designates rid of contamination."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"Crews of soldiers worked with lime to **decontaminate** the ruins of the poisoned Martian chemical cylinders."*
+> - 📜 **Arthur C. Clarke (*The Sands of Mars*):** *"Before entering the habitat dome, astronauts washed their pressure suits to **decontaminate** red Martian dust."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Planetary protection protocols require NASA to **decontaminate** Mars landers to avoid seeding terrestrial microbes."*

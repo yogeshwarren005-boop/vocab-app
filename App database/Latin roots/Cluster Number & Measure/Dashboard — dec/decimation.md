@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decimation
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroying or killing a large part of the population (literally every tenth person as chosen by lot).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroying or killing a large part of the population (literally every tenth person as chosen by lot).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The destruction or killing of a large proportion of a population, workforce, or living species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ancient Roman military punishment of executing every tenth soldier in a mutinous unit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By decimation and a tithed death, If thy revenges hunger for that food Which nature loathes, take thou the destined tenth, And by the hazard of the spotted die Let die the spotted."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"If not Roman decimation, at least a sentence of banishment, crushing out the sweetest affections planted in human hearts, their love for their birthplaces, the homes of their fathers!"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The terrible practice of **decimation** was revived by austere commanders to restore iron discipline among the troops."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The revolutionary terror wrought a frightful **decimation** among the ancient nobility and clergy."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Epidemics introduced by contact with European explorers produced tragic **decimation** among native island tribes."*

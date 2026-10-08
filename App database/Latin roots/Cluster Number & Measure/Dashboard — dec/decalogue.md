@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decalogue
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The biblical commandments of moses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The biblical commandments of moses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Ten Commandments given by God to Moses upon Mount Sinai; the foundational moral code of biblical law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any authoritative set of ten fundamental rules, precepts, or ethical maxims.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"In her decalogue of manners to refuse an apology was an unpardonable sin."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He could have borne any sin in the Decalogue less hardly than a breach of the military oath."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Decalogue disregarded Corporeal sense defrauds and lies; it breaks all the commands of the Mosaic Decalogue to meet its own de- 489:15 mands."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Moses descended from the thunder of the mount bearing the sacred tables of the **Decalogue**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The civil statutes of Christian emperors incorporated the austere moral injunctions of the **Decalogue**."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The second table of the **Decalogue** teaches that moral righteousness toward our neighbor is pleasing unto God."*

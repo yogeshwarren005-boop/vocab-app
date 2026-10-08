@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decimal
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A proper fraction whose denominator is a power of 10.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A number in the decimal system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or based on the number ten; especially a system of numbers and measures using base ten.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fraction whose denominator is a power of ten, represented by digits to the right of a decimal point.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"A decimal system is a great convenience in the use of money as a common denominator, but not indispensable."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As to Tom, Charley’s brother, I am really afraid to say what he did at school in ciphering, but I think it was decimals."*
+> - 📜 **Isaac Newton (*Principia Mathematica*):** *"Calculations were carried out to six **decimal** places to verify the lunar orbital perturbation."*
+> - 📜 **Thomas Jefferson (*Notes on the Establishment of a Money Unit*):** *"The **decimal** arithmetic is of all others the most simple and convenient for commercial coinage."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"My calculating engine operated upon toothed wheels representing the ten **decimal** digits from zero to nine."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # declinometer
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring magnetic declination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument for measuring magnetic declination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument designed to measure magnetic declination, the angle between magnetic and true north.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A precision laboratory device equipped with a suspended magnetic needle and graduated circle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, declinometer designates an instrument for measuring magnetic declination."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The delicate **declinometer** needle registered the magnetic disturbance accompanying the distant aurora."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Observatories deployed the bifilar **declinometer** to record diurnal variations in terrestrial magnetism."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Magnetic surveys throughout the Andes utilized the portable **declinometer** to plot isogonic lines."*

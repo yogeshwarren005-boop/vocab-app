@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # undeceived
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from deception or illusion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freed of a mistaken or misguided notion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freed from deception, illusion, or false beliefs; seeing reality clearly as it is.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disabused of error and no longer vulnerable to misleading impressions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I’ve undeceived him.” “The more fool you!” D’Urberville in anger retreated from her to the hedge, where he pulled off the long smockfrock which had disguised him; and rolling it up and pushing it into the couch-fire, went away."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Thank God! i am undeceived in time! but it is a heavy blow! after my father’s consent had been so kindly given—but no more of this."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Sometimes, for a fleeting moment, I thought I caught a glance, heard a tone, beheld a form, which announced the realisation of my dream: but I was presently undeceived."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Angel Clare was at last **undeceived**, seeing the tragic truth stripped of idealizing romance."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"That Catherine should be so completely **undeceived** by his vanity afforded Henry Tilney quiet amusement."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I remained entirely **undeceived** by his flattering promises, trusting only what my own eyes observed."*

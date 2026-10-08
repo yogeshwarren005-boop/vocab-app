@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decide
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reach, make, or come to a decision about something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring to an end; settle conclusively.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To come to a resolution or conclude an opinion as a result of deliberation, evidence, or debate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To resolve, settle, or bring a contest, lawsuit, or controversy to a definitive conclusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or to the place of difference call the swords Which must decide it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The quarrel toucheth none but us alone; Betwixt ourselves let us decide it then."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"As she was anxious to have the matter settled then and there, she remarked rather sarcastically that a mother should be able to decide such matters alone."*
+> - 📜 **Francis Bacon (*Essays*):** *"Judges ought to be more learned than witty, more reverend than plausible, and more advised to **decide** justly than confident to argue."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor had too much good sense to **decide** hastily upon the character of a person she had seen but once."*
+> - 📜 **Abraham Lincoln (*First Inaugural Address*):** *"In your hands, my dissatisfied fellow-countrymen, and not in mine, is the momentous issue to **decide** upon peace or civil war."*

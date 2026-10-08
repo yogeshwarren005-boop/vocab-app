@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # indecisively
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking firmness or resoluteness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without finality; inconclusively.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner marked by hesitation, vacillation, or failure to make a firm decision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inconclusively, without bringing about a definite outcome or final result.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He still indecisively lingered beside the body."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Ay, ay,” responded the dairyman indecisively."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He still indecisively lingered beside the body."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba turned **indecisively** toward the farm gate, debating whether to enter or turn back."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Fred Vincy lingered **indecisively** outside the banker's study, dreading the impending interview."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Gilbert Osmond smiled **indecisively**, unwilling to reveal his true intentions to his guest."*

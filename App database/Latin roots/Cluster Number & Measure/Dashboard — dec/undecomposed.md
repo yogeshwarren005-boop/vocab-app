@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # undecomposed
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not left to spoil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not left to spoil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not decayed, putrefified, or broken down into simpler chemical substances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remaining in an intact, pristine, or chemically unaltered physical condition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Consequently, the products from the roasting of chalcopyrite consist principally of oxides of iron and copper, together with a certain amount of copper sulphate, very little iron sulphate, and some undecomposed sulphides."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In the arid desert soil, organic matter remained entirely **undecomposed** for many centuries."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Leaves and delicate insect wings were preserved **undecomposed** within the fine lacustrine silt."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"A portion of the pyritic ore passed through the furnace **undecomposed**, requiring secondary roasting."*

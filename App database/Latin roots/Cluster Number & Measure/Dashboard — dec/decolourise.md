@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decolourise
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove color from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove color from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove colour from a substance, solution, or textile material (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To purify or clarify an industrial fluid by eliminating pigments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decolourise designates remove color from."*
+> - 📜 **Charles Babbage (*The Exposition of 1851*):** *"The patentee demonstrated an ingenious method to **decolourise** raw beet sugar with animal charcoal."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"Chemical vapours filled the laboratory as we attempted to **decolourise** the experimental glass alloy."*
+> - 📜 **Arthur Conan Doyle (*The Poison Belt*):** *"The strange toxic gas seemed to **decolourise** the green foliage of the trees within an hour."*

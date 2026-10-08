@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decimetre
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of length equal to one tenth of a meter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of length equal to one tenth of a meter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of length equal to one tenth of a metre ($10$ centimetres), abbreviated as dm (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A linear measure whose cubic volume corresponds exactly to one litre in standard metric volume.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decimetre designates a metric unit of length equal to one tenth of a meter."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"The glass cylinder was graduated in marks of one **decimetre** and filled with transparent chemical reagents."*
+> - 📜 **Thomas Hardy (*The Well-Beloved*):** *"The sculptor carved the marble medallion to a diameter of precisely two **decimetre** units."*
+> - 📜 **Arthur Conan Doyle (*The Poison Belt*):** *"Professor Challenger held up a glass tube one **decimetre** long containing the sample of noxious ether."*

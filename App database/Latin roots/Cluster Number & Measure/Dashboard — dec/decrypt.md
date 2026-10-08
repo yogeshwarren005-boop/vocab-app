@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decrypt
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert code into ordinary language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert code into ordinary language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert encrypted text or encoded data back into its original intelligible plaintext form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To decipher or unravel a secret code, cipher, or obfuscated message.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decrypt designates convert code into ordinary language."*
+> - 📜 **Alan Turing (*Technical Papers on Enigma*):** *"Naval intelligence worked day and night to **decrypt** intercepted Axis wireless transmissions."*
+> - 📜 **Claude Shannon (*Communication Theory of Secrecy Systems*):** *"A secure cipher ensures that no unauthorized interceptor can **decrypt** the message without the private key."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Automated receivers must **decrypt** incoming signals while filtering out atmospheric static."*

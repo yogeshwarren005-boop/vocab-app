@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # deceptiveness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being deceptive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being deceptive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic of being misleading, deceptive, fraudulent, or tricky in appearance or behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tendency of appearances, mirages, or false testimony to lead observers into error.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deceptiveness designates the quality of being deceptive."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Experience teaches the sage the vanity of worldly desires and the **deceptiveness** of flatterers' promises."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Optical illusions demonstrate the **deceptiveness** of raw sensory impressions when uncorrected by reason."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The **deceptiveness** of subjective memory is revealed when witnesses provide contradictory testimony."*

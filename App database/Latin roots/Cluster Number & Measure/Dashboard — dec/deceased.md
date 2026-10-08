@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # deceased
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is no longer alive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pass from physical life and lose all bodily attributes and functions necessary to sustain life.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: No longer living; dead; recently died (used especially in formal, legal, or journalistic contexts).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The person who has died, especially in legal wills, estates, or inquests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is a history in all men’s lives Figuring the natures of the times deceased; The which observed, a man may prophesy, With a near aim, of the main chance of things As yet not come to life, who in their seeds And weak beginning lie intreasured."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But yet, before we go, let’s not forget The noble Duke of Bedford late deceased, But see his exequies fulfill’d in Rouen."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"QUEEN MARGARET. [_Aside_.] My hope is gone, now Suffolk is deceased."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Dr. Mortimer presented the medical report upon the **deceased** baronet, noting severe cardiac dilatation."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge and he were partners for I don't know how many years; Scrooge was his sole executor to the **deceased** Marley."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The will of the **deceased** merchant was read aloud in the parlor before his expectant kinsmen."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # undecomposable
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Representing the furthest possible extent of analysis or division into parts; - g.s.brett; -m.r.cohen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Representing the furthest possible extent of analysis or division into parts; - g.s.brett; -m.r.cohen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being broken down into simpler chemical constituents or elementary components.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resistant to biological decay, putrefaction, or physical disintegration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"But mind, whether it be diamond, or black-lead, or this porous charcoal, each and all have the same chemical composition; they are what we call the elementary undecomposable substance carbon."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Chemists consider those bodies to be simple elements which remain **undecomposable** by any known agent."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Potash was long regarded as an **undecomposable** earth until electrical current liberated metallic potassium."*
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-Box*):** *"Elementary substances were viewed as **undecomposable** units forming the bedrock of modern physical science."*

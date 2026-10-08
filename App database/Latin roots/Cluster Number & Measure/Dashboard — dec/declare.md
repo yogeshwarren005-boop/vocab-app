@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # declare
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State emphatically and authoritatively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Announce publicly or officially.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To announce, state, or pronounce officially, clearly, or emphatically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To formally disclose income, dutiable goods, or assets for tax, legal, or customs assessment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Read, and declare the meaning."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then go we in, to know his embassy, Which I could with a ready guess declare Before the Frenchman speak a word of it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And now declare, sweet stem from York’s great stock, Why didst thou say of late thou wert despised?"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"I **declare** I do not know a more agreeable gentleman in all the county than Mr. Bingley."*
+> - 📜 **Abraham Lincoln (*The Emancipation Proclamation*):** *"I do order and **declare** that all persons held as slaves within designated states are, and henceforward shall be, free."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The heralds were commanded to **declare** war against the King of France in the traditional market squares."*

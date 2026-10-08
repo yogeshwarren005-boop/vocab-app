@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decolonisation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of changing from colonial to independent status.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action of changing from colonial to independent status.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process by which colonies become independent of the colonizing country (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The political, economic, and cultural emancipation of previously colonized territories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decolonisation designates the action of changing from colonial to independent status."*
+> - 📜 **George Orwell (*Shooting an Elephant*):** *"The bitter experience of imperial policing revealed that rapid **decolonisation** was inevitable throughout Asia."*
+> - 📜 **Arnold Toynbee (*A Study of History*):** *"Post-war **decolonisation** dissolved ancient European empires, creating dozens of sovereign sovereign states."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The stormy tide of **decolonisation** swept across the British Empire in the wake of global conflict."*

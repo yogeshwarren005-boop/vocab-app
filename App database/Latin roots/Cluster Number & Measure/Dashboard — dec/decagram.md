@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decagram
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: 10 grams.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 10 grams.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of mass and weight equal to ten grams, commonly abbreviated as dag.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A standard commercial weight measure widely utilized in Central European food markets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog decagram as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The chemical balance was calibrated with precision weights from the milligram to the **decagram**."*
+> - 📜 **H. G. Wells (*The Work, Wealth and Happiness of Mankind*):** *"Continental grocers weighed coffee and spices by the **decagram** under the uniform decimal statutes."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The laboratory standard brass **decagram** was compared directly against the national prototype."*

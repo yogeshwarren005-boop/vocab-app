@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # declination
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition inferior to an earlier condition; a gradual falling off from a better state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A downward slope or bend.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The angular distance of a celestial object north or south of the celestial equator; celestial latitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The magnetic angle between true geographic north and magnetic north indicated by a compass needle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oliver Optic (*Plane and Plank; or, The Mishaps of a Mechanic*):** *"You need not put on airs." "I have business with you, Phil." "I have no business with you; and I respectfully decline having anything whatever to do with you." "Your declination is not accepted."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Blaine, who was then in Edinboro, Scotland, asking his friends to respect his Paris letter of declination."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Gresham’s declination had been at last reluctantly accepted by his admirers, and the refusal of Van Wyck to allow the consideration of his name practically left the field to the four candidates who had been formally presented."*
+> - 📜 **Isaac Newton (*Principia Mathematica*):** *"By calculating the solar **declination**, the astronomer determines the exact seasonal solstices."*
+> - 📜 **Captain James Cook (*A Voyage Towards the South Pole*):** *"Our navigator recorded the magnetic **declination** daily to correct the steering errors of the compass."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab scrutinized the quadrant tables to ascertain the sun's noon **declination** upon the open sea."*

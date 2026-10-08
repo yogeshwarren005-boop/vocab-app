@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # declaw
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the claws from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the claws from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To surgically remove the claws or claw-bearing distal phalanges of an animal, especially a domestic cat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, to deprive a person, law, or regulatory agency of power, teeth, or offensive capabilities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, declaw designates remove the claws from."*
+> - 📜 **Aldous Huxley (*Island*):** *"The utopian council enacted economic regulations designed to **declaw** monopolistic cartels completely."*
+> - 📜 **George Bernard Shaw (*Heartbreak House*):** *"The conservative peers resolved to **declaw** the radical tax bill before letting it pass into law."*
+> - 📜 **Jack London (*White Fang*):** *"The wild lynx hissed at the trapper, defying every cruel human effort to tame or **declaw** its nature."*

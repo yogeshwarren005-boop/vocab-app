@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decorativeness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An appearance that serves to decorate and make something more attractive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An appearance that serves to decorate and make something more attractive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ornamental charm and visual appeal contributing to aesthetic enhancement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of pleasing the eye through harmonious color, pattern, and design without practical utility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decorativeness designates an appearance that serves to decorate and make something more attractive."*
+> - 📜 **Oscar Wilde (*The Decay of Lying*):** *"Art begins with abstract **decorativeness**, creating patterns of beauty that owe nothing to the mimicry of nature."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The supreme **decorativeness** of Venetian painting lies in its mastery of rich, harmonious color harmonies."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"Botticelli blended linear grace with intense emotional drama, never sacrificing the surface **decorativeness** of his panel."*

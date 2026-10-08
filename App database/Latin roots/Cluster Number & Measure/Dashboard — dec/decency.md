@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decency
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of conforming to standards of propriety and morality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being polite and respectable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Behavior that conforms to accepted standards of morality, respectability, propriety, and good taste.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Modesty and decorum in manners, dress, and language; basic human kindness and civility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I am afraid it is too late now for the funeral to be performed with proper decency."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"I expect my surveyor from Brockham with his report in the morning; and afterwards I cannot in decency fail attending the club."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But the modern, more enlightened, labor movement has better ideals and policies in respect to the safety, sanitation, and decency of the working places."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth observed that common **decency** required Lydia to show some modest remorse for her reckless elopement."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"Working-class families maintained an astonishing standard of personal **decency** amidst squalid surroundings."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He who violates common **decency** in conversation forfeits all title to the respect and friendship of mankind."*

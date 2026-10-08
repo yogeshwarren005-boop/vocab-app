@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # declaratory
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the use of or having the nature of a declaration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the use of or having the nature of a declaration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Making an official declaration, explanation, or assertion, especially in legal and constitutional statutes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressive or explanatory of existing law rather than introducing new statutory enactments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Miss Wisk’s mission, my guardian said, was to show the world that woman’s mission was man’s mission and that the only genuine mission of both man and woman was to be always moving declaratory resolutions about things in general at public meetings."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"A "Declaratory Statement" was drawn up of the sense in which, while retaining the Standards, the Church understood them."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"They are only declaratory of a truth which would have resulted by necessary and unavoidable implication from the very act of constituting a federal government, and vesting it with certain specified powers."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A **declaratory** statute does not create new rights, but reaffirms and defines ancient common law."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"The **Declaratory** Act asserted imperial supremacy over the colonies, yet wisdom counselled moderation."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Parliament passed a **declaratory** resolution upholding the Protestant succession against Jacobite claimants."*

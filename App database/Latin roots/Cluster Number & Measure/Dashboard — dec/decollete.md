@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decollete
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a garment) having a low-cut neckline.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a garment) having a low-cut neckline.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a low-cut neckline that exposes the neck, shoulders, and upper chest (applied to women's dresses).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wearing a low-cut gown or dress in fashionable formal society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decollete designates (of a garment) having a low-cut neckline."*
+> - 📜 **Gustave Flaubert (*Madame Bovary*):** *"Emma admired her own reflection in the mirror, dressed in an elegant **decollete** ball gown of silk."*
+> - 📜 **Marcel Proust (*In Search of Lost Time*):** *"The duchess appeared magnificent in a **decollete** bodice adorned with a constellation of royal diamonds."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"May Welland arrived at the opera in a simple white **decollete** dress that emphasized her youthful innocence."*

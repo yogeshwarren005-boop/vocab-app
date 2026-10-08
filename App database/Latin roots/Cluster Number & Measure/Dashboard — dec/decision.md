@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decision
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making up your mind about something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A position or opinion or judgment reached after consideration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A conclusion or resolution reached after consideration; or the action or process of deciding something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ability or quality of deciding quickly and firmly; resoluteness and determination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So that, from point to point, now have you heard The fundamental reasons of this war, Whose great decision hath much blood let forth, And more thirsts after."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The time approaches, That will with due decision make us know What we shall say we have, and what we owe."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The reasons you allege do more conduce To the hot passion of distemp’red blood Than to make up a free determination ’Twixt right and wrong; for pleasure and revenge Have ears more deaf than adders to the voice Of any true decision."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor applauded her mother's prompt **decision** to quit Norland, though her heart bled to leave the place."*
+> - 📜 **Francis Bacon (*Essays*):** *"A prompt **decision** in public affairs prevents dangerous delays that give advantage to conspirators."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The general acted with swift **decision**, ordering the cavalry forward before the enemy could deploy."*

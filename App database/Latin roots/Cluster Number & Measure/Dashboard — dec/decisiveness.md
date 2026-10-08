@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decisiveness
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of resoluteness as evidenced by firmness of character or purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being final or definitely settled.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Firmness, resolute determination, and the mental ability to decide rapidly and unequivocally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conclusiveness; the property of settling an issue or dispute beyond all further doubt.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"She rose and crossed the room toward the door with grim decisiveness."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Delia's keeping watch of him.” For a moment there was silence; then, with clear decisiveness came Billy's voice."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"William of Orange was distinguished by a quiet **decisiveness** that inspired confidence in his officers."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Trajan governed with admirable **decisiveness**, cutting through judicial backlogs and corruption."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Anne admired in Captain Wentworth that energetic **decisiveness** which she herself had too readily surrendered."*

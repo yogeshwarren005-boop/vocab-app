@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decimalise
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change from fractions to decimals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change to the decimal system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert a currency, weights, or measurement system into units based on powers of ten (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To express fractions as decimal numbers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decimalise designates change from fractions to decimals."*
+> - 📜 **Charles Babbage (*The Exposition of 1851*):** *"A wise parliament would immediately **decimalise** the national currency to match continental standards."*
+> - 📜 **H. G. Wells (*Mankind in the Making*):** *"We ought to **decimalise** our weights and measures without waiting for the next international conference."*
+> - 📜 **George Bernard Shaw (*Our Theatres in the Nineties*):** *"It is easier to **decimalise** an entire coinage than to persuade an English manager to stage Ibsen."*

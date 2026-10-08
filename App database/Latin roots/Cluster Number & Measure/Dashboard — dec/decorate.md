@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decorate
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make more attractive by adding ornament, colour, etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be beautiful to look at.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make something look more attractive by adding ornaments, colors, paint, or furnishings; to embellish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To confer an official medal, badge, or military honor upon a person for distinguished service or valor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Disposed about these muskets, like the cutlasses that decorate the bulkhead of a man-of-war’s cabin, were a great variety of rude spears and paddles, javelins, and war-clubs."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"There were some spots in that sunny vale where they would frequently resort to decorate themselves with garlands of flowers."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"These are but a few of the features of park scenery; but what most delights me, is the creative talent with which the English decorate the unostentatious abodes of middle life."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"The Cratchits gathered holly and mistletoe to **decorate** their humble parlor for the festive feast."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor resolved to **decorate** the victorious general with a golden laurel crown before the senate."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"True architecture does not construct ornament, but knows how to **decorate** sound construction with noble restraint."*

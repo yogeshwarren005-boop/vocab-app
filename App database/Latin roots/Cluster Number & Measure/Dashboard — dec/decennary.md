@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decennary
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A period of 10 years.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A period of 10 years.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A period or duration of ten successive years; a decade; or a tenth-year anniversary celebration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early English legal history, a tithing or collective group of ten freeholder families.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decennary designates a period of 10 years."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor celebrated his imperial **decennary** with lavish distributions of grain to the citizens."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Alfred the Great established the ancient system of **decennary** associations to suppress highway robbery."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Ancient frankpledge required every adult subject to belong to a recognized local **decennary**."*

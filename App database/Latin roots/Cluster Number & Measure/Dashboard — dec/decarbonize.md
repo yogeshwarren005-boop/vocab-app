@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decarbonize
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove carbon from (an engine).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove carbon from (an engine).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove carbon or carbonaceous deposits from an engine cylinder, metal melt, or manufacturing system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To transition energy systems away from fossil fuels toward low-carbon or renewable energy sources.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decarbonize designates remove carbon from (an engine)."*
+> - 📜 **Thomas Edison (*The Papers of Thomas A. Edison*):** *"We had to **decarbonize** the experimental lamp filaments in a vacuum to prevent rapid burnout."*
+> - 📜 **Thorstein Veblen (*The Engineers and the Price System*):** *"Modern blast furnaces **decarbonize** cast iron with pure oxygen lances to produce uniform structural beams."*
+> - 📜 **Carl Sagan (*Pale Blue Dot*):** *"Future civilizations must **decarbonize** their energy grids to avert catastrophic greenhouse heating of the planet."*

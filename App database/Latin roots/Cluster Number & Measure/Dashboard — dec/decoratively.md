@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decoratively
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a decorative manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a decorative manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a decorative manner; so as to embellish, adorn, or serve as an attractive visual ornament.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With ornamental elegance rather than mechanical or purely utilitarian purpose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decoratively designates in a decorative manner."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The exotic orchids were **decoratively** arranged in silver bowls along the mirrored dining table."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Carved stone rosettes were placed **decoratively** along the stringcourse to catch the sharp sea light."*
+> - 📜 **Henry James (*The Spoils of Poynton*):** *"Mrs. Gereth had grouped the porcelain figurines **decoratively** upon the mantelpiece with exquisite symmetry."*

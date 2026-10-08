@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decumaria
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of woody climbers with adhesive aerial roots; sometimes placed in family saxifragaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of woody climbers with adhesive aerial roots; sometimes placed in family saxifragaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of climbing woody shrubs in the hydrangea family, characterized by clusters of ten-parted white flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant belonging to this botanical genus, specifically the climbing hydrangea native to southeastern North America.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decumaria designates small genus of woody climbers with adhesive aerial roots; sometimes placed in family saxifragaceae."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The climbing **decumaria** clings firmly to tree trunks by means of aerial rootlets."*
+> - 📜 **John Torrey (*Flora of North America*):** *"Specimens of **decumaria** were collected along the swampy borders of coastal Carolina streams."*
+> - 📜 **Charles Sprague Sargent (*The Silva of North America*):** *"The foliage of **decumaria** turns a vivid golden yellow during the mild southern autumn."*

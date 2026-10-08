@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decolonization
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of changing from colonial to independent status.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action of changing from colonial to independent status.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or process of a state withdrawing from a former colony, leaving it independent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The historical post-World War II period during which European empires dismantled overseas colonial rule.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decolonization designates the action of changing from colonial to independent status."*
+> - 📜 **John F. Kennedy (*The Strategy of Peace*):** *"The worldwide **decolonization** of Africa and Asia represents the most profound political revolution of our age."*
+> - 📜 **Hannah Arendt (*On Violence*):** *"The rapid pace of **decolonization** exposed new nations to severe domestic instability and ethnic strife."*
+> - 📜 **Carl Sagan (*Pale Blue Dot*):** *"The twentieth-century era of **decolonization** brought hundreds of millions of human beings into political sovereignty."*

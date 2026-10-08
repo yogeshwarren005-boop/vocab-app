@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decrepitate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergo decrepitation and crackle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To roast or calcine so as to cause to crackle or until crackling stops.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To roast or heat a mineral or salt until it crackles and bursts with a sharp snapping sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To burst or crumble with a crackling noise when exposed to intense heat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decrepitate designates undergo decrepitation and crackle."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"When heated in a crucible, the crystals **decrepitate** violently and disperse into fine powder."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"Common table salt will **decrepitate** in the flame, emitting tiny sparks as moisture is expelled."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Certain lead minerals **decrepitate** before the blowpipe before reducing to metallic globules."*

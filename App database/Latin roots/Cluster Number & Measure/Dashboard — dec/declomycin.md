@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # declomycin
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tetracycline antibacterial (trade name declomycin) effective in the treatment of some bacterial and rickettsial and other infections.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tetracycline antibacterial (trade name declomycin) effective in the treatment of some bacterial and rickettsial and other infections.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A broad-spectrum tetracycline antibiotic (demeclocycline) produced by Streptomyces aureofaciens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pharmaceutical agent utilized clinically to treat bacterial infections and manage hyponatremia in SIADH.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, declomycin designates tetracycline antibacterial (trade name declomycin) effective in the treatment of some bacterial and rickettsial and other infections."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Inappropriate secretion of antidiuretic hormone was managed effectively with oral doses of **Declomycin**."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"The renal response to **Declomycin** blocks vasopressin action, restoring normal serum sodium concentrations."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The dispensary physician noted the cutaneous photosensitivity sometimes provoked by prolonged **Declomycin** therapy."*

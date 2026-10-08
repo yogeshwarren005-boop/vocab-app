@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decode
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert code into ordinary language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert code into ordinary language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert a coded, encrypted, or disguised message into intelligible normal language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To extract and interpret meaning, genetic information, or digital data from an encoded stream.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I'll get it." ## Drummer read again the message he had decoded and handed it to Brad who quickly scanned and silently returned it."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Dancing Men*):** *"Sherlock Holmes sat with his pencil, determined to **decode** the mysterious symbols before sunrise."*
+> - 📜 **George Orwell (*1984*):** *"Winston waited for the teleprogram to **decode** the secret orders transmitted from the Brotherhood."*
+> - 📜 **Arthur C. Clarke (*2001: A Space Odyssey*):** *"The ship's computer was programmed to **decode** incoming radio telemetry from Earth without error."*

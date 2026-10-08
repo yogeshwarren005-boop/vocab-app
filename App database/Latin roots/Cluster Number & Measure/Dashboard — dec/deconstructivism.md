@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # deconstructivism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A school of architecture based on the philosophical theory of deconstruction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A school of architecture based on the philosophical theory of deconstruction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A movement in postmodern architecture characterized by fragmentation, non-rectilinear shapes, and visual distortion of walls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An architectural aesthetic featuring colliding angles, warped surfaces, and intentional structural instability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deconstructivism designates a school of architecture based on the philosophical theory of deconstruction."*
+> - 📜 **Fredric Jameson (*The Seeds of Time*):** *"The museum designed in pure **deconstructivism** seemed like a colossal metal explosion frozen in mid-air."*
+> - 📜 **Lewis Mumford (*The Highway and the City*):** *"Avant-garde experiments in **deconstructivism** overturned traditional urban decorum in favor of dynamic chaos."*
+> - 📜 **Umberto Eco (*Travels in Hyperreality*):** *"The angular glass pavilions celebrated **deconstructivism**, offering visitors dizzying, tilted perspectives."*

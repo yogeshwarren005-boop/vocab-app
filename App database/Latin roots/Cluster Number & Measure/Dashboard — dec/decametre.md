@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decametre
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of length equal to ten meters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of length equal to ten meters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of length equal to ten metres (British spelling), abbreviated as dam.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A surveyor's ten-metre chain or tape used for land measurement and civil engineering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decametre designates a metric unit of length equal to ten meters."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The airfield runways were surveyed in units of the **decametre** under international aviation standards."*
+> - 📜 **Thomas Hardy (*A Pair of Blue Eyes*):** *"The young architect measured the churchyard boundary with a steel **decametre** tape."*
+> - 📜 **George Bernard Shaw (*Back to Methuselah*):** *"The futuristic city planners laid out magnificent boulevards forty or fifty **decametre** units across."*

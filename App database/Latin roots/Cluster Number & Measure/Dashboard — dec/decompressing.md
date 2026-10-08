@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decompressing
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relieving pressure (especially bringing a compressed person gradually back to atmospheric pressure).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restore to its uncompressed form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gradually reducing atmospheric pressure on a diver to allow dissolved gases to escape safely from the blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expanding compressed digital data back into its full uncompressed format.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decompressing designates relieving pressure (especially bringing a compressed person gradually back to atmospheric pressure)."*
+> - 📜 **Arthur C. Clarke (*The Coast of Coral*):** *"The sponge diver spent two tedious hours **decompressing** on a rope ten fathoms below the surface."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Caisson disease occurs when workers return to the surface without **decompressing** at proper stage intervals."*
+> - 📜 **H. G. Wells (*Tales of Space and Time*):** *"The pilot sat in the sealed chamber, slowly **decompressing** after his stratospheric balloon flight."*

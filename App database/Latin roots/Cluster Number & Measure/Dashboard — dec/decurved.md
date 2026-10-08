@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decurved
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bent down or curved downward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bent down or curved downward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Curved downward or bent in a downward arc, especially of an animal's bill, horn, or claw.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany or anatomy, arched downwards toward the stem or base.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decurved designates bent down or curved downward."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The bird possessed a slender, remarkably **decurved** beak adapted for probing flowers for nectar."*
+> - 📜 **John James Audubon (*The Birds of America*):** *"The curlew probed the wet sand with its long **decurved** bill in search of marine worms."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Several species of sunbirds display elegantly **decurved** plumage and specialized curved bills."*

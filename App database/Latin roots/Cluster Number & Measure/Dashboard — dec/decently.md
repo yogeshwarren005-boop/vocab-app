@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decently
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a decent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the right manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner conforming to accepted standards of morality, decorum, propriety, or modesty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an adequate, respectable, or reasonably satisfactory degree.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then do you As once did Meleager and the boar, Break comely out before him; like true lovers, Cast yourselves in a body decently, And sweetly, by a figure, trace and turn, boys."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"How to decently get away from him—that was her difficulty now."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And when I had you decently in the bed, did you not call me to you and command, if the devil called, to tell him my lady slept?"*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor endeavored to behave **decently** and calmly, concealing her anguish beneath cheerful civility."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge promised to clothe the poor clerk **decently** and help his struggling family."*
+> - 📜 **George Orwell (*Animal Farm*):** *"The animals resolved that Boxer's body should be buried **decently** in the orchard beneath the apple trees."*

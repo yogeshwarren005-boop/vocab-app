@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # undecipherably
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an illegible manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an illegible manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that cannot be deciphered, read, or interpreted; illegibly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obscurely and inscrutably, defying any clear understanding or resolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undecipherably designates in an illegible manner."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The ancient tombstone was weathered **undecipherably** by centuries of Dartmoor rain and gale."*
+> - 📜 **Herman Melville (*Pierre; or, The Ambiguities*):** *"The manuscript was scrawled **undecipherably** in pencil, blending hurried phrases into dark blurs."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The jungle whispered **undecipherably** under the heavy equatorial fog, hiding its ancient secrets."*

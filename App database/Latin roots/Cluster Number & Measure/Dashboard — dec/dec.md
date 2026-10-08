@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # dec
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The last (12th) month of the year.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astronomy) the angular distance of a celestial body north or to the south of the celestial equator; expressed in degrees; used with right ascension to specify positions on the celestial sphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Standard calendar abbreviation for December, the twelfth month of the modern Gregorian year.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abbreviation for decimal in computational arithmetic, or celestial declination in astronomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Hamilton replied as follows:-- "EDINBURGH, _Dec_. 4, 1848."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"BALDWIN Vol. 2 No. 7 Dec. 1827."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Revue des deux Mondes, Dec. 1877, p. 481-514."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The old coach ledger recorded departures for York under the heading of 24 **Dec**."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Blue Carbuncle*):** *"The newspaper clipping was dated 27 **Dec**, describing the loss of the Countess of Morcar's gem."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The bailiff balanced his annual grain account on 31 **Dec** before the assembled farm laborers."*

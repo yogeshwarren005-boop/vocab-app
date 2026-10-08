@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # declamatory
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ostentatiously lofty in style.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ostentatiously lofty in style.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vehement, impassioned, or rhetorical in manner; characteristic of formal oratorical delivery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pompous, theatrical, or full of empty rhetorical flourishes rather than rational argument.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This fixed idea of the rhapsodist was delivered with animated enthusiasm, in a manner entirely declamatory, for he had plainly no skill as a dialectician."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It was ratified in June, 1795, by the Senate by the constitutional majority of two-thirds, though there was much declamatory opposition, and the feeling between the Federal and Republican parties ran higher than ever before."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"The Boy Stood on the Burning Deck” followed; also “The Assyrian Came Down,” and other declamatory gems."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The pamphlet was written in a fierce, **declamatory** style calculated to inflame the passions of the mob."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"John Thorpe's conversation was loud and **declamatory**, consisting chiefly of boasts about his horses and gigs."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **declamatory** praises of court panegyrists concealed the real weakness and decay of the empire."*

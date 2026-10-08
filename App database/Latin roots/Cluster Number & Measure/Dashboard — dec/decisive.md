@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decisive
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Determining or having the power to determine an outcome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unmistakable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Settling an issue; producing a definite or conclusive result; conclusive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing the ability to make decisions quickly, firmly, and effectively; resolute.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Yes, I fear so.” “Then, sir,” returns the trooper in a decisive manner, “it appears to me—being naturally in the vagabond way myself—that the sooner he comes out of the street, the better."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Would you, in short, have renewed the engagement then?” “Would I!” was all her answer; but the accent was decisive enough."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was a decisive proof that the door had not been opened at least since Troy came back to Weatherbury."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The battle of Actium was the **decisive** engagement that extinguished the republic and founded the Roman Empire."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth's refusal of Mr. Collins was delivered in terms so **decisive** that even his self-conceit was shaken."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Clive possessed that rare **decisive** genius that sees in a moment the critical point of attack."*

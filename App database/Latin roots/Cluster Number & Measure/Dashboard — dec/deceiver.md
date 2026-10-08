@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # deceiver
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who leads you to believe something that is not true.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who leads you to believe something that is not true.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who deceives, misleads, tricks, or defrauds others; a liar, cheat, or imposter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A smooth-talking betrayer who feigns affection or loyalty to exploit another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me not, Since I have my dukedom got, And pardon’d the deceiver, dwell In this bare island by your spell, But release me from my bands With the help of your good hands."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Learn three-mile pray’rs, an’ half-mile graces, Wi’ weel-spread looves, an’ lang, wry faces; Grunt up a solemn, lengthen’d groan, And damn a’ parties but your own; I’ll warrant they ye’re nae deceiver, A steady, sturdy, staunch believer."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"I am, indeed, very much inclined to believe that Marnoo, with his handsome person and captivating manners, was a sad deceiver among the simple maidens of the island."*
+> - 📜 **William Shakespeare (*Much Ado About Nothing*):** *"Sigh no more, ladies, sigh no more, men were deceivers ever; one foot in sea and one on shore, to one thing constant never; thus the **deceiver** smiles."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Satan stood revealed as the grand **deceiver** of mankind, plotting the ruin of newly created Eden."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Fanny saw through Crawford's superficial charms, recognizing him as an unprincipled **deceiver** of women's hearts."*

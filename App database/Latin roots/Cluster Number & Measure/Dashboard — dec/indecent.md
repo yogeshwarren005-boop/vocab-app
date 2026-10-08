@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # indecent
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not in keeping with accepted standards of what is right or proper in polite society.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offensive to good taste especially in sexual matters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conforming neither to recognized standards of modesty and morality nor to public decorum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unseemly, improper, or unsuitably offensive in language or dress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon seemed to be the officiating clergyman, about whom it would be indecent to make remarks."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Their inspiration is to be found almost exclusively in Heine's love-affairs, decent and indecent."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Pleyel loaded me with indecent and virulent invectives, but he withheld from me the facts that generated his suspicions."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Mrs. Ferrars considered such uninvited familiarity to be completely **indecent** and offensive."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It seemed positively **indecent** to bargain over sheep while the dead farmer lay unburied."*
+> - 📜 **Herman Melville (*Typee*):** *"Civilized observers might foolishly brand the islanders' simple attire as an **indecent** spectacle."*

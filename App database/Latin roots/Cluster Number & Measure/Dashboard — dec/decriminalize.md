@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decriminalize
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make legal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make legal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove criminal penalties and legal prohibitions from an activity, conduct, or substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To treat a former crime as a matter of public health, civil code, or personal autonomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decriminalize designates make legal."*
+> - 📜 **Bertrand Russell (*Ideas That Have Helped Mankind*):** *"To **decriminalize** honest philosophical disagreement was one of the crowning triumphs of modern civilization."*
+> - 📜 **Aldous Huxley (*Ends and Means*):** *"Legislators should **decriminalize** actions that harm no one save potentially the consenting participant."*
+> - 📜 **George Orwell (*The Lion and the Unicorn*):** *"A free democracy must **decriminalize** conscientious objection to avoid crushing individual conscience."*

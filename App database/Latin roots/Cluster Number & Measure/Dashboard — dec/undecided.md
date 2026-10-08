@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # undecided
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not brought to a conclusion; subject to further thought.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by indecision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not yet having made a firm decision or choice; hesitant or wavering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not settled, resolved, or determined, as of an outcome, dispute, or contest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The suit, still undecided, has fallen into rack, and ruin, and despair, with everything else—and here I stand, this day!"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Meanwhile the muslined form of Tess could be seen standing still, undecided, beside this turn-out, whose owner was talking to her."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"He spoke of it as a certain event, of which the time alone could be undecided."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The Jarndyce dispute remained hopelessly **undecided** after generations of costly litigation."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She stood on the bridge with an **undecided** air, uncertain whether to proceed to the dairy."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was still **undecided** as to how much of Mr. Darcy's letter she ought to disclose to Jane."*

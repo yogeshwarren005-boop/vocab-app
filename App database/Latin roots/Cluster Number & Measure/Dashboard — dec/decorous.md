@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decorous
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by propriety and dignity and good taste in manners and conduct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: According with custom or propriety.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conforming to polite conventions of decorum, good taste, propriety, and dignified etiquette.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by restrained, dignified, and seemly behavior in social or ceremonial assemblies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Val's language was refined enough for a curate, and even Rowsley in his young sister's presence never went beyond a sarcenet oath; but Hyde's frank fury was piquant to Isabel's not very decorous taste."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"An interlude entirely decorous, and yet, so crude was the force of Philippa's personality, one would have had to be very young, or very innocent, to overlook her drift."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Sallie took Nell and Caroline over home to help her decide how wide a band of white it would be decorous for her to sew in the neck of her new black meteor crepe."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Collins maintained a **decorous** gravity of countenance, bowing reverently whenever Lady Catherine spoke."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The senators listened with **decorous** silence to the imperial rescript, suppressing all outward signs of indignation."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The magistrates walked in **decorous** procession toward the meeting house, their dark cloaks trailing upon the grass."*

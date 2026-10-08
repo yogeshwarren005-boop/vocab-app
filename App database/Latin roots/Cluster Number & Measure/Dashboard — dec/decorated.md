@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decorated
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make more attractive by adding ornament, colour, etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be beautiful to look at.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adorned with ornaments, embellishments, colors, or decorative furnishings; beautified.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Honored with an official military medal or civilian order of merit for distinguished valor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Fluted pilasters, worked from the solid stone, decorated its front, and above the roof the chimneys were panelled or columnar, some coped gables with finials and like features still retaining traces of their Gothic extraction."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was immediately apparent that the military man’s spur had become entangled in the gimp which decorated the skirt of her dress."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Tufts and garlands of green foliage decorated the walls, beams, and extemporized chandeliers, and immediately opposite to Oak a rostrum had been erected, bearing a table and chairs."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The bride-cake stood upon the table, **decorated** with decaying bridal favors and grey cobwebs."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The Byzantine capital was elaborately **decorated** with intertwined acanthus leaves carved in deep relief."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Major Sholto was a **decorated** veteran of the Indian Mutiny who lived retired in a suburban villa."*

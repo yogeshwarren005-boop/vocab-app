@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decameter
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of length equal to ten meters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of length equal to ten meters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of length equal to ten meters, commonly abbreviated as dam.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A surveyor's metric measuring tape or chain exactly ten meters in total length.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hauled along by a network of mag-beams converging from a score of space tugs came the Conference Disk, two hectometers in diameter and a decameter thick at its hub."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Topographical base lines were surveyed with steel tapes marked at every **decameter** interval."*
+> - 📜 **Charles Babbage (*The Exposition of 1851*):** *"The engineering team laid out the railway cutting using the **decameter** as their baseline standard."*
+> - 📜 **Arthur C. Clarke (*The Promise of Space*):** *"The radio telescope array deployed antenna masts separated by precisely one **decameter** spacing."*

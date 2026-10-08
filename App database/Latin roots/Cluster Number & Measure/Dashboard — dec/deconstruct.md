@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # deconstruct
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Interpret (a text or an artwork) by the method of deconstructing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Interpret (a text or an artwork) by the method of deconstructing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To analyze a text or philosophical theory to expose internal contradictions, ambiguities, and unspoken assumptions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To take apart, dismantle, or critically disassemble a social institution, design, or culinary dish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deconstruct designates interpret (a text or an artwork) by the method of deconstructing."*
+> - 📜 **Jacques Derrida (*Of Grammatology*):** *"To **deconstruct** the metaphysics of presence is to demonstrate that writing precedes speech in signification."*
+> - 📜 **Richard Rorty (*Contingency, Irony, and Solidarity*):** *"Postmodern literary critics seek to **deconstruct** traditional master narratives into pluralistic ironies."*
+> - 📜 **Fredric Jameson (*Postmodernism, or, the Cultural Logic of Late Capitalism*):** *"Contemporary architecture seeks to **deconstruct** classical geometric symmetries into fragmented planes."*

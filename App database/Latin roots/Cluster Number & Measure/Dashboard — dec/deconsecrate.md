@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # deconsecrate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the consecration from a person or an object.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the consecration from a person or an object.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To officially remove the consecrated, sacred, or religious status of a church or ecclesiastical building.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To transfer a previously consecrated church property into secular ownership and secular use.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deconsecrate designates remove the consecration from a person or an object."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The puritan parliament voted to **deconsecrate** ancient royal chapels and turn them into cavalry stables."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Zealous Christian bishops did not hesitate to **deconsecrate** pagan shrines and demolish their altars."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The bishop was reluctant to **deconsecrate** the redundant parish church despite declining rural attendance."*

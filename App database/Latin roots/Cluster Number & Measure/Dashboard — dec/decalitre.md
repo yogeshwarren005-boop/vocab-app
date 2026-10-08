@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decalitre
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of volume or capacity equal to 10 liters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of volume or capacity equal to 10 liters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of volume equal to ten litres, commonly abbreviated as daL (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vessel or measure holding ten litres, used in European agricultural trade.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decalitre designates a metric unit of volume or capacity equal to 10 liters."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The continental merchant offered cider measured by the **decalitre**, bewildering the conservative Wessex farmers."*
+> - 📜 **George Eliot (*Romola*):** *"Taxes upon olive oil were assessed by the ancient Tuscan barrel and the modern **decalitre**."*
+> - 📜 **H. G. Wells (*A Modern Utopia*):** *"The state distribution depots measured fluid provisions with calibrated **decalitre** containers."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decapod
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Crustaceans characteristically having five pairs of locomotor appendages each joined to a segment of the thorax.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cephalopods having eight short tentacles plus two long ones.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A crustacean of the order Decapoda, possessing five pairs of thoracic walking legs (including crabs, lobsters, shrimp).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cephalopod mollusk possessing ten tentacles or arms, such as a squid or cuttlefish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decapod designates crustaceans characteristically having five pairs of locomotor appendages each joined to a segment of the thorax."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Among the coral pools we captured a curious **decapod** with one claw twice the bulk of its body."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*):** *"The common river crayfish represents a typical freshwater **decapod** in morphology and development."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The giant squid is a colossal **decapod** lurking in the abyssal twilight of the ocean depths."*

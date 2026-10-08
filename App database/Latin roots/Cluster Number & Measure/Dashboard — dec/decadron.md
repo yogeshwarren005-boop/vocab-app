@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decadron
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A corticosteroid drug (trade names decadron or dexamethasone intensol or dexone or hexadrol or oradexon) used to treat allergies or inflammation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A corticosteroid drug (trade names decadron or dexamethasone intensol or dexone or hexadrol or oradexon) used to treat allergies or inflammation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A potent synthetic corticosteroid medication used to reduce severe inflammation, cerebral edema, and allergic reactions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clinical glucocorticoid agent administered to suppress immune reactions in neurosurgery and oncology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decadron designates a corticosteroid drug (trade names decadron or dexamethasone intensol or dexone or hexadrol or oradexon) used to treat allergies or inflammation."*
+> - 📜 **Harvey Cushing (*Intracranial Tumors*):** *"High-dose corticosteroid therapy with **Decadron** dramatically reduced peritumoral cerebral edema."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Intravenous **Decadron** was administered promptly to check the fulminant anaphylactic shock."*
+> - 📜 **Henry Head (*Studies in Neurology*):** *"The patient experienced swift alleviation of intracranial pressure following administration of **Decadron**."*

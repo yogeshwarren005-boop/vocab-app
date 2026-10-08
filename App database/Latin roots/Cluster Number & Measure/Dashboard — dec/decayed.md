@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decayed
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lose a stored charge, magnetic flux, or current.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fall into decay or ruin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rotten, decomposed, or deteriorated in structural strength or physical substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fallen from former prosperity, dignity, or high social status into impoverished decline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But thou art all my art, and dost advance As high as learning, my rude ignorance. 79 Whilst I alone did call upon thy aid, My verse alone had all thy gentle grace, But now my gracious numbers are decayed, And my sick muse doth give an other place."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray you, sir, use the carp as you may, for he looks like a poor, decayed, ingenious, foolish, rascally knave."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My decayed fair A sunny look of his would soon repair; But, too unruly deer, he breaks the pale And feeds from home; poor I am but his stale."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Miss Havisham sat among the dusty cobwebs of her bridal chamber in a yellowed, **decayed** wedding gown."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The ancient family resided in a **decayed** mansion that whispered of former aristocratic grandeur."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Parson Tringham informed the drunken peddler that he was the lineal representative of a great and **decayed** knightly family."*

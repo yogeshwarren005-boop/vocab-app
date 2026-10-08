@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # declaim
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Recite in elocution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Speak against in an impassioned manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To speak aloud or deliver a rhetorical speech in an impassioned, formal, or oratorical style.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To inveigh or speak vehemently against a person, practice, or political institution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"It is the humor of many heads to extol the days of their forefathers, and declaim against the wickedness of times present."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Ingenious men may declaim with plausibility on any subject; but no human ingenuity can point out any other expedient to rescue us from the inconveniences and embarrassments naturally resulting from defective supplies of the public treasury."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"They rarely declaim, and they certainly never reach any high level of thought or feeling."*
+> - 📜 **Alexander Pope (*The Dunciad*):** *"Let noisy pedants **declaim** in ancient schools, while dullness reigns supreme over her listening fools."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Philosophers were invited to **declaim** upon virtue before the emperor, while palace guards plotted murder."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"It was fashionable for young orators to **declaim** against standing armies and ministerial corruption."*

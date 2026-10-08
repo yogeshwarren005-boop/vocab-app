@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decentralization
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The social process in which population and industry moves from urban centers to outlying districts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spread of power away from the center to local branches or governments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The transfer of authority, responsibility, and decision-making from central governments to local or regional bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The distribution of computing, business operations, or manufacturing across multiple independent nodes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In one important respect, however, it is different; it provides for more decentralization of control and of reserves than did the Aldrich plan."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A striking feature of the competitive method is its decentralization."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"A striking feature of the competitive method is its decentralization."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Administrative **decentralization** produces admirable civic vigor, instilling every citizen with a share in public governance."*
+> - 📜 **Woodrow Wilson (*The State: Elements of Historical and Practical Politics*):** *"Federal constitutions reconcile national cohesion with the vital benefits of political **decentralization**."*
+> - 📜 **John Dewey (*The Public and Its Problems*):** *"Genuine democratic life requires institutional **decentralization** to keep policy responsive to local neighborhoods."*

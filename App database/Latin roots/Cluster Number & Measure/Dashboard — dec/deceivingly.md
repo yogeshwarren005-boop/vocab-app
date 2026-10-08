@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # deceivingly
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a misleading way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a misleading way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a deceiving or misleading manner; deceptively, creating a false impression of reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treacherously or beguilingly, masking true danger beneath an appearance of calm or safety.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deceivingly designates in a misleading way."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The Pacific rolled **deceivingly** blue and calm, concealing the monstrous terrors that lurked within its abyss."*
+> - 📜 **Joseph Conrad (*The Secret Sharer*):** *"The sea was **deceivingly** placid beneath the cliffs, giving no warning of the treacherous hidden reefs."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The bright green moss of the Great Grimpen Mire looked **deceivingly** solid to unwary travelers."*

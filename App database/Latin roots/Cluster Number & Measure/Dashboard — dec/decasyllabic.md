@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decasyllabic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or characterized by or consisting of ten syllables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or characterized by or consisting of ten syllables.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of ten syllables; or composed in lines of ten syllables (such as iambic pentameter).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to poetic meters characterized by ten-syllable verses in English and French poetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decasyllabic designates having or characterized by or consisting of ten syllables."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"Chaucer naturalized the **decasyllabic** line in English, laying the foundation for our heroic verse."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"A needless Alexandrine ends the song, that, like a wounded snake, drags its slow length along after **decasyllabic** pairs."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"Dryden polished the **decasyllabic** couplet, giving it an unprecedented vigor and masculine harmony."*

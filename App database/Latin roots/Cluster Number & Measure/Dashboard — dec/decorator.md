@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decorator
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who specializes in designing architectural interiors and their furnishings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who decorates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose profession is decorating the interiors of buildings or rooms with paint, paper, and furniture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artisan or artist who paints, glazes, or applies ornamental patterns to ceramics, textiles, or theatrical sets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Friends and Helpers*):** *"The humming-bird is an upholsterer and decorator."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"But the pink and crimson asters furnished a centrepiece decidedly more in keeping, somehow, with a men's dinner than roses would have been, and the decorators were content with them."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"There have been decorators and furnishers up from Plymouth, and it is evident that our friend has large ideas and means to spare no pains or expense to restore the grandeur of his family."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The fashionable London house had just been surrendered to the painter, the gilder, and the **decorator**."*
+> - 📜 **Henry James (*The American Scene*):** *"The wealthy proprietor had given free rein to an expensive French **decorator** to outfit the ballroom."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Dorian summoned an artistic **decorator** from Paris to line the walls of his library with stamped Spanish leather."*

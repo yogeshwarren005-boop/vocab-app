@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decolonize
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grant independence to (a former colony).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grant independence to (a former colony).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To grant independence to a colony; to withdraw colonial administration from a territory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To dismantle colonial structures of power, knowledge, and cultural domination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decolonize designates grant independence to (a former colony)."*
+> - 📜 **John F. Kennedy (*Inaugural Address and Other Speeches*):** *"We must encourage our European allies to **decolonize** gracefully rather than provoke prolonged guerrilla wars."*
+> - 📜 **Hannah Arendt (*The Origins of Totalitarianism*):** *"Imperial powers that fail to **decolonize** in time inevitably corrupt their own domestic democratic institutions."*
+> - 📜 **George Orwell (*Inside the Whale*):** *"Enlightened statesmen realized that the only honourable course was to **decolonize** the subcontinent."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decolor
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove color from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove color from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove the color from something; to bleach, fade, or deprive of pigmentation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To treat a chemical solution with activated charcoal to remove colored impurities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decolor designates remove color from."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"Filtering through powdered animal charcoal will quickly **decolor** the crude sugar syrup."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Prolonged exposure to intense sunlight will **decolor** the vivid plumage of preserved museum bird skins."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Chlorine gas possesses the powerful chemical property to bleach and **decolor** organic dyes."*

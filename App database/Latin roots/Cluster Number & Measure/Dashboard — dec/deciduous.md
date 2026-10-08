@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # deciduous
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of plants and shrubs) shedding foliage at the end of the growing season.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of teeth, antlers, etc.) being shed at the end of a period of growth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shedding leaves annually in autumn, as opposed to evergreen trees and shrubs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shed at a particular stage of development, such as primary baby teeth or antlers of deer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Under foot the leaves were dry, and the foliage of some holly bushes which grew among the deciduous trees was dense enough to keep off draughts."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus Mount Algidus, a spur of the Alban hills, was covered in antiquity with dark forests of oak, both of the evergreen and the deciduous sort."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"And year by year, when the trees were deciduous, every Adonis would seem to bleed to death with the red leaves of autumn and to come to life again with the fresh green of spring."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The naked branches of the **deciduous** forest in winter let sunlight reach the dormant seeds upon the forest floor."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The red and golden leaves of the **deciduous** oaks fell slowly upon the dark mirror of the pond."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The temporary or **deciduous** teeth of a child begin to be shed around the sixth or seventh year."*

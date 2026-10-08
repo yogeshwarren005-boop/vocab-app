@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decease
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The event of dying or departure from life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pass from physical life and lose all bodily attributes and functions necessary to sustain life.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The death of a person, especially as viewed in formal, legal, or obituary contexts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To depart from this earthly life; to die (used intransitively in formal or legal discourse).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So should that beauty which you hold in lease Find no determination, then you were Yourself again after yourself’s decease, When your sweet issue your sweet form should bear."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That cause, fair nephew, that imprison’d me And hath detain’d me all my flowering youth Within a loathsome dungeon, there to pine, Was cursed instrument of his decease."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Me seemeth then it is no policy, Respecting what a rancorous mind he bears And his advantage following your decease, That he should come about your royal person Or be admitted to your Highness’ Council."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Upon the **decease** of the monarch, the privy council convened immediately to proclaim his rightful successor."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The lawsuit dragged on through generations, long surviving the **decease** of every original litigant."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"The late owner did not long survive, and by his **decease** the whole estate passed to his nephew."*

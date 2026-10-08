@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decanter
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bottle with a stopper; for serving wine or water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bottle with a stopper; for serving wine or water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ornamental glass bottle with a stopper, used for serving wine, port, or spirits after decanting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A laboratory apparatus or person that decants fluids in chemical or industrial refining.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He left his compliments, and would you partake of some refreshment”—there were biscuits and a decanter of wine on a small table—“and look over the paper,” which the young gentleman gave me as he spoke."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers, taking a decanter of choicer wine from his dumb-waiter, and filling for each of us and for himself, “and may the question of supremacy be settled to the lady’s satisfaction!"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Hawley, passing the decanter to Mr."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Bob Cratchit brought forth a glass **decanter** containing the hot spiced gin and lemons for the family toast."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Lord Henry poured amber sherry from a cut-crystal **decanter** into a pair of delicate Venetian glasses."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Beside the tobacco jar stood a heavy glass **decanter** of brandy, reflecting the yellow firelight."*

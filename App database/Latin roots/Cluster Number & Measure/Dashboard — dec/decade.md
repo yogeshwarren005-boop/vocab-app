@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decade
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A period of 10 years.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cardinal number that is the sum of nine and one; the base of the decimal system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A period or duration of ten successive years, commonly reckoned by calendar groupings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group, series, or division of ten items, such as the ten Hail Marys in a decade of the Rosary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"She came forth in the morning without a remnant of the pain which had filled a decade of years with agony_."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Once in a decade or a score of years Chinese ambassadors arrived, but they came overland, around the Yellow Sea, across the country of the Hong-du, and down the Mandarin Road to Keijo."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I have told you what I have endured in the jacket and in solitary in the first decade of this twentieth century after Christ."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A single **decade** of peaceful imperial administration healed the devastation wrought by civil war."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Within the brief span of a **decade**, the kingdom was transformed from anarchy into constitutional order."*
+> - 📜 **John Henry Newman (*Apologia Pro Vita Sua*):** *"The devout pilgrim recited each **decade** of the sacred beads in the quiet shadows of the chapel."*

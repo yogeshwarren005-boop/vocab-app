@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # deco
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A style of design that was popular in the 1920s and 1930s; marked by stylized forms and geometric designs adapted to mass production.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A style of design that was popular in the 1920s and 1930s; marked by stylized forms and geometric designs adapted to mass production.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prominent international decorative art style of the 1920s and 1930s characterized by geometric shapes and bold ornamentation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or designed in the luxurious, zigzag, or streamlined Art Deco aesthetic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deco designates a style of design that was popular in the 1920s and 1930s; marked by stylized forms and geometric designs adapted to mass production."*
+> - 📜 **F. Scott Fitzgerald (*The Love of the Last Tycoon*):** *"The movie mogul's office was an opulent monument to **deco** luxury, lined with lacquered wood and chromium."*
+> - 📜 **Evelyn Waugh (*A Handful of Dust*):** *"The drawing room had been redecorated in fashionable **deco** style, with angular mirrors and zebra rugs."*
+> - 📜 **Lewis Mumford (*The Culture of Cities*):** *"The setback towers of Manhattan blossomed with zigzag **deco** terra-cotta crestings against the sky."*

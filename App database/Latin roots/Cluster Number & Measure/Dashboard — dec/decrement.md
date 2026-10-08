@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decrement
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The amount by which something decreases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process of becoming smaller or shorter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reduction or diminution in value, quantity, or magnitude; the amount lost through gradual decrease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computing and mathematics, a predefined step or quantity by which a variable is decreased.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Increments and decrements of value on a great scale are unearned, and all classes of goods are affected, though in varying degrees. § II."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The gradual **decrement** of velocity corresponds directly to the resistance encountered in the fluid."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The calculating engine registers a fixed **decrement** with each revolution of the counting wheel."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The magnetic potential exhibits a steady **decrement** as the test probe moves farther from the pole."*

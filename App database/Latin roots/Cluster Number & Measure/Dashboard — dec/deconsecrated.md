@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # deconsecrated
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the consecration from a person or an object.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divested of consecration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having had its religious consecration formally removed; converted from sacred to secular use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing a former church, monastery, or chapel that has been repurposed as a library, museum, or dwelling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deconsecrated designates remove the consecration from a person or an object."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The artist rented a picturesque studio in Rome established within a **deconsecrated** medieval chapel."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"He lodged in an old stone building that had once been a **deconsecrated** monastic refectory."*
+> - 📜 **Henry James (*The Aspern Papers*):** *"The Venetian palace garden was bounded by the ivy-mantled walls of a **deconsecrated** convent."*

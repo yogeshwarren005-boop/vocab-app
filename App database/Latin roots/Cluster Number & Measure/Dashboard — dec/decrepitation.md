@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decrepitation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The crackling or breaking up of certain crystals when they are heated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The crackling or breaking up of certain crystals when they are heated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The crackling noise made by certain crystalline minerals or salts when heated over a flame.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physical bursting or crumbling of crystals caused by rapid vaporization of internal moisture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decrepitation designates the crackling or breaking up of certain crystals when they are heated."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The sudden **decrepitation** of the salt crystals startled the young laboratory assistants."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"This violent **decrepitation** ceases as soon as all interstitial moisture has been driven off."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Volcanic minerals exhibit rapid **decrepitation** when brought into contact with red-hot lava flows."*

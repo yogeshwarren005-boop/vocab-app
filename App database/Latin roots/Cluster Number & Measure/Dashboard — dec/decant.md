@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decant
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pour out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pour out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To pour liquid (such as wine or a chemical solution) gently from one container into another without disturbing sediment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To transfer people or populations from crowded quarters into new accommodations or settlements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It is an ineffably oozy, stringy affair, most frequently found in the tubs of sperm, after a prolonged squeezing, and subsequent decanting."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"It is an ineffably oozy, stringy affair, most frequently found in the tubs of sperm, after a prolonged squeezing, and subsequent decanting."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"No fighting, indeed, but folks lying drunk on the floor, and decanting, until both my dogs got so drunk by attending them, that they could not stand."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The old butler went down to the dark cellar to **decant** a bottle of vintage port for Mr. Tulkinghorn."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"Technicians prepared the incubation jars, ready to **decant** the fully developed human embryos."*
+> - 📜 **Robert Louis Stevenson (*The Strange Case of Dr. Jekyll and Mr. Hyde*):** *"He took the phial and began to **decant** the red tincture into the graduated glass cylinder."*

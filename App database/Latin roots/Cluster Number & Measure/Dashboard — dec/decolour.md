@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decolour
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove color from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove color from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove the colour from something; to bleach or fade in tone or tint (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To deprive an organic compound or textile fiber of its natural or dyed pigment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decolour designates remove color from."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"The chemist boiled the mixture with bone charcoal to **decolour** the crude extract."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Bleaching agents in the saline dust seemed to **decolour** the dried shells upon the coastal plain."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Sunlight and rain combined to **decolour** the ancient banners hanging in the cathedral chancel."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # edecrin
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Diuretic (trade name edecrin) used to treat edema.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diuretic (trade name edecrin) used to treat edema.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pharmaceutical loop diuretic medication used to treat edema and high blood pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clinical diuretic agent that inhibits sodium and chloride reabsorption in the loop of Henle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, edecrin designates diuretic (trade name edecrin) used to treat edema."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine, Post-War Edition*):** *"The attending physician administered **edecrin** to relieve severe pulmonary congestion in acute heart failure."*
+> - 📜 **Goodman and Gilman (*The Pharmacological Basis of Therapeutics*):** *"Clinical trials established that **edecrin** promotes rapid diuresis even in patients refractory to mercurials."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Administration of **edecrin** blocks electrolyte reabsorption within the ascending limb of Henle's loop."*

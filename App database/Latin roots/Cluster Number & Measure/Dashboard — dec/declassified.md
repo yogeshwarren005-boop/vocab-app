@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # declassified
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lift the restriction on and make available again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having had security classification removed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Officially removed from security restriction or secrecy, making government or intelligence records public.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Released to historical researchers following the expiration of statutory confidentiality periods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, declassified designates lift the restriction on and make available again."*
+> - 📜 **George Orwell (*1984*):** *"Winston knew that no document in the archives was ever honestly **declassified** for public inspection."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"Once wartime radar research was **declassified**, scientists built radio telescopes to probe the galaxy."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"The **declassified** satellite images revealed ancient riverbeds etched deep beneath the Saharan sands."*

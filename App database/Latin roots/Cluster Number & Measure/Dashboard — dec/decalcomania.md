@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decalcomania
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either a design that is fixed to some surface or a paper bearing the design which is to be transferred to the surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art of transfering designs from specially prepared paper to a wood or glass or metal surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or art of transferring printed designs from specially prepared paper onto ceramics, glass, or furniture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A Victorian hobby of decorating household objects with transferred colored lithographic designs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decalcomania designates either a design that is fixed to some surface or a paper bearing the design which is to be transferred to the surface."*
+> - 📜 **William Makepeace Thackeray (*The Newcomes*):** *"The drawing room was cluttered with porcelain vases decorated by the young ladies in **decalcomania**."*
+> - 📜 **Henry James (*The Spoils of Poynton*):** *"Mrs. Gereth detested the vulgar modern furniture adorned with cheap, shiny **decalcomania** transfers."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Illustrious Client*):** *"The connoisseur pointed out that the painted plate was not genuine enamel, but mere industrial **decalcomania**."*

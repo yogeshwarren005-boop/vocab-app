@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decrepit
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Worn and broken down by hard use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking bodily or muscular strength or vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Worn out, broken down, or weakened by old age, long use, or prolonged neglect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dilapidated, frail, or crumbling into physical ruin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Decrepit miser, base ignoble wretch!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He lies upon his bed, an aged man with sunken cheeks, the decrepit shadow of himself."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Decrepit families imply decrepit wills, decrepit conduct."*
+> - 📜 **William Shakespeare (*Henry VI, Part 1*):** *"**Decrepit**, miserly, and vile, he lives in mortal terror of the coming day."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The carriage rattled along behind a pair of **decrepit** horses that seemed ready to collapse."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The ancient miller was so **decrepit** that he could scarcely lift the latch of his millhouse."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # indecisiveness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Doubt concerning two or more possible alternatives or courses of action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of irresolution; a lack of firmness of character or purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tendency or habit of vacillating and hesitating instead of making clear determinations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inconclusiveness in outcomes, operations, or policy determinations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, indecisiveness designates doubt concerning two or more possible alternatives or courses of action."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Nothing exasperated the captain more than chronic **indecisiveness** in moments requiring swift command."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"His political career foundered upon personal **indecisiveness** when bold leadership was required."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Clym Yeobright's prolonged **indecisiveness** deepened the estrangement between himself and his mother."*

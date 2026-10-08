@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decussate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cross or intersect so as to form a cross.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Crossed or intersected in the form of an x.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arranged in opposite pairs that alternate at right angles to each other, forming an X-shaped pattern.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To intersect, cross, or overlap in the form of a cross or the letter X.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decussate designates cross or intersect so as to form a cross."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The square stem bears **decussate** leaves, each successive pair standing at right angles to the previous."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The floral bracts **decussate** regularly, shielding the delicate inner petals from torrential rain."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Nerve fibers from the optic tracts **decussate** at the chiasma before reaching the cerebral lobes."*

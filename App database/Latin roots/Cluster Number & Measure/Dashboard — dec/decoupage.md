@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dec]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # decoupage
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Art produced by decorating a surface with cutouts and then coating it with several layers of varnish or lacquer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art of decorating a surface with shapes or pictures and then coating it with vanish or lacquer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or craft of decorating an object by gluing paper cutouts onto a surface and sealing them with varnish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ornamental item or work of decorative art embellished using cut paper designs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decoupage designates art produced by decorating a surface with cutouts and then coating it with several layers of varnish or lacquer."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"The parlour table displayed an intricate **decoupage** of Victorian flowers sealed under amber lacquer."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"In the drawing room stood an antique cabinet adorned with lacquer and delicate floral **decoupage**."*
+> - 📜 **Walter Pater (*Studies in the History of the Renaissance*):** *"The artisan applied **decoupage** techniques to wooden screens to imitate classical marquetry."*

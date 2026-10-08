@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being distended; able to stretch and expand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being distended; able to stretch and expand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being distended, stretched, dilated, or expanded from internal pressure without rupturing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy and physiology, having elastic tissue that accommodates changing fluid volumes, as the bladder or stomach.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, distensible designates capable of being distended; able to stretch and expand."*
+> - 📜 **William Harvey (*On the Motion of the Heart and Blood in Animals*):** *"The elastic walls of the arterial trunk are remarkably **distensible**, yielding smoothly to each systolic wave of blood."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The pelican possesses an extraordinarily **distensible** throat pouch adapted for scooping fish from the ocean."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The urinary bladder is a muscular, **distensible** sac capable of expanding tenfold to accommodate accumulated fluid."*

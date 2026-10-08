@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to or typical of europe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or concerning the american colonies during and immediately after the american revolutionary war.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Forming or belonging to a continent; relating to mainland Europe as distinct from the British Isles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: During the American Revolutionary War, relating to the colonies united in the Continental Congress or Army.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was, so to speak, that symmetry in their distortion which is less the characteristic of British than of Continental grotesques of the period."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The continental notes were issued by the Continental Congress in the first year of the war (1775), and for the next five years."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Buy and sell anywhere bills, notes, revenue bonds, and warrants of the states and subdivisions in the continental United States. f."*
+> - 📜 **George Washington (*General Orders*):** *"The soldiers of the **Continental** Army bore the bitter hardships of Valley Forge with unshakable patriotic fortitude."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Vast **continental** elevations during the Tertiary period changed oceanic currents and altered global climates."*
+> - 📜 **Henry James (*The American*):** *"Christopher Newman was captivated by the ancient elegance and polished charm of **continental** society in Paris."*

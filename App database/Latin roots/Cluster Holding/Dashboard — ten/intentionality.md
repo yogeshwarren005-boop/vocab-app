@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressive of intentions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressive of intentions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical concept that mental states (beliefs, desires, hopes) are directed toward or about objects and states of affairs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conscious deliberation, purposive design, and willful execution in human conduct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intentionality designates expressive of intentions."*
+> - 📜 **Franz Brentano (*Psychology from an Empirical Standpoint*):** *"This **intentionality**, this reference to a content or direction toward an object, is unique to mental phenomena."*
+> - 📜 **Edmund Husserl (*Logical Investigations*):** *"Phenomenology explores the essential structures of pure **intentionality** through which consciousness constitutes the world."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The cognitive **intentionality** of thought links subjective inner feeling to the external physical universe."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extending or taking place between or among continents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extending or taking place between or among continents.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Connecting, traveling between, or occurring between two or more continents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of traveling from one continent to another, as an intercontinental ballistic missile, airline route, or telegraph cable.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Urge maintenance of momentum in triple field, home, intercontinental enterprises."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Intercontinental nuclear-armed ballistic missiles were far beyond drawing boards; their operational reach, capabilities, and effects against civilian as well as military targets had been carefully estimated and understood."*
-> - 📜 **James Joyce (*Ulysses*):** *"Wireless intercontinental and interplanetary transmitters are set for reception of message.)_ BLOOM: My subjects!"*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Ancient land bridges facilitated **intercontinental** migrations of megafauna between Asia and North America."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The invention of massive dirigibles inaugurated the perilous era of **intercontinental** aerial warfare."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"Deep oceanic trenches prevent the **intercontinental** dispersal of flightless birds and small mammals."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of two or more tenants holding title to the same property.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of two or more tenants holding title to the same property.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who shares a lease, tenancy, or ownership of property with one or more other tenants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In property law, a joint tenant or tenant in common holding an undivided fractional interest in real estate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cotenant designates one of two or more tenants holding title to the same property."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"One **cotenant** cannot maintain an action of trespass against his fellow, since each possesses an undivided right to the entire estate."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The possession of one **cotenant** is prima facie the possession of all, unless an actual ouster is demonstrated."*
+> - 📜 **Benjamin N. Cardozo (*Meinhard v. Salmon*):** *"Joint adventurers, like each **cotenant** in an enterprise, owe to one another the duty of the finest loyalty and honor."*

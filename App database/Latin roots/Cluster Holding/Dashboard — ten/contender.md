@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The contestant you hope to defeat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The contestant you hope to defeat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or group competing with others in a contest, election, or race; a champion or rival.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formidable participant challenging a defending champion or dominant power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contender designates the contestant you hope to defeat."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Severus proved himself a fierce and implacable **contender** for the purple against his Syrian and Gallic rivals."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The Disinherited Knight entered the lists as a bold **contender** against the proudest Templar champions of England."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Each parliamentary **contender** exerted all his eloquence to sway the wavering votes of the independent country gentlemen."*

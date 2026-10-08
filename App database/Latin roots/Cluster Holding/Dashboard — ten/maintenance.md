@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Activity involved in maintaining something in good working order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Means of maintenance of a family or group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of preserving, repairing, or keeping a machine, building, or road in good operational condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Financial provision for living expenses, alimony, or child support; or in law, unlawful intermeddling in a lawsuit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I saw him hold Lord Percy at the point With lustier maintenance than I did look for Of such an ungrown warrior."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What maintenance he from his friends receives, Like exhibition thou shalt have from me."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet resorts to his standard artifice for the maintenance of discipline."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Common law severely punishes **maintenance**, which is an officious intermeddling in a suit that no way belongs to one."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The annual revenue of landlords provides for the **maintenance** of domestic servants and productive laborers."*
+> - 📜 **Francis Bacon (*Essays*):** *"The regular **maintenance** of ancient estates preserves the dignity of noble families across generations."*

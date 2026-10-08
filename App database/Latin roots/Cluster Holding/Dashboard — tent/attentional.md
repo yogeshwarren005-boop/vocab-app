@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to attention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to attention.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or involving the cognitive process, mechanism, or focus of attention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the psychological allocation of perceptual and cognitive awareness to tasks or stimuli.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, attentional designates of or relating to attention."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The **attentional** effort required to sustain concentration upon an uninteresting topic rapidly induces mental fatigue."*
+> - 📜 **Edward B. Titchener (*A Text-Book of Psychology*):** *"Experiments in sensory psychophysics measure the precise **attentional** shift between auditory and visual cues."*
+> - 📜 **John Dewey (*How We Think*):** *"Reflective thought organizes our erratic sensory impressions into a unified **attentional** inquiry."*

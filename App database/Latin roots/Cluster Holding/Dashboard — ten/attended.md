@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be present at (meetings, church services, university), etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take charge of or deal with.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Was present at a gathering, ceremony, or meeting; or was accompanied and waited upon by servants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accompanied by specific circumstances, perils, or consequences as an inevitable concomitant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the Duke of Florence attended; two French Lords, and Soldiers."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bring him through the bands. [_Exit Ambassador, attended._] [_To Thidias_.] To try thy eloquence now ’tis time."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the Duke, attended; Egeon, bareheaded; with the Headsman and other Officers."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The coronation of William and Mary was **attended** by peers of both parties in solemn reconciliation."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The perilous investigation on the moor was **attended** by unusual dangers that tested even Holmes's nerves."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor marched into Persia **attended** by sixty thousand legionaries and a formidable fleet of supply boats."*

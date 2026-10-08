@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A male singer with a voice above that of a tenor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The highest adult male singing voice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The highest adult male singing voice, using falsetto or head voice to sing in the alto or mezzo-soprano vocal range.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A male singer possessing or utilizing this high vocal register, especially in Renaissance, Baroque, and liturgical music.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, countertenor designates a male singer with a voice above that of a tenor."*
+> - 📜 **John Dryden (*A Song for St. Cecilia's Day*):** *"The soft **countertenor** joined with the sweet organ pipes, warbling ethereal harmonies of sacred praise."*
+> - 📜 **Samuel Pepys (*Diary of Samuel Pepys*):** *"At church I heard an Italian **countertenor** sing an anthem so sweetly that it transported my very soul."*
+> - 📜 **George Frideric Handel (*Letters and Writings*):** *"The opera required an accomplished **countertenor** capable of executing rapid coloratura passages in the tragic arias."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With equanimity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With equanimity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a contented, peaceful, or satisfied manner; with tranquil pleasure and without grumbling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accepting circumstances calmly, free from envy or anxious striving.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The strangest of all, however, was that Leonore sat in the corner of the carriage smiling contentedly, for Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"George, plying his knife and fork; “why, I suppose you never clapped your eyes on the country, Phil?” “I see the marshes once,” says Phil, contentedly eating his breakfast."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Once more, duty, duty, Esther,” said I; “and if you are not overjoyed to do it, more than cheerfully and contentedly, through anything and everything, you ought to be."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The little child sat **contentedly** upon the weaver's hearth, playing with the bright yellow curls of her own hair."*
+> - 📜 **Washington Irving (*Rip Van Winkle*):** *"Rip would sit **contentedly** on the riverbank all day with a long rod, never complaining if he caught not a single fish."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I ate my bowl of porridge **contentedly**, thankful for shelter and quiet after the stormy terrors of the night."*

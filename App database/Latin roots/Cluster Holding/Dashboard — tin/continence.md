@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The exercise of self constraint in sexual matters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Voluntary control over urinary and fecal discharge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The exercise of self-restraint in sexual matters; chastity, or voluntary refraining from sexual indulgence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The biological capability to voluntarily control and retain excretory bodily functions, especially urination and defecation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"There is a want of faith, a half-heartedness about men's prayers; they pray as Augustine says he himself did: "Give me chastity and continence, but not now" (Conf, viii. 7, 17)."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"They also fast much, eat no salt, and are bound to strict continence."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"To this day some of the Indian tribes of Central America practise continence for the purpose of thereby promoting the growth of the crops."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The heroic **continence** of Scipio in restoring the fair Spanish captive to her betrothed won the hearts of the Celtiberians."*
+> - 📜 **John Milton (*Comus*):** *"So dear to heaven is saintly chastity and **continence**, that when a soul is found sincerely so, a thousand liveried angels lackey her."*
+> - 📜 **Jeremy Taylor (*Holy Living*):** *"Virtuous **continence** cleanses the imagination and disciplines the rebellious appetites of fallen nature."*

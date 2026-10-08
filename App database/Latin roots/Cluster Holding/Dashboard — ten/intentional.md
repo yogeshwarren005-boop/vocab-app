@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by conscious design or purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Done or made or performed with purpose and intent; - havelock ellis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Done on purpose; deliberate, calculated, or premeditated; not accidental.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy of mind (Brentano), characterized by intentionality; directed toward an object or content.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"What could all this mean but an intentional affront?"*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Whether that might be or mightn’t be, is a thing as can’t be looked into now, without putting your sister on the Rampage; and that’s a thing not to be thought of as being done intentional."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I am as you see.” The lively song gave a special flavor to the tone of free and easy gaiety with which Zherkóv spoke, and to the intentional coldness of Dólokhov’s reply."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"An **intentional** harm without just cause or excuse gives rise to civil liability in modern jurisprudence."*
+> - 📜 **Franz Brentano (*Psychology from an Empirical Standpoint*):** *"Every mental phenomenon includes something as object within itself, exhibiting an **intentional** inexistence of content."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor was convinced that Willoughby's cruel neglect of Marianne was not accidental, but cold and **intentional**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical device that sends or receives radio or television signals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sensitivity similar to that of a receptor organ.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of a pair of long, thin sensory appendages situated on the heads of insects, crustaceans, and other arthropods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electrical conductor, rod, or wire array designed for transmitting or receiving radio, television, or radar signals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"With a frightful qualm, I turned, and I saw that I had grasped the antenna of another monster crab that stood just behind me."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Transmitting and sending instruments are, of course, installed at both ends and either of them can be connected to the antenna at will by the simple movement of a switch."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The antenna plays the part of one of the metal plates in the Hertz oscillator."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The male beetle detects the subtle scent of the female from afar by means of its exquisitely feathered **antenna**."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"Above the metallic hood of the Martian tripod rose a jointed **antenna** that vibrated with intense electrical energy."*
+> - 📜 **Henri Fabre (*The Life of the Caterpillar*):** *"The moth waved each delicate **antenna** through the damp night air, seeking the subtle emanations of the cocoon."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of a lieutenant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of a lieutenant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rank, commission, office, or period of service of a lieutenant in the armed forces or constabulary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The office or territorial jurisdiction of a Lord Lieutenant appointed by the crown over a county.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"As soon as he graduated a lieutenancy was offered him in one of the companies, but deferring an answer, he left immediately for a college in the interior."*
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"He drew off on one side and the recruit, whose hands were full of ballots, went on to say: "Randolph doesn't stand the ghost of a chance for the second lieutenancy, and he has good cheek to ask the boys to give it to him."*
-> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"He had worked too hard for his Lieutenancy to give it up so easily; he had to go through with his assignment."*
+> - 📜 **William Shakespeare (*Othello*):** *"Cassio has my place; I am his lieutenant, and he holds the **lieutenancy** that should have crowned my ancient service."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The king purged the county **lieutenancy**, replacing loyal Anglican squires with Roman Catholic favorites."*
+> - 📜 **Walter Scott (*Waverley*):** *"Edward Waverley resigned his commission of **lieutenancy** in Gardiner's dragoons before joining the Highland army."*

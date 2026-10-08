@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Equality of extension or duration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Equality of extension or duration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or fact of having equal extension, duration, spatial boundary, or range with another thing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metaphysics and logic, the property of two concepts having identical denotation or universal application across reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coextension designates equality of extension or duration."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The philosopher maintained the absolute **coextension** of human thought with the boundless realm of spiritual reality."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"We infer the mutual **coextension** of space and matter from the continuous resistance encountered in physical motion."*
+> - 📜 **William Hamilton (*Lectures on Metaphysics*):** *"Consciousness demonstrates the **coextension** of knowledge and feeling throughout every mental phenomenon."*

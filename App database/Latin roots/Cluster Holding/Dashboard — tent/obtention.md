@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of obtaining.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of obtaining.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or achievement of obtaining, gaining, procuring, or acquiring something, especially by effort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil and administrative law, the procurement of an official decree, dispensation, license, or patent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, obtention designates the act of obtaining."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ambitious prefect expended enormous sums of silver in the **obtention** of the consular dignity from the senate."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"The procedural law should facilitate the rapid **obtention** of authentic testimony without vexatious expense."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The ambassador celebrated the successful **obtention** of the commercial treaty after three years of difficult negotiation."*

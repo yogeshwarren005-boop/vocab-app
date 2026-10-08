@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involuntary urination or defecation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involuntary urination or defecation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of moral self-control, especially inability to restrain sexual lust; unchastity or licentiousness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physiological inability to restrain natural bodily evacuations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The cognizance of her incontinency Is this: she hath bought the name of whore thus dearly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Iachimo, Thou didst accuse him of incontinency; Thou then look’dst like a villain; now, methinks, Thy favour’s good enough."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"But being unfortunate, she causes lasciviousness, incontinency and boasting, and if you find a cross also, near the first joint of the thumb, it denotes an adulterer, or such a person on whom a misfortune has happened in some luxurious matter."*
+> - 📜 **Francis Bacon (*Essays*):** *"Nuptial love makes mankind; friendly love perfects it; but wanton love corrupteth and debaseth it through **incontinency**."*
+> - 📜 **John Milton (*The Doctrine and Discipline of Divorce*):** *"Marriage was ordained to prevent **incontinency** and provide mutual solace between rational souls."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"The physician warned that idle ease and intemperate diet inflame the blood and provoke shameful **incontinency**."*

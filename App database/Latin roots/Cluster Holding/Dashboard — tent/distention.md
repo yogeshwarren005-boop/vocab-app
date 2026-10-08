@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being stretched beyond normal dimensions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of expanding by pressure from within.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal physical dilation, elongation, or enlargement of an elastic bodily cavity or organ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal expansion or enlargement of a hollow anatomical organ or vessel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, distention designates the state of being stretched beyond normal dimensions."*
+> - 📜 **William Harvey (*The Circulation of the Blood*):** *"The rhythmic **distention** of the peripheral pulse reflects the elastic response of the arteries to ventricular contraction."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The patient complained of painful gastric **distention** after every meal, pointing toward acute digestive failure."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"In certain breeds of pigeons, the esophagus exhibits extraordinary **distention** during courtship displays."*

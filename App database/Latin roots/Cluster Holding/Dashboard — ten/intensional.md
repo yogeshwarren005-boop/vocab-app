@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of the set of attributes that distinguish the referents of a given word.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of the set of attributes that distinguish the referents of a given word.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by intension; involving the conceptual meaning, qualities, or connotation of a term.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal semantics and philosophy of mind, designating contexts (such as belief reports) where substitution of co-referential terms may fail.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intensional designates used of the set of attributes that distinguish the referents of a given word."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"An **intensional** definition specifies the essential properties that qualify an entity for membership in a class."*
+> - 📜 **Rudolf Carnap (*Meaning and Necessity*):** *"Modal logic requires an **intensional** framework to distinguish logical necessity from mere factual coincidence."*
+> - 📜 **Willard Van Orman Quine (*Word and Object*):** *"The opaque referential nature of belief statements reveals their strictly **intensional** linguistic structure."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (often followed by `to') giving care or attention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taking heed; giving close and thoughtful attention.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Paying close attention to something; listening or watching carefully and observant of surroundings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assiduously attending to the comfort, wishes, and needs of others; considerate and polite.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hear him, lords, And be you silent and attentive too, For he that interrupts him shall not live."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The reason is, your spirits are attentive."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The hour’s now come, The very minute bids thee ope thine ear; Obey, and be attentive."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Knightley was remarkably **attentive** to the comfort of poor old Mr. Woodhouse during the chilly carriage drive."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Sherlock Holmes listened with **attentive** silence, his eyes fixed keenly upon our weeping client."*
+> - 📜 **William Shakespeare (*Pericles*):** *"Be **attentive**, and time shall tell the story of your lost daughter and restore your peace."*

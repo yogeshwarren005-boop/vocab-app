@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an intense manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an intense manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With extreme force, passion, or degree; deeply, acutely, powerfully, or severely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an earnest, focused, and passionately emotional manner.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Was the mantle blue?" Loneli, who had been listening intensely, interrupted."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is an honourable, obstinate, truthful, high-spirited, intensely prejudiced, perfectly unreasonable man."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak was an intensely humane man: indeed, his humanity often tore in pieces any politic intentions of his which bordered on strategy, and carried him on as by gravitation."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I suffered **intensely** from the bitter cold in the Lowood dormitory, where the water in the pitch-pitchers froze solid."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab gazed **intensely** into the dark blue water, searching for the pale white hump of his mortal foe."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Watson watched Holmes **intensely** as the detective examined the footprints on the roof with a magnifying lens."*

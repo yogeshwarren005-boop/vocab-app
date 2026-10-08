@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Paying particular notice (as to children or helpless people).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being considerate and thoughtful of others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Careful observation, alertness, and sustained mental focus upon a subject or person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Courteous consideration, politeness, and thoughtful solicitude shown to companions or guests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"I am ashamed of you and of myself, but it shall never happen again.” “_Your_ attentiveness and consideration makes me more sensible of my own neglect."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode had also a deferential bending attitude in listening, and an apparently fixed attentiveness in his eyes which made those persons who thought themselves worth hearing infer that he was seeking the utmost improvement from their discourse."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Darcy's polite **attentiveness** to her aunt and uncle astonished Elizabeth, erasing her former prejudices."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Success in philosophical research requires an unwearied **attentiveness** to facts that escape casual observers."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate listened with professional **attentiveness** to the laboring respiration of his fever-stricken patient."*

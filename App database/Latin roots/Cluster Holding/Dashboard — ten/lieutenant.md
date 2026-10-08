@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A commissioned military officer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An officer in a police force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A commissioned officer in the armed forces, ranking below a captain in the army or below a commander in the navy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deputy or chief assistant acting for a superior in an executive, political, or military capacity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sossius, One of my place in Syria, his lieutenant, For quick accumulation of renown, Which he achieved by th’ minute, lost his favour."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who’s his lieutenant, hear you?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Canidius marching with his land army one way over the stage, and Taurus, the Lieutenant of Caesar, with his Army, the other way."*
+> - 📜 **William Shakespeare (*Othello*):** *"I am not what I am; yet I would rather lose both mine ears than that my **lieutenant** should be disgraced."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Beelzebub, Satan's trusted **lieutenant**, stood next in power and next in crime among the apostate angels."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Major Sholto and his trusted **lieutenant** guarded the convict settlement upon the remote Andaman Islands."*

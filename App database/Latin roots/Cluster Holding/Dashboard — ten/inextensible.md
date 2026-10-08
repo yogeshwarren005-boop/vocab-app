@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not extensile.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not extensile.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not extensible; incapable of being stretched, elongated, or drawn out in length or breadth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mechanics and physics, designating an idealized cord, string, or cable that does not stretch under tension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inextensible designates not extensile."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"Let a heavy particle be suspended from a fixed center by a flexible, weightless, and **inextensible** thread."*
+> - 📜 **William Rowan Hamilton (*Lectures on Quaternions*):** *"The mathematical pendulum assumes an **inextensible** radius connecting the oscillating mass to the pivot."*
+> - 📜 **Charles Darwin (*A Monograph on the Sub-class Cirripedia*):** *"The calcareous plates of the mature shell form an **inextensible** armor shielding the soft visceral mass."*

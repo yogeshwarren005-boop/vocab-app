@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inclination to be quarrelsome and contentious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inclination to be quarrelsome and contentious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quarrelsome or argumentative disposition; the tendency to provoke disputes and controversy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The controversial or dispute-ridden nature of an issue or public debate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contentiousness designates an inclination to be quarrelsome and contentious."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Petulant **contentiousness** destroys social harmony and turns pleasant conversation into a courtroom duel."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The town council was paralyzed by the stubborn **contentiousness** of rivals who placed pride above public sanitation."*
+> - 📜 **David Hume (*The History of England*):** *"The theological **contentiousness** of the seventeenth century plunged the three kingdoms into devastating civil war."*

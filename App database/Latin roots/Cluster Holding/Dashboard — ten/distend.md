@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become wider.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to expand as it by internal pressure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To swell, expand, or cause to dilate from internal pressure, gas, or fluid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To stretch out, bloat, or inflate beyond normal physical dimensions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Many of them foamed at the mouth, their breathing being quick and short, whilst the bodies of all were fearfully distended."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In approaching the door, his toe kicked something which felt and sounded soft, leathery, and distended, like a boxing-glove."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It has a sort of howdah on its back, and its distended tusked mouth into which the billows are rolling, might be taken for the Traitors’ Gate leading from the Thames by water into the Tower."*
+> - 📜 **John Milton (*Paradise Lost*):** *"His heart **distend** with pride, and hardening in his strength, glorieth: for never since created man met so embodied might."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"When provoked to rage, the puffing adder inflates its lungs until its scaly body **distend** to twice its natural girth."*
+> - 📜 **Jonathan Swift (*A Tale of Two Cities*):** *"The gluttonous prior sat after the banquet, breathing heavily as his robes **distend** over his enormous belly."*

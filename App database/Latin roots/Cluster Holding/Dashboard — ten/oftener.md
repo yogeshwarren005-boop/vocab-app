@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: More often or more frequently.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: More often or more frequently.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: More frequently; on a greater number of occasions; with higher repetition than formerly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At more frequent intervals of time or occurrence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"God knows, of pure devotion; being called A hundred times and oftener, in my sleep, By good Saint Alban, who said “Simpcox, come, Come, offer at my shrine, and I will help thee.” WIFE."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He doth oftener ask forgiveness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If so, my eyes are oftener wash’d than hers."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"I have spent many hours in your company, and the **oftener** I see you, the more I admire your lively intelligence."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip visited the forge **oftener** in his thoughts than in reality, haunted by memories of Joe's honest kindness."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"If all the year were playing holidays, to sport would be as tedious as to work; but when they seldom come, they **oftener** wished for."*

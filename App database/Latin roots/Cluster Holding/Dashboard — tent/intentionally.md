@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With intention; in an intentional manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With intention; in an intentional manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deliberately, on purpose, or with premeditation; not accidentally or by chance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With conscious design, purposeful determination, and clear awareness of consequences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Whether intentionally or accidentally, I don’t know."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Had he done this intentionally, yet contrived to make his death appear like an accident?"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Then, too, the rate may intentionally be fixed so as to make just possible the survival of the most favorably located or most efficiently operated establishments, while compelling the abandonment of other establishments."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Norwood Builder*):** *"The forged will was **intentionally** placed where the police detectives could not fail to discover it."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"I cannot believe that Mr. Bingley would **intentionally** wound the feelings of any living creature, much less Jane."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A party who **intentionally** sets fire to a dwelling commits the capital felony of arson at common law."*

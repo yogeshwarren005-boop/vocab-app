@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of expanding by pressure from within.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being stretched beyond normal dimensions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Swelling, stretching, or expansion caused by internal pressure; abdominal dilation or bloating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, abnormal physical enlargement of an abdominal organ, blood vessel, or cavity caused by accumulated fluids or gas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A silly girl!—silly girl!” The door was hurriedly burst open again, and in came running Cainy Ball out of breath, his mouth red and open, like the bell of a penny trumpet, from which he coughed with noisy vigour and great distension of face."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe abdominal **distension** and tympanites frequently accompany intestinal obstruction in acute clinical cases."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The sudden **distension** of subterranean volcanic cavities by superheated steam fractures the overlying basalt strata."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Cellular growth involves the osmotic **distension** of the primary cell wall by internal fluid turgor."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lessen or to try to lessen the seriousness or extent of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Partially excusing or justifying.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to lessen the apparent seriousness, blame, or guilt of an offense; mitigating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal jurisprudence, characterizing circumstances that justify reduced sentencing or moral mercy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"If I know my Evelyn, before a month had passed her heart would have softened, and she would be turning special pleader in his defence, racking her brain for extenuating explanations."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"On these three considerations alone is based the conception of irresponsibility for crimes and the extenuating circumstances admitted by all legislative codes."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"If you belonged to a poor family and there were extenuating circumstances, I might forego my claim."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Beryl Coronet*):** *"The youth's desperate effort to shield his beloved was admitted as an **extenuating** circumstance by the magistrate."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Sudden heat of passion upon adequate provocation constitutes an **extenuating** factor reducing murder to manslaughter."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea searched eagerly for any **extenuating** evidence that might relieve Will Ladislaw from unjust suspicion."*

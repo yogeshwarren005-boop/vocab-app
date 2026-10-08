@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an intensive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an intensive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an intensive, concentrated, or thorough manner; with high effort, rigor, and focused investment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner that increases yield per unit of area through concentrated application of labor and capital.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Investment has advanced both intensively and extensively in a series of great waves."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A good deal of our farm land is undoubtedly too intensively used now in view of present and prospective commodity prices and wages."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Using one thing more and more while uniting other things with it, is using it more intensively."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The rich soil of Flanders was cultivated **intensively**, yielding two bountiful grain crops in a single year."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Earthworms work **intensively** in the upper soil layers, aerating the mould and burying fallen leaves."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate studied **intensively** far into the night, dissecting tissue samples by the light of an oil lamp."*

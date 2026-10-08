@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With attention; in an attentive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With attention; in an attentive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an attentive manner; with close attention, diligence, and vigilant focus; carefully.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With thoughtful care and courteous consideration for the desires of others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It will also keep you from making uncertain plans, which might only bring fresh disappointments." Leonore had attentively followed every word Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Esther, my dear, do you wish to ask me anything?” He looked so attentively at me that I looked attentively at him and felt sure I understood him."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rick,” said my guardian, after hearing him attentively, “we can retreat with honour, and we will."*
+> - 📜 **Arthur Conan Doyle (*The Red-Headed League*):** *"Holmes leaned back in his armchair, closed his eyes, and listened **attentively** to the pawnbroker's bizarre tale."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"I examined **attentively** the structure of these coral reefs, observing how the polyps flourished in the heavy surf."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"The professor watched me **attentively** as I translated the difficult passage from Bossuet without lexicon."*

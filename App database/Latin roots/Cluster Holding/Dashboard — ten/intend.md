@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have in mind as a purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Design or destine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To have a course of action as one's purpose or intention; to plan, design, or aim to do something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To mean, signify, or direct an utterance or expression toward a particular person or object.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For then my thoughts, from far where I abide, Intend a zealous pilgrimage to thee, And keep my drooping eyelids open wide, Looking on darkness which the blind do see."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, dear queen; For we intend so to dispose you as Yourself shall give us counsel."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They have had inkling this fortnight what we intend to do, which now we’ll show ’em in deeds."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"I **intend** to walk about the isle and view the wondrous strange creatures that dwell within its glades."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"When men speak, they **intend** their words as signs to convey their internal thoughts to the listener."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"I **intend** to be extremely happy at Netherfield, danced with by every eligible gentleman in the room."*

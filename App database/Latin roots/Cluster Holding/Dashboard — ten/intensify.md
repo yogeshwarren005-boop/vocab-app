@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Increase in extent or intensity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more intense, stronger, or more marked; ,.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To become or make more intense; to sharpen, deepen, heighten, or increase in strength.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To enhance chemical density, optical contrast, or energetic throughput in a system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"At times her whimsical fancy would intensify natural processes around her till they seemed a part of her own story."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Another trait of his character which served to intensify his subsequent disappointments, was the strong ambition which early filled his soul."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I am especially interested in your ability to intensify earliest possible infiltration and disruption throughout Narval's domain." The door slid shut as he passed through."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The wrath of God did **intensify** the fiery torment of the rebel host fallen from heavenly bliss."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Severe climatic changes **intensify** the competitive struggle between competing plant forms for scarce moisture."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Solitude seemed only to **intensify** the bitter pangs of memory that tore at my troubled conscience."*

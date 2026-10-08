@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being lengthened.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being lengthened.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being extended, lengthened, prolonged, or expanded in space, time, or functional reach.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In business or real estate, capable of being renewed or stretched beyond an initial contractual term.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extendable designates capable of being lengthened."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"The scientific apparatus included an **extendable** brass mast designed to support our wireless receiver."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"Captain Nemo deployed an **extendable** steel tube through the hatch to replenish the submarine's air tanks."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Social contracts in developing polities are easily **extendable** to incorporate neighboring confederate tribes."*

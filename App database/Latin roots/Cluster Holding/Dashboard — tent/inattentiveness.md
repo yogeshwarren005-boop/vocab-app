@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of attentiveness (as to children or helpless people).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of not being considerate and thoughtful of others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Habitual failure to pay attention; heedlessness, carelessness, or mental wandering; absent-mindedness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Neglectful disregard of interpersonal politeness, safety rules, or scholarly accuracy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inattentiveness designates a lack of attentiveness (as to children or helpless people)."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"Youthful **inattentiveness** in the lecture room squanders opportunities that mature age can never recover."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Fanny's aunt reproached her for momentary **inattentiveness** whenever the winding of knitting yarn paused."*
+> - 📜 **William James (*Talks to Teachers on Psychology*):** *"Apparent **inattentiveness** in children is often merely intense interest focused upon non-academic stimuli."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not extensile.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not extensile.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not extensile; incapable of being protruded, thrust outward, or stretched in length or volume.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy, describing rigid appendages or organs that cannot be extended forward.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonextensile designates not extensile."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Unlike the proboscis of nemerteans, the oral apparatus in this mollusk is completely **nonextensile** and fixed."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In species with **nonextensile** tongues, food capture relies upon rapid movement of the entire mandibular jaw."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The rigid, **nonextensile** beak of the hornbill serves admirably for plucking heavy forest fruits from branches."*

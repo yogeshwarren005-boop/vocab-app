@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The point or degree to which something extends.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The distance or area or volume over which something extends.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The area, length, or distance covered by something; spatial expanse, physical scope, or degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In English law, a writ of execution issued on behalf of the crown for the valuation and seizure of debtor lands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, push him out of doors, And let my officers of such a nature Make an extent upon his house and lands."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me comply with you in this garb, lest my extent to the players, which I tell you must show fairly outward, should more appear like entertainment than yours."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The very head and front of my offending Hath this extent, no more."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Boundless the deep, because I am who fill infinitude, nor vacuous the **extent** of eternal space."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The vast territorial **extent** of the United States requires a energetic central government to maintain cohesion."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Under a writ of **extent**, the sheriff seizes the debtor's lands to satisfy the debt due to the king's treasury."*

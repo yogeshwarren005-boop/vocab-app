@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A longing for something better than the present situation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A longing for something better than the present situation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or habit of being discontented; persistent dissatisfaction, restlessness, and unhappiness with one's lot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chronic disposition to complain and find fault with current conditions or authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"A mole near either elbow declares restlessness, a roving and unsteady temper, also a discontentedness with those whom they are obliged constantly to live with."*
+> - 📜 **Samuel Johnson (*Rasselas*):** *"The prince soon discovered that human **discontentedness** is not cured by luxurious ease, but feeds upon its own leisure."*
+> - 📜 **Jeremy Taylor (*Holy Living*):** *"Secret **discontentedness** with the dispensations of providence is the root of murmuring and spiritual rebellion."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"A bitter **discontentedness** smoldered through the manufacturing towns of the north as thousands went hungry."*

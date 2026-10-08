@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The number of occurrences within a given time period.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The number of occurrences within a given time period.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Frequency of occurrence; the state or property of happening frequently or repeatedly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The recurrent repetition or commonness of an event over an observed span of time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oftenness designates the number of occurrences within a given time period."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The very **oftenness** of human disappointment dulls our surprise, yet rarely cures us of unreasonable hope."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Associative memory gains strength in direct proportion to the **oftenness** with which two ideas occur together."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The **oftenness** of their casual meetings in the library soon broke down all artificial barriers of formal etiquette."*

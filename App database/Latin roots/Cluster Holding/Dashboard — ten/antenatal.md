@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring or existing before birth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring or existing before birth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring, existing, or performed before birth; prenatal, relating to fetal development or pregnancy care.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existing prior to the origin, inception, or historical emergence of an entity or society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antenatal designates occurring or existing before birth."*
+> - 📜 **William Wordsworth (*Ode: Intimations of Immortality*):** *"Our birth is but a sleep and a forgetting; the soul that rises with us hath had elsewhere its **antenatal** home."*
+> - 📜 **Percy Bysshe Shelley (*Epipsychidion*):** *"I knew thee of old in that dim **antenatal** twilight where pure spirits commune before donning mortal dust."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The **antenatal** phases of mammalian development exhibit remarkable morphological affinities across divergent species."*

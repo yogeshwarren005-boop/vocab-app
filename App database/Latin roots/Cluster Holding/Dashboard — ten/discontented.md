@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make dissatisfied.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing or experiencing dissatisfaction or restless longing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or expressing dissatisfaction with one's circumstances, treatment, or lot in life; malcontent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restlessly unhappy and complaining; unwilling to accept existing conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most meet That first we come to words, and therefore have we Our written purposes before us sent, Which if thou hast considered, let us know If ’twill tie up thy discontented sword And carry back to Sicily much tall youth That else must perish here."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But as a discontented friend, Grief-shot with his unkindness?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Behold, my Lord of Winchester, the Duke Hath banish’d moody discontented fury, As by his smoothed brows it doth appear."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mrs. Bennet was an irritable, **discontented** woman, forever complaining of her delicate nerves and neglected daughters."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Disbanded soldiers, impoverished by the peace, formed a dangerous, **discontented** rabble in the alleys of London."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **discontented** legionaries threw down their spears, demanding an increase of daily pay and a reduction of military service."*

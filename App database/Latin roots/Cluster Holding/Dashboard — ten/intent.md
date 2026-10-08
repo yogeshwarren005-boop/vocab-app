@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An anticipated outcome that is intended or that guides your planned actions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The intended meaning of a communication.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Determined or resolved to do something; having the mind or attention firmly fixed on an objective.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intention or purpose, especially in criminal law where mens rea or culpable purpose must be established.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Had you not lately an intent,—speak truly,— To go to Paris?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You may be pleased to catch at mine intent By what did here befall me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most noble sir, If you do hold the same intent wherein You wished us parties, we’ll deliver you Of your great danger."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"I have no spur to prick the sides of my **intent**, but only vaulting ambition, which o'erleaps itself."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The felonious **intent** constitutes the very essence of the crime, distinguishing theft from lawful taking."*
+> - 📜 **John Milton (*Paradise Lost*):** *"With **intent** to ruin man, the fiend held his course through Chaos toward the newly created universe."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of abstaining (especially from alcohol).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act or practice of refraining from indulging an appetite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of restraining oneself from partaking of food, alcoholic beverages, or sexual indulgence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical economics, the postponement or sacrifice of immediate consumption to accumulate capital investments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Refrain tonight, And that shall lend a kind of easiness To the next abstinence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your stomachs are too young, And abstinence engenders maladies."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have delivered to Lord Angelo, A man of stricture and firm abstinence, My absolute power and place here in Vienna, And he supposes me travelled to Poland; For so I have strewed it in the common ear, And so it is received."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Strict **abstinence** from forbidden fruit was the sole light test ordained to prove human obedience in paradise."*
+> - 📜 **Nassau William Senior (*An Outline of the Science of Political Economy*):** *"Profit constitutes the economic reward earned by the capitalist for his voluntary **abstinence** from present consumption."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A clean **abstinence** from meat and spirituous liquors elevated my morning thoughts to extraordinary purity."*

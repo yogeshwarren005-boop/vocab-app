@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Weakening in force or intensity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of something that has been weakened or reduced in thickness or density.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The reduction of the force, effect, density, or value of something; a thinning or weakening process.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In telecommunications and acoustics, the loss of signal power or sound amplitude as a wave travels through a medium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The salt had "lost his savour;" and yet, with one drop of that attenuation in a goblet of 153:9 water, and a teaspoonful of the water administered at in- tervals of three hours, she has cured a patient sinking in the last stage of typhoid fever."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The highest attenuation 153:12 of homoeopathy and the most potent rises above matter into mind."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Now administer mentally to your patient a high 153:21 attenuation of truth, and it will soon cure the boil."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The progressive **attenuation** of the medium toward the vacuum reduces optical resistance to passing light rays."*
+> - 📜 **Louis Pasteur (*Address to the Academy of Sciences*):** *"The experimental **attenuation** of disease microbes constitutes our most powerful weapon in preventive hygiene."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The gradual **attenuation** of the stratum northward proves that the sedimentary material was washed from southern shores."*

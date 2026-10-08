@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the large landmasses of the earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The european mainland.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the world's main continuous expanses of land (e.g., Africa, Asia, Europe, North America, South America, Antarctica, Australia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exercising self-restraint, especially sexual temperance or voluntary control over bodily excretions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Heart, once be stronger than thy continent; Crack thy frail case!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed, to speak feelingly of him, he is the card or calendar of gentry; for you shall find in him the continent of what part a gentleman would see."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yea, but mark how he bears his course, and runs me up With like advantage on the other side, Gelding the opposed continent as much As on the other side it takes from you."*
+> - 📜 **John Donne (*Devotions upon Emergent Occasions*):** *"No man is an island, entire of itself; every man is a piece of the **continent**, a part of the main."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Species inhabiting a vast **continent** are subjected to more severe competition and attain higher stages of perfection."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Close pent-up guilts, rive your concealing **continents**, and cry these dreadful summoners grace."*

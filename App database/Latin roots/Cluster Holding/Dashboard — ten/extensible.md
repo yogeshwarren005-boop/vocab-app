@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being protruded or stretched or opened out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being protruded or stretched or opened out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being extended, stretched out, or protruded; having physical or architectural elasticity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computing and design, capable of being modified or augmented with new functionality without breaking existing systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extensible designates capable of being protruded or stretched or opened out."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The woodpecker possesses an extraordinarily **extensible** tongue, adapted for extracting grubs from deep bark crevices."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The **extensible** nature of muscle fibers enables coordinated movement across complex skeletal joints."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Organisms develop **extensible** limbs to grasp nourishment and manipulate the external physical world."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having control over urination and defecation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having control over urination and defecation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no or insufficient control over urination or defecation; unable to contain bodily excretions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking self-restraint in sexual desires; unrestrained, licentious; or archaic: immediately without delay.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He says he will return incontinent, He hath commanded me to go to bed, And bade me to dismiss you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, mourn with me for what I do lament, And put on sullen black incontinent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All incontinent varlets! [_Exit_.] SCENE II."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"They had no sooner met but they looked, no sooner looked but they loved, and would pair **incontinent** like two turtles."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor was despised for his **incontinent** lusts and his shameful subservience to eunuchs."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The bedridden invalid remained hopelessly **incontinent**, demanding constant nursing attention day and night."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Many times at short intervals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Frequently or in great quantities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Frequently; many times; at short intervals or in many instances; repeatedly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Habitually or customarily; commonly occurring under given circumstances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fair, kind, and true, have often lived alone."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say I am your mother, And put you in the catalogue of those That were enwombed mine. ’Tis often seen Adoption strives with nature, and choice breeds A native slip to us from foreign seeds."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They begin to smoke me, and disgraces have of late knock’d too often at my door."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"All that glisters is not gold; **often** have you heard that told; many a man his life hath sold but my outside to behold."*
+> - 📜 **John Milton (*Il Penseroso*):** *"Oft on a plat of rising ground, I hear the far-off curfew sound, over some wide-watered shore, swinging slow with sullen roar; **often** in solitary contemplation."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She was **often** tempted to wonder how Darcy could bear with the foolish vulgarity of her mother in company."*

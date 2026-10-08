@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to events before a marriage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to events before a marriage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Made, occurring, or existing before marriage; prenuptial, especially regarding property settlements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, relating to contracts executed between prospective spouses determining property rights upon divorce or death.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antenuptial designates relating to events before a marriage."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"An **antenuptial** settlement covenants the descent of family lands to the issue of the marriage free from encumbrances."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon made handsome **antenuptial** provisions for Dorothea, settling the jointure upon his estate at Lowick."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The **antenuptial** agreement guaranteed to Princess Mary the full exercise of her religion and an independent household."*

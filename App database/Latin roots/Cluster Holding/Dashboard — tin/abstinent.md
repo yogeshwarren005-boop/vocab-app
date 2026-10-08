@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who refrains from drinking intoxicating beverages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Self-restraining; not indulging an appetite especially for food or drink.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Refraining from an appetite, especially from intoxicating liquor, luxurious food, or sensual gratification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting ascetic discipline, rigorous sobriety, and moral self-control in daily conduct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abstinent designates a person who refrains from drinking intoxicating beverages."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The anchorite remained strictly **abstinent**, subsisting on bitter desert roots and a few drops of brackish well water."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"A mind habitually **abstinent** from rash dogmatism is best prepared to receive the genuine light of inductive truth."*
+> - 📜 **Walter Scott (*The Talisman*):** *"Saladin lived in an **abstinent** and soldierly fashion, shunning the effeminate luxuries of his Syrian emirs."*

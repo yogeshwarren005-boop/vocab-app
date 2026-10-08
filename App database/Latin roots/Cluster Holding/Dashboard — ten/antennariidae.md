@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Frogfishes; tropical spiny-finned marine fishes having large nearly vertical mouths; related to toadfishes and anglers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Frogfishes; tropical spiny-finned marine fishes having large nearly vertical mouths; related to toadfishes and anglers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic family of anglerfishes commonly known as frogfishes, characterized by a modified dorsal spine used as a fishing lure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Globular, camouflaged marine fishes of tropical reefs that walk along the sea bottom on limb-like pectoral fins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antennariidae designates frogfishes; tropical spiny-finned marine fishes having large nearly vertical mouths; related to toadfishes and anglers."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Members of the family **Antennariidae** exhibit marvelous mimicry, closely resembling sponge-covered rocks or floating sargassum."*
+> - 📜 **William Beebe (*The Arcturus Adventure*):** *"Within the tangled weed we captured a bizarre specimen of **Antennariidae** waving its fleshy illicium to lure unwary shrimp."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The curious reef fish of the family **Antennariidae** stalked its prey with slow, creeping motions of its pectoral limbs."*

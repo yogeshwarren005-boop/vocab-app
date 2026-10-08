@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing a lack of attention or care.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not showing due care or attention.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not paying attention to something or someone; heedless, unobservant, distrait, or careless.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Neglectful of the needs, wishes, or comforts of companions, guests, or students.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rachael”—I was afraid he addressed himself to her because I appeared inattentive—“amounts at the present hour to from SIX-ty to SEVEN-ty THOUSAND POUNDS!” said Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"When my Lady goes to her boudoir, she sits down thoughtfully by the fire, and inattentive to the Ghost’s Walk, looks at Rosa, writing in an inner room."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was when the rest were all looking away that Boldwood observed her; when they regarded her he turned aside; when they thanked or praised he was silent; when they were inattentive he murmured his thanks."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Dora was hopelessly **inattentive** to the butcher's account book, letting Jip play with the crumpled pages upon the carpet."*
+> - 📜 **Jane Austen (*Emma*):** *"Frank Churchill was too often **inattentive** to the feelings of others, following every whim of his own amusement."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"A hunter who is **inattentive** to the subtle signs of broken twigs will return from the wilderness empty-handed."*

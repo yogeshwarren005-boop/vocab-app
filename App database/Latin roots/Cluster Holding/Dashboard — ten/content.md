@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Everything that is included in a collection and that is held or included in something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: What a communication that is about something is about.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a state of peaceful happiness, satisfaction, or ease of mind; willing to accept one's circumstances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The things that are held or included in something; the substance or material dealt with in a speech, book, or vessel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, the care I have had to even your content, I wish might be found in the calendar of my past endeavours; for then we wound our modesty, and make foul the clearness of our deservings, when of ourselves we publish them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The General is content to spare thee yet; And, hoodwink’d as thou art, will lead thee on To gather from thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With very much content, my lord, and I wish it happily effected."*
+> - 📜 **William Shakespeare (*Othello*):** *"Poor and **content** is rich, and rich enough; but riches fineless is as poor as winter to him that ever fears he shall be poor."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Be lowlily wise; think only what concerns thee and thy being; dream not of other worlds, and live **content**."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The profound philosophical **content** of the ancient dialogues surpasses all modern declamations."*

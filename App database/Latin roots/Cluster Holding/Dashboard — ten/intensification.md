@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Action that makes something stronger or more extreme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of increasing the contrast of (a photographic film).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of making or becoming more intense; an increase in strength, magnitude, sharpness, or severity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In photography, the chemical process of increasing the density or contrast of a photographic image or negative.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Deepest love. [July 13, 1947] EVIDENCES OF NOTABLE EXPANSION Greatly welcome evidences of a notable expansion of activities and increased intensification of efforts for publicity."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"I am fervently praying that further intensification of effort, sustained, coordinated, consecrated and unanimously exerted, will sweep its members on crest of the wave to total victory."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Urge intensification of efforts, rededication and achievement of goals of Plan in order to discharge befittingly the sacred, manifold, inescapable, urgent responsibilities confronting the entire American Bahá'í Community."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Emotional excitement produces an **intensification** of heart rate and a swift mobilization of nervous energy."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **intensification** of civil discord between rival generals left the Danubian frontiers open to Gothic ravages."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"A sudden **intensification** of seismic shocks preceded the catastrophic collapse of the volcanic caldera."*

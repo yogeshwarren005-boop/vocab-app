@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An anticipated outcome that is intended or that guides your planned actions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually plural) the goal with respect to a marriage proposal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thing intended; an aim, plan, or purpose; a mental resolution to execute a specific action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine and surgery, the process or manner of healing of a wound (e.g., healing by first intention).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, she did so course o’er my exteriors with such a greedy intention that the appetite of her eye did seem to scorch me up like a burning-glass."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It was clearly evident, however, that the approaching girl had no intention of changing her pace, despite the fact that she must have noticed long ago the friend who was hurrying towards her."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mäzli tried with all her might to prove to her mother that her intention had solely been to save her the work necessary to get the things together."*
+> - 📜 **William Shakespeare (*The Merry Wives of Windsor*):** *"She did so course o'er my exteriors with such a greedy **intention**, that the appetite of her eye did seem to scorch me up."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Moral praise or blame attaches properly to the conscious **intention** of the agent, not to accidental results."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Darcy declared that it was his firm **intention** to see Elizabeth again before her departure from Kent."*

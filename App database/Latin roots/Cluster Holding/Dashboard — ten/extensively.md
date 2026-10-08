@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a widespread way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a widespread way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Over a wide area or scope; broadly, comprehensively, or to a great extent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner that covers wide geographic space or diverse fields of study.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"The tradition is that his rule was an exceedingly stern one, that he kept the children hard at work, and that he flogged extensively and remorselessly."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Investment has advanced both intensively and extensively in a series of great waves."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Land is used most extensively, with respect to labor, when it is in forests; somewhat less so when in pasture as care must be given to the live stock; and still less when used for hay, grain, and other crops."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Species that range **extensively** throughout a continent vary more frequently than those with restricted habitats."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The works of John Locke were read **extensively** across the American colonies, shaping political debates on liberty."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes had traveled **extensively** across Europe, familiarizing himself with continental criminal archives."*

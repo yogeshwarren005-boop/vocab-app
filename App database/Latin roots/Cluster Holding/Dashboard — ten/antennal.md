@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to antennae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to antennae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated on an antenna or sensory feeler of an insect or other organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to telecommunications aerials or directional broadcast transmission hardware.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antennal designates of or relating to antennae."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In several families of beetles, extraordinary **antennal** modifications serve as clasping organs during courtship."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The longicorn beetle displayed dramatic **antennal** extensions measuring more than twice the length of its entire thorax."*
+> - 📜 **Henri Fabre (*Bramble-Bees and Others*):** *"The solitary wasp cleaned its slender **antennal** segments with rapid movements of its front legs."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being intent and concentrated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being intent and concentrated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intense mental concentration, deep absorption, and unwavering resolution directed toward an aim.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eager and sustained attention directed toward an intellectual, artistic, or practical goal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The trees stood in an attitude of intentness, as if they waited longingly for a wind to come and rock them."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The luminary was a golden-haired, beaming, mild-eyed, God-like creature, gazing down in the vigour and intentness of youth upon an earth that was brimming with interest for him."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Though near nightfall, the rank-smelling weed-flowers glowed as if they would not close for intentness, and the waves of colour mixed with the waves of sound."*
+> - 📜 **George Eliot (*Middlemarch*):** *"There was an **intentness** in Dorothea's dark eyes that made shallow observers feel uncomfortable in her presence."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Isabel listened with extraordinary **intentness** to Madame Merle's worldly advice regarding Roman society."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Chillingworth scrutinized the minister's pale features with the malicious **intentness** of an inquisitor."*

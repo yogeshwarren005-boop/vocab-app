@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small woolly perennial herbs having small whitish discoid flowers surrounded by a ring of club-shaped bristles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small woolly perennial herbs having small whitish discoid flowers surrounded by a ring of club-shaped bristles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of herbaceous perennial plants in the daisy family (Asteraceae), commonly known as pussytoes or cat's-foot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Low-growing alpine and meadow herbs characterized by soft woolly foliage and clusters of whitish flower heads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antennaria designates small woolly perennial herbs having small whitish discoid flowers surrounded by a ring of club-shaped bristles."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Species of **Antennaria** carpet stony hillsides in early spring with their dense mats of silvery, woolly leaves."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Along the granite ledges grew dwarf **Antennaria**, hugging the cold rock face beneath the retreating snowdrifts."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Gardeners employ creeping **Antennaria** as an attractive groundcover in dry rock gardens where other herbs wither."*

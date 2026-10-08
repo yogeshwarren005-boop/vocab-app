@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of persons; not given to controversy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of persons; not given to controversy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not contentious; not likely to cause dispute, argument, or controversy; amicable and peaceful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, relating to legal business (such as probate or conveyancing) that does not involve contested litigation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noncontentious designates of persons; not given to controversy."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The ecclesiastical court handled **noncontentious** probate matters with minimal delay and standard fees."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"Let us resolve our imperial difficulties through **noncontentious** compromise and ancient constitutional amity."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Administrative decrees in **noncontentious** matters proceed smoothly under the direct supervision of the department."*

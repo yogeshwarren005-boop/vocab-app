@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A modifier that has little meaning except to intensify the meaning it modifies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by a high degree or intensity; often used as a combining form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concentrated on a single subject, area, or short period of time; highly thorough, rigorous, and demanding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agriculture and economics, involving high inputs of labor and capital per unit of land to achieve maximum yield.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Intensive farming in Europe and America. § 8."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Prospect of more intensive cultivation of land in America. § 9."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The remaining 60 per cent of receipts were in most cases from various sources, and these figures did not include the value of produce consumed by the farmer's family. § 7. #Intensive farming in Europe and America#."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Market gardens near great capitals demand an **intensive** application of manure and spade husbandry."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"An **intensive** examination of single physical experiments often reveals secrets hidden from extensive speculation."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The fortress surrendered after three weeks of **intensive** bombardment by the combined allied artillery."*

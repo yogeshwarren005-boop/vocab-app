@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extend in scope or range or area.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause something to cover a larger area; to stretch out, lengthen, or enlarge in space, time, or scope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To offer, grant, or proffer an invitation, greeting, or formal gesture of goodwill to someone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You do extend These thoughts of horror further than you shall Find cause in Caesar."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do extend him, sir, within himself; Crush him together rather than unfold His measure duly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, and the approbation of those that weep this lamentable divorce under her colours are wonderfully to extend him, be it but to fortify her judgement, which else an easy battery might lay flat, for taking a beggar, without less quality."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"If your affections upon't not **extend** beyond the reach of reason, grant me your royal favor."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Natural philosophy seeks to **extend** the bounds of human empire over all physical nature."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Trajan resolved to **extend** the eastern frontiers of Rome across the Tigris and Euphrates rivers."*

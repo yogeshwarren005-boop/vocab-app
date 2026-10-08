@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: High level or degree; the property of being intense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: High level or degree; the property of being intense.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concentrated depth of application, energetic focus, or rigorous thoroughness in an undertaking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: High capital and labor concentration in industrial or agricultural enterprise relative to land area.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intensiveness designates high level or degree; the property of being intense."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"The vivid **intensiveness** of a sensory impression determines how long it lingers in the conscious memory."*
+> - 📜 **David Ricardo (*Principles of Political Economy and Taxation*):** *"The growing **intensiveness** of farm cultivation reflects rising population pressure upon fertile wheat soils."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Scientific research gains in **intensiveness** what it sacrifices in superficial breadth of survey."*

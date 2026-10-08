@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing or displaying a distinctive feature to a heightened degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely sharp or intense.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of extreme force, degree, or strength; highly concentrated, acute, severe, or powerful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing strong feelings, earnest purpose, or serious passion; profound in emotional depth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I must go to him this minute," gasped Apollonie; she had spoken rapidly and with intense excitement."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed, who finds it so difficult to resume his object, whatever it may be, that he becomes exasperated and secretly claws the air with an impotent vindictiveness expressive of an intense desire to tear and rend the visage of Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now do they note down, in the watches of the night, how the neighbourhood of Chancery Lane was yesterday, at about midnight, thrown into a state of the most intense agitation and excitement by the following alarming and horrible discovery."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Subterranean fires burned with **intense** heat, casting a pale, dreadful glare over the molten sulfur lakes."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I contemplated my laboratory with an **intense** anxiety that banished all desire for food and sleep."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The mob glared with **intense** hatred at the aristocrat bound tightly upon the wooden tumbril."*

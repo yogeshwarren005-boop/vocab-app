@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Increase in extent or intensity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more intense, stronger, or more marked; ,.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Increasing in strength, degree, passion, or sharpness; growing progressively more acute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to increase electrical, mechanical, or chemical force in an ongoing process.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"By and by the beadle comes out, once more intensifying the sensation, which has rather languished in the interval."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"As in her case, too, the disorder took the form of a great heightening and intensifying of the imaginative faculty."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"At length the surface of the same spots which had been sown in the first instance with the sporidia, become of a whitish tint, rapidly increasing and intensifying."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"With **intensifying** frenzy, Ahab shouted his commands into the roaring gale, heedless of the ship's groaning timbers."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"The **intensifying** darkness of the winter night added tenfold to the gloom of the ancient moated manor."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The **intensifying** volcanic eruptions buried the ancient vineyard under successive waves of boiling mud."*

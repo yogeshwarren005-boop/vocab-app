@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The failure to attend.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The failure to attend.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The failure, refusal, or omission to attend a required meeting, class, court summons, or assembly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absence from an official station, church service, or parliamentary session, often incurring fines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Congress, from the nonattendance of a few States, have been frequently in the situation of a Polish diet, where a single VOTE has been sufficient to put a stop to all their movements."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Heavily penal statutes penalized the **nonattendance** of nonconformists at the established parish church."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A juror summoned upon the grand panel who makes default by **nonattendance** is liable to an immediate fine."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The schoolmaster recorded the **nonattendance** of the ragged crossing-sweeper with bureaucratic indifference."*

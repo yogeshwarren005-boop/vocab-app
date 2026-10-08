@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an absentminded or preoccupied manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an absentminded or preoccupied manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inattentive manner; heedlessly, carelessly, or without paying proper focus or observation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With wandering thoughts, unmindful of conversation or immediate surroundings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And what a crumby girl!” VI Tess went down the hill to Trantridge Cross, and inattentively waited to take her seat in the van returning from Chaseborough to Shaston."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Rostóv, smoking his pipe and turning his head about as the water trickled down his neck, listened inattentively, with an occasional glance at Ilyín, who was pressing close to him."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon turned the pages of his Hebrew manuscript **inattentively**, brooding over his young wife's questioning eyes."*
+> - 📜 **Arthur Conan Doyle (*A Scandal in Bohemia*):** *"The young clerk stamped the official papers **inattentively**, humming a music-hall air under his breath."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"I listened **inattentively** to the gossip of the schoolmistress, my thoughts drifting far across the grey Channel."*

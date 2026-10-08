@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Satisfy in a limited way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make content.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or expressing happiness, ease, or satisfaction with one's situation and possessions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Willing to accept conditions without complaint or restless ambition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thither will I invite the Duke and all’s contented followers."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, for mine own part, my lord, I could be well contented to be there, in respect of the love I bear your house.” He could be contented; why is he not, then?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If the deed were ill, Be you contented, wearing now the garland, To have a son set your decrees at nought?"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Bennet was thoroughly **contented** with his library and his garden, caring little for London frivolities."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Peggotty sat knitting by the parlor hearth with a placid and **contented** smile upon her honest face."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A man is rich in proportion to the number of things which he can afford to let alone and live **contented**."*

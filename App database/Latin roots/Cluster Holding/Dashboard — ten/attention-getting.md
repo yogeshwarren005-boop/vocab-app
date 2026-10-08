@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Seizing the attention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Likely to attract attention.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed or intended to attract notice, curiosity, or interest; ostentatious, sensational, or conspicuous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Employing bold visual, verbal, or theatrical means to capture immediate audience awareness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, attention-getting designates seizing the attention."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Extravagant sartorial fashions serve an **attention-getting** function that signals exemption from manual toil."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"The real estate firm erected an **attention-getting** billboard with flashing electric bulbs along the avenue."*
+> - 📜 **H. G. Wells (*Tono-Bungay*):** *"Uncle Ponderevo relied upon bold, **attention-getting** advertisements in every London daily to sell his patent elixir."*

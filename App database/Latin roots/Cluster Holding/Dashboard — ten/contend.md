@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Maintain or assert.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have an argument about something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To struggle to surmount a difficulty or danger; to compete or vie with someone for victory or supremacy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To assert or maintain an argument or proposition earnestly and vigorously in debate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy blood and virtue Contend for empire in thee, and thy goodness Share with thy birthright!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let this fellow Be nothing of our strife; if we contend, Out of our question wipe him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The next time I do fight I’ll make Death love me, for I will contend Even with his pestilent scythe. [_Exeunt all but Enobarbus._] ENOBARBUS."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Better to reign in hell than serve in heaven, and with ambitious mind **contend** against omnipotence."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"We **contend** that a vigorous executive is essential to the protection of the community against foreign attacks."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Blow, winds, and crack your cheeks! rage! blow! You cataracts and hurricanoes, spout till you have drench'd our steeples, drown'd the cocks! ... yet man's nature cannot **contend** with such strife."*

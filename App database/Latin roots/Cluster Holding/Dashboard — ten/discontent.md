@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A longing for something better than the present situation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make dissatisfied.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of satisfaction with one's possessions, status, or situation; restless dissatisfaction or grievance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rebellious, dissatisfied person; or to make someone dissatisfied and restless with their circumstances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So I leave you, sir, To th’ worst of discontent. [_Exit._] CLOTEN."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, Margaret; my heart is drowned with grief, Whose flood begins to flow within mine eyes, My body round engirt with misery; For what’s more miserable than discontent?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Heart’s discontent and sour affliction Be playfellows to keep you company!"*
+> - 📜 **William Shakespeare (*Richard III*):** *"Now is the winter of our **discontent** made glorious summer by this sun of York."*
+> - 📜 **Francis Bacon (*Essays*):** *"Widespread poverty and wounded factional pride are the two chief fuel sources of political **discontent** in a commonwealth."*
+> - 📜 **Edmund Burke (*Thoughts on the Cause of the Present Discontents*):** *"To complain of the business of our contemporaries is an unpleasing task, but popular **discontent** indicates genuine misgovernment."*

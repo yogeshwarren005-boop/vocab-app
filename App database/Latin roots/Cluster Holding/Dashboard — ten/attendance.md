@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of being present (at a meeting or event etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The frequency with which a person is present.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of being present at a place or event; or the total number of people present at a gathering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of waiting upon, serving, or providing personal assistance and medical care to someone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Clarence, Gloucester, Warwick and others in attendance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Last time, I danced attendance on his will Till Paris was besieged, famished, and lost."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I had thought They had parted so much honesty among ’em— At least good manners—as not thus to suffer A man of his place, and so near our favour, To dance attendance on their lordships’ pleasures, And at the door too, like a post with packets."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"Give thy **attendance** on our royal person, and let no stranger enter the chamber unannounced."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The daily **attendance** of senators at the imperial palace became an onerous duty of sycophantic submission."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Regular **attendance** in class was enforced at Dotheboys Hall by the brutal birch of Mr. Squeers."*

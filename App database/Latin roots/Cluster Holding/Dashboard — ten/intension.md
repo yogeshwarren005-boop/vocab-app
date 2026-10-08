@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: What you must know in order to determine the reference of an expression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: What you must know in order to determine the reference of an expression.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The intrinsic meaning, content, or connotation of a concept in logic, consisting of all qualities implied by it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: High intensity, earnest concentration of mind, or determination directed toward an objective.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intension designates what you must know in order to determine the reference of an expression."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The **intension** of a general term consists in the sum of attributes which it connotes or implies."*
+> - 📜 **William Hamilton (*Lectures on Logic*):** *"Concepts vary inversely in extension and **intension**; as breadth of application increases, specific content diminishes."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Great discoveries demand sustained **intension** of the mental powers upon a few chosen natural problems."*

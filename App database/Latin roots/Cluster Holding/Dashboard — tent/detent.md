@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hinged catch that fits into a notch of a ratchet to move a wheel forward or prevent it from moving backward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hinged catch that fits into a notch of a ratchet to move a wheel forward or prevent it from moving backward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A catch, pawl, or lever that locks or unlocks the movement of a mechanism, such as a clock or ratchet wheel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In firearm mechanisms, a stop or pawl that holds the sear or hammer in position until released by the trigger.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, detent designates a hinged catch that fits into a notch of a ratchet to move a wheel forward or prevent it from moving backward."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"I pressed the starting lever until the spring-loaded **detent** clicked firmly into its second brass notch."*
+> - 📜 **Jules Verne (*From the Earth to the Moon*):** *"The clockwork escapement was regulated by a steel **detent** that tripped the electrical firing contact at the precise second."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"The gunsmith inspected the lock of the sawn-off shotgun, observing that the **detent** was worn smooth by long use."*

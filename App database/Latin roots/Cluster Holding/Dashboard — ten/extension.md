@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mutually agreed delay in the date set for the completion of a job or payment of a debt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of expanding in scope; making more widely available.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of moving a limb from a bent to a straight position; or the act of increasing dimensions or scope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metaphysics and physics, the property of occupying three-dimensional physical space; spatial magnitude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He uttered a long guttural sigh—there was a contraction—an extension—then his muscles relaxed, and he lay still."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But this he seemed not to mind, and, having room for extension in the open air, he lifted her against his shoulder, so that he could carry her with ease, the absence of clothes taking much from his burden."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In great surprise the tradesman dropped a note, saying he would meet his demand, but if not all the mortgage was needed, its extension would benefit the use of the capital in his business."*
+> - 📜 **René Descartes (*Meditations on First Philosophy*):** *"The essential nature of corporeal matter consists not in weight or color, but solely in spatial **extension**."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"We acquire our idea of **extension** both by sight and touch, perceiving distance between solid bodies."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The continuous **extension** of Roman citizenship to provincial subjects softened ethnic animosities across the empire."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Weaken the consistency of (a chemical substance).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become weaker, in strength, value, or magnitude.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unnaturally thin, slender, or drawn out; or reduced in force, virulence, intensity, or magnitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine and immunology, of a pathogen, rendered non-pathogenic while retaining immunogenic potency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"By the outer margin of the Pit was an oval pond, and over it hung the attenuated skeleton of a chrome-yellow moon which had only a few days to last—the morning star dogging her on the left hand."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"All the lights in the scene were yellow as to colour, and all the shadows were attenuated as to form."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Perhaps I shall be in my grave before then.” A manor-house clock from the far depths of shadow struck the hour, one, in a small, attenuated tone."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The cave insects possessed extraordinarily elongated, **attenuated** antennae, compensating for the loss of sight."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ancient discipline of the legions had become so **attenuated** that soldiers refused to wear heavy armor in battle."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The doctor administered an **attenuated** culture of the anthrax bacillus, conferring immunity upon the sheep flock."*

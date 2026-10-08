@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of attention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of attention.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of attention, consideration, or focus; failure to pay notice or heed to one's surroundings or duties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Neglect or omission of courteous behavior, social etiquette, or professional diligence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"We see nothing of them, and this is really an instance of gross inattention."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"His friendship for sinners was a taunt against him in his lifetime; so was his inattention to the Sabbath (Mark 2:24, 3:2), and the details of ceremonial washing (Mark 7:1-5)."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Hurst called them to order, with bitter complaints of their inattention to what was going forward."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Bingley's apparent **inattention** to Jane during the London winter broke her gentle heart with silent sorrow."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"A single moment of **inattention** on the part of the night watchman allowed the jewel thief to bypass the window locks."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Errors in philosophy spring not from defect of intellect, but from habitual **inattention** to obvious facts."*

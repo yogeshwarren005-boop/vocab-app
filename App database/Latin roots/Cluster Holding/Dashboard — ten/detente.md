@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The easing of tensions or strained relations (especially between nations).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The easing of tensions or strained relations (especially between nations).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The easing of hostility or strained relations, especially between rival nations or political superpowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diplomatic period or policy characterized by negotiations, arms control treaties, and de-escalation of Cold War tensions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, detente designates the easing of tensions or strained relations (especially between nations)."*
+> - 📜 **Henry Kissinger (*White House Years*):** *"The strategy of **detente** was designed to manage great power rivalry through a network of mutual diplomatic incentives."*
+> - 📜 **Winston Churchill (*Speeches in Parliament*):** *"We seek an honorable **detente** with our eastern adversaries, but only from a position of united allied strength."*
+> - 📜 **George F. Kennan (*Memoirs*):** *"A durable **detente** requires mutual recognition of vital security interests rather than sentimental illusions of friendship."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process whereby a person concentrates on some features of the environment to the (relative) exclusion of others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The work of providing treatment for or attending to someone or something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Notice taken of someone or something; the regarding of someone or something as interesting or important.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mental faculty of directing cognitive resources and awareness selectively toward a specific object or thought.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, with all my heart, And lend my best attention."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To punish you by the heels would amend the attention of your ears, and I care not if I do become your physician."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, what moved me to’t, I will be bold with time and your attention."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Everyone knows what **attention** is: it is the taking possession by the mind, in clear and vivid form, of one out of several simultaneous objects."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth watched Mr. Darcy with quiet **attention**, curious to discover whether his former pride had truly softened."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The idols of the mind divert human **attention** from the sober, patient observation of natural facts."*

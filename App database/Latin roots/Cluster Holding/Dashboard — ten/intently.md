@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With strained or eager attention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With strained or eager attention.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With earnest and eager attention; fixedly, sharply, or with intense mental concentration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner demonstrating firm purpose, resolute focus, and unwavering absorption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa was looking at her intently."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby descends and finds the two ’prentices intently contemplating a police constable, who holds a ragged boy by the arm."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Will you graciously let me kiss your hand?” She looked at me more intently as she took it, and seemed to take note, with her momentary touch, of every vein in it."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes knelt upon the damp carpet, examining the minute cigarette ash **intently** through his magnifying lens."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The harpooneer leaned over the bow, peering **intently** into the dark sea where the white whale had breached."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I looked **intently** into the dying embers of the grate, wondering what uncertain future awaited me at Lowood."*

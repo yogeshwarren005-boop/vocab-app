@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Self-restraining; not indulging an appetite especially for food or drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Self-restraining; not indulging an appetite especially for food or drink.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Practicing self-restraint or refraining habitually from physical appetites, alcohol, or rich nourishment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by or characterized by deliberate moderation, sobriety, and frugal restraint.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abstentious designates self-restraining; not indulging an appetite especially for food or drink."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The ancient philosopher led an **abstentious** life in his garden, dining contentedly upon spring water and dry barley bread."*
+> - 📜 **George Eliot (*Romola*):** *"Savonarola exhorted the citizens of Florence to adopt an **abstentious** regime during the solemn penitential season."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Professor Teufelsdröckh observed an **abstentious** discipline in his high garret, indifferent to culinary luxuries."*

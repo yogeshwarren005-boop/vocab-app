@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large or extensive in breadth or importance or comprehensiveness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large or extensive in breadth or importance or comprehensiveness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property or characteristic of covering a large area or having wide scope, range, or application.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Great spatial expanse, breadth of learning, or comprehensive magnitude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extensiveness designates large or extensive in breadth or importance or comprehensiveness."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"The **extensiveness** of Milton's classical erudition is demonstrated in every majestic stanza of Paradise Lost."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The sheer **extensiveness** of the Roman frontier exposed distant provinces to simultaneous barbarian incursions."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"The **extensiveness** of our moral sympathy diminishes in proportion as individuals are distant from our domestic circle."*

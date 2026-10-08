@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large penguins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large penguins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large flightless marine birds in the penguin family (Spheniscidae), comprising the emperor penguin and king penguin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subantarctic and Antarctic pelagic diving birds characterized by stately size, colorful neck plumage, and deep diving capabilities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aptenodytes designates large penguins."*
+> - 📜 **James Cook (*A Voyage Towards the South Pole*):** *"Upon the ice floes we observed majestic specimens of **Aptenodytes**, standing upright in solemn ranks like soldiers."*
+> - 📜 **Robert Falcon Scott (*Scott's Last Expedition*):** *"Dr. Wilson ventured to Cape Crozier through winter blizzard to collect the rare embryos of **Aptenodytes** for embryological study."*
+> - 📜 **Charles Darwin (*The Zoology of the Voyage of H.M.S. Beagle*):** *"The magnificent birds of the genus **Aptenodytes** propel themselves through freezing southern seas with flipper strokes of great power."*

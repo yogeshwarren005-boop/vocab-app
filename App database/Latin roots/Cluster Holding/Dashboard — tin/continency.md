@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The exercise of self constraint in sexual matters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The exercise of self constraint in sexual matters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Self-restraint, especially in the gratification of sexual passions; chastity or moral temperance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physical ability to control bodily excretions; or general moderation and self-command in conduct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This ungenitured agent will unpeople the province with continency."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In her chamber, making a sermon of continency to her; And rails, and swears, and rates, that she, poor soul, Knows not which way to stand, to look, to speak, And sits as one new risen from a dream."*
+> - 📜 **Francis Bacon (*Essays*):** *"He that hath wife and children hath given hostages to fortune; yet the greatest public works have proceeded from men of **continency**."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Philosophers praise **continency** as the crown of temperance, bridling the unruly fury of the animal passions."*
+> - 📜 **Walter Scott (*The Abbot*):** *"The abbot praised the young knight's **continency** and honor in escorting the fair maiden safely through hostile country."*

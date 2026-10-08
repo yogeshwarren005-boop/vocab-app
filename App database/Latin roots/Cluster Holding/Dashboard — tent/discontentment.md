@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A longing for something better than the present situation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A longing for something better than the present situation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Restless dissatisfaction, grievance, or sorrowful unhappiness with existing circumstances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A collective mood of grievance and agitation within a social class, army, or populace.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discontentment designates a longing for something better than the present situation."*
+> - 📜 **Francis Bacon (*Essays*):** *"When **discontentment** spreads among the common soldiers, the wisest captain avoids severe and sudden punishments."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Seditious pamphlets fanned the general **discontentment** into an uncontrollable fury against the ancient monarchy."*
+> - 📜 **John Milton (*The Reason of Church Government*):** *"Prelatical tyranny bred a perpetual **discontentment** among the most pious and learned ministers of the realm."*

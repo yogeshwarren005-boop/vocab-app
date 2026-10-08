@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal alliance between countries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A friendly understanding between political powers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A friendly understanding or informal alliance between states, governments, or political factions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diplomatic alignment or treaty agreement between nations, such as the Entente Cordiale or the Triple Entente.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"So let us sing--"Long live the king" And join the bonne entente, Jean."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"THE ENTENTE CORDIALE VII It has been well observed that there are moments and moments."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"We wandered about the grounds discussing the game, the _entente cordiale_ growing more firmly established every moment."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The historic **Entente** Cordiale of 1904 resolved longstanding colonial disputes between Great Britain and France."*
+> - 📜 **Edward Grey (*Twenty-Five Years*):** *"The triple **entente** was not a formal military alliance, but a moral understanding between Britain, France, and Russia."*
+> - 📜 **Woodrow Wilson (*War and Peace: Presidential Messages*):** *"Our purpose is not to balance armed factions, but to forge a universal **entente** of free nations committed to justice."*

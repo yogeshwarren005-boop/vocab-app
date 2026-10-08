@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have in mind as a purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Design or destine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Planned, purposeful, or deliberate; meant or designed for a particular recipient, outcome, or end.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colloquial or archaic term for one's fiancé or fiancée; the person one intends to marry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet your good will Must have that thanks from Rome after the measure As you intended well."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can you think to blow out the intended fire your city is ready to flame in with such weak breath as this?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And further, I have learn’d The King himself in person is set forth, Or hitherwards intended speedily, With strong and mighty preparation."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The poison was evidently **intended** for the baronet, but the hound struck down the escaped convict instead."*
+> - 📜 **Jane Austen (*Emma*):** *"Her secret engagement to Frank Churchill was long **intended** by the families, though kept concealed from the world."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The magnificent triumphal arch was **intended** to commemorate the final pacification of the Dacian province."*

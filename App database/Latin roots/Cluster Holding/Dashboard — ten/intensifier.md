@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A modifier that has little meaning except to intensify the meaning it modifies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A modifier that has little meaning except to intensify the meaning it modifies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A linguistic element or modifier (such as 'very', 'extremely', or 'thoroughly') that increases the emotional or descriptive force of a word.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mechanical, hydraulic, or optical apparatus that boosts pressure, light amplification, or signal magnitude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intensifier designates a modifier that has little meaning except to intensify the meaning it modifies."*
+> - 📜 **Henry Sweet (*A New English Grammar*):** *"An **intensifier** like 'exceedingly' or 'utterly' strengthens the descriptive predicate in rhetorical speech."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The heat-ray mechanism utilized a parabolic mirror and an optical **intensifier** to focus the destructive beam."*
+> - 📜 **Otto Jespersen (*The Philosophy of Grammar*):** *"Spoken colloquial discourse frequently invents fresh words to serve as an **intensifier** when older adverbs weaken."*

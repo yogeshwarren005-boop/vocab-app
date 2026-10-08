@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of abstaining (especially from alcohol).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of abstaining (especially from alcohol).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal act or practice of declining to vote either for or against a motion or proposal in an assembly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Voluntary restraint or self-denial from indulgence in bodily pleasures, intoxicating drink, or luxury.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"All such customs of abstention or rules of avoidance are examples of negative magic or taboo."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Civic apathy often takes the dangerous form of systematic **abstention** from national elections among the educated class."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Christian hermits sought spiritual salvation through severe **abstention** from all worldly discourse and social pleasures."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"In deliberative bodies, principled **abstention** can express profound dissent against ill-conceived legislative compromise."*

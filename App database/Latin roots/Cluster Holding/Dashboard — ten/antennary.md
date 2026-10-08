@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to antennae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to antennae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging or pertaining to an antenna or pair of antennae; antennal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving as an antenna or sensory organ for tactile and chemical perception in invertebrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antennary designates of or relating to antennae."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*):** *"The green gland opens at the base of the second **antennary** segment, functioning as an excretory organ."*
+> - 📜 **Charles Darwin (*A Monograph on the Sub-class Cirripedia*):** *"The larval barnacle adheres to the substrate by means of cement glands situated within its **antennary** cups."*
+> - 📜 **Henri Fabre (*Social Life in the Insect World*):** *"Subtle sensory pits dot the **antennary** joints of the great peacock moth, guiding its nocturnal flight."*

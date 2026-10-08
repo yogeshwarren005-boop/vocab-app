@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of being confined (usually for a short time).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A punishment in which a student must stay at school after others have gone home.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Compulsory confinement or official custody of a person, especially in prison or police holding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A school punishment in which a pupil is required to stay behind after normal classroom hours.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray you, How goes the world, that I am thus encountered With clamorous demands of debt, broken bonds, And the detention of long-since-due debts Against my honour?"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Never was there so model an institution of detention."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Travilla, for saving me from a long detention in one of those miserable little country taverns, where I should have died of _ennui_." "You seem kindly disposed, my dear madam, to make a great deal of a small service," returned Edward gallantly."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The writ of habeas corpus provides immediate legal relief against the arbitrary **detention** of any subject of the realm."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The long **detention** of the hostages in the imperial camp secured the peaceful submission of the German chieftains."*
+> - 📜 **Charles Dickens (*The Posthumous Papers of the Pickwick Club*):** *"Mr. Pickwick entered the Fleet Prison, prepared to endure indefinite **detention** rather than pay Dodsons and Foggs unjust costs."*

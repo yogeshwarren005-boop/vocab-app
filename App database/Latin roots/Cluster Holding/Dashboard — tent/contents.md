@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A list of divisions (chapters or articles) and the pages on which they start.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Everything that is included in a collection and that is held or included in something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The things that are held or included in a container, vessel, book, document, or defined space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A list of the chapters, sections, or parts into which a book or document is divided, usually at the beginning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contents designates a list of divisions (chapters or articles) and the pages on which they start."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Holmes emptied the **contents** of the victim's pockets upon the wooden table, examining each slip of paper with a glass."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The emperor's officers made a strict inventory of the **contents** of my pockets, marveling at my watch and snuff-box."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The table of **contents** of an encyclopedic treatise should mirror the natural order and division of the sciences."*

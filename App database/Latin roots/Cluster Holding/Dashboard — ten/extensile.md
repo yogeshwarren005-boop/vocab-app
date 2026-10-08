@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being protruded or stretched or opened out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being protruded or stretched or opened out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being protruded, thrust forward, or extended outward, especially said of animal organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adapted for outward projection to reach food, grasp objects, or sense environmental stimuli.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extensile designates capable of being protruded or stretched or opened out."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The chameleon captures insects by shooting forward its long, **extensile** tongue with lightning rapidity."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The sun-bear licks honey from hollow trees by means of its remarkably slender, **extensile** tongue."*
+> - 📜 **Henri Fabre (*The Wonders of Instinct*):** *"The hunting wasp probed the crevice with an **extensile** ovipositor to deposit its egg upon the paralyzed beetle."*

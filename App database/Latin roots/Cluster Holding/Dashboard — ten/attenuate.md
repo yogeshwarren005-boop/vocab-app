@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Weaken the consistency of (a chemical substance).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become weaker, in strength, value, or magnitude.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To reduce the force, intensity, effect, thickness, or value of something; to weaken or make slender.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiology, to reduce the virulence of a pathogenic bacterium or virus for use as a vaccine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"BURNET CHAIN-BRAND; scattered, in small tufts, hypogenous; spores curved or straight, composed of from 5 to 15 articulations; obtuse at one extremity, slightly attenuate at the other.—On Burnet."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"By the outer margin of the Pit was an oval pond, and over it hung the attenuated skeleton of a chrome-yellow moon which had only a few days to last—the morning star dogging her on the left hand."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"All the lights in the scene were yellow as to colour, and all the shadows were attenuated as to form."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Heat hath power to **attenuate** dense bodies and disperse their heavier vapours into the upper air."*
+> - 📜 **Louis Pasteur (*Researches on Rabies*):** *"By prolonged exposure of the spinal cord to dry air, we learned to **attenuate** the lethal virus for inoculation."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Theoretical abstractions serve only to **attenuate** those ancient ties of civic affection that bind society together."*

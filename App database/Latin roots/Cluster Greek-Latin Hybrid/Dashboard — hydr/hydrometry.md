@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrometry
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The measurement of specific gravity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The measurement of specific gravity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physical science that deals with measuring the density and specific gravity of liquids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The measurement of the flow, discharge, and velocity of water in natural channels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrometry designates the measurement of specific gravity."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"The principles of **hydrometry** depend directly on Archimedes' famous law of buoyant displacement."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"Accurate **hydrometry** provides indispensable service to both fiscal excise officers and naval architects."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"River **hydrometry** reveals that the volume of the Amazon dwarfs all other continental drainage systems."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydroxide
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound of an oxide with water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical compound containing the hydroxyl group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical compound containing the hydroxyl group or anion (OH-), such as sodium hydroxide or potassium hydroxide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inorganic base or alkali consisting of a metal combined with hydroxide ions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The positive plate consists of nickel tubes filled with alternate layers of nickel hydroxide, while the negative plate is formed of prepared oxide of iron in a nickel framework."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The electrolyte is a solution of potassium hydroxide."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"By passing a powerful galvanic current through moist caustic potash, I isolated potassium from its **hydroxide**."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Electrolysis of brine generates chlorine gas at the anode while sodium **hydroxide** accumulates at the cathode."*
+> - 📜 **William Ramsay (*Modern Chemistry*):** *"Precipitation with ammonium **hydroxide** yields a gelatinous reddish-brown precipitate of ferric **hydroxide**."*

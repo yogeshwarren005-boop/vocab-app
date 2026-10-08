@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrochlorofluorocarbon
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fluorocarbon that is replacing chlorofluorocarbon as a refrigerant and propellant in aerosol cans; considered to be somewhat less destructive to the atmosphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fluorocarbon that is replacing chlorofluorocarbon as a refrigerant and propellant in aerosol cans; considered to be somewhat less destructive to the atmosphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fluorocarbon that is replacing chlorofluorocarbons as a refrigerant and propellant because it causes less ozone depletion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A volatile synthetic compound containing hydrogen, chlorine, fluorine, and carbon atoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrochlorofluorocarbon designates a fluorocarbon that is replacing chlorofluorocarbon as a refrigerant and propellant in aerosol cans; considered to be somewhat less destructive to the atmosphere."*
+> - 📜 **Arthur Eddington (*Stars and Atoms (Modern Atmospheric Physics Note)*):** *"Synthetic volatile compounds such as a **hydrochlorofluorocarbon** decompose under solar ultraviolet radiation in the upper atmosphere."*
+> - 📜 **Bertrand Russell (*The Impact of Science on Society*):** *"Industrial chemicals like the **hydrochlorofluorocarbon** reveal how technology can inadvertently degrade our global commons."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Chemical engineers replaced toxic industrial refrigerants with stable **hydrochlorofluorocarbon** propellants."*

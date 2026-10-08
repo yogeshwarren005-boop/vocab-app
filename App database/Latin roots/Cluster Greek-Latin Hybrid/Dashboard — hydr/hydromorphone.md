@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydromorphone
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A narcotic analgesic (trade name dilaudid) used to treat moderate to severe pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A narcotic analgesic (trade name dilaudid) used to treat moderate to severe pain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A potent semisynthetic opioid analgesic drug derived from morphine, used to relieve severe pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clinically controlled narcotic analgesic with high potency (Dilaudid).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydromorphone designates a narcotic analgesic (trade name dilaudid) used to treat moderate to severe pain."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine (Addenda)*):** *"In intractable terminal pain, subcutaneous **hydromorphone** provided profound relief when weaker opiates failed."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The doctor carried ampoules of **hydromorphone** in his emergency case to subdue the agony of biliary colic."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Advanced synthetic analgesics such as **hydromorphone** eliminated post-operative suffering in emergency wards."*

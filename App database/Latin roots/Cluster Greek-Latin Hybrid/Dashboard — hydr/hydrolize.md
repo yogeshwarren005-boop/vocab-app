@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrolize
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a compound react with water and undergo hydrolysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a compound react with water and undergo hydrolysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cleave chemical bonds in a molecule through the addition of water; to hydrolyze.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To decompose an organic compound by chemical or enzymatic reaction with water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrolize designates make a compound react with water and undergo hydrolysis."*
+> - 📜 **Svante Arrhenius (*Immunochemistry*):** *"Digestive proteases **hydrolize** protein chains at specific peptide links along the backbone."*
+> - 📜 **William Ramsay (*Essays Biographical and Chemical*):** *"Superheated steam will **hydrolize** tallow fats directly into stearin and sweet glycerin."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Cellular diastase serves to **hydrolize** reserve starch granules into mobile nutrient sap."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydration
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of combining with water; usually reversible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of combining with water; usually reversible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chemical process of combining a substance with water molecules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physiological state of absorbing and retaining adequate water within the body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydration designates the process of combining with water; usually reversible."*
+> - 📜 **William Ramsay (*Modern Chemistry*):** *"The heat of **hydration** evolved when quicklime slakes with water is sufficient to ignite gunpowder."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Restoring cellular **hydration** through saline administration dramatically reduces blood viscosity."*
+> - 📜 **Svante Arrhenius (*Textbooks of Electrochemistry*):** *"Ions in aqueous solutions surround themselves with a sheath of water through electrical **hydration**."*

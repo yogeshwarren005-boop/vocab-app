@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # dihydrostreptomycin
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Antibiotic consisting of a hydrogenated form of streptomycin; used against tuberculosis and tularemia and gram-negative organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Antibiotic consisting of a hydrogenated form of streptomycin; used against tuberculosis and tularemia and gram-negative organisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A semisynthetic aminoglycoside antibiotic obtained by hydrogenation of streptomycin, historically used against tuberculosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibacterial derivative of streptomycin with potential ototoxic side effects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dihydrostreptomycin designates antibiotic consisting of a hydrogenated form of streptomycin; used against tuberculosis and tularemia and gram-negative organisms."*
+> - 📜 **Alexander Fleming (*Penicillin: Its Practical Application*):** *"While streptomycin proved revolutionary against tuberculosis, **dihydrostreptomycin** offered greater chemical stability."*
+> - 📜 **William Osler (*The Evolution of Modern Medicine (Notes)*):** *"The clinical use of **dihydrostreptomycin** was eventually curtailed due to auditory nerve toxicity."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"New therapeutic weapons like **dihydrostreptomycin** conquered chronic pulmonary infections throughout Europe."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrated
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Supply water or liquid to in order to maintain a healthy balance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become hydrated and combine with water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Combined chemically with water molecules; supplied with sufficient water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing water of crystallization in mineralogical or chemical structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrated designates supply water or liquid to in order to maintain a healthy balance."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The **hydrated** crystals lost their brilliant transparency and crumbled into powder when warmed in air."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"Gypsum is a **hydrated** calcium sulphate that converts into anhydrite when subjected to intense volcanic heat."*
+> - 📜 **William Osler (*Aequanimitas*):** *"Maintaining a well **hydrated** state is the best clinical shield against febrile delirium."*

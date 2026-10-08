@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydride
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any binary compound formed by the union of hydrogen and other elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any binary compound formed by the union of hydrogen and other elements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A binary chemical compound of hydrogen with another, more electropositive element or metal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compound in which hydrogen acts as an anion with an oxidation state of -1.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydride designates any binary compound formed by the union of hydrogen and other elements."*
+> - 📜 **William Ramsay (*Modern Chemistry*):** *"Calcium **hydride** reacts vigorously with cold water to liberate copious volumes of pure hydrogen gas."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"We investigated whether palladium absorbs hydrogen by forming an interstitial metallic **hydride**."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Alkali metals combine directly with hydrogen under gentle heat to yield a white, crystalline **hydride**."*

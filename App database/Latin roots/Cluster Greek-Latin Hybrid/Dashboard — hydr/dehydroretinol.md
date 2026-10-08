@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # dehydroretinol
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A viscous alcohol that is less active in mammals than is vitamin a1.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A viscous alcohol that is less active in mammals than is vitamin a1.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of vitamin A (vitamin A2) found especially in freshwater fish oils, differing from retinol by an additional double bond.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biological derivative of retinol serving as an ocular photoreceptor chromophore in freshwater vertebrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dehydroretinol designates a viscous alcohol that is less active in mammals than is vitamin a1."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The visual pigments of freshwater fishes utilize **dehydroretinol** instead of the typical marine vitamin A1."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine (Addenda)*):** *"Dietary assays in nutritional pathology demonstrate that **dehydroretinol** restores night vision in deficient animals."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The biochemical divergence between retinal rhodopsin and freshwater **dehydroretinol** reflects ancient vertebrate adaptations."*

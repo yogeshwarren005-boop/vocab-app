@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrochoeridae
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capybara.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capybara.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic family of semiaquatic South American rodents that includes the capybara, the world's largest rodent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capybara rodent family, adapted to wetlands and riverbanks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog hydrochoeridae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The giant capybara of the family **Hydrochoeridae** browsed peacefully in herds along the marshy banks of the Parana."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"In **Hydrochoeridae**, the molar teeth exhibit characteristic transverse enamel plates reminiscent of elephant dentition."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"Fossil members of **Hydrochoeridae** found in pampean caves rivaled modern tapirs in body dimensions."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrolise
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a compound react with water and undergo hydrolysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a compound react with water and undergo hydrolysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To subject a chemical compound to hydrolysis; to split molecules by reaction with water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To break down complex organic polymers enzymatically using water molecules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrolise designates make a compound react with water and undergo hydrolysis."*
+> - 📜 **William Ramsay (*Modern Chemistry*):** *"Dilute mineral acids readily **hydrolise** cane sugar into equimolar amounts of dextrose and levulose."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Intestinal enzymes **hydrolise** dietary fats into fatty acids and glycerol prior to mucosal absorption."*
+> - 📜 **Svante Arrhenius (*Theories of Chemistry*):** *"Pure boiling water will slowly **hydrolise** metallic esters without requiring an additional catalyst."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrogen
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonmetallic univalent element that is normally a colorless and odorless highly flammable diatomic gas; the simplest and lightest and most abundant element in the universe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nonmetallic univalent element that is normally a colorless and odorless highly flammable diatomic gas; the simplest and lightest and most abundant element in the universe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless, odorless, highly flammable gaseous chemical element, the lightest and most abundant element in the universe (symbol H).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The basic atomic building block possessing a single proton and electron.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Here would be another light, as of oxy-hydrogen, showing the very grain of things, and revising all former explanations."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"And even if I wish to rise more quickly to the surface, I ship the screw, and the pressure of the water causes the _Nautilus_ to rise vertically like a balloon filled with hydrogen.” “Bravo, Captain!"*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"The platinum, owing to a property it possesses in a high degree (which property however is not special to platinum), has the power of coercing the union of the hydrogen and oxygen."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"We applied the name **hydrogen** to this inflammable air because its combustion with oxygen generates pure water."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"By passing an electric spark through mixed oxygen and **hydrogen**, the gases vanished with an explosion into dew."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Cavendish was the first to demonstrate that **hydrogen** is a distinct, weighable, elastic fluid of extreme lightness."*

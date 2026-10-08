@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrolyzable
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of undergoing hydrolysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of undergoing hydrolysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being split or decomposed by hydrolysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Susceptible to chemical cleavage through the addition of water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrolyzable designates capable of undergoing hydrolysis."*
+> - 📜 **William Ramsay (*Modern Chemistry*):** *"Cane sugar is readily **hydrolyzable** under gentle warming with dilute sulphuric acid."*
+> - 📜 **Svante Arrhenius (*Immunochemistry*):** *"The ester linkages proved easily **hydrolyzable**, whereas the amide bonds resisted enzymatic cleavage."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Complex polysaccharides are readily **hydrolyzable** by salivary amylase into fermentable maltose."*

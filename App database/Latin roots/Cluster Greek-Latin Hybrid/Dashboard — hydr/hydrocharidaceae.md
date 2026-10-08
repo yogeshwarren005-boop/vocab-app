@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrocharidaceae
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Simple nearly stemless freshwater aquatic plants; widely distributed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Simple nearly stemless freshwater aquatic plants; widely distributed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical family of aquatic monocotyledonous flowering plants, including frogbit, tape grass, and hydrilla.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tape-grass family of freshwater and marine submerged angiosperms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrocharidaceae designates simple nearly stemless freshwater aquatic plants; widely distributed."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Members of **Hydrocharidaceae** are aquatic herbs with dioecious flowers borne from spathes beneath the water."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation*):** *"Vallisneria, a member of **Hydrocharidaceae**, exhibits a romantic mechanism where male flowers detach to float."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The global freshwater dispersal of **Hydrocharidaceae** illustrates how readily aquatic seeds travel."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydromel
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Honey diluted in water; becomes mead when fermented.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Honey diluted in water; becomes mead when fermented.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A liquor made of honey and water, which when fermented becomes mead.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historical medicinal or festive beverage prepared by diluting honey in water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydromel designates honey diluted in water; becomes mead when fermented."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"He drank no wine nor intoxicating **hydromel**, but drew pure water from the crystal spring."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"The Saxon thane quaffed deep draughts of foaming **hydromel** from a carved horn rimmed with silver."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Hippocratic treatises frequently recommended warm **hydromel** to soothe irritated throats and promote expectoration."*

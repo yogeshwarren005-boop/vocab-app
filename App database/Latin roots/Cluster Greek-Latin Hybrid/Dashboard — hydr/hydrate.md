@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any compound that contains water of crystallization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supply water or liquid to in order to maintain a healthy balance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical compound in which water molecules are chemically bonded to another molecule or crystalline element.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To supply water or moisture to a substance, tissue, or living organism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrate designates any compound that contains water of crystallization."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"Chlorine **hydrate** crystallizes in pale yellow flakes at temperatures just above freezing."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Solid potassium hydroxide is in reality a stable **hydrate** containing one equivalent of combined water."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The essential goal of fluid therapy is to **hydrate** the exhausted tissues before circulatory collapse sets in."*

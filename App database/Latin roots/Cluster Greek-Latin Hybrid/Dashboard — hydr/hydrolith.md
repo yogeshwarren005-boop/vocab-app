@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrolith
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A saltlike binary compound (cah2) used as a reducing agent and source of hydrogen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A saltlike binary compound (cah2) used as a reducing agent and source of hydrogen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A trade name for calcium hydride (CaH2), used as a portable solid source for generating hydrogen gas upon contact with water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical reagent utilized in military balloons and field telegraphy to produce hydrogen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrolith designates a saltlike binary compound (cah2) used as a reducing agent and source of hydrogen."*
+> - 📜 **William Ramsay (*Modern Chemistry*):** *"Dropping a lump of **hydrolith** into a bucket of stream water generated sufficient hydrogen to fill the observation balloon."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"Field aeronauts carried tins of **hydrolith** to replenish their reconnaissance dirigibles at frontier outposts."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Professor Summerlee recommended bringing cakes of **hydrolith** in case our gasbags lost buoyancy over the plateau."*

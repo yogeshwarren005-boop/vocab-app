@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrophytic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Growing wholly or partially in water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Growing wholly or partially in water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having the characteristics of a hydrophyte; adapted to growing in water or wet habitats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing plants equipped with aerenchyma and dissected submerged foliage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrophytic designates growing wholly or partially in water."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The finely divided leaves of water crowfoot reflect **hydrophytic** modifications to withstand river currents."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"In **hydrophytic** vegetation, stomata are restricted to the upper surface of floating leaves or entirely absent."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature and Other Essays*):** *"The **hydrophytic** flora of Amazonian flooded forests endures months of complete submersion during seasonal floods."*

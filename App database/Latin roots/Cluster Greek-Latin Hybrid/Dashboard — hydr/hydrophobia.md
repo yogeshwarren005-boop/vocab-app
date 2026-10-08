@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrophobia
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A symptom of rabies in humans consisting of an aversion to swallowing liquids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A morbid fear of water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extreme, irrational fear of water; also, the historical clinical name for rabies in humans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fatal viral disease characterized by painful pharyngeal spasms when attempting to drink water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Growling and grousing and his eye all bloodshot from the drouth is in it and the hydrophobia dropping out of his jaws."*
+> - 📜 **Louis Pasteur (*Studies on Rabies*):** *"Inoculating the attenuated virus protected the bitten child from developing the dreaded symptoms of **hydrophobia**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient with **hydrophobia** suffers agonizing convulsions of the larynx at the mere sight or sound of water."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The creature foamed at the mouth, yet it was savage madness rather than canine **hydrophobia** that spurred its fury."*

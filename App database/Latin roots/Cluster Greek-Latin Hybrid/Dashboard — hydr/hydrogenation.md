@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrogenation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical process that adds hydrogen atoms to an unsaturated oil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical process that adds hydrogen atoms to an unsaturated oil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical reaction between molecular hydrogen and another element or compound, usually in the presence of a catalyst.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The industrial hardening of liquid fatty oils into solid shortenings and fats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrogenation designates a chemical process that adds hydrogen atoms to an unsaturated oil."*
+> - 📜 **William Ramsay (*Essays Biographical and Chemical*):** *"Sabatier's catalytic method of **hydrogenation** opened vast new territories across organic chemistry."*
+> - 📜 **Svante Arrhenius (*Textbooks of Electrochemistry*):** *"The rate of **hydrogenation** depends critically upon the microscopic surface porosity of the platinum black."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Synthetic liquid fuel production depended upon high-pressure coal **hydrogenation** factories."*

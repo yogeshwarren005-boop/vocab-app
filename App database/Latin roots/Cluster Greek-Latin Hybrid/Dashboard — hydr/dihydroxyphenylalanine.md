@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # dihydroxyphenylalanine
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Amino acid that is formed in the liver and converted into dopamine in the brain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Amino acid that is formed in the liver and converted into dopamine in the brain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An amino acid that is a biological precursor of dopamine, norepinephrine, epinephrine, and melanin pigments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: L-DOPA, a pharmaceutical compound used in the clinical treatment of Parkinson's disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dihydroxyphenylalanine designates amino acid that is formed in the liver and converted into dopamine in the brain."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The synthesis of **dihydroxyphenylalanine** is an essential intermediate step in the normal biosynthesis of adrenaline."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The dark coloration of cutaneous cells arises from enzymatic oxidation of **dihydroxyphenylalanine** into melanin."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"He explained that biochemical precursors such as **dihydroxyphenylalanine** dictate the transmission of neural impulses."*

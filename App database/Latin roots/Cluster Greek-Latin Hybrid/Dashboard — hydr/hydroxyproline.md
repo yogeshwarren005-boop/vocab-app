@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydroxyproline
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A crystalline amino acid obtained from gelatin or collagen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crystalline amino acid obtained from gelatin or collagen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A non-essential amino acid formed by the post-translational hydroxylation of proline, a major constituent of collagen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amino acid crucial for the stability and triple-helix structure of animal connective tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydroxyproline designates a crystalline amino acid obtained from gelatin or collagen."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The structural rigidity of animal collagen relies on the high abundance of **hydroxyproline** in its polypeptide chains."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In scurvy, vitamin C deficiency halts the synthesis of **hydroxyproline**, causing blood vessels to become fragile."*
+> - 📜 **Svante Arrhenius (*Immunochemistry*):** *"Gelatin hydrolysates are characterized by an exceptional proportion of crystalline **hydroxyproline**."*

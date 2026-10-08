@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrography
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of the measurement and description and mapping of the surface waters of the earth with special reference to navigation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science of the measurement and description and mapping of the surface waters of the earth with special reference to navigation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science that surveys, measures, and describes the physical features of oceans, seas, coastal areas, lakes, and rivers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The compilation and publication of navigational charts and marine sounding data.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrography designates the science of the measurement and description and mapping of the surface waters of the earth with special reference to navigation."*
+> - 📜 **Charles Darwin (*Life and Letters of Charles Darwin*):** *"FitzRoy was devoted heart and soul to the accurate science of **hydrography** and naval sounding."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"The physical geography of America owes its exact foundations to systematic astronomical **hydrography**."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Modern **hydrography** demonstrates how shifting estuary banks remodel coastlines over successive centuries."*

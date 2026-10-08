@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydroponic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to aquiculture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to aquiculture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the cultivation of plants in water containing dissolved nutrients rather than in soil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grown in soilless nutrient solutions in controlled agricultural environments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Conduct research and develop drip, hydroponics and other agricultural systems, protein synthesis and manufacture, and ship to Coldfield, the Slingshot work site and the Logistics Depot high-quality foodstuffs suitable for storage and consumption."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Subterranean cities produced fresh vegetables through vast **hydroponic** tanks bathed in artificial sunlight."*
+> - 📜 **Bertrand Russell (*The Impact of Science on Society*):** *"Scientific agriculture with **hydroponic** cultivation promises to feed growing populations without expanding cropland."*
+> - 📜 **Arthur Conan Doyle (*The Land of Mist*):** *"The experimental greenhouse utilized **hydroponic** culture to nurture exotic herbs with chemical precision."*

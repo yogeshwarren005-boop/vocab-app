@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydromantes
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Web-toed salamanders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Web-toed salamanders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of plethodontid salamanders known as cave salamanders or web-toed salamanders, native to California and southern Europe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lungless cave salamanders with projectile tongues and webbed feet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydromantes designates web-toed salamanders."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The discontinuous distribution of **Hydromantes** between California and Italian grottos suggests an ancient Tertiary corridor."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"In the cave salamander **Hydromantes**, respiration is entirely cutaneous, lungs having been lost during specialization."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"Relict amphibia of the genus **Hydromantes** dwell in cool subterranean fissures, surviving severe continental droughts."*

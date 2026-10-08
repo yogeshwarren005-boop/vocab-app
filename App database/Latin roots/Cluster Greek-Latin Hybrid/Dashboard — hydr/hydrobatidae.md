@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrobatidae
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Storm petrels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Storm petrels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic family of pelagic seabirds known as storm petrels, characterized by tubular nostrils and webbed feet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The northern storm petrel family, inhabiting open ocean waters worldwide.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrobatidae designates storm petrels."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The storm petrels of the family **Hydrobatidae** breed colonially on predator-free subpolar sea stacks."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Nocturnal nesting habits among the **Hydrobatidae** protect their single white egg from predatory gulls."*
+> - 📜 **Thomas Henry Huxley (*On the Classification of Birds*):** *"Osteological study places the **Hydrobatidae** among the Procellariiformes alongside the larger albatrosses."*

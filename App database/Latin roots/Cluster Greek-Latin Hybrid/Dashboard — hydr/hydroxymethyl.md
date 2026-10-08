@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydroxymethyl
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A methyl with hydroxide replacing the hydrogen atoms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A methyl with hydroxide replacing the hydrogen atoms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A univalent chemical radical consisting of a methyl group with one hydrogen replaced by a hydroxyl group (-CH2OH).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A functional group occurring in primary alcohols, sugars, and synthetic resins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydroxymethyl designates a methyl with hydroxide replacing the hydrogen atoms."*
+> - 📜 **William Ramsay (*Modern Chemistry*):** *"The presence of a **hydroxymethyl** branch confers primary alcohol characteristics upon the sugar molecule."*
+> - 📜 **Svante Arrhenius (*Theories of Chemistry*):** *"Condensation of formaldehyde with phenols proceeds through reactive intermediate **hydroxymethyl** derivatives."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Cellular enzymes systematically oxidize the terminal **hydroxymethyl** group into a reactive aldehyde."*

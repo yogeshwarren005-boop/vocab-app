@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrology
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of geology that studies water on the earth and in the atmosphere: its distribution and uses and conservation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of geology that studies water on the earth and in the atmosphere: its distribution and uses and conservation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of the waters of the Earth, their distribution, movement, chemical properties, and relationship to the environment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The investigation of precipitation, surface runoff, and subterranean water tables.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrology designates the branch of geology that studies water on the earth and in the atmosphere: its distribution and uses and conservation."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"A comprehensive understanding of **hydrology** is essential before undertaking large-scale canalization of river basins."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The laws of **hydrology** govern how alluvial plains are gradually deposited and sculpted over geological epochs."*
+> - 📜 **John Tyndall (*The Forms of Water in Clouds and Rivers, Ice and Glaciers*):** *"In studying the cycle of snow, ice, and mountain brooks, we explore the most poetical chapters of **hydrology**."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrangeaceae
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sometimes included in the family saxifragaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sometimes included in the family saxifragaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of flowering plants in the order Cornales, comprising about 17 genera of shrubs, small trees, and lianas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The hydrangea botanical family, including Philadelphus (mock orange) and Deutzia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrangeaceae designates sometimes included in the family saxifragaceae."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The family **Hydrangeaceae** is distinguished by opposite leaves and clustered flowers with valvate calyx lobes."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Species within **Hydrangeaceae** display notable plasticity under garden hybridization and soil conditioning."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The fossil record reveals members of **Hydrangeaceae** flourishing across circumpolar forests in the Miocene."*

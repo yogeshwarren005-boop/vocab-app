@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrographic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the science of hydrography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the science of hydrography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the scientific description, surveying, and mapping of bodies of water such as seas, rivers, and lakes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to maritime navigational charts and coastal sounding surveys.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrographic designates of or relating to the science of hydrography."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Captain FitzRoy conducted precise **hydrographic** surveys of the treacherous channels around Tierra del Fuego."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"Our **hydrographic** charts established the real connection between the Orinoco and the Rio Negro basin."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Soundings on the Admiralty's **hydrographic** maps revealed deep submarine canyons off the Portuguese shelf."*

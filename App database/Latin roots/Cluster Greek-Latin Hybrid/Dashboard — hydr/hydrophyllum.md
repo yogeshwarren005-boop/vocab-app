@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrophyllum
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Waterleaf.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Waterleaf.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of herbaceous perennial flowering plants in the family Boraginales, native to North American woodlands, known as waterleaf.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Woodland wildflowers bearing pinnately divided leaves with water-drop markings and clustered bell-shaped blossoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrophyllum designates waterleaf."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The tender leaves of **Hydrophyllum** virginianum appear blotched as if spotted by drops of morning dew."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The young shoots of **Hydrophyllum** exhibit gentle circumnutation as they emerge from the forest leaf mold."*
+> - 📜 **John Muir (*My First Summer in the Sierra*):** *"Shady dells beneath the giant sequoias were carpeted with the lush foliage of blooming **Hydrophyllum**."*

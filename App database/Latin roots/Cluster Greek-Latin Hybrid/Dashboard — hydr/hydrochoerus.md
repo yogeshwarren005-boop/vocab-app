@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrochoerus
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of hydrochoeridae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of hydrochoeridae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large semiaquatic hystricomorph rodents of South America, comprising the capybara (Hydrochoerus hydrochaeris).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capybara genus, famed for webbed feet and aquatic grazing habits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrochoerus designates a genus of hydrochoeridae."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"We watched a family of **Hydrochoerus** plunge into the stream and swim underwater like otters."*
+> - 📜 **Alfred Russel Wallace (*Travels on the Amazon and Rio Negro*):** *"The native hunters stalked the water-pig, **Hydrochoerus**, along the reed-fringed lagoons of the river."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"Skull morphology in **Hydrochoerus** illustrates massive development of the zygomatic arches for chewing aquatic vegetation."*

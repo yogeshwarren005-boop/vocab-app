@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrus
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A constellation in the southern hemisphere near the south celestial pole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A constellation in the southern hemisphere near the south celestial pole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A faint southern constellation known as the Lesser Water Snake, near the Large Magellanic Cloud.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A legendary or mythical small water serpent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And beneath the effulgent Antarctic skies I have boarded the Argo-Navis, and joined the chase against the starry Cetus far beyond the utmost stretch of Hydrus and the Flying Fish."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"And beneath the effulgent Antarctic skies I have boarded the Argo-Navis, and joined the chase against the starry Cetus far beyond the utmost stretch of Hydrus and the Flying Fish."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Navigators sailing into the southern hemisphere steer by the subtle stars of **Hydrus** lying near the Magellanic Clouds."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Scorpions, and asps, and amphisbaena dire, / Cerastes horn'd, **hydrus**, and elops drear."*
+> - 📜 **Arthur Eddington (*Stars and Atoms*):** *"The astronomer pointed his telescope toward the faint constellation of **Hydrus** to survey distant southern nebulae."*

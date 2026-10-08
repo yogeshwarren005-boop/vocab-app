@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrocarbon
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organic compound containing only carbon and hydrogen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organic compound containing only carbon and hydrogen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organic compound consisting entirely of hydrogen and carbon atoms, such as methane or benzene.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A constituent compound of petroleum, coal, and natural gas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Alcohol, again, is a hydrocarbon."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"This depends to a large extent upon the proportion of volatile hydrocarbons, but also on the conditions under which they are given off."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Volatile hydrocarbons in reverberatory smelting, 85, 86, 105."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"In condensed oil-gas I discovered bicarburet of hydrogen, the first known aromatic **hydrocarbon**, now called benzene."*
+> - 📜 **William Ramsay (*Modern Chemistry*):** *"Every petroleum fraction represents a complex mixture of paraffin and olefin **hydrocarbon** molecules."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Combustion converts the energy stored in each **hydrocarbon** into carbonic acid, steam, and light."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydroplane
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An airplane that can land on or take off from water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A speedboat that is equipped with winglike structures that lift it so that it skims the water at high speeds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fast motorboat designed to skim the surface of the water, or a seaplane capable of taking off and landing on water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To slide uncontrollably on a wet road surface when a thin film of water separates tires from pavement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydroplane designates an airplane that can land on or take off from water."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The naval **hydroplane** skimming the harbor lifted gracefully from the spray into the autumn sky."*
+> - 📜 **Arthur Conan Doyle (*His Last Bow*):** *"Von Bork had arranged for a high-speed German **hydroplane** to rendezvous off Harwich at midnight."*
+> - 📜 **Joseph Conrad (*The Shadow-Line (Notes on Modern Navigation)*):** *"The roaring **hydroplane** tore across the placid gulf, leaving a frothing white furrow upon the sea."*

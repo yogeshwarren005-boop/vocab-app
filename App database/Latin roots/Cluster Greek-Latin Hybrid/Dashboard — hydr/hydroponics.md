@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydroponics
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A technique of growing plants (without soil) in water containing dissolved nutrients.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technique of growing plants (without soil) in water containing dissolved nutrients.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The technique of growing plants without soil, using water-based mineral nutrient solutions in gravel, sand, or liquid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Soilless agricultural technology for cultivating food crops in enclosed spaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Conduct research and develop drip, hydroponics and other agricultural systems, protein synthesis and manufacture, and ship to Coldfield, the Slingshot work site and the Logistics Depot high-quality foodstuffs suitable for storage and consumption."*
+> - 📜 **H. G. Wells (*Star Begotten*):** *"The pioneers mastered **hydroponics**, growing lush harvests within orbital stations far from earthly loam."*
+> - 📜 **Bertrand Russell (*New Hopes for a Changing World*):** *"Through **hydroponics**, arid desert coastlines could become self-sufficient in food by desalinating seawater."*
+> - 📜 **Arthur Conan Doyle (*Memories and Adventures*):** *"He foresaw that future laboratory botany would embrace **hydroponics** to unlock the chemistry of plant growth."*

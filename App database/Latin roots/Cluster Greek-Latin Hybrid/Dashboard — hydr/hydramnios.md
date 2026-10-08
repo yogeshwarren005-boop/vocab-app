@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydramnios
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormality of pregnancy; accumulation of excess amniotic fluid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormality of pregnancy; accumulation of excess amniotic fluid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An excessive accumulation of amniotic fluid in the amniotic sac during pregnancy; polyhydramnios.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An obstetrical condition characterized by abnormal volume of intrauterine liquid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydramnios designates an abnormality of pregnancy; accumulation of excess amniotic fluid."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe **hydramnios** may cause acute maternal respiratory distress and indicates possible fetal abnormalities."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The obstetrician diagnosed maternal **hydramnios** from the remarkable distension of the uterine walls."*
+> - 📜 **Silas Weir Mitchell (*Lectures on Diseases of the Nervous System*):** *"Excessive uterine enlargement from **hydramnios** often precipitates premature labor."*

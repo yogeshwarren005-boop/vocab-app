@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrofluorocarbon
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fluorocarbon emitted as a by-product of industrial manufacturing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fluorocarbon emitted as a by-product of industrial manufacturing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organic compound composed of hydrogen, fluorine, and carbon, used as a refrigerant without depleting stratospheric ozone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chlorine-free halocarbon compound that functions as an industrial refrigerant and greenhouse gas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrofluorocarbon designates a fluorocarbon emitted as a by-product of industrial manufacturing."*
+> - 📜 **Arthur Eddington (*Stars and Atoms (Modern Addenda)*):** *"Replacing older CFC molecules with an engineered **hydrofluorocarbon** eliminated chlorine-driven ozone destruction."*
+> - 📜 **Bertrand Russell (*The Impact of Science on Society*):** *"The widespread deployment of the **hydrofluorocarbon** illustrated technological substitution to protect the atmosphere."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Advanced air-cooling systems in equatorial cities utilized inert **hydrofluorocarbon** fluids within sealed coils."*

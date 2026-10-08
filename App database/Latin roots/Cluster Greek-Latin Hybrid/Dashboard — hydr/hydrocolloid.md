@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrocolloid
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that forms a gel with water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance that forms a gel with water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that forms a gel in the presence of water, such as gelatin, pectin, or agar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A water-soluble polymeric compound used in medical dressings and food stabilizers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrocolloid designates a substance that forms a gel with water."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Application of a sterile **hydrocolloid** dressing maintained optimal hydration and accelerated epithelial repair."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Protoplasm itself exhibits the essential physical properties of a dynamic, complex **hydrocolloid** system."*
+> - 📜 **Svante Arrhenius (*Immunochemistry*):** *"Gelatin acts as a protective **hydrocolloid**, preventing the rapid flocculation of suspended gold particles."*

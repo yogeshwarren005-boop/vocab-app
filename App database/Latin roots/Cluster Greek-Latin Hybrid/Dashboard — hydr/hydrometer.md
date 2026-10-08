@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrometer
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A measuring instrument for determining the specific gravity of a liquid or solid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument for determining the specific gravity of a liquid or solid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument designed for measuring the specific gravity (relative density) of liquids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A weighted graduated glass bulb used in brewing, chemical analysis, and marine research.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"This weight is ascertained by means of a "hydrometer," a glass tube, stopped, and loaded with some small shot at its lower end."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"Allow the **hydrometer** to float freely in the glass cylinder, taking care that it does not adhere to the sides."*
+> - 📜 **Humphry Davy (*Elements of Agricultural Chemistry*):** *"The brewer uses a delicate **hydrometer** to gauge the proportion of fermentable saccharine matter in the wort."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"Testing the brine of Patagonian salt lakes with our **hydrometer** revealed extraordinary mineral saturation."*

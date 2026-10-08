@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydroid
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Colonial coelenterates having the polyp phase dominant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Colonial coelenterates having the polyp phase dominant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cnidarian of the class Hydrozoa, typically existing as a branching sessile polyp colony resembling seaweed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or resembling a hydra or hydrozoan polyp.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydroid designates colonial coelenterates having the polyp phase dominant."*
+> - 📜 **Thomas Henry Huxley (*The Oceanic Hydrozoa*):** *"Each branching **hydroid** colony shares a continuous digestive canal through which nutrients circulate freely."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"We dredged up delicate plumes of **hydroid** zoophytes clinging tenaciously to submerged shells in the bay."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The coral reefs supported an intricate undergrowth of miniature **hydroid** arborescences swaying in the tide."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # enhydra
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sea otters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sea otters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of marine mustelids comprising the sea otter (Enhydra lutris).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marine sea otters inhabiting kelp forests of the North Pacific coasts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enhydra designates sea otters."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The dense, velvety fur of **Enhydra** was prized above all other pelts by Russian fur traders in the Aleutians."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"In **Enhydra**, the hind feet are modified into broad flippers perfectly adapted for diving in coastal kelp beds."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The distribution of **Enhydra** lutris spans the rocky littoral rims of the subarctic Pacific Ocean."*

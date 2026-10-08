@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrocephalus
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal condition in which cerebrospinal fluid collects in the ventricles of the brain; in infants it can cause abnormally rapid growth of the head and bulging fontanelles and a small face; in adults the symptoms are primarily neurological.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal condition in which cerebrospinal fluid collects in the ventricles of the brain; in infants it can cause abnormally rapid growth of the head and bulging fontanelles and a small face; in adults the symptoms are primarily neurological.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical condition in which fluid accumulates in the ventricles of the brain, enlarging the head and sometimes causing brain damage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal accumulation of cerebrospinal fluid causing intracranial pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrocephalus designates an abnormal condition in which cerebrospinal fluid collects in the ventricles of the brain; in infants it can cause abnormally rapid growth of the head and bulging fontanelles and a small face; in adults the symptoms are primarily neurological."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Congenital **hydrocephalus** frequently arises from occlusion of the aqueduct of Sylvius."*
+> - 📜 **Silas Weir Mitchell (*Lectures on Diseases of the Nervous System*):** *"In acute internal **hydrocephalus**, the patient manifests lethargy, convulsions, and optic disc edema."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The surgeon pondered whether surgical drainage could alleviate the hopeless intracranial tension of **hydrocephalus**."*

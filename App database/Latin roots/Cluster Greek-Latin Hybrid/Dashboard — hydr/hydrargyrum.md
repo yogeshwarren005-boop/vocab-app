@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrargyrum
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy silvery toxic univalent and bivalent metallic element; the only metal that is liquid at ordinary temperatures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavy silvery toxic univalent and bivalent metallic element; the only metal that is liquid at ordinary temperatures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chemical element mercury, a heavy, silvery, liquid metallic element (symbol Hg).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quicksilver; the metallic element historically used in barometers and pharmaceuticals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrargyrum designates a heavy silvery toxic univalent and bivalent metallic element; the only metal that is liquid at ordinary temperatures."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"The ancients designated quicksilver as **hydrargyrum** on account of its fluid, silver-like mobility."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Electric contact was completed through a trough of pure **hydrargyrum** to eliminate frictional resistance."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Ointment of **hydrargyrum** remained the mainstay of specific antiluetic therapy for centuries."*

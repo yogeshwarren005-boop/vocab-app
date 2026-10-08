@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrophidae
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sea snakes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sea snakes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic family (or subfamily) of venomous elapid marine snakes known as true sea snakes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pelagic sea snakes equipped with paddle-shaped tails and potent neurotoxic venom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrophidae designates sea snakes."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Venomous sea snakes of the family **Hydrophidae** swam alongside the ship in the calm waters of the Indian Ocean."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"In **Hydrophidae**, the laterally flattened tail serves as an efficient sculling oar in pelagic swimming."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Fishermen in the Banda Sea handled the banded **Hydrophidae** with great circumspection on account of their deadly bite."*

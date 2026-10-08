@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrostatics
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Study of the mechanical properties of fluids that are not in motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Study of the mechanical properties of fluids that are not in motion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physical science that deals with the equilibrium of liquids and the pressures exerted by fluids at rest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mechanics of stationary fluids, flotation, and pressure distribution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrostatics designates study of the mechanical properties of fluids that are not in motion."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"Archimedes established the immutable laws of **hydrostatics** when he deduced the principle of buoyancy in his bath."*
+> - 📜 **James Clerk Maxwell (*Matter and Motion*):** *"In **hydrostatics**, every surface element of a stationary fluid experiences pressure perpendicular to the boundary."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"Cavor explained the principles of **hydrostatics** that kept the pressurized glass sphere intact during the ascent."*

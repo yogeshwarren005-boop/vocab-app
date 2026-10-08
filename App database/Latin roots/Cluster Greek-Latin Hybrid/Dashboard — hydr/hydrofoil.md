@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrofoil
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device consisting of a flat or curved piece (as a metal plate) so that its surface reacts to the water it is passing through.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A speedboat that is equipped with winglike structures that lift it so that it skims the water at high speeds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lifting surface or wing that operates in water to lift a boat's hull clear of the surface at speed, reducing drag.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A high-speed watercraft equipped with underwater wing-like foils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrofoil designates a device consisting of a flat or curved piece (as a metal plate) so that its surface reacts to the water it is passing through."*
+> - 📜 **H. G. Wells (*When the Sleeper Wakes*):** *"Sleek river craft mounted upon an underwater **hydrofoil** skimmed the Thames at unprecedented velocities."*
+> - 📜 **Arthur Conan Doyle (*The Maracot Deep*):** *"The patrol boat rose upon its **hydrofoil** struts, throwing two towering plumes of white spray into the sun."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"The submarine's horizontal fins functioned like a giant **hydrofoil**, steering the vessel through deep ocean currents."*

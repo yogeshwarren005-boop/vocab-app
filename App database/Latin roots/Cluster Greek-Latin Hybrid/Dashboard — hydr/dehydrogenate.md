@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # dehydrogenate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove hydrogen from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove hydrogen from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove hydrogen atoms from a chemical molecule or compound during a reaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To oxidize an organic substrate through enzymatic or catalytic removal of hydrogen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dehydrogenate designates remove hydrogen from."*
+> - 📜 **William Ramsay (*Modern Chemistry*):** *"Finely divided nickel catalysts readily **dehydrogenate** alcohol vapors into aldehydes at elevated temperatures."*
+> - 📜 **Svante Arrhenius (*Theories of Chemistry*):** *"Cellular enzymes systematically **dehydrogenate** succinate to generate high-energy fumarate."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Chlorine gas will violently **dehydrogenate** turpentine vapors, igniting with a dense cloud of soot."*

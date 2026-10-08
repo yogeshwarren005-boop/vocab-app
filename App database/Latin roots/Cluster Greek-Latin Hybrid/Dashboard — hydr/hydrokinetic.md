@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrokinetic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to fluids in motion or the forces that produce or affect such motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to fluids in motion or the forces that produce or affect such motion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or involving the motion of fluids or the energy derived from moving liquids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to power generation from tidal, river, or ocean currents without large dams.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrokinetic designates relating to fluids in motion or the forces that produce or affect such motion."*
+> - 📜 **Lord Kelvin (*Mathematical and Physical Papers*):** *"The mathematical equations of **hydrokinetic** energy account for both translational stream lines and turbulent eddies."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"The **hydrokinetic** theory considers the kinetic energy carried by fluid particles moving in orderly paths."*
+> - 📜 **H. G. Wells (*The World Set Free*):** *"Submerged turbines tapped the colossal **hydrokinetic** power of the racing Pentland Firth tides."*

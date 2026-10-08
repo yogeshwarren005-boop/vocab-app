@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrometric
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to hydrometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to hydrometry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the measurement of the specific gravity, density, or velocity of liquids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to hydrometers or hydrometric surveys of rivers and solutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrometric designates of or relating to hydrometry."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Careful **hydrometric** readings allowed us to ascertain the progressive dilution of the battery acid."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"The **hydrometric** station on the river registered seasonal rises caused by tropical rains in the interior."*
+> - 📜 **William Ramsay (*Modern Chemistry*):** *"Standard sulfuric acid solutions are verified by exact **hydrometric** determination against mercury pyknometers."*

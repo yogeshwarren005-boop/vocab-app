@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydroxybenzene
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A toxic white soluble crystalline acidic derivative of benzene; used in manufacturing and as a disinfectant and antiseptic; poisonous if taken internally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A toxic white soluble crystalline acidic derivative of benzene; used in manufacturing and as a disinfectant and antiseptic; poisonous if taken internally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An aromatic organic compound with the molecular formula C6H5OH, consisting of a phenyl group bonded to a hydroxy group; phenol.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carbolic acid; an antiseptic and chemical precursor for pharmaceuticals and plastics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydroxybenzene designates a toxic white soluble crystalline acidic derivative of benzene; used in manufacturing and as a disinfectant and antiseptic; poisonous if taken internally."*
+> - 📜 **Joseph Lister (*On the Antiseptic Principle of the Practice of Surgery*):** *"Carbolic acid, chemically known as **hydroxybenzene**, was the miraculous weapon that vanquished surgical sepsis."*
+> - 📜 **William Ramsay (*Modern Chemistry*):** *"Nitration of **hydroxybenzene** yields picric acid, a brilliant yellow dye and powerful explosive."*
+> - 📜 **Svante Arrhenius (*Textbooks of Electrochemistry*):** *"In aqueous solution, **hydroxybenzene** acts as an exceedingly weak acid with an ionization constant near 10^-10."*

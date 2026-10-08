@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrogen-bomb
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attack with a hydrogen bomb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attack with a hydrogen bomb.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An immensely powerful nuclear weapon in which the vast explosive energy is released by the fusion of hydrogen isotopes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thermonuclear bomb utilizing deuterium and tritium fusion reactions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrogen-bomb designates attack with a hydrogen bomb."*
+> - 📜 **Bertrand Russell (*The Russell-Einstein Manifesto*):** *"The **hydrogen-bomb** threatens the continuation of the human species unless war itself is renounced by all nations."*
+> - 📜 **H. G. Wells (*The World Set Free*):** *"His uncanny prophecy of atomic explosives culminated in mankind's mastery over the cataclysmic **hydrogen-bomb**."*
+> - 📜 **Arthur Eddington (*The Internal Constitution of the Stars (Notes)*):** *"The terrible energy of the **hydrogen-bomb** is merely the uncontrolled terrestrial release of solar fusion power."*

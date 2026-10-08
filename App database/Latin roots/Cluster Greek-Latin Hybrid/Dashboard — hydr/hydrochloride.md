@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrochloride
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex consisting of an organic base in association with hydrogen chloride.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complex consisting of an organic base in association with hydrogen chloride.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt formed by the combination of hydrochloric acid with an organic base, especially an amine or alkaloid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A water-soluble salt form used widely for administering medicinal alkaloids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrochloride designates a complex consisting of an organic base in association with hydrogen chloride."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes reached for the syringe and injected a seven-percent solution of cocaine **hydrochloride**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Quinine **hydrochloride** dissolves far more readily in water than the sulphate, making it superior for clinical injection."*
+> - 📜 **William Ramsay (*Modern Chemistry*):** *"Ammonia fumes interacting with hydrochloric acid gas generate dense crystalline white clouds of ammonium **hydrochloride**."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrogel
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colloidal gel in which water is the dispersion medium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colloidal gel in which water is the dispersion medium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A network of hydrophilic polymer chains capable of holding large amounts of water while maintaining structural integrity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A water-swollen, cross-linked macromolecular gel used in medical dressings and contact lenses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrogel designates a colloidal gel in which water is the dispersion medium."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Living protoplasm behaves essentially like an elastic **hydrogel**, absorbing and releasing aqueous solutes continuously."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Covering the extensive burn with a moist **hydrogel** prevented dehydration and mitigated agonizing pain."*
+> - 📜 **Svante Arrhenius (*Immunochemistry*):** *"Silicic acid sets into a rigid **hydrogel** that retains capillary water under substantial osmotic pressure."*

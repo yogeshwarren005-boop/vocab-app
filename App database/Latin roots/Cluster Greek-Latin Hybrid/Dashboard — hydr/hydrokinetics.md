@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrokinetics
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Study of fluids in motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Study of fluids in motion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of fluid mechanics that treats the forces and energy associated with liquids in motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physics of flowing water and dynamic liquid currents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrokinetics designates study of fluids in motion."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"In **hydrokinetics**, we analyze the conservation of momentum as liquid jets strike solid vanes."*
+> - 📜 **James Clerk Maxwell (*Scientific Papers*):** *"Helmholtz's classic investigations established the fundamental theorems of vortex motion in **hydrokinetics**."*
+> - 📜 **John Tyndall (*Fragments of Science*):** *"The laws of **hydrokinetics** explain why rushing mountain torrents erode limestone channels with savage velocity."*

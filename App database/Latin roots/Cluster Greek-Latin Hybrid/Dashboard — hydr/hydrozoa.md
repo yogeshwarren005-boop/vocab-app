@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrozoa
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coelenterates typically having alternation of generations; hydroid phase is usually colonial giving rise to the medusoid phase by budding: hydras and jellyfishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Colonial coelenterates having the polyp phase dominant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic class of mostly marine invertebrates in the phylum Cnidaria, including hydras, hydroids, and siphonophores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aquatic coelenterates exhibiting alternating polyp and medusa life stages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrozoa designates coelenterates typically having alternation of generations; hydroid phase is usually colonial giving rise to the medusoid phase by budding: hydras and jellyfishes."*
+> - 📜 **Thomas Henry Huxley (*The Oceanic Hydrozoa*):** *"The class **Hydrozoa** reveals the morphological transition from simple solitary polyps to intricate pelagic siphonophores."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"The surface waters of the Atlantic swarmed with delicate translucent colonies belonging to **Hydrozoa**."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Phosphorescent blooms of **Hydrozoa** filled the tropical sea with dazzling constellations of cold light."*

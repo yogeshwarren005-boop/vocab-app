@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrazoite
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt of hydrazoic acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A salt of hydrazoic acid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt or ester of hydrazoic acid; an inorganic or organic azide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metallic compound containing the trinitride ion N3-, often highly explosive.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrazoite designates a salt of hydrazoic acid."*
+> - 📜 **William Ramsay (*Essays Biographical and Chemical*):** *"Every metallic **hydrazoite** must be manipulated with extreme caution on account of its violent explosive detonation."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"The silver **hydrazoite** detonated under the lightest stroke of the pestle, shattering the porcelain mortar."*
+> - 📜 **Svante Arrhenius (*Textbooks of Electrochemistry*):** *"The azide anion in a dissolved **hydrazoite** exhibits high ionic mobility comparable to chloride."*

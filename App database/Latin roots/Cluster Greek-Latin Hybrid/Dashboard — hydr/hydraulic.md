@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydraulic
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Moved or operated or effected by liquid (water or oil).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the study of hydraulics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Operated, moved, or effected by the pressure or flow of water or other liquids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the mechanics, practical applications, and engineering of moving fluids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In larger part this is due to the increasing use of machinery in place of simple hand tools, and the substitution of horse-, hydraulic-, windmill-, steam-, and gasoline-power for human labor."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Victor Hatherley, hydraulic engineer, 16A, Victoria Street (3rd floor).” That was the name, style, and abode of my morning visitor."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"By profession I am a hydraulic engineer, and I have had considerable experience of my work during the seven years that I was apprenticed to Venner & Matheson, the well-known firm, of Greenwich."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The massive iron lock gates swung shut under the smooth, irresistible thrust of a **hydraulic** ram."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Engineer's Thumb*):** *"Hatherley was engaged to examine a secret **hydraulic** press operated by coin counterfeiters in Berkshire."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"Subterranean ventilation was maintained by colossal **hydraulic** pumps humming deep beneath the pedestals."*

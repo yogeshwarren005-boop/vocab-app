@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydromyinae
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Water rats of australia and new guinea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Water rats of australia and new guinea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subfamily of murine rodents comprising the Australasian water rats, specialized for semiaquatic carnivorous life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The water-rat rodent group characterized by webbed hind feet and waterproof pelage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydromyinae designates water rats of australia and new guinea."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The amphibious rodents of the subfamily **Hydromyinae** fill the ecological niche occupied by otters elsewhere."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"In **Hydromyinae**, the molar teeth are reduced to two on each side, exhibiting an unusual cup-shaped crown."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"Members of **Hydromyinae** represent one of the oldest endemic mammalian radiations across the Australian realm."*

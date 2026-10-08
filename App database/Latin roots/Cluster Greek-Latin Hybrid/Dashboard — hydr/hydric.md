@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydric
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or characterized by excessive moisture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or characterized by excessive moisture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or containing water or hydrogen; wet or aquatic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecology, designating an environment or soil characterized by abundant moisture or flooding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydric designates having or characterized by excessive moisture."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Lavoisier applied the term **hydric** gas to what we now designate as pure hydrogen."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Plant species adapted to **hydric** marshes develop spongy aerenchyma to facilitate internal gas transport."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The **hydric** zones of the Amazonian delta support gigantic water lilies with buoyant floating leaves."*

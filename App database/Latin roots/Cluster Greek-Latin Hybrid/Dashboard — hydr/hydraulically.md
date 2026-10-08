@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydraulically
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a hydraulic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a hydraulic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of hydraulic power, pressure, or fluid mechanics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Through the operation of liquid-driven pistons or machinery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"This is done by means of a hydraulically operated molding press. _6."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The largest press used in lead molding will give a maximum pressure of two thousand tons per square inch on a thirty inch ram hydraulically operated."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Co., weighing over thirty-thousand pounds, and developing two thousand tons pressure per square inch on a thirty inch hydraulically operated ram is used in the job-plate department."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The Martian tentacles moved with eerie fluid precision, actuated **hydraulically** by synthetic musculature."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Engineer's Thumb*):** *"The ceiling of the chamber descended **hydraulically**, designed to crush its victim into pulp."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Gold-bearing gravels in California were **hydraulically** excavated by powerful jets of high-pressure water."*

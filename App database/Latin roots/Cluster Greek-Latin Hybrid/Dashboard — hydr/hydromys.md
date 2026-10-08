@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydromys
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Water rats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Water rats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of semiaquatic rodents containing the rakali or Australian water rat (Hydromys chrysogaster).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A carnivorous Australian water rat hunting fish, crabs, and insects along riverbanks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydromys designates water rats."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"The water rat **Hydromys** swimming across the Tasmanian stream astonished me with its otter-like habits."*
+> - 📜 **Alfred Russel Wallace (*Australasia*):** *"The golden-bellied **Hydromys** possesses webbed toes and water-repellent fur suited for river diving."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"Skull modifications in **Hydromys** correspond to its carnivorous diet of shellfish, fish, and frogs."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydroxyl
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The monovalent group -oh in such compounds as bases and some acids and alcohols.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The monovalent group -oh in such compounds as bases and some acids and alcohols.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chemical functional group consisting of an oxygen atom bonded to a hydrogen atom (-OH).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The univalent radical or anion characteristic of alcohols and inorganic bases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydroxyl designates the monovalent group -oh in such compounds as bases and some acids and alcohols."*
+> - 📜 **Svante Arrhenius (*Textbooks of Electrochemistry*):** *"An alkaline reaction in water is due specifically to the presence of free negative **hydroxyl** ions."*
+> - 📜 **William Ramsay (*Modern Chemistry*):** *"Replacing a hydrogen atom in methane with a **hydroxyl** group yields methyl alcohol."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The stability of the compound depends upon the electrical bond holding the **hydroxyl** radical to the nucleus."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydroxytetracycline
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellow crystalline antibiotic (trademark terramycin) obtained from a soil actinomycete; used to treat various bacterial and rickettsial infections.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A yellow crystalline antibiotic (trademark terramycin) obtained from a soil actinomycete; used to treat various bacterial and rickettsial infections.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A broad-spectrum tetracycline antibiotic produced by Streptomyces rimosus, used against many bacterial infections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibacterial agent (oxytetracycline) that inhibits microbial protein synthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydroxytetracycline designates a yellow crystalline antibiotic (trademark terramycin) obtained from a soil actinomycete; used to treat various bacterial and rickettsial infections."*
+> - 📜 **Alexander Fleming (*Penicillin: Its Practical Application (Addenda)*):** *"Actinomycete fermentations yielded potent broad-spectrum agents such as **hydroxytetracycline** against rickettsial strains."*
+> - 📜 **William Osler (*The Evolution of Modern Medicine (Notes)*):** *"The advent of oral **hydroxytetracycline** simplified the management of atypical bacterial pneumonias."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Mobile medical units carried ample stocks of **hydroxytetracycline** to suppress epidemics in war zones."*

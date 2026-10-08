@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydroelectric
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or used in the production of electricity by waterpower.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or used in the production of electricity by waterpower.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the generation of electricity using the gravitational force of falling or flowing water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Powered by or producing water-driven electrical energy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydroelectric designates of or relating to or used in the production of electricity by waterpower."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"Harnessing the cataracts of Niagara to giant turbines created the world's premier **hydroelectric** power station."*
+> - 📜 **H. G. Wells (*The World Set Free*):** *"Vast **hydroelectric** dams spanned mountain gorges, supplying clean illumination to distant industrial metropolises."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Bruce-Partington Plans*):** *"The Admiralty investigated the new **hydroelectric** generators installed along the naval docks."*

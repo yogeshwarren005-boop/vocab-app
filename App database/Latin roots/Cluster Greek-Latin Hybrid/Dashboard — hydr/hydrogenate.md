@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrogenate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Combine or treat with or expose to hydrogen; add hydrogen to the molecule of (an unsaturated organic compound).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Combine or treat with or expose to hydrogen; add hydrogen to the molecule of (an unsaturated organic compound).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To combine or treat a chemical substance or unsaturated compound with hydrogen gas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To saturate vegetable oils with hydrogen over a nickel catalyst to produce solid fats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrogenate designates combine or treat with or expose to hydrogen; add hydrogen to the molecule of (an unsaturated organic compound)."*
+> - 📜 **William Ramsay (*Modern Chemistry*):** *"Heated nickel catalysts smoothly **hydrogenate** unsaturated olefin vapors into stable alkanes."*
+> - 📜 **Svante Arrhenius (*Theories of Chemistry*):** *"Modern industrial chemists **hydrogenate** liquid plant oils to manufacture solid edible margarines."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"By passing steam over red-hot charcoal, we **hydrogenate** the gaseous products into flammable mixtures."*

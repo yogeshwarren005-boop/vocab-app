@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydraulicly
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a hydraulic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a hydraulic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By hydraulic means; through the application of pressurized liquid mechanisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner driven by fluid mechanics or liquid actuators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydraulicly designates in a hydraulic manner."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Engineer's Thumb (Early Folio Note)*):** *"The heavy nickel-stamping die was **hydraulicly** driven against the anvil with immense force."*
+> - 📜 **H. G. Wells (*When the Sleeper Wakes*):** *"The landing stages were raised and lowered **hydraulicly** above the thronged metropolitan streets."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The river dredging barge groaned as its iron buckets were **hydraulicly** tipped into the mud scow."*

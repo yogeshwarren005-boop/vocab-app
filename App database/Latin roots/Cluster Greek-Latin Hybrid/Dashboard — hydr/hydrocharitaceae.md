@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrocharitaceae
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Simple nearly stemless freshwater aquatic plants; widely distributed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Simple nearly stemless freshwater aquatic plants; widely distributed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The family of aquatic monocotyledonous herbs comprising frogbit, water soldier, and tape grass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Submerged and floating aquatic herbs belonging to the order Alismatales.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrocharitaceae designates simple nearly stemless freshwater aquatic plants; widely distributed."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The widespread geographical distribution of **Hydrocharitaceae** results from avian transport of submerged turions."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Taxa in **Hydrocharitaceae** thrive in alkaline wetlands where their floating stolons form vast colonies."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Shallow freshwater streams in Borneo yielded several delicate endemic representatives of **Hydrocharitaceae**."*

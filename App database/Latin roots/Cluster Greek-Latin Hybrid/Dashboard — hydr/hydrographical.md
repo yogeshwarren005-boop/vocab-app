@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrographical
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the science of hydrography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the science of hydrography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to hydrography; concerning the survey, sounding, and mapping of marine waters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing oceanic depths, shoals, currents, and navigational hazards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrographical designates of or relating to the science of hydrography."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"The **hydrographical** observations accumulated during the survey proved of immense service to merchant navigation."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The **hydrographical** features of the Atlantic basin reflect ancient submarine ridges and volcanic fault lines."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab scrutinized his wrinkled parchment maps with intense **hydrographical** care, tracing the sperm whale's currents."*

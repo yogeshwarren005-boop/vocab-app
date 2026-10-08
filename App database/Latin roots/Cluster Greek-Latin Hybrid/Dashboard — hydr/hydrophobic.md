@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrophobic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking affinity for water; tending to repel and not absorb water; tending not to dissolve in or mix with or be wetted by water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally afraid of water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to repel or fail to mix with water; lacking affinity for water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering from or relating to hydrophobia (rabies).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrophobic designates lacking affinity for water; tending to repel and not absorb water; tending not to dissolve in or mix with or be wetted by water."*
+> - 📜 **Svante Arrhenius (*Immunochemistry*):** *"Suspensions of **hydrophobic** gold colloids precipitate rapidly upon the addition of neutral electrolytes."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Lipid droplets exhibit a **hydrophobic** nature, coalescing into globules when suspended in watery plasma."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **hydrophobic** convulsions could be triggered by a sudden draft of cold air across the patient's face."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrophilic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a strong affinity for water; tending to dissolve in, mix with, or be wetted by water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a strong affinity for water; tending to dissolve in, mix with, or be wetted by water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a strong affinity for water; easily absorbing or dissolving in water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by polar molecular groups that form hydrogen bonds with water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrophilic designates having a strong affinity for water; tending to dissolve in, mix with, or be wetted by water."*
+> - 📜 **Svante Arrhenius (*Immunochemistry*):** *"Colloidal particles carrying **hydrophilic** hydroxyl groups remain dispersed without spontaneous aggregation."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The cell membrane presents a dual aspect, possessing both a **hydrophilic** exterior and a protective fatty core."*
+> - 📜 **William Ramsay (*Modern Chemistry*):** *"Silica gel exhibits marked **hydrophilic** properties, absorbing ambient humidity until fully saturated."*

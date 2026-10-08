@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydraulics
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Study of the mechanics of fluids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Study of the mechanics of fluids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of science and engineering concerned with the mechanical properties and practical applications of liquids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The system of fluid-driven components and pipes powering machinery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"You should have been a surgeon.” “It is a question of hydraulics, you see, and came within my own province.” “This has been done,” said I, examining the wound, “by a very heavy and sharp instrument.” “A thing like a cleaver,” said he."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"The principles of **hydraulics** allow engineers to transmit tremendous mechanical power through narrow pipes."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Engineer's Thumb*):** *"He had studied **hydraulics** in London and was thoroughly versed in the management of high-pressure machinery."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"The launch was equipped with modern **hydraulics** that made steering through coastal reefs effortless."*

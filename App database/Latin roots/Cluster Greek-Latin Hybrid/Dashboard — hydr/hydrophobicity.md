@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrophobicity
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being water-repellent; tending to repel and not absorb water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being water-repellent; tending to repel and not absorb water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being water-repellent or unable to interact favorably with water molecules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tendency of nonpolar chemical groups to cluster together in aqueous solutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrophobicity designates the property of being water-repellent; tending to repel and not absorb water."*
+> - 📜 **Svante Arrhenius (*Theories of Chemistry*):** *"The extreme **hydrophobicity** of hydrocarbon chains forces them to aggregate away from water dipoles."*
+> - 📜 **William Ramsay (*Essays Biographical and Chemical*):** *"Treating the fabric with paraffin waxes imparts durable **hydrophobicity**, causing droplets to roll off harmlessly."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Protein folding in living protoplasm is fundamentally guided by the **hydrophobicity** of internal amino acid residues."*

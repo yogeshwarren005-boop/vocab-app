@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # anhydrous
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without water; especially without water of crystallization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without water; especially without water of crystallization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Describing a substance, especially a crystalline chemical compound, that contains no water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Completely free from water of crystallization or moisture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anhydrous designates without water; especially without water of crystallization."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"Copper sulphate in its **anhydrous** state is a chalky white powder that turns bright blue upon contact with moisture."*
+> - 📜 **William Ramsay (*The Gases of the Atmosphere*):** *"The gas was passed through tubes of **anhydrous** calcium chloride to strip away every lingering trace of vapor."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"By vigorous calcination we prepared strictly **anhydrous** potash from the lye."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrocortisone
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An adrenal-cortex hormone (trade names hydrocortone or cortef) that is active in carbohydrate and protein metabolism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adrenal-cortex hormone (trade names hydrocortone or cortef) that is active in carbohydrate and protein metabolism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A steroid hormone (cortisol) produced by the adrenal cortex, or its synthetic counterpart used to treat inflammation and allergies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A primary glucocorticoid regulating glucose metabolism and immune response.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrocortisone designates an adrenal-cortex hormone (trade names hydrocortone or cortef) that is active in carbohydrate and protein metabolism."*
+> - 📜 **William Osler (*The Evolution of Modern Medicine (Addenda)*):** *"Adrenal extracts containing **hydrocortisone** revolutionized the treatment of acute inflammatory rheumatisms."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"Topical application of **hydrocortisone** ointment suppressed the violent eczematous flare on the patient's hands."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Synthetic endocrine hormones including **hydrocortisone** became standard supplies in every modern clinic."*

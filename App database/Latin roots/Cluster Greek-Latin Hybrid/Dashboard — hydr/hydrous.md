@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrous
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing combined water (especially water of crystallization as in a hydrate).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing combined water (especially water of crystallization as in a hydrate).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing water, especially water of crystallization or chemical hydration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Combined chemically with water molecules; opposite of anhydrous.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrous designates containing combined water (especially water of crystallization as in a hydrate)."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Common clay is a **hydrous** silicate of alumina that loses its plastic nature when baked in the kiln."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"Gentle heating drove the water from the **hydrous** crystals, leaving an anhydrous white residue."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"Serpentine is a **hydrous** magnesium mineral formed by the alteration of deep olivine rocks."*

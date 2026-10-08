@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrothorax
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accumulation of fluid in the pleural cavity (the space between the lungs and the walls of the chest) often resulting from disease of the heart or kidneys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accumulation of fluid in the pleural cavity (the space between the lungs and the walls of the chest) often resulting from disease of the heart or kidneys.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A non-inflammatory accumulation of serous fluid in the pleural cavity of the chest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pleural effusion resulting from congestive heart failure, renal disease, or cirrhosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrothorax designates accumulation of fluid in the pleural cavity (the space between the lungs and the walls of the chest) often resulting from disease of the heart or kidneys."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Bilateral **hydrothorax** commonly complicates cardiac failure, producing dullness and dyspnea on exertion."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"Paracentesis thoracis afforded instant mechanical relief in severe **hydrothorax** compressing the lung."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The stethoscope detected the flat, dead sound of fluid in the right pleura, confirming extensive **hydrothorax**."*

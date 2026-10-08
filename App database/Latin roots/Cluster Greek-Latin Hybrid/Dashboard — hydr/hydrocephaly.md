@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrocephaly
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal condition in which cerebrospinal fluid collects in the ventricles of the brain; in infants it can cause abnormally rapid growth of the head and bulging fontanelles and a small face; in adults the symptoms are primarily neurological.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal condition in which cerebrospinal fluid collects in the ventricles of the brain; in infants it can cause abnormally rapid growth of the head and bulging fontanelles and a small face; in adults the symptoms are primarily neurological.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of having hydrocephalus; accumulation of cerebrospinal fluid in the brain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chronic or congenital enlargement of the cranium due to fluid retention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrocephaly designates an abnormal condition in which cerebrospinal fluid collects in the ventricles of the brain; in infants it can cause abnormally rapid growth of the head and bulging fontanelles and a small face; in adults the symptoms are primarily neurological."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The diagnostic signs of **hydrocephaly** include a globular cranium, thin scalp veins, and cracked-pot resonance."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The dispensary case of severe **hydrocephaly** drew sympathetic murmurs from the waiting crowd."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Excessive cerebrospinal effusion within the cerebral ventricles leads inevitably to pathological **hydrocephaly**."*

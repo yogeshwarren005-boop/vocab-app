@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrocortone
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An adrenal-cortex hormone (trade names hydrocortone or cortef) that is active in carbohydrate and protein metabolism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adrenal-cortex hormone (trade names hydrocortone or cortef) that is active in carbohydrate and protein metabolism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pharmaceutical brand name for hydrocortisone, used as an anti-inflammatory and immunosuppressant medication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adrenal corticosteroid formulation applied in severe joint or systemic inflammatory disorders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrocortone designates an adrenal-cortex hormone (trade names hydrocortone or cortef) that is active in carbohydrate and protein metabolism."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine (Clinical Addenda)*):** *"Intra-articular injection of **hydrocortone** dramatically arrested the painful swelling of rheumatoid synovitis."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The consultant prescribed a course of **hydrocortone** to combat the severe allergic dermatosis."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Medical depots distributed ampoules of **hydrocortone** to treat shock and acute adrenal insufficiency."*

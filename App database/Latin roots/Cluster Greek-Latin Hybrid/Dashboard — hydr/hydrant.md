@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrant
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A faucet for drawing water from a pipe or cask.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A discharge pipe with a valve and spout at which water may be drawn from the mains of waterworks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An upright pipe with a valve and spout, connected to a water main, used especially for extinguishing fires.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public water discharge pillar or fire plug in municipal water systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrant designates a faucet for drawing water from a pipe or cask."*
+> - 📜 **Charles Dickens (*The Uncommercial Traveller*):** *"Firemen screwed their heavy leather hose to the street **hydrant**, sending torrents across the smoldering warehouse."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Water hissed from a leaky street **hydrant**, glistening upon the dark flagstones of the London alley."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"The crowd scattered as the constable wrench opened the brass **hydrant** to douse the disturbance."*

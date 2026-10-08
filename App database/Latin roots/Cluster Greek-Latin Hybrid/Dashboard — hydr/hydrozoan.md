@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrozoan
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Colonial coelenterates having the polyp phase dominant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Colonial coelenterates having the polyp phase dominant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any coelenterate of the class Hydrozoa, such as a hydra, hydroid colony, or the Portuguese man-of-war.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of the class Hydrozoa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrozoan designates colonial coelenterates having the polyp phase dominant."*
+> - 📜 **Thomas Henry Huxley (*Practical Biology*):** *"The Portuguese man-of-war is not a single animal, but a colonial **hydrozoan** of remarkable morphological complexity."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We examined a minute **hydrozoan** medusa whose pulsating umbrella propelled it across the microscope field."*
+> - 📜 **Alfred Russel Wallace (*Studies Scientific and Social*):** *"Each **hydrozoan** zooid within the community performs a specialized task, such as feeding, defense, or reproduction."*

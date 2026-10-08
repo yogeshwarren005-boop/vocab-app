@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # dehydrate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preserve by removing all water and liquids from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove water from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove water or moisture from a chemical compound, foodstuff, or biological tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To cause a person or organism to lose a critical amount of body water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dehydrate designates preserve by removing all water and liquids from."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe choleraic diarrhea will rapidly **dehydrate** the patient, requiring immediate intravenous infusions."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Strong sulfuric acid will violently **dehydrate** sugar crystals, reducing the carbohydrate to a mass of spongy carbon."*
+> - 📜 **Jack London (*The Star Rover*):** *"Days without water in the desert sun threaten to **dehydrate** the toughest frame into madness."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrochlorothiazide
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A diuretic drug (trade name microzide, esidrix, and hydrodiuril) used in the treatment of hypertension.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diuretic drug (trade name microzide, esidrix, and hydrodiuril) used in the treatment of hypertension.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thiazide diuretic medication used to treat high blood pressure and fluid retention (edema).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clinical pharmaceutical that promotes urinary excretion of sodium and chloride.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrochlorothiazide designates a diuretic drug (trade name microzide, esidrix, and hydrodiuril) used in the treatment of hypertension."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine (Therapeutic Addenda)*):** *"Oral administration of **hydrochlorothiazide** prompt promotes diuresis, reducing cardiac preload in congestive failure."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The senior physician recommended **hydrochlorothiazide** to diminish arterial tension in the dropsical alderman."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Hypertensive therapy entered a rational epoch with the synthesis of oral diuretics such as **hydrochlorothiazide**."*

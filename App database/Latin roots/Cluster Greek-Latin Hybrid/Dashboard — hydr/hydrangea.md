@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrangea
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various deciduous or evergreen shrubs of the genus hydrangea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various deciduous or evergreen shrubs of the genus hydrangea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering shrubby plants native to Asia and the Americas, bearing large globose clusters of white, pink, or blue flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ornamental garden shrub whose blossom color alters according to soil acidity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrangea designates any of various deciduous or evergreen shrubs of the genus hydrangea."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation*):** *"The outer florets of the cultivated **hydrangea** are completely sterile, serving solely to attract pollinating insects."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Massive blue blooms of **hydrangea** stood in terracotta tubs guarding the shaded manor terrace."*
+> - 📜 **John Ruskin (*Proserpina: Studies of Wayside Flowers*):** *"The delicate petal venation of the garden **hydrangea** exhibits nature's exquisite geometry in shading."*

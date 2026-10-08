@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # dehydration
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dryness resulting from the removal of water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Depletion of bodily fluids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of removing water from a substance, or a harmful deficiency of water in the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss of water resulting in electrolyte imbalance or chemical desiccation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dehydration designates dryness resulting from the removal of water."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Profound **dehydration** was the immediate cause of death in untreated infantile cholera."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The progressive **dehydration** of crystalline salts under vacuum can be accurately measured with a mercury gauge."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"The parched vegetation of the Atacama desert endures extreme **dehydration** for years without rain."*

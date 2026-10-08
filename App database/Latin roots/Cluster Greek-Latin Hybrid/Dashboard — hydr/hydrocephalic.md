@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrocephalic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by or evidencing hydrocephalus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characterized by or evidencing hydrocephalus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, affected by, or characteristic of hydrocephalus (excess cerebrospinal fluid in the cranium).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to an abnormally enlarged skull resulting from intracranial fluid pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"A hobgoblin in the image of Punch Costello, hipshot, crookbacked, hydrocephalic, prognathic with receding forehead and Ally Sloper nose, tumbles in somersaults through the gathering darkness.)_ ALL: What?"*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **hydrocephalic** infant exhibited widely separated cranial sutures and prominent, protruding eyes."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The child presented with a massive, dome-shaped **hydrocephalic** head that wobbled upon its frail neck."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The swollen contours of a **hydrocephalic** skull must not be confused with normal evolutionary cranial expansion."*

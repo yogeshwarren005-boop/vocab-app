@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrodamalis
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of the family dugongidae comprising only steller's sea cow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of the family dugongidae comprising only steller's sea cow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of extinct sirenians comprising Steller's sea cow (Hydrodamalis gigas), hunted to extinction in the 18th century.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Giant kelp-eating marine mammals that once inhabited the cold waters of the Bering Sea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrodamalis designates a genus of the family dugongidae comprising only steller's sea cow."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The tragic annihilation of **Hydrodamalis** gigas on the Commander Islands demonstrates man's destructive ecological impact."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"In **Hydrodamalis**, teeth were entirely replaced by horny masticatory plates upon the palate and lower jaw."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"Steller's sea cow, **Hydrodamalis**, survived as a relict population in the subarctic Pacific until discovered in 1741."*

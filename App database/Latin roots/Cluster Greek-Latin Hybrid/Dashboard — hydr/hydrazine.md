@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrazine
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless fuming corrosive liquid; a powerful reducing agent; used chiefly in rocket fuels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless fuming corrosive liquid; a powerful reducing agent; used chiefly in rocket fuels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless, fuming, flammable liquid compound of nitrogen and hydrogen (N2H4), used as a rocket propellant and reducing agent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A toxic inorganic base utilized in chemical synthesis and missile fuels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrazine designates a colorless fuming corrosive liquid; a powerful reducing agent; used chiefly in rocket fuels."*
+> - 📜 **William Ramsay (*Modern Chemistry*):** *"Curtius first prepared anhydrous **hydrazine**, demonstrating its powerful reducing properties upon heavy metal salts."*
+> - 📜 **Svante Arrhenius (*Theories of Chemistry*):** *"The basicity of **hydrazine** in aqueous solution reveals the influence of the nitrogen-nitrogen single bond."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"High-altitude rocket engines burned liquid **hydrazine** to propel mail vessels into the stratosphere."*

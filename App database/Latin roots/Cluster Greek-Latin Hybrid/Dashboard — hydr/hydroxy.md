@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydroxy
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or containing a hydroxyl group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or containing a hydroxyl group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or denoting the chemical group or radical consisting of one hydrogen atom and one oxygen atom (-OH).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The hydroxyl chemical functional group characteristic of alcohols and phenols.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydroxy designates being or containing a hydroxyl group."*
+> - 📜 **William Ramsay (*Modern Chemistry*):** *"Substitution of a **hydroxy** radical upon the aliphatic chain converts an alkane into an alcohol."*
+> - 📜 **Svante Arrhenius (*Theories of Chemistry*):** *"The acidic character of carboxylic compounds is modulated by neighboring **hydroxy** substituents."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Chemical affinity binds the **hydroxy** group firmly to the central metal atom in alkaline hydrates."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # dehydrated
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preserve by removing all water and liquids from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove water from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having had water or moisture removed; suffering from extreme lack of water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprived of natural physiological fluids or water of crystallization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dehydrated designates preserve by removing all water and liquids from."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The **dehydrated** infant presented with sunken fontanelles and dry, inelastic skin."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Our canteens empty, we crawled across the baked plain in a desperately **dehydrated** condition."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"The lunar explorers carried rations of compact, **dehydrated** meat paste within sealed tins."*

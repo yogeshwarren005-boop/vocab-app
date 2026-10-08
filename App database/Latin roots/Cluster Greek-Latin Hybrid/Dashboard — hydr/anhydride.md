@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # anhydride
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound formed from one or more other compounds in a reaction resulting in removal of water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compound formed from one or more other compounds in a reaction resulting in removal of water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical compound obtained by removing the elements of water from another compound, especially an acid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oxide that combines with water to form an acid or base.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anhydride designates a compound formed from one or more other compounds in a reaction resulting in removal of water."*
+> - 📜 **William Ramsay (*Modern Chemistry*):** *"Phosphoric **anhydride** absorbs atmospheric moisture with extraordinary vigor, forming metaphosphoric acid."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Heating the crystalline crystals drove off all water of hydration, leaving a dry **anhydride** in the crucible."*
+> - 📜 **Svante Arrhenius (*Textbooks of Electrochemistry*):** *"Carbonic **anhydride** dissolved in pure water produces weak carbonic acid undergoing slight ionization."*

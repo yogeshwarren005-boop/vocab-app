@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydremia
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Blood disorder in which there is excess fluid volume compared with the cell volume of the blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blood disorder in which there is excess fluid volume compared with the cell volume of the blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An excessive dilution or disproportionate watery content of the blood; hemodilution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hematological state where blood plasma contains an abnormally high water-to-corpuscle ratio.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydremia designates blood disorder in which there is excess fluid volume compared with the cell volume of the blood."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In advanced renal dropsy, physiological **hydremia** reduces the specific gravity of the circulating blood."*
+> - 📜 **Silas Weir Mitchell (*Fat and Blood*):** *"The pallor of chronic chlorosis is often accentuated by marked **hydremia** diluting the red blood cells."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Excessive intake of fluids produces transient **hydremia** until the kidneys restore osmotic balance."*

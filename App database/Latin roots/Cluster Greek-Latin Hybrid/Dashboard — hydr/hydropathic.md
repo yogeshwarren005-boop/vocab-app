@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydropathic
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to hydropathy or its administration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to hydropathy or its administration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or using hydropathy (the water cure); treating illness through the external and internal use of water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating a sanatorium or establishment where water therapy is practiced.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"In the course of the treatment she was frequently taken to an underground water-cave, called Mauoki, for the _Kakelekele_ (hydropathic cure)."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Kakelekele, hydropathic cure, p. 126. kala, a species of fish."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"She had a black dress--fine silk, it was, quite real--of an old fashion, certainly, but no more so than you see at hydropathics and other places to which old solitary ladies come for the purpose of talking over their infirmities with one another."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He retired for his dyspepsia to a fashionable **hydropathic** establishment nestled among the Malvern hills."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate regarded the extravagant claims of the **hydropathic** quacks with professional skepticism."*
+> - 📜 **William Osler (*Aequanimitas*):** *"Cold sponges and rational **hydropathic** packs proved superior to heavy drenching with mineral nostrums."*

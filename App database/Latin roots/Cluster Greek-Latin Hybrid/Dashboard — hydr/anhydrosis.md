@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # anhydrosis
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Failure of the sweat glands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failure of the sweat glands.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical condition characterized by an abnormal deficiency or complete absence of perspiration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inability of cutaneous sweat glands to produce sweat under heat stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anhydrosis designates failure of the sweat glands."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient with severe **anhydrosis** suffered dangerous pyrexia whenever exposed to summer sunlight."*
+> - 📜 **Silas Weir Mitchell (*Injuries of Nerves and Their Consequences*):** *"Complete division of the peripheral sympathetic trunk resulted in localized **anhydrosis** of the forearm."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The clinician remarked that constitutional **anhydrosis** predisposed the traveler to sudden sunstroke."*

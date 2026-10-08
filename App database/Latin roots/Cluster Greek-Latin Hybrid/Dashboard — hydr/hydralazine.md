@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydralazine
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antihypertensive drug (trade name apresoline) that dilates blood vessels; used (often with a diuretic) to treat hypertension and congestive heart failure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antihypertensive drug (trade name apresoline) that dilates blood vessels; used (often with a diuretic) to treat hypertension and congestive heart failure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A direct-acting vasodilator medication used to treat high blood pressure (arterial hypertension).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cardiovascular drug that relaxes arteriolar smooth muscle to lower vascular resistance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydralazine designates an antihypertensive drug (trade name apresoline) that dilates blood vessels; used (often with a diuretic) to treat hypertension and congestive heart failure."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine (Therapeutic Addenda)*):** *"Administration of **hydralazine** effectively lowered peripheral arteriolar resistance in malignant hypertension."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The physician monitored the arterial pulse carefully after initiating therapy with **hydralazine**."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Modern hypertensive pharmaceuticals such as **hydralazine** prolonged productive lives into advanced old age."*

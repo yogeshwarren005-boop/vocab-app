@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrophyte
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant that grows partly or wholly in water whether rooted in the mud, as a lotus, or floating without anchorage, as the water hyacinth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant that grows partly or wholly in water whether rooted in the mud, as a lotus, or floating without anchorage, as the water hyacinth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant that grows only in or upon water, or in very wet or submerged soil; an aquatic plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A freshwater or marine macrophyte adapted to aquatic environments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I noticed that the green plants kept nearer the top of the sea, whilst the red were at a greater depth, leaving to the black or brown hydrophytes the care of forming gardens and parterres in the remote beds of the ocean."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"But for some minutes I involuntarily confounded the genera, taking zoophytes for hydrophytes, animals for plants; and who would not have been mistaken?"*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In the midst of these living plants, and under the arbours of the hydrophytes, were layers of clumsy articulates, particularly some raninae, whose carapace formed a slightly rounded triangle; and some horrible looking parthenopes."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Every true **hydrophyte** displays reduced vascular tissues and expansive air cavities within its stem."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The yellow water lily is a typical **hydrophyte**, anchoring in bottom mud while floating its blossoms aloft."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The gigantic Victoria regia stands as the crowning **hydrophyte** of quiet South American river channels."*

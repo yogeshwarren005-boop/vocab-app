@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrocracking
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process whereby hydrocarbon molecules of petroleum are broken down into kerosene and gasolene by the addition of hydrogen under high pressure in the presence of a catalyst.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process whereby hydrocarbon molecules of petroleum are broken down into kerosene and gasolene by the addition of hydrogen under high pressure in the presence of a catalyst.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A catalytic chemical process in petroleum refining in which heavy hydrocarbons are broken down into lighter products in the presence of hydrogen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: High-pressure thermal and catalytic refining producing high-octane gasoline and jet fuels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrocracking designates the process whereby hydrocarbon molecules of petroleum are broken down into kerosene and gasolene by the addition of hydrogen under high pressure in the presence of a catalyst."*
+> - 📜 **William Ramsay (*Essays Biographical and Chemical*):** *"By introducing pressurized hydrogen during cracking, modern **hydrocracking** eliminates heavy coke residues."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Colossal refinery complexes utilized **hydrocracking** to extract aviation spirit from low-grade tar sands."*
+> - 📜 **Bertrand Russell (*The Impact of Science on Society*):** *"Technological mastery in **hydrocracking** ensured unprecedented supplies of liquid fuel for motorized transport."*

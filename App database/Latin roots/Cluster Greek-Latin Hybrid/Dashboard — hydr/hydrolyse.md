@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrolyse
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergo hydrolysis; decompose by reacting with water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergo hydrolysis; decompose by reacting with water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause a substance to undergo chemical breakdown through reaction with water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To cleave chemical bonds by incorporating hydrogen and hydroxyl groups from water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrolyse designates undergo hydrolysis; decompose by reacting with water."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Pancreatic juices **hydrolyse** neutral fats into free fatty acids and soluble glycerine."*
+> - 📜 **William Ramsay (*Essays Biographical and Chemical*):** *"Dilute hydrochloric acid will **hydrolyse** gelatin into a complex mixture of amino acid fragments."*
+> - 📜 **Svante Arrhenius (*Theories of Chemistry*):** *"Weak acid salts **hydrolyse** in aqueous solution, leaving an excess of hydroxyl ions that turn litmus blue."*

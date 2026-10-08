@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrosphere
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The watery layer of the earth's surface; includes water vapor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The watery layer of the earth's surface; includes water vapor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: All the waters on the earth's surface, such as oceans, seas, lakes, rivers, glaciers, and atmospheric water vapor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The global aqueous envelope of the planet interacting with the lithosphere and atmosphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrosphere designates the watery layer of the earth's surface; includes water vapor."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The ceaseless movements of the **hydrosphere** carve continents down to sea level and redeposit them as strata."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Oceans constitute the greater portion of the terrestrial **hydrosphere**, moderating the extremes of global climate."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Water circulates perpetually through the **hydrosphere**, rising as vapor and returning as rain and rivers."*

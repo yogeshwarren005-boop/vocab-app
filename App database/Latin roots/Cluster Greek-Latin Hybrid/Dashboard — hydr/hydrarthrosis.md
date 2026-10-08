@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrarthrosis
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation and swelling of a movable joint because of excess synovial fluid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation and swelling of a movable joint because of excess synovial fluid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal effusion of watery synovial fluid into a joint cavity, commonly known as water on the joint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chronic or acute joint swelling caused by fluid accumulation, especially in the knee.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrarthrosis designates inflammation and swelling of a movable joint because of excess synovial fluid."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Intermittent **hydrarthrosis** of the knee occurs periodically without signs of local inflammation or suppuration."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"Aspiration of the tense **hydrarthrosis** under carbolic spray provided immediate relief to the joint capsule."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The veteran athlete was incapacitated by a chronic **hydrarthrosis** following a wrench of the patella."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrodiuril
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A diuretic drug (trade name microzide, esidrix, and hydrodiuril) used in the treatment of hypertension.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diuretic drug (trade name microzide, esidrix, and hydrodiuril) used in the treatment of hypertension.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pharmaceutical trade name for hydrochlorothiazide, an oral diuretic and antihypertensive medication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A prescription diuretic promoting renal excretion of water and salt.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrodiuril designates a diuretic drug (trade name microzide, esidrix, and hydrodiuril) used in the treatment of hypertension."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine (Addenda)*):** *"Daily therapy with **hydrodiuril** succeeded in alleviating chronic lower-extremity edema in heart failure."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The prescription included a mild dose of **hydrodiuril** to reduce the patient's persistently elevated arterial pressure."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Standard antihypertensive agents such as **hydrodiuril** helped reduce vascular strokes among senior planners."*

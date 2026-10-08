@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrastis
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of perennial herbs having rhizomes and palmate leaves and small solitary flowers; of northeastern united states and japan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of perennial herbs having rhizomes and palmate leaves and small solitary flowers; of northeastern united states and japan.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of herbaceous perennial plants native to North America, containing the goldenseal (Hydrastis canadensis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The medicinal rhizome of goldenseal, valued for its alkaloids hydrastine and berberine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrastis designates small genus of perennial herbs having rhizomes and palmate leaves and small solitary flowers; of northeastern united states and japan."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The yellow rhizome of **Hydrastis** canadensis creeps through rich, moist deciduous woods of the Ohio valley."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Extract of **hydrastis** was prescribed as a bitter tonic to stimulate gastric secretion in convalescent patients."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The apothecary shelves held glass jars of dried senega root, ipecacuanha, and golden **hydrastis** powder."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydromancer
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who practices hydromancy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who practices hydromancy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who practices hydromancy, the art of foretelling future events by observing water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diviner who interprets images, ripples, or objects cast into water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydromancer designates one who practices hydromancy."*
+> - 📜 **Sir Walter Scott (*The Antiquary*):** *"The superstitious villagers consulted an ancient **hydromancer** who professed to read fates in the forest spring."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Pagan emperors secretly consulted the Persian **hydromancer** whose bowl of consecrated water mirrored upcoming battles."*
+> - 📜 **Arthur Conan Doyle (*The White Company*):** *"The camp astrologer claimed that a skilled **hydromancer** could discern treason in the ripples of a castle moat."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrotherapy
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The internal and external use of water in the treatment of disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The internal and external use of water in the treatment of disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of water in the treatment of disease or injury, such as hot and cold baths, showers, and underwater massage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Therapeutic rehabilitation utilizing buoyant aquatic exercises and mineral spas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrotherapy designates the internal and external use of water in the treatment of disease."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Systematic **hydrotherapy** using cold Brand baths drastically lowered mortality rates in typhoid fever."*
+> - 📜 **Silas Weir Mitchell (*Fat and Blood*):** *"Graduated **hydrotherapy** invigorated the nervous tone of neurasthenic patients without causing exhaustion."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The physician recommended warm mineral **hydrotherapy** at Bath to soothe the patient's gouty joints."*

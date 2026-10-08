@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrologist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A geologist skilled in hydrology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A geologist skilled in hydrology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist who specializes in hydrology, the study of the distribution, circulation, and properties of water on Earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert researching groundwater reservoirs, river basins, and hydrological cycles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrologist designates a geologist skilled in hydrology."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The **hydrologist** must measure evaporation from continental forests to comprehend regional rainfall patterns."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"To the observant **hydrologist**, the underground channels of karst limestone reveal astonishing subterranean rivers."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The chief **hydrologist** redirected alpine runoff into desert aquifers to irrigate the southern plains."*

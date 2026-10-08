@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrodynamic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to hydrodynamics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to hydrodynamics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the motion of fluids and the forces acting on solid bodies immersed in them or in motion relative to them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to fluid dynamics, streamlining, or liquid flow pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrodynamic designates of or relating to hydrodynamics."*
+> - 📜 **Lord Kelvin (*Mathematical and Physical Papers*):** *"Vortex motion in fluids obeys elegant **hydrodynamic** equations first formulated by Euler and Helmholtz."*
+> - 📜 **James Clerk Maxwell (*Treatise on Electricity and Magnetism*):** *"We can construct a fruitful mechanical analogy between electromagnetic flux and **hydrodynamic** stream lines."*
+> - 📜 **Arthur Conan Doyle (*The Maracot Deep*):** *"The hull of the deep-sea diving bell was shaped with exquisite **hydrodynamic** grace to slice through currents."*

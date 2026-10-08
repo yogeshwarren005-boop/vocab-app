@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrolyze
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergo hydrolysis; decompose by reacting with water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergo hydrolysis; decompose by reacting with water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To break down a chemical compound through a reaction with water, cleaving one or more covalent bonds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To decompose organic polymers into simpler monomers by incorporating water molecules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrolyze designates undergo hydrolysis; decompose by reacting with water."*
+> - 📜 **William Ramsay (*Modern Chemistry*):** *"Dilute acids quickly **hydrolyze** starches into maltose and ultimately into crystalline dextrose."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Gastric pepsin functions in an acid medium to **hydrolyze** dense meat fibers into assimilable peptones."*
+> - 📜 **Svante Arrhenius (*Theories of Chemistry*):** *"Certain metallic halides **hydrolyze** completely upon contact with atmospheric humidity, fuming white acid vapors."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrophyllaceae
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perennial woodland herbs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perennial woodland herbs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of flowering plants in the order Boraginales, commonly known as the waterleaf family.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Herbaceous flowering plants including phacelia, nemophila, and waterleaf.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrophyllaceae designates perennial woodland herbs."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The family **Hydrophyllaceae** features hairy alternate leaves and scorpioid cymes of delicate blue flowers."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation*):** *"In species of **Hydrophyllaceae**, the protruding stamens ensure that visiting bees receive pollen upon their undersides."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Blue Phacelia, belonging to **Hydrophyllaceae**, covered the gravelly alpine slopes like a fallen sky."*

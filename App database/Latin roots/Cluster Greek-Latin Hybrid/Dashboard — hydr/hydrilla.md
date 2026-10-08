@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrilla
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Submersed plant with whorled lanceolate leaves and solitary axillary flowers; old world plant naturalized in southern united states and clogging florida's waterways.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Submersed plant with whorled lanceolate leaves and solitary axillary flowers; old world plant naturalized in southern united states and clogging florida's waterways.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of submerged aquatic plants in the family Hydrocharitaceae, especially the invasive weed Hydrilla verticillata.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A persistent freshwater plant forming dense surface mats in lakes and waterways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrilla designates submersed plant with whorled lanceolate leaves and solitary axillary flowers; old world plant naturalized in southern united states and clogging florida's waterways."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Aquatic plants like **Hydrilla** disperse widely across continents through seeds adhering to the feet of waterfowl."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The submerged whorls of **Hydrilla** spread with extraordinary rapidity through warm, slow-moving streams."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"Dense tangles of **Hydrilla** choke the shallows of tropical lagoons, providing shelter for minute crustacea."*

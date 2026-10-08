@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrocharis
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Frogbit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Frogbit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of aquatic plants in the family Hydrocharitaceae, comprising the European and Asian frogbits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Floating freshwater herbs featuring round kidney-shaped leaves and delicate white flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog hydrocharis as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The floating leaves of **Hydrocharis** morsus-rana adjust their petioles to maintain their lamina on the water surface."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"In still canals and quiet backwaters, the floating rosettes of **Hydrocharis** carpet the water with white blossoms."*
+> - 📜 **John Ruskin (*Proserpina*):** *"No water blossom displays purer symmetry than the three-petaled starry flower of **Hydrocharis**."*

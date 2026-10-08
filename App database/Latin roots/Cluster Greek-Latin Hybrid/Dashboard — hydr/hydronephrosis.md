@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydronephrosis
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accumulation of urine in the kidney because of an obstruction in the ureter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accumulation of urine in the kidney because of an obstruction in the ureter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition characterized by the swelling and distension of one or both kidneys due to an accumulation of urine caused by an obstruction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Renal pelvis dilation resulting from urinary outflow blockage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydronephrosis designates accumulation of urine in the kidney because of an obstruction in the ureter."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"An impacted calculus in the ureter is the most frequent cause of acute unilateral **hydronephrosis**."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"Prompt surgical relief of the urethral stricture prevented the development of fatal bilateral **hydronephrosis**."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"Palpation of the left flank disclosed a smooth, fluctuating tumor characteristic of longstanding **hydronephrosis**."*

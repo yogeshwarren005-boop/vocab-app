@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrolysis
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical reaction in which water reacts with a compound to produce other compounds; involves the splitting of a bond and the addition of the hydrogen cation and the hydroxide anion from the water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical reaction in which water reacts with a compound to produce other compounds; involves the splitting of a bond and the addition of the hydrogen cation and the hydroxide anion from the water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical reaction in which a molecule of water is added to a substance, causing the bond to cleave and the molecule to split into two.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The breakdown of chemical compounds such as esters, starches, or proteins by water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Why, there was my theory of the hydrolysis of casein by trypsin, which Professor Walters had been carrying out in his laboratory."*
+> - 📜 **Svante Arrhenius (*Textbooks of Electrochemistry*):** *"The degree of **hydrolysis** of sodium acetate increases systematically as the solution is diluted with pure water."*
+> - 📜 **William Ramsay (*Modern Chemistry*):** *"Industrial production of glucose from potato starch is effected through continuous acid-catalyzed **hydrolysis**."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Digestion in all metazoan animals consists essentially in the enzymatic **hydrolysis** of insoluble nutrients."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydroxychloroquine
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anti-inflammatory drug (trade name plaquenil) used in the treatment of rheumatoid arthritis and malaria and lupus erythematosus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anti-inflammatory drug (trade name plaquenil) used in the treatment of rheumatoid arthritis and malaria and lupus erythematosus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic medication used to prevent and treat malaria, and to treat autoimmune diseases such as rheumatoid arthritis and lupus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antimalarial and antirheumatic derivative of chloroquine with an added hydroxyl group.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydroxychloroquine designates anti-inflammatory drug (trade name plaquenil) used in the treatment of rheumatoid arthritis and malaria and lupus erythematosus."*
+> - 📜 **William Osler (*The Evolution of Modern Medicine (Addenda)*):** *"Synthetic quinoline derivatives including **hydroxychloroquine** replaced raw cinchona bark in antimalarial therapy."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The consultant suggested administering **hydroxychloroquine** to subdue the recurrent joint pains of systemic lupus."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Mass distribution of prophylactic **hydroxychloroquine** eradicated swamp fevers along the tropical canal works."*

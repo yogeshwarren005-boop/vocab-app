@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydromancy
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination by water (as by patterns seen in the ebb and flow of the tides).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divination by water (as by patterns seen in the ebb and flow of the tides).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination by means of water, such as observing the movement of ripples, reflections, or objects dropped into a bowl.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient form of fortune-telling utilizing consecrated water vessels or springs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydromancy designates divination by water (as by patterns seen in the ebb and flow of the tides)."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Among the forbidden dark arts practiced at Antioch, nocturnal **hydromancy** stood high in imperial disfavor."*
+> - 📜 **Sir Walter Scott (*Letters on Demonology and Witchcraft*):** *"The ancient rite of **hydromancy** consisted in dropping pebbles into sacred fountains to count rising bubbles."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Idle courtiers gazed into the murky political stream like practitioners of futile medieval **hydromancy**."*

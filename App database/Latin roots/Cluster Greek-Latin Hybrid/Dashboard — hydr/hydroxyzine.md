@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydroxyzine
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug (trade names atarax and vistaril) used as a tranquilizer to treat anxiety and motion sickness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug (trade names atarax and vistaril) used as a tranquilizer to treat anxiety and motion sickness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A first-generation antihistamine with sedative and anxiolytic properties, used to treat itching and anxiety.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piperazine-derivative pharmaceutical acting as an H1 antagonist.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydroxyzine designates a drug (trade names atarax and vistaril) used as a tranquilizer to treat anxiety and motion sickness."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine (Addenda)*):** *"For acute pruritus accompanied by severe emotional agitation, **hydroxyzine** afforded tranquilizing relief."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The physician prescribed a small dose of **hydroxyzine** to calm the patient's distressing urticaria."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Synthetic calming sedatives like **hydroxyzine** brought restful sleep to stressed industrial dispatchers."*

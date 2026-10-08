@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrodynamics
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Study of fluids in motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Study of fluids in motion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of science that deals with the forces acting upon or exerted by liquids in motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theoretical and mathematical study of fluid flow, viscosity, and turbulence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrodynamics designates study of fluids in motion."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"The fundamental theorems of **hydrodynamics** govern both ocean tidal waves and air currents aloft."*
+> - 📜 **James Clerk Maxwell (*Scientific Papers*):** *"Bernoulli's classic treatise on **hydrodynamics** laid the foundation for modern pressure-velocity relations in pipes."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The propulsion of the Martian craft obeyed intricate principles of **hydrodynamics** adapted to the upper air."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrocele
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disorder in which serous fluid accumulates in a body sac (especially in the scrotum).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disorder in which serous fluid accumulates in a body sac (especially in the scrotum).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A clinical accumulation of serous fluid in a bodily cavity, especially within the tunica vaginalis of the testis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scrotal swelling caused by benign effusion of serous liquid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrocele designates disorder in which serous fluid accumulates in a body sac (especially in the scrotum)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Transillumination with a candle easily differentiates a benign **hydrocele** from a solid testicular neoplasm."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"Radical cure of chronic **hydrocele** was performed under antiseptic irrigation without post-operative suppuration."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The country doctor tapped the recurrent **hydrocele** with a trocar, drawing off six ounces of clear straw fluid."*

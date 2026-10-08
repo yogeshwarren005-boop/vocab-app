@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrothermal
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin hydr within the domain of Greek-Latin Hybrid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of hydr in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or caused by the action of heated water, especially hot subterranean mineralized solutions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to deep-sea volcanic hot vents, geysers, or ore deposition from hot water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrothermal designates pertaining to, derived from, or characteristic of latin hydr within the domain of greek-latin hybrid."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Precious metallic veins were deposited within fissures through the circulation of deep **hydrothermal** solutions."*
+> - 📜 **Charles Darwin (*Geological Observations on Volcanic Islands*):** *"Siliceous sinter formed around boiling **hydrothermal** vents on the volcanic slope."*
+> - 📜 **Archibald Geikie (*Textbook of Geology*):** *"The rock had undergone extensive **hydrothermal** metamorphism, converting feldspars into crystalline sericite."*

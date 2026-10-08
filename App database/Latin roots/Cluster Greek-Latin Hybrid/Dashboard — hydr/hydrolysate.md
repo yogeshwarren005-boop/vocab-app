@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrolysate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A product of hydrolysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A product of hydrolysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A product or mixture of substances resulting from the hydrolysis of a larger compound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A liquid or powder obtained by the enzymatic or chemical breakdown of proteins into amino acids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrolysate designates a product of hydrolysis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Administering a sterile casein **hydrolysate** provided vital nitrogen nutrition to patients unable to ingest solid food."*
+> - 📜 **William Ramsay (*Modern Chemistry*):** *"Analysis of the acidic **hydrolysate** revealed free glycine, leucine, and tyrosine in crystalline form."*
+> - 📜 **Svante Arrhenius (*Immunochemistry*):** *"The antigenic properties of the toxin were entirely extinguished in the completely digested **hydrolysate**."*

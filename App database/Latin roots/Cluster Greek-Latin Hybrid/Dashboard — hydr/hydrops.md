@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrops
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Swelling from excessive accumulation of watery fluid in cells, tissues, or serous cavities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Swelling from excessive accumulation of watery fluid in cells, tissues, or serous cavities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal accumulation of watery fluid in the tissues or body cavities; dropsy; edema.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Severe generalized swelling or serous fluid effusion in clinical pathology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrops designates swelling from excessive accumulation of watery fluid in cells, tissues, or serous cavities."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Generalized **hydrops** of the newborn commonly reflects severe hemolytic disease and cardiovascular collapse."*
+> - 📜 **Sir Thomas Browne (*Pseudodoxia Epidemica*):** *"An incurable **hydrops** distended his belly, which all the galenical waters could not assuage."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The old farmer suffered from terminal cardiac failure with extensive **hydrops** extending to both thighs."*

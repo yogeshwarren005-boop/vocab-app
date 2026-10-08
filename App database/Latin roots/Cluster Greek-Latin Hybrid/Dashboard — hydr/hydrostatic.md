@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — hydr]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hydrostatic
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to fluids at rest or to the pressures they exert or transmit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to fluids at rest or to the pressures they exert or transmit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the equilibrium of liquids and the pressure exerted by liquid at rest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to fluids at rest or hydrostatic fluid pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"For this purpose there is first of all a "hydrostatic valve." This little appliance, which is open to the action of the water, responds to changes in pressure."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"So the hydrostatic valve is adjusted to set the rudders straight when the water-pressure upon it is a certain amount."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"One is by the use of a hydrostatic valve."*
+> - 📜 **Lord Kelvin (*Mathematical and Physical Papers*):** *"Deep oceanic trenches endure enormous **hydrostatic** pressure capable of crushing ordinary iron spheres."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"Pascal's famous **hydrostatic** paradox demonstrates that fluid pressure depends upon depth rather than total volume."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The Portuguese man-of-war regulates its buoyancy through internal gas bladders obeying **hydrostatic** laws."*

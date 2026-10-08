@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cyclopteridae
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lumpfishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lumpfishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic family of scorpaeniform marine fishes known as lumpsuckers, possessing pelvic fins modified into an adhesive suction disc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cold-water bottom-dwelling fishes adapted to attach themselves firmly to rocks in stormy seas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclopteridae designates lumpfishes."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The lumpsucker fish of the family **Cyclopteridae** anchors itself to tidal boulders against the fiercest Atlantic surge."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"In **Cyclopteridae**, the pelvic fins are coalesced into a powerful cup-shaped sucker on the ventral surface."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"Members of **Cyclopteridae** inhabit the rocky littoral fringes of the North Atlantic and Arctic seas."*

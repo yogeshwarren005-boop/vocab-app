@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # procyclidine
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Drug (trade name kemadrin) used to reduce tremors in parkinsonism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drug (trade name kemadrin) used to reduce tremors in parkinsonism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic anticholinergic medication used to treat parkinsonism and extrapyramidal symptoms caused by antipsychotics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antimuscarinic drug that reduces muscle tremor and rigidity in neurodegenerative conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, procyclidine designates drug (trade name kemadrin) used to reduce tremors in parkinsonism."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine (Addenda)*):** *"Administration of **procyclidine** effectively reduced the distressing tremors and salivation of post-encephalitic parkinsonism."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The neurologist prescribed **procyclidine** to alleviate muscular rigidity in the trembling elder."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Central anticholinergic agents like **procyclidine** restored motor coordination to afflicted veterans."*

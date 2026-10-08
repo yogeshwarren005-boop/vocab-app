@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cyclostyle
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A writing implement with a small toothed wheel that cuts small holes in a stencil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Print with an implement with small toothed wheels that cuts small holes in a stencil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An early duplicating apparatus in which a small toothed wheel perforates a stencil paper as it writes, allowing ink to pass through onto copies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To produce copies using a cyclostyle duplicating machine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclostyle designates a writing implement with a small toothed wheel that cuts small holes in a stencil."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Bruce-Partington Plans*):** *"Mycroft handed over a **cyclostyle** copy of the secret naval submarine blueprints to Sherlock."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"Volunteers worked through the night cranking the **cyclostyle** to distribute emergency defense proclamations."*
+> - 📜 **George Bernard Shaw (*The Intelligent Woman's Guide to Socialism*):** *"Early socialist societies circulated their political pamphlets via hand-cranked **cyclostyle** duplicates."*

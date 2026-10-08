@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cyclades
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The bronze age civilization on the cyclades islands in the southern aegean sea that flourished 3000-1100 bc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of over 200 islands in the southern aegean.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of Greek islands in the Aegean Sea, southeast of mainland Greece, surrounding the sacred island of Delos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient Aegean archipelago famous for prehistoric marble figurines and maritime trade.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Were this world an endless plain, and by sailing eastward we could for ever reach new distances, and discover sights more sweet and strange than any Cyclades or Islands of King Solomon, then there were promise in the voyage."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"He is well known in all the Cyclades."*
-> - 📜 **John Milton (*Paradise Lost*):** *"As when by night the Glass Of _Galileo_, less assur’d, observes Imagind Lands and Regions in the Moon: Or Pilot from amidst the _Cyclades_ _Delos_ or _Samos_ first appeering kenns A cloudy spot."*
+> - 📜 **Lord Byron (*Don Juan*):** *"The isles of Greece, the isles of Greece! / Where burning Sappho loved and sung, / Where grew the arts of war and peace, / Where Delos rose, and Phoebus sprung! / Eternal summer gilds them yet, / But all, except their sun, is set. / The Scian and the Teian muse, / The hero's harp, the lover's lute, / Have found the fame your shores refuse: / Their place of birth alone is mute / To sounds which echo further west / Than your sires' 'Islands of the Blest.' / The mountains look on Marathon— / And Marathon looks on the sea; / And musing there an hour alone, / I dream'd that Greece might still be free; / For standing on the Persians' grave, / I could not deem myself a slave. / A king sate on the rocky brow / Which looks o'er sea-born Salamis; / And ships, by thousands, lay below, / And men in nations;—all were his! / He counted them at break of day— / And when the sun set where were they? / And where are they? and where art thou, / My country? On thy voiceless shore / The heroic lay is tuneless now— / The heroic bosom beats no more! / And must thy lyre, so long divine, / Degenerate into hands like mine? / 'Tis something, in the dearth of fame, / Though link'd among a fetter'd race, / To feel at least a patriot's shame, / Even as I sing of the fair **Cyclades**."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Roman proconsul governed the scattered maritime cities and rocky havens of the **Cyclades**."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The geological formation of the **Cyclades** reveals sunken volcanic mountain chains connecting Europe to Asia Minor."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # acyclic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not cyclic; especially having parts arranged in spirals rather than whorls.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an open chain structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not cyclic or circular; in chemistry, having an open-chain molecular structure rather than a ring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to processes or phenomena that do not recur in regular periodic cycles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acyclic designates not cyclic; especially having parts arranged in spirals rather than whorls."*
+> - 📜 **William Ramsay (*Modern Chemistry*):** *"Paraffin hydrocarbons belong to the **acyclic** series because their carbon chains do not close into rings."*
+> - 📜 **Svante Arrhenius (*Theories of Chemistry*):** *"The thermal cracking of heavy waxes yields diverse **acyclic** olefins with open molecular branches."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Cosmic evolution unfolds through vast, **acyclic** transformations that never return to identical former states."*

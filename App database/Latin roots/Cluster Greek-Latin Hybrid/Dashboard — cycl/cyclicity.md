@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cyclicity
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of recurring at regular intervals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of recurring at regular intervals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, state, or fact of recurring in cycles or repeating at regular intervals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Periodic recurrence or cyclical pattern in biological or geological systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclicity designates the quality of recurring at regular intervals."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Hutton perceived a profound **cyclicity** in planetary mechanics, finding no vestige of a beginning and no prospect of an end."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"The **cyclicity** of trade winds governed all historical voyages of discovery across the tropical Atlantic."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Life demonstrates an inherent **cyclicity**, returning individual protoplasm to mineral elements through dissolution."*

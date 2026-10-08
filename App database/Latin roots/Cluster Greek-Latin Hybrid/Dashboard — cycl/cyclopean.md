@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cyclopean
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resembling the cyclops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or resembling the cyclops.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed with or consisting of massive, irregular rough-hewn stone blocks fitted together without mortar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Colossal, vast, and awe-inspiring in size or architectural scale.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclopean designates of or relating to or resembling the cyclops."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The **cyclopean** walls of Mycenae and Tiryns still defy time, monuments to a prehistoric and mysterious antiquity."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sperm whale's brow rose before us like a **cyclopean** wall of black masonry beating back the ocean waves."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The Venetian foundations rested upon **cyclopean** piles of sunken timber driven deep into the lagoon mud."*

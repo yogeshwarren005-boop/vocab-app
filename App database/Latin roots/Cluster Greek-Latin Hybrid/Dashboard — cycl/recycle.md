@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # recycle
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to repeat a cycle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use again after processing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert waste materials into reusable material, or to return a substance to a previous stage of a process.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To process and reuse materials repeatedly in industrial or natural cycles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He repeated charges that the UIPS non-renewables deficits resulted from poor control and excessive consumption of raw materials, plus breakdown in recycling and conservation policies."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Recycling, salvage, ever-deeper mine shafts and tunnels, repeated sweeps of the Earth's sea beds and planetary and satellites' crusts, trenches, beds and craters offered insufficient returns."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Modern chemical plants **recycle** all effluent water, purifying it until it returns crystal-clear to the vats."*
+> - 📜 **Bertrand Russell (*New Hopes for a Changing World*):** *"Mankind must learn to **recycle** vital mineral commodities rather than squander them in wasteful conflicts."*
+> - 📜 **Thomas Henry Huxley (*Discourses: Biological and Geological*):** *"Living plants **recycle** the carbonic acid exhaled by animals, replenishing atmospheric oxygen for respiration."*

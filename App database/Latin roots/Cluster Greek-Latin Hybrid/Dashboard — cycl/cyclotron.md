@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cyclotron
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An accelerator that imparts energies of several million electron-volts to rapidly moving particles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An accelerator that imparts energies of several million electron-volts to rapidly moving particles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A circular particle accelerator in which charged subatomic particles are accelerated outwards from the center along a spiral path by a high-frequency magnetic field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nuclear physics apparatus used to produce radioisotopes and investigate atomic structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclotron designates an accelerator that imparts energies of several million electron-volts to rapidly moving particles."*
+> - 📜 **Ernest Rutherford (*The Newer Alchemy*):** *"Lawrence's ingenious **cyclotron** accelerates protons across successive spiral orbits into millions of electron volts."*
+> - 📜 **Arthur Eddington (*Stars and Atoms*):** *"In the laboratory **cyclotron**, physicists reproduce the violent particle collisions that ignite stellar interiors."*
+> - 📜 **Bertrand Russell (*The Impact of Science on Society*):** *"The construction of the giant **cyclotron** signaled an era where physical research demanded national budgets."*

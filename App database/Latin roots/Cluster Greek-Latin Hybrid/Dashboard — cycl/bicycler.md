@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # bicycler
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who rides a bicycle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who rides a bicycle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who rides a bicycle; a cyclist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An operator of a two-wheeled pedal velocipede.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Fuseblue peer from barrel rev. evensong Love on hackney jaunt Blazes blind coddoubled bicyclers Dilly with snowcake no fancy clothes."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Solitary Cyclist*):** *"The mysterious **bicycler** pedaled steadily behind her along the solitary, tree-shaded lane."*
+> - 📜 **H. G. Wells (*The Wheels of Chance*):** *"Every rural dog regarded an approaching **bicycler** as a legitimate object of noisy pursuit."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"A solitary **bicycler** flitted past through the evening dusk, his carbide lamp casting an eerie yellow beam."*

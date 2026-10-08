@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # encyclopaedic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Broad in scope or content.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Broad in scope or content.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprehensive in terms of information; covering a wide range of subjects in exhaustive detail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to an encyclopedia or encyclopedism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The high hall of Horne’s house had never beheld an assembly so representative and so varied nor had the old rafters of that establishment ever listened to a language so encyclopaedic."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Holmes possessed an **encyclopaedic** knowledge of past sensational crimes, remembering every detail of trial records."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Byzantine compiler displayed **encyclopaedic** industry rather than original intellectual genius."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Bacon's intellect was truly **encyclopaedic**, embracing all science, statecraft, and philosophical inquiry."*

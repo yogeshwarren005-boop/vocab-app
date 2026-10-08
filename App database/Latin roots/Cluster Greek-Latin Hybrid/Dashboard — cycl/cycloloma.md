@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cycloloma
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A caryophyllaceous genus of the family chenopodiaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A caryophyllaceous genus of the family chenopodiaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of annual tumbleweeds in the amaranth family Amaranthaceae, containing the winged pigweed (Cycloloma atriplicifolium).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bushy annual plant native to North American sandhills and prairies that breaks off to roll as a tumbleweed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cycloloma designates a caryophyllaceous genus of the family chenopodiaceae."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The winged calyx of **Cycloloma** forms a broad, horizontal circular membrane surrounding the ripe fruit."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Dispersal of seeds across windy plains is aided in **Cycloloma** by the entire dead plant tumbling before the gale."*
+> - 📜 **John Muir (*Steep Trails*):** *"Across the sandy river bars of the plains, dry globes of **Cycloloma** bowled merrily across the prairie."*

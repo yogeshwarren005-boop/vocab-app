@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cyclosorus
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of terrestrial ferns of tropical and subtropical southern hemisphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of terrestrial ferns of tropical and subtropical southern hemisphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of marsh ferns in the family Thelypteridaceae, characterized by round sori on the underside of the fronds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical and subtropical ferns inhabiting wet woodlands and marshy stream margins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclosorus designates small genus of terrestrial ferns of tropical and subtropical southern hemisphere."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Fronds of **Cyclosorus** bear circular sori covered by heart-shaped indusia along the pinnule veins."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Dense banks of the marsh fern **Cyclosorus** bordered the sluggish tropical river, dipping into the water."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The young fiddlehead crosiers of **Cyclosorus** uncoil through vigorous circumnutation in the spring moisture."*

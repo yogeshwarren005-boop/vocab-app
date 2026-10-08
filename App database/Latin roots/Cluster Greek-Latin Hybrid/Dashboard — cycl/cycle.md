@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cycle
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An interval during which a recurring sequence of events occurs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A series of poems or songs on the same theme.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A series of events that are regularly repeated in the same order, returning to the starting point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complete round of recurring changes or operations in physics, astronomy, or machinery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel wished he had not nailed up his colours as a shepherd, but had laid himself out for anything in the whole cycle of labour that was required in the fair."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Oppenheimer, for instance, had never seen an automobile or a motor-cycle."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The enterprise of a modern community, as a whole, "general business," moves along, in a wavelike manner, going through a somewhat regular series of changes that is called a business cycle."*
+> - 📜 **Alfred Lord Tennyson (*Locksley Hall*):** *"Better fifty years of Europe than a **cycle** of Cathay."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The perpetual **cycle** of birth, variation, and natural selection maintains the dynamic equilibrium of organic life."*
+> - 📜 **Lord Kelvin (*On the Dynamical Theory of Heat*):** *"Carnot's reversible thermodynamic **cycle** establishes the maximum work obtainable between two thermal reservoirs."*

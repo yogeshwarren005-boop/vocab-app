@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # encyclopedism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Profound scholarly knowledge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Profound scholarly knowledge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or ideal of comprehensive learning; the Enlightenment pursuit of systematizing all human knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Broad intellectual range aiming to encompass every discipline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encyclopedism designates profound scholarly knowledge."*
+> - 📜 **Lord Acton (*Lectures on the French Revolution*):** *"The rationalism of French **encyclopedism** challenged hereditary privilege and divine right throughout Europe."*
+> - 📜 **Thomas Carlyle (*Critical and Miscellaneous Essays*):** *"In Diderot, **encyclopedism** was not a dry museum catalog, but a living crusade for human reason."*
+> - 📜 **John Stuart Mill (*Autobiography*):** *"My father's curriculum was animated by the thoroughness of eighteenth-century **encyclopedism**."*

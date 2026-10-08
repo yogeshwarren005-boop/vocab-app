@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # epicyclic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an epicycle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an epicycle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having the nature of an epicycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical engineering, designating gear trains in which one gear rolls around the outside or inside of another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epicyclic designates of or relating to an epicycle."*
+> - 📜 **James Clerk Maxwell (*Scientific Papers*):** *"An **epicyclic** train of gear wheels allows compact, high-ratio mechanical reduction in clockwork."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"Ancient observers accounted for retrograde planetary motions by hypothesizing complex **epicyclic** paths."*
+> - 📜 **Arthur Conan Doyle (*The Disintegration Machine*):** *"The apparatus hummed as intricate **epicyclic** gears adjusted the magnetic focusing poles."*

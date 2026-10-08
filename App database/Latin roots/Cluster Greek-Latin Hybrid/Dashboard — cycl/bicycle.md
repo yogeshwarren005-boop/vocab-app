@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # bicycle
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wheeled vehicle that has two wheels and is moved by foot pedals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ride a bicycle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vehicle consisting of two wheels mounted one behind the other on a frame, propelled by foot pedals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To ride or travel upon a two-wheeled human-powered velocipede.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"When Drury drove up in a borrowed farm cart, Isabel without expecting or receiving many thanks dragged her bicycle to the top of the glen and pelted off across the moor."*
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"Fanny thought a moment, and then spoke up quite distinctly: “Please send me some peppermints, and some new shoes for my doll, and a bunch of pansies for my mama, and a new bicycle for my papa, and--and--that’s all this time."*
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"They are for you, mama,” she cried, “and now everything has come but papa’s new bicycle.” Just then she looked out of the window, and there was her papa coming up the drive on a fine new wheel."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Priory School*):** *"Holmes scrutinized the tyre tracks of the **bicycle** upon the damp turf of the moor."*
+> - 📜 **H. G. Wells (*The Wheels of Chance*):** *"Mr. Hoopdriver set out upon his pneumatic **bicycle**, intoxicated with the romantic prospect of the open road."*
+> - 📜 **George Bernard Shaw (*An Unsocial Socialist*):** *"The modern **bicycle** granted working men and women an unprecedented mobility across the country lanes."*

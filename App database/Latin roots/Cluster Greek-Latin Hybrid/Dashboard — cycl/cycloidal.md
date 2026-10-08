@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cycloidal
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a circle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a circle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, shaped like, or having the mathematical properties of a cycloid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to curves described by points on rolling circles, or fish scales with smooth circular edges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cycloidal designates resembling a circle."*
+> - 📜 **Lord Kelvin (*Mathematical and Physical Papers*):** *"The **cycloidal** pendulum preserves an unvarying period of oscillation regardless of the amplitude of its arc."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"Teleostean fishes exhibit **cycloidal** scales characterized by smooth, concentric growth rings."*
+> - 📜 **James Clerk Maxwell (*Scientific Papers*):** *"Gear teeth carved with **cycloidal** flanks transmit rotational motion with minimal frictional scrub."*

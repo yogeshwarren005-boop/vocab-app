@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cyclosis
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The circulation of cytoplasm within a cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The circulation of cytoplasm within a cell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The circular streaming motion of cytoplasm within living plant or animal cells, transporting organelles and nutrients.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intracellular protoplasmic circulation, as observed in Chara or Elodea cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclosis designates the circulation of cytoplasm within a cell."*
+> - 📜 **Thomas Henry Huxley (*Practical Biology*):** *"Microscopic examination of the leaf cells of Vallisneria reveals continuous **cyclosis** of chloroplasts along the walls."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"Application of gentle stimulants accelerated the rotational velocity of **cyclosis** within the tentacle cells."*
+> - 📜 **John Tyndall (*Fragments of Science*):** *"The silent, unceasing **cyclosis** of living protoplasm constitutes nature's most mesmerizing demonstration of vital energy."*

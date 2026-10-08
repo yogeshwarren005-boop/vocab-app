@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # recycling
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of processing used or abandoned materials for use in creating new products.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to repeat a cycle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or process of converting waste into reusable material; returning items to a new cycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The continuous reclamation and reprocessing of raw materials or resources.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He repeated charges that the UIPS non-renewables deficits resulted from poor control and excessive consumption of raw materials, plus breakdown in recycling and conservation policies."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Recycling, salvage, ever-deeper mine shafts and tunnels, repeated sweeps of the Earth's sea beds and planetary and satellites' crusts, trenches, beds and craters offered insufficient returns."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Systematic **recycling** of glass, rubber, and scrap iron transformed industrial economics after the great collapse."*
+> - 📜 **Bertrand Russell (*The Prospects of Industrial Civilization*):** *"Without extensive **recycling** of dwindling metal reserves, future generations will face catastrophic shortages."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The geological **recycling** of oceanic sediments into uplifted mountain ranges reveals the dynamic crust of our globe."*

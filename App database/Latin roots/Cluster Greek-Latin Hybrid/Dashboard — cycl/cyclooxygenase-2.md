@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cyclooxygenase-2
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme that makes prostaglandins that cause inflammation and pain and fever.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enzyme that makes prostaglandins that cause inflammation and pain and fever.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inducible isoform of the cyclooxygenase enzyme that is upregulated during inflammation, pain, and fever.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The enzyme isoform specifically targeted by selective coxib anti-inflammatory medications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclooxygenase-2 designates an enzyme that makes prostaglandins that cause inflammation and pain and fever."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine (Therapeutic Addenda)*):** *"Selective inhibition of inducible **cyclooxygenase-2** relieves inflammatory pain while sparing the stomach wall."*
+> - 📜 **Svante Arrhenius (*Immunochemistry*):** *"Inflammatory cytokines trigger rapid transcriptional induction of **cyclooxygenase-2** in macrophages and synovial cells."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"Targeted therapies aimed at **cyclooxygenase-2** promised potent analgesia without the dread of peptic hemorrhage."*

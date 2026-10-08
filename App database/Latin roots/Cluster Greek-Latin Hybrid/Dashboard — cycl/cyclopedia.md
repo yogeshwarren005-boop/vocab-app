@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cyclopedia
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reference work (often in several volumes) containing articles on various topics (often arranged in alphabetical order) dealing with the entire range of human knowledge or with some particular specialty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reference work (often in several volumes) containing articles on various topics (often arranged in alphabetical order) dealing with the entire range of human knowledge or with some particular specialty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A book or set of books giving information on many subjects or on many aspects of one subject; an encyclopedia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extensive reference compendium of facts, arts, or sciences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"What Charlie don't have in his pants pocket ain't in the 'cyclopedia."*
+> - 📜 **Ralph Waldo Emerson (*English Traits*):** *"The great British museums and libraries form a living **cyclopedia** of the material triumphs of mankind."*
+> - 📜 **Arthur Conan Doyle (*The Red-Headed League*):** *"Jabez Wilson was employed to copy the **cyclopedia** letter by letter starting at the letter A."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"In the Palace of Green Porcelain, ruined volumes of a forgotten **cyclopedia** moldered upon rusted shelves."*

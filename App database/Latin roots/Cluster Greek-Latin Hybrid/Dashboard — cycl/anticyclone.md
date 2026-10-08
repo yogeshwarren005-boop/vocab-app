@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # anticyclone
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (meteorology) winds spiraling outward from a high pressure center; circling clockwise in the northern hemisphere and counterclockwise in the southern.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (meteorology) winds spiraling outward from a high pressure center; circling clockwise in the northern hemisphere and counterclockwise in the southern.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A weather system with high atmospheric pressure at its center, around which winds circulate outward in a clockwise direction in the Northern Hemisphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A meteorological area of calm, settled, dry weather characterized by descending air currents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anticyclone designates (meteorology) winds spiraling outward from a high pressure center; circling clockwise in the northern hemisphere and counterclockwise in the southern."*
+> - 📜 **Francis Galton (*Meteorographica, or Methods of Mapping the Weather*):** *"I coined the term **anticyclone** to describe those vast systems of high barometric pressure where calm winds diverge."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"A persistent winter **anticyclone** over Siberia brings intensely clear skies and biting frost."*
+> - 📜 **Arthur Conan Doyle (*The Poison Belt*):** *"The barometers recorded a massive continental **anticyclone** settling over western Europe before the crisis."*

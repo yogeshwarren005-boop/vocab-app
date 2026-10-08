@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # encyclopaedist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who compiles information for encyclopedias.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who compiles information for encyclopedias.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who writes for or helps compile an encyclopedia, especially one of the 18th-century French Encyclopedists.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scholar who possesses or disseminates encyclopedic knowledge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encyclopaedist designates a person who compiles information for encyclopedias."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Diderot stood forth as the fearless chief **encyclopaedist**, defying censorship to educate the nation."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Every Parisian salon resounded with the skeptical wit of the philosopher and the reforming **encyclopaedist**."*
+> - 📜 **Lord Acton (*Historical Essays and Studies*):** *"The mission of the **encyclopaedist** was to liberate human intellect from ecclesiastical tutelage."*

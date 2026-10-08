@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # nontricyclic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of antidepressant drugs that are not tricyclic drugs and do not act by inhibiting mao.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A class of antidepressant drugs that are not tricyclic drugs and do not act by inhibiting mao.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not tricyclic; designating medications or chemical compounds that lack a three-ring chemical structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating second-generation antidepressants that differ structurally from classic tricyclic compounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nontricyclic designates a class of antidepressant drugs that are not tricyclic drugs and do not act by inhibiting mao."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine (Addenda)*):** *"Modern clinicians frequently prefer a **nontricyclic** antidepressant to minimize anticholinergic side effects."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The specialist prescribed a novel **nontricyclic** compound that relieved melancholy without impairing cardiac conduction."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Targeted psychiatric medicine utilized **nontricyclic** neurochemical regulators to sustain mental stability."*

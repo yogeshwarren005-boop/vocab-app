@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # epicyclical
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an epicycle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an epicycle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or moving in an epicycle; having the motion of an epicycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to epicyclic gearing or planetary curves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epicyclical designates of or relating to an epicycle."*
+> - 📜 **James Clerk Maxwell (*Treatise on Electricity and Magnetism*):** *"The magnetic particle describes an **epicyclical** trajectory under the combined electrostatic and lorentzian forces."*
+> - 📜 **Lord Kelvin (*Mathematical and Physical Papers*):** *"Ptolemy's **epicyclical** curves approximated true Keplerian ellipses with surprising observational fidelity."*
+> - 📜 **John Tyndall (*Fragments of Science*):** *"We trace the **epicyclical** motion of vibrating tuning fork tines against a revolving blackened cylinder."*

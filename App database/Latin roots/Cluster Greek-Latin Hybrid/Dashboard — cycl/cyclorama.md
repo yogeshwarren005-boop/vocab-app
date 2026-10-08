@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cyclorama
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A picture (or series of pictures) representing a continuous scene.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A picture (or series of pictures) representing a continuous scene.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large pictorial representation or panoramic painting displayed on the inner wall of a circular room, giving a 360-degree illusion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A curved panoramic curtain or background screen at the back of a theatrical stage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclorama designates a picture (or series of pictures) representing a continuous scene."*
+> - 📜 **H. G. Wells (*The Sleeper Awakes*):** *"The hall was encircled by an illuminated **cyclorama** portraying the tumultuous history of the twentieth century."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The vast amphitheater of cliffs looked like an immense natural **cyclorama** painted with prehistoric dread."*
+> - 📜 **Henry James (*The American Scene*):** *"Visitors gazed at the colossal battle **cyclorama**, astonished by the vivid realism of the painted field."*

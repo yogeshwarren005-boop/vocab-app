@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cyclic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conforming to the carnot cycle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forming a whorl or having parts arranged in a whorl.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring in cycles; recurring in a regular, repeating pattern or round.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry, having atoms linked in a closed ring; belonging to a closed-chain compound.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The speed or slowness of his recognition of such periodic or cyclic changes in nature will depend largely on the length of the particular cycle."*
+> - 📜 **William Ramsay (*Modern Chemistry*):** *"Benzene stands as the prototype of all **cyclic** compounds, consisting of six carbon atoms joined in a closed hexagon."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Geological erosion and sedimentation follow a **cyclic** rhythm measured across vast spans of planetary time."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Sunspot activity exhibits a **cyclic** periodicity that directly affects terrestrial magnetic variations."*

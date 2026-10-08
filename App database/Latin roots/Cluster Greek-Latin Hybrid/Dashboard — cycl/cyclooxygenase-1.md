@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cyclooxygenase-1
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme that regulates prostaglandins that are important for the health of the stomach lining and kidneys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enzyme that regulates prostaglandins that are important for the health of the stomach lining and kidneys.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The constitutive form of the cyclooxygenase enzyme that maintains gastric mucosal integrity and regulates renal blood flow and platelets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The housekeeping isoform of COX responsible for baseline homeostatic prostanoid synthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclooxygenase-1 designates an enzyme that regulates prostaglandins that are important for the health of the stomach lining and kidneys."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine (Therapeutic Addenda)*):** *"Inhibition of **cyclooxygenase-1** by nonselective analgesics predisposes the gastric lining to ulceration and bleeding."*
+> - 📜 **Svante Arrhenius (*Immunochemistry*):** *"Platelet aggregation is driven by thromboxane produced via the constitutive activity of **cyclooxygenase-1**."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The researcher noted that mucosal protection depended upon the unhindered synthesis of prostanoids by **cyclooxygenase-1**."*

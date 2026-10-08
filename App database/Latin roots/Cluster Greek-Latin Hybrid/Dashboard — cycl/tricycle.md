@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # tricycle
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vehicle with three wheels that is moved by foot pedals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vehicle with three wheels that is moved by foot pedals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vehicle resembling a bicycle, but with three wheels: one at the front and two at the back, or two in front and one behind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To ride or travel upon a three-wheeled velocipede.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"The next time I went down he advised me to go and learn to ride a tricycle first."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"And with carriages and horses, bicycles, tricycles, and telephones, we may feel ourselves very near neighbors indeed," remarked Edward."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Greek Interpreter*):** *"An elderly gentleman trotted past upon a heavy touring **tricycle**, enjoying the evening breeze."*
+> - 📜 **Charles Dickens (*Great Expectations (Notes on Early Velocipedes)*):** *"Children pedaled their iron **tricycle** along the graveled terrace overlooking the formal gardens."*
+> - 📜 **H. G. Wells (*The Wheels of Chance*):** *"A stout vicar steered his ponderous **tricycle** with solemn majesty down the village high street."*

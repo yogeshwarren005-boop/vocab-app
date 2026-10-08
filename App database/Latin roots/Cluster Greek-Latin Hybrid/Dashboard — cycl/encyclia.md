@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # encyclia
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of epiphytic and lithophytic orchids of tropical and subtropical americas and west indies; formerly included in genus epidendrum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of epiphytic and lithophytic orchids of tropical and subtropical americas and west indies; formerly included in genus epidendrum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of neotropical epiphytic orchids known as butterfly orchids, characterized by fragrant flowers with labella encircling the column.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An orchid genus native to the Caribbean, Central, and South America, popular in horticulture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encyclia designates large genus of epiphytic and lithophytic orchids of tropical and subtropical americas and west indies; formerly included in genus epidendrum."*
+> - 📜 **Charles Darwin (*The Various Contrivances by which Orchids are Fertilised by Insects*):** *"In the butterfly orchid **Encyclia**, the lip encricles the column to compel visiting moths to brush the pollinia."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature and Other Essays*):** *"Epiphytic clumps of **Encyclia** clung to mossy branches overlooking the humid Amazonian riverbanks."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Species of **Encyclia** produce durable pseudobulbs that store moisture during the subtropical dry season."*

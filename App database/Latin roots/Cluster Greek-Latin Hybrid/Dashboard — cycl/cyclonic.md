@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cyclonic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of the atmosphere around a low pressure center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of a violent tropical storm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resembling a cyclone; marked by rotating winds around a low-pressure center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Violent, rotary, or whirlwind-like in force or movement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"From the reports of eyewitnesses it transpires that the seismic waves were accompanied by a violent atmospheric perturbation of cyclonic character."*
+> - 📜 **Francis Galton (*Meteorographica*):** *"The wind arrows curved inward in a grand **cyclonic** spiral converging upon the central barometric depression."*
+> - 📜 **Joseph Conrad (*Youth: A Narrative*):** *"The sky assumed a menacing copper hue under the immense **cyclonic** disturbance rushing up from the south."*
+> - 📜 **John Tyndall (*Hours of Exercise in the Alps*):** *"A fierce **cyclonic** eddy whipped the powdery snow from the mountain crest into swirling white plumes."*

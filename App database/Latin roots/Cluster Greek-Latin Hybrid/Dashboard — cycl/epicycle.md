@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # epicycle
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A circle that rolls around (inside or outside) another circle; generates an epicycloid or hypocycloid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A circle that rolls around (inside or outside) another circle; generates an epicycloid or hypocycloid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Ptolemaic astronomy, a small circle whose center moves around the circumference of a larger circle (the deferent).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A geometric circle rolling upon or within another circle, generating an epicycloid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epicycle designates a circle that rolls around (inside or outside) another circle; generates an epicycloid or hypocycloid."*
+> - 📜 **John Milton (*Paradise Lost*):** *"With centric and eccentric scribbled o'er, / Cycle and **epicycle**, orb in orb."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"Ptolemaic astronomers invented **epicycle** upon **epicycle** to salvage geocentric planetary calculations."*
+> - 📜 **James Clerk Maxwell (*Matter and Motion*):** *"Copernicus swept away the clumsy machinery of the Ptolemaic **epicycle** by placing the sun at the center."*

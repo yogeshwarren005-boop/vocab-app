@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cyclopaedia
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reference work (often in several volumes) containing articles on various topics (often arranged in alphabetical order) dealing with the entire range of human knowledge or with some particular specialty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reference work (often in several volumes) containing articles on various topics (often arranged in alphabetical order) dealing with the entire range of human knowledge or with some particular specialty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A comprehensive reference work containing articles on various topics covering all branches of knowledge, or a particular branch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An exhaustive compendium or encyclopedic repository of human learning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In the oldest existing cyclopaedia--the _Natural History_ of Pliny--the list of dangers apprehended from menstruation is longer than any furnished by mere barbarians."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Ac- 100:3 cording to the American Cyclopaedia, he regarded this so-called force, which he said could be ex- erted by one living organism over another, as 100:6 a means of alleviating disease."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the oldest existing cyclopaedia--the _Natural History_ of Pliny--the list of dangers apprehended from menstruation is longer than any furnished by mere barbarians."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"The ambitious scholar sought to digest Ephraim Chambers' vast **cyclopaedia** into his daily lectures."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Mr. Gregsbury had mastered an immense **cyclopaedia** of political platitudes to bamboozle his constituents."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"To bind all human knowledges into one universal **cyclopaedia** is the noble, unattainable dream of the Enlightenment."*

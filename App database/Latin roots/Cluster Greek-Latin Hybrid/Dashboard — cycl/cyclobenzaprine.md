@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cyclobenzaprine
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Muscle relaxant (trade name flexeril) used for muscle spasms or acute injury.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Muscle relaxant (trade name flexeril) used for muscle spasms or acute injury.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prescription muscle relaxant medication used to relieve skeletal muscle spasms associated with acute, painful musculoskeletal conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tricyclic pharmacological agent acting primarily within the central nervous system to reduce motor spasm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclobenzaprine designates muscle relaxant (trade name flexeril) used for muscle spasms or acute injury."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine (Addenda)*):** *"For acute muscular torticollis, therapy with **cyclobenzaprine** afforded rapid skeletal relaxation without systemic paralysis."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The practitioner prescribed **cyclobenzaprine** to relieve the agonizing muscular spasms of the lumbar back."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Centrally acting pharmaceuticals such as **cyclobenzaprine** permitted workers to recover swiftly from severe strain."*

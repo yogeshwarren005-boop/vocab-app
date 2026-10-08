@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cyclamen
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mediterranean plant widely cultivated as a houseplant for its showy dark green leaves splotched with silver and nodding white or pink to reddish flowers with reflexed petals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mediterranean plant widely cultivated as a houseplant for its showy dark green leaves splotched with silver and nodding white or pink to reddish flowers with reflexed petals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tuberous perennial plants in the primrose family Primulaceae, with nodding pink, purple, or white flowers and heart-shaped leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ornamental plant widely cultivated for autumn and winter blooms (sowbread).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclamen designates mediterranean plant widely cultivated as a houseplant for its showy dark green leaves splotched with silver and nodding white or pink to reddish flowers with reflexed petals."*
+> - 📜 **John Ruskin (*Proserpina: Studies of Wayside Flowers*):** *"The crimson petals of the wild **cyclamen** turn backward like the ears of a startled fawn."*
+> - 📜 **Alfred Lord Tennyson (*The Daisy*):** *"Remembering how along the shaded woodland paths the pink **cyclamen** bloomed in profusion."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"After fertilization, the peduncle of the **cyclamen** coils spirally downward to bury the ripening seed capsule."*

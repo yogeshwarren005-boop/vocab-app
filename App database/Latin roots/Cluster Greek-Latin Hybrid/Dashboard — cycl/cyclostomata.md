@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cyclostomata
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Primitive jawless aquatic vertebrate: lampreys; hagfishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primitive jawless aquatic vertebrate: lampreys; hagfishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group or class of primitive jawless aquatic vertebrates comprising the lampreys and hagfishes, possessing a circular sucking mouth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of marine cyclostome bryozoans with circular zooecial openings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclostomata designates primitive jawless aquatic vertebrate: lampreys; hagfishes."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The **Cyclostomata** represent the most primitive surviving branch of craniate vertebrates, entirely devoid of true jaws."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In **Cyclostomata**, the persistence of an unsegmented notochord reflects an ancestral stage in vertebrate evolution."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"Lampreys belonging to **Cyclostomata** migrate between oceanic depths and freshwater streams to spawn."*

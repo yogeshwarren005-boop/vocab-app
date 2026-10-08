@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cyclopterus
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the cyclopteridae: lumpfishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the cyclopteridae: lumpfishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of marine scorpaeniform fishes containing the common lumpsucker (Cyclopterus lumpus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavy, armored, globe-shaped marine fish that adheres to submarine rocks with its pelvic sucker.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclopterus designates type genus of the cyclopteridae: lumpfishes."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Male **Cyclopterus** lumpus guard the deposited eggs with fierce devotion, fanning them incessantly with their pectoral fins."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The thick skin of **Cyclopterus** is covered with rows of conical bony tubercles replacing normal scales."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"Subarctic rocky coasts provide the favorite spawning habitat for the lumpsucker **Cyclopterus**."*

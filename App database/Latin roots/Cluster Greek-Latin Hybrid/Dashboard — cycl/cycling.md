@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cycling
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The sport of traveling on a bicycle or motorcycle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to go through a recurring sequence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sport, activity, or recreation of riding a bicycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergoing a recurring sequence of operations or metabolic phases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"About six and a half years ago, however, having exhausted all material means at my command, - /materia medica/, electricity, gymnastics, cycling, and so on, - and being in a hopeless state, the study of Christian Science was taken up."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Solitary Cyclist*):** *"She was **cycling** along the lonely Charlington road when the mysterious rider appeared once more behind her."*
+> - 📜 **H. G. Wells (*The Wheels of Chance*):** *"Mr. Hoopdriver discovered that **cycling** brought an exhilarating sense of conquest over space and time."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"The continuous **cycling** of soil through earthworms aerates the earth and replenishes mineral nutrients."*

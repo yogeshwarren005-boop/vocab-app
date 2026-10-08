@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cyclostome
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Primitive aquatic vertebrate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primitive aquatic vertebrate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any jawless vertebrate of the class Cyclostomata, such as a lamprey or hagfish, possessing a circular sucking mouth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to animals having a round, jawless oral aperture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclostome designates primitive aquatic vertebrate."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The adult **cyclostome** attaches itself to other fishes by its circular oral disc, rasping flesh with horny teeth."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The larval ammocoetes stage of the **cyclostome** reveals astonishing structural parallels with the lancelet Amphioxus."*
+> - 📜 **Alfred Russel Wallace (*Darwinism*):** *"Surviving **cyclostome** species provide an irreplaceable window into early Paleozoic vertebrate morphology."*

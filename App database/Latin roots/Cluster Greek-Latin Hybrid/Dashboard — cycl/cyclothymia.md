@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cyclothymia
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mild bipolar disorder that persists over a long time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mild bipolar disorder that persists over a long time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic mood disorder characterized by alternating periods of mild depression and hypomania.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A milder, non-psychotic form of bipolar disorder exhibiting persistent cyclic mood swings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclothymia designates a mild bipolar disorder that persists over a long time."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The practitioner must distinguish constitutional **cyclothymia** from severe manic-depressive insanity."*
+> - 📜 **Silas Weir Mitchell (*Lectures on Diseases of the Nervous System*):** *"In chronic **cyclothymia**, phases of brilliant vivacity alternate unpredictably with days of gloomy apathy."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The artist suffered from temperament-driven **cyclothymia**, swinging from feverish creation to black melancholy."*

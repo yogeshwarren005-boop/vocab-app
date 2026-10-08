@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cyclopia
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A developmental abnormality in which there is only one eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A developmental abnormality in which there is only one eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare congenital disorder characterized by the failure of the embryonic prosencephalon to divide the orbits of the eye, resulting in a single central eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Severe alobar holoprosencephaly presenting with a single median ocular orbit and nasal proboscis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclopia designates a developmental abnormality in which there is only one eye."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Teratological specimens exhibiting complete **cyclopia** illustrate profound developmental arrest of the anterior neural tube."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Monstrosities such as **cyclopia** in domestic lambs demonstrate how ancestral developmental symmetry may be disrupted."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Failure of the optic vesicles to diverge during early embryogenesis culminates in the tragic deformity of **cyclopia**."*

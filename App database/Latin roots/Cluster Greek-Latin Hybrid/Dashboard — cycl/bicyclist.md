@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # bicyclist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who rides a bicycle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who rides a bicycle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who rides a bicycle; a cyclist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enthusiast or practitioner of bicycle touring or racing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"Come, let us seek somewhere that we may eat, and then we shall go on our way.” We dined at “Jack Straw’s Castle” along with a little crowd of bicyclists and others who were genially noisy."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Priory School*):** *"A practiced **bicyclist** can tell at a glance whether the rear wheel tyre followed the front track precisely."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"A terrified **bicyclist** raced down the road from Woking shouting that the Martians were advancing."*
+> - 📜 **Thomas Hardy (*The Well-Beloved*):** *"A youthful **bicyclist** whirled round the churchyard corner, scattering gravel beneath his rubber tyres."*

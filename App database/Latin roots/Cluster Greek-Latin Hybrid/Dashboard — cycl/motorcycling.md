@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # motorcycling
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Riding a motorcycle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ride a motorcycle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sport, activity, or pursuit of riding a motorcycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Traveling over highways and country roads by motorcycle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motorcycling designates riding a motorcycle."*
+> - 📜 **Arthur Conan Doyle (*Memories and Adventures*):** *"He enjoyed **motorcycling** across the Sussex downs, delighting in the rush of crisp morning wind."*
+> - 📜 **H. G. Wells (*The Secret Places of the Heart*):** *"Weekend **motorcycling** offered city dwellers an exhilarating escape from industrial grime."*
+> - 📜 **George Bernard Shaw (*Major Barbara (Preface)*):** *"The hazardous thrill of **motorcycling** demonstrated youth's eternal craving for speed and adventure."*

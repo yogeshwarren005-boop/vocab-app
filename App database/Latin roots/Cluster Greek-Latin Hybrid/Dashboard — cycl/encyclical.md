@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # encyclical
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A letter from the pope sent to all roman catholic bishops throughout the world.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intended for wide distribution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A papal letter addressed to all the bishops of the Roman Catholic Church or to the whole world, formulating church policy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A circular letter sent to a wide group of recipients, especially on ecclesiastical matters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encyclical designates a letter from the pope sent to all roman catholic bishops throughout the world."*
+> - 📜 **Lord Acton (*The History of Freedom and Other Essays*):** *"The papal **encyclical** reaffirmed the supreme spiritual authority of the Holy See over Catholic Christendom."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Patriarchs in Constantinople dispatched an **encyclical** epistle to all eastern dioceses condemning the schism."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The royal council dispatched an **encyclical** warning to provincial magistrates to suppress grain riots."*

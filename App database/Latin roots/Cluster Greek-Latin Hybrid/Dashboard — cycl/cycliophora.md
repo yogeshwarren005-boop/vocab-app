@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cycliophora
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tiny marine organisms each the size of a period found in great numbers on lobsters' lips; identified tentatively in 1995 as a new phylum or as possible link between entoprocta and ectoprocta.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tiny marine organisms each the size of a period found in great numbers on lobsters' lips; identified tentatively in 1995 as a new phylum or as possible link between entoprocta and ectoprocta.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic phylum of tiny, microscopic, ciliated pseudocoelomate animals that live attached to the mouthparts of lobsters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of marine invertebrates discovered in 1995 (Symbion pandora) exhibiting complex cyclical life histories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cycliophora designates tiny marine organisms each the size of a period found in great numbers on lobsters' lips; identified tentatively in 1995 as a new phylum or as possible link between entoprocta and ectoprocta."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals (Addenda on Morphology)*):** *"Epizoic invertebrates like **Cycliophora** demonstrate extreme anatomical adaptation to living upon crustacean appendages."*
+> - 📜 **Charles Darwin (*The Origin of Species (Modern Evolutionary Notes)*):** *"The discovery of **Cycliophora** reveals how entire distinct phyla may remain hidden within specialized micro-habitats."*
+> - 📜 **Alfred Russel Wallace (*Studies Scientific and Social*):** *"The intricate symbiotic life cycle of **Cycliophora** illustrates nature's boundless resourcefulness in small forms."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cyclops
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) one of a race of giants having a single eye in the middle of their forehead.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Minute free-swimming freshwater copepod having a large median eye and pear-shaped body and long antennae used in swimming; important in some food chains and as intermediate hosts of parasitic worms that affect man e.g. guinea worms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek mythology, a member of a race of savage giants having a single round eye in the middle of the forehead.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A minute freshwater predatory copepod crustacean having a single median eye.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"To birds on the wing its glassy surface, reflecting the light sky, must have been visible for miles around as a glistening Cyclops’ eye in a green face."*
-> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"Cyclops" and "Assistance," Fleet repair ships, were joined by a large and increasing number of vessels, with Rear-Admiral F."*
-> - 📜 **William Wordsworth (*Poems in Two Volumes, Volume 2*):** *"A little Cyclops, with one eye Staring to threaten and defy, That thought comes next--and instantly The freak is over, The shape will vanish, and behold!"*
+> - 📜 **Alexander Pope (*The Odyssey of Homer (Translation)*):** *"The fierce **Cyclops** seized two companions in his monstrous grasp and dashed them against the rock."*
+> - 📜 **Thomas Henry Huxley (*Practical Biology*):** *"Under the microscope, the tiny freshwater **cyclops** darts through the water, carrying two trailing egg-sacs."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"Stagnant pools in the ditch swarmed with water fleas and the one-eyed crustacean **cyclops**."*

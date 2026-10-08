@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # motorcycle
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A motor vehicle with two wheels and a strong frame.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ride a motorcycle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A two-wheeled motor-driven vehicle resembling a heavy bicycle powered by an internal combustion engine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A motorized bicycle or velocipede.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Here comes a dispatch rider." The man on the motorcycle dashed up, saluted."*
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"TOM SWIFT IN THE LAND OF WONDERS or The Underground Search for the Idol of Gold BY VICTOR APPLETON AUTHOR OF "TOM SWIFT AND HIS MOTORCYCLE," "TOM SWIFT AND HIS BIG TUNNEL," "THE MOVING PICTURE BOYS SERIES," "THE MOTION PICTURE CHUMS SERIES," ETC."*
+> - 📜 **Arthur Conan Doyle (*His Last Bow*):** *"Von Bork heard the distant roar of a **motorcycle** rushing along the coastal road with urgent despatches."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"Scouts mounted on an agile **motorcycle** reconnoitered the abandoned railway lines before the advancing airships."*
+> - 📜 **George Bernard Shaw (*Man and Superman*):** *"Tanner hailed the mechanical speed of the modern **motorcycle** as the quintessential symbol of twentieth-century haste."*

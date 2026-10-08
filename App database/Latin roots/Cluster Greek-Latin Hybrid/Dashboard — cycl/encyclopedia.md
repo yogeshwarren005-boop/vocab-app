@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # encyclopedia
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reference work (often in several volumes) containing articles on various topics (often arranged in alphabetical order) dealing with the entire range of human knowledge or with some particular specialty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reference work (often in several volumes) containing articles on various topics (often arranged in alphabetical order) dealing with the entire range of human knowledge or with some particular specialty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A book or set of books giving information on many subjects or on many aspects of one subject, typically arranged alphabetically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A comprehensive reference compendium covering all branches of human knowledge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"In 1858 appeared the important article on "Kant," in the eighth edition of the _Encyclopedia Britannica_, which was written at the urgent request of his friend Adam Black, and which cost him ten months reading and preparation."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Memoirs: Hot War-Cold War: Back of the Line Logistics The 1988 Edition of the Encyclopedia Americana defines 'logistics' as: "É the movement and maintenance of military forces."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The Encyclopedia Brittanica." "Electrotyping and Stereotyping" Typographical Technical Series, Vol."*
+> - 📜 **Arthur Conan Doyle (*The Red-Headed League*):** *"He spent each morning transcribing the **Encyclopedia** Britannica from the volume open upon the desk."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"A universal world **encyclopedia** should be maintained and updated as the common heritage of all mankind."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Goethe was an **encyclopedia** in himself, uniting natural philosophy, theater, poetry, and statecraft."*

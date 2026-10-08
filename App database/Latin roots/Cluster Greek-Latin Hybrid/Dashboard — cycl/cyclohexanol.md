@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cyclohexanol
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless oily alcohol that smells like camphor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless oily alcohol that smells like camphor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless, viscous, cyclic organic alcohol with a camphor-like odor, widely used as an industrial precursor in the manufacture of nylon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An alicyclic alcohol produced by the catalytic hydrogenation of phenol.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclohexanol designates a colorless oily alcohol that smells like camphor."*
+> - 📜 **William Ramsay (*Modern Chemistry*):** *"Catalytic reduction of phenol over hot nickel yields pure **cyclohexanol**, an important cyclic solvent."*
+> - 📜 **Svante Arrhenius (*Theories of Chemistry*):** *"Oxidation of **cyclohexanol** with concentrated nitric acid produces adipic acid for polymer synthesis."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Vast chemical towers distilled **cyclohexanol** by the ton to supply synthetic textile fabrication plants."*

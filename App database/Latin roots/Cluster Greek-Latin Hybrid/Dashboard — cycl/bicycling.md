@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # bicycling
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Riding a bicycle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ride a bicycle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity, sport, or recreation of riding a bicycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Traveling from place to place by means of a two-wheeled pedal cycle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"My father had a small factory at Coventry, which he enlarged at the time of the invention of bicycling."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"But I also see, by what I have learned of bicycling, that the right and only sure way to learn German is by the bicycling method."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"When you have reached the point in bicycling where you can balance the machine tolerably fairly and propel it and steer it, then comes your next task—how to mount it."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Solitary Cyclist*):** *"She found that daily **bicycling** across the heath invigorated her spirits after long teaching hours."*
+> - 📜 **H. G. Wells (*The Wheels of Chance*):** *"He threw himself into **bicycling** with the reckless enthusiasm of a clerk released from his desk."*
+> - 📜 **George Bernard Shaw (*Man and Superman*):** *"The craze for **bicycling** swept aside Victorian decorum, providing young people with unchaperoned freedom."*

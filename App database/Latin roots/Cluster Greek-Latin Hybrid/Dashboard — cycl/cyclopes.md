@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cyclopes
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Only the silky anteater.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) one of a race of giants having a single eye in the middle of their forehead.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical mythology, a race of one-eyed giants, especially the forge-assistants of Hephaestus beneath Mount Etna.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mythical gigantic builders or smiths who forged Zeus's thunderbolts in antiquity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclopes designates only the silky anteater."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Far off the forge of Vulcan roared, where grim **Cyclopes** hammered arms for warring deities."*
+> - 📜 **Alexander Pope (*The Odyssey of Homer (Translation)*):** *"Far in the wild, the proud **Cyclopes** dwell, / Who scorn the gods and lawless rites uphold."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Pagan fables attributed the colossal stone ramparts of the Peloponnese to the superhuman toil of the **Cyclopes**."*

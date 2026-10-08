@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # motorcyclist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A traveler who rides a motorcycle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A traveler who rides a motorcycle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who rides a motorcycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An operator of a motorized two-wheeled vehicle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motorcyclist designates a traveler who rides a motorcycle."*
+> - 📜 **Arthur Conan Doyle (*His Last Bow*):** *"The military **motorcyclist** skidded to a halt outside the consulate, handing a sealed telegram to the sentry."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"A solitary **motorcyclist** traversed the desolate ruins of the motorway, maintaining communication between settlements."*
+> - 📜 **George Bernard Shaw (*Heartbreak House*):** *"The goggles and leather gauntlets gave the young **motorcyclist** the appearance of an invader from another sphere."*

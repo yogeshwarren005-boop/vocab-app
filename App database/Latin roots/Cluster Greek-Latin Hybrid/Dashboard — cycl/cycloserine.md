@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cycloserine
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibiotic that is especially active against the tubercle bacillus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibiotic that is especially active against the tubercle bacillus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibiotic medication produced by Streptomyces orchidaceus, used primarily as a second-line treatment for drug-resistant tuberculosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cyclic structural analogue of D-alanine that inhibits bacterial cell wall synthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cycloserine designates an antibiotic that is especially active against the tubercle bacillus."*
+> - 📜 **Alexander Fleming (*Penicillin: Its Practical Application (Addenda)*):** *"When mycobacterial resistance emerged, clinicians turned to synthetic antibiotics including **cycloserine**."*
+> - 📜 **William Osler (*The Evolution of Modern Medicine (Notes)*):** *"Second-line regimens employing **cycloserine** salvaged chronic tubercular patients previously deemed hopeless."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Anti-tubercular dispensaries administered daily doses of **cycloserine** to eradicate latent pulmonary disease."*

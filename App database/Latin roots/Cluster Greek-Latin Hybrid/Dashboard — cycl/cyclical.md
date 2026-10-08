@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cyclical
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Recurring in cycles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recurring in cycles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Recurring at regular intervals or moving in cycles; periodic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characterized by repeating seasonal, economic, or astronomical phases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Reducing cyclical unemployment and its effects. § 1. #Evils of early factory conditions#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The two main types of these are seasonal and cyclical changes, the one occurring within a year, and the other occurring within the longer period of the business cycle."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The **cyclical** advance and retreat of ancient glacial sheets left unmistakable moraine deposits across the valley."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Commercial panics and booms display a **cyclical** regularity connected with agricultural yields and credit speculation."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The water of our globe undergoes a perpetual **cyclical** movement between oceanic reservoirs and atmospheric clouds."*

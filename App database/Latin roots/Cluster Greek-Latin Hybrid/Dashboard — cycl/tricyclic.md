@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # tricyclic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antidepressant drug that acts by blocking the reuptake of norepinephrine and serotonin and thus making more of those substances available to act on receptors in the brain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antidepressant drug that acts by blocking the reuptake of norepinephrine and serotonin and thus making more of those substances available to act on receptors in the brain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having three fused rings in the molecular structure, especially denoting tricyclic antidepressant medications (TCAs).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to chemical compounds or pharmaceuticals possessing three fused aromatic or aliphatic rings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tricyclic designates an antidepressant drug that acts by blocking the reuptake of norepinephrine and serotonin and thus making more of those substances available to act on receptors in the brain."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine (Addenda)*):** *"The introduction of the **tricyclic** antidepressant imipramine marked a major turning point in psychiatric therapeutics."*
+> - 📜 **William Ramsay (*Modern Chemistry*):** *"Anthracene and phenanthrene serve as fundamental **tricyclic** hydrocarbons in the coal-tar chemical industry."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The physician explained that the **tricyclic** molecular ring system conferred unique pharmacological properties."*

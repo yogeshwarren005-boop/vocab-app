@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # bicyclic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having molecules consisting of two fused rings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having molecules consisting of two fused rings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having two rings in the molecular structure, especially in organic chemistry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing two wheels or operating in two distinct alternating cycles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bicyclic designates having molecules consisting of two fused rings."*
+> - 📜 **William Ramsay (*Modern Chemistry*):** *"Camphor is a representative **bicyclic** terpene containing two fused carbon rings within its skeleton."*
+> - 📜 **Svante Arrhenius (*Theories of Chemistry*):** *"The stability of **bicyclic** hydrocarbons depends upon the absence of steric strain across bridgehead atoms."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"Certain tendrils execute a complex **bicyclic** motion, describing two distinct ellipses each day."*

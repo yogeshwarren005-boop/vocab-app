@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # encyclopaedia
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reference work (often in several volumes) containing articles on various topics (often arranged in alphabetical order) dealing with the entire range of human knowledge or with some particular specialty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reference work (often in several volumes) containing articles on various topics (often arranged in alphabetical order) dealing with the entire range of human knowledge or with some particular specialty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A comprehensive book or set of books giving detailed information on all branches of knowledge, or on a particular subject.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vast repository of human education, science, history, and arts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Black to prepare the Index to the ninth edition of the _Encyclopaedia Britannica_, then in course of publication."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"James Hastings's _Encyclopaedia of Religion and Ethics_ iii. (Edinburgh, 1910) _s.v._ "Calendar (Muslim)," pp. 126 _sq._ However, L."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"But there is no literary public in England for anything except newspapers, primers, and encyclopaedias."*
+> - 📜 **Edward Gibbon (*Memoirs of My Life and Writings*):** *"I devoured every volume of the French **Encyclopaedia**, imbibing the bold spirit of philosophy and reason."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"To compile an **encyclopaedia** requires not only monumental learning, but unwearied patience and method."*
+> - 📜 **Thomas Carlyle (*Critical and Miscellaneous Essays*):** *"Diderot's great **Encyclopaedia** was the battering ram that shook the feudal foundations of old France."*

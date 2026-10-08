@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cyclothymic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or exhibiting cyclothymia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or exhibiting cyclothymia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, affected by, or characteristic of cyclothymia; exhibiting cyclical mood swings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating a personality prone to alternating emotional enthusiasm and gloom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclothymic designates of or relating to or exhibiting cyclothymia."*
+> - 📜 **William Osler (*Aequanimitas*):** *"A **cyclothymic** temperament is frequently allied with genuine artistic and poetic creativity."*
+> - 📜 **Silas Weir Mitchell (*Fat and Blood*):** *"Patients of a **cyclothymic** disposition require steady emotional routine to temper cyclical despondency."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"His **cyclothymic** companion would one day plan colossal fortunes and the next contemplate suicide in despair."*

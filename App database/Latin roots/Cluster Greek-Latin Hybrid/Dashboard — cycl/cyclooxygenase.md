@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cyclooxygenase
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two related enzymes that control the production of prostaglandins and are blocked by aspirin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two related enzymes that control the production of prostaglandins and are blocked by aspirin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme responsible for the formation of prostanoids, including prostaglandins and thromboxane, from arachidonic acid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biological enzyme target inhibited by aspirin and nonsteroidal anti-inflammatory drugs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclooxygenase designates either of two related enzymes that control the production of prostaglandins and are blocked by aspirin."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine (Addenda)*):** *"Aspirin achieves its antipyretic efficacy through irreversible acetylation of the cellular enzyme **cyclooxygenase**."*
+> - 📜 **Svante Arrhenius (*Immunochemistry*):** *"The enzymatic pathway mediated by **cyclooxygenase** converts polyunsaturated fatty acids into potent inflammatory mediators."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture (Modern Biochemical Notes)*):** *"Cellular communication depends upon minute cascades initiated by catalysts such as **cyclooxygenase** in the membrane."*

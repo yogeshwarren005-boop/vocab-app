@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # anticyclonic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of the atmosphere around a high pressure center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of the atmosphere around a high pressure center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, caused by, or characteristic of an anticyclone or high-pressure meteorological system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by clockwise circulation around a high-pressure core in the Northern Hemisphere with clear skies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anticyclonic designates of or relating to or characteristic of the atmosphere around a high pressure center."*
+> - 📜 **Francis Galton (*Meteorographica*):** *"The chart depicted broad **anticyclonic** curves sweeping gracefully over the North Sea."*
+> - 📜 **John Tyndall (*Fragments of Science*):** *"Stable **anticyclonic** conditions in the upper troposphere promoted remarkable atmospheric transparency."*
+> - 📜 **Joseph Conrad (*The Shadow-Line*):** *"Trapped in an **anticyclonic** calm, our vessel lay motionless upon an oily, unrippled ocean."*

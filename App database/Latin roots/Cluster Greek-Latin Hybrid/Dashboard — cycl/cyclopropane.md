@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cyclopropane
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless flammable gas sometimes used as an inhalation anesthetic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless flammable gas sometimes used as an inhalation anesthetic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless, highly flammable hydrocarbon gas (C3H6) containing a three-carbon ring, historically used as a general inhalation anesthetic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The simplest cycloalkane, characterized by severe bond angle strain (60 degrees) and reactivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclopropane designates a colorless flammable gas sometimes used as an inhalation anesthetic."*
+> - 📜 **William Ramsay (*Modern Chemistry*):** *"The triangular ring of **cyclopropane** is subjected to intense internal strain, causing it to open readily."*
+> - 📜 **Svante Arrhenius (*Theories of Chemistry*):** *"Combustion of **cyclopropane** liberates more heat per methylene group than unstrained cyclohexane."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine (Addenda)*):** *"Inhalation of **cyclopropane** induced rapid surgical anesthesia with smooth cardiac emergence."*

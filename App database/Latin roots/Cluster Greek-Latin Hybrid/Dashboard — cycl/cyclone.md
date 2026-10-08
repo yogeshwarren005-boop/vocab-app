@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cyclone
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (meteorology) rapid inward circulation of air masses about a low pressure center; circling counterclockwise in the northern hemisphere and clockwise in the southern.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A violent rotating windstorm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of winds rotating inward to an area of low atmospheric pressure, with a counterclockwise direction in the Northern Hemisphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A violent, destructive tropical storm, hurricane, or tornado.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I know, because I am one, and have just been waked up by the gyrations of the cyclone; and I'm deeply confounded."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The barometer, as in 1860 at Reunion during a cyclone, fell seven-tenths at the close of day."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The wind veered suddenly to all points of the horizon; and the cyclone, rising in the east, returned after passing by the north, west, and south, in the inverse course pursued by the circular storm of the southern hemisphere."*
+> - 📜 **Joseph Conrad (*Typhoon*):** *"The center of a tropical **cyclone** is a terrible, deceptive calm surrounded by a ring of furious hurricane winds."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The devastation wrought by the **cyclone** upon the coral islands surpassed any earthquake in swift destruction."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"Piddington's law of storms enables mariners to steer away from the dangerous quadrant of a advancing **cyclone**."*

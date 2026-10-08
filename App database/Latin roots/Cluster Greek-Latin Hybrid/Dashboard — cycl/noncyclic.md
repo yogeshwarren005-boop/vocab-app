@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # noncyclic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not cyclic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having repeated cycles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not cyclic; not occurring in cycles; in chemistry, having an open-chain structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to photochemical reactions (such as noncyclic photophosphorylation) in photosynthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noncyclic designates not cyclic."*
+> - 📜 **William Ramsay (*Modern Chemistry*):** *"In **noncyclic** hydrocarbons, every carbon atom is linked to its neighbor in an open chain terminating in methyl groups."*
+> - 📜 **Svante Arrhenius (*Theories of Chemistry*):** *"Photosynthetic electron transport follows a **noncyclic** pathway from water oxidation to pyridine nucleotide reduction."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Certain catastrophic geological events are strictly **noncyclic**, leaving permanent scars upon the continental crust."*

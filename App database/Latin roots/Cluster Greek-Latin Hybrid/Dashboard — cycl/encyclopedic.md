@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # encyclopedic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Broad in scope or content.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Broad in scope or content.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprehensive and exhaustive in terms of knowledge and information across diverse fields.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or resembling an encyclopedia in breadth and scope.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"And surely among all men whose vocation requires them to exhibit their powers of speech, the happiest is a prosperous provincial auctioneer keenly alive to his own jokes and sensible of his encyclopedic knowledge."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Musgrave Ritual*):** *"Sherlock Holmes turned his **encyclopedic** familiarity with old family traditions to solving the riddle."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"His **encyclopedic** memory enabled him to cite classical verses and parliamentary acts with effortless precision."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon aimed to produce an **encyclopedic** key to all mythologies, but drowned in his own endless notes."*

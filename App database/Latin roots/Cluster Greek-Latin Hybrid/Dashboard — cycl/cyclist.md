@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cyclist
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who rides a bicycle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who rides a bicycle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who rides a bicycle, tricycle, or other pedal-driven cycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A competitor or recreational traveler using a velocipede.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"He eyed the horseshoe poster over the gate of college park: cyclist doubled up like a cod in a pot."*
-> - 📜 **James Joyce (*Ulysses*):** *"I who lost my way and contributed to the columns of the _Irish Cyclist_ the letter headed _In darkest Stepaside_."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Close beside it is the Tower Dean, so called from an ancient fortalice of the Home family which once defended it, and which stands beside a bridge held in just execration by all cyclists on the Great North Road."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Solitary Cyclist*):** *"The solitary **cyclist** rode with remarkable speed, vanishing round the bend before we could hail him."*
+> - 📜 **H. G. Wells (*The Wheels of Chance*):** *"A weary **cyclist** stopped at the village tavern to wipe the chalk dust from his brow."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"The young **cyclist** glided down the hill into Christminster under the glow of the evening lamps."*

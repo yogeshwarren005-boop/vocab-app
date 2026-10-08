@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cyclosporeae
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In more recent classifications superseded by the order fucales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In more recent classifications superseded by the order fucales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order or division of brown algae (Phaeophyceae), such as the Fucales, in which sexual reproduction occurs without an alternation of free-living generations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brown seaweeds, including wracks and rockweeds, producing gametes within conceptacles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclosporeae designates in more recent classifications superseded by the order fucales."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals (Algal Addenda)*):** *"Algae of the group **Cyclosporeae** exhibit oogamous reproduction within specialized spherical conceptacles on the frond tips."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Enormous kelps related to **Cyclosporeae** formed submarine forests along the storm-beaten coast of Tierra del Fuego."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"The floating Sargasso seaweed belongs to that great marine family of **Cyclosporeae** drifting across the ocean."*

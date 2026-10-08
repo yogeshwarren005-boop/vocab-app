@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # noncyclical
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not cyclic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not cyclic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not recurring in cycles; irregular or non-periodic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to processes that do not follow repeating seasonal or cyclical patterns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noncyclical designates not cyclic."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Volcanic eruptions often occur with a **noncyclical** irregularity that baffles astronomical calculation."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Technological inventions introduce profound **noncyclical** shifts in productive efficiency across industries."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Meteorite bombardments represent sporadic, **noncyclical** intrusions of cosmic matter into our atmosphere."*

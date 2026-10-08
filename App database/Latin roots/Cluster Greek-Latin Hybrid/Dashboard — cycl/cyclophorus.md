@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cycl]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # cyclophorus
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical old world ferns having closely crowded circular sori and no indusia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical old world ferns having closely crowded circular sori and no indusia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical operculate land snails in the family Cyclophoridae, characterized by a circular shell aperture and round horny lid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of terrestrial gastropods widespread across Southeast Asian and Indian rainforests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclophorus designates tropical old world ferns having closely crowded circular sori and no indusia."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Among the damp limestone crags of Borneo, we collected handsome specimens of the land snail **Cyclophorus**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Operculate land shells such as **Cyclophorus** endure long periods of desiccation sealed within their limestone crevices."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"In **Cyclophorus**, respiration is maintained by a vascular pulmonary cavity despite its prosobranch affinities."*

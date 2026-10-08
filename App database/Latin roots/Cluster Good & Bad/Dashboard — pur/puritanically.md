@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a prudish manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a prudish manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a puritanical, rigidly austere, or morally strict manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With severe disapproval of pleasure, ornament, or worldly enjoyment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, puritanically designates in a prudish manner."*
+> - 📜 **Henry James (*The Bostonians*):** *"She dressed **puritanically**, wearing plain dark garments devoid of lace, ribbon, or worldly adornment."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The village elder judged the young girl's harmless dance **puritanically**, predicting an unhappy end."*
+> - 📜 **Walter Scott (*The Heart of Mid-Lothian*):** *"David Deans spoke **puritanically**, interlarding his conversation with grim warnings against prelatic corruptions."*

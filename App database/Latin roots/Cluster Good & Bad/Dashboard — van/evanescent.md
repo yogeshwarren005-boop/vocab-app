@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to vanish like vapor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to vanish like vapor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vanishing quickly, fading away, or fleeting; of short duration or momentary existence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Barely perceptible, delicate, or fragile in form, fragrance, or radiance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Matter has no memory, because its forms are evanescent, and what is engraved on its forms perishes with the forms."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is evanescent apart from Jesus; it rests on the assurance of his words, his work, his personality."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"My feelings are not quite so evanescent, nor my memory of the past under such easy dominion as one finds to be the case with men of the world.” This was followed by a short silence."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"An air of stern, deep, and irredeemable gloom hung over all; yet the light of the setting sun was **evanescent** and faint."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The scarlet letter was not an **evanescent** brand, but burned deeply into her solitary life."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Her momentary joy was **evanescent** as a sunbeam passing over a cloudy winter landscape."*

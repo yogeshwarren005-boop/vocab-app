@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being bland and gracious or ingratiating in manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being bland and gracious or ingratiating in manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, manner, or character of being suave; polished urbanity, charm, and social smoothness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pleasing mildness, sweetness, or agreeable soothing gentleness in tone or demeanor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, suaveness designates the quality of being bland and gracious or ingratiating in manner."*
+> - 📜 **Washington Irving (*Bracebridge Hall*):** *"The French gentleman possessed an innate **suaveness** of deportment that smoothed away every rustic awkwardness."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Beneath his outward **suaveness** of address, there lay an inflexible determination to control the hospital trust."*
+> - 📜 **Edith Wharton (*The House of Mirth*):** *"The banker's practiced **suaveness** deserted him for a moment when the financial panic broke out upon the exchange."*

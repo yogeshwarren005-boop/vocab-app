@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus for removing impurities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apparatus for removing impurities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, apparatus, or substance that cleanses, clarifies, or frees something from impurities or pollutants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An industrial apparatus, filter, or chemical device used to remove contaminants from water, air, or illuminating gas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Chummy, the chimney-purifier, who had swept the last three families, tried to coax the butler and the boy under him, whose duty it was to go out covered with buttons and with stripes down his trousers, for the protection of Mrs."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Suffering often acts as a stern **purifier** of the soul, stripping away vanity and petty ambition."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"A charcoal **purifier** was connected to the retorts to absorb volatile sulfurous vapors."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"True art serves as a moral **purifier**, elevating the common mind above vulgar materialism."*

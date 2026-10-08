@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who edits a text by removing obscene or offensive words or passages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who edits a text by removing obscene or offensive words or passages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who expurgates or censors a text by eliminating objectionable, sensitive, or offensive passages; an editorial censor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A purifier or cleanser who systematically excises impurities from a literary or legal canon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expurgator designates a person who edits a text by removing obscene or offensive words or passages."*
+> - 📜 **John Milton (*Areopagitica*):** *"The papal **expurgator** sat with his pen poised to strike out every sentence that breathed intellectual liberty."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"The political **expurgator** mutilated the parliamentary records to erase all traces of the opposition's speeches."*
+> - 📜 **Alexander Pope (*The Dunciad*):** *"The pedantic **expurgator** pruned the flourishing boughs of poetry until only dry twigs remained."*

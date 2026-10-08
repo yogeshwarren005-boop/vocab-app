@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the purana.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the purana.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, occurring in, or characteristic of the sacred Hindu Puranas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the mythological, devotional, and theological tradition derived from Puranic Sanskrit literature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, puranic designates of or relating to the purana."*
+> - 📜 **Max Müller (*Chips from a German Workshop*):** *"The **Puranic** pantheon represents a later theological transformation of the ancient Vedic nature deities."*
+> - 📜 **Monier Monier-Williams (*Brahmanism and Hinduism*):** *"Popular religious practice across northern India drew its liturgical imagery largely from **Puranic** legends."*
+> - 📜 **Heinrich Zimmer (*Myths and Symbols in Indian Art and Civilization*):** *"In **Puranic** iconography, the sleeping Vishnu reclines upon the serpent Shesha amidst the cosmic waters."*

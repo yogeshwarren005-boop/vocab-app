@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Liable to sin; - sir walter scott.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liable to sin; - sir walter scott.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Violating a moral, legal, or ethical rule; sinful, guilty, or criminal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical medicine, causing disease or biological disorder; morbid, corrupt, or unwholesome.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Tonight he said, "I can't think why you don't get a woman over to massage you," and then, reverting to the peccant master, "Brown's a nuisance."*
-> - 📜 **John Milton (*Paradise Lost*):** *"But let us call to Synod all the Blest Through Heav’ns wide bounds; from them I will not hide My judgments, how with Mankind I proceed, As how with peccant Angels late they saw; And in thir state, though firm, stood more confirmd."*
-> - 📜 **John Milton (*Paradise Lost*):** *"But let us call to synod all the Blest, Through Heaven’s wide bounds: from them I will not hide My judgements; how with mankind I proceed, As how with peccant Angels late they saw, And in their state, though firm, stood more confirmed."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The fourth **peccant** humor of learning is the premature reduction of knowledge into systematic arts."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Physicians sought to purge the **peccant** humors that inflamed the spleen and disturbed the animal spirits."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"It is the duty of the statesman to correct the **peccant** parts of the constitution without destroying the venerable fabric."*

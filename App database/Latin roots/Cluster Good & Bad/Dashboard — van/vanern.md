@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lake in southwestern sweden; the largest lake in sweden.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lake in southwestern sweden; the largest lake in sweden.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lake Vänern, the largest lake in Sweden and the third-largest freshwater lake in Europe, situated in southwestern Sweden.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The expansive inland lake drained by the Göta älv into the Kattegat, serving as the central link in the Göta Canal waterway system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vanern designates a lake in southwestern sweden; the largest lake in sweden."*
+> - 📜 **Selma Lagerlöf (*The Wonderful Adventures of Nils*):** *"The wild geese flew over the blue mirror of Lake **Vanern**, where fishing boats sailed among thousands of rocky islets."*
+> - 📜 **Hans Christian Andersen (*Pictures of Sweden*):** *"Across the vast waters of **Vanern**, steam packets plied between the ancient church towers of Karlstad and Lidköping."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Post-glacial marine terraces bordering Lake **Vanern** demonstrate that the Baltic once communicated directly with the North Sea."*

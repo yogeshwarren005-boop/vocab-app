@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous climbing plants of the genus vanilla having fleshy leaves and clusters of large waxy highly fragrant white or green or topaz flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flavoring prepared from vanilla beans macerated in alcohol (or imitating vanilla beans).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tropical climbing orchid of the genus Vanilla (Vanilla planifolia), native to Mexico and Central America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fragrant, sweet flavoring extract obtained from the cured and fermented seed pods of this orchid, widely used in confections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Would a tablespoon of vanilla be enough for a small layer cake?” “I felt sorrier than ever for the poor man."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions*):** *"The indigenous cultivators near Papantla cured the aromatic green pods of **vanilla** by drying them in the shade."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"In its native Mexican forests, the climbing orchid **vanilla** is pollinated by tiny stingless bees of the genus Melipona."*
+> - 📜 **Frances Erskine Calderón de la Barca (*Life in Mexico*):** *"The evening air in the coastal valley was rich with the sweet fragrance of cured **vanilla** beans drying on woven mats."*

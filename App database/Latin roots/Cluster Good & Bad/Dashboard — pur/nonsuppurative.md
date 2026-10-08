@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not suppurative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not suppurative.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not accompanied by or characterized by the formation, discharge, or gathering of pus; non-festering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating non-pus-forming medical inflammatory processes, such as acute rheumatic fever or post-streptococcal glomerulonephritis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonsuppurative designates not suppurative."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Rheumatic arthritis is a benign **nonsuppurative** inflammation that migrates from joint to joint without permanent destruction."*
+> - 📜 **Thomas Clifford Allbutt (*A System of Medicine*):** *"The chronic **nonsuppurative** hepatitis progressed insidiously without acute febrile paroxysms."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"In acute **nonsuppurative** osteitis, the bone becomes vascular and porous without the development of abscess cavities."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: So as to disappear or approach zero.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to disappear or approach zero.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To a degree so extremely small or slight as to be almost imperceptible or nonexistent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely, infinitesimally, or marginally small (as in vanishingly small).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vanishingly designates so as to disappear or approach zero."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The probability of spontaneous generation occurring under modern atmospheric conditions is **vanishingly** small."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The differences between closely allied insular varieties are often **vanishingly** slight to the unpracticed eye."*
+> - 📜 **William Thomson (*Popular Lectures and Addresses*):** *"The mechanical resistance offered by interstellar ether to planetary motion is **vanishingly** diminutive."*

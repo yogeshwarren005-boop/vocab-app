@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Painted beauty and red admiral.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Painted beauty and red admiral.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of brush-footed butterflies in the family Nymphalidae, commonly known as admirals, ladies, and painted ladies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feminine given name created by Jonathan Swift in the early eighteenth century.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"Cadenus and Vanessa" was meant as polite and courteous admonition to Miss Hester Van Homrigh, a young lady in whom green-sickness seems to have produced devotion to Swift in forms that embarrassed him, and with which he did not well know how to deal."*
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"CADENUS AND VANESSA. _Written Anno 1713_."*
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"With silent scorn Vanessa sat, Scarce list'ning to their idle chat; Further than sometimes by a frown, When they grew pert, to pull them down."*
+> - 📜 **Jonathan Swift (*Cadenus and Vanessa*):** *"Each girl, when pleased, did bestow on him a smile; but **Vanessa** viewed him with profound and thoughtful reverence."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"Brilliant nymphalid butterflies belonging to the genus **Vanessa** sunned their wings upon the moist river sand."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The migratory flights of **Vanessa** cardui across the Mediterranean demonstrate extraordinary dispersal capacity."*

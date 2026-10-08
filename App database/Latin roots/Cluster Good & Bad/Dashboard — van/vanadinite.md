@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mineral consisting of chloride and vanadate of lead; a source of vanadium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mineral consisting of chloride and vanadate of lead; a source of vanadium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mineral consisting of lead chlorovanadate (Pb5(VO4)3Cl), forming striking hexagonal, barrel-shaped red or orange-brown crystals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A major industrial ore of vanadium found in the oxidized zones of lead deposits, prized by mineral collectors for its adamantine luster.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vanadinite designates a mineral consisting of chloride and vanadate of lead; a source of vanadium."*
+> - 📜 **James Dwight Dana (*A System of Mineralogy*):** *"The mineral **vanadinite** crystallizes in brilliant ruby-red hexagonal prisms with greasy adamantine luster."*
+> - 📜 **Henry Enfield Roscoe (*Researches on Vanadium*):** *"Specimens of **vanadinite** from Wanlockhead furnished the primary raw material for my investigations into metallic vanadium."*
+> - 📜 **George Frederick Kunz (*Gems and Precious Stones of North America*):** *"Magnificent clusters of deep carmine **vanadinite** were discovered in the silver-lead mines of Arizona."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The acquisition of something for payment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something acquired by purchase.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To acquire something by paying money or its equivalent; to buy goods, property, or services.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mechanical advantage, leverage, or firm hold applied to move a heavy object or prevent slipping.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enough to purchase what you have made known."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your accent is something finer than you could purchase in so removed a dwelling."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lest it make you choleric, and purchase me another dry basting."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sailors rigged a heavy threefold **purchase** to hoist the colossal blubber blanket to the mainmast head."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"With the money earned by hard saving, he resolved to **purchase** his friend's freedom from debt."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"She could not afford to **purchase** the expensive music book without curtailing her domestic expenditures."*

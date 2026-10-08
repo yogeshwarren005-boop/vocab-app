@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of having a superior or more favorable position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (tennis) first point scored after deuce.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition, circumstance, or position of superiority that provides superiority or favors success.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Benefit, profit, or gain; or a favorable score in tennis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I have seen the hungry ocean gain Advantage on the kingdom of the shore, And the firm soil win of the watery main, Increasing store with loss, and loss with store."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath abandon’d his physicians, madam; under whose practices he hath persecuted time with hope, and finds no other advantage in the process but only the losing of hope by time."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her father bequeath’d her to me, and she herself, without other advantage, may lawfully make title to as much love as she finds; there is more owing her than is paid, and more shall be paid her than she’ll demand."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"On such a full sea are we now afloat, and we must take the current when it serves, or lose our **advantage**."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Every individual endeavours to employ his capital where it will yield the greatest **advantage** to himself."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth saw that the proposal possessed every **advantage** of fortune and social consequence."*

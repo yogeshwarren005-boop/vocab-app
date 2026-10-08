@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who advances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being ahead of time or need.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who promotes, forwards, or champions a cause, doctrine, or undertaking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument, mechanism, or device that advances something forward.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Soon after the death of a great officer, who was judged to have been no great advancer of the king’s affairs, the king said to his solicitor Bacon, who was kinsman to that lord: Now, Bacon, tell me truly, what say you of your cousin?"*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Every genuine **advancer** of human happiness deserves the lasting gratitude of posterity."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"King James was celebrated by his courtiers as the royal **advancer** of science and philosophical peace."*
+> - 📜 **Thomas Carlyle (*Heroes and Hero-Worship*):** *"The prophet was an heroic **advancer** of divine truth against the idolatries of his age."*

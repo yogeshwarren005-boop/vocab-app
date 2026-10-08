@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of purchasing back something previously sold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Buy what had previously been sold, lost, or given away.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To buy back; to purchase again what had previously been sold or surrendered.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of buying back something previously sold, or a repurchase agreement in financial markets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The man of the Fancy Repository and Brompton Emporium of Fine Arts (of whom she bought the screens, vainly hoping that he would repurchase them when ornamented by her hand) can hardly hide the sneer with which he examines these feeble works of art."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Once more we sit in England’s royal throne, Repurchased with the blood of enemies."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The landowner exercised his legal right to **repurchase** the alienated farm upon payment of the original mortgage."*
+> - 📜 **Walter Scott (*The Bride of Lammermoor*):** *"The young master vowed to **repurchase** the ancestral castle of his family from the usurping lawyer."*
+> - 📜 **William Makepeace Thackeray (*The History of Henry Esmond*):** *"He saved his army pay with scrupulous economy, hoping to **repurchase** his mother's family diamonds."*

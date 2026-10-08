@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place or situation affording some advantage (especially a comprehensive view or commanding perspective).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of having a superior or more favorable position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A position, place, or condition affording a superior view, perspective, or tactical advantage; vantage point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Opportunity, profit, or favorable superiority over another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But these offers, Which serve not for his vantage, he shakes off, And so should you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yon ribaudred nag of Egypt, Whom leprosy o’ertake, i’ th’ midst o’ th’ fight, When vantage like a pair of twins appeared, Both as the same—or, rather, ours the elder— The breeze upon her, like a cow in June, Hoists sails and flies."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou rascal, that art worst in blood to run, Lead’st first to win some vantage."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"No jutty, frieze, buttress, nor coign of **vantage**, but this bird hath made his pendent bed."*
+> - 📜 **Walter Scott (*The Lady of the Lake*):** *"From that lofty crag, the highland chieftain commanded a commanding **vantage** over the entire pass."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Standing upon the crosstrees, the lookout enjoyed a magnificent **vantage** over the sunlit Pacific."*

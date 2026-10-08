@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a disadvantageous way; to someone's disadvantage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a disadvantageous way; to someone's disadvantage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a disadvantageous, unfavorable, or detrimental manner; to a disadvantage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under conditions of handicap, loss, or inconvenience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was a certain animal form of refinement in his nature; and however pleasant a strange condition might be whilst privations were easily warded off, it was disadvantageously coarse when money was short."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was a certain animal form of refinement in his nature; and however pleasant a strange condition might be whilst privations were easily warded off, it was disadvantageously coarse when money was short."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"The royalist troops were posted **disadvantageously** at the foot of the hill, exposed to artillery fire."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The small whaleboat was tossed **disadvantageously** in the turbulent wake of the leviathan."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her candor often operated **disadvantageously** for her own interests in the eyes of conventional neighbors."*

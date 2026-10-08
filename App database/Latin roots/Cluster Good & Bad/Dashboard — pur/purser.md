@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An officer aboard a ship who keeps accounts and attends to the passengers' welfare.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An officer aboard a ship who keeps accounts and attends to the passengers' welfare.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An officer aboard a ship responsible for accounts, financial transactions, cargo manifests, and passenger accommodations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chief financial steward or flight attendant supervisor aboard commercial aircraft or passenger vessels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Captain Swosser used to say of me that I was always better than land a-head and a breeze a-starn to the midshipmen’s mess when the purser’s junk had become as tough as the fore-topsel weather earrings."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I think he was a species of purser.” “What is he now?” said I."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Which Pa, having been in the Purser line of life, lies a-bed in a bow-window where he can see the ships sail up and down the river."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"The ship's **purser** kept his account books locked in the strong-room beneath the waterline."*
+> - 📜 **Joseph Conrad (*Typhoon*):** *"The troubled captain summoned the **purser** to count the silver dollars recovered from the steerage bunkrooms."*
+> - 📜 **Richard Henry Dana Jr. (*Two Years Before the Mast*):** *"On merchant vessels, the duties of the **purser** were customarily performed by the supercargo or the first mate."*

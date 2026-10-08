@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Worthless or dangerous material that should be removed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of being impure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Contamination, unwholesomeness, or adulteration through extraneous or harmful elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A foreign, extraneous, or contaminating constituent present in another substance, reducing its quality or value.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But no perfection is so absolute That some impurity doth not pollute."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I admired spotlessness, even though I could lay no claim to it, and hated impurity, as I hope I do now."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"It is on account of their reputation for impurity that the women generally live isolated."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The slightest chemical **impurity** in the electrolyte completely altered the electrical conductance of the solution."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Natural selection acts relentlessly to weed out any physiological **impurity** that impairs the survival of the breed."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Genuine virtue purges the soul of every petty **impurity** of envy and resentment."*

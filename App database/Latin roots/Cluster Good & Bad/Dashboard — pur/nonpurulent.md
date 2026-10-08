@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not containing pus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not containing pus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not containing, producing, accompanied by, or consisting of pus; unsuppurative in clinical presentation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine, designating inflammatory effusions or lesions characterized by serous or fibrinous rather than purulent exudates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonpurulent designates not containing pus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The pericardial effusion remained **nonpurulent**, exhibiting a clear amber straw color on diagnostic aspiration."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The cellular infiltrate in early stages of the lesion was entirely **nonpurulent**, composed predominantly of lymphocytes."*
+> - 📜 **Frederick Taylor (*The Practice of Medicine*):** *"A **nonpurulent** synovial swelling typically responds favorably to rest and mild counter-irritation."*

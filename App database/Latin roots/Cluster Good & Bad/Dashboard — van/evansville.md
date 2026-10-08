@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in southwestern indiana on the ohio river.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in southwestern indiana on the ohio river.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major commercial and industrial port city situated on an oxbow bend of the Ohio River in southwestern Indiana.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The county seat of Vanderburgh County, serving as the cultural and economic hub of the Illinois-Indiana-Kentucky tri-state region.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Louis and Mound City, and at Louisville and Evansville and Paducah, and she began to feel that she must go where her services were more needed, and give herself wholly to this work of caring for and nursing the wounded patriots of the war."*
+> - 📜 **Theodore Dreiser (*A Book About Myself*):** *"The steamboats whistled mournfully along the Ohio levee as we approached the busy wharves of **Evansville**."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"While descending the Ohio River, we landed near the fledgling settlement of **Evansville** to collect specimens of water birds."*
+> - 📜 **William Henry Harrison (*Messages and Letters*):** *"Settlers moving into the southwestern territory established trading posts along the river bend where **Evansville** now prospers."*

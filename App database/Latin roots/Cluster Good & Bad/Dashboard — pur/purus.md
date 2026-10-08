@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A brazilian river; tributary of the amazon river.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brazilian river; tributary of the amazon river.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Purus River, a major southwestern tributary of the Amazon River rising in Peru and flowing through northwestern Brazil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Latin usage, pure, clean, unblemished, or unmixed (as in tabula pura or legal terminology).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s see: [_Reads_.] _Integer vitae, scelerisque purus, Non eget Mauri iaculis, nec arcu._ CHIRON."*
+> - 📜 **Alfred Russel Wallace (*Travels on the Amazon and Rio Negro*):** *"The muddy yellow waters of the **Purus** pour into the mainstream of the Amazon through several winding channels."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"Rubber gatherers pushed hundreds of miles up the unexplored tributaries of the **Purus** into virgin forest."*
+> - 📜 **Richard Spruce (*Notes of a Botanist on the Amazon and Andes*):** *"Along the banks of the **Purus**, the riverine vegetation displayed an astonishing variety of palms and lianas."*

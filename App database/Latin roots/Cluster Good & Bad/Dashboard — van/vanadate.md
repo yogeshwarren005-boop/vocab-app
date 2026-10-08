@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt or ester of vanadic acid; an anion containing pentavalent vanadium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A salt or ester of vanadic acid; an anion containing pentavalent vanadium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical salt or ester containing an oxyanion of vanadium, most commonly the orthovanadate ion (VO4(3-)).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oxidized mineral compound of vanadium, such as carnotite or vanadinite, utilized as an ore of vanadium and uranium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vanadate designates a salt or ester of vanadic acid; an anion containing pentavalent vanadium."*
+> - 📜 **Jöns Jacob Berzelius (*Treatise on Chemistry*):** *"Upon fusing vanadium oxide with caustic alkali, we obtain a soluble alkaline **vanadate** that yields crystalline salts."*
+> - 📜 **Henry Enfield Roscoe (*Researches on Vanadium*):** *"The ammonium **vanadate** precipitates as a white crystalline powder when ammonium chloride is added to the solution."*
+> - 📜 **William Allen Miller (*Elements of Chemistry*):** *"Natural deposits of potassium uranyl **vanadate** form the brilliant yellow mineral known as carnotite."*

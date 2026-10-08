@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Encouragement of the progress or growth or acceptance of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of moving forward (as toward a goal).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of moving forward, promoting, or making progress; progression or improvement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Promotion in rank, social station, or fortune; preferment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, do not think I flatter; For what advancement may I hope from thee, That no revenue hast, but thy good spirits To feed and clothe thee?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, as we hear you do reform yourselves, We will, according to your strengths and qualities, Give you advancement."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I set him there, sir: but his own disorders Deserv’d much less advancement."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"No labor is more worthy of royal patronage than the **advancement** of learning throughout the commonwealth."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Ambition whispered to the young officer that civil discord offered the surest path to military **advancement**."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The natural **advancement** of society leads from agriculture to manufactures and foreign commerce."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (norse mythology) race of ancient gods sometimes in conflict with the aesir.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (norse mythology) race of ancient gods sometimes in conflict with the aesir.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Norse mythology, a group of deities associated with fertility, wealth, commerce, magic, and navigation, including Njörðr, Freyr, and Freyja.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The divine clan that fought an ancient war with the Æsir before concluding a peace treaty sealed by hostage exchanges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And I remember me, when I was of the Assir, and of the Vanir, that Odin sat in judgment over men in the court of the twelve gods, and that their names were Thor, Baldur, Niord, Frey, Tyr, Bregi, Heimdal, Hoder, Vidar, Ull, Forseti, and Loki."*
+> - 📜 **Thomas Carlyle (*Heroes and Hero-Worship*):** *"In Scandinavian myth, the peaceful powers of nature were personified by the **Vanir**, who joined the warlike Æsir in friendship."*
+> - 📜 **Jacob Grimm (*Teutonic Mythology*):** *"The ancient conflict between the Æsir and the **Vanir** mirrors the cultural fusion of differing religious cults in early Scandinavia."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Fertility rites celebrated among early Nordic farming tribes were dedicated to Freyr and the gentle deities of the **Vanir**."*

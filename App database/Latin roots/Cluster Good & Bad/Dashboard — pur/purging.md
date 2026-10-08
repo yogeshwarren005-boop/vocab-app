@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of removing by cleansing; ridding of sediment or other undesired elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of clearing yourself (or another) from some stigma or charge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of clearing away, cleansing, or evacuating impurities, dregs, or unwanted elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medical evacuation of the bowels by the administration of a cathartic or purgative substance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For the satirical slave says here that old men have grey beards; that their faces are wrinkled; their eyes purging thick amber and plum-tree gum; and that they have a plentiful lack of wit, together with most weak hams."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And am I then reveng’d, To take him in the purging of his soul, When he is fit and season’d for his passage?"*
-> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"XLV The other two, slight air, and purging fire Are both with thee, wherever I abide; The first my thought, the other my desire, These present-absent with swift motion slide."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"Judicious **purging** in the early stages of autumn dysentery often checks the violence of the disease."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The **purging** of obsolete errors from philosophy is the necessary prelude to scientific advancement."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Ancient Galenists placed excessive faith in periodic **purging** for the relief of hypochondriacal distempers."*

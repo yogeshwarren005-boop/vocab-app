@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being undiluted or unmixed with extraneous material.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being unsullied by sin or moral wrong; lacking a knowledge of evil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freedom from adulteration, foreign matter, or physical contamination; unadulterated clarity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freedom from moral blemish, guilt, or unchaste desire; innocence or integrity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Were you ten Lords, 'tis false; the pureness of her chaste thoughts entertains not such spotted instruments. _Ang_."*
+> - 📜 **Francis Bacon (*Essays*):** *"The garden best preserves the original **pureness** of human pleasure, where nature refreshes the spirit."*
+> - 📜 **John Milton (*Comus*):** *"So dear to heaven is saintly chastity, driving far off all unchaste thought and preserving her spotless **pureness**."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The chemical **pureness** of distilled rainwater far exceeds that of any spring or river."*

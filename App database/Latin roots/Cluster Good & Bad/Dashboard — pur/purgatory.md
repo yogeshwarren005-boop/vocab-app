@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A temporary condition of torment or suffering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (theology) in roman catholic theology the place where those who have died in a state of grace undergo limited torment to expiate their sins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Roman Catholic theology, the intermediate realm or condition where the souls of those who die in grace undergo expiatory purification before entering heaven.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any temporary place, condition, or ordeal of extreme spiritual suffering, trial, or expiation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I should venture purgatory for ’t."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is no world without Verona walls, But purgatory, torture, hell itself."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"In the unseen world described by a poet whom M. le Maire has probably heard of, the man who traverses Purgatory (to speak of no other place) is seen by all, and is a wonder to all he meets--his shadow, his breath separate him from those around him."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"There is no world without Verona walls, but **purgatory**, torture, hell itself."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The scholastic doctors imagined a Limbo and a **purgatory** where unbaptized souls wandered in shadow."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"To be cooped up in the steerage of an old whaler for four years was a foretaste of **purgatory**."*

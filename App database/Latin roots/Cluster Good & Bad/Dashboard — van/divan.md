@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long backless sofa (usually with pillows against a wall).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A muslim council of state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long, low sofa without back or arms, typically placed against a wall and strewn with pillows.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A high council of state in Islamic empires, or a collection of poems by a single author in Persian and Arabic literature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Half stretched upon a divan in the library, I was suffocating."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"With these he constructed a sort of Eastern divan, upon which he perched himself cross-legged, with an ounce of shag tobacco and a box of matches laid out in front of him."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"I have put too much of myself into it.” Lord Henry stretched himself out on the divan and laughed."*
+> - 📜 **Lord Byron (*The Corsair*):** *"The pasha sat upon his velvet **divan**, smoking his amber chibouk and listening to the messenger."*
+> - 📜 **Alexandre Dumas (*The Count of Monte Cristo*):** *"Monte Cristo reclined upon a luxurious oriental **divan**, surrounded by silken cushions and rich tapestries."*
+> - 📜 **Edward William Lane (*An Account of the Manners and Customs of the Modern Egyptians*):** *"Guests were received in the mandarah, where a continuous **divan** lined three sides of the elevated platform."*

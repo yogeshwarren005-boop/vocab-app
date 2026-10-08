@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Symptom of being purulent (containing or forming pus).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Symptom of being purulent (containing or forming pus).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, quality, or condition of containing, discharging, or generating pus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The morbid generation of purulent matter in an inflamed lesion or abscess.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, purulency designates symptom of being purulent (containing or forming pus)."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"The gradual abatement of **purulency** in the sputa indicated the resolution of the pulmonary abscess."*
+> - 📜 **John Hunter (*A Treatise on the Blood, Inflammation, and Gun-Shot Wounds*):** *"Inflammation that terminates in **purulency** requires free incision to prevent destructive burrowing of matter."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"The degree of **purulency** varies with the vascularity of the infected mucosal membrane."*

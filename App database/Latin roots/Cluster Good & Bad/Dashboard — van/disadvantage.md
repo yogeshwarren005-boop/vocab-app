@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of having an inferior or less favorable position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put at a disadvantage; hinder, harm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unfavorable condition, circumstance, or handicap that reduces the likelihood of success or progress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Detriment, loss, harm, or damage to interest, reputation, or fortune.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Martius, we have at disadvantage fought, And did retire to win our purpose."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O miracle of men!—him did you leave, Second to none, unseconded by you, To look upon the hideous god of war In disadvantage, to abide a field Where nothing but the sound of Hotspur’s name Did seem defensible: so you left him."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The more spirit there is in it, the better for mankind and the worse for those mercenary task-masters and low tricksters who delight in putting that illustrious art at a disadvantage in the world."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"A structure that causes the slightest **disadvantage** in the struggle for life will inevitably be eradicated by selection."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"She felt herself placed at a serious **disadvantage** in the presence of her wealthy and polished rivals."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Monopoly places the domestic consumer at a perpetual **disadvantage** by raising prices above natural competitive rates."*

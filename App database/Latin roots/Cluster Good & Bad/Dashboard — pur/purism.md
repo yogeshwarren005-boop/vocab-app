@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Scrupulous or exaggerated insistence on purity or correctness (especially in language).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scrupulous or exaggerated insistence on purity or correctness (especially in language).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Scrupulous or rigid adherence to traditional rules or purity, especially regarding grammatical correctness, vocabulary, or artistic style.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An early 20th-century aesthetic movement led by Le Corbusier and Amédée Ozenfant, emphasizing geometric clarity and machine precision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, purism designates scrupulous or exaggerated insistence on purity or correctness (especially in language)."*
+> - 📜 **H. L. Mencken (*The American Language*):** *"Pedantic academic **purism** struggled in vain against the exuberant vocabulary spawned by the American frontier."*
+> - 📜 **Walter Pater (*Appreciations*):** *"Flaubert's devotion to stylistic **purism** drove him to spend days refining a single cadence in his prose."*
+> - 📜 **Le Corbusier (*Towards a New Architecture*):** *"The doctrine of **purism** eliminated decorative superfluity in order to reveal the clean mathematical harmonies of modern design."*

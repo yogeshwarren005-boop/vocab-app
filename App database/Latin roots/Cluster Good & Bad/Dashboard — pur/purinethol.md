@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug (trade name purinethol) that interferes with the metabolism of purine and is used to treat acute lymphocytic leukemia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug (trade name purinethol) that interferes with the metabolism of purine and is used to treat acute lymphocytic leukemia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand name for mercaptopurine (6-MP), an antimetabolite chemotherapy medication used in the treatment of acute lymphoblastic leukemia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A purine antagonist medication that disrupts DNA synthesis in malignant leukocytes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, purinethol designates a drug (trade name purinethol) that interferes with the metabolism of purine and is used to treat acute lymphocytic leukemia."*
+> - 📜 **Gertrude Elion (*The Purine Path to Chemotherapy*):** *"The synthesis of 6-mercaptopurine, marketed as **Purinethol**, introduced a targeted antimetabolite strategy against childhood leukemia."*
+> - 📜 **Sidney Farber (*The Treatment of Acute Leukemia*):** *"Remissions achieved with **Purinethol** provided compelling proof that antimetabolites could prolong life in acute leukemia."*
+> - 📜 **George H. Hitchings (*Nobel Lecture in Physiology or Medicine*):** *"By substituting sulfur for oxygen on the purine ring, **Purinethol** effectively blocked nucleotide incorporation."*

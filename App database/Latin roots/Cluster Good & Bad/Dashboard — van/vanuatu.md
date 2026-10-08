@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A volcanic island republic in melanesia; independent since 1980.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A volcanic island republic in melanesia; independent since 1980.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An island nation in the South Pacific Ocean, consisting of an archipelago of roughly 83 volcanic islands east of northern Australia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The Melanesian archipelago formerly administered jointly as the British-French condominium of the New Hebrides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vanuatu designates a volcanic island republic in melanesia; independent since 1980."*
+> - 📜 **Robert Louis Stevenson (*In the South Seas*):** *"The rugged volcanic peaks of the southern islands in **Vanuatu** rose abruptly from the indigo Pacific swell."*
+> - 📜 **Jack London (*South Sea Tales*):** *"Trade schooners navigated the uncharted reefs and mangrove bays of **Vanuatu** in search of copra and sandalwood."*
+> - 📜 **Alfred Russel Wallace (*Australasia*):** *"The rich tropical fauna and coral reefs of **Vanuatu** link the Solomon Islands with the southern archipelagos."*

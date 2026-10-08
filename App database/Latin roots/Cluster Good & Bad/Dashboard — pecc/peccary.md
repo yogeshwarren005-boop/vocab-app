@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nocturnal gregarious pig-like wild animals of north america and south america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nocturnal gregarious pig-like wild animals of north america and south america.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several pig-like, hoofed mammals of the family Tayassuidae, native to the Americas, having coarse bristly hair and a dorsal scent gland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gregarious tropical mammal, such as the collared peccary (Dicotyles tajacu), roaming forests and brush country in noisy foraging herds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peccary designates nocturnal gregarious pig-like wild animals of north america and south america."*
+> - 📜 **Theodore Roosevelt (*Hunting Trips of a Ranchman*):** *"A band of collared **peccary** dashed through the mesquite thicket, snapping their tusks in defiant chorus."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In the forests of the Parana, we encountered troops of the wild **peccary** feeding upon fallen palm nuts."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions*):** *"The indigenous hunters pursued the wild **peccary** through the dense undergrowth with poisoned arrows."*

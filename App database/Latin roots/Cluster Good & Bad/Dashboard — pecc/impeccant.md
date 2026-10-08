@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from sin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from sin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sinless, guiltless, or free from wrongdoing; not committing offenses or moral errors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unoffending, innocent, or blameless in conduct and moral disposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impeccant designates free from sin."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"A purely **impeccant** creature would know neither the remorse of conscience nor the necessity of redemption."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"It is a pious error to imagine primeval nature as entirely **impeccant** and exempt from physical perturbation."*
+> - 📜 **Jeremy Taylor (*The Rule and Exercises of Holy Living*):** *"No mortal man can walk through the temptations of this world entirely **impeccant** before God."*

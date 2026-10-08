@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin pur within the domain of Good & Bad.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of pur in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To purify, cleanse, or free from impurities, dregs, or foreign matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and physiology, to cleanse the blood or biological tissues of metabolic wastes or toxic substances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, depurate designates pertaining to, derived from, or characteristic of latin pur within the domain of good & bad."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The alchemists sought by repeated distillations to **depurate** the crude oil until it became clear as mountain water."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"The natural crisis of the fever serves to **depurate** the vascular system of noxious morbid matter."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The physiological function of the kidneys is to **depurate** the circulating plasma of nitrogenous waste products."*

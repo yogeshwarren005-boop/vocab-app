@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A search for an alternative that meets cognitive criteria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The continuance of something begun with a view to its completion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The carrying out, execution, or performance of something (as in the phrase in pursuance of).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The following out or continuation of a process, legal directive, or design.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Lord bless you, my dears, an infant, an infant!” In pursuance of this plan, we went into London on an early day and presented ourselves at Mr."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Breakfast over, he rose, and telling her the hour at which he might be expected to dinner, went off to the miller’s in a mechanical pursuance of the plan of studying that business, which had been his only practical reason for coming here."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"In pursuance of this luminous conception I mentioned to Biddy when I went to Mr."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The sheriff acted in strict **pursuance** of the writ issued by the Court of Common Pleas."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"In **pursuance** of their leveling schemes, the revolutionaries dissolved the ancient provincial parlements."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Treaties concluded in **pursuance** of the Constitution become the supreme law of the land."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being impure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of being impure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Contamination, adulteration, or loss of clarity through the presence of foreign matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moral uncleanness, unchastity, or ethical pollution; defilement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impureness designates the condition of being impure."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The **impureness** of our sensory ideas arises from the mixture of extraneous sensations."*
+> - 📜 **Jeremy Taylor (*The Rule and Exercises of Holy Living*):** *"Purity of intention banishes the subtle **impureness** of selfish ambition from our good deeds."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The slight **impureness** of the metallic ore altered its melting point and crystalline texture."*

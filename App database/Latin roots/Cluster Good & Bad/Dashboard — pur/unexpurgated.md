@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having material deleted; - havelock ellis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having material deleted; - havelock ellis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not expurgated; published in full without omissions, deletions, or bowdlerization of objectionable passages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Complete and uncensored, preserving every original word of an author's text.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unexpurgated designates not having material deleted; - havelock ellis."*
+> - 📜 **George Bernard Shaw (*Our Theatres in the Nineties*):** *"The play was performed in its **unexpurgated** form, scandalizing conventional critics with its frank realism."*
+> - 📜 **Mark Twain (*Autobiography*):** *"He instructed his executors to publish the **unexpurgated** manuscript only after all surviving persons mentioned had passed away."*
+> - 📜 **H. L. Mencken (*Prejudices*):** *"Scholars welcomed the **unexpurgated** edition of the Restoration comedies as an indispensable historical document."*

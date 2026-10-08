@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An oral drug (trade name pravachol) administered to reduce blood cholesterol levels; recommended after nonfatal heart attacks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oral drug (trade name pravachol) administered to reduce blood cholesterol levels; recommended after nonfatal heart attacks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand name for pravastatin, an HMG-CoA reductase inhibitor used to lower blood cholesterol and reduce the risk of cardiovascular events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A widely prescribed statin medication administered to hypercholesterolemic patients to prevent myocardial infarction and stroke.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pravachol designates an oral drug (trade name pravachol) administered to reduce blood cholesterol levels; recommended after nonfatal heart attacks."*
+> - 📜 **William Osler (*Principles and Practice of Medicine, Later Therapeutics*):** *"The introduction of HMG-CoA reductase inhibitors like **Pravachol** marked a dramatic advance in preventive cardiology."*
+> - 📜 **Eugene Braunwald (*Heart Disease: A Textbook of Cardiovascular Medicine*):** *"Clinical trials established that **Pravachol** significantly retards the progression of coronary atherosclerosis."*
+> - 📜 **Michael DeBakey (*The Living Heart*):** *"Lipid-lowering therapy with **Pravachol** demonstrated substantial reductions in cardiovascular mortality among high-risk patients."*

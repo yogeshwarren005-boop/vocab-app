@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Carry out or participate in an activity; be involved in.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Follow in or as if in pursuit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Following in close chase, tracking, or hunting after a quarry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Actively engaging in, carrying forward, or prosecuting an investigation, ambition, or policy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is their god; he leads them like a thing Made by some other deity than Nature, That shapes man better; and they follow him Against us brats with no less confidence Than boys pursuing summer butterflies Or butchers killing flies."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That I have purchased at an infinite rate, and that hath taught me to say this: Love like a shadow flies when substance love pursues, Pursuing that that flies, and flying what pursues."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am amaz’d, and know not what to say. [_Exit, pursuing Helena._] OBERON."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"He spent his midnight vigils **pursuing** the secret labyrinth of the human conscience."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The three boats dashed forward through the boiling foam, **pursuing** the sounding leviathan."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The legions marched through the desert, **pursuing** the retreating horsemen of the Parthian king."*

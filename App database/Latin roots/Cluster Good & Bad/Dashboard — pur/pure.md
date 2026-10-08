@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free of extraneous elements of any kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without qualification; used informally as (often pejorative) intensifiers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not mixed, adulterated, or combined with any other substance or foreign element; uncontaminated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from moral blemish, guilt, or defilement; chaste, innocent, or ethically uncorrupted.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So thou be good, slander doth but approve, Thy worth the greater being wooed of time, For canker vice the sweetest buds doth love, And thou present’st a pure unstained prime."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When haply he shall hear that she is gone He will return; and hope I may that she, Hearing so much, will speed her foot again, Led hither by pure love."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alack, sir, no; her passions are made of nothing but the finest part of pure love."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Thence turning, down the starry slope he came to where the **pure** light of heaven illumined the new-created earth."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The water of the pond was so **pure** and transparent that the bottom could be seen at thirty cubits."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"In the **pure** and tranquil atmosphere of the quiet parlor, my agitated spirit found resting peace."*

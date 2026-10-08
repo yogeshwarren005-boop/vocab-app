@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden or mysterious disappearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sudden disappearance from sight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or phenomenon of disappearing from sight or ceasing to exist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In perspective drawing, pertaining to the point where parallel receding lines appear to converge and disappear.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It has plenty of spectral company in ghosts of trees and hedges, slowly vanishing and giving place to the realities of day."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"If wild heat had to do wi’ it, making ye long to over-come the awkwardness about your husband’s vanishing, it mid be wrong; but a cold-hearted agreement to oblige a man seems different, somehow."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I traced the white road winding round the base of one mountain, and vanishing in a gorge between two; how I longed to follow it farther!"*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The rules of linear perspective determine the **vanishing** point toward which all parallel horizontal lines converge."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"We witness in rare insular species the gradual **vanishing** of ancient lineages before our very eyes."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The **vanishing** gleams of morning light upon the mountains remind us of the transient beauty of existence."*

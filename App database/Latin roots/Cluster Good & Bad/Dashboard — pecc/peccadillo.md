@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A petty misdeed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A petty misdeed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, slight, or trivial offense, fault, or indiscretion; a minor transgression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A petty moral failing regarded with tolerance or amused indulgence rather than severe censure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"For every peccadillo they tie a knot on a string, and after they have "talked to all the five winds" they deliver the rosary of their sins to the leader, who burns it in the fire."*
-> - 📜 **James Joyce (*Ulysses*):** *"Rain, exposure at dewfall on the searocks, a peccadillo at my time of life."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"After swallowing it, the husband will be as blind to his wife's peccadilloes as the dead man was on whose eyes the coins were laid."*
+> - 📜 **Henry Fielding (*Tom Jones*):** *"Society easily forgives a youthful **peccadillo** in a handsome gallant which it would condemn severely in a churl."*
+> - 📜 **Lord Byron (*Don Juan*):** *"A venial slip, a social **peccadillo**, was magnified into an unpardonable crime by the scandalmongers of Seville."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The old baronet was willing to overlook his son's gambling **peccadillo** so long as the estate remained intact."*

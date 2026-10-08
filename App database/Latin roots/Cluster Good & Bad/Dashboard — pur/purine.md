@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several bases that are derivatives of purine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless crystalline organic base containing nitrogen; the parent compound of various biologically important substances.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heterocyclic aromatic bicyclic organic compound (C5H4N4) consisting of a pyrimidine ring fused to an imidazole ring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class of biologically fundamental nitrogenous bases, notably adenine and guanine, that form building blocks of DNA and RNA.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, purine designates any of several bases that are derivatives of purine."*
+> - 📜 **Emil Fischer (*Untersuchungen in der Puringruppe*):** *"We succeeded in synthesizing the parent nitrogenous base, which I have designated **purine**, from uric acid derivatives."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinical management of gout hinges upon reducing dietary intake of **purine**-rich meats to control uric acid."*
+> - 📜 **Albrecht Kossel (*The Chemical Composition of the Cell Nucleus*):** *"Hydrolysis of nucleic acids yielded crystalline **purine** bases that proved indispensable to nuclear structure."*

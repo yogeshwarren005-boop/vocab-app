@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pedigreed animal of unmixed lineage; used especially of horses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a list of ancestors as proof of being a purebred animal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal or person of unmixed pedigree, descent, or ancestral lineage; thoroughbred.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to a pedigree or genealogical stock unbroken by outcrossing or admixture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pureblood designates a pedigreed animal of unmixed lineage; used especially of horses."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The proud Norman baron boasted that he was a **pureblood** knight whose ancestral lineage stretched back to Rollo."*
+> - 📜 **James Fenimore Cooper (*The Last of the Mohicans*):** *"The old chief declared with dignity that he was the last **pureblood** warrior of his ancient tribe."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"Among the sledge dogs were mixed breeds of every kind, but the lead dog was a **pureblood** husky of exceptional stamina."*

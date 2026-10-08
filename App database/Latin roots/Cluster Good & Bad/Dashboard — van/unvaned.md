@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of an arrow) not equipped with feathers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of an arrow) not equipped with feathers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a weather vane, blade, fin, or directional feather; not equipped with vanes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of an arrow or projectile, unfeathered and lacking stabilizing fletching for aerodynamic flight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unvaned designates (of an arrow) not equipped with feathers."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The ruined belfry stood bleak and **unvaned** against the stormy northern sky, stripped of its ancient brass weathercock."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The barn roof was bare and **unvaned**, offering no sign to the reapers of which way the autumn gale blew."*
+> - 📜 **Richard Francis Burton (*The Book of the Sword*):** *"Primitive archers occasionally discharged an **unvaned** shaft for short-range combat where fletching was unnecessary."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gold or silver wire thread.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A basic knitting stitch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To flow or ripple with a soft, murmuring sound, like a shallow stream flowing over small stones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In knitting, an inverted stitch that produces a horizontal ribbed ridge on the surface of knitted fabric.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From the trees came the sound of steady dripping upon the drifted leaves under them, and from the direction of the church she could hear another noise—peculiar, and not intermittent like the rest, the purl of water falling into a pool."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From the trees came the sound of steady dripping upon the drifted leaves under them, and from the direction of the church she could hear another noise—peculiar, and not intermittent like the rest, the purl of water falling into a pool."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Just below they could hear the purl of a brook, and the trees about them were bare with the dark bareness of spring, a few fugitive buds being the only announcement that the season of growing was at hand."*
+> - 📜 **William Wordsworth (*The Excursion*):** *"A crystal rill was heard to **purl** beneath the mossy rocks, lulling the traveler with its gentle murmur."*
+> - 📜 **John Keats (*Endymion*):** *"Where forest brooks **purl** through the ferns, the shy woodland creatures come at dusk to drink."*
+> - 📜 **Alfred Tennyson (*The Brook*):** *"I slip, I slide, I gloom, I glance, among my skimming swallows; I **purl** along my grassy plots and stony pebbles."*

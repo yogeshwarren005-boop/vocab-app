@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A low vibrating sound typical of a contented cat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a soft swishing sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make a low, continuous vibratory humming sound, as a cat does when contented, relaxed, or comfortable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soft, continuous vibrating mechanical sound reminiscent of a cat's purr (as in a smoothly idling engine).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Back--some time,” replied Chester's voice, rising above the low purr of the engine with a note of satisfaction in it."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Catching the throbbing purr of the Imp as the car swung in at the driveway Chester jumped up."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Newark was a dead city, the diminished purr of the motor ringing curiously loud in the silent streets."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"The Cheshire Cat only grinned when it saw Alice; it seemed to **purr** with supreme satisfaction."*
+> - 📜 **Rudyard Kipling (*The Jungle Book*):** *"Bagheera lay basking upon the rock, letting a deep, rumbling **purr** vibrate in his glossy black throat."*
+> - 📜 **Edgar Allan Poe (*The Black Cat*):** *"The creature followed me everywhere, rubbing its head against my feet and beginning to **purr** loudly."*

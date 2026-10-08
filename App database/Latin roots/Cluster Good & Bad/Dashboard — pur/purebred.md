@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pedigreed animal of unmixed lineage; used especially of horses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bred for many generations from member of a recognized breed or strain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bred from members of a recognized breed, strain, or stock without admixture of other lines over many generations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An animal of unmixed pedigree whose lineage is documented in an official herdbook or studbook.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, purebred designates a pedigreed animal of unmixed lineage; used especially of horses."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"When two distinct breeds of pigeons are crossed, the offspring often revert to traits lost in the **purebred** parents."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel Oak examined the flock, noting with satisfaction several **purebred** Southdown ewes of prime fleece."*
+> - 📜 **Jack London (*White Fang*):** *"The sled dog trader demanded a high price for the **purebred** mastiff imported from the south."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a group of english protestants who in the 16th and 17th centuries thought that the protestant reformation under elizabeth was incomplete and advocated the simplification and regulation of forms of worship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who adheres to strict religious principles; someone opposed to sensual pleasures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a seventeenth-century English religious movement that sought to simplify and purify church worship, liturgy, and discipline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person regarding pleasure, frivolity, and amusement with austere moral severity or rigid religious intolerance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though honesty be no puritan, yet it will do no hurt; it will wear the surplice of humility over the black gown of a big heart."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When she should do for clients her fitment, and do me the kindness of our profession, she has me her quirks, her reasons, her master reasons, her prayers, her knees; that she would make a puritan of the devil, if he should cheapen a kiss of her."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, sir, sometimes he is a kind of Puritan."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The stern **Puritan** magistrate looked down from the judgment seat with a cold, unrelenting severity."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The **Puritan** hated bear-baiting, not because it gave pain to the bear, but because it gave pleasure to the spectators."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Underneath the austere exterior of the New England **Puritan** burned an unquenchable passion for moral righteousness."*

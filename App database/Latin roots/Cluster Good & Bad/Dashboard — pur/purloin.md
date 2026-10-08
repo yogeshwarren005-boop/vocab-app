@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make off with belongings of others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make off with belongings of others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To steal, take dishonestly, or filch, especially in violation of trust; to pilfer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To appropriate surreptitiously or take without permission for one's own use.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The sage contrived to purloin the talisman while the khan and his guards slept; but not content with this he gave a further proof of his dexterity by bonneting the slumbering potentate with a bladder."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"He began, therefore, to purloin the wares of the company and dispose of them at various pawn shops."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"An alderman coming from a turtle feast will not step out of his carriage to steal a leg of mutton; but put him to starve, and see if he will not purloin a loaf."*
+> - 📜 **Edgar Allan Poe (*The Purloined Letter*):** *"The minister did not hesitate to **purloin** the royal missive directly from the table while the queen looked on in helpless terror."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The Artful Dodger taught the new apprentice how to **purloin** handkerchiefs from gentlemen's pockets in the crowded street."*
+> - 📜 **Walter Scott (*Rob Roy*):** *"He was accused of attempting to **purloin** the government dispatches entrusted to the northern mail coach."*

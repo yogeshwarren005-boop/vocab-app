@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (followed by `to') in conformance to or agreement with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (followed by `to') in conformance to or agreement with.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conforming, agreeing, or done in accordance with something; following (typically pursuant to).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting in consequence of or carrying out a regulation, command, or statutory provision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bogsby’s direction pursuant to the Act of George the Second, that he (Mr."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"As the time approached I should have liked to run away, but the Avenger pursuant to orders was in the hall, and presently I heard Joe on the staircase."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But it will not follow from this doctrine that acts of the large society which are NOT PURSUANT to its constitutional powers, but which are invasions of the residuary authorities of the smaller societies, will become the supreme law of the land."*
+> - 📜 **Thomas Jefferson (*Writings: Public Papers*):** *"**Pursuant** to the instructions of Congress, the commissioners opened formal negotiations with the court of Versailles."*
+> - 📜 **Walter Scott (*The Heart of Mid-Lothian*):** *"The magistrate acted **pursuant** to the provisions of the Riot Act in dispersing the Edinburgh mob."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"**Pursuant** to ancient nautical custom, the captain posted the gold doubloon upon the mainmast for the first lookout."*

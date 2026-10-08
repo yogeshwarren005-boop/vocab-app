@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing pus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing pus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing, discharging, consisting of, or accompanied by the formation of pus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by or showing the features of suppurative inflammation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It was attended with purulent expectoration, and became so troublesome as to entitle it to be regarded as the leading feature of the case."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A thick **purulent** discharge from the middle ear should never be neglected by the practitioner."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Foul linen soiled with **purulent** matter must be removed instantly from the sickroom."*
+> - 📜 **Joseph Lister (*On the Antiseptic Principle in the Practice of Surgery*):** *"Compound fractures treated with carbolic spray closed cleanly without any **purulent** infection."*

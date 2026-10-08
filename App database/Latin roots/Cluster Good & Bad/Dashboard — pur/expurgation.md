@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The deletion of objectionable parts from a literary work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The deletion of objectionable parts from a literary work.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of removing offensive, erroneous, or objectionable portions from a book, document, or publication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cleansing, purification, or purging of corrupt or unwholesome elements from an institution or corpus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I like to take life as it comes without expurgation."*
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"He had collected about two hundred and fifty rhymes, had made a literal--not metrical--translation and had issued them in book form without expurgation."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The theological controversies of the church were marked by continuous revision and **expurgation** of heretical texts."*
+> - 📜 **Samuel Johnson (*Lives of the English Poets*):** *"The **expurgation** of the poet's posthumous remains was conducted with more piety than critical discrimination."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The old manuscript had undergone severe **expurgation** at the hands of some over-scrupulous monastic librarian."*

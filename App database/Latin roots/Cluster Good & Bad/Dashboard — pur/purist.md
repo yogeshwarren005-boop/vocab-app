@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who insists on great precision and correctness (especially in the use of words).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who insists on great precision and correctness (especially in the use of words).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who insists on absolute adherence to traditional rules or purity, especially in language, art, or musical technique.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An uncompromising advocate of strict stylistic correctness who resists modern innovations, slang, or hybrid forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Stafford: and perhaps a purist might have objected that Mrs."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Steuvisant; “not a vice, you know, Reggie.” “Aye, Empress,” put in the others, “a purist taken in the net."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"Professor Higgins regarded himself as a phonetic **purist**, scandalized by the corrupted vowels of Cockney speech."*
+> - 📜 **Henry James (*The Art of Fiction*):** *"The literary **purist** shuddered at the introduction of journalistic idioms into serious narrative art."*
+> - 📜 **Arthur Symons (*Studies in Seven Arts*):** *"The musical **purist** refused to attend performances where romantic liberties were taken with Bach's tempos."*

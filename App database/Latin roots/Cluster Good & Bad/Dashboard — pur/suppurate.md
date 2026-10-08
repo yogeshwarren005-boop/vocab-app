@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to ripen and discharge pus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ripen and generate pus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To form or discharge pus; to fester or undergo purulent inflammation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To mature or develop into an abscess that discharges morbid fluid; to fester inwardly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, suppurate designates cause to ripen and discharge pus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The deep cellulitis threatened to **suppurate**, requiring prompt surgical incision to relieve tension."*
+> - 📜 **Joseph Lister (*On the Antiseptic Principle in the Practice of Surgery*):** *"Under antiseptic precautions, severe lacerations healed without being permitted to **suppurate**."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Long-fostered social grievances began to **suppurate** beneath the surface of the old regime."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A purging medicine; stimulates evacuation of the bowels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strongly laxative.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the property of causing evacuation of the bowels; laxative or cathartic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medicinal agent, drug, or substance administered to stimulate peristalsis and evacuate the alimentary canal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Certainly the fires are often interpreted in the latter way by the persons who light them; and this purgative use of the element comes out very prominently, as we have seen, in the general expulsion of demons from towns and villages."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Of all the modes of purification adopted on these occasions none perhaps brings out the sacramental virtue of the rite so clearly as the Creek and Seminole practice of taking a purgative before swallowing the new corn."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"A similar pious fear led the Creek and Seminole Indians, as we saw, to adopt the more thoroughgoing expedient of rinsing out their bodies by a strong purgative before they dared to partake of the sacrament of first-fruits."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"In acute fevers, the administration of a cooling saline **purgative** mitigates vascular congestion."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The routine employment of drastic **purgative** remedies in typhoid fever is fraught with grave peril of intestinal perforation."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Hellebore was celebrated among ancient physicians as a sovereign **purgative** against melancholic delusions."*

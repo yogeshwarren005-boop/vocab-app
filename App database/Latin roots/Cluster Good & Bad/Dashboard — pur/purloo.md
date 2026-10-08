@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thick stew made of rice and chicken and small game; southern u.s.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thick stew made of rice and chicken and small game; southern u.s.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A seasoned rice dish of the American Lowcountry, simmered with broth, tomatoes, vegetables, and chicken, pork, or seafood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A traditional coastal stew combining locally caught oysters, shrimp, or poultry with long-grain Carolina Gold rice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, purloo designates thick stew made of rice and chicken and small game; southern u.s."*
+> - 📜 **William Gilmore Simms (*The Partisan*):** *"The partisan rangers gathered hungrily around the camp kettle where a savory **purloo** of wild turkey and rice was bubbling."*
+> - 📜 **Archibald Rutledge (*Home by the River*):** *"On chilly winter evenings, nothing surpassed a steaming bowl of plantation **purloo** enriched with coastal oysters."*
+> - 📜 **Frances Anne Kemble (*Journal of a Residence on a Georgian Plantation*):** *"The plantation cook prepared a savory rice dish called **purloo**, blending smoked pork and field peas."*

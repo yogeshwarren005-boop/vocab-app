@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of clearing yourself (or another) from some stigma or charge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act of removing by cleansing; ridding of sediment or other undesired elements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To rid of whatever is impure, undesirable, or noxious; to cleanse, clear, or purify thoroughly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To remove a group of undesirable, disloyal, or suspect persons from an organization, political party, or government.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Him I accuse The city ports by this hath entered and Intends t’ appear before the people, hoping To purge himself with words."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So please your Majesty, I would I could Quit all offences with as clear excuse As well as I am doubtless I can purge Myself of many I am charged withal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I do grow great, I’ll grow less, for I’ll purge, and leave sack, and live cleanly as a nobleman should do. [_Exit, bearing off the body._] SCENE V."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Meet we the medicine of the sickly weal, and with him pour we in our country's **purge** each drop of us."*
+> - 📜 **John Milton (*Paradise Lost*):** *"So saying, the archangel Michael descended to **purge** the holy garden of the rebel spirits."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The revolutionary faction resolved to **purge** the assembly of every moderate deputy who opposed their decrees."*

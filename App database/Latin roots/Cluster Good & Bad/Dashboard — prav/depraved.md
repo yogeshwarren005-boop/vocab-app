@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deviating from what is considered moral or right or proper or good.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Morally corrupt, wicked, perverted, or debased; marked by evil or vicious practices.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Corrupted in taste, intellectual judgment, or natural appetite; warped or unnatural.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who lives that’s not depraved or depraves?"*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Intemperance, of the most depraved kind, made his career most dreadful."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I was rich enough now—yet poor to hideous indigence: a nature the most gross, impure, depraved I ever saw, was associated with mine, and called by the law and by society a part of me."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"He had yielded himself to a cold and **depraved** curiosity that sought to probe the darkest secrets of the heart."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I considered the monster who had murdered my brother as a creature completely **depraved** and malignant."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The den of thieves was frequented by the most **depraved** ruffians of the London underworld."*

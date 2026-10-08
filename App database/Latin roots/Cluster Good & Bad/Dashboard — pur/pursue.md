@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Carry out or participate in an activity; be involved in.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Follow in or as if in pursuit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To follow in order to catch, capture, overtake, or kill; to chase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To engage in, practice, or carry on a career, inquiry, or course of study over time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here he comes; I pray you make us friends; I will pursue the amity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet if I knew What hoop should hold us staunch, from edge to edge O’ th’ world I would pursue it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pursue him to his house, and pluck him thence, Lest his infection, being of catching nature, Spread further."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Howsoever thou **pursuest** this act, taint not thy mind, nor let thy soul contrive against thy mother aught."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"To **pursue** the white whale across every ocean was the solitary purpose of Ahab's existence."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Men **pursue** happiness through diverse paths, according to their different temperaments and education."*

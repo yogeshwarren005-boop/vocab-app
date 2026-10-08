@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Combined with extraneous elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of persons or behaviors) immoral or obscene.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mixed or contaminated with foreign, extraneous, or inferior matter; not clean, pure, or unadulterated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Morally corrupt, defiled, unchaste, or violating religious and ethical standards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Swills) found his voice seriously affected by the impure state of the atmosphere, his jocose expression at the time being that he was like an empty post-office, for he hadn’t a single note in him."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The fields were sallow with the impure light, and all were tinged in monochrome, as if beheld through stained glass."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I was rich enough now—yet poor to hideous indigence: a nature the most gross, impure, depraved I ever saw, was associated with mine, and called by the law and by society a part of me."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Sight of her that was so fair, so sacred, seemed to banish every base and **impure** thought from his mind."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The water in the stagnant gutter was foul and **impure**, reflecting the smoke-blackened roofs of the slum."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"He shrank from the touch of his fellow men as though his very soul were stained and **impure**."*

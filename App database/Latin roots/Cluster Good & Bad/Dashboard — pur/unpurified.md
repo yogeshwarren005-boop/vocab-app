@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not made pure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not made pure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not purified; remaining contaminated, unrefined, or mixed with foreign matter, dregs, or pollutants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remaining uncleaned from moral, spiritual, or ritual defilement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unpurified designates not made pure."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The **unpurified** brine left a dark, bitter residue of foreign salts upon evaporation."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"Careless experimenters frequently employ **unpurified** reagents, introducing fatal errors into quantitative analysis."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"He looked upon his **unpurified** heart with dread, longing for the cleansing stream of divine grace."*

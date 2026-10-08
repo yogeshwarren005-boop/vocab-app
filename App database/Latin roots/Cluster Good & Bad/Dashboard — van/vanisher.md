@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who disappears.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who disappears.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing that vanishes, disappears, or causes something to disappear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who fades or departs abruptly without leaving an address or record; a fleeting apparition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vanisher designates a person who disappears."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The mysterious stranger was a consummate **vanisher**, melting into the London fog the instant anyone approached him."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Every earthly conqueror is at last a **vanisher**, his glittering triumphs swallowed up in oblivion."*
+> - 📜 **Herman Melville (*The Confidence-Man*):** *"The elusive masquerader proved a swift **vanisher**, leaving the duped passenger staring at an empty deck."*

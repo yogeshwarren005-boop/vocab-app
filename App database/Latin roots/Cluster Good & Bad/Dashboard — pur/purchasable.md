@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being corrupted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Available for purchase.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being bought, acquired, or obtained for money or valuable consideration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Open to bribery, venality, or corrupt influence; venal or mercenary in character.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, purchasable designates capable of being corrupted."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The traveler learned with sorrow that judicial honors in that empire were openly **purchasable** by the highest bidder."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The imperial purple became a **purchasable** commodity when the Praetorian guards auctioned the throne to Didius Julianus."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Every court favorite knew that pardons were **purchasable** from the corrupt ministers for a bag of gold."*

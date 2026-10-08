@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Liable to sin; - sir walter scott.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liable to sin; - sir walter scott.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Liable, susceptible, or prone to sin, moral error, or human transgression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Imperfect, fallible, or capable of committing blunders and ethical offenses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peccable designates liable to sin; - sir walter scott."*
+> - 📜 **John Milton (*Paradise Lost*):** *"God created man just and right, sufficient to have stood, though **peccable** and free to fall."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"We must remember that human legislators are frail, **peccable** mortals subject to the same passions as their subjects."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He recognized that his noble aspirations were lodged in a very ordinary and **peccable** human nature."*

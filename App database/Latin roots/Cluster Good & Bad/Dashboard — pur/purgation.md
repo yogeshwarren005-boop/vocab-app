@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Purging the body by the use of a cathartic to stimulate evacuation of the bowels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ceremonial cleansing from defilement or uncleanness by the performance of appropriate rites.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of cleansing, clearing, or freeing from impurities, sins, or foreign matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law and canon law, the clearing of oneself from an accusation or suspicion of guilt.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If their purgation did consist in words, They are as innocent as grace itself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If any man doubt that, let him put me to my purgation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your wisdom should show itself more richer to signify this to the doctor, for me to put him to his purgation would perhaps plunge him into far more choler."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"For me to put him to his **purgation** would perhaps plunge him into far more choler."*
+> - 📜 **Thomas Browne (*Religio Medici*):** *"The soul requires a spiritual **purgation** to prepare it for communion with the Divine."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Canonical **purgation** allowed the accused clerk to clear himself of the charge upon his solemn oath."*

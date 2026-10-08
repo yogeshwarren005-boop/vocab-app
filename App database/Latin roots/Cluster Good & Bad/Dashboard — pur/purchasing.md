@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of buying.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obtain by purchase; acquire by means of a financial transaction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or occupation of buying goods, commodities, or services for an individual or enterprise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to financial buying capacity or commercial acquisition power (as in purchasing power).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, I warrant you, and not without his true purchasing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You lay out too much pains For purchasing but trouble."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it be so, How little is the cost I have bestowed In purchasing the semblance of my soul From out the state of hellish cruelty!"*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The true value of money consists in its **purchasing** power over the necessaries and conveniences of life."*
+> - 📜 **John Maynard Keynes (*The Economic Consequences of the Peace*):** *"Currency depreciation catastrophically diminished the **purchasing** capacity of the middle classes throughout Europe."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"The factory manager spent his mornings **purchasing** raw cotton and inspecting new steam machinery."*

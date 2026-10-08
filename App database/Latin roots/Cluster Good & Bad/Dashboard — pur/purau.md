@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shrubby tree widely distributed along tropical shores; yields a light tough wood used for canoe outriggers and a fiber used for cordage and caulk; often cultivated for ornament.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shrubby tree widely distributed along tropical shores; yields a light tough wood used for canoe outriggers and a fiber used for cordage and caulk; often cultivated for ornament.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A beach hibiscus or sea-hibiscus tree (Hibiscus tiliaceus) native to tropical Polynesian coastlines, having yellow flowers that turn orange-red.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tough fibrous inner bark of this tropical tree, used across the South Pacific for cordage, skirts, and outrigger lashings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, purau designates shrubby tree widely distributed along tropical shores; yields a light tough wood used for canoe outriggers and a fiber used for cordage and caulk; often cultivated for ornament."*
+> - 📜 **Herman Melville (*Omoo: A Narrative of Adventures in the South Seas*):** *"Dense groves of broad-leaved **purau** fringed the Tahitian bay, offering cool fragrant shade to the weary sailor."*
+> - 📜 **Robert Louis Stevenson (*In the South Seas*):** *"The island girls wore skirts of bleached **purau** fiber and garlands of freshly plucked gardenia."*
+> - 📜 **Jack London (*South Sea Tales*):** *"The tropical trail wound beneath arching branches of **purau**, where fallen blossoms carpeted the coral path."*

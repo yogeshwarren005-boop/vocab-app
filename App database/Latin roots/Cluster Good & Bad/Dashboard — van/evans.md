@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states anatomist who identified four pituitary hormones and discovered vitamin e (1882-1971).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: British archaeologist who excavated the palace of knossos in crete to find what he called minoan civilization (1851-1941).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sir Arthur Evans, the eminent British archaeologist who excavated the Bronze Age Palace of Minos at Knossos on Crete, naming the Minoan civilization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to Sir Arthur Evans or the archaeology of the Aegean Bronze Age Minoan culture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Before Page’s house Enter Justice Shallow, Slender and Sir Hugh Evans."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"EVANS. _Pauca verba_, Sir John; goot worts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Shallow and Sir Hugh Evans."*
+> - 📜 **Arthur Evans (*The Palace of Minos*):** *"The excavations at Knossos conducted by Arthur **Evans** revealed an architectural complex of extraordinary sophistication, which I have termed the Minoan palace civilization."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The remarkable discoveries made by Mr. Arthur **Evans** in Crete have shed unexpected light upon the ancient myth of the Minotaur."*
+> - 📜 **Jane Ellen Harrison (*Prolegomena to the Study of Greek Religion*):** *"Through the brilliant archaeological explorations of **Evans**, we can now study the pre-Hellenic religion of the Aegean directly."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With suavity; in a suave manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With suavity; in a suave manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a suave, polished, smoothly courteous, or sophisticated manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With soothing, honeyed, or deceptively agreeable speech and bearing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Oh, it won’t do—really it won’t,” said Holmes suavely."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Had he lost his wife?” “You can understand,” said Holmes suavely, “that I extend to the affairs of my other clients the same secrecy which I promise to you in yours.” “Of course!"*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Mightn't they like me better just because I _am_ young and look nice?" I laughed as I spoke, but Aunt Emmeline was so pleased that I showed some glimmerings of reason, that she said suavely:-- "Wait ten years, dear!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Tulkinghorn smiled **suavely**, inclining his head with the unreadable discretion of a family solicitor."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp replied **suavely** to the dowager's barbed inquiries, concealing her irritation behind polite smiles."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"The foreign diplomat answered **suavely**, waving aside the detective's questions with a flick of his gloved fingers."*

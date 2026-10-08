@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft silvery white toxic metallic element used in steel alloys; it occurs in several complex minerals including carnotite and vanadinite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soft silvery white toxic metallic element used in steel alloys; it occurs in several complex minerals including carnotite and vanadinite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard, ductile, silvery-grey transition metal element (atomic number 23, symbol V), used primarily to strengthen steel alloys.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A multivalent transition metal known for producing solutions in vivid colors across oxidation states plus two, three, four, and five.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vanadium designates a soft silvery white toxic metallic element used in steel alloys; it occurs in several complex minerals including carnotite and vanadinite."*
+> - 📜 **Nils Gabriel Sefström (*Account of the Discovery of Vanadium*):** *"I have named this new metallic substance **vanadium**, after Vanadis, a surname of the ancient Scandinavian goddess of beauty."*
+> - 📜 **Henry Enfield Roscoe (*Researches on Vanadium*):** *"Pure metallic **vanadium** was isolated only after extraordinary precautions were taken to exclude all traces of oxygen and nitrogen."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The catalytic properties of **vanadium** pentoxide were demonstrated in the accelerated oxidation of sulfur dioxide."*

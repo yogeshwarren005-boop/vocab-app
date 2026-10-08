@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by suppuration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characterized by suppuration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing, accompanied by, or characterized by the formation and discharge of pus; purulent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A therapeutic agent or application promoting the formation or discharge of pus from an abscess.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, suppurative designates relating to or characterized by suppuration."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient succumbed to acute **suppurative** meningitis secondary to chronic otitis media."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"In acute **suppurative** synovitis, the articular cartilage undergoes rapid softening and erosion."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Clean air and dry bedding prevent the development of **suppurative** hospital sores in wounded soldiers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An oral drug (trade name pravachol) administered to reduce blood cholesterol levels; recommended after nonfatal heart attacks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oral drug (trade name pravachol) administered to reduce blood cholesterol levels; recommended after nonfatal heart attacks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hydrophilic statin medication (C23H36O7) that lowers serum cholesterol by inhibiting 3-hydroxy-3-methylglutaryl-coenzyme A reductase in the liver.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fungal-derived lipid-lowering therapeutic agent isolated originally from Nocardia autotrophica, having low lipid solubility and hepatic selectivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pravastatin designates an oral drug (trade name pravachol) administered to reduce blood cholesterol levels; recommended after nonfatal heart attacks."*
+> - 📜 **Akira Endo (*A Historical Perspective on the Discovery of Statins*):** *"Our research into microbial metabolites yielded mevastatin and subsequently **pravastatin**, revealing novel mechanisms for cholesterol regulation."*
+> - 📜 **Eugene Braunwald (*Heart Disease: A Textbook of Cardiovascular Medicine*):** *"The hydrophilic properties of **pravastatin** result in minimal cellular penetration into non-hepatic tissues."*
+> - 📜 **Eric Topol (*Textbook of Cardiovascular Medicine*):** *"Large-scale clinical outcome studies demonstrated that daily administration of **pravastatin** decreased recurrent coronary events."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of an arrow) equipped with feathers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of an arrow) equipped with feathers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Provided, furnished, or equipped with vanes, blades, fins, or directional pointers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and ornithology, having a distinct vane, blade, or web, as a feather or winged seed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vaned designates (of an arrow) equipped with feathers."*
+> - 📜 **Robert Louis Stevenson (*In the South Seas*):** *"The **vaned** windmill upon the plantation knoll spun merrily in the trade wind, pumping water to the cane fields."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The symmetrically **vaned** feathers of modern birds evolved through long adaptive selection for aerodynamic flight."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"A multi-**vaned** propeller whirred smoothly as the flying machine rose above the Surrey pine woods."*

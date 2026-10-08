@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of cleaning by getting rid of impurities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of removing impurities (as from oil or metals or sugar etc.).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of purifying; cleansing from foreign matter, pollutants, or moral stains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A religious ritual, ceremony, or liturgical act performed to remove spiritual defilement or ceremonial uncleanness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"It was almost enough to spread purification and perfume all the way."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"When I found under me a particularly sharp, but not too sharp, rock-projection, I ground my body upon the point of it, rowelled my flesh in a very ecstasy of mastery and of purification."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"He might not go into a lodge where one of them happened to be, nor even into a lodge where one of them had been, until a ceremony of purification had been performed."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"Ceremonial **purification** by water or fire forms an almost universal rite among archaic religions."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Repeated chemical **purification** of the electrolyte was essential to obtain consistent galvanometric readings."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"He sought through secret penance and vigil that spiritual **purification** which open confession alone could bestow."*

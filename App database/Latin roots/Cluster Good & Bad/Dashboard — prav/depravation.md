@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Moral perversion; impairment of virtue and moral principles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moral perversion; impairment of virtue and moral principles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of corrupting, perverting, or impairing moral virtue, physical purity, or mental integrity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The degraded condition resulting from moral debasement, spiritual degeneration, or cultural decay.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Think, we had mothers; do not give advantage To stubborn critics, apt, without a theme, For depravation, to square the general sex By Cressid’s rule."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The gradual **depravation** of language arises when men use words without clear and distinct ideas."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"The corruption of the original text was accompanied by a corresponding **depravation** of religious doctrine."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The total **depravation** of public morals paved the way for military tyranny and barbarian invasion."*

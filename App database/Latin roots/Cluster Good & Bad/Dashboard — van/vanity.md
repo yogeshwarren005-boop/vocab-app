@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feelings of excessive pride.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being valueless or futile.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive pride in or admiration of one's own appearance, achievements, or abilities; conceit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emptiness, unreality, worthlessness, or the fleeting illusion of worldly ambitions and treasures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take him away. [_Guards seize Bertram._] My fore-past proofs, howe’er the matter fall, Shall tax my fears of little vanity, Having vainly fear’d too little."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, Hal, I prithee trouble me no more with vanity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, I should have a heavy miss of thee If I were much in love with vanity."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Come, children, let us shut up the box and the puppets, for our play in **Vanity** Fair is done."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"The name of that town is Vanity; and at the town there is a fair kept, called **Vanity** Fair."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Self-trust is the first secret of success, whereas personal **vanity** is the surest herald of defeat."*

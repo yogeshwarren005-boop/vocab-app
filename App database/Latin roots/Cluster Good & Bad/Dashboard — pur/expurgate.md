@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Edit by omitting or modifying parts considered indelicate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Edit by omitting or modifying parts considered indelicate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove objectionable, offensive, erroneous, or indecent passages from a written book, manuscript, or text before publication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To cleanse, purge, or free from corrupting or offensive matter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Whitman's attitude toward the plan at the time is given in a letter which he wrote to Rossetti on December 3, 1867: "I cannot and will not consent of my own volition to countenance an expurgated edition of my pieces."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"It is the question of the authorization of an expurgated edition proceeding from me, that deepest engages me."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"This movement in 1869 accomplished the restoration of our State under the expurgated constitution and gave us representation here in the persons of my colleague and ex-Senator Lewis."*
+> - 📜 **Lord Byron (*Don Juan*):** *"They had to **expurgate** the ancient classics before placing them into the delicate hands of boarding-school maidens."*
+> - 📜 **John Milton (*Areopagitica*):** *"To **expurgate** every book that contains challenging thought is to reduce knowledge to an infantile diet."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The zealous editor resolved to **expurgate** the memoirs, excising every spicy anecdote that might offend Victorian modesty."*

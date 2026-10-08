@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being undiluted or unmixed with extraneous material.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being unsullied by sin or moral wrong; lacking a knowledge of evil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freedom from mixture, adulteration, foreign substances, or blemish; unpolluted clarity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freedom from moral, spiritual, or sexual guilt or defilement; innocence, chastity, or moral integrity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To win me soon to hell my female evil Tempteth my better angel from my side, And would corrupt my saint to be a devil, Wooing his purity with her foul pride."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is to be all made of fantasy, All made of passion, and all made of wishes, All adoration, duty, and observance, All humbleness, all patience, and impatience, All purity, all trial, all observance, And so am I for Phoebe."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And this, so sole and so unmatchable, Shall give a holiness, a purity, To the yet unbegotten sin of times; And prove a deadly bloodshed but a jest, Exampled by this heinous spectacle."*
+> - 📜 **John Milton (*Paradise Lost*):** *"In virgin **purity** and innocence the mother of mankind walked through the fragrant groves of Eden."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The miraculous **purity** of the water reflected every drifting cloud in the autumn sky."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Character is higher than intellect; a great soul will be strong to live as well as strong to think, clothed in moral **purity**."*

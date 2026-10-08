@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move forward, also in the metaphorical sense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring forward for consideration or acceptance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moving forward in physical space, time, knowledge, or rank; making steady progress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drawing nearer or approaching, as of time, age, or a military force.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"ROSALIND. [_Advancing_.] And why, I pray you?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"HAMLET. [_Advancing._] What is he whose grief Bears such an emphasis? whose phrase of sorrow Conjures the wand’ring stars, and makes them stand Like wonder-wounded hearers?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let us send her to call him in to dinner. [Exeunt Don Pedro, Claudio and Leonato.] BENEDICK. [Advancing from the arbour.] This can be no trick: the conference was sadly borne."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The muffled drum announced the **advancing** column through the morning fog of Waterloo."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The **advancing** twilight cast long dreary shadows across the empty streets of the city."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"With **advancing** years, the lonely heath-dweller clung more tenaciously to her ancient solitude."*

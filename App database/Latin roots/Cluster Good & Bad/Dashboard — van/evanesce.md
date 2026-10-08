@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disappear gradually.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disappear gradually.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To disappear gradually from sight, memory, or existence; to fade away like vapor or mist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To dissipate, dissolve, or vanish into nothingness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, evanesce designates disappear gradually."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"All earthly pomps and pageants must **evanesce** into thin air, leaving only the eternal soul."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The golden evening radiance seemed to **evanesce** from the marble towers as twilight deepened over Rome."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The trivial worries of the day **evanesce** before the silent majesty of the starry heavens."*

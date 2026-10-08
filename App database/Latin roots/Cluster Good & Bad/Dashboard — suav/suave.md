@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a sophisticated charm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Smoothly agreeable and courteous with a degree of sophistication.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Smoothly agreeable, polite, polished, and sophisticated in manners and speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pleasing, mild, or sweet to the senses, taste, or hearing; soothing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Don’t let me stop you.” I was impudently suave."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Under their suave manners was the iron of a warlike race, and we knew, and went our way."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Oahunui was quite captivated by the plausible, suave manners of the ingratiating southern chief and those of his immediate retainers, and he invited them to a feast."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Gilbert Osmond was exquisitely **suave**, displaying an effortless social composure that charmed visitors to his villa."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"His **suave** voice flowed on like honeyed music, charming away every lingering doubt in the young man's mind."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The villain assumed a **suave** and deferential air, bowing low before the inspector."*

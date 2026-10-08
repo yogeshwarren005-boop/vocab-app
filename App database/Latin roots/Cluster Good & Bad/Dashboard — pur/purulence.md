@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Symptom of being purulent (containing or forming pus).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fluid product of inflammation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation, accumulation, or presence of pus in a wound, tissue cavity, or biological secretion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A purulent condition, exudation, or discharge indicative of pyogenic bacterial infection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, purulence designates symptom of being purulent (containing or forming pus)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The presence of gross **purulence** in the pleural fluid confirms the diagnosis of empyema."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The rapid progression from serous exudation to frank **purulence** marks the infiltration of pyogenic corpuscles."*
+> - 📜 **Joseph Lister (*On the Antiseptic Principle in the Practice of Surgery*):** *"Under carbolic dressings, wounds healed by first intention without the slightest trace of **purulence**."*

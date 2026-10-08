@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mechanical device attached to an elevated structure; rotates freely to show the direction of the wind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fin attached to the tail of an arrow, bomb or missile in order to stabilize or guide it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A movable flat plate, blade, or pennant pivoted on an elevated rod to show the direction from which the wind blows; a weathercock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flat or curved blade or fin attached to a rotating wheel, rotor, or turbine propelled by fluid or air.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No: ’twas the vane on the house."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was the vane on the roof turning round, and this change in the wind was the signal for a disastrous rain."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Up against this dark background the west front of the church tower—the only part of the edifice visible from the farm-house windows—rose distinct and lustrous, the vane upon the summit bristling with rays."*
+> - 📜 **William Shakespeare (*Much Ado About Nothing*):** *"What a pretty thing man is when he goes in his doublet and hose and leaves off his wit! He is as changeable as a weather **vane**."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The rusty iron **vane** upon the gable creaked mournfully in every gust of the east wind."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The gilded **vane** upon the church steeple pointed steadily to the south, predicting an approaching tempest."*

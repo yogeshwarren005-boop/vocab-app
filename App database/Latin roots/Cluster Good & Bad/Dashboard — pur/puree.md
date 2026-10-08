@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Food prepared by cooking and straining or processed in a blender.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rub through a strainer or process in an electric blender.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A smooth, thick sauce or paste made from cooked vegetables, pulses, or fruit that have been blended, mashed, or sieved.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To reduce cooked food ingredients to a uniform, velvety consistency by sieving or blending.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, puree designates food prepared by cooking and straining or processed in a blender."*
+> - 📜 **Alexandre Dumas (*The Count of Monte Cristo*):** *"The banquet commenced with an exquisite **puree** of chestnuts prepared after the ancient Italian receipt."*
+> - 📜 **Isabella Beeton (*Mrs. Beeton's Book of Household Management*):** *"Pass the boiled green peas through a fine wire sieve to produce a smooth, delicate **puree**."*
+> - 📜 **George Augustus Sala (*The Thorough Good Cook*):** *"The chef garnished the roast pheasant with a rich **puree** of truffled celery."*

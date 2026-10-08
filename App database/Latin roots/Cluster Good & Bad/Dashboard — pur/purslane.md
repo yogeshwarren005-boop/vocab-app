@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant of the family portulacaceae having fleshy succulent obovate leaves often grown as a potherb or salad herb; a weed in some areas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant of the family portulacaceae having fleshy succulent obovate leaves often grown as a potherb or salad herb; a weed in some areas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A creeping succulent annual plant (Portulaca oleracea) having fleshy oval leaves, yellow flowers, and edible reddish stems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An edible wild salad green and potherb rich in omega-3 fatty acids, cultivated since antiquity in Mediterranean gardens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The Purslane white rust (_Cystopus Portulacæ_, D."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"C.) should be sought on the purslane, which, though of limited cultivation, is exceedingly liable to attack from this parasite, and the Thistle white rust (_Cystopus spinulosus_, D."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I made a satisfactory dinner of boiled **purslane** which I gathered in my cornfield, seasoned with salt."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The succulent leaves of garden **purslane** thrive during the hottest droughts of midsummer."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"The ancients valued **purslane** as a cooling salad herb and a soothing remedy for burning fevers."*

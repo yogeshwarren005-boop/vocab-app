@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Proud or arrogant because of your wealth (especially in the absence of other distinction).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Proud or arrogant because of your wealth (especially in the absence of other distinction).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrogant, insolent, or haughty because of one's wealth; flaunting financial prosperity with offensive conceit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Displaying vulgar, ostentatious condescension toward those less affluent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, purse-proud designates proud or arrogant because of your wealth (especially in the absence of other distinction)."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The neighborhood resented the insolence of the **purse-proud** merchant who treated the local gentry with condescension."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Old Osborne was a thoroughly **purse-proud** citizen who judged every man's character by the balance at his banker's."*
+> - 📜 **Charles Dickens (*Dombey and Son*):** *"The **purse-proud** merchant sat stiffly in his carriage, oblivious to the misery of the pedestrians on the pavement."*

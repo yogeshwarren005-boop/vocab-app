@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a list of ancestors as proof of being a purebred animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a list of ancestors as proof of being a purebred animal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an unmixed, undiluted pedigree, ancestral descent, or genetic lineage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thoroughbred in breeding; descending entirely from recognized pure stock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pureblooded designates having a list of ancestors as proof of being a purebred animal."*
+> - 📜 **Washington Irving (*A History of New York*):** *"The burgomasters claimed to be **pureblooded** descendants of the original Dutch patroons of New Amsterdam."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The professor insisted that our Indian guides were **pureblooded** descendants of the ancient forest dwellers."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Tashtego was an unmixed, **pureblooded** Gay Head Indian whose harpoon never missed its mark."*

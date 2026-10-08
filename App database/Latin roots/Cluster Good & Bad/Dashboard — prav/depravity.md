@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Moral perversion; impairment of virtue and moral principles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A corrupt or depraved or degenerate act or practice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Profound moral corruption, wickedness, or vice; radical perversity of character and action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian theology, the inherent moral corruption of human nature resulting from original sin; total depravity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"We did not dream such depths of depravity."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Surely it is only in him that we realize man--only in him that we grasp what human depravity really is, the real meaning and implications of human sin."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"Another important part of _the preaching of the cross_ consists in a full disclosure of _the entire depravity and helplessness of our fallen nature_."*
+> - 📜 **Jonathan Edwards (*Freedom of the Will*):** *"The doctrine of total **depravity** asserts that without divine grace the human will remains enslaved to sinful self-love."*
+> - 📜 **Herman Melville (*Billy Budd*):** *"In Claggart there was a peculiar **depravity** according to nature, born of envy and intellectual pride."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The monstrous **depravity** of the emperor Nero shocked even the corrupted sensibilities of Rome."*

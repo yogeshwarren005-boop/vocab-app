@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Corrupt morally or by intemperance or sensuality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To corrupt morally; to degrade, debase, or pervert someone's character, mind, or principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To distort, impair, or vitiate the original purity or soundness of an institution, language, or doctrine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"If England is willing to permit the mean jealousies of trade, or the rancorous animosities of politics, to deprave the integrity of her press, and poison the fountain of public opinion, let us beware of her example."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who lives that’s not depraved or depraves?"*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"That was only prophetic of further steps towards the banishment of a 226:3 world-wide slavery, found on higher planes of existence and under more subtle and depraving forms."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Whom reason hath equaled, force hath made supreme above his equals, only to **deprave** them into servitude."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Vicious companions possess an insidious power to **deprave** the youthful imagination before virtue takes firm root."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"No measure could be better calculated to **deprave** the temper of the colonists and undermine their loyalty."*

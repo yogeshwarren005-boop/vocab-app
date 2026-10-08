@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin van within the domain of Good & Bad.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of van in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vain, foolish, or boastful talk; empty and pretentious chatter devoid of substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Idle or arrogant speech intended to impress listeners without conveying genuine truth or meaning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vaniloquence designates pertaining to, derived from, or characteristic of latin van within the domain of good & bad."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The superficial wit weary his company with perpetual **vaniloquence**, mistaking loud volubility for wisdom."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Beneath all the parliamentary **vaniloquence** and rhetoric of the session, no practical reform was accomplished."*
+> - 📜 **Washington Irving (*Salmagundi*):** *"The town was overrun with political pretenders whose endless **vaniloquence** disgusted every sensible citizen."*

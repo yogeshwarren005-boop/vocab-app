@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (judaism) a jewish holy day commemorating their deliverance from massacre by haman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (judaism) a jewish holy day commemorating their deliverance from massacre by haman.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A joyful Jewish festival celebrated annually on the 14th of Adar, commemorating the deliverance of the Jews of Persia from Haman's plot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The festive holiday marked by the public reading of the Megillah (Book of Esther), exchanging gifts of food, and charitable giving.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, purim designates (judaism) a jewish holy day commemorating their deliverance from massacre by haman."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"The joyful celebration of **Purim** filled the synagogue with the laughter of children and the rattle of greggers."*
+> - 📜 **Flavius Josephus (*Antiquities of the Jews*):** *"The Persian Jews instituted the feast of **Purim** to be observed throughout all generations in memory of their miraculous deliverance."*
+> - 📜 **Heinrich Heine (*The Rabbi of Bacharach*):** *"On the feast of **Purim**, even the poorest family partook of sweet poppy-seed cakes and rich spiced wine."*

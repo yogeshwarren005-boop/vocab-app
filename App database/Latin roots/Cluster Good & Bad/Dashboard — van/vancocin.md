@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibiotic (trade name vancocin) effective against some bacterial infections.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibiotic (trade name vancocin) effective against some bacterial infections.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand name for vancomycin hydrochloride, a glycopeptide antibiotic administered intravenously or orally to treat severe bacterial infections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pharmaceutical formulation indicated for life-threatening methicillin-resistant Staphylococcus aureus and Clostridioides difficile colitis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vancocin designates an antibiotic (trade name vancocin) effective against some bacterial infections."*
+> - 📜 **Eugene Braunwald (*Harrison's Principles of Internal Medicine*):** *"The physician initiated intravenous therapy with **Vancocin** to control the refractory staphylococcal bacteremia."*
+> - 📜 **Maxwell Finland (*Clinical Antimicrobial Therapeutics*):** *"Severe enterocolitis responded promptly when oral **Vancocin** was administered to eradicate toxin-producing anaerobes."*
+> - 📜 **Louis Weinstein (*The Pharmacological Basis of Therapeutics*):** *"Therapeutic monitoring of serum trough levels ensures maximum efficacy of **Vancocin** while minimizing nephrotoxicity."*

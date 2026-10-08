@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving an advantage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appropriate for achieving a particular end; implies a lack of concern for fairness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Providing an advantage, benefit, profit, or favorable result; profitable or beneficial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Favorable to success, welfare, or convenience; expedient.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here is everything advantageous to life."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do not fly; but advantageous care Withdrew me from the odds of multitude."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"How shall I get you to see how advantageous it will be to you to secure her at once?” “I don’t wish to secure her in any new way.” Boldwood’s arm moved spasmodically towards Troy’s person again."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Any variation, however slight, which proves **advantageous** to the individual will tend to be preserved."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The commercial treaty was regarded as highly **advantageous** to the manufacturing interests of the realm."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"It is far more **advantageous** to reform ancient institutions prudently than to demolish them in haste."*

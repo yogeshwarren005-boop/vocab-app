@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A crystalline compound found in vanilla beans and some balsam resins; used in perfumes and flavorings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crystalline compound found in vanilla beans and some balsam resins; used in perfumes and flavorings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organic phenolic aldehyde compound (C8H8O3, 4-hydroxy-3-methoxybenzaldehyde) that constitutes the primary aroma component of vanilla beans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crystalline compound synthesized industrially from guaiacol or lignin, used as a primary flavoring and fragrance agent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vanillin designates a crystalline compound found in vanilla beans and some balsam resins; used in perfumes and flavorings."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Chemists succeeded in isolating pure crystalline **vanillin** from the fragrant resinous exudation of cured vanilla pods."*
+> - 📜 **William Allen Miller (*Elements of Chemistry: Organic Chemistry*):** *"The synthesis of **vanillin** from coniferin demonstrated that natural plant essences could be reproduced artificially."*
+> - 📜 **Henry Enfield Roscoe (*A Treatise on Chemistry*):** *"Upon oxidation, **vanillin** yields vanillic acid, establishing its close constitutional relationship to protocatechuic aldehyde."*

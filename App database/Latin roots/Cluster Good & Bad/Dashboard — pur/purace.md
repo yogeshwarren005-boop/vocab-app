@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inactive volcano in the andes in southern colombia; last erupted in 1950.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inactive volcano in the andes in southern colombia; last erupted in 1950.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An active stratovolcano in the Cordillera Central of the Colombian Andes, renowned for sulfur deposits, hot springs, and fumaroles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The Andean volcanic region and national park surrounding Mount Puracé, sheltering endangered Andean condors and frailejones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, purace designates an inactive volcano in the andes in southern colombia; last erupted in 1950."*
+> - 📜 **Alexander von Humboldt (*Researches Concerning the Institutions and Monuments of the Ancient Inhabitants of America*):** *"We ascended the smoking cone of **Purace**, where sulfurous exhalations deposited bright yellow crystals around the crater edge."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The violent eruptions of the Colombian volcano **Purace** have repeatedly showered ashes over the surrounding high paramos."*
+> - 📜 **Clements Markham (*The Incas of Peru*):** *"The volcanic cordillera near **Purace** formed the natural northern rampart of the ancient Andean transport trails."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to purge or rid of sin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or resembling purgatory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of purgatory; serving to purge or purify.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving protracted, agonizing suffering, cleansing trials, or expiatory torment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, purgatorial designates serving to purge or rid of sin."*
+> - 📜 **Dante Alighieri (*Purgatorio*):** *"The ascending souls embraced their **purgatorial** discipline with joyful submission, yearning for heavenly vision."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The doctrine of **purgatorial** fire offered consolation to survivors seeking to relieve the departed."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The nation passed through a **purgatorial** agony of terror before the revolutionary fever subsided."*

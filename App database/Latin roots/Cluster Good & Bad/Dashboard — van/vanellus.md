@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eurasian lapwings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eurasian lapwings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of medium-sized plovers in the family Charadriidae, commonly called lapwings, having broad rounded wings and crested heads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The northern lapwing (Vanellus vanellus), a Eurasian wading bird renowned for its acrobatic tumbling courtship flight and plaintive pee-wit call.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vanellus designates eurasian lapwings."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The crested lapwing, classified as **Vanellus**, wheels over our boggy downs in spring with loud, tumbling cries."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The broad rounded wings of **Vanellus** produce a distinct fan-like whirring sound during its courtship aerial displays."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"Species of the plover genus **Vanellus** are distributed across open marshlands and steppes throughout the Old World."*

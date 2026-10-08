@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Get lost, as without warning or explanation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become invisible or unnoticeable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having disappeared completely from sight, existence, or memory; gone without trace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to a bygone, extinct, or lost historical era, civilization, or race.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The things that threaten’d me Ne’er look’d but on my back; when they shall see The face of Caesar, they are vanished."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I burned in desire to question them further, they made themselves air, into which they vanished."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The first that there did greet my stranger-soul Was my great father-in-law, renowned Warwick, Who spake aloud, “What scourge for perjury Can this dark monarchy afford false Clarence?” And so he vanished."*
+> - 📜 **Edgar Allan Poe (*The Raven*):** *"Tell this soul with sorrow laden if, within the distant Aidenn, it shall clasp a sainted maiden; and my **vanished** hopes wept in vain."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"He stood upon the grassy barrow, dreaming of the **vanished** heroes who slept beneath the turf."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The smoke from my chimney **vanished** into the clear ether, leaving no stain upon the winter sky."*

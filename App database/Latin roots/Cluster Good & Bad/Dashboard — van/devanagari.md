@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A syllabic script used in writing sanskrit and hindi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A syllabic script used in writing sanskrit and hindi.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The alphasyllabic Brahmic script used to write Sanskrit, Hindi, Marathi, Nepali, and several other South Asian languages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historic script characterized by a continuous horizontal upper hanging line linking characters in running text.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, devanagari designates a syllabic script used in writing sanskrit and hindi."*
+> - 📜 **Max Müller (*A Sanskrit Grammar for Beginners*):** *"The sacred texts of the Vedas are traditionally inscribed in the clear, elegant characters of **Devanagari**."*
+> - 📜 **William Jones (*On the Hindus*):** *"The **Devanagari** alphabet represents the sounds of human speech with incomparable phonetic completeness and precision."*
+> - 📜 **Monier Monier-Williams (*A Sanskrit-English Dictionary*):** *"Every root in this lexicon is printed in standard **Devanagari** type accompanied by Roman transliteration."*

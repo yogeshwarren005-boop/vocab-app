@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting a disadvantage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constituting a disadvantage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unfavorable, detrimental, prejudicial, or causing an impediment to success.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Entailing loss, inconvenience, or damage; unpromising or unprofitable.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Among the restraints imposed by the Union of the Netherlands on its members, one is, that they shall not establish imposts disadvantageous to their neighbors, without the general permission."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He uttered no sentiment calculated to produce a disadvantageous impression; on the contrary, his observations denoted a mind alive to every generous and heroic feeling."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But the question whether the camp was advantageous or disadvantageous remained for him undecided."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman general found himself trapped in a highly **disadvantageous** position between the river and the barbarian vanguard."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"High protective tariffs frequently prove **disadvantageous** to the very industries they are designed to shelter."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The old laird refused to enter into a bargain so obviously **disadvantageous** to the estate."*

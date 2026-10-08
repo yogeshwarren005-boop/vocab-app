@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who buys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who buys.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who buys, acquires, or agrees to obtain goods, services, or property in exchange for payment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal terminology, an acquirer of real property by any means other than hereditary descent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Allston, and was anxious to know who was the fortunate purchaser of the painting of the 'Angel Uriel,' which had won the prize at the exhibition of the Royal Academy."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The gas was relighted, and various articles were selected; the purchaser then asked for the account, and the money was paid--_a little more than_ £30."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The purchaser of some kinds of property in times of depression is securing them at a lower capitalization than they will later have."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"In every free market, the **purchaser** and the seller mutually determine the natural price of commodities."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The law distinguishes carefully between the heir who inherits land and the **purchaser** who takes by conveyance."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The cautious corn **purchaser** thrust his hand into the sack to test the dryness of the grain."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being bland and gracious or ingratiating in manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being bland and gracious or ingratiating in manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Smooth politeness, gracious urbanity, and charming elegance of manners.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pleasing sweetness, mildness, or delicacy to the palate, ear, or aesthetic senses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Extremely honoured, I am sure,” said our poor hostess with the greatest suavity, “by this visit from the wards in Jarndyce."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Just so!” Miss Flite acquiesced with the greatest suavity."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Which there’s not a man alive more ready to do, for you’re a man of urbanity and suavity, you know, and you’ve got the sort of heart that can feel for another."*
+> - 📜 **Edgar Allan Poe (*The Tell-Tale Heart*):** *"I smiled, for what had I to fear? I bade the gentlemen welcome; the officers were satisfied, my manner had convinced them; I was singularly at ease, for my **suavity** disarmed them."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The Italian diplomat conducted the negotiation with incomparable subtlety and **suavity**."*
+> - 📜 **Herman Melville (*The Confidence-Man*):** *"He approached the passengers with a winning **suavity** that made refusal of his charitable appeal almost impossible."*

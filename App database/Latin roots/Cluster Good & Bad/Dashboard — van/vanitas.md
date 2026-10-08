@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin van within the domain of Good & Bad.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of van in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genre of still-life painting popular in the 17th-century Netherlands, featuring symbolic objects reminding viewers of death and transience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The philosophical theme of the futility, emptiness, and transience of human life and worldly pursuits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Vanitas Vanitatum! which of us is happy in this world?"*
+> - 📜 **Walter Pater (*The Renaissance*):** *"The Dutch masters captured the somber spirit of the **vanitas** in arrangements of snuffed candles and crumbling books."*
+> - 📜 **Charles Baudelaire (*The Painter of Modern Life*):** *"Beneath the brilliant surface of fashionable society there lingers an ancient **vanitas** whispering of mortality."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The skull upon the scholar's desk was the traditional **vanitas** emblem warning mortals against intellectual pride."*

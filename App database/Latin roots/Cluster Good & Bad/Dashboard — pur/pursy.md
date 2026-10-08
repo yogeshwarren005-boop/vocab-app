@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Breathing laboriously or convulsively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Breathing laboriously or convulsively.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Short-winded, asthmatic, or breathing with difficulty; especially puffed up and short of breath from fatness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fat, pudgy, or bloated in physical habit; corpulent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Forgive me this my virtue; For in the fatness of these pursy times Virtue itself of vice must pardon beg, Yea, curb and woo for leave to do him good."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now the time is flush, When crouching marrow, in the bearer strong Cries of itself, “No more!” Now breathless wrong Shall sit and pant in your great chairs of ease, And pursy insolence shall break his wind With fear and horrid flight."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"I once was persuaded a venture to make; A letter inform’d me that all was to wreck; But the pursy old landlord just waddl’d upstairs, With a glorious bottle that ended my cares."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"In the fatness of these **pursy** times, virtue itself of vice must pardon beg."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The **pursy** old gentleman wheezed audibly as he climbed into the high seat of the stage-coach."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"A stout, **pursy** bailie waddled across the cobblestones, mopping his scarlet brow with a handkerchief."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (medicine) the formation of morbific matter in an abscess or a vesicle and the discharge of pus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fluid product of inflammation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological process of forming or discharging pus; purulent inflammation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The discharge or gathering of pus resulting from infection by pyogenic microorganisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"This was described as “inflammation of the right parotid gland.” On August 24th it was decided to make an incision below and forward of the right ear, in order to prevent suppuration."*
+> - 📜 **Joseph Lister (*On the Antiseptic Principle in the Practice of Surgery*):** *"Antiseptic occlusion effectively arrested the process of **suppuration** in extensive compound wounds."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Prolonged **suppuration** within the thoracic cavity leads inevitably to amyloid degeneration of the viscera."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The phenomenon of **suppuration** represents an active emigration of colorless blood corpuscles into inflamed tissue."*

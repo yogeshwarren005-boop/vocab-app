@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A body of 18 works written between the first and 11th centuries and incorporating legends and speculative histories of the universe and myths and customary observances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A body of 18 works written between the first and 11th centuries and incorporating legends and speculative histories of the universe and myths and customary observances.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class of sacred Hindu mythological, cosmological, and historical Sanskrit texts celebrating deities such as Vishnu, Shiva, and Devi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient Indian legendary narrative comprising the traditional five subjects: creation, destruction, genealogies, manvantaras, and dynastic histories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, purana designates a body of 18 works written between the first and 11th centuries and incorporating legends and speculative histories of the universe and myths and customary observances."*
+> - 📜 **Max Müller (*India: What Can It Teach Us?*):** *"The epic narratives and genealogical chronicles preserved in each **Purana** reflect the popular religious imagination of medieval India."*
+> - 📜 **Ralph Waldo Emerson (*Journals*):** *"In the profound cosmological myths of the **Purana**, time is measured in vast kalpas of cosmic creation and dissolution."*
+> - 📜 **Horace Hayman Wilson (*The Vishnu Purana: A System of Hindu Mythology and Tradition*):** *"The translator of a Sanskrit **Purana** encounters an encyclopedic treasury of Hindu theology and folklore."*

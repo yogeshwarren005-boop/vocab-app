@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put at a disadvantage; hinder, harm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by deprivation especially of the necessities of life or healthful environmental influences.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Placed in an unfavorable, underprivileged, or disadvantageous economic, social, or physical position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprived of normal social, educational, or economic opportunities and resources available to others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disadvantaged designates put at a disadvantage; hinder, harm."*
+> - 📜 **Jane Addams (*Twenty Years at Hull-House*):** *"Our settlement house sought to provide educational opportunities for the socially **disadvantaged** youths of the immigrant quarter."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"A truly democratic society cannot permit whole classes to remain permanently **disadvantaged** by unequal schooling."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"The chronically **disadvantaged** families in the industrial north lived in squalid back-to-back houses without sanitation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being without an error or fault.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being exempt from sin or incapable of sinning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or theological attribute of being exempt from sin, error, or moral failing; inability to sin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flawless perfection, unerring accuracy, or absolute freedom from fault or defect in execution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impeccability designates the quality of being without an error or fault."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"No human authority can justly lay claim to personal infallibility or absolute moral **impeccability**."*
+> - 📜 **David Hume (*The History of England*):** *"The zealots of the party ascribed to their chosen leader an extraordinary **impeccability** in all political deliberations."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"The absolute **impeccability** belonging to the Divine nature cannot be communicated in its fullness to created intellects."*

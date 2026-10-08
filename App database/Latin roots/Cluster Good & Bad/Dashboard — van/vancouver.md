@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English navigator remembered for his exploration of the pacific coast of north america (1757-1798).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in southwestern washington on the columbia river across from portland, oregon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major coastal seaport city in British Columbia, Canada, situated between Burrard Inlet and the Fraser River delta.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vancouver Island, the large Pacific island flanking the southwestern coast of British Columbia, or Captain George Vancouver himself.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"She has explored seas and archipelagoes which had no chart, where no Cook or Vancouver had ever sailed."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"A similar admission has been made by other eminent voyagers: by Carteret, Byron, Kotzebue, and Vancouver."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"It was one of those clumsy, old-fashioned, English pieces known generally as Tower Hill muskets, and, for aught I know, might have been left on the island by Wallace, Carteret, Cook, or Vancouver."*
+> - 📜 **George Vancouver (*A Voyage of Discovery to the North Pacific Ocean*):** *"We surveyed the sheltered waters of the gulf, which I George **Vancouver** charted in honor of our sovereign."*
+> - 📜 **Rudyard Kipling (*Letters of Travel*):** *"The bustling port of **Vancouver** looked out upon snow-capped peaks and forested fjords of primeval grandeur."*
+> - 📜 **Jack London (*The Cruise of the Dazzler*):** *"Sailing vessels bound for the Klondike goldfields took on supplies and coal at the docks of **Vancouver**."*

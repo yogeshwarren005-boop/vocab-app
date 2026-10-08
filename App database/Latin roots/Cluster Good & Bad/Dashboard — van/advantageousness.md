@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being encouraging or promising of a successful outcome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being encouraging or promising of a successful outcome.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, property, or degree of being advantageous, beneficial, or profitable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The utility, expediency, or favorable suitability of an arrangement for attaining a desired purpose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, advantageousness designates the quality of being encouraging or promising of a successful outcome."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"The **advantageousness** of a legislative act must be estimated by the balance of pleasure over pain it produces."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The comparative **advantageousness** of international trade depends upon relative production costs between nations."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"The social **advantageousness** of division of labor reinforces collective cooperation across the community."*

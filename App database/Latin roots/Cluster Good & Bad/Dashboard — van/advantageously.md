@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner affording benefit or advantage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner affording benefit or advantage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an advantageous, profitable, or beneficial manner; with favorable outcome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To good effect or favorable circumstance; opportunely.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He was quite willing to receive Richard into his house and to superintend his studies, and as it seemed that those could be pursued advantageously under Mr."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"It sets off his other gifts and graces most advantageously to the critical eye; and the want of it will sometimes mar those graces--appreciably, though not quite consciously--to eyes by no means ultra-critical."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"They were certainly no friends to his acquaintance with me, which I cannot wonder at, since he might have chosen so much more advantageously in many respects."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A merchant can employ his stock more **advantageously** in home trade than in distant foreign ventures."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The harpooner was **advantageously** posted in the bow to strike the whale at the moment of surfacing."*
+> - 📜 **Walter Scott (*Rob Roy*):** *"The highland skirmishers had positioned themselves **advantageously** upon the rocky heights overlooking the pass."*

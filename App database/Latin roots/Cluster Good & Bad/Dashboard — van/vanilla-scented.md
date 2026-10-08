@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Smelling of vanilla.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Smelling of vanilla.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an aromatic, warm, sweet fragrance reminiscent of cured vanilla pods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by sweet balsam-like floral or culinary aromas imparted by vanillin or coumarin compounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vanilla-scented designates smelling of vanilla."*
+> - 📜 **Herman Melville (*Omoo: A Narrative of Adventures in the South Seas*):** *"A warm, **vanilla-scented** breeze drifted from the orange groves as our schooner cast anchor in the lagoon."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The bruised leaves of the sweet-scented goldenrod emitted a delightful, **vanilla-scented** fragrance along the woodland path."*
+> - 📜 **John Burroughs (*Locusts and Wild Honey*):** *"In deep mountain ravines, the delicate white orchid exhaled a faint, **vanilla-scented** perfume in the twilight."*

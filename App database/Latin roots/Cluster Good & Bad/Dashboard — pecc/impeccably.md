@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flawlessly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flawlessly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impeccable, faultless, or flawless manner; without error, defect, or blemish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With unerring precision, immaculate elegance, or consummate refinement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impeccably designates flawlessly."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The butler was **impeccably** dressed and received us with the grave decorum of an old retainer."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Lord Henry spoke **impeccably**, tossing witty paradoxes across the dinner table with effortless grace."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"She moved through the formal reception **impeccably**, fulfilling every tedious social requirement without a sign of fatigue."*

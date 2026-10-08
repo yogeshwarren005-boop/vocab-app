@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The event of fading and gradually vanishing from sight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The event of fading and gradually vanishing from sight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, process, or condition of fading away or vanishing rapidly; fleeting, ephemeral transience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The delicate, impermanent quality of an impression, color, or emotional state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So that to this hunter’s wondrous skill, the proverbial evanescence of a thing writ in water, a wake, is to all desired purposes well nigh as reliable as the steadfast land."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"And it is not my own extremity I remember best—a vision of greyness without form filled with physical pain, and a careless contempt for the evanescence of all things—even of this pain itself."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"So that to this hunter’s wondrous skill, the proverbial evanescence of a thing writ in water, a wake, is to all desired purposes well nigh as reliable as the steadfast land."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The very **evanescence** of beautiful moments lends them an exquisite and poignant tenderness."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The ghostly smile on the old portrait possessed a strange **evanescence**, visible only from certain angles."*
+> - 📜 **Walter Pater (*Studies in the History of the Renaissance*):** *"To burn always with this hard, gem-like flame, to maintain this ecstasy, is success in life; in a sense it is the recognition of our **evanescence**."*

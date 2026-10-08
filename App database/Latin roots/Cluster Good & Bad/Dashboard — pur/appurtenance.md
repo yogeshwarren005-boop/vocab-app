@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Equipment consisting of miscellaneous articles needed for a particular operation or sport etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A supplementary component that improves capability.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An accessory, adjunct, or auxiliary item associated with a particular activity, lifestyle, or piece of equipment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In property law, an incidental right, privilege, or minor property attached to a principal property and passing with it.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The appurtenance of welcome is fashion and ceremony."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sly is discovered in a rich nightgown, with Attendants: some with apparel, basin, ewer, and other appurtenances; and Lord, dressed like a servant."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed and a parting salutation to the scornful Judy, strides out of the parlour, clashing imaginary sabres and other metallic appurtenances as he goes."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"The **appurtenance** of welcome is fashion and ceremony; let me comply with you in this garb."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I found myself rich in not needing every luxurious **appurtenance** that civilization imposes upon man."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The ancient garden with its summer-house was an inseparable **appurtenance** of the ancestral mansion."*

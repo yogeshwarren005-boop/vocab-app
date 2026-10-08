@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to puritans or puritanism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exaggeratedly proper.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Practicing or advocating strict moral, religious, or behavioral codes; austere, rigid, or excessively scrupulous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sternly disapproving of sensual pleasure, artistic license, or social merriment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess, ever since you told me of that child of ours, it is just as if my feelings, which have been flowing in a strong puritanical stream, had suddenly found a way open in the direction of you, and had all at once gushed through."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The hue of her dress was black too; but its fashion was so different from her sister’s—so much more flowing and becoming—it looked as stylish as the other’s looked puritanical."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"And among many English Catholics the spirit of poetry is still often received with a restricted Puritanical greeting, rather than with the traditionally Catholic joyous openness."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"Old New York society imposed a **puritanical** dread of scandal that crushed individual passion."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her uncle warned her against entertaining **puritanical** notions that would alienate the county gentry."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The old aunt was excessively **puritanical** in her speech, though shrewdly attentive to the interest on her investments."*

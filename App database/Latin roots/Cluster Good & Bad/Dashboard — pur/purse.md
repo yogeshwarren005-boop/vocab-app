@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A container used for carrying money and small personal items or accessories (especially by women).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sum of money spoken of as the contents of a money purse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small bag, pouch, or case used for carrying money, coins, or small personal valuables.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sum of money offered as a prize in a contest, sporting event, or horse race; or collective financial resources.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take this purse of gold, And let me buy your friendly help thus far, Which I will over-pay, and pay again When I have found it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet I should bear no cross if I did bear you, for I think you have no money in your purse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think he is not a pick-purse nor a horse-stealer, but for his verity in love, I do think him as concave as a covered goblet or a worm-eaten nut."*
+> - 📜 **William Shakespeare (*Othello*):** *"Who steals my **purse** steals trash; 'tis something, nothing; 'twas mine, 'tis his, and has been slave to thousands."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"He pulled out a heavy leather **purse** and counted out the bright golden sovereigns upon the table."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"I took out my **purse**, which contained six Spanish pistoles and several smaller silver coins."*

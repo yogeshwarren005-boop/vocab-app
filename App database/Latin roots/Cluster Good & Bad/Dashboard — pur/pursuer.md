@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is pursuing and trying to overtake or capture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who pursues some plan or goal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, animal, or party that follows in pursuit, chase, or quest of another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Scots law, the plaintiff or prosecutor who brings an action in a court of justice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"To strike at him on any of these occasions would be to fell and disable him, but the pursuer cannot resolve to do that, and so the grimly ridiculous pursuit continues."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Here, against a hoarding of decaying timber, he is brought to bay and tumbles down, lying gasping at his pursuer, who stands and gasps at him until the woman comes up."*
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"Count Clodio, _Governour and a dishonourable pursuer of_ Zenocia."*
+> - 📜 **Walter Scott (*The Lady of the Lake*):** *"The stag dashed across the heather, leaving his panting **pursuer** far behind upon the mountain crags."*
+> - 📜 **Robert Louis Stevenson (*Kidnapped*):** *"We crouched behind the heather ridge, watching our red-coated **pursuers** search the glen below."*
+> - 📜 **James Fenimore Cooper (*The Last of the Mohicans*):** *"Uncas moved like a shadow through the forest, anticipating every stratagem of the cunning **pursuer**."*

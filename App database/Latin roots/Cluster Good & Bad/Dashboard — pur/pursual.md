@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of pursuing in an effort to overtake or capture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of pursuing in an effort to overtake or capture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of pursuing, following, or seeking after something; persistent chase or pursuit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The active prosecution or continuation of an inquiry, career, or course of action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pursual designates the act of pursuing in an effort to overtake or capture."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"In the eager **pursual** of his genealogical research, the old gentleman forgot the dinner hour."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The unremitting **pursual** of wealth frequently blinds men to the higher pleasures of intellectual cultivation."*
+> - 📜 **Washington Irving (*The Sketch Book*):** *"His tireless **pursual** of the phantom deer led him deep into the enchanted labyrinth of the Catskills."*

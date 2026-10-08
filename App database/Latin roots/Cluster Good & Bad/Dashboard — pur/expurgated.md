@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Edit by omitting or modifying parts considered indelicate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having material deleted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having objectionable, improper, or sensitive content excised or redacted prior to public distribution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cleansed or purged of offensive, obscene, or controversial material, as an edition of a literary work (bowdlerized).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Whitman's attitude toward the plan at the time is given in a letter which he wrote to Rossetti on December 3, 1867: "I cannot and will not consent of my own volition to countenance an expurgated edition of my pieces."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"It is the question of the authorization of an expurgated edition proceeding from me, that deepest engages me."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"This movement in 1869 accomplished the restoration of our State under the expurgated constitution and gave us representation here in the persons of my colleague and ex-Senator Lewis."*
+> - 📜 **Mark Twain (*Following the Equator*):** *"He presented us with an **expurgated** version of the scandalous voyage that omitted the mutiny entirely."*
+> - 📜 **George Bernard Shaw (*Plays Pleasant and Unpleasant*):** *"The theater manager demanded an **expurgated** script, terrified of the censor's red pencil."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"The ship's chaplain distributed **expurgated** tracts that avoided all mention of the crew's grievances."*

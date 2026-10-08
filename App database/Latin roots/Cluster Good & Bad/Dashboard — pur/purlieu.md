@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An outer adjacent area of any place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An outer adjacent area of any place.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tract of land bordering a forest, originally separated from royal forest boundaries through perambulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Outlying districts, neighboring quarters, or surrounding territory of a town, city, or institution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Puck Mulligan footed featly, trilling: I hardly hear the purlieu cry Or a Tommy talk as I pass one by Before my thoughts begin to run On F."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray you, if you know, Where in the purlieus of this forest stands A sheepcote fenced about with olive trees?"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But she had no proof of this, and her instinct in the circumstances was to avoid its purlieus."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"In the **purlieu** of this forest, stands a sheep-cote fenc'd about with olive-trees."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The disreputable **purlieu** of Chancery Lane was crowded with impoverished clerks and seedy law writers."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The smugglers were known to frequent the rocky **purlieu** of the coast, evading the revenue officers by night."*

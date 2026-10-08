@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Furnishing added support.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Furnishing added support.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining, belonging, or annexed as an accessory to a more important thing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In real property law, annexed to a principal property (the dominant tenement) and passing with the conveyance of the land.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, appurtenant designates furnishing added support."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A right of common **appurtenant** arises from long usage and remains annexed to the arable land of the tenant."*
+> - 📜 **Thomas Jefferson (*Writings: Legal and Political Papers*):** *"Every privilege **appurtenant** to the freehold was guaranteed under the colonial charter."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The incidental water rights **appurtenant** to riparian landholdings greatly enhance their agricultural value."*

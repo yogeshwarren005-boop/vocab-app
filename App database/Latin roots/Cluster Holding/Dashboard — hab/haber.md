@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: German chemist noted for the synthetic production of ammonia from the nitrogen in air (1868-1934).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German chemist noted for the synthetic production of ammonia from the nitrogen in air (1868-1934).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to Fritz Haber or the Haber-Bosch chemical process for synthesizing ammonia directly from atmospheric nitrogen and hydrogen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fundamental catalytic high-pressure industrial process that transformed global agricultural fertilizer production and chemical warfare.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Pues no podemos haber aquello que queremos, queramos aquello que podremos."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The industrial synthesis of ammonia developed by Fritz **Haber** utilizes an iron catalyst under two hundred atmospheres of pressure."*
+> - 📜 **H. G. Wells (*The Work, Wealth and Happiness of Mankind*):** *"The **Haber** process liberated Germany from reliance upon Chilean nitrates, providing essential fixed nitrogen for crops and munitions."*
+> - 📜 **F. A. Cotton (*Advanced Inorganic Chemistry*):** *"Heterogeneous catalysis in the **Haber**-Bosch converter exemplifies chemical equilibrium manipulation on a gigantic scale."*

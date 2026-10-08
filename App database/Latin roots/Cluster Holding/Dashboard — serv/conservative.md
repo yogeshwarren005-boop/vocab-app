@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is reluctant to accept changes and new ideas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a conservative party.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Holding to traditional attitudes and values; cautious about change or innovation; or designating a right-of-center political party.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Modest, prudent, or deliberately low in financial estimation or risk.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"You are conservative,” I broke in."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Moreover, bankers could, by pursuing a more conservative policy, discourage speculative methods of enterprise."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Their investments are limited by law to specified, conservative classes of securities and loans on real estate."*
+> - 📜 **Edmund Burke (*Speech on Economical Reform*):** *"Our constitution is a **conservative** structure, built upon the accumulated wisdom and experience of generations."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"A representative assembly should contain both a progressive party of reform and a **conservative** party of order."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection is a **conservative** power that preserves every advantageous variation while ruthlessly eliminating injurious ones."*

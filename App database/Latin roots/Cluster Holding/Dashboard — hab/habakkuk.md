@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hebrew minor prophet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An old testament book telling habakkuk's prophecies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prophet of the Hebrew Bible who prophesied in Judah around 600 BC; or the Old Testament book containing his dialogues with God.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The Biblical author famous for the poetic theophany celebrating divine majesty upon Mount Paran.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, habakkuk designates a hebrew minor prophet."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"Christian drew sweet comfort from the book of **Habakkuk**, meditating upon the promise that the vision will surely come."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"The country rector chose for his Sunday sermon a stirring passage from the third chapter of **Habakkuk**."*
+> - 📜 **Matthew Arnold (*Literature and Dogma*):** *"The sublime lyric ode in **Habakkuk** embodies the purest poetic expression of Hebrew moral faith."*

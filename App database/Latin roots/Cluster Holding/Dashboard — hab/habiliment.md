@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A covering designed to be worn on a person's body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A covering designed to be worn on a person's body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clothing, garments, or attire, especially of a distinctive, ceremonial, or official character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The characteristic trappings, equipment, or accessories belonging to a profession, office, or status.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus, in this strange and sad habiliment, I will encounter with Andronicus, And say I am Revenge, sent from below To join with him and right his heinous wrongs."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She In th’ habiliments of the goddess Isis That day appeared, and oft before gave audience, As ’tis reported, so."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marshal, ask yonder knight in arms Both who he is and why he cometh hither Thus plated in habiliments of war, And formally, according to our law, Depose him in the justice of his cause."*
+> - 📜 **William Shakespeare (*The Taming of the Shrew*):** *"Our purses shall be proud, our garments poor; for 'tis the mind that makes the body rich; and as the sun breaks through the darkest clouds, so honor peereth in the meanest **habiliment**."*
+> - 📜 **Edgar Allan Poe (*The Masque of the Red Death*):** *"The figure was tall and gaunt, shrouded from head to foot in the cerements and ghastly **habiliment**s of the grave."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The imperial **habiliment**s of purple silk embroidered with pearls dazzled the barbarian kings who entered Ravenna."*

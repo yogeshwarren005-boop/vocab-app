@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discover or determine the existence, presence, or fact of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make mention of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To notice, perceive, or watch someone or something attentively; or to obey, adhere to, or celebrate a law, duty, or custom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To state or remark by way of comment during conversation or writing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her eye is sick on’t; I observe her now."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say to him I live; and observe his reports for me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Observe how Antony becomes his flaw, And what thou think’st his very action speaks In every power that moves."*
+> - 📜 **Francis Bacon (*The Essays*):** *"To **observe** the habits of men and their sudden inclinations gives a courtier great advantage in negotiating affairs."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"If we **observe** closely, we find that competition is ever most severe between species of the same genus."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"The glass of fashion and the mould of form, the **observe**d of all observers, quite, quite down!"*

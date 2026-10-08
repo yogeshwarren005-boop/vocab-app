@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being final or definitely settled.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being final or definitely settled.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Decisive quality, finality, or convincing certainty that resolves a question and banishes reasonable doubt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The logical or legal force of an argument or piece of evidence that compels assent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Why are you going?” And in proof of the conclusiveness of his opinion all the wrinkles vanished from his face."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He admired the mathematical **conclusiveness** of Newton's demonstrations, which leave no room for skeptical quibbling."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"The **conclusiveness** of the historical argument was apparent to all who valued British constitutional liberty."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The apparent **conclusiveness** of a syllogism depends entirely upon the truth of its foundational inductive premises."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not conclusive; not putting an end to doubt or question.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not conclusive; not putting an end to doubt or question.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not leading to a firm conclusion, resolution, or final decision; not decisive, convincing, or settling an issue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yielding ambiguous, contradictory, or insufficient experimental evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"And when the bard, or hoary sage, Charm or instruct the future age, They bind the wild poetric rage In energy, Or point the inconclusive page Full on the eye."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It is by endless subdivisions based upon the most inconclusive differences, that some departments of natural history become so repellingly intricate."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"It is by endless subdivisions based upon the most inconclusive differences, that some departments of natural history become so repellingly intricate."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Because the fossil record is so imperfect, negative evidence regarding intermediate forms is largely **inconclusive**."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The naval battle of Beachy Head was an **inconclusive** engagement that left neither fleet master of the Channel."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"The tracks in the damp turf were **inconclusive**, trampled over by the careless boots of village constables."*

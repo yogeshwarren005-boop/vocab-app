@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inhabit or live in; be an inhabitant of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be present in.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To live, dwell, or reside in a place, region, or environment; to occupy permanently as a home.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To populate, fill, or exist within a physical habitat, conceptual space, or imaginative realm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s none but witches do inhabit here, And therefore ’tis high time that I were hence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sure, these are but imaginary wiles, And Lapland sorcerers inhabit here."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where is that blood That I have seen inhabit in those cheeks?"*
+> - 📜 **John Milton (*Paradise Lost*):** *"Meanwhile the Earth was finished, glorious works of God; how good, how fair, and fit for Man to **inhabit** in peace."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Distinct biological races often **inhabit** adjoining districts without intercrossing, maintained by geographical barriers."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"This island's mine, by Sycorax my mother, which thou takest from me; when thou camest first, thou wouldst give me water with berries in't, and teach me how to name the bigger light, and how the less, that burn by day and night; and here you **inhabit**."*

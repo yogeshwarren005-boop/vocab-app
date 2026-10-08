@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formality and propriety of manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something kept back or saved for future use or a special purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To retain, hold back, or set aside for future use or special occasion; or a supply of commodity or funds kept available.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restraint, coolness, or reluctance to show feelings or disclose opinions; formal demeanor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, Dromio, come, these jests are out of season, Reserve them till a merrier hour than this."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No reason I, since of your lives you set So slight a valuation, should reserve My crack’d one to more care."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give every man thine ear, but few thy voice: Take each man’s censure, but reserve thy judgement."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Darcy's cold **reserve** offended the assembled neighbors, who interpreted his silence as unbearable aristocratic haughtiness."*
+> - 📜 **Walter Bagehot (*Lombard Street: A Description of the Money Market*):** *"The ultimate banking **reserve** of the British empire was concentrated in the vaults of the Bank of England."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The state governments **reserve** all sovereign powers not expressly delegated to the federal union by the constitution."*

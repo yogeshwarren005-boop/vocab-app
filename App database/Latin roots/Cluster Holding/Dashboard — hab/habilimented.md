@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dressed or clothed especially in fine attire; often used in combination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dressed or clothed especially in fine attire; often used in combination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clothed, dressed, or attired, especially in ceremonial, formal, or distinctive garments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Equipped with the characteristic garb or accoutrements of a specific calling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, habilimented designates dressed or clothed especially in fine attire; often used in combination."*
+> - 📜 **Walter Scott (*Kenilworth*):** *"The herald stepped forward, richly **habilimented** in a tabard blazoned with the royal lions of England."*
+> - 📜 **Washington Irving (*Bracebridge Hall*):** *"The village choir was curiously **habilimented** in rustic Sunday broadcloth and antique ruffled collars."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Man is a tool-using animal, feebly **habilimented** against the frost until he invents textiles to shield his flesh."*

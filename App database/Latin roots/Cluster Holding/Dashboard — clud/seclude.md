@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Keep away from others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Keep away from others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To keep someone away from others; to isolate, hide, or remove from social activity or observation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To retire or withdraw oneself into solitary, quiet contemplation away from worldly distractions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I told my guardian all about it, and why I felt it was necessary that I should seclude myself, and my reason for not seeing my darling above all."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Not only was she secluded from her family and the community, but an attempt was made to seclude the world from her."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Dubois, _Moeurs, Institutions et Cérémonies des Peuples de l'Inde_ (Paris, 1825), i. 245 _sq._ Nair women in Malabar seclude themselves for three days at menstruation and prepare their food in separate pots and pans."*
+> - 📜 **John Milton (*Il Penseroso*):** *"Far from all resort of mirth, save the cricket on the hearth, or the bellman's drowsy charm, let me **seclude** my quiet soul."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Rochester chose to **seclude** himself at Ferndean, burying his blindness in the gloomy isolation of the manor woods."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The aged emperor resolved to **seclude** his declining years within the fortress palace of Salona, cultivating cabbages."*

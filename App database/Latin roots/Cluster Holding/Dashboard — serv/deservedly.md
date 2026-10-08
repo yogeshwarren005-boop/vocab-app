@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As deserved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As deserved.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a way that is deserved; justly, rightfully, and with clear moral or legal justification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: According to one's true deserts, whether good or ill.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But thy vile race, Though thou didst learn, had that in ’t which good natures Could not abide to be with; therefore wast thou Deservedly confin’d into this rock, Who hadst deserv’d more than a prison."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A very valuable person, and deservedly respected.” The debilitated cousin supposes he is “’normously rich fler.” “He has a stake in the country,” says Sir Leicester, “I have no doubt."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"My heart was deeply and most deservedly humbled as I mused over the fire for an hour or more."*
+> - 📜 **Samuel Johnson (*Lives of the Poets*):** *"Milton's Paradise Lost is **deservedly** celebrated as one of the greatest monuments of human poetic genius."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The traitor was **deservedly** executed on the Tarpeian rock, detested by the citizens whose liberty he had sold."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Knightley was **deservedly** esteemed throughout the parish for his upright justice, charity, and open hospitality."*

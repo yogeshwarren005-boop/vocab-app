@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Block passage through.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Closed off.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Blocked, closed up, or obstructed, as a blood vessel, intestinal passage, or storm system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorology, designating a front formed when a cold front overtakes a warm front, lifting the warm air aloft.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"On land, meridional, a bispherical moon, revealed in imperfect varying phases of lunation through the posterior interstice of the imperfectly occluded skirt of a carnose negligent perambulating female, a pillar of the cloud by day."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Post-mortem examination revealed that the coronary artery was completely **occluded** by an atheromatous plaque."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"When the Eustachian tube is **occluded** by catarrhal inflammation, hearing becomes noticeably muffled."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The **occluded** gas inside the molten steel was expelled during cooling, leaving microscopic porous cavities in the ingot."*

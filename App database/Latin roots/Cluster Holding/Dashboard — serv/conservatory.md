@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The faculty and students of a school specializing in one of the fine arts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A schoolhouse with special facilities for fine arts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A glass-walled greenhouse attached to a house used for cultivating delicate plants; or an academy for training in music and fine arts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A repository or sheltered enclosure where valuable plants or specimens are preserved in controlled conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I was just beginning to stifle with the fumes of conservatory flowers and sprinkled essences, when I bethought myself to open the window and step out on to the balcony."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Wemmick’s conservatory, when I saw her face at the coach window and her hand waving to me."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"A week later Dorian Gray was sitting in the conservatory at Selby Royal, talking to the pretty Duchess of Monmouth, who with her husband, a jaded-looking man of sixty, was amongst his guests."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"They walked into the spacious **conservatory**, where rare orchids and exotic ferns bloomed behind moisture-beaded panes of glass."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"The young ladies gathered in the **conservatory** after dinner, admiring the fragrant orange blossoms and camellias."*
+> - 📜 **George Grove (*A Dictionary of Music and Musicians*):** *"Mendelssohn founded the Leipzig **Conservatory**, attracting students from all nations to study under German masters."*

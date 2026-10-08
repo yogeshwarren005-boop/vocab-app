@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A regular patron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A regular patron.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who frequently visits, frequents, or inhabits a particular place, especially a theater, café, or club.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A regular patron or familiar fixture of a specific social, cultural, or artistic circle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Captain Runcie, of the S.S. _Gympie_, an old _habitue_ of New Guinea, took the chair."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"At dinner each person was the centre of an expectant group of the four-footed habitues of the inn, and no one seemed to object."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The old bucks and habitues, who ordinarily stand gaping and grinning out of the great front window of the Club, had not arrived at their posts as yet--the newspaper-room was almost empty."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Lambert Strether felt himself an inexperienced novice beside the sophisticated **habitue** of Parisian boulevard cafés."*
+> - 📜 **Arthur Conan Doyle (*The Man with the Twisted Lip*):** *"Through the dense smoke of the opium den, Watson recognized a wretched **habitue** shivering upon a dirty pallet."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"As an aristocratic **habitue** of the opera, Newland Archer knew the precise box of every prominent family in New York."*

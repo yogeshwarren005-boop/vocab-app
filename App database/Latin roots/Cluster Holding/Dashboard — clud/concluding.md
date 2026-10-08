@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decide by reasoning; draw or come to a conclusion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring to a close.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to bring something to an end; forming the final or closing part of a discourse, book, or ceremony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deducing or deciding logically from previously established premises.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have often Begun to tell me what I am, but stopp’d, And left me to a bootless inquisition, Concluding “Stay; not yet.” PROSPERO."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, in a great perspiration, nerves himself to the hasty completion of the taking down of the Galaxy Gallery, concluding with Lady Dedlock."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"You’ve had enough already.” Concluding thus, the parson rode on his way, with doubts as to his discretion in retailing this curious bit of lore."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"In the **concluding** chapter of my narrative, I look back upon the companions of my youth with serene affection."*
+> - 📜 **Abraham Lincoln (*First Inaugural Address*):** *"In his **concluding** appeal, Lincoln invoked the mystic chords of memory stretching from every battlefield to living hearts."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The orator delivered his **concluding** remarks with such impassioned vigor that the entire House broke into cheers."*

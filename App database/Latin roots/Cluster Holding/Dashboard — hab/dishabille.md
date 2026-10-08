@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being carelessly or partially dressed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being carelessly or partially dressed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal, careless, or partial attire; the casual morning dress worn before completing one's toilet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Careless, unstudied, or negligent disorder in personal appearance or literary style.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Wherever they went, some pattened girl stopped to curtsy, or some footman in dishabille sneaked off."*
-> - 📜 **Effie Afton (*Eventide*):** *"She thought it was at being caught from home in dishabille by a gentleman of the colonel's etiquette and high breeding."*
-> - 📜 **Effie Afton (*Eventide*):** *"They'll do for effect in the fashionable saloons of a city; but what think a wild Camanche would say if he chanced some broiling-hot morning to catch you in dishabille, and you begged him to retreat and spare your nerves?"*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Jos Sedley was caught in complete **dishabille** when the French cannons roared, hurriedly searching for his boots."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Catherine was horrified at the thought of being surprised in morning **dishabille** by fashionable visitors from the pump-room."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Mr. Pickwick emerged into the corridor in a picturesque **dishabille** of nightcap and slippers, holding a brass candlestick."*

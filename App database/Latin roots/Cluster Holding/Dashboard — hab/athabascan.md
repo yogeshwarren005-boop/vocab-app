@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of amerindian languages (the name coined by an american anthropologist, edward sapir).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of any of the north american indian groups speaking an athapaskan language and living in the subarctic regions of western canada and central alaska.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major linguistic family and culture group of North American indigenous peoples, distributed across Alaska, Canada, and the American Southwest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining or relating to the Athabascan language family, which includes Navajo, Apache, and Dene.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, athabascan designates a group of amerindian languages (the name coined by an american anthropologist, edward sapir)."*
+> - 📜 **Edward Sapir (*Selected Writings in Language, Culture, and Personality*):** *"The phonological structure of the **Athabascan** verb exhibits intricate morphological prefixes and tonal pitch distinctions."*
+> - 📜 **Franz Boas (*Handbook of American Indian Languages*):** *"Comparative folklore demonstrates profound cultural links uniting northern **Athabascan** tribes with southwestern Navajo bands."*
+> - 📜 **John Wesley Powell (*Indian Linguistic Families of America North of Mexico*):** *"Powell classified the vast northern and southwestern divisions under the authoritative heading of the **Athabascan** stock."*

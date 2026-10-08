@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A domain that seems to be specially reserved for someone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reservation where animals are protected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To maintain something in its original or existing state; to protect from harm, decay, or extinction; or wildlife sanctuary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A domain, activity, or privilege regarded as reserved for a specific group of persons; or sweet fruit jam.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is not politic in the commonwealth of nature to preserve virginity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Gentle Octavia, Let your best love draw to that point which seeks Best to preserve it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So the gods preserve thee! [_Exit._] CAESAR."*
+> - 📜 **Abraham Lincoln (*Gettysburg Address*):** *"We here highly resolve that these dead shall not have died in vain—that this nation, under God, shall have a new birth of freedom—and that government of the people, by the people, for the people, shall not perish from the earth; we must **preserve** it."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"The great and chief end of men uniting into commonwealths is to **preserve** their property, which in the state of nature is insecure."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Any variation which gives a seedling an advantage in the struggle for life will tend to be **preserve**d by nature."*

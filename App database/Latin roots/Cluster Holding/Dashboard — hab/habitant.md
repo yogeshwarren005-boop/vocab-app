@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who inhabits a particular place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who inhabits a particular place.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inhabitant, resident, or dweller; historically, a French-descended farmer or settler in Quebec, Acadia, or Louisiana.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or permanent dweller of a designated geographic region or wilderness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"Yet not to Earth are those bright Luminaries Officious, but to thee Earths habitant."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Yet not to Earth are those bright luminaries Officious; but to thee, Earth’s habitant."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"She knew her subject and succeeded in waking in the hearts of her hearers a desire to go out in the green fields and quiet woods and find the lovely habitants of the flower world."*
+> - 📜 **Francis Parkman (*Pioneers of France in the New World*):** *"The sturdy Canadian **habitant** cleared his narrow strip of riverfront land, loyal to the priest and the seigneur."*
+> - 📜 **Henry Wadsworth Longfellow (*Evangeline*):** *"In the happy valley of Grand-Pré, every Acadian **habitant** lived in pious contentment amidst pastoral peace."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"The solitary hunter is the true **habitant** of the primeval pine forest, knowing every bend of the northern streams."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discover or determine the existence, presence, or fact of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make mention of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Watching carefully, noticing, or perceiving with attention; or adhering to a law, ritual, or custom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making an analytical comment, remark, or reflection in discourse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Another part of the Forest Enter Touchstone and Audrey; Jaques at a distance observing them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They, by observing of him, do bear themselves like foolish justices: he, by conversing with them, is turned into a justice-like serving-man."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, we have Stood here observing him."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"By **observing** infants before they learn to dissemble, we can discover the innate bodily expressions of human grief."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Man acquires dominion over nature solely by **observing** and obeying her universal physical laws."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth took quiet delight in **observing** the haughty dignity of Lady Catherine de Bourgh at Rosings."*

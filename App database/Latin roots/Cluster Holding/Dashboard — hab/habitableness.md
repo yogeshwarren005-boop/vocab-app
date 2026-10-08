@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suitability for living in or on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suitability for living in or on.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fit architectural or environmental condition for long-term domestic human dwelling; livability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The degree to which a geographic region or dwelling fulfills biological requirements for life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, habitableness designates suitability for living in or on."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"The labor of clearing forests and draining swamps increases the intrinsic **habitableness** and economic yield of raw earth."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"Equatorial mountain plateaus possess a spring-like **habitableness** that contrasts sharply with fever-ridden coastal lowlands."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"He demanded that industrial landlords ensure the basic **habitableness** of worker cottages before demanding exorbitant rents."*

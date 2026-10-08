@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Block passage through.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Block passage through.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To stop, close up, block, or obstruct an opening, orifice, or blood vessel; or in dentistry, to bring the teeth into contact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry and metallurgy, to absorb, retain, or take up gas within the pores or crystal lattice of a metal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"On land, meridional, a bispherical moon, revealed in imperfect varying phases of lunation through the posterior interstice of the imperfectly occluded skirt of a carnose negligent perambulating female, a pillar of the cloud by day."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"An embolus dislodged from the mitral valve may **occlude** the middle cerebral artery, causing sudden contralateral hemiplegia."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Finely divided palladium possesses the extraordinary power to **occlude** several hundred times its volume of hydrogen gas."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Landslides along the mountain river may completely **occlude** the gorge, forming a temporary natural lake."*

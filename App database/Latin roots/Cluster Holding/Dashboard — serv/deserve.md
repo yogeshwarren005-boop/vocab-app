@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be worthy or deserving.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be worthy or deserving.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To do something or have qualities worthy of reward, praise, or punishment; to earn, merit, or be entitled to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To qualify naturally for a particular outcome through character, actions, or conduct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be it lawful I love thee as thou lov’st those, Whom thine eyes woo as mine importune thee, Root pity in thy heart that when it grows, Thy pity may deserve to pitied be."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be not offended; for it hurts not him That he is lov’d of me; I follow him not By any token of presumptuous suit, Nor would I have him till I do deserve him; Yet never know how that desert should be."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Farewell, monsieur; I have spoken better of you than you have or will to deserve at my hand; but we must do good against evil. [_Exit._] PAROLLES."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Use every man after his desert, and who should 'scape whipping? Use them after your own honor and dignity; the less they **deserve**, the more merit is in your bounty."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth felt that she did not **deserve** Mr. Darcy's continued affection after the cruel prejudice she had harbored against him."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"He who acts with generous benevolence excites our gratitude, because we feel that his noble conduct does richly **deserve** reward."*

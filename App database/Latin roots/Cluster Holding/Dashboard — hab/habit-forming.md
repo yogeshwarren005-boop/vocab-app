@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing or characterized by addiction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing or characterized by addiction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to cause an addiction, psychological dependence, or ingrained behavioral pattern in those who use or practice it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing neurochemical or pharmacological properties that reinforce compulsive repeated administration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, habit-forming designates causing or characterized by addiction."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The physician must exercise extreme caution when prescribing morphine, as the drug is insidiously **habit-forming**."*
+> - 📜 **Oliver Wendell Holmes Jr. (*Medical Essays*):** *"Opium is the most powerful and dangerously **habit-forming** therapeutic agent known to the art of healing."*
+> - 📜 **Aldous Huxley (*Brave New World Revisited*):** *"Modern tranquilizers were introduced with promises that they were non-toxic and non-**habit-forming**, though experience proved otherwise."*

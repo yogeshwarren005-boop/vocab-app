@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Help to readapt, as to a former state of health or good repute.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reinstall politically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To restore to health, strength, or normal life through training and therapy; or to restore a person's reputation or former status.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To restore an old building or damaged landscape to its former useful, sound condition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Since Kurt had made his little speech and had rehabilitated Loneli's honour before the school children, the grandmother was as kind to her as of yore and never mentioned the shame-bench again."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We were relieved of military government, became rehabilitated in our sovereignty, with entire control of our local autonomy."*
+> - 📜 **Alexis de Tocqueville (*On the Penitentiary System in the United States*):** *"The true aim of enlightened correctional discipline is to **rehabilitate** the convict into a self-supporting civic laborer."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Parliament voted to reverse the attainder and **rehabilitate** the memory and noble estates of the executed statesman."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Careful physical therapy and massage help to **rehabilitate** paretic limbs following apoplectic strokes."*

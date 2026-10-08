@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an observant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an observant manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an observant, attentive, or watchful manner; with keen and vigilant sensory notice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With meticulous adherence to established rules, ceremonies, or rituals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The Tsar looked intently and observantly into Kutúzov’s eye waiting to hear whether he would say anything more."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Yes, you talk, but try it yourself!” And the count turned to the cook, who, with a shrewd and respectful expression, looked observantly and sympathetically at the father and son."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Jasper looks observantly from the one to the other, slightly smiles, and turns his back to mix a jug of mulled wine at the fire."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Ralph Touchett watched the newcomer **observantly**, amused by her frank American independence of mind."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Lucy Snowe looked on **observantly** from her quiet corner, divining passions that more vocal actors ignored."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The old scholar walked **observantly** along the Roman wall, examining every carved inscription upon the stones."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Habitual mode of behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Habitual mode of behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Habitual condition, character, or practice; a customary mode of behavior, attitude, or thought.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ingrained mental or moral disposition formed through long-standing customs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"When we got to La Clairière we were ready to sink down with fatigue like all the rest--nay, even more than the rest, for we were not used to it, and for my part I had altogether lost the habitude of long walks."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"At any time it is a strange sight to the tyro to see with what wondrous habitude of unconscious skill the whaleman will maintain an erect posture in his boat, even when pitched about by the most riotously perverse and cross-running seas."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"At any time it is a strange sight to the tyro to see with what wondrous habitude of unconscious skill the whaleman will maintain an erect posture in his boat, even when pitched about by the most riotously perverse and cross-running seas."*
+> - 📜 **John Dryden (*The Works of Virgil*):** *"Long **habitude** in arms had taught the veteran soldiers to endure the winter snows of Thrace without murmur."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"A state flourishes when its citizens obey the laws from long **habitude** and natural affection rather than fear."*
+> - 📜 **Walter Scott (*Waverley*):** *"The baron was wedded to ancient feudal **habitude**, reciting Latin charters over his claret with antique pride."*

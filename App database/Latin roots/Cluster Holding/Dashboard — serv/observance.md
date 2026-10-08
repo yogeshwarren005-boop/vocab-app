@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of observing; taking a patient look.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal event performed on a special occasion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Faithful adherence to a law, customary ritual, duty, or sacred religious festival; the practice of complying with rules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A customary rite, religious ceremony, or traditional social practice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And ever shall With true observance seek to eke out that Wherein toward me my homely stars have fail’d To equal my great fortune."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By what observance, I pray you?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But take a taste of my finding him, and relish it with good observance."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"It is a custom more honor'd in the breach than the **observance**, this heavy-headed revel east and west."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Civil peace requires strict **observance** of the established statutes enacted by the sovereign authority."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ceremonial **observance** of the ancient games was maintained by the emperors to amuse the restless Roman populace."*

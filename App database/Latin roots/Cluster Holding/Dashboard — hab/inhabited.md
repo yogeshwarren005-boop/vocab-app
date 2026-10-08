@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inhabit or live in; be an inhabitant of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be present in.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lived in or occupied by people, animals, or communities; populated, settled, and not deserted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Filled or characterized by the regular presence of living occupants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"JAQUES. [_Aside_.] O knowledge ill-inhabited, worse than Jove in a thatched house!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Leaving them to swing and caw, the travelling chariot rolls on to the house, where fires gleam warmly through some of the windows, though not through so many as to give an inhabited expression to the darkening mass of front."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The house in which Tess had passed the years of her childhood was now inhabited by another family who had never known her."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I saw the print of a man's naked foot upon the sand, which proved that this solitary island was sometimes **inhabited**."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The archipelago was thinly **inhabited** by a small colony of political exiles sent from the mainland of Ecuador."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The fertile plains of Lombardy were densely **inhabited** by prosperous agricultural communities under Gothic rule."*

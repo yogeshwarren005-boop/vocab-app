@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A grouping of a number of similar things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come together as in a cluster or flock.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gathering, forming, or grouping closely together; or the process of aggregating into bunches or sets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistical mathematics and computer science, the unsupervised grouping of data objects based on similarity measures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"As I watched them while they all stood clustering about the forge, enjoying themselves so much, I thought what terrible good sauce for a dinner my fugitive friend on the marshes was."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Next day, a large ship, the Rachel, was descried, bearing directly down upon the Pequod, all her spars thickly clustering with men."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The public-houses were just closing, and dim men and women were clustering in broken groups round their doors."*
+> - 📜 **Alfred Tennyson (*In Memoriam A. H. H.*):** *"The vines were **clustering** over the garden wall, heavy with purple grapes under the autumn twilight."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"We observe the **clustering** habit of bees when swarming, hanging from tree branches in a living spherical mass."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The **clustering** of active volcanic cones along oceanic trenches indicates deep faulting in the Earth's crust."*

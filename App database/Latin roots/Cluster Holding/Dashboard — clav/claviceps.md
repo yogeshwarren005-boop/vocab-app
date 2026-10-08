@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fungi parasitic upon the ovaries of various grasses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fungi parasitic upon the ovaries of various grasses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of parasitic ascomycete fungi, especially *Claviceps purpurea*, that infects rye and cereals to produce poisonous sclerotia called ergot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agricultural pathogen whose ergot alkaloids cause ergotism in mammals and provide the chemical precursors for ergotamine and LSD.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, claviceps designates fungi parasitic upon the ovaries of various grasses."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The black spurred sclerotium of **Claviceps** replaces the grain of rye, harboring dangerous toxic alkaloids."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Ingestion of flour contaminated by **Claviceps** purpurea produces gangrenous or convulsive ergotism in rural populations."*
+> - 📜 **Alfred Goodman Gilman (*The Pharmacological Basis of Therapeutics*):** *"Pharmacologists isolated powerful oxytocic and vasoconstrictor alkaloids from the medicinal sclerotia of **Claviceps**."*

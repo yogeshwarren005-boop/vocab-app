@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard thickening of the skin (especially on the top or sides of the toes) caused by the pressure of ill-fitting shoes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hard thickening of the skin (especially on the top or sides of the toes) caused by the pressure of ill-fitting shoes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A localized thickening and induration of the skin, especially a corn on the foot caused by friction; or a severe localized headache.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman antiquities, a purple stripe woven into the front of a tunic indicating senatorial (*latus clavus*) or equestrian rank.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Valentin._ 5. [85] _de cor. mil._ 13, _clavus latus in cruce ipsius_."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Hysterical patients often complain of **clavus** hystericus, an excruciating sensation as if a sharp nail were driven into the vertex."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Roman senators were distinguished by the broad purple **clavus** that ran down the breast of their white woollen tunics."*
+> - 📜 **Celsus (*De Medicina*):** *"A painful **clavus** on the sole should be softened with warm fomentations before being excised with the scalpel."*

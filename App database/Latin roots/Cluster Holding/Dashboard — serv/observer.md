@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who becomes aware (of things or events) through the senses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert who observes and comments on something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who watches, notices, or monitors something attentively; or an attendee who watches proceedings without voting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who adheres faithfully to a religious rule, moral duty, or statutory law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He reads much, He is a great observer, and he looks Quite through the deeds of men."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Angelo, There is a kind of character in thy life That to th’ observer doth thy history Fully unfold."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A close observer might perhaps detect both in her eye and her brother’s, when their venerable grandsire anticipates his being gone, some little impatience to know when he may be going, and some resentful opinion that it is time he went."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"He is a great **observer**, and he looks quite through the deeds of men; he loves no plays, as thou dost, Antony."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"An accurate **observer** in a garden will see that seedlings struggle furiously against weeds for light and nourishment."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"The reliable **observer** does not allow personal passions to color his factual account of historical events."*

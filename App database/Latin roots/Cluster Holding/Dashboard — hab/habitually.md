@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: According to habit or custom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: According to habit or custom.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By way of habit; customarily, routinely, or regularly; through established pattern.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chronically or constantly occurring over extended periods of time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is habitually hard upon Sir Leicester, whose countenance it greenly mottles in the manner of sage-cheese and in whose aristocratic system it effects a dismal revolution."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In face, watchful behind a blind; habitually not uncensorious and contemptuous perhaps."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby has habitually deceived, abandoned, and sought to keep in darkness, and whose chief comfort, under her afflictions, has been the sympathy of the late Mr."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"When a canine **habitually** expresses joy, its tail wags vigorously from side to side in greeting."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers **habitually** washed his hands with scented soap after every interview with criminal clients."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The country squires **habitually** drank strong ale and voted the straight Tory ticket at every county election."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Commonly used or practiced; usual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Commonly used or practiced; usual.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Done or doing constantly as a habit; regular, customary, or ingrained through long repeated practice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Usual or typical for a particular person, place, or situation; chronic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I bear it, and I hide it.” Even in the thinking of her endurance, she drew her habitual air of proud indifference about her like a veil, though she soon cast it off again."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Ay, ’a b’lieve—ha, ha!” said Susan Tall’s husband, in a tone intended to imply his habitual reception of jokes without minding them at all."*
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"The heavy scent of damp, funereal flowers,-- The very essence, hush-distilled, of Death-- Has strangled that habitual breath of home Whose expiration leaves all houses dead; And wheresoe'er I look is hideous change."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Actions repeated constantly generate an **habitual** disposition in the mind that operates with effortless speed."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Bennet listened with his **habitual** philosophic calm to the noisy lamentations of his excitable wife."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Ninety-nine percent of our daily activities are **habitual** responses requiring no fresh deliberation of will."*

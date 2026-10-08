@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not conclusively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not conclusively.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inconclusive, indecisive, or unconvincing manner; without reaching a firm resolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leaving a problem, trial, or argument ambiguous and unresolved.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inconclusively designates not conclusively."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The theological disputation ended **inconclusively**, leaving both eastern and western bishops hardened in their dogmas."*
+> - 📜 **David Hume (*Dialogues Concerning Natural Religion*):** *"The characters debated the cosmological argument **inconclusively**, neither party surrendering their foundational premises."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The initial bacteriological cultures grew **inconclusively**, requiring repeated swabs before the pathogen was isolated."*

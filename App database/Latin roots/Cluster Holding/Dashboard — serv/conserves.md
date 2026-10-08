@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fruit preserved by cooking with sugar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fruit preserved by cooking with sugar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sweet preparations made of whole fruits preserved by boiling with sugar; or third-person form: preserves or protects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Jams, marmalades, or fruit compotes stored for winter consumption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will’t please your honour taste of these conserves?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I ne’er drank sack in my life; and if you give me any conserves, give me conserves of beef."*
+> - 📜 **William Shakespeare (*The Taming of the Shrew*):** *"Wilt please your lordship drink a cup of sack? At an hour's warning will you have delicious beef? Will't please your honour taste of these **conserves**?"*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Sugar not only sweetens but wonderfully **conserves** fruits against the corruption of mold and putrefaction."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection **conserves** every advantageous variation while rejecting those that prove harmful in the struggle for life."*

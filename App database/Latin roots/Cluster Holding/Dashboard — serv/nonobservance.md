@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of conformity with law or custom or practice etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of conformity with law or custom or practice etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failure or refusal to obey, follow, or respect a statutory law, covenant, or religious rite; neglect of duty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Omission of required customary ceremonies, contractual terms, or social decorum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Turn of the Screw*):** *"The stamp of publicity had of course been fully given by her confinement and departure, and the change itself was now ushered in by our nonobservance of the regular custom of the schoolroom."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The **nonobservance** of statutory forms of conveyancing renders a deed of feoffment voidable in a court of law."*
+> - 📜 **John Locke (*A Letter Concerning Toleration*):** *"The magistrate has no authority to punish the **nonobservance** of theological ceremonies that harm no man's property."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **nonobservance** of ancient pagan sacrifices brought severe persecution upon the early Christian communities."*

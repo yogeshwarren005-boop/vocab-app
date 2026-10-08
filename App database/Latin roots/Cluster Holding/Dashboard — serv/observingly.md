@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an observant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an observant manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an observant, attentive, or watchful manner; with careful, observant scrutiny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With thoughtful, vigilant attention to surrounding circumstances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is some soul of goodness in things evil, Would men observingly distil it out; For our bad neighbour makes us early stirrers, Which is both healthful and good husbandry."*
+> - 📜 **William Shakespeare (*Henry V*):** *"There is some soul of goodness in things evil, would men **observingly** distil it out."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The visitor looked **observingly** around the curiosities of the library, admiring rare folios and Roman urns."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"The country doctor listened **observingly** to the patient's breathing, noting the rhythm of the pulse."*

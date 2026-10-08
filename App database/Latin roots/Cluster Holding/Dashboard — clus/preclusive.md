@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Made impossible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Made impossible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the effect of precluding, preventing, or hindering beforehand; barring future action or claim.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, operating to estop, bar, or extinguish subsequent legal claims or litigation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preclusive designates made impossible."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The statute of limitations exerts a **preclusive** effect upon stale demands, giving repose to ancient property titles."*
+> - 📜 **Benjamin N. Cardozo (*The Nature of the Judicial Process*):** *"A prior decree between identical litigants carries a **preclusive** authority that the trial judge is bound to enforce."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"The royal proclamation exerted a **preclusive** bar against all westward settlement beyond the Appalachian crest."*

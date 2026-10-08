@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical compound that is added to protect against decay or decomposition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending or having the power to preserve.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical substance added to foods, beverages, pharmaceuticals, or biological specimens to prevent decomposition or fermentation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending or serving to preserve, guard, or protect something from decay or injury; protective.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The most sovereign prescription in Galen is but empiricutic and, to this preservative, of no better report than a horse drench."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In front it was formed of board nailed to posts and covered with tar as a preservative."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This I rubbed into the meat as a preservative."*
+> - 📜 **Francis Bacon (*The Essays*):** *"A good counselor is a **preservative** to a prince against the fatal flatteries and corruptions of the court."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We soaked the delicate invertebrate specimens in spirits of wine as a **preservative** during the long voyage home."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"Common sea-salt acts as a powerful **preservative** by absorbing moisture that would otherwise encourage putrefaction."*

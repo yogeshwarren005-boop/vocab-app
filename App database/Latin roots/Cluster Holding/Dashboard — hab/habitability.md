@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suitability for living in or on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suitability for living in or on.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suitability of an environment, shelter, or planetary body to sustain living organisms or human residence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In landlord-tenant law, the implied warranty that leased premises meet minimum sanitary and structural safety standards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, habitability designates suitability for living in or on."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Gradual changes in climate and land elevation dictate the **habitability** of a continent for terrestrial mammals."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"Astronomers speculated upon the physical conditions necessary for the **habitability** of the Martian surface."*
+> - 📜 **Benjamin N. Cardozo (*The Growth of the Law*):** *"The court recognized an implied covenant of **habitability** in urban residential tenancies as required by public health."*

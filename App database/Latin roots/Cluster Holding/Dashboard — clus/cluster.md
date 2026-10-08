@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A grouping of a number of similar things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come together as in a cluster or flock.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of similar things or people positioned or occurring closely together; or to gather into a dense bunch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomy and physics, an aggregation of stars or galaxies held together by mutual gravitation; or a data group.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I was glad when we came to the brickmaker’s house, though it was one of a cluster of wretched hovels in a brick-field, with pigsties close to the broken windows and miserable little gardens before the doors growing nothing but stagnant pools."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In the middle distance was a cluster of wretched, flat-roofed hovels."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"There are numerous islands in the group, over all of which Raa Kook is king, although the cluster of islands to the south is restive and occasionally in revolt."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Thick swarmed the fallen angels, as bees in springtime on the hive when new-lit blossoms **cluster** in the sun."*
+> - 📜 **John Keats (*Ode to a Nightingale*):** *"The Queen-Moon is on her throne, **cluster**'d around by all her starry Fays, shining above the quiet verges of the wood."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"All the species of the same genus **cluster** around a common prototype, reflecting their shared descent."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fit for habitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fit for habitation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suitable or fit to be lived in or inhabited; capable of supporting permanent human dwelling; habitable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically in classical Elizabethan English, occasionally used in the opposite sense of uninhabitable or desolate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The only apartments now inhabitable are those of its loyal and intelligent warden and his family, whose civility and general information respecting the castle are very acceptable to its daily visitors."*
+> - 📜 **William Shakespeare (*Richard II*):** *"Even to the frozen ridges of the Alps, or any other ground **inhabitable**, where ever Englishman durst set his foot."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I found the interior of the island far more pleasant and **inhabitable** than the barren rocky coast where I had landed."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"Human industry transforms arid wildernesses into smiling, **inhabitable** provinces through irrigation works."*

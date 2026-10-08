@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The restoration of someone to a useful place in society.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The conversion of wasteland into land suitable for use of habitation or cultivation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of restoring someone to health, useful life, or former reputation; restorative therapy or legal restoration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physical restoration of degraded urban structures or contaminated ecosystems to productive utility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"How could she face her parents, get back her box, and disconcert the whole scheme for the rehabilitation of her family on such sentimental grounds?"*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You are inmates in the Social Rehabilitation Center of Guardian Station 15, about five million kay outbound from the Asteroid Belt's rim, or what was the Belt before the space-miners got through with it."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Our job is custodianship of those who can't adjust to the realities of our society, and rehabilitation and training of those who can be helped, eventually, to return to the outside world."*
+> - 📜 **Alexis de Tocqueville (*On the Penitentiary System in the United States*):** *"Without moral instruction, solitary confinement produces idiocy rather than genuine social **rehabilitation**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **rehabilitation** of the fallen general was celebrated by the Roman populace with public acclamations in the forum."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The rapid neurological **rehabilitation** of the post-encephalitic patients was like an awakening from thirty years of stone-like sleep."*

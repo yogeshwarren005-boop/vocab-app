@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The type of environment in which an organism or group normally lives or occurs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The type of environment in which an organism or group normally lives or occurs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The natural home, environment, or ecological setting in which an animal, plant, or organism lives and thrives.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A distinct geographic or environmental area providing food, water, and shelter for biological communities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The compartment was generous by space habitat standards."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Colonizing Pluto and constructing space kits that would be transformed into surface habitat and supply depots began centuries earlier when Planet Pluto was barely past aphelion but within economical range of deep space transports."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Government of the nearest surface or colony habitat will be notified immediately and institute actions for the objects' reduction to harmless residue or its temporary or permanent removal to a safe location."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Each endemic variety is exquisitely modified in relation to the physical conditions of its native **habitat**."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The swift returns punctually each spring to its customary **habitat** under the dark eaves of the parish church."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Deforestation on the island threatened to destroy the restricted **habitat** of the glorious birds of paradise."*

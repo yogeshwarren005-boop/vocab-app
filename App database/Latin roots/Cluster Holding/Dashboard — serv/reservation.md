@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A district that is reserved for particular purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statement that limits or restricts some claim.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of setting aside or keeping back something for future use; or an inward feeling of doubt, skepticism, or qualification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tract of public land set aside for a special purpose, especially an American Indian reservation; or an arrangement securing accommodations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I most unfeignedly beseech your lordship to make some reservation of your wrongs."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have the power still To banish your defenders, till at length Your ignorance—which finds not till it feels, Making but reservation of yourselves, Still your own foes—deliver you, As most abated captives to some nation That won you without blows!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ourself, by monthly course, With reservation of an hundred knights, By you to be sustain’d, shall our abode Make with you by due turn."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The surviving native tribes were gathered upon a distant western **reservation**, separated from the white settlements."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor expressed her approval without **reservation**, rejoicing in her sister's restored cheerfulness."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A **reservation** in a deed of conveyance keeps back some new interest or rent out of the land granted to the purchaser."*

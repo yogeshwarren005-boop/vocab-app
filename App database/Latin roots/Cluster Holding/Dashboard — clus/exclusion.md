@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being excluded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being excommunicated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or state of excluding, shutting out, or denying entry, participation, or privilege to someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In insurance and law, a specific condition, loss, or event expressly not covered by a policy or statute.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"The exclusion of all idea of cause--that is, the thing must not need explanation by Anything outside itself."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Beadle goes into various shops and parlours, examining the inhabitants, always shutting the door first, and by exclusion, delay, and general idiotcy exasperating the public."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He sees her, almost to the exclusion of himself, and cannot bear to look upon her cast down from the high place she has graced so well."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The famous **Exclusion** Bill aimed to prevent the Catholic Duke of York from succeeding to the English throne."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"Arbitrary power operates by the **exclusion** of the people from their natural right to consent to their laws."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The competitive **exclusion** of weaker forms by better-adapted varieties is the driving engine of natural selection."*

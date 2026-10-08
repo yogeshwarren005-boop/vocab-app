@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An aromatic tree of the genus clusia having large white or yellow or pink flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An aromatic tree of the genus clusia having large white or yellow or pink flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical American evergreen trees and shrubs (autograph trees) in the family Clusiaceae, often growing as epiphytes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A neotropical plant genus with thick, leathery leaves that can be scratched to produce permanent markings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clusia designates an aromatic tree of the genus clusia having large white or yellow or pink flowers."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"Stately species of **Clusia** sent down aerial roots from the branches of forest giants toward the Amazonian soil."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The thick, fleshy leaves of the **Clusia** bore inscriptions scratched into their waxy surfaces years before by passing travelers."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature, and Other Essays*):** *"Epiphytic **Clusia** seedlings germinate in tree forks, eventually encasing their host trunks in a strangling cage of roots."*

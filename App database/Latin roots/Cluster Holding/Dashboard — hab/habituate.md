@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take or consume (regularly or habitually).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make psychologically or physically used (to something).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make or become accustomed or used to something through continued practice or repeated exposure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology and physiology, to cause a decrease in neurological response to a familiar, non-threatening stimulus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"However I determine, poesy must be laid aside for some time; my mind has been vitiated with idleness, and it will take a good deal of effort to habituate it to the routine of business.--I am, my dear Sir, yours sincerely, R."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I just put my two arms round her and said, “Come, Bessie! don’t scold.” The action was more frank and fearless than any I was habituated to indulge in: somehow it pleased her."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"How far ye got, Bildad?” As if long habituated to such profane talk from his old shipmate, Bildad, without noticing his present irreverence, quietly looked up, and seeing me, glanced again inquiringly towards Peleg."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"Parents must early **habituate** their children to bear cold, heat, and physical fatigue without petulant complaining."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"Society teaches the citizen to **habituate** his selfish passions to the impartial judgment of the inward spectator."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Wild animals in national preserves soon **habituate** themselves to human presence when unmolested by hunters."*

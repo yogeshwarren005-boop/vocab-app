@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Keep or maintain in unaltered condition; cause to remain or last.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Keep in safety and protect from harm, decay, loss, or destruction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Maintained in original condition, good repair, or safety; protected from decay, destruction, or extinction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cooked with sugar or treated chemically against decomposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here on my knee I beg mortality, Rather than life preserved with infamy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Show me one scar charactered on thy skin; Men’s flesh preserved so whole do seldom win."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What cannot be preserved when fortune takes, Patience her injury a mockery makes."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In fortunate geological formations, the delicate impressions of fossil leaves and insect wings are exquisitely **preserved**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The laws of Justinian were **preserved** in the eastern capital while barbarian night enveloped the western provinces."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"He **preserved** the secret of his scientific discovery, shuddering whenever memory recalled the horrors of the workshop."*

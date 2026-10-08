@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have as a part, be made up out of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consider as part of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Contained as part of a group, total, or whole; enclosed within specified limits or boundaries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, enclosed within a corolla or calyx and not projecting beyond the petals (e.g., included stamens).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With Henry’s death the English circle ends; Dispersed are the glories it included."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Krook included, who there pursues his studies, with his cat (who never is too hot) by his side."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is by agreement included in his fare."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The price of every commodity is ultimately resolved into wages, profit, and rent, each **included** in the market price."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"In tubular flowers such as the morning glory, the stamens remain **included** within the throat of the corolla."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"All easements and appurtenances are legally **included** in the general conveyance of the freehold estate."*

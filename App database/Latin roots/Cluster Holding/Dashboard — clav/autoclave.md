@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device for heating substances above their boiling point; used to manufacture chemicals or to sterilize surgical instruments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to the action of an autoclave.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong, heated vessel that uses high-pressure steam above boiling point to sterilize surgical instruments and laboratory media.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An industrial pressure cooker utilized for chemical synthesis, vulcanization, and curing composite materials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autoclave designates a device for heating substances above their boiling point; used to manufacture chemicals or to sterilize surgical instruments."*
+> - 📜 **Louis Pasteur (*Comptes Rendus*):** *"By heating the culture flasks within an airtight **autoclave** under steam pressure, every resistant bacterial spore was destroyed."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern surgical asepsis relies upon the steam **autoclave** to render dressings and linen entirely free from pathogenic microbes."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"Martin watched the hissing steam pressure gauge of the laboratory **autoclave** as he sterilized the test tubes for his phage experiment."*

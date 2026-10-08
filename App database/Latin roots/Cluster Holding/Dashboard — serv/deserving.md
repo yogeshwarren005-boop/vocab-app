@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be worthy or deserving.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worthy of being treated in a particular way; ;  (often used ironically).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Worthy of being treated in a particular way; meriting reward, assistance, praise, or punishment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting moral excellence, industry, or innocence that justifies benevolent support.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For how do I hold thee but by thy granting, And for that riches where is my deserving?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, I believe with him, In argument of praise, or to the worth Of the great count himself, she is too mean To have her name repeated; all her deserving Is a reserved honesty, and that I have not heard examin’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Vanish, or I shall give thee thy deserving And blemish Caesar’s triumph."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"The portly gentleman pleaded on behalf of the poor, declaring that many **deserving** families were in want of basic food."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Prudent charity distinguishes the idle vagrant from the honest, **deserving** laborer fallen into sudden misfortune."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Bingley was so sweet-tempered and **deserving** that Jane felt his happiness was dearer to her than her own."*

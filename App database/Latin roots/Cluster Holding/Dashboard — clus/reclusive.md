@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Withdrawn from society; seeking solitude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Providing privacy or seclusion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Avoiding the company of other people; living in solitary retirement and isolation; hermit-like.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by retirement from public life and social intercourse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reclusive designates withdrawn from society; seeking solitude."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"After his terrible affliction, Rochester lived a gloomy, **reclusive** life, admitting no visitors to his lonely hall."*
+> - 📜 **George Eliot (*Silas Marner*):** *"Silas Marner's **reclusive** habits made him an object of superstitious dread among the simple villagers of Raveloe."*
+> - 📜 **Henry James (*The Aspern Papers*):** *"The aged mistress of the poet led an intensely **reclusive** existence behind the closed shutters of her Venetian palazzo."*

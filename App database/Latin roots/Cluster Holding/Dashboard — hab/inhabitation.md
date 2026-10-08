@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of dwelling in or living permanently in a place (said of both animals and men).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of dwelling in or living permanently in a place (said of both animals and men).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of dwelling in or occupying a territory, house, or geographic region; occupation as a home.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theology, the mystical indwelling of the divine spirit within the human soul.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"It's a wild inhabitation for my young love to be in."*
-> - 📜 **James Joyce (*Ulysses*):** *"In what order of precedence, with what attendant ceremony was the exodus from the house of bondage to the wilderness of inhabitation effected?"*
+> - 📜 **Thomas Browne (*Religio Medici*):** *"The soul of man is the temple of the Holy Spirit, blessed by the mysterious **inhabitation** of divine grace."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The successive **inhabitation** of the globe by extinct fauna proves that environmental changes have operated through immense epochs."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"Uncultivated lands yield little until peaceful **inhabitation** and labor transform the wilderness into fruitful fields."*

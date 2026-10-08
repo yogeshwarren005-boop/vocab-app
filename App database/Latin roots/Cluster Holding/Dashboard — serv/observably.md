@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a noticeable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a noticeable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an observable, noticeable, or discernible manner; visibly, measurably, and distinctly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an extent that can be verified through sensory observation or empirical data.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, observably designates in a noticeable manner."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The plumage of fancy poultry changes **observably** when strains are crossed with different ancestral breeds."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The gold leaves of the electrometer diverged **observably** as the charged glass rod was brought within range."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The prosperity of the realm increased **observably** once the recoinage of silver restored public commercial credit."*

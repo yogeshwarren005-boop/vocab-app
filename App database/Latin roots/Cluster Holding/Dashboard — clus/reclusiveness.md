@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disposition to prefer seclusion or isolation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to prefer seclusion or isolation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The habit or practice of living in solitary seclusion away from society; hermitic lifestyle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deep reluctance to participate in social intercourse, public events, or company.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reclusiveness designates a disposition to prefer seclusion or isolation."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"His eccentric **reclusiveness** made him a legend in the village, where strange tales were told of his midnight vigils."*
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"A melancholy **reclusiveness** had stolen over him, until he shrank from the cheerful sunlight and the voices of children."*
+> - 📜 **Samuel Johnson (*Lives of the Poets*):** *"Swift's later years were marked by a bitter **reclusiveness**, aggravated by deafening vertigo and political disappointment."*

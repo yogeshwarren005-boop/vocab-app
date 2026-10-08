@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a conservative manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a conservative manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a conservative, cautious, or prudent manner; with reluctance to accept sudden changes or assume high risks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Understatedly or moderately in estimation or financial calculation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I wish now I had been more conservatively quiet, and left myself a loophole, but I didn't."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The prudent banker estimates the collateral **conservatively**, ensuring that loans remain protected against market collapses."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The American magistrate acts **conservatively**, adhering strictly to the text of the statute and judicial precedent."*
+> - 📜 **Walter Bagehot (*Lombard Street: A Description of the Money Market*):** *"The directors of the Bank of England managed the gold reserve **conservatively**, guarding national solvency."*

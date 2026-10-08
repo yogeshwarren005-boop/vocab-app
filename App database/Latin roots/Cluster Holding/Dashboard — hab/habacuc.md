@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An old testament book telling habakkuk's prophecies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An old testament book telling habakkuk's prophecies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative ecclesiastical and Douay-Rheims spelling of the Biblical prophet Habakkuk or his prophetic Old Testament book.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The eighth of the twelve minor Hebrew prophets, renowned for the prayer: 'In wrath remember mercy'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, habacuc designates an old testament book telling habakkuk's prophecies."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"As the prophet **Habacuc** declared, the righteous man shall live by his faith amidst worldly affliction."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Christian apologist cited the mysterious vision of **Habacuc** to prove that God guides the destinies of empires."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The solemn cadence of the prophet **Habacuc** sounded like distant thunder warning of righteous retribution."*

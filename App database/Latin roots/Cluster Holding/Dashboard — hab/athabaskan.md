@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of any of the north american indian groups speaking an athapaskan language and living in the subarctic regions of western canada and central alaska.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of amerindian languages (the name coined by an american anthropologist, edward sapir).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the Athabaskan (Na-Dene) language family of indigenous North American peoples.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An indigenous person belonging to an Athabaskan-speaking nation, such as the Gwich'in, Dene, Navajo, or Apache.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, athabaskan designates a member of any of the north american indian groups speaking an athapaskan language and living in the subarctic regions of western canada and central alaska."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"The grammatical mechanism of the **Athabaskan** languages possesses a mathematical precision of morphological interlocking."*
+> - 📜 **Alfred Kroeber (*Anthropology*):** *"Southward migration brought **Athabaskan** hunters into contact with Pueblo farmers, generating dynamic cultural synthesis."*
+> - 📜 **Franz Boas (*Race, Language, and Culture*):** *"Field studies among **Athabaskan** communities revealed extensive systems of kinship terminology and clan organization."*

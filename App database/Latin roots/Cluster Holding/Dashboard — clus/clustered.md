@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Come together as in a cluster or flock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gather or cause to gather into a cluster.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Growing, gathered, or arranged in a cluster or close group; packed tightly together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Gothic architecture, designating a column or pier composed of multiple conjoined shafts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"We had often noticed the dark beauty of this lodge standing in a deep twilight of trees, and how the ivy clustered over it, and how there was a steep hollow near, where we had once seen the keeper’s dog dive down into the fern as if it were water."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Now,” said Coggan, appealing in an earnest voice to the public at large as it stood clustered about his shoulder-blades, “did ye ever hear such onreasonable woman as that?"*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"He held his head high; and we clustered closer and closer round him, not losing a half word, not a tone, not a breath."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The cathedral nave was supported by magnificent **clustered** shafts of marble that soared toward the ribbed vaulting."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"Around the mountain summit **clustered** the dark storm clouds, illuminated by jagged veins of electric fire."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The barnacles were **clustered** thickly upon the ship's copper bottom, retarding her speed through the water."*

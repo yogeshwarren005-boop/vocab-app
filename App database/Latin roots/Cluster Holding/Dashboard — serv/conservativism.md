@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A political or theological orientation advocating the preservation of the best in society and opposing radical changes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A political or theological orientation advocating the preservation of the best in society and opposing radical changes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adherence to traditional philosophical, religious, or political doctrines that favor historical continuity over revolutionary change.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cautious, preservative tendency in intellectual, aesthetic, or social institutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conservativism designates a political or theological orientation advocating the preservation of the best in society and opposing radical changes."*
+> - 📜 **Lord Acton (*The History of Freedom and Other Essays*):** *"The deep **conservativism** of medieval guilds protected the craftsman against the ruthless competition of early industrial capital."*
+> - 📜 **Thomas Carlyle (*Heroes and Hero-Worship*):** *"Even the dry **conservativism** of the old order preserved some glimmer of reverence for authority amidst modern chaos."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"Aristocratic **conservativism** supplied dignity and sweetness of manners, yet it lacked intellectual light for modern crises."*

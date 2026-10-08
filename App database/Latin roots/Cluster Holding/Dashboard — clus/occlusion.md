@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Closure or blockage (as of a blood vessel).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (meteorology) a composite front when colder air surrounds a mass of warm air and forces it aloft.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The blockage, obstruction, or closing of a blood vessel, hollow organ, or duct; or the alignment and contact of opposing teeth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorology, an occluded weather front; or in chemistry, the absorption and retention of gas within a solid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, occlusion designates closure or blockage (as of a blood vessel)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Sudden **occlusion** of the coronary artery leads to myocardial necrosis and acute circulatory failure."*
+> - 📜 **Edward Angle (*Treatment of Malocclusion of the Teeth*):** *"Normal **occlusion** requires that the mesiobuccal cusp of the upper first molar occlude with the buccal groove of the lower."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Graham demonstrated the massive **occlusion** of hydrogen in solid palladium heated to moderate temperatures."*

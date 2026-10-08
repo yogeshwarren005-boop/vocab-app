@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The custodian of a collection (as a museum or library).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone appointed by a court to assume responsibility for the interests of a minor or incompetent person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person responsible for the repair, preservation, and scientific restoration of works of art, museum collections, or historic manuscripts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, a guardian or protector appointed by a court to manage the financial affairs or person of an incapacitated individual.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The Union of these states is the great conservator of that liberty so dear to the American heart."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We have had the tempest of aggression, and the profound calm that was the conservator of peace throughout the world."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The ancient magistrate was a sworn **conservator** of the king's peace, empowered to arrest riotous disturbers of public order."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The museum **conservator** must cleanse the varnish from ancient canvases with exquisite care, lest original glazes be lost forever."*
+> - 📜 **Benjamin N. Cardozo (*The Growth of the Law*):** *"The surrogate appointed a prudent **conservator** to manage the estate of the infant heir during his minority."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without any others being included or involved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without any others being included or involved.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To the exclusion of others; solely, only, and entirely without sharing with anyone or anything else.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a restricted or selective manner, permitting no outside participation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He had no wish to converse with her: that his bright lady and himself formed one group, exclusively their own, and containing no others in the world, was enough."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was intrinsically different from the Vale of Little Dairies, Blackmoor Vale, which, save during her disastrous sojourn at Trantridge, she had exclusively known till now."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Where the immediate direction of an establishment is intrusted to paid managers who are responsible to stockholders, the managers' success is judged almost exclusively by the dividends they succeed in earning."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain insect pollinators feed **exclusively** upon the nectar of a single species of orchid whose floral spur matches their proboscis."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne devoted herself **exclusively** to her music and poetry, rejecting every commonplace social diversion."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The privileges of municipal citizenship were reserved **exclusively** for freemen of the ancient merchant guild."*

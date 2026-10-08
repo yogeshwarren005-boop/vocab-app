@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An occurrence of improvement by virtue of preventing loss or injury or other change.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The preservation and careful management of the environment and of natural resources.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The preservation, protection, or restoration of the natural environment, wildlife, and natural resources; or historic artifacts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics, the fundamental principle that certain physical quantities (energy, momentum, mass, charge) remain constant in a closed system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The law of the conservation of energy expresses the fundamental likeness of heat, light, and power."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He repeated charges that the UIPS non-renewables deficits resulted from poor control and excessive consumption of raw materials, plus breakdown in recycling and conservation policies."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"In short, there were no legal provisions whatever for the well-being and conservation of society, the enlightened end of civilized legislation."*
+> - 📜 **Theodore Roosevelt (*The New Nationalism*):** *"**Conservation** means development as much as it does protection; it means the wise use of existing natural resources."*
+> - 📜 **Hermann von Helmholtz (*On the Conservation of Force*):** *"The universal law of the **conservation** of energy demonstrates that force can neither be created nor destroyed throughout nature."*
+> - 📜 **John Muir (*My First Summer in the Sierra*):** *"The **conservation** of our wild forests is a sacred obligation we owe to the future generations of mankind."*

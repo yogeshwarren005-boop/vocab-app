@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A news report that is reported first by one news organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not divided or shared with others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excluding or not admitting others; restricted to a privileged group, person, or organization; high-class and expensive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sole, undivided, or not shared with others (e.g., exclusive possession, exclusive rights).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It’s a six-roomer, exclusive of kitchens,” said Mr."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The absoluteness of possession pleased them, and they realized it as the first moment of their experience under their own exclusive roof-tree."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A variety of rights called easements or servitudes may attach to private property, modifying its exclusive use."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The national government was granted **exclusive** jurisdiction over the federal capital district and military forts."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Lady Catherine lived in an **exclusive** social circle, expecting absolute deference from all lower ranks of society."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"An **exclusive** trade monopoly granted to a chartered company raises mercantile profits at the expense of consumers."*

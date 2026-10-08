@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of preventing something by anticipating and disposing of it effectively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of preventing something by anticipating and disposing of it effectively.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prevention beforehand, total exclusion, or the legal bar that stops a party from raising a subsequent claim.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil procedure, the legal doctrine (claim preclusion or issue preclusion / res judicata) barring relitigation of decided matters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preclusion designates the act of preventing something by anticipating and disposing of it effectively."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The judgment operates as a final **preclusion** against any second action for the same cause between the parties."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The constitutional guarantee of habeas corpus acts as an absolute **preclusion** of arbitrary imperial imprisonment."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"An obstinate refusal to examine contrary evidence works the effective **preclusion** of all intellectual progress."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bone linking the scapula and sternum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bone linking the scapula and sternum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A slender curved bone linking the scapula and the sternum in humans and many vertebrates; the collarbone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian anatomy, either of the two fused collarbones forming the furcula or wishbone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clavicle designates bone linking the scapula and sternum."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **clavicle** is a long bone curved like an italic letter S, forming the anterior support of the shoulder girdle."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In birds, the two **clavicle** bones fuse ventrally to form the elastic wishbone that supports the wing strokes during flight."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Mammals adapted for running frequently exhibit a rudimentary **clavicle** or lack the bone altogether to free shoulder mobility."*

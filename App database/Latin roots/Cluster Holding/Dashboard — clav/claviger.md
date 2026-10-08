@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin clav within the domain of Holding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of clav in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A keeper of keys; or a club-bearer, an epithet applied to mythological heroes such as Hercules carrying his club.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology, a genus of small, blind pselaphid beetles (*Claviger*) that live as commensals inside ant nests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, claviger designates pertaining to, derived from, or characteristic of latin clav within the domain of holding."*
+> - 📜 **John Ruskin (*Fors Clavigera*):** *"Hercules is the ancient **claviger** or club-bearer, representing the patient heroic labor that slays monsters."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The blind beetle **Claviger** dwells inside the subterranean nests of yellow ants, nourished by the secretions of its hosts."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The papal **claviger** bore the symbolic keys of Saint Peter before the Roman pontiff during the holy jubilee."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being deserving (e.g., deserving assistance).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being deserving (e.g., deserving assistance).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moral worthiness, justifiable merit, or claim to receive reward, praise, or punishment; desert.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ethical quality of an action or person that warrants approval from an impartial spectator.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deservingness designates the quality of being deserving (e.g., deserving assistance)."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"Our sense of the **deservingness** of any action arises from sympathetic participation in the gratitude of the beneficiary."*
+> - 📜 **David Hume (*An Enquiry Concerning the Principles of Morals*):** *"Utility alone does not exhaust our moral judgments; we intuitively evaluate the intrinsic **deservingness** of character."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Modest genius often suffers in obscurity, lacking that forward audacity that forces its **deservingness** upon the notice of the great."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being preserved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being preserved.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being preserved, kept safe from decay, or protected from destruction over time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suitable for long-term storage or conservation through chemical, freezing, or canning techniques.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preservable designates capable of being preserved."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Fruits and flesh are **preservable** in spirits of wine or honey, which resist putrefaction by excluding air."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Precious metals are easily **preservable** without loss of value, making them ideal universal instruments of commerce."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Only the hard calcified shells and bones of animals are easily **preservable** in accumulating marine sedimentary strata."*

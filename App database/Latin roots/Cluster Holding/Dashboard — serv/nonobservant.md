@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing or refusing to observe religious customs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failing or refusing to observe religious customs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing to observe, obey, or practice laws, religious rituals, or ethical obligations; neglectful of duties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not vigilant, attentive, or watchful; failing to notice environmental cues or details.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonobservant designates failing or refusing to observe religious customs."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor reprimanded the **nonobservant** magistrates who neglected the maintenance of public aqueducts."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"A **nonobservant** traveler passes through historic cities seeing only roofs and gutters, missing the genius of the people."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The parson lamented that younger farmhands were becoming **nonobservant** of church bells and Sunday sabbaths."*

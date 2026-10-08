@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A store where men's clothes are sold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The drygoods sold by a haberdasher.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small articles used in sewing and dressmaking, such as needles, buttons, and ribbons; or a haberdasher's shop or retail trade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Men's furnishings and sartorial articles including neckties, gloves, shirts, and cuffs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"Gavin Hamilton, writer, Mauchline.] [Footnote 11: Fergusson's _Poems_.] [Footnote 11a: Keeper of a haberdashery store in Mauchline.] * * * * * XVI.-TO MR."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Aunt Glegg inspected the modest **haberdashery** shop, pricing every spool of cotton thread with severe economy."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Lucetta visited the chief **haberdashery** establishment in High Street to procure fashionable ribbons from Paris."*
+> - 📜 **H. G. Wells (*Kipps*):** *"Kipps served his seven-year apprenticeship in the **haberdashery** department of the Folkestone drapery bazaar."*

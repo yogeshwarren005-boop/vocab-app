@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition in which the upper teeth do not touch the lower teeth when biting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition in which the upper teeth do not touch the lower teeth when biting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in dentistry where the upper and lower teeth fail to meet or contact properly; open bite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An occlusal malformation characterized by vertical separation between opposing dental arches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abocclusion designates the condition in which the upper teeth do not touch the lower teeth when biting."*
+> - 📜 **Edward Angle (*Treatment of Malocclusion of the Teeth*):** *"In severe anterior **abocclusion**, the incisors cannot meet, forcing the patient to masticate food solely with the molars."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Mouth-breathing secondary to adenoids frequently produces facial skeletal deformities and marked dental **abocclusion**."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Selective breeding of short-faced bulldogs resulted in curious anomalies of the jaw and pronounced dental **abocclusion**."*

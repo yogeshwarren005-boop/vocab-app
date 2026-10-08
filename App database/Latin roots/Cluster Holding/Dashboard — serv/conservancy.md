@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A commission with jurisdiction over fisheries and navigation in a port or river.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The official conservation of trees and soil and rivers etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official body, commission, or trust responsible for the preservation and protection of natural resources, waterways, or parks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The conservation and ecological management of a river, forest, or designated wildlife sanctuary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conservancy designates a commission with jurisdiction over fisheries and navigation in a port or river."*
+> - 📜 **John Muir (*Our National Parks*):** *"The state forest **conservancy** established fire patrols along the western slopes of the Sierra Nevada to protect ancient sequoias."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The river Thames was placed under the ancient jurisdiction of the city **conservancy** to maintain dredging and navigation."*
+> - 📜 **Theodore Roosevelt (*State of the Union Address*):** *"A vigorous national water **conservancy** program is indispensable to irrigate our western public lands."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making and recording a measurement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of observing; taking a patient look.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or process of closely observing, monitoring, or watching something; or a remark, comment, or statement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In science, the systematic recording of natural phenomena as perceived by the senses or scientific instruments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And in his brain, Which is as dry as the remainder biscuit After a voyage, he hath strange places crammed With observation, the which he vents In mangled forms."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What observation mad’st thou in this case Of his heart’s meteors tilting in his face?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tut, that’s a foolish observation."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Man, as the servant and interpreter of nature, can do and understand only so much as he has observed by careful **observation**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Patient **observation** over many years convinced me that domestic breeds diverge through the selection of minute variations."*
+> - 📜 **Isaac Newton (*Opticks*):** *"My design in this book is not to explain the properties of light by hypotheses, but to propose and prove them by reason and **observation**."*

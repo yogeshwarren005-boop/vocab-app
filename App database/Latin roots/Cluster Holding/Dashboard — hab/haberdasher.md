@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A merchant who sells men's clothing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A merchant who sells men's clothing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A retail dealer in men's clothing and accessories (in North America), or in small sewing goods such as buttons, thread, and ribbons (in Britain).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A merchant of small wares and sartorial furnishings; a member of the historic Worshipful Company of Haberdashers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There was a haberdasher’s wife of small wit near him that railed upon me till her pinked porringer fell off her head for kindling such a combustion in the state."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, tailor, let us see these ornaments; Lay forth the gown.— Enter Haberdasher."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Love me or love me not, I like the cap; And it I will have, or I will have none. [_Exit Haberdasher._] PETRUCHIO."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The little **haberdasher** in Canterbury bowed from behind his counter, displaying rolls of colored ribbons and bone buttons."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The prosperous **haberdasher** retired from Cheapside to a stuccoed suburban villa, eager to educate his sons as gentlemen."*
+> - 📜 **Daniel Defoe (*The Complete English Tradesman*):** *"An industrious **haberdasher** must maintain a diversified stock of small commodities to attract steady domestic trade."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who lives in solitude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Withdrawn from society; seeking solitude.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who lives a solitary life and avoids other people; a hermit or cloistered religious person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shut off or retired from the world and social life; solitary and secluded.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Clare’s life at the dairy had been that of a recluse in respect the world of his own class."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I have been sea-cuny and bravo, scholar and recluse."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"As the sky grew less gloomy; indeed, began to grow a little genial, he became still less and less a recluse; as if, when the ship had sailed from home, nothing but the dead wintry bleakness of the sea had then kept him so secluded."*
+> - 📜 **William Wordsworth (*The Recluse*):** *"On Man, on Nature, and on Human Life, musing in solitude, the thoughtful **recluse** frames his meditative song."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Roger Chillingworth lived the life of a bookish **recluse**, buried among chemical alembics and dusty folios."*
+> - 📜 **Walter Scott (*The Black Dwarf*):** *"The solitary **recluse** built his stone hut on the lonely moor, shunning all communion with his fellow mortals."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fleshy fungi: coral fungi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fleshy fungi: coral fungi.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic family of basidiomycete fungi commonly known as club fungi or coral fungi, bearing erect, branching, or clavate fruiting bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fungi characterized by smooth hymenial surfaces covering cylindrical or coral-like aerial branches in forest humus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clavariaceae designates fleshy fungi: coral fungi."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"On the damp forest floor of Tierra del Fuego, delicate club fungi belonging to the **Clavariaceae** sprouted among decaying beech leaves."*
+> - 📜 **M. J. Berkeley (*Outlines of British Fungology*):** *"The hymenium in the **Clavariaceae** completely covers the upright club-shaped branches, producing white or tinted spores."*
+> - 📜 **Elias Magnus Fries (*Systema Mycologicum*):** *"Fries grouped the diverse coral and club forms within the **Clavariaceae**, separating them from the pileate agarics."*

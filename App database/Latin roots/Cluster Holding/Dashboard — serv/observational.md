@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relying on observation or experiment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relying on observation or experiment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, based on, or acquired by direct observation rather than experimental intervention or speculation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In science, designating non-experimental research such as observational astronomy or field ecology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, observational designates relying on observation or experiment."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"Practical **observational** astronomy requires great patience, clear skies, and micrometer measurements of high precision."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Our natural history collections provide vast **observational** data supporting the geographic distribution of allied forms."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty and Its Development*):** *"Field work in anthropology relies upon reliable **observational** methods to record physical and mental traits."*

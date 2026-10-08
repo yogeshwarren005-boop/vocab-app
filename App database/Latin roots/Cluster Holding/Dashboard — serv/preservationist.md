@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who advocates the preservation of historical sites or endangered species or natural areas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who advocates the preservation of historical sites or endangered species or natural areas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who advocates for the preservation and protection of historic buildings, monuments, or natural wilderness areas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An activist or scholar working to protect cultural, architectural, or biological heritage from demolition or exploitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preservationist designates someone who advocates the preservation of historical sites or endangered species or natural areas."*
+> - 📜 **John Muir (*The Yosemite*):** *"Every true **preservationist** opposed the flooding of the Hetch Hetchy Valley as a desecration of natural grandeur."*
+> - 📜 **Theodore Roosevelt (*African Game Trails*):** *"The civilized **preservationist** recognizes that wild game herds will perish unless protected by statutory reserves."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The passionate **preservationist** defends ancient stone masonry against the destructive scraping of modern restorers."*

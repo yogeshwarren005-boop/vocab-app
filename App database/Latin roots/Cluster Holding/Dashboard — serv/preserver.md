@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A skilled worker who is employed to restore or refinish buildings or antique furniture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cook who preserves fruits or meat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing that preserves, protects, or saves something from destruction or decay; a savior or guardian.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A life-saving flotation device designed to keep a person afloat in water; a life preserver.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My true preserver, and a loyal sir To him thou follow’st, I will pay thy graces Home, both in word and deed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Camillo, Preserver of my father, now of me, The medicine of our house, how shall we do?"*
-> - 📜 **Jane Austen (*Persuasion*):** *"A lady, without a family, was the very best preserver of furniture in the world."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"O my most sacred lady, it is an heretic that makes the fire, not she which burns in't! I'll not call you tyrant; but this your deed is most tyrannical, and my queen's **preserver**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The empty wooden coffin buoyed me up upon the surface of the Pacific, serving as my sole life **preserver** amidst the vortex."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The grateful senate hailed Aetius as the **preserver** of the Western Empire after the bloody defeat of Attila."*

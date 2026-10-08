@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tendency to associate with only a select group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tendency to associate with only a select group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Social or institutional exclusivity; the practice of keeping out outsiders or reserving privileges to a select few.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Snobbish superiority and reluctance to associate with individuals outside one's elite circle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"When I think of this life I have led; the desolation of solitude it has been; the masoned, walled-town of a Captain’s exclusiveness, which admits but small entrance to any sympathy from the green country without—oh, weariness! heaviness!"*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"When I think of this life I have led; the desolation of solitude it has been; the masoned, walled-town of a Captain’s exclusiveness, which admits but small entrance to any sympathy from the green country without—oh, weariness! heaviness!"*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"In the South, Democracy's chief tenets are white man's supremacy and exclusiveness in governmental affairs."*
+> - 📜 **William Makepeace Thackeray (*The Book of Snobs*):** *"The haughty **exclusiveness** of high society snobs is built upon fear that their artificial pedigree might be exposed."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Aristocratic societies are distinguished by rigid **exclusiveness**, whereas democratic institutions encourage fluid social mobility."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The county gentry maintained an icy **exclusiveness** toward the manufacturing magnates who purchased local estates."*

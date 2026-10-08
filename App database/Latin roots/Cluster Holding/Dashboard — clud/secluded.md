@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Keep away from others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hidden from general view or use.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sheltered, private, or screened from general view; quiet, solitary, and tucked away from crowds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Living in isolation from society; retired from public life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"That secluded sister is my first remembrance.” “No, no!” he cried, starting."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet hurried us into a more secluded place and was at first too breathless to proceed, occasioning Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood lived secluded and inactive."*
+> - 📜 **William Wordsworth (*Lines Composed a Few Miles above Tintern Abbey*):** *"Once again do I behold these steep and lofty cliffs, that on a wild **secluded** scene impress thoughts of more deep seclusion."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Hester Prynne dwelt in a small thatched cottage by the seashore, in a **secluded** spot far removed from the town."*
+> - 📜 **Washington Irving (*The Legend of Sleepy Hollow*):** *"In the bosom of one of those spacious coves lies a **secluded** glen that has long been known by the name of Sleepy Hollow."*

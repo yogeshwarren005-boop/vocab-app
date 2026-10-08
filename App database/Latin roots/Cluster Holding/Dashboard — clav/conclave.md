@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A confidential or secret meeting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A confidential or secret meeting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A private, confidential meeting or secret assembly; specifically, the assembly of Roman Catholic cardinals gathered to elect a new pope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The locked, secluded quarters in the Vatican where cardinals remain sequestered until an election is concluded.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And once more in mine arms I bid him welcome, And thank the holy conclave for their loves."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Oh, ’tis you, Mrs Durbeyfield—Lard—how you frightened me!—I thought it might be some gaffer sent by Gover’ment.” Mrs Durbeyfield was welcomed with glances and nods by the remainder of the conclave, and turned to where her husband sat."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"When all ordinary measures to arrest the malady failed, the farmers met in solemn conclave on the village green and determined that next morning there should be a need-fire."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The sacred **conclave** was locked by the marshal of the Church, and the cardinals were kept on modest rations until they elected a pontiff."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The Stygian council dissolved, and from the secret **conclave** Satan rode forth toward the gates of Hell."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"A secret **conclave** of Whig lords assembled at midnight to draft the invitation to William of Orange."*

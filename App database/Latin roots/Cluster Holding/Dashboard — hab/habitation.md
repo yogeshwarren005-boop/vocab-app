@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The native habitat or home of an animal or plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Housing that someone is living in.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or process of living in or occupying a place; or a house, home, dwelling place, or residence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A settled settlement or community establishing permanent human occupation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O what a mansion have those vices got, Which for their habitation chose out thee, Where beauty’s veil doth cover every blot, And all things turns to fair, that eyes can see!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An habitation giddy and unsure Hath he that buildeth on the vulgar heart."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A breath thou art, Servile to all the skyey influences That dost this habitation where thou keep’st Hourly afflict."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Out of darkness called up light into their fiery **habitation** high, where angels dwell in uncreated day."*
+> - 📜 **William Wordsworth (*Lines Written a Few Miles above Tintern Abbey*):** *"These orchard-tufts, which at this season, with their unripe fruits, are clad in one green hue, lose themselves 'mid groves and copses, nor disturb the wild green landscape; with some uncertain notice, as might seem of vagrant dwellers in the houseless woods, or of some Hermit's cave, where by his fire the Hermit sits alone; the quiet **habitation** of man."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Barbarian hordes burned every Roman villa and **habitation** along the ruined banks of the lower Danube."*

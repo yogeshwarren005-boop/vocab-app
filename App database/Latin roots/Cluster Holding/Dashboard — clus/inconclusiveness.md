@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being inconclusive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being inconclusive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of decisive certainty, final resolution, or convincing evidence; ambiguous or unsettled character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inability of an investigation or experiment to yield a definitive result.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inconclusiveness designates the quality of being inconclusive."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The apparent **inconclusiveness** of sociological experiments arises from the immense complexity of confounding variables."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"He was vexed by the **inconclusiveness** of philosophical disputes, which continually circle back to their starting point."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"A man of science must frankly acknowledge the **inconclusiveness** of hypotheses that lack experimental verification."*

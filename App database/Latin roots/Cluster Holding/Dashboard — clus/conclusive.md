@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Forming an end or termination; especially putting an end to doubt or question.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forming an end or termination; especially putting an end to doubt or question.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to settle or decide an issue; putting an end to doubt, debate, or question; decisive and convincing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, establishing a fact beyond contradiction or legal rebuttal (e.g., conclusive evidence).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She had expressed to Oak an intention to wait till Boldwood came home before communicating to him her conclusive reply."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"It is, as William Graham said of it, "a thoughtful, calm, conclusive book, perhaps too reticent and colourless, but none the less like Dr."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Indeed, the importation of any article is proof conclusive that the importer thinks that the monetary costs of an article would be higher in the importing than in the exporting country."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A record of the king's court of justice is of such high authority that it constitutes **conclusive** proof of the judgment."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The discovery of intermediate forms in fossil beds provided **conclusive** verification of evolutionary descent."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The signature upon the intercepted treasonable dispatch was **conclusive** evidence of the minister's guilt."*

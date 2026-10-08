@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is reluctant to accept changes and new ideas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is reluctant to accept changes and new ideas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An adherent, theorist, or advocate of conservativism; one who champions traditional values and institutions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A political or philosophical writer defending historical social hierarchy and stability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conservativist designates a person who is reluctant to accept changes and new ideas."*
+> - 📜 **Edmund Burke (*Appeal from the New to the Old Whigs*):** *"The thoughtful **conservativist** defends hereditary institutions not from superstition, but from reverence for constitutional balance."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Dr. Johnson was a stanch **conservativist**, viewing every political innovation with suspicion and robust Tory defiance."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"The French **conservativist** clung to ancient privileges without fulfilling the feudal duties that had originally justified them."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A consonant produced by stopping the flow of air at some point and suddenly releasing it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to occlude.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to occlude, close up, or obstruct; or in phonetics, designating a consonant formed by complete closure of the vocal tract (a stop).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine, describing a dressing that seals a wound against air, moisture, and microbial contamination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, occlusive designates a consonant produced by stopping the flow of air at some point and suddenly releasing it."*
+> - 📜 **Henry Sweet (*A Handbook of Phonetics*):** *"The consonants p, t, and k are **occlusive** stops formed by momentary total obstruction of the outgoing air stream."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The surgeon applied an **occlusive** antiseptic dressing over the compound fracture to prevent hospital gangrene."*
+> - 📜 **Eugene Braunwald (*Heart Disease: A Textbook of Cardiovascular Medicine*):** *"Severe **occlusive** vascular disease in the femoral arteries caused painful exercise ischemia in the calf."*

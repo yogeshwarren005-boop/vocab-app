@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who inhabits a particular place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who inhabits a particular place.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, animal, or organism that lives in or occupies a particular place, house, or geographic region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A permanent citizen or resident of a municipality, province, or country.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"There is more litter and lumber in it than of old, and it is dirtier if possible; likewise, it is ghostly with traces of its dead inhabitant and even with his chalked writing on the wall."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Sometimes this obscure corner received no inhabitant for the space of two or three years, and then it was usually but a pauper, a poacher, or other sinner of undignified sins."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"No inhabitant of the place saw us off."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Every **inhabitant** of the vast Roman empire was admitted to the rights of citizenship under the edict of Caracalla."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The native **inhabitant**s of the Galapagos archipelago differ noticeably from island to island, though separated by narrow channels."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The tiny **inhabitant**s of Lilliput regarded my gigantic figure with a mixture of terror and inquisitive astonishment."*

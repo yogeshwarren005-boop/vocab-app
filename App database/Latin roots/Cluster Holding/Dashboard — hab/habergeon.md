@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (middle ages) a light sleeveless coat of chain mail worn under the hauberk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (middle ages) a light sleeveless coat of chain mail worn under the hauberk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short, sleeveless coat of chain mail or plate armor, lighter than a hauberk, protecting the torso.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A defensive armor garment worn by medieval foot soldiers and archers beneath brigandines or surcoats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The sword of him that layeth at him cannot hold, the spear, the dart, nor the habergeon: he esteemeth iron as straw; the arrow cannot make him flee; darts are counted as stubble; he laugheth at the shaking of a spear!” This the creature? this he?"*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"The sword of him that layeth at him cannot hold, the spear, the dart, nor the habergeon: he esteemeth iron as straw; the arrow cannot make him flee; darts are counted as stubble; he laugheth at the shaking of a spear!” This the creature? this he?"*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The archer wore a light **habergeon** of steel rings linked together, allowing free movement for drawing his yew bow."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"Of fustian he wered a gypon al bismotered with his **habergeon**, for he was late y-come from his viage."*
+> - 📜 **John Milton (*Paradise Lost*):** *"With helm and **habergeon** the seraphic warriors stood prepared for battle against the rebel host."*

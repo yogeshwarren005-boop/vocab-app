@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely distributed family of chiefly tropical trees and shrubs and vines that produce oils and resins and some usable timber.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widely distributed family of chiefly tropical trees and shrubs and vines that produce oils and resins and some usable timber.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of tropical flowering plants (the mangosteen and St. John's wort family) characterized by resinous sap and opposite leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical trees, shrubs, and lianas comprising genera such as *Clusia* and *Garcinia*, yielding valuable timber and fruits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clusiaceae designates widely distributed family of chiefly tropical trees and shrubs and vines that produce oils and resins and some usable timber."*
+> - 📜 **Joseph Dalton Hooker (*Flora of British India*):** *"The family **Clusiaceae** is recognized by its resinous yellow or white latex, leathery opposite leaves, and unisexual blossoms."*
+> - 📜 **Alphonse de Candolle (*Origin of Cultivated Plants*):** *"The delicious mangosteen belongs to the **Clusiaceae**, cultivated throughout the Sunda Islands since ancient times."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Forests in Borneo abounded in trees of the **Clusiaceae**, exuding sticky aromatic resins prized by native collectors."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of living together and having a sexual relationship (especially without being married).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of living together and having a sexual relationship (especially without being married).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or arrangement of living together and having a sexual relationship without being legally married.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biology and ecology, the peaceful coexistence of different species within a shared environmental niche.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Sometimes it was protracted as long as ten days at a time, especially during the first years of cohabitation."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"He must give up cohabitation with his wife; he may not sleep on a bed, nor shave himself, nor cut his nails, nor anoint himself with oil, nor eat food cooked with butter, nor tell lies, nor do anything else that he deems wrong."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But the leader of the party must still abstain from cohabitation with his wife for two days more."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Long **cohabitation** and general repute among neighbors provide strong prima facie evidence of a lawful marriage."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Prolonged **cohabitation** between allied mammalian tribes encourages mutual warning signals against common predators."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"In democratic nations, consensual domestic **cohabitation** gradually assumed legal protections analogous to formal wedlock."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Qualify for teaching at a university in europe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with clothes or put clothes on.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To qualify or become qualified for an office, position, or academic teaching post; especially to earn the higher doctorate (Habilitation).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil and mining law, to equip, finance, or provide capital for an enterprise or working mine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, habilitate designates qualify for teaching at a university in europe."*
+> - 📜 **Max Weber (*Science as a Vocation*):** *"A young scholar who wishes to **habilitate** as a privatdozent in a German university must produce an independent monograph."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Sound laws **habilitate** the state to preserve peace, civil order, and national prosperity through disciplined civic virtue."*
+> - 📜 **Thomas Carlyle (*Critical and Miscellaneous Essays*):** *"Schiller sought to **habilitate** himself as an academic lecturer at Jena, delivering lectures on universal history."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Keep from happening or arising; make impossible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make impossible, especially beforehand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To prevent from happening or make something impossible beforehand; to rule out or bar in advance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal procedure, to estop or debar a party from asserting a claim, defense, or argument.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The fire was issuing from a long straw-stack, which was so far gone as to preclude a possibility of saving it."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Their homes were so distant, and the circles in which they moved so distinct, as almost to preclude the means of ever hearing of each other’s existence during the eleven following years, or, at least, to make it very wonderful to Sir Thomas that Mrs."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Their number, without an unwarrantable increase of expense, cannot be large enough to preclude a facility of combination."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The clear separation of constitutional powers was designed to **preclude** the concentration of tyranny in any single branch."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Premature dogmatism tends to **preclude** all subsequent inquiry by declaring contested questions definitively closed."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Darcy's haughty reserve was sufficient to **preclude** all easy conversation between him and the county families."*

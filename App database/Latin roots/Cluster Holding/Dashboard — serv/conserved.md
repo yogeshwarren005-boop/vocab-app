@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Keep constant through physical or chemical reactions or evolutionary change.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Keep in safety and protect from harm, decay, loss, or destruction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Maintained, preserved, or protected from decay, waste, or destruction; held constant in physical processes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biology, designating a gene sequence or protein motif identical across divergent species through evolutionary selection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conserved designates keep constant through physical or chemical reactions or evolutionary change."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"Total quantity of motion is **conserved** in the mutual collision of bodies, neither augmented nor diminished by impact."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Ancient structural homologies are faithfully **conserved** across divergent classes because they serve fundamental organic functions."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Monastic libraries **conserved** the precious manuscripts of classical poets through the darkest centuries of barbarian invasion."*

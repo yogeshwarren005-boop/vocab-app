@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being seen or noticed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being seen or noticed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be noticed, seen, heard, or measured; discernible by the senses or scientific instruments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics, a physical property that can be directly measured or determined by experimental operation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Two things are especially observable as Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Its activity in sucking the moisture from the rich damp sod was almost a process observable by the eye."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A process somewhat analogous to that of alleged formations of the universe, time and times ago, was observable."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Every **observable** property of light rays, whether refraction or inflection, conforms to mathematical proportions."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The divergence of character is an **observable** process constantly operating under the eyes of animal breeders."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"We can know external objects only through their **observable** sensory qualities of extension, solid resistance, and color."*

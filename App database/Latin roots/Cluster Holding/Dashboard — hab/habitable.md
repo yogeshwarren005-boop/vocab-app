@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fit for habitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fit for habitation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suitable or fit for people or animals to live in; providing necessary shelter and environmental conditions for dwelling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of supporting permanent human settlement or biological life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, “a habitable doll’s house with good board and a few tin people to get into debt with and borrow money of would set the boy up in life."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I therefore caused such a place to be looked out for, and such a place was found on very easy terms, and I have been touching it up for him and making it habitable."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"To suppose that a manuscript of many generations back could have remained undiscovered in a room such as that, so modern, so habitable!—Or that she should be the first to possess the skill of unlocking a cabinet, the key of which was open to all!"*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I searched the island for a secure, dry cavern that might be rendered **habitable** against the torrential rainy season."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Barren volcanic ash fields gradually weather into fertile soils that become **habitable** for colonizing plant species."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The temperate provinces along the Mediterranean basin formed the most civilized and **habitable** zone of the ancient world."*

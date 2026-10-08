@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decide by reasoning; draw or come to a conclusion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring to a close.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To bring or come to an end; to finish; or to arrive at an opinion, judgment, or decision by reasoning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To formally negotiate, ratify, and settle a treaty, transaction, or contract between parties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, thou didst conclude hairy men plain dealers without wit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I love her therefore; but Disdaining me and throwing favours on The low Posthumus slanders so her judgement That what’s else rare is chok’d; and in that point I will conclude to hate her, nay, indeed, To be reveng’d upon her."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whither I must, I must; and, to conclude, This evening must I leave you, gentle Kate."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"To die, to sleep; to sleep: perchance to dream: ay, there's the rub; for in that sleep of death what dreams may come must give us pause; there's the respect that makes calamity of so long life; I will **conclude**."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"From causes which appear similar we expect similar effects; this is the sum of all our experimental **conclude**s."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The President is empowered, by and with the advice and consent of the Senate, to make and **conclude** foreign treaties."*

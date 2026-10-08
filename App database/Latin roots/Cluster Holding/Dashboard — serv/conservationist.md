@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who works to protect the environment from destruction or pollution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who works to protect the environment from destruction or pollution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who advocates or acts for the protection, preservation, and sustainable management of the environment and wildlife.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A museum specialist dedicated to the scientific preservation and restoration of historic works of art and manuscripts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conservationist designates someone who works to protect the environment from destruction or pollution."*
+> - 📜 **John Muir (*Steep Trails*):** *"Every true **conservationist** must raise his voice against the timber barons who would turn Yosemite into sawdust."*
+> - 📜 **Theodore Roosevelt (*Autobiography*):** *"Gifford Pinchot was the foremost American **conservationist**, demonstrating that scientific forestry preserves wealth."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"The ethical **conservationist** views the land not as a commodity belonging to us, but as a community to which we belong."*

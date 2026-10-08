@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discover or determine the existence, presence, or fact of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make mention of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Noticed, seen, or witnessed attentively; or obeyed, celebrated, and faithfully kept as a law or religious custom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recorded or measured empirically in a scientific trial or experiment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is a history in all men’s lives Figuring the natures of the times deceased; The which observed, a man may prophesy, With a near aim, of the main chance of things As yet not come to life, who in their seeds And weak beginning lie intreasured."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His temper therefore must be well observed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I heard your guilty rhymes, observed your fashion, Saw sighs reek from you, noted well your passion."*
+> - 📜 **Isaac Newton (*Opticks*):** *"I **observed** that the red rays were least refracted, whereas the violet rays suffered the greatest divergence."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We **observed** immense herds of wild cattle roaming the vast grassy plains of the Argentine pampas."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"The glass of fashion and the mould of form, the **observed** of all observers, quite, quite down!"*

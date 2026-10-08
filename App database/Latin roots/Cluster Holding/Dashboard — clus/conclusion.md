@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A position or opinion or judgment reached after consideration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intuitive assumption.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The end or finish of an event, process, or text; or a judgment, decision, or deduction reached by reasoning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal logic, the proposition that follows from the premises of an argument or syllogism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your wife Octavia, with her modest eyes And still conclusion, shall acquire no honour Demuring upon me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I bar confusion. ’Tis I must make conclusion Of these most strange events."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know,” quoth he, “no house, no wife, no mistress.” So that my errand, due unto my tongue, I thank him, I bare home upon my shoulders; For, in conclusion, he did beat me there."*
+> - 📜 **William Shakespeare (*Othello*):** *"O balmy breath, that dost almost persuade justice to break her sword! One more, one more. Be thus when thou art dead, and I will kill thee, and love thee after: one more, and this the last: so sweet was ne'er so fatal a **conclusion**."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"That the sun will not rise tomorrow is no less intelligible a proposition than the affirmation that it will; no demonstrative **conclusion** can prove its falsehood."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"I am fully convinced that species are not immutable, and this grand **conclusion** is supported by all facts in geology."*

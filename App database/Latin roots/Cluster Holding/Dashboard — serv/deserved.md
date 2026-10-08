@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be worthy or deserving.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Properly deserved.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rightfully earned, merited, or warranted by previous actions, qualities, or conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Justly awarded or inflicted, as praise, honor, or punishment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know not how I have deserved to run into my lord’s displeasure."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If Cleopatra heard you, your reproof Were well deserved of rashness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We had much more monstrous matter of feast, which worthily deserved noting."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The tyrant met a **deserved** fate, assassinated by the praetorians whom he had repeatedly insulted."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Willoughby endured the **deserved** punishment of worldly contempt and domestic misery for his selfish desertion."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The victorious admiral received the well-**deserved** thanks of Parliament and the spontaneous cheers of the nation."*

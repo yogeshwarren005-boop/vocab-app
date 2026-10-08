@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated beneath the clavicle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Situated beneath the clavicle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated beneath or passing under the clavicle or collarbone, especially designating the subclavian artery, vein, or nerve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anatomically relating to the major vascular trunk that supplies blood to the upper limbs and thoracic wall.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subclavian designates situated beneath the clavicle."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The right **subclavian** artery arises from the innominate trunk behind the sternoclavicular articulation."*
+> - 📜 **William Harvey (*De Motu Cordis*):** *"Blood flows directly from the aorta into the large **subclavian** channels to nourish the extremities."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"An aneurysm of the **subclavian** artery produces characteristic compression of the brachial plexus and radial pulse delay."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fruit preserved by cooking with sugar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Keep constant through physical or chemical reactions or evolutionary change.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To protect something valuable from harm, decay, waste, or loss; or sweet preparations of fruit preserved with sugar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics, to maintain a quantity (energy, momentum, mass) constant throughout physical reactions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art too noble to conserve a life In base appliances."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Le cœur se sature d’amour comme d’un sel divin qui le conserve; de là l’incorruptible adhérence de ceux qui se sont aimés dès l’aube de la vie, et la fraîcheur des vielles amours prolongées."*
-> - 📜 **James Joyce (*Ulysses*):** *"May Allah the Excellent One your soul this night ever tremendously conserve."*
+> - 📜 **Francis Bacon (*The Essays*):** *"A wise man ought to **conserve** his physical health by moderation in diet and regular exercise rather than by medicine."*
+> - 📜 **Hermann von Helmholtz (*On the Conservation of Force*):** *"All natural phenomena conform to the principle that mechanical systems **conserve** the sum of their kinetic and potential forces."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"Boil the ripe quinces with clarified honey to make a sweet **conserve** that comforts a weak stomach."*

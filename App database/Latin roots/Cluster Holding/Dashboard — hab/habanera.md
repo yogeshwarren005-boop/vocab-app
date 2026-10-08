@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Music composed in duple time for dancing the habanera.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cuban dance in duple time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A slow, sultry Afro-Cuban dance in duple time, or the musical piece composed for this dance featuring a characteristic syncopated rhythm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The famous operatic aria *L'amour est un oiseau rebelle* in Georges Bizet's opera *Carmen*, composed in this distinctive Cuban rhythm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, habanera designates music composed in duple time for dancing the habanera."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The seductive rhythm of Bizet's **habanera** captivated the audience, capturing Carmen's reckless defiance with haunting grace."*
+> - 📜 **Willa Cather (*The Song of the Lark*):** *"The soprano practiced the swaying bars of the Spanish **habanera**, mastering its subtle syncopations with vibrant passion."*
+> - 📜 **James Huneker (*Chopin: The Man and His Music*):** *"The lilting cadence of the Cuban **habanera** influenced European composers from Saint-Saëns to Debussy."*

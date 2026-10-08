@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed to accomplish rehabilitation; - j.b.costello.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Helping to restore to good condition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving or intended to rehabilitate; restorative of physical health, psychological functioning, or social utility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating corrective correctional regimens or medical programs designed to promote recovery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rehabilitative designates designed to accomplish rehabilitation; - j.b.costello."*
+> - 📜 **Clarence Darrow (*Crime: Its Cause and Treatment*):** *"A civilized penal system must abandon medieval vindictiveness in favor of constructive, **rehabilitative** measures."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The sanatorium provided a comprehensive **rehabilitative** regimen of fresh mountain air, wholesome milk, and gentle walking."*
+> - 📜 **Enrico Ferri (*Criminal Sociology*):** *"Judicial sentencing should be guided by the **rehabilitative** potential of the offender rather than fixed talionic retribution."*

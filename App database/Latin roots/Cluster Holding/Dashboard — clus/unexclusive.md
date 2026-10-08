@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accessible to all.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accessible to all.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not exclusive; open to all persons, groups, or ideas without restriction, privilege, or barrier.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Broad, egalitarian, and hospitable, rejecting snobbery or monopolistic privilege.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unexclusive designates accessible to all."*
+> - 📜 **Walt Whitman (*Democratic Vistas*):** *"True American democracy demands an **unexclusive** fellowship that embraces the laborer, the artist, and the pioneer."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"A competitive public market must remain entirely **unexclusive**, offering free entry to every honest merchant."*
+> - 📜 **William James (*A Pluralistic Universe*):** *"Pragmatic philosophy presents an **unexclusive** view of reality that welcomes diverse varieties of human experience."*

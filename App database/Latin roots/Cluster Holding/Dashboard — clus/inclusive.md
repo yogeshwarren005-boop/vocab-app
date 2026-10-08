@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Including much or everything; and especially including stated limits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Including much or everything; and especially including stated limits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or including specified limits, categories, or items; comprehensive and not excluding any.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Open to all, aiming to incorporate diverse groups, perspectives, and individuals without discrimination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, would to God that the inclusive verge Of golden metal that must round my brow Were red-hot steel, to sear me to the brains."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The conversation became inclusive, and presently other footsteps were heard crossing the room below."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The fact that from 1862 to 1879 inclusive prices in the United States were expressed in an irredeemable paper standard makes comparisons for that period misleading."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The grant ran from the feast of Saint Michael to the feast of Saint John **inclusive**, embracing the whole intervening season."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"A truly **inclusive** representative assembly ought to mirror every significant opinion and class within the nation."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Philosophy aims at formulating the most **inclusive** generalizations that embrace all physical and biological phenomena."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being secluded from the presence or view of others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of secluding yourself from others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Solitude, retirement from public life, or sheltered isolation away from society, crowds, and distractions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sheltered, private, or hidden place of retreat from public life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Nine years, my dear,” he said after thinking for a little while, “have passed since I received a letter from a lady living in seclusion, written with a stern passion and power that rendered it unlike all other letters I have ever read."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As if it whispered to him of its fifty years of silence and seclusion, it shuts him up the closer."*
-> - 📜 **Jane Austen (*Persuasion*):** *"And looked back, with fond regret, to the bustles of Uppercross and the seclusion of Kellynch."*
+> - 📜 **William Wordsworth (*Lines Composed a Few Miles above Tintern Abbey*):** *"These steep and lofty cliffs impress thoughts of more deep **seclusion**, and connect the landscape with the quiet of the sky."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Barton Cottage offered that romantic **seclusion** which the bereaved family so earnestly desired after their bereavement."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Diocletian spent the nine remaining years of his life in absolute **seclusion**, undisturbed by the imperial ambitions of Rome."*

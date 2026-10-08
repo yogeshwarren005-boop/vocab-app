@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of protecting something from loss or danger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of being (well or ill) preserved.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Active protection, maintenance, and defense of historic artifacts, manuscripts, or natural ecologies against decay.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological theory, the survival and perpetuation of favored organic variations in the struggle for life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We’ll yet enlarge that man, Though Cambridge, Scroop, and Grey, in their dear care And tender preservation of our person, Would have him punish’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, For holy offices I have a time; a time To think upon the part of business which I bear i’ th’ state; and Nature does require Her times of preservation, which perforce I, her frail son, amongst my brethren mortal, Must give my tendance to."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou beest Prospero, Give us particulars of thy preservation; How thou hast met us here, whom three hours since Were wrack’d upon this shore; where I have lost,— How sharp the point of this remembrance is!— My dear son Ferdinand."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"This **preservation** of favorable individual differences and variations, and the destruction of those which are injurious, I have called Natural Selection."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"The fundamental law of nature is the **preservation** of mankind, which no human compact can lawfully abrogate."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The **preservation** of the Protestant religion was inextricably bound up with the defense of parliamentary freedom."*

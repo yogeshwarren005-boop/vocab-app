@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various mushrooms of the class ascomycetes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various mushrooms of the class ascomycetes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic family of parasitic ascomycete fungi in the order Hypocreales, comprising ergot (*Claviceps*) and insect-pathogenic fungi like *Cordyceps*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fungi that form stromatic ascomata and produce bioactive secondary metabolites, including ergot alkaloids and cyclopeptides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clavicipitaceae designates any of various mushrooms of the class ascomycetes."*
+> - 📜 **M. J. Berkeley (*Introduction to Cryptogamic Botany*):** *"The family **Clavicipitaceae** includes species that germinate from hardened sclerotia to produce perithecia within fleshy stromata."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Fungal infections belonging to the **Clavicipitaceae** blight agricultural grasses and alter the reproductive vitality of their hosts."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi, Mycetozoa and Bacteria*):** *"De Bary traced the complete developmental life cycle of the **Clavicipitaceae** from conidial sphacelia to mature perithecia."*

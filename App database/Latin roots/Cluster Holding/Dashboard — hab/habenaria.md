@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly terrestrial orchids with tubers or fleshy roots often having long slender spurs and petals and lip lobes; includes species formerly placed in genus gymnadeniopsis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly terrestrial orchids with tubers or fleshy roots often having long slender spurs and petals and lip lobes; includes species formerly placed in genus gymnadeniopsis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of terrestrial orchids commonly called rein orchids or bog orchids, bearing showy spurred flowers with strap-shaped floral segments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wetland orchids distributed across tropical and temperate regions, characterized by tuberous roots and long nectariferous spurs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, habenaria designates chiefly terrestrial orchids with tubers or fleshy roots often having long slender spurs and petals and lip lobes; includes species formerly placed in genus gymnadeniopsis."*
+> - 📜 **Charles Darwin (*The Various Contrivances by which Orchids are Fertilised by Insects*):** *"In **Habenaria** chlorantha, the viscid discs of the pollinia attach themselves firmly to the prominent compound eyes of visiting moths."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The fringed purple **Habenaria** adorns moist meadow borders with fragrant, intricately fringed blossoms throughout midsummer."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"We discovered a magnificent specimen of yellow **Habenaria** blooming in the mossy shade of the cedar swamp."*

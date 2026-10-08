@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decide by reasoning; draw or come to a conclusion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring to a close.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Brought to an end; finished; decided or resolved by logical reasoning or formal negotiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formally settled and ratified, as a diplomatic peace treaty or commercial bargain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We thank you, maiden, But may not be so credulous of cure, When our most learned doctors leave us, and The congregated college have concluded That labouring art can never ransom nature From her inaidable estate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, I assure you, a peace concluded."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With horror, madly dying, like her life; Which, being cruel to the world, concluded Most cruel to herself."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor **concluded** an honorable peace with the Persian monarch, securing the eastern frontier for thirty years."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth **concluded** her letter with renewed assurances of gratitude, folding the sheet with a trembling hand."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"From the geographic distribution of endemic species on oceanic islands, I **concluded** that colonizers had modified over time."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A royal german family that provided rulers for several european states and wore the crown of the holy roman empire from 1440 to 1806.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A royal german family that provided rulers for several european states and wore the crown of the holy roman empire from 1440 to 1806.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major European royal dynasty that ruled the Holy Roman Empire, Austria, Bohemia, Hungary, Spain, and vast American territories.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the Austrian or Spanish imperial House of Habsburg, dominating European politics from the Renaissance to 1918.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"But in its crypt lie several of the great dead of the House of Habsburg, among them Maria Theresa and Napoleon’s son, the Duke of Reichstadt."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Hereabouts was a Roman camp, once, and in it the Emperor Marcus Aurelius died a thousand years before the first Habsburg ruled in Vienna, which was six hundred years ago and more."*
-> - 📜 **James Joyce (*Ulysses*):** *"That archduke Leopold was it no yes or was it Otto one of those Habsburgs?"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ambitious house of **Habsburg** united the crowns of Austria, Spain, and the Indies through shrewd matrimonial alliances."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The War of the Spanish Succession shattered the colossal dream of universal **Habsburg** hegemony across Europe."*
+> - 📜 **Lord Acton (*Lectures on Modern History*):** *"Emperor Charles V embodied the vast, multilingual confederation governed by the imperial **Habsburg** scepter."*

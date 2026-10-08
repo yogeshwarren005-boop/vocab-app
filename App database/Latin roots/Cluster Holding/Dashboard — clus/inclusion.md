@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being included.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation of comprising something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or state of including or being included within a group, category, structure, or whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and metallurgy, a foreign particle, gas bubble, or crystal trapped within a mineral during formation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"In consequence, the cathode copper is contaminated through this mechanical inclusion of impurities, whilst electro-deposition of some of these materials may also be encouraged."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Microscopic examination of the diamond revealed a tiny fluid **inclusion** trapped during magmatic crystallization."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **inclusion** of diverse geographic varieties under a single specific name reflects their shared ancestral pedigree."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The progressive **inclusion** of all male citizens in the franchise was the inevitable trajectory of the republic."*

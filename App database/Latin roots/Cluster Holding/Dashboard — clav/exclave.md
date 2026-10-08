@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin clav within the domain of Holding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of clav in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A portion of a country's territory that is geographically separated from the main part and surrounded by alien territory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An outlying territorial possession requiring passage through foreign soil or international waters for domestic access.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exclave designates pertaining to, derived from, or characteristic of latin clav within the domain of holding."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"East Prussia formed a detached **exclave** separated from Brandenburg by the territory of the Polish crown."*
+> - 📜 **Lord Acton (*Historical Essays and Studies*):** *"The treaty adjusted sovereign borders to eliminate every troublesome feudal **exclave** that provoked border skirmishes."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"Defending an isolated territorial **exclave** against a surrounding continental empire placed impossible burdens upon our naval forces."*

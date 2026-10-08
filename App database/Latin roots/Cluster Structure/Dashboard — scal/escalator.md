@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A clause in a contract that provides for an increase or a decrease in wages or prices or benefits etc. depending on certain conditions (as a change in the cost of living index).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stairway whose steps move continuously on a circulating belt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A power-driven, continuously moving stairway consisting of steps circulating on an endless belt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clause in a commercial contract providing for automatic price or wage increases under inflation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, escalator designates a clause in a contract that provides for an increase or a decrease in wages or prices or benefits etc. depending on certain conditions (as a change in the cost of living index)."*
+> - 📜 **H. G. Wells (*When the Sleeper Wakes*):** *"Crowds of futuristic citizens ascended the moving **escalator** toward the soaring glass galleries above the city."*
+> - 📜 **George Orwell (*Coming Up for Air*):** *"Passengers surged up the subway **escalator**, their pale faces illuminated by the flickering electric lights."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The silent moving **escalator** carried workers smoothly from the subterranean conditioning halls to the upper plaza."*

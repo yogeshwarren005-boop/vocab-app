@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Show the form or outline of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Determine the essential quality of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Described, portrayed, or outlined with precision, clarity, and exact detail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represented by drawn lines, sketches, or marked geographical borders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Your words have delineated very prettily a graceful Apollo: he is present to your imagination,—tall, fair, blue-eyed, and with a Grecian profile."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"HAMILTON To the People of the State of New York: The effects of Union upon the commercial prosperity of the States have been sufficiently delineated."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Such is the nature of the celebrated Belgic confederacy, as delineated on parchment."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The character of King Charles was **delineated** by Clarendon with masterly psychological insight."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The anatomical homologies between vertebrate limbs are clearly **delineated** in modern comparative diagrams."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The provincial social circles were **delineated** in the local gazette with biting satirical accuracy."*

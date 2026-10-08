@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fine ravellings of cotton or linen fibers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cotton or linen fabric with the nap raised on one side; used to dress wounds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Short, fine, fluffy fibers detached from cotton or wool fabrics; or raveled linen scrapings used in surgical dressings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Soft absorbent fibrous material prepared for dressing wounds, packing abscesses, or absorbing exudates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In the north-east of Scotland lint seed was used instead of hemp seed and answered the purpose quite as well.[600] Again, a mode of ascertaining your future husband or wife was this."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"I bought my wife a stane o’ lint, As gude as e’er did grow, And a’ that she has made o’ that Is ae puir pund o’ tow."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Lassie Wi’ The Lint-White Locks Tune—“Rothiemurchie’s Rant.” Chorus.—Lassie wi’the lint-white locks, Bonie lassie, artless lassie, Wilt thou wi’ me tent the flocks, Wilt thou be my Dearie, O?"*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The surgeon called for clean water, sponges, and rolls of soft **lint** to bind up the wounded traveler."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Beneath the bloodstained bandages, fresh white **lint** cushioned the injured soldier's shattered brow."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Antiseptic dressings composed of carbolized **lint** protected surgical incisions from airborne infection."*

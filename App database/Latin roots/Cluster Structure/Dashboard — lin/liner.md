@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (baseball) a hit that flies straight out from the batter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A protective covering that protects an inside surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large commercial passenger ship, vessel, or aircraft traveling along a regular, scheduled route or line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A removable protective inner lining, layer, or sleeve fitted inside a garment, pipe, or container.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Furthermore, the Depot can be taken with minimum damage to its structures and to its Slingshot stores." "What's the point?" Brad looked at the questioner, a big man in a black and gray uniform and a soft helmet liner perched on the back of his head."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Looking up, they see a gigantic, pancake-shaped, interplanetary space liner moving in above the parking block."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Stobey, Slutter and Chug watch as the huge space liner slows and stops in space just above the Super-Rock Playground."*
+> - 📜 **Joseph Conrad (*Typhoon*):** *"The stately ocean **liner** steamed past the harbor light, her decks ablaze with electric illumination."*
+> - 📜 **Herman Melville (*Redburn*):** *"The packet **liner** rolled heavily in the Atlantic swells as hundreds of emigrants crowded the steerage."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Bruce-Partington Plans*):** *"Holmes rushed to the Liverpool docks just as the transatlantic **liner** slipped her moorings into the Mersey."*

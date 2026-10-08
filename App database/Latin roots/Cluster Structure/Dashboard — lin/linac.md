@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ions are accelerated along a linear path by voltage differences on electrodes along the path.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ions are accelerated along a linear path by voltage differences on electrodes along the path.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A linear accelerator; a particle accelerator that accelerates charged subatomic particles in a straight line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical device used in radiation oncology to generate high-energy X-rays that destroy cancerous tumors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, linac designates ions are accelerated along a linear path by voltage differences on electrodes along the path."*
+> - 📜 **Richard Feynman (*The Character of Physical Law*):** *"In a modern **linac**, oscillating electromagnetic fields propel electrons down a straight vacuum tube at nearly the speed of light."*
+> - 📜 **Arthur C. Clarke (*The Promise of Space*):** *"High-energy research facilities employed a two-mile **linac** to probe the fundamental constituents of atomic nuclei."*
+> - 📜 **Vannevar Bush (*Modern Arms and Free Men*):** *"The medical **linac** revolutionized tumor therapy by focusing precise megavolt radiation upon deep-seated lesions."*

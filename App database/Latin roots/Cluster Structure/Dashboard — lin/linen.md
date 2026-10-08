@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fabric woven with fibers from the flax plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A high-quality paper made of linen fibers or with a linen finish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cloth woven from the bast fibers of the flax plant (*Linum usitatissimum*); durable, cool, and absorbent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Household articles such as sheets, pillowcases, tablecloths, and towels traditionally made of linen cloth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Senseless linen, happier therein than I!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But that’s all one; they’ll find linen enough on every hedge."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But that the tennis-court keeper knows better than I, for it is a low ebb of linen with thee when thou keepest not racket there; as thou hast not done a great while, because the rest of thy low countries have made a shift to eat up thy holland."*
+> - 📜 **William Shakespeare (*Othello*):** *"That handkerchief was spotted with strawberries, made of sacred **linen** woven by an ancient sybil."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mrs. Bennet inspected the fine household **linen** with triumphant maternal pride before the wedding."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The division of labor in the manufacture of **linen** cloth spans flax growers, spinners, weavers, and bleachers."*

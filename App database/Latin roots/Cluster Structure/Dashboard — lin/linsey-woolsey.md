@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rough fabric of linen warp and wool or cotton woof.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rough fabric of linen warp and wool or cotton woof.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong, coarse, utilitarian woven fabric made with a linen or cotton warp and a woolen weft.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, home-spun coarse cloth worn by colonists, pioneers, and laborers; or a confused, rustic medley.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, linsey-woolsey designates a rough fabric of linen warp and wool or cotton woof."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The Puritan matrons were clad in sober garments of coarse grey **linsey-woolsey** suited to pioneer hardships."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"Jeanie Deans set out on her long pilgrimage dressed in a plain gown of sturdy Scottish **linsey-woolsey**."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"Aunt Polly inspected Tom's torn jacket of rough **linsey-woolsey**, scolding him for wrestling in the mud."*

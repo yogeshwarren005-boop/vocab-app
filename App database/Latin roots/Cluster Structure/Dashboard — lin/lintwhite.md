@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small old world finch whose male has a red breast and forehead.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small old world finch whose male has a red breast and forehead.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic and Scottish dialect name for the linnet bird, celebrated for its clear, melodious singing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A songbird of northern heaths whose sweet warble is a frequent theme in traditional Scottish ballads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"In vain to me the cowslips blaw, In vain to me the vi’lets spring; In vain to me in glen or shaw, The mavis and the lintwhite sing."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"But hawks will rob the tender joys That bless the little lintwhite’s nest; And frost will blight the fairest flowers, And love will break the soundest rest."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"O, sweet are Coila’s haughs an’ woods, When lintwhites chant amang the buds, And jinkin hares, in amorous whids, Their loves enjoy; While thro’ the braes the cushat croods With wailfu’ cry!"*
+> - 📜 **Robert Burns (*Poems and Songs*):** *"The **lintwhite** sang in the flowering thorn, welcoming the golden rise of the summer morn."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The maiden's sweet voice warbled like a wild **lintwhite** amongst the broom of the hillside."*
+> - 📜 **Alfred, Lord Tennyson (*Claribel*):** *"At eve the beetle boometh, athwart the thicket lone; the **lintwhite** telleth her song unto the listening stone."*

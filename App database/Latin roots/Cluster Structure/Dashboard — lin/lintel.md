@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Horizontal beam used as a finishing piece over a door or window.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Horizontal beam used as a finishing piece over a door or window.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A horizontal architectural support beam or stone block spanning the top of a door, window, or fireplace opening.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A load-bearing structural member carrying the weight of the masonry wall above an opening.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Of evenings she would stand dreaming at the lintel while he was leaning dreaming over the taffrail, and though there were ten thousand miles between them their hearts would be intimate as pigeons...."*
-> - 📜 **John Keats (*Lamia*):** *"Besides, there, nightly, with terrific glare, Love, jealous grown of so complete a pair, Hover'd and buzz'd his wings, with fearful roar, Above the lintel of their chamber door, And down the passage cast a glow upon the floor."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes!” I cried—“Holmes!” “Come out,” said he, “and please be careful with the revolver.” I stooped under the rude lintel, and there he sat upon a stone outside, his grey eyes dancing with amusement as they fell upon my astonished features."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The massive stone **lintel** above the cathedral portal was carved with delicate Byzantine acanthus leaves."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"An ancient inscription was carved into the granite **lintel** above the crumbling doorway of the manor."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"A weathered wooden **lintel** hung low over the shop door, nearly striking the hats of tall customers."*

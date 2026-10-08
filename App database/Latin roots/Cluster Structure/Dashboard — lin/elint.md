@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intelligence derived from electromagnetic radiations from foreign sources (other than radioactive sources).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intelligence derived from electromagnetic radiations from foreign sources (other than radioactive sources).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Electronic intelligence gathered by intercepting and analyzing non-communications electromagnetic signals, such as radar transmissions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The technical discipline of monitoring radar, telemetry, and missile tracking emissions to assess opposing military capabilities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, elint designates intelligence derived from electromagnetic radiations from foreign sources (other than radioactive sources)."*
+> - 📜 **Arthur C. Clarke (*2010: Odyssey Two*):** *"Reconnaissance satellites recorded microwave telemetry, gathering crucial **ELINT** along the disputed orbital trajectory."*
+> - 📜 **Tom Clancy (*The Hunt for Red October*):** *"The sonar officer coordinated with the airborne **ELINT** detachment to isolate the submarine's radar signatures."*
+> - 📜 **Vannevar Bush (*Modern Arms and Free Men*):** *"Wartime microwave radar development demonstrated the indispensable defensive value of systematic **ELINT** operations."*

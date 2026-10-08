@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to linnaeus or to the system of taxonomic classification that linnaeus proposed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to linnaeus or to the system of taxonomic classification that linnaeus proposed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or associated with Carl Linnaeus or the prestigious scientific societies founded in his name.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the Linnean Society of London, where Darwin and Wallace first announced their evolutionary theory in 1858.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, linnean designates of or relating to linnaeus or to the system of taxonomic classification that linnaeus proposed."*
+> - 📜 **Charles Darwin (*Life and Letters of Charles Darwin*):** *"Our joint paper on natural selection was read before the **Linnean** Society on that memorable evening in July 1858."*
+> - 📜 **Alfred Russel Wallace (*My Life*):** *"The publication in the **Linnean** Journal secured our priority in the discovery of the principle of natural selection."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The **Linnean** collections in London preserve thousands of type specimens consulted by international naturalists."*

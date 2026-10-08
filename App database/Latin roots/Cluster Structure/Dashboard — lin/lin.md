@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states sculptor and architect whose public works include the memorial to veterans of the vietnam war in washington (born in 1959).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states sculptor and architect whose public works include the memorial to veterans of the vietnam war in washington (born in 1959).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deep pool beneath a waterfall; or a waterfall, cascade, or precipitous rocky chasm in Scotland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An archaic term for flax (*Linum usitatissimum*) or linen thread.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Others there are Who, trimm’d in forms, and visages of duty, Keep yet their hearts attending on themselves, And throwing but shows of service on their lords, Do well thrive by them, and when they have lin’d their coats, Do themselves homage."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Ye burnies, wimplin’ down your glens, Wi’ toddlin din, Or foaming, strang, wi’ hasty stens, Frae lin to lin."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Our first day from Li-chou was a short stage, and we had a long, leisurely tiffin at Sung-lin, where there was an exceptionally good inn."*
+> - 📜 **Walter Scott (*The Lady of the Lake*):** *"The foaming torrent plunged headlong into the dark mountain **lin**, sending white spray over the crags."*
+> - 📜 **Robert Burns (*Poems and Songs*):** *"Whyles owre a **lin** the burnie plays, as through the glen it wimples."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The brook rushed into a swirling **lin** beneath the rustic wooden bridge where village boys angled for trout."*

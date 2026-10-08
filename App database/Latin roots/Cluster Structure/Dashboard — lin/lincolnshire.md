@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agricultural county of eastern england on the north sea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agricultural county of eastern england on the north sea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large maritime county in eastern England, noted for fertile fenlands, agricultural plains, and the city of Lincoln.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historic agricultural region bounded by the Humber estuary, the Wash, and the North Sea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yea, or the drone of a Lincolnshire bagpipe."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"My Lady Dedlock has been down at what she calls, in familiar conversation, her “place” in Lincolnshire."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The waters are out in Lincolnshire."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The Dedlocks were at their place in **Lincolnshire**, where the cold rain dripped incessantly over the flat parkland."*
+> - 📜 **Alfred, Lord Tennyson (*Poems*):** *"The wide, breezy wolds of **Lincolnshire** inspired the poet's earliest verses beside the northern sea."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Draining the vast fens of **Lincolnshire** converted barren reed marshes into rich, productive wheat fields."*

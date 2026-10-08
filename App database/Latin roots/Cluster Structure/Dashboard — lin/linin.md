@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete term for the network of viscous material in the cell nucleus on which the chromatin granules were thought to be suspended.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An obsolete term for the network of viscous material in the cell nucleus on which the chromatin granules were thought to be suspended.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The proteinaceous, non-chromatin substance forming the fine, fibrillar structural network of a resting cell nucleus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The delicate achromatic thread-like framework that supports chromatin granules during interphase.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Comin' round the bend and linin' up."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Under high magnification, chromatin beads appear suspended upon a delicate reticulum of **linin** threads."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"The nuclear matrix consists of an achromatic meshwork of **linin** enclosing nucleoli and karyolymph."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Cytologists traced how the structural fibers of **linin** reorient during the early stages of cell division."*

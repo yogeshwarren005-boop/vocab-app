@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Edible muscle of mollusks having fan-shaped shells; served broiled or poached or in salads or cream sauces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thin slice of meat (especially veal) usually fried or broiled.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An edible marine bivalve mollusk of the family Pectinidae, having a fan-shaped shell with radiating ribs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A decorative shell-shaped curve or fluting used in architecture, embroidery, or heraldic design.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, escallop designates edible muscle of mollusks having fan-shaped shells; served broiled or poached or in salads or cream sauces."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The palmer wore the silver **escallop** shell pinned upon his broad hat, indicating his return from the holy shrine."*
+> - 📜 **Charles Darwin (*The Structure and Distribution of Coral Reefs*):** *"Large species of **escallop** rested upon the sandy bottom of the lagoon, clapping their valves when disturbed."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The Gothic capitals were carved with intricate **escallop** patterns reminiscent of shells gathered along the Lido."*

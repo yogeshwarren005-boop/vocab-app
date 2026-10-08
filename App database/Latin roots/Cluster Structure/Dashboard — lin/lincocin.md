@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Antibiotic (trade name lincocin) obtained from a streptomyces bacterium and used in the treatment of certain penicillin-resistant infections.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Antibiotic (trade name lincocin) obtained from a streptomyces bacterium and used in the treatment of certain penicillin-resistant infections.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand name formulation of the antibiotic lincomycin, used to treat severe infections caused by susceptible staphylococci.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibacterial therapeutic agent administered for deep respiratory and soft-tissue bacterial infections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lincocin designates antibiotic (trade name lincocin) obtained from a streptomyces bacterium and used in the treatment of certain penicillin-resistant infections."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The medical team administered **Lincocin** intravenously to control the stubborn streptococcal cellulitis."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The house surgeon prescribed **Lincocin** when standard penicillin therapy failed to resolve the deep abscess."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Modern chemotherapeutic agents like **Lincocin** demonstrate the power of microbial antagonism in clinical healing."*

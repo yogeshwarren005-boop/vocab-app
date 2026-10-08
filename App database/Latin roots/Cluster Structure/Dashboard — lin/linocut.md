@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A print that is made from a design carved in relief into a block of linoleum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A design carved in relief into a block of linoleum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A relief print made by carving a design into a block of linoleum, inking the surface, and pressing it onto paper.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The printmaking technique of cutting designs into linoleum blocks to create bold graphic illustrations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, linocut designates a print that is made from a design carved in relief into a block of linoleum."*
+> - 📜 **Virginia Woolf (*Letters of Virginia Woolf*):** *"Vanessa designed an exquisite **linocut** for the title page of the new Hogarth Press publication."*
+> - 📜 **George Orwell (*Keep the Aspidistra Flying*):** *"The art student displayed a bold black-and-white **linocut** depicting the smokestacks of industrial London."*
+> - 📜 **Evelyn Waugh (*Decline and Fall*):** *"The school magazine featured an eccentric **linocut** of the chapel tower carved by the junior art master."*

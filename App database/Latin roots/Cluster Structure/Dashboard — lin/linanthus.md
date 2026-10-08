@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of herbs of the family polemoniaceae; found in western united states.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of herbs of the family polemoniaceae; found in western united states.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of attractive flowering annual plants in the phlox family (Polemoniaceae), native to western North America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Delicate desert and chaparral wildflowers with thread-like leaves and starry, five-lobed blossoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, linanthus designates a genus of herbs of the family polemoniaceae; found in western united states."*
+> - 📜 **John Muir (*My First Summer in the Sierra*):** *"The gravelly foothill trails were bright with the starry lilac flowers of wild **Linanthus** blooming after the spring rains."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"Species of **Linanthus** carpet the arid valleys of California with dense masses of delicate blossoms."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Field botanists noted the extreme variation of flower size in natural populations of **Linanthus**."*

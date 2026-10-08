@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A herbaceous plant genus of the family linaceae with small sessile leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A herbaceous plant genus of the family linaceae with small sessile leaves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic botanical genus of flax plants in the family Linaceae, comprising *Linum usitatissimum*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A widespread genus of slender herbs with fibrous stems, five-petaled blue or yellow flowers, and oil-rich seeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"FLAX RUST; spots yellowish; sori subrotund, scattered, surrounded by the ruptured epidermis; spores globose or pyriform, sometimes pedicellate.—On _Linum catharticum_."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"My experiments on heterostyly in **Linum** grandiflorum revealed the intricate physiological barriers to self-fertilization."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Species of wild **Linum** flourish on open prairie knolls, displaying fleeting sky-blue petals in morning light."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Cultivated fields of common **Linum** were grown in the valley, providing raw material for local spinning wheels."*

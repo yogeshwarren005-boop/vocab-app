@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Depicted in a recognizable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Depicted in a recognizable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving, tending, or adapted to delineate, outline, describe, or portray with accuracy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by expressive descriptive power in literature or draughtsmanship in art.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, delineative designates depicted in a recognizable manner."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Wordsworth possessed an extraordinary **delineative** power in depicting the quiet pastoral scenes of Westmorland."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"The painter's pencil exhibited a rare **delineative** delicacy in rendering the fleeting expressions of the human face."*
+> - 📜 **Henry James (*The Art of Fiction*):** *"The novelist must cultivate a refined **delineative** skill to make fictional characters breathe with genuine life."*

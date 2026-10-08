@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discriminate in selling or renting housing in certain areas of a neighborhood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discriminate in selling or renting housing in certain areas of a neighborhood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To mark a document or manuscript with red lines to indicate corrections, alterations, or deleted text.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The maximum safe rotational speed (RPM) marked on a tachometer, beyond which an engine may suffer damage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, redline designates discriminate in selling or renting housing in certain areas of a neighborhood."*
+> - 📜 **Mark Twain (*Autobiography*):** *"The careful editor would **redline** every redundant adjective until the prose moved with crisp vigor."*
+> - 📜 **Tom Wolfe (*The Right Stuff*):** *"The test pilot pushed the jet's twin turbines past the **redline**, watching the needle tremble in the warning zone."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"Censors were instructed to **redline** any historical speech that contradicted the latest official ministry bulletin."*

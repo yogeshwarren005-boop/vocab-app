@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the scales from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the scales from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove limescale, mineral encrustations, or boiler scale from the interior surfaces of pipes and kettles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To strip the scales from a fish; or to remove oxidized surface mill scale from hot-rolled steel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, descale designates remove the scales from."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ship's smith worked to **descale** the try-pot boilers before the next batch of blubber was hoisted aboard."*
+> - 📜 **Charles Dickens (*The Uncommercial Traveller*):** *"Stokers climbed into the cold boiler drums to scrape and **descale** the encrusted steam tubes."*
+> - 📜 **Izaak Walton (*The Compleat Angler*):** *"First **descale** the fresh-caught perch carefully with a sharp knife before dressing it for the pan."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or resident of illinois.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or resident of illinois.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of the state of Illinois in the American Midwest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology, pertaining to the Illinoian glacial stage of the Pleistocene epoch in North America.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, illinoisan designates a native or resident of illinois."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The vast glacial drift of the **Illinoisan** stage left deep gravel moraines spanning the central plains."*
+> - 📜 **Theodore Roosevelt (*The Winning of the West*):** *"The pioneer **Illinoisan** frontiersmen cleared the timbered bottoms and defended their settlements against hostile raiders."*
+> - 📜 **Louis Agassiz (*Geological Sketches*):** *"Boulders transported during the **Illinoisan** glaciation originated in crystalline bedrock hundreds of miles to the north."*

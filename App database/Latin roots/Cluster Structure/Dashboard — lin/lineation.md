@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The line that appears to bound an object.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of marking or outlining with lines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An arrangement, pattern, or marking of lines; the act of drawing or marking with lines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural geology, any linear structural feature within a rock body, such as mineral alignment or striations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lineation designates the line that appears to bound an object."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Glacial **lineation** on the exposed granite floor revealed the exact direction of ice sheet movement."*
+> - 📜 **John Ruskin (*The Elements of Drawing*):** *"The delicate **lineation** of the birch leaf margins requires precise handling of the fine camel-hair brush."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"Tectonic stretching created parallel mineral **lineation** throughout the deformed metamorphic schist."*

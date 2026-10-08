@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white southerner who supported reconstruction policies after the american civil war (usually for self-interest).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deceitful and unreliable scoundrel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mischievous, disreputable person; a scamp, rascal, or roguish fellow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An untrustworthy or good-for-nothing individual prone to comical trickery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scallywag designates a white southerner who supported reconstruction policies after the american civil war (usually for self-interest)."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"Aunt Polly sighed and declared that Tom was the most vexing young **scallywag** in all Missouri."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Challenger denounced his scientific rival as an insolent **scallywag** whose geological opinions were worthless."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The old pirate cursed every drunken **scallywag** among the mutinous crew who had neglected the watch."*

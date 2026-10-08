@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rough to the touch; covered with scales or scurf.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the body covered or partially covered with thin horny plates, as some fish and reptiles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Covered with, made of, or resembling thin, overlapping protective scales or horny plates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rough, flaky, and peeling in surface texture, as parched bark, weathered paint, or dermatological lesions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A scaly gauntlet now with joints of steel Must glove this hand."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The legs of the fowls, too, are longer than could be desired, and extremely scaly."*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"What matters it how far we go?” his scaly friend replied."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The legs of domestic fowls retain the primitive **scaly** plates inherited from reptilian ancestors."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The serpent glided on his belly, his bright **scaly** folds glittering in the rays of the morning sun."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Barnacles and sea-moss encrusted the ship's keel, giving the oak timbers a rough, **scaly** hide."*

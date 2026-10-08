@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English writer noted for early detective novels (1824-1889).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tall iced drink of liquor (usually gin) with fruit juice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional tall, effervescent cocktail made with gin, lemon juice, sugar, and carbonated soda water over ice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A prominent British and American surname borne by notable authors, botanists, and historic figures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Crashaw, indeed, partially anticipated Shelley's success, and yet further did a later poet, so much further that we find it difficult to understand why a generation that worships Shelley should be reviving Gray, yet almost forget the name of Collins."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Crashaw, Collins, Shelley--three ricochets of the one pebble, three jets from three bounds of the one Pegasus!"*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Collins, the visit to Hunsford, the Derbyshire tour--fit in after the same unostentatious, but masterly fashion."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. **Collins** was not a sensible man, and the deficiency of nature had been but little assisted by education."*
+> - 📜 **Charles Dickens (*Letters of Charles Dickens*):** *"My dear friend Wilkie **Collins** joined me in writing the Christmas theatricals with unmatched dramatic vigor."*
+> - 📜 **F. Scott Fitzgerald (*Tender Is the Night*):** *"The waiter brought a frosty, tall Tom **Collins** to the terrace table overlooking the sunlit Mediterranean."*

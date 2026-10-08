@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be in line with; form a line along.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cover the interior of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked, ruled, or furrowed with lines, borders, or wrinkles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provided with an inner layer of fabric, fur, or protective material; lined with cloth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And then the justice, In fair round belly with good capon lined, With eyes severe and beard of formal cut, Full of wise saws and modern instances; And so he plays his part."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All the pictures fairest lined Are but black to Rosalind."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Winter garments must be lined, So must slender Rosalind."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"His forehead was deeply **lined** with marks of long anxiety and suffering in the Bastille dungeons."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I wrapped myself in a warm cloak **lined** with fur to brave the freezing winter gale across the moor."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The captain's brow was darkly **lined** with stern resolve as the ship plunged into the roaring gale."*

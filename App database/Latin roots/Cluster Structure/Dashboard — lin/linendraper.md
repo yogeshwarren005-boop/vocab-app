@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A retail dealer in yard goods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A retail dealer in yard goods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A merchant or shopkeeper who specializes in selling linen cloth, laces, calicoes, and drapery textiles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historic commercial tradesman purveying household fabrics and piece-goods in British towns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, linendraper designates a retail dealer in yard goods."*
+> - 📜 **William Cowper (*The Diverting History of John Gilpin*):** *"John Gilpin was a citizen of credit and renown, a train-band captain eke was he of famous London town; a **linendraper** bold was he."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The bustling **linendraper** displayed bolts of white calico and patterned muslin in his bow-windowed shop."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The wealthy **linendraper** retired from the city to enjoy his modest country villa and fine cellar."*

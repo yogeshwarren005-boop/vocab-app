@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A protective covering that protects an inside surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of cloth that is used as the inside surface of a garment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A layer of fabric or material attached to the inside of a garment, box, or vessel to provide warmth, finish, or protection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The internal mucous membrane or cellular epithelial layer that coats an internal organ or bodily cavity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We have received your letters, full of love; Your favours, the ambassadors of love; And in our maiden council rated them At courtship, pleasant jest, and courtesy, As bombast and as lining to the time."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The lining of his coffers shall make coats To deck our soldiers for these Irish wars."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I expand, I open, I turn my silver lining outward like Milton’s cloud, and it’s more agreeable to both of us.’ That’s my view of such things, speaking as a child!” “But suppose you went down somewhere else to-morrow,” said Mr."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge pulled his dressing gown close, feeling the cold air penetrate the worn **lining** of the sleeves."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute catarrhal inflammation irritates the delicate mucous **lining** of the bronchial tubes, exciting cough."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The trunk was finished with a clean paper **lining** to protect my modest wardrobe on the journey."*

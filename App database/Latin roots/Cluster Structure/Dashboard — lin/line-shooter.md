@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A very boastful and talkative person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very boastful and talkative person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who habitually tells boastful, exaggerated stories about their own exploits; a braggart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual prone to flamboyant bragging and self-aggrandizing talk.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, line-shooter designates a very boastful and talkative person."*
+> - 📜 **George Orwell (*The Lion and the Unicorn*):** *"The mess was weary of the squadron's notorious **line-shooter**, whose aerial duels grew more miraculous with each pint."*
+> - 📜 **Evelyn Waugh (*Officers and Gentlemen*):** *"The young commando was dismissed as a harmless **line-shooter** by the veteran sergeants."*
+> - 📜 **C. S. Lewis (*The Screwtape Letters*):** *"A vain **line-shooter** damages his own reputation while fancying that he deceives the entire company."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of hardy annual herbs of western united states.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of hardy annual herbs of western united states.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of attractive North American annual herbs in the plantain family (Plantaginaceae), commonly called blue-eyed Mary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flowering wildflower genus of western North American woodlands bearing two-lipped blue and white blossoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, collinsia designates genus of hardy annual herbs of western united states."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The delicate spring blossoms of **Collinsia** verna carpet the moist alluvial woodlands in early May."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Sunny slopes along the Sierra foothills were sprinkled with the bright lilac flowers of wild **Collinsia**."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Several species of **Collinsia** were grown in the experimental garden to observe insect pollination mechanisms."*

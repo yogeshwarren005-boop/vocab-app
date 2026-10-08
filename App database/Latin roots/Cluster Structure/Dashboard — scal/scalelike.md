@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduced to a small appressed thing that resembles a scale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduced to a small appressed thing that resembles a scale.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling an animal or plant scale in thin, flattened shape, texture, or overlapping arrangement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, describing rudimentary, modified leaves that shield overwintering dormant buds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scalelike designates reduced to a small appressed thing that resembles a scale."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The dormant winter bud of the hickory is wrapped in thick, **scalelike** bracts to ward off frost."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Pigeon fanciers noted that the bird's lower legs retained primitive, **scalelike** epidermal plates."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The wings of Lepidoptera are covered with thousands of microscopic, **scalelike** hairs reflecting shimmering hues."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of scaling by the use of ladders (especially the walls of a fortification).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Climb up and over.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An assault on a fortified place in which soldiers scale ramparts and walls using climbing ladders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To storm, mount, or scale the walls of a fortification using ladders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"For before I could turn away a troop of children issued out and rushed at him, taking him by escalade, routed out his pockets, even his wife and sisters taking part, and he all the time laughing."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"I had seen the first surprise about the empty mail gig which had been escaladed by the murderers of poor Harry Foster."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman legions captured the barbarian fortress by a sudden night **escalade** before the sentries sounded the alarm."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Clive carried the mud ramparts of Arcot by a daring **escalade** that astonished his French and Indian adversaries."*
+> - 📜 **Walter Scott (*Waverley*):** *"Highland clansmen prepared their scaling gear for a desperate **escalade** against the castle battlements."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destitute of scales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destitute of scales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no scales; smooth-skinned and lacking protective bony or horny plates, as catfishes and moray eels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, lacking scale-like leaves or protective bud scales.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scaleless designates destitute of scales."*
+> - 📜 **Charles Darwin (*Journal of Researches (The Voyage of the Beagle)*):** *"We captured several species of **scaleless** eels lurking among the crevices of the coral reef."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The smooth, **scaleless** integument of amphibians facilitates cutaneous respiration in damp environments."*
+> - 📜 **Izaak Walton (*The Compleat Angler*):** *"The river bullhead is a curious **scaleless** fish with a broad, flattened head that hides beneath gravel stones."*

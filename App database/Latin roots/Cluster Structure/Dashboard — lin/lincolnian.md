@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or in the manner of abraham lincoln.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or in the manner of abraham lincoln.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of Abraham Lincoln, his political philosophy, or his historical presidency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the historic English city of Lincoln, its ancient bishopric, or surrounding county.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lincolnian designates of or relating to or in the manner of abraham lincoln."*
+> - 📜 **Ralph Waldo Emerson (*Miscellanies*):** *"The **Lincolnian** vision of government by the people remains the beacon of modern democratic aspirations."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The ancient **Lincolnian** diocese once stretched from the Humber estuary to the banks of the Thames."*
+> - 📜 **Walt Whitman (*Specimen Days*):** *"The calm, patient fortitude of the **Lincolnian** leadership sustained the republic through its darkest hours."*

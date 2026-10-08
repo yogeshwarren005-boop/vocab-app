@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to a musical scale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to a musical scale.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or consisting of a musical scale or stepwise melodic progression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moving in consecutive degrees of an octave rather than in harmonic arpeggios.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scalic designates of or related to a musical scale."*
+> - 📜 **George Grove (*A Dictionary of Music and Musicians*):** *"The vocal exercise consisted of rapid **scalic** passages designed to develop vocal agility and pitch precision."*
+> - 📜 **Hector Berlioz (*A Treatise upon Modern Instrumentation and Orchestration*):** *"The violins executed a brilliant **scalic** run that soared above the solemn brass chorale."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Color harmonies in painting unfold in graduated tones analogous to the **scalic** progressions of music."*

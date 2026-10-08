@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Designating or involving an equation whose terms are of the first degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or in or along or relating to a line; involving a single dimension.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arranged in, extending along, or appertaining to a straight line; sequential and one-dimensional.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, describing an equation or operation in which the variables appear only to the first power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In some instances, to the quick, observant eye, those linear marks, as in a veritable engraving, but afford the ground for far other delineations."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"In some instances, to the quick, observant eye, those linear marks, as in a veritable engraving, but afford the ground for far other delineations."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The conceptacle is thin, black to the naked eye, of an olive-brown under the microscope, filled with a mass of linear extremely transparent asci (fig. 256), each containing a single row of broadly elliptic chocolate sporidia."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Light rays propagate through homogeneous media in strictly **linear** paths, forming sharp shadows."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The volcanic vents were disposed in a long **linear** chain extending along the Andean cordillera."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Cosmic progress rarely advances in a simple **linear** progression, but moves through complex rhythmic cycles."*

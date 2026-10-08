@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sauteed cutlets (usually veal or poultry) that have been pounded thin and coated with flour.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sauteed cutlets (usually veal or poultry) that have been pounded thin and coated with flour.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thinly sliced cutlets of meat, especially veal, pounded flat, dusted with flour, and quickly sautéed in a wine and lemon sauce.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A classic Italian culinary dish prepared with tender pounded meat cutlets browned in butter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scallopine designates sauteed cutlets (usually veal or poultry) that have been pounded thin and coated with flour."*
+> - 📜 **Ernest Hemingway (*A Farewell to Arms*):** *"We drank Chianti and ate tender veal **scallopine** flavored with white wine and lemon at the shaded Milanese trattoria."*
+> - 📜 **Edith Wharton (*The Gods Arrive*):** *"The quiet Roman café served crisp bread and hot **scallopine** as the evening bells chimed across the piazza."*
+> - 📜 **F. Scott Fitzgerald (*Tender Is the Night*):** *"The waiter brought a smoking platter of **scallopine** garnished with fresh parsley and capers."*

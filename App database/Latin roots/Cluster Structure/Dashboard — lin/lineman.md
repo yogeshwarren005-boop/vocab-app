@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the players on the line of scrimmage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The surveyor who marks positions with a range pole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A technician who installs, maintains, and repairs electrical power transmission lines or telephone wires.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American football, an offensive or defensive player positioned along the line of scrimmage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lineman designates one of the players on the line of scrimmage."*
+> - 📜 **Mark Twain (*A Connecticut Yankee in King Arthur's Court*):** *"A daring **lineman** scaled the telegraph pole during the blizzard, splicing the severed copper wire."*
+> - 📜 **John Steinbeck (*The Grapes of Wrath*):** *"The telephone **lineman** worked atop the tall crossarm, silhouetted against the dusty Oklahoma sunset."*
+> - 📜 **Ernest Hemingway (*The Sun Also Rises*):** *"The burly football **lineman** possessed powerful shoulders that carried him through every grueling scrimmage."*

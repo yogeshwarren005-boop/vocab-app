@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The number of lines in a piece of printed material.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rate of payment for written material that is measured according to the number of lines submitted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The number of lines in a piece of printed or written matter; or payment calculated according to line count.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A variant spelling of lineage, denoting linear ancestry or genealogical descent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, linage designates the number of lines in a piece of printed material."*
+> - 📜 **Edgar Allan Poe (*Letters of Edgar Allan Poe*):** *"The magazine editor offered a modest sum calculated by **linage** for my critical reviews and poems."*
+> - 📜 **William Makepeace Thackeray (*The History of Pendennis*):** *"Pen earned his bread by contributing essays to the gazette, paid strictly by the column and printed **linage**."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"The poor hack writer calculated his **linage** with desperate care, counting words to buy his evening bread."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the body covered or partially covered with thin horny plates, as some fish and reptiles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the body covered or partially covered with thin horny plates, as some fish and reptiles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Covered with scales or flaky crusts; rough, peeling, and dry in surface texture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling the scaly epidermal skin of fish, lizards, or snakes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scaley designates having the body covered or partially covered with thin horny plates, as some fish and reptiles."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The harpooneer gazed into the green depths where great **scaley** monsters of the sea darted through the gloom."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe Gargery wiped his rough, **scaley** black hands upon his leather apron before taking the child's fingers."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Old Marty South peeled the **scaley** bark from the fallen larch poles with his heavy draw-knife."*

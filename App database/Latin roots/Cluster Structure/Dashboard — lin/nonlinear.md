@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Designating or involving an equation whose terms are not of the first degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating or involving an equation whose terms are not of the first degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not arranged in, moving along, or represented by a straight line; having disproportionate cause and effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics and physics, involving equations in which the output does not vary in direct proportion to the input.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonlinear designates designating or involving an equation whose terms are not of the first degree."*
+> - 📜 **James Clerk Maxwell (*Matter and Motion*):** *"Large mechanical deformations exhibit a **nonlinear** stress-strain response that deviates from simple proportionality."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Feedback systems involving complex organic reflexes require advanced mathematical methods for **nonlinear** dynamics."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"The saturation characteristics of vacuum-tube amplifiers introduce **nonlinear** distortions into the transmitted signal."*

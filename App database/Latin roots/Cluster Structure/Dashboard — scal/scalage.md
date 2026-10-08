@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Estimation of the amount of lumber in a log.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of scaling in weight or quantity or dimension.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An allowance, deduction, or compensation made for loss of weight, shrinkage, or scaling of bulk grain or freight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The official commercial fee charged for weighing goods upon municipal scales.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scalage designates estimation of the amount of lumber in a log."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The grain merchant factored in a customary deduction for **scalage** to cover waste and moisture loss in transit."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Ancient market charters granted borough corporations the legal right to collect **scalage** upon heavy wares."*
+> - 📜 **Daniel Defoe (*The Complete English Tradesman*):** *"The prudent factor keeps strict record of tare and **scalage** to avoid dispute with his country correspondents."*

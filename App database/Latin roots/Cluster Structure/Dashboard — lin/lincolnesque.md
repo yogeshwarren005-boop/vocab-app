@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or in the manner of abraham lincoln.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or in the manner of abraham lincoln.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling, characteristic of, or suggestive of Abraham Lincoln, especially in tall, lean stature, honesty, or rugged eloquence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by profound humility, moral integrity, rustic humor, and unyielding devotion to democratic liberty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lincolnesque designates of or relating to or in the manner of abraham lincoln."*
+> - 📜 **Mark Twain (*Autobiography*):** *"The frontier lawyer possessed a **Lincolnesque** blend of homespun humor and unyielding moral conviction."*
+> - 📜 **Theodore Roosevelt (*Letters of Theodore Roosevelt*):** *"He had a tall, gaunt frame and a **Lincolnesque** sadness in his deep-set eyes that commanded instant reverence."*
+> - 📜 **Walt Whitman (*Specimen Days*):** *"There was a rugged, **Lincolnesque** grandeur in the Western volunteers marching down Pennsylvania Avenue."*

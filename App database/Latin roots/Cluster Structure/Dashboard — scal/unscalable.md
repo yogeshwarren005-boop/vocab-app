@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being ascended.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being ascended.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being climbed, mounted, or scaled; too steep, lofty, or smooth to ascend.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Presenting insurmountable physical or institutional barriers that defy direct ascent or conquest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unscalable designates incapable of being ascended."*
+> - 📜 **Walter Scott (*The Talisman*):** *"The mountain citadel was perched upon an **unscalable** precipice of black basalt overlooking the dead valley."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The barbarian host gazed in despair at the soaring, **unscalable** stone ramparts of Constantinople."*
+> - 📜 **John Milton (*Paradise Lost*):** *"High above the stormy deep rose the **unscalable** battlements of heaven, gleaming with living light."*

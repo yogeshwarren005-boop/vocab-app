@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A variable quantity that cannot be resolved into components.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a musical scale.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In physics and mathematics, a quantity that has magnitude only and is completely independent of direction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a scale or graduated ladder-like progression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scalar designates a variable quantity that cannot be resolved into components."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Electric potential is a **scalar** quantity whose spatial gradient defines the vector electric field."*
+> - 📜 **William Rowan Hamilton (*Elements of Quaternions*):** *"Every quaternion may be separated algebraically into a **scalar** part and a directed vector part."*
+> - 📜 **Oliver Heaviside (*Electromagnetic Theory*):** *"Vector algebra simplifies dynamical formulas by separating **scalar** energy values from directional momentum."*

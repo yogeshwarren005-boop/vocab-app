@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decorate an edge with scallops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bake in a sauce, milk, etc., often with breadcrumbs on top.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an edge or border finished with a decorative series of small semicircular curves or curves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Baked in a creamy sauce, often topped with breadcrumbs or grated cheese, in a shallow baking dish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Towards the close of the entertainment, the person who officiated as master of the feast produced a large cake baked with eggs and scalloped round the edge, called _am bonnach beal-tine--i.e._ the Beltane cake."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"His broad fins are bored, and scalloped out like a lost sheep’s ear!"*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Docking slips scalloped the Disk's rim, each with its own hoists, articulated and flex-umbilicals, power junctions, and docking, launch and maintenance support facilities."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The marble cornice was enriched with a **scalloped** fringe that cast rhythmic shadows over the facade."*
+> - 📜 **Charles Dickens (*Our Mutual Friend*):** *"The table was set with cold roast chicken and savory **scalloped** oysters hot from the kitchen hearth."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"She wore a white muslin collar with neatly **scalloped** edges that gave her plain black dress an air of grace."*

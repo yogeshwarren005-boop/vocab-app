@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of having one dimension.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of having one dimension.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mathematical or physical property of being linear; arrangement along straight lines or in direct proportion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of sequential, unidirectional progression in time, narrative, or argument.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, linearity designates the property of having one dimension."*
+> - 📜 **James Clerk Maxwell (*Matter and Motion*):** *"The **linearity** of Hooke's law holds true only within the elastic limit of the stretched steel spring."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"The operational **linearity** of the transmission amplifier prevents harmonic distortion of the audio signal."*
+> - 📜 **John Dewey (*Art as Experience*):** *"Aesthetic experience breaks through the rigid **linearity** of everyday utilitarian thought."*

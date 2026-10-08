@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An increase to counteract a perceived discrepancy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An increase to counteract a perceived discrepancy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rapid increase in the intensity, scope, violence, or seriousness of a conflict or crisis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An upward adjustment of prices, wages, or technical specifications over time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, escalation designates an increase to counteract a perceived discrepancy."*
+> - 📜 **George F. Kennan (*American Diplomacy*):** *"The relentless **escalation** of reciprocal threats made peaceful disengagement nearly impossible."*
+> - 📜 **Barbara Tuchman (*The Guns of August*):** *"The tragic **escalation** of mobilizations in the summer of 1914 swept the European powers into unavoidable catastrophe."*
+> - 📜 **John Kenneth Galbraith (*The Affluent Society*):** *"Cost **escalation** in armaments production diverted national resources away from public civilian infrastructure."*

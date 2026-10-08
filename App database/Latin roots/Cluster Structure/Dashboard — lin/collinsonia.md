@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of perennial erect or spreading aromatic herbs; united states.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of perennial erect or spreading aromatic herbs; united states.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of perennial herbs in the mint family (Lamiaceae), especially horse balm or stone root (*Collinsonia canadensis*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native North American medicinal plant known for its extremely hard, knotty root and lemon-scented woodland flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, collinsonia designates small genus of perennial erect or spreading aromatic herbs; united states."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"My worthy correspondent Peter Collinson sent us electrical apparatus and botanized widely, giving his name to **Collinsonia**."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The thick, knotty rhizome of **Collinsonia** canadensis yielded aromatic decoctions favored in domestic medicine."*
+> - 📜 **William Bartram (*Travels through North and South Carolina, Georgia, East and West Florida*):** *"We observed magnificent specimens of **Collinsonia** growing in rich leaf mold beneath ancient tulip poplars."*

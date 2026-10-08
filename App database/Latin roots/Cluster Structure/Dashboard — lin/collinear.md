@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lying on the same line.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lying on the same line.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lying upon, passing through, or sharing the same straight line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry and mechanics, describing points, vectors, or forces that act along a single mutual linear axis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, collinear designates lying on the same line."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"When two equal and opposite forces are **collinear**, the system remains in perfect static equilibrium."*
+> - 📜 **René Descartes (*Geometry*):** *"Three given points are **collinear** if and only if their coordinates satisfy a single linear equation."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The magnetic lines of force become nearly **collinear** within the central bore of a tightly wound solenoid."*

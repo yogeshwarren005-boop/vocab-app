@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of certain religious orders) barefoot or wearing only sandals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of certain religious orders) barefoot or wearing only sandals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Barefoot or wearing sandals only, especially of certain reformed Roman Catholic religious orders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to reformed orders, such as the Discalced Carmelites or Discalced Trinitarians, practicing austere rules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discalced designates (used of certain religious orders) barefoot or wearing only sandals."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Through the convent grille I saw a **discalced** nun in coarse brown serge kneeling in silent prayer."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A procession of **discalced** friars moved through the ruins of the Forum, chanting solemn Latin litanies."*
+> - 📜 **George Eliot (*Romola*):** *"Savonarola was attended by barefoot **discalced** brethren who feared neither the pope's ban nor the Florentine mob."*

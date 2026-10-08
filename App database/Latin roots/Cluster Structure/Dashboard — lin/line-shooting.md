@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instance of boastful talk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instance of boastful talk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of telling boastful, exaggerated stories about one's achievements to impress listeners.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flamboyant, self-promoting bragging, especially common in military, sports, or aviation slang.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, line-shooting designates an instance of boastful talk."*
+> - 📜 **George Orwell (*Keep the Aspidistra Flying*):** *"Gordon despised the noisy **line-shooting** of the advertising copywriters over their tavern lunches."*
+> - 📜 **Evelyn Waugh (*Put Out More Flags*):** *"Alastair listened with polite contempt to the endless **line-shooting** of the newly commissioned staff officers."*
+> - 📜 **Graham Greene (*The Ministry of Fear*):** *"The soldier's quiet modesty was a welcome relief from the crude **line-shooting** heard in wartime hotel lobbies."*

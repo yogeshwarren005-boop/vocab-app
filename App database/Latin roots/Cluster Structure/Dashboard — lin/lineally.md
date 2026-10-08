@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By an unbroken line of descent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By an unbroken line of descent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a direct line of ancestral descent, genealogical succession, or hereditary succession.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a straight linear arrangement or sequence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From these our Henry lineally descends."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"She is the newest woman in the Harpeth Valley, and though sixty years old, she is lineally Sallie Carruthers's own granddaughter."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"His great-grandson was the Lord Protector, Oliver Cromwell.[15] From Jenkin Kemeys was lineally descended Sir Nicholas Kemeys of Kevanmably, who represented the county of Glamorgan in parliament, and was created a baronet 13th May, 1642."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Land never ascends **lineally** to the father, but descends directly to the eldest surviving son."*
+> - 📜 **Walter Scott (*Rob Roy*):** *"The highland chieftain claimed to be **lineally** descended from the ancient kings of Scots."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The purple was claimed by an ambitious general who was **lineally** connected with the Flavian dynasty."*

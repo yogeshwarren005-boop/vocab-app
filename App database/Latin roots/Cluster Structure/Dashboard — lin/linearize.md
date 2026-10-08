@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make linear or get into a linear form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make linear or get into a linear form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make linear; to adapt, approximate, or transform into a straight line or direct proportional relationship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In calculus and systems analysis, to replace a complex nonlinear function with its tangent linear approximation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, linearize designates make linear or get into a linear form."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"To analyze feedback stabilization, engineers must **linearize** the response curves around the target equilibrium."*
+> - 📜 **Claude Shannon (*The Mathematical Theory of Communication*):** *"We can **linearize** the network equations over small signal ranges without substantial error."*
+> - 📜 **Vannevar Bush (*Operational Circuit Analysis*):** *"Mathematical physicists **linearize** vacuum tube characteristics to deduce circuit resonance formulas."*

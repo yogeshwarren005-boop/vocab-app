@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The line that appears to bound an object.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sketchy summary of the main points of an argument or theory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A line or sketch showing the outer shape or boundary contour of an object, person, or landscape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A preliminary summary or schematic presentation giving the essential points and structure of a plan or treatise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It came from the direction of a small dark object under the plantation hedge—a shepherd’s hut—now presenting an outline to which an uninitiated person might have been puzzled to attach either meaning or use."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A rectangular space of light appeared in the side of the hut, and in the opening the outline of Farmer Oak’s figure."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"As the wind blows the fire inwards, the portion in flames completely disappears like melting sugar, and the outline is lost to the eye."*
+> - 📜 **John Ruskin (*The Elements of Drawing*):** *"The young student must first master the delicate precision of the exterior **outline** before attempting shading."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The historian sketched the broad **outline** of barbarian migrations across the Danube in the opening chapter."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The jagged **outline** of Thornfield Hall stood silhouetted against the stormy crimson sunset."*

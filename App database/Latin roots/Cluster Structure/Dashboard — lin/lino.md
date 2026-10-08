@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A floor covering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A floor covering.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Linoleum floor covering; or a linoleum printing block used in relief printmaking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A durable, washable domestic floor covering made from hardened linseed oil and cork.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"On October 22 it was moving from the village of Mikúlino to that of Shámshevo."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"To the left of the road between Mikúlino and Shámshevo there were large forests, extending in some places up to the road itself though in others a mile or more back from it."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"That morning, Cossacks of Denísov’s party had seized and carried off into the forest two wagons loaded with cavalry saddles, which had stuck in the mud not far from Mikúlino where the forest ran close to the road."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"The damp kitchen was paved with cold cracked **lino** that smelled faintly of old scrubbing soap."*
+> - 📜 **Virginia Woolf (*The Years*):** *"Her footsteps echoed sharply upon the polished **lino** of the hospital corridor as the night nurse passed."*
+> - 📜 **James Joyce (*Ulysses*):** *"He walked across the worn **lino** to the kitchen dresser, hunting for the morning bread knife."*

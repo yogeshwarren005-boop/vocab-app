@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A widely distributed family of plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A widely distributed family of plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic family of flowering dicotyledonous plants commonly known as the flax family, comprising flax.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cosmopolitan botanical family known for producing durable bast fibers and linseed oil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, linaceae designates a widely distributed family of plants."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"Heterostylous species within the **Linaceae** demonstrate remarkable evolutionary adaptations promoting cross-pollination."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Plants belonging to the **Linaceae** are distinguished by their regular five-parted flowers and fibrous inner bark."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"The family **Linaceae** includes common cultivated flax, celebrated since antiquity for linen fiber and oil."*

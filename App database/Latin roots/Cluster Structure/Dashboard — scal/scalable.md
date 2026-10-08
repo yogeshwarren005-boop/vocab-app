@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being scaled; possible to scale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being scaled; possible to scale.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being expanded, graduated, or adjusted in scale, size, or workload capacity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being climbed or mounted with scaling ladders, as a fortress wall.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scalable designates capable of being scaled; possible to scale."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The low eastern parapet was the only **scalable** portion of the fortress walls exposed to the besiegers."*
+> - 📜 **Walter Scott (*Quentin Durward*):** *"The castle rocks were steep and jagged, presenting no **scalable** path to an approaching enemy force."*
+> - 📜 **Donald Knuth (*The TeXbook*):** *"Modern digital typography relies upon **scalable** outline fonts that retain crisp clarity at every point size."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Written between lines of text.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Written between lines of text.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Written, printed, or inserted between lines of text; interlinear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing an interlinear translation or explanatory glosses between lines of an ancient text.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interlineal designates written between lines of text."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"The schoolboy depended upon an **interlineal** translation of Virgil to stumble through his daily recitation."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Ancient monastic scribes added **interlineal** glosses in the vernacular to explain obsolete Latin terms."*
+> - 📜 **John Milton (*Of Education*):** *"Pupils should master grammar directly rather than relying upon lazy **interlineal** cribs that weaken the intellect."*

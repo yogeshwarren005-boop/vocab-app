@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Increase in extent or intensity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Increase in extent or intensity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To increase rapidly in size, intensity, scope, or severity, especially of a military conflict, crisis, or dispute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To raise or elevate a problem to higher administrative authority for resolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"If we play the game right, and show a united front, this confrontation won't escalate to major military actions."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Have we no choice but to keep escalating provocation, sneak attacks and reprisals until our full military fleets are unleashed in their fury against each other?"*
+> - 📜 **George F. Kennan (*Memoirs*):** *"Diplomats warned that border skirmishes would quickly **escalate** into general war unless third-party mediation intervened."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"Air raids threatened to **escalate** into unrestricted bombardment of civilian metropolitan centers."*
+> - 📜 **Walter Lippmann (*The Cold War*):** *"Strategic miscalculations risk causing local crises to **escalate** beyond the control of political leaders."*

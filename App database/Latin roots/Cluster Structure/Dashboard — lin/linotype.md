@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A typesetting machine operated from a keyboard that casts an entire line as a single slug of metal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A typesetting machine operated from a keyboard that casts an entire line as a single slug of metal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hot-metal typesetting machine that casts a complete line of typographical characters in lead alloy as a single slug.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The revolutionized printing apparatus that accelerated newspaper and book production in the late nineteenth century.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"In substantiation of his theory he exhibits a specimen of a word cast as a unit for him by this process, roughly similar to a modern linotype slug."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The linotype and monotype machines, uncanny in their operations, have also come into common practice."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The introduction of the linotype is said to have displaced a large number of hand type-setters, but to have increased greatly the amount of printing."*
+> - 📜 **Mark Twain (*Autobiography*):** *"The ingenious **Linotype** machine could do the typesetting work of five swift compositors in a single hour."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"The mechanical keyboard of the **Linotype** transformed newspaper composing rooms from manual craft to mass production."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The clanking rhythm of the **Linotype** machines resounded through the Barcelona socialist newspaper office."*

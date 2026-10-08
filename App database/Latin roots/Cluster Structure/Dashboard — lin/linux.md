@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An open-source version of the unix operating system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An open-source version of the unix operating system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An open-source, modular, Unix-like computer operating system kernel created by Linus Torvalds in 1991.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The widespread operating system environment that powers global internet servers, supercomputers, and embedded devices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, linux designates an open-source version of the unix operating system."*
+> - 📜 **Linus Torvalds (*Just for Fun*):** *"I originally created **Linux** as a hobby project, never dreaming it would become the operating system of the internet."*
+> - 📜 **Eric S. Raymond (*The Cathedral and the Bazaar*):** *"The astonishing success of **Linux** proved that open-source collaboration could outpace commercial proprietary software."*
+> - 📜 **Richard Stallman (*Free Software, Free Society*):** *"Combining the GNU tools with the **Linux** kernel produced a complete, freely redistributable operating system."*

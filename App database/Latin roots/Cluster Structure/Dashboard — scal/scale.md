@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ordered reference standard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relative magnitude.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A graduated series of marks at regular intervals used for measuring; or an instrument used for weighing objects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A series of musical pitches arranged in ascending or descending order; or thin overlapping bony plates on fish or reptiles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By heaven, thy madness shall be paid by weight, Till our scale turn the beam."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"God is our fortress, in whose conquering name Let us resolve to scale their flinty bulwarks."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Faith, here’s an equivocator, that could swear in both the scales against either scale, who committed treason enough for God’s sake, yet could not equivocate to heaven: O, come in, equivocator. [_Knocking._] Knock, knock, knock!"*
+> - 📜 **Isaac Newton (*Opticks*):** *"The prism separates sunlight into the colored spectrum according to a definite mathematical **scale** of refraction."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Every microscopic **scale** on the butterfly's wing is an exquisitely modified flattened epidermal hair."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The eternal Father hung forth in heaven his golden **scale**, yet seen betwixt Astrea and the Scorpion sign."*

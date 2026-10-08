@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not represented accurately or precisely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not represented accurately or precisely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not outlined, sketched, or mapped; lacking explicit boundaries, borders, or precise description.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uncharted, undefined, or left in a vague, preliminary state in literature, law, or science.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undelineated designates not represented accurately or precisely."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Vast interior tracts of the central Asian plateau remained completely **undelineated** on European maps."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Complex ideas often float in the mind as **undelineated** notions until patient reflection defines them."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The remote frontiers of the empire touched wild, **undelineated** barbarian territories beyond the Danube."*

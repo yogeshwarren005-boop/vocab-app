@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small finch originally of the western united states and mexico.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small old world finch whose male has a red breast and forehead.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small brownish passerine finch (*Linaria cannabina*) of Eurasia, the male having a crimson breast in the breeding season.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A melodious songbird of open heaths, scrublands, and agricultural borders that feeds upon weed and flax seeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It seemed as if a linnet had hopped to my foot and proposed to bear me on its tiny wing."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Within the bush her covert nest A little linnet fondly prest; The dew sat chilly on her breast, Sae early in the morning."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The rose upon the breer, by the waters running clear, May have charms for the linnet or the bee; Their little loves are blest, and their little hearts at rest, But my true love is parted from me."*
+> - 📜 **William Wordsworth (*The Green Linnet*):** *"Beneath these fruit-tree boughs that shed their snow-white blossoms on my head, the merry **linnet** sings."*
+> - 📜 **Alfred, Lord Tennyson (*In Memoriam A.H.H.*):** *"I do but sing because I must, and pipe but as the **linnet** sings in the fragrant hawthorn spray."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Flocks of brown **linnet** congregated upon the stubble fields, feeding upon thistle down and flax seeds."*

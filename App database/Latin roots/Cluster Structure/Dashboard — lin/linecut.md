@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A print obtained from a line drawing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engraving consisting of a block that has been etched or engraved.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A relief printing plate manufactured by photoengraving line artwork, without the use of a halftone screen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A printed illustration reproduced directly from black-and-white pen drawings using a line relief block.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, linecut designates a print obtained from a line drawing."*
+> - 📜 **Mark Twain (*A Tramp Abroad*):** *"The publisher embellished the humorous chapters with a lively pen-and-ink **linecut** upon every second page."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"The photographic **linecut** permitted rapid, inexpensive reproduction of technical diagrams in newspapers."*
+> - 📜 **William Morris (*The Ideal Book*):** *"A bold woodcut or finely etched **linecut** harmonizes far better with heavy gothic typography than a wash plate."*

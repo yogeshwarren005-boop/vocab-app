@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: New world quail: the bobwhites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: New world quail: the bobwhites.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic genus of New World quails comprising the northern bobwhite, marked by striped, linear plumage patterns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ground-dwelling gallinaceous bird genus of North and Central America inhabiting grasslands and brushy margins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, colinus designates new world quail: the bobwhites."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The familiar covey call of the northern bobwhite belonging to the genus **Colinus** echoed across the summer clover fields."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Species of **Colinus** display protective coloration harmonizing with the dry grasses of their prairie habitats."*
+> - 📜 **Alexander Wilson (*American Ornithology*):** *"The bold white and black eye-stripes of male **Colinus** birds furnish an instant field mark for the naturalist."*

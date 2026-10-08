@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a line.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a line.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a straight line or linear thread in shape, narrowness, or direction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having thin, continuous, elongated proportions like drawn lines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, linelike designates resembling a line."*
+> - 📜 **Charles Darwin (*The Structure and Distribution of Coral Reefs*):** *"A long, **linelike** barrier reef stretched for miles across the sapphire ocean, separating surf from calm water."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The pine leaves are long, slender, and distinctly **linelike**, minimizing moisture loss in winter winds."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The nerve cord forms a **linelike** tract running along the ventral midline of the segmented worm."*

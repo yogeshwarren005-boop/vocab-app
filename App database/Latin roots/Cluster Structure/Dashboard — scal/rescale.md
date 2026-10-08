@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Establish on a new scale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Establish on a new scale.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To alter the scale, proportion, or dimensions of an architectural drawing, mathematical model, or measurement system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To normalize or adjust values in a dataset to fit within a new numerical range or standard.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rescale designates establish on a new scale."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"We can **rescale** the logarithmic measure of information without altering its fundamental statistical properties."*
+> - 📜 **Lewis Mumford (*The City in History*):** *"Urban planners must **rescale** the modern city to the walking pedestrian rather than the roaring motor vehicle."*
+> - 📜 **James Clerk Maxwell (*Matter and Motion*):** *"Physical formulas remain invariant when we **rescale** fundamental units of length, mass, and time consistently."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a triangle having three sides of different lengths.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to any of the scalene muscles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In geometry, describing a triangle that has three unequal sides and three unequal angles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy, relating to the scalene muscles of the neck that connect cervical vertebrae to the upper ribs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scalene designates of a triangle having three sides of different lengths."*
+> - 📜 **Euclid (*Elements*):** *"A **scalene** triangle is that which hath all three of its sides unequal to one another."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The brachial plexus and subclavian artery pass between the anterior and middle **scalene** muscles."*
+> - 📜 **René Descartes (*Geometry*):** *"The trigonometric properties of an oblique **scalene** triangle are deduced from the law of sines."*

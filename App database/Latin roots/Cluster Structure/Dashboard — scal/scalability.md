@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being scalable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being scalable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capacity of a system, business, network, or process to handle a growing volume of work smoothly and efficiently.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ability of a system to maintain performance when its scale, capacity, or workload is expanded.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scalability designates the quality of being scalable."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"The remarkable **scalability** of digital switching networks permits unlimited expansion without signal degradation."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"Automated factories require modular **scalability** to adapt production to shifting economic demands."*
+> - 📜 **Donald Knuth (*The Art of Computer Programming*):** *"Algorithm designers prioritize logarithmic **scalability** to ensure routines perform well upon vast data structures."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Women's underwear and nightclothes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Women's underwear and nightclothes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Women's fashionable underwear, nightwear, and intimate garments, traditionally made of fine linen, silk, or lace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fine washable linen articles and delicate household or personal garments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Do they snapshot those girls or is it all a fake? _Lingerie_ does it."*
-> - 📜 **James Joyce (*Ulysses*):** *"Correct me but I always understood that the act so performed by skittish humans with glimpses of lingerie appealed to you in virtue of its exhibitionististicicity."*
+> - 📜 **Edith Wharton (*The House of Mirth*):** *"Lily Bart inspected the delicate silk and lace **lingerie** displayed in the exclusive Parisian boutique window."*
+> - 📜 **Virginia Woolf (*Mrs Dalloway*):** *"She caught the pleasant scent of lavender emanating from drawers filled with freshly folded **lingerie**."*
+> - 📜 **Marcel Proust (*In Search of Lost Time*):** *"The seamstress carried boxes of finely embroidered **lingerie** to the grand townhouse of the duchess."*

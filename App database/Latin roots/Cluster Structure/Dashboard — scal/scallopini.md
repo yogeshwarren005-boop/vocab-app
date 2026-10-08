@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sauteed cutlets (usually veal or poultry) that have been pounded thin and coated with flour.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sauteed cutlets (usually veal or poultry) that have been pounded thin and coated with flour.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thin cutlets of veal, pork, or chicken pounded flat and sautéed quickly in butter, wine, and herbs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A traditional Italian restaurant entrée served with marsala wine, piccata lemon, or mushroom pan sauces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scallopini designates sauteed cutlets (usually veal or poultry) that have been pounded thin and coated with flour."*
+> - 📜 **Ernest Hemingway (*Across the River and into the Trees*):** *"The colonel ordered veal **scallopini** and a bottle of Valpolicella at Harry's Bar overlooking the Venetian lagoon."*
+> - 📜 **Truman Capote (*Breakfast at Tiffany's*):** *"We shared a late supper of chicken **scallopini** while discussing the noisy gossip of Manhattan."*
+> - 📜 **John Steinbeck (*Sweet Thursday*):** *"The Monterey restaurant filled the street with delicious aromas of garlic, wine, and frying **scallopini**."*

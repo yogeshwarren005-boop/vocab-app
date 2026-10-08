@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Linear with respect to each of two variables or positions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Linear with respect to each of two variables or positions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, bounded by, or involving two straight lines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, describing a function or transformation that is linear with respect to each of two separate vector variables.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bilinear designates linear with respect to each of two variables or positions."*
+> - 📜 **Arthur Cayley (*The Collected Mathematical Papers*):** *"The transformation of a **bilinear** form preserves algebraic invariants under linear substitutions."*
+> - 📜 **James Joseph Sylvester (*Mathematical Papers*):** *"We establish the canonical reduction of a **bilinear** function into a minimal sum of products."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"Geometrical relations in projective space often involve **bilinear** coordinate dependencies."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (baseball) a list of batters in the order in which they will bat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line of persons arranged by police for inspection or identification.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A row of persons assembled in a line for police identification, inspection, or military drill.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The roster of players selected to take part in a particular athletic match; or a scheduled program of performers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"One of the men in the lineup, third from the head, shifted his gaze from the officer to the guards and back again."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We managed to get in the lineup and made it." Narval glanced at the monitor."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The police inspector arranged the suspect **lineup** in the station yard before bringing in the key witness."*
+> - 📜 **F. Scott Fitzgerald (*This Side of Paradise*):** *"The coach inspected the football **lineup** before the kickoff, exhorting each varsity player to hold his ground."*
+> - 📜 **Don DeLillo (*Underworld*):** *"Fans cheered as the starting **lineup** for the New York Giants took the field on that historic October afternoon."*

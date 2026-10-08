@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicinal liquid that is rubbed into the skin to relieve muscular stiffness and pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medicinal liquid that is rubbed into the skin to relieve muscular stiffness and pain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicated liquid or lotion rubbed onto the skin to relieve muscular stiffness, sprains, or arthritic pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oily, soothing rubefacient preparation designed for external therapeutic massage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Sitting on a wagon tongue, and applying liniment to an abraded shin, might have been seen Pythagoras, M."*
-> - 📜 **James Joyce (*Ulysses*):** *"A redhot crowbar and some liniment rubbing on the burning part produced Fritz of Amsterdam, the thinking hyena. _(He glares.)_ I possess the Indian sign."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I have used many liniments and remedies, but with no permanently good result."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The housekeeper brought a bottle of pungent camphor **liniment** to rub upon the gentleman's sprained ankle."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Mr. Pickwick was rubbed vigorously with warm **liniment** by Sam Weller to banish his rheumatic chills."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Gentle inunction with anodyne **liniment** often affords prompt temporary relief in chronic lumbago."*

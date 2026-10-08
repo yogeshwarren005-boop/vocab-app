@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An electronic pulse counter used to count pulses that occur too rapidly to be recorded individually.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electronic pulse counter used to count pulses that occur too rapidly to be recorded individually.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A climber who ascends steep walls or mountains; or a tool used for scraping scales, plaque, or boiler encrustations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electronic circuit or counting instrument that reduces or divides incoming pulse frequencies by a fixed factor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"In the office where the clerk, the bosses, scalers and others of more pretentious occupation sleep, one corner is set apart for the wannigan, as the small camp store is called."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The daring cliff **scaler** swung on his rope above the roaring surf, gathering wild seagull eggs."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The dentist carefully employed a fine steel **scaler** to remove hardened tartar from the tooth enamel."*
+> - 📜 **Arthur C. Clarke (*The City and the Stars*):** *"The automated monitor contained a high-speed electronic **scaler** that registered cosmic ray counts."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being scaly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being scaly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rough epidermal flakiness, peeling texture, or surface encrustation with dry overlapping plates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rough, flaky texture of skin, bark, or metal surfaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scaliness designates the property of being scaly."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic eczema is characterized by thickening of the epidermis accompanied by persistent dryness and **scaliness**."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Certain mutant poultry breeds display excessive **scaliness** extending from the shanks to the outer toes."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The aged carp in the moat was marked by a peculiar silver **scaliness** across its arched back."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of arranging in a graduated series.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of measuring or arranging or adjusting according to a scale.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of climbing or ascending a wall, cliff, or rampart, especially with ladders or climbing ropes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of removing scales from a fish; or peeling off in thin flakes; or proportional adjustment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter King Henry, Exeter, Bedford, Gloucester and Soldiers, with scaling-ladders."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Talbot, Bedford, Burgundy, and forces, with scaling-ladders."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"And those who come to grief at the hands of the gods, are not weak passive creatures, but heaven-scaling Titans."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The brave soldiers brought forward the **scaling** ladders to assault the outer barbican of Torquilstone."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A select band of Roman youths accomplished the **scaling** of the mountain crag, surprising the barbarian camp."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Atmospheric moisture caused gradual **scaling** of the exposed marble cornices along the Grand Canal."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A floor covering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A floor covering.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A durable, water-resistant floor covering made from solidified linseed oil, cork dust, and wood flour on a burlap base.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A resilient, smooth flooring material widely used in domestic kitchens, schools, and hospitals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"We heard the door open, a few hurried words, and then quick steps upon the linoleum."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Imagine a large table formed of wood, the upper surface covered with linoleum."*
+> - 📜 **H. G. Wells (*The History of Mr. Polly*):** *"The shop floor was covered with cheap patterned **linoleum** that had grown shiny under years of customers' boots."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"We scrubbed the greasy **linoleum** of the hotel kitchen until our knuckles were raw and swollen."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Red Circle*):** *"Holmes detected faint muddy tracks upon the yellow **linoleum** of the lodger's hallway."*

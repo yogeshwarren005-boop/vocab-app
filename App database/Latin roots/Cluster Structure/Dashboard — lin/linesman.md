@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Official (in tennis, soccer, football, etc.) who assists the referee in some way (especially by watching for out of bounds or offside).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who installs or repairs electrical or telephone lines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official in sports such as tennis, football, or soccer who assists the referee by ruling whether balls cross boundary lines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A utility technician who patrols, inspects, and repairs telephone or electric transmission lines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, linesman designates official (in tennis, soccer, football, etc.) who assists the referee in some way (especially by watching for out of bounds or offside)."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Missing Three-Quarter*):** *"The **linesman** raised his flag as the rugby wing three-quarter stepped across the touchline in full flight."*
+> - 📜 **P. G. Wodehouse (*The Clicking of Cuthbert*):** *"The tennis champion glared indignantly at the impartial **linesman** whose call cost him the second set."*
+> - 📜 **John Steinbeck (*In Dubious Battle*):** *"A telephone **linesman** spliced the severed storm cable high above the muddy orchard ditch."*

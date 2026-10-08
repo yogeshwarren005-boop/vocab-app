@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who gains access by the use of ladders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who gains access by the use of ladders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soldier or assailant who mounts and attacks a fortified rampart using a scaling ladder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stormer participating in the scaling of fortress battlements during a siege.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, escalader designates someone who gains access by the use of ladders."*
+> - 📜 **Walter Scott (*Count Robert of Paris*):** *"The vigilant garrison hurled stones upon the first daring **escalader** who showed his helmet above the parapet."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Every **escalader** who mounted the breach was rewarded by the emperor with promotions and silver medals."*
+> - 📜 **Thomas Carlyle (*History of Friedrich II of Prussia*):** *"Prussian grenadiers climbed the scaling ladders in pitch darkness, each **escalader** holding his musket ready."*

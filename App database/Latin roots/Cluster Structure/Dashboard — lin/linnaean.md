@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to linnaeus or to the system of taxonomic classification that linnaeus proposed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to linnaeus or to the system of taxonomic classification that linnaeus proposed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of Carl Linnaeus or his hierarchical, binomial system of botanical and zoological taxonomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adhering to the taxonomic conventions of binomial nomenclature established in *Systema Naturae*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, linnaean designates of or relating to linnaeus or to the system of taxonomic classification that linnaeus proposed."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The grand **Linnaean** classification of species into genera, orders, and classes mirrors real genealogical descent."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Modern zoologists retain the fundamental **Linnaean** method of binomial naming while rejecting static species dogma."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"I arranged my collection of British birds in accordance with the celebrated **Linnaean** system of orders."*

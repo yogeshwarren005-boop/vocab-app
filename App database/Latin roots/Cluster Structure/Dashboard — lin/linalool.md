@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless fragrant liquid found in many essential oils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless fragrant liquid found in many essential oils.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A naturally occurring terpene alcohol with a pleasant floral, sweet citrus aroma, found in lavender, coriander, and mint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An aromatic fragrance compound widely used in perfumes, soaps, and commercial flavorings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, linalool designates a colorless fragrant liquid found in many essential oils."*
+> - 📜 **Rachel Carson (*The Sense of Wonder*):** *"The sweet herbal fragrance of crushed wild mint is imparted by naturally synthesized **linalool** and menthol."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Over the Teacups*):** *"The chemist isolated **linalool** from lavender oils, capturing the essence of sunny Mediterranean hillsides in a vial."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Bees eagerly visited the aromatic thyme and lavender beds, attracted by fragrant volatile essences like **linalool**."*

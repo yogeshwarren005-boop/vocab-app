@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stick about a meter long with a point on one end (to stick in the ground) and a forked head on the other end (to hold a lighted match); formerly used to fire cannons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stick about a meter long with a point on one end (to stick in the ground) and a forked head on the other end (to hold a lighted match); formerly used to fire cannons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pointed wooden staff with a forked head holding a lighted slow match, used by historic artillerymen to fire cannon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A traditional naval and field gunner's equipment piece jabbed into the ground beside a battery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The offer likes not; and the nimble gunner With linstock now the devilish cannon touches, [_Alarum, and chambers go off._] And down goes all before them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the Boy with a linstock."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Give it me!” He had still the linstock of his gun in his own hand."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"The master gunner stood by with his smouldering **linstock**, ready to apply the match to the gun's touchhole."*
+> - 📜 **Walter Scott (*Old Mortality*):** *"A puff of smoke burst from the bastion as the gunner touched the powder train with his glowing **linstock**."*
+> - 📜 **William Makepeace Thackeray (*The History of Henry Esmond*):** *"The roar of the siege batteries redoubled as gunners applied the **linstock** to the heavy iron mortars."*

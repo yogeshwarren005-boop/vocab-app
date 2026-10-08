@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a scaly tail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a scaly tail.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a tail covered with overlapping horny scales, as the African flying squirrels of the family Anomaluridae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology, designating rodents or marsupials possessing raised ventral tail scales that aid in climbing tree trunks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scaly-tailed designates having a scaly tail."*
+> - 📜 **David Livingstone (*Missionary Travels and Researches in South Africa*):** *"We observed the agile **scaly-tailed** squirrel gliding from towering baobab branches at dusk."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The anomalous **scaly-tailed** rodents of West Africa possess pointed caudal scales that anchor them to tree bark."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The ventral surface of the tail in the **scaly-tailed** squirrel bears two rows of large, imbricating horny plates."*

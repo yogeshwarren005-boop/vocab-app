@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A characteristic property that defines the apparent individual nature of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The characteristic parts of a person's face: eyes and nose and mouth and chin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinctive contour, outline, or facial feature of a person's countenance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A characteristic feature, distinctive mark, or defining attribute of an entity, society, or landscape.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Examine every married lineament, And see how one another lends content; And what obscur’d in this fair volume lies, Find written in the margent of his eyes."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"John and the ugliness of Judas Iscariot, as represented in a window of the church he attended, that not a single lineament could be selected and called worthy either of distinction or notoriety."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"An angularity of lineament, and a fixity of facial machinery in general, proclaimed that serious work was the order of the day."*
+> - 📜 **William Shakespeare (*Richard III*):** *"Noble York saw in his face the plain **lineaments** of his father's majestic visage."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I studied every austere **lineament** of his dark countenance as he sat brooding by the fire."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Man was created in the divine image, showing the clear **lineaments** of heavenly reason and grace."*

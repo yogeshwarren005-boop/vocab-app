@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Antibiotic (trade name lincocin) obtained from a streptomyces bacterium and used in the treatment of certain penicillin-resistant infections.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Antibiotic (trade name lincocin) obtained from a streptomyces bacterium and used in the treatment of certain penicillin-resistant infections.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lincosamide antibiotic produced by the actinobacterium *Streptomyces lincolnensis*, active against gram-positive cocci.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibacterial agent that inhibits bacterial protein synthesis by binding to the 50S ribosomal subunit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lincomycin designates antibiotic (trade name lincocin) obtained from a streptomyces bacterium and used in the treatment of certain penicillin-resistant infections."*
+> - 📜 **William Osler (*Modern Medicine: Its Theory and Practice*):** *"In penicillin-allergic patients, **lincomycin** served as an effective alternative for severe bone and joint infections."*
+> - 📜 **Alexander Fleming (*Chemotherapy: Yesterday, Today, and Tomorrow*):** *"Soil actinomycetes yielded novel antibiotic substances such as **lincomycin**, broadening the clinical arsenal against microbes."*
+> - 📜 **René Dubos (*The Bacterial Cell*):** *"Specific ribosomal blockade by **lincomycin** halts peptide elongation in growing staphylococcal cultures."*

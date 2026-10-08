@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having a lining or liner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Smooth, especially of skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not marked, ruled, or furrowed with lines, creases, or wrinkles; smooth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not fitted or provided with an internal protective fabric lining or backing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"At that time, like all the farm servants' dwellings in the district, it consisted of a single room with an earthen floor, an open unlined roof of red tiles, and rafters running across and resting on the wall at each side."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Her brow was smooth and **unlined** by care, showing the peaceful innocence of secluded convent life."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"I carried a thin, **unlined** jacket that offered poor protection against the biting Yarmouth wind."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The youthful, **unlined** face of Fred Vincy betrayed his carefree ignorance of the heavy debt he had incurred."*

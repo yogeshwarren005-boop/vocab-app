@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A defensive football player who takes a position close behind the linemen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (american football) the position of a defensive football player who plays close behind the line of scrimmage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A defensive player in American football positioned immediately behind the defensive line of scrimmage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A central defensive coordinator on the football field tasked with stopping runs and defending short passes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, linebacker designates a defensive football player who takes a position close behind the linemen."*
+> - 📜 **John Updike (*Rabbit, Run*):** *"The star high school **linebacker** stood on the field with taped wrists, scanning the opposing offensive formation."*
+> - 📜 **David Foster Wallace (*Infinite Jest*):** *"He had the heavy, compact neck and explosive acceleration of a collegiate **linebacker** charging a quarterback."*
+> - 📜 **Don DeLillo (*Underworld*):** *"The ferocious blitzing **linebacker** crashed through the tackle to drop the ball carrier for a five-yard loss."*

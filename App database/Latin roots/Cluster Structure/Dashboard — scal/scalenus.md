@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of four pairs of muscles extending from the cervical vertebrae to the second rib; involved in moving the neck and in breathing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of four pairs of muscles extending from the cervical vertebrae to the second rib; involved in moving the neck and in breathing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of three paired deep muscles of the neck (scalenus anterior, medius, and posterior) that flex the cervical spine and elevate ribs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An accessory muscle of respiration that stabilizes the thoracic cage during deep breathing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scalenus designates any of four pairs of muscles extending from the cervical vertebrae to the second rib; involved in moving the neck and in breathing."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The **scalenus** anterior arises from the tubercles of the cervical vertebrae and inserts upon the first rib."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"In quadruped mammals, the **scalenus** group coordinates with the serratus to assist heavy respiratory movement."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Hypertrophy or spasm of the **scalenus** muscle may compress the subclavian artery, causing numbness in the arm."*

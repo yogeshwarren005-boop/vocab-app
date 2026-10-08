@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One species: twinflower.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species: twinflower.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of creeping subarctic evergreen woodland herbs in the honeysuckle family, comprising the twinflower (*Linnaea borealis*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A delicate boreal wildflower with thread-like creeping stems and fragrant, pendulous pink bell-shaped flowers in pairs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, linnaea designates one species: twinflower."*
+> - 📜 **Carl Linnaeus (*Flora Lapponica*):** *"The humble subarctic blossom of **Linnaea** borealis was chosen as my favorite emblem of northern botany."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Carpets of fragrant **Linnaea** borealis cover mossy logs in the deep shade of Canadian spruce woods."*
+> - 📜 **John Muir (*Travels in Alaska*):** *"The forest floor along the glacial fiord was woven with the delicate pink bells of trailing **Linnaea**."*

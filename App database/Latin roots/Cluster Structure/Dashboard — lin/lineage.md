@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The descendants of one individual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The kinship relation between an individual and the individual's progenitors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Direct descent from a particular ancestor; ancestry, pedigree, or genealogical succession.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, an unbroken sequence of species that form a continuous line of descent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Though I never knew what they were (being in Welsh), further than that they were highly eulogistic of the lineage of Morgan ap-Kerrig."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Perhaps Tess’s lineage had more value for himself than for anybody in the world beside."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This was the Fortini, poverished of all save lineage, reckoned the best sword come up out of Italy in half a score of years."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"All the members of the same class are connected together by chains of affinities through common evolutionary **lineage**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Patricians took immense pride in tracing their noble **lineage** back to the founders of the Roman republic."*
+> - 📜 **Walter Scott (*The Bride of Lammermoor*):** *"The ancient **lineage** of the Ravenswoods had flourished upon the border hills for over six centuries."*

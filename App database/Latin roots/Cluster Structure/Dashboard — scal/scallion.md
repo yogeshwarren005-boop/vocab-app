@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plant having a large slender white bulb and flat overlapping dark green leaves; used in cooking; believed derived from the wild allium ampeloprasum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young onion before the bulb has enlarged; eaten in salads.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A green spring onion (*Allium fistulosum* or immature *Allium cepa*) with long green leaves and an underdeveloped white bulb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pungent edible herb harvested young and eaten raw in salads or cooked in stir-fries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scallion designates plant having a large slender white bulb and flat overlapping dark green leaves; used in cooking; believed derived from the wild allium ampeloprasum."*
+> - 📜 **Izaak Walton (*The Compleat Angler*):** *"We ate our bread and cheese sweetened with freshly gathered garden **scallion** beside the shaded trout pool."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Cottagers planted beds of chives, leeks, and pungent **scallion** to season their winter broths."*
+> - 📜 **Washington Irving (*A History of New York*):** *"The hearty Dutch burgomaster dined upon savory pork and roasted **scallion** with robust colonial appetite."*

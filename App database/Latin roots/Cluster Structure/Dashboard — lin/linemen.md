@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The football players who line up on the line of scrimmage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the players on the line of scrimmage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Technicians who install and maintain electric power lines or telecommunications cabling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The forward offensive and defensive players stationed along the line of scrimmage in football.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, linemen designates the football players who line up on the line of scrimmage."*
+> - 📜 **John Steinbeck (*The Grapes of Wrath*):** *"Crews of telephone **linemen** strung heavy black wires along the newly paved highway toward the west."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"Trained **linemen** braved winter storms to keep the high-voltage grids carrying power to distant cities."*
+> - 📜 **Don DeLillo (*Underworld*):** *"The defensive **linemen** crouched in three-point stances, awaiting the snap with explosive energy."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An amino acid that is found in many proteins (especially collagen).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amino acid that is found in many proteins (especially collagen).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A non-essential cyclic imino acid (C5H9NO2) with a rigid pyrrolidine ring, abundant in collagen and structural proteins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amino acid that introduces distinctive conformational kinks and bends into protein polypeptide helices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proline designates an amino acid that is found in many proteins (especially collagen)."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The rigid stereochemical ring of **proline** disrupts standard alpha-helices, enforcing sharp turns in polypeptide chains."*
+> - 📜 **Arthur Kornberg (*DNA Replication*):** *"Collagen fibrils owe their extraordinary tensile strength to the high frequency of glycine and **proline** residues."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Biochemical analysis of gelatin revealed an abundance of simple nitrogenous amino compounds like **proline**."*

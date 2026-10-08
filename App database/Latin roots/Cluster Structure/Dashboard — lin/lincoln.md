@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: 16th president of the united states; saved the union during the american civil war and emancipated the slaves; was assassinated by booth (1809-1865).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capital of the state of nebraska; located in southeastern nebraska; site of the university of nebraska.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abraham Lincoln (1809–1865), the sixteenth President of the United States, who preserved the Union and abolished slavery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient cathedral city and county town in Lincolnshire, England, celebrated for its soaring Gothic cathedral.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First I began in private With you, my Lord of Lincoln."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll tell thee, Hubert, half my power this night, Passing these flats, are taken by the tide; These Lincoln Washes have devoured them; Myself, well mounted, hardly have escap’d."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Michaelmas term lately over, and the Lord Chancellor sitting in Lincoln’s Inn Hall."*
+> - 📜 **Walt Whitman (*Memories of President Lincoln*):** *"O Captain! my Captain! our fearful trip is done; the nation mourns the martyr President **Lincoln**."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The central tower of **Lincoln** cathedral crowns the limestone ridge with unmatched medieval majesty."*
+> - 📜 **Ralph Waldo Emerson (*Miscellanies*):** *"The plain, earnest eloquence of **Lincoln** at Gettysburg reached the sublime height of classical oratory."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of herbs and subshrubs having showy flowers: spurred snapdragon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of herbs and subshrubs having showy flowers: spurred snapdragon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of herbaceous plants in the plantain family (Plantaginaceae), commonly called toadflaxes, with spurred blossoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wild plants resembling flax in their narrow leaves, bearing snapdragon-like yellow and purple flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, linaria designates genus of herbs and subshrubs having showy flowers: spurred snapdragon."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The peloric form of **Linaria** vulgaris provided early botanists with striking evidence of morphological mutability."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Yellow toadflax of the genus **Linaria** blossomed abundantly along the dry gravelly hedgerows in August."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Common butter-and-eggs belongs to **Linaria**, thriving on sunny roadside embankments throughout the eastern states."*

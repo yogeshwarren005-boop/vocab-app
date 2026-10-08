@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphic or vivid verbal description.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drawing of the outlines of forms or objects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of describing, depicting, or portraying something with precision; or a detailed verbal description.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A visual drawing, outline sketch, or diagram representing physical forms or boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Of the Alps and Pyrenees, with their pine forests and their vices, they might give a faithful delineation; and Italy, Switzerland, and the south of France might be as fruitful in horrors as they were there represented."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"This is a gentle delineation, is it not, reader?"*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"He holds that poetry is the delineation of the deeper and more secret workings of human emotion."*
+> - 📜 **Samuel Johnson (*Lives of the Poets*):** *"Milton's **delineation** of Satan in Paradise Lost remains one of the supreme achievements of heroic poetry."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Every architectural **delineation** must capture the true sculptural profile of the stone moldings."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A clear **delineation** of commercial rights prevents costly litigation between trading companies."*

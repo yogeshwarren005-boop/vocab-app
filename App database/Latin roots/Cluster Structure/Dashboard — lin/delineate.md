@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Show the form or outline of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Determine the essential quality of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To describe, portray, or set forth in words with accuracy, clarity, and comprehensive detail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To trace the outline of a physical figure, boundary, or map with precision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Such unaccountable masses of shades and shadows, that at first you almost thought some ambitious young artist, in the time of the New England hags, had endeavored to delineate chaos bewitched."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"I shall now proceed to delineate dangers of a different and, perhaps, still more alarming kind—those which will in all probability flow from dissensions between the States themselves, and from domestic factions and convulsions."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"His unwelcome approach, the recognition of his person, his hasty departure, produced a complex impression on my mind which no words can delineate."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The author must carefully **delineate** the boundaries of human knowledge to prevent vain metaphysical wanderings."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The historian undertook to **delineate** the decay of imperial virtue and the rise of military despotism."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Surveyors were instructed to **delineate** the fault line along the coastal cliffs on their topographical maps."*

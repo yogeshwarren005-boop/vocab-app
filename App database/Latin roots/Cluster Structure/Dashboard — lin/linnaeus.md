@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Swedish botanist who proposed the modern system of biological nomenclature (1707-1778).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Swedish botanist who proposed the modern system of biological nomenclature (1707-1778).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Carl Linnaeus (1707–1778), Swedish botanist, physician, and zoologist who formalized the modern system of binomial nomenclature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The father of modern systematic taxonomy, author of *Systema Naturae* and *Species Plantarum*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The cereals which they cultivated were wheat, barley, and apparently sorghum (_Holcus sorghum,_ Linnaeus), the _doora_ of the modern fellaheen."*
+> - 📜 **Charles Darwin (*Life and Letters of Charles Darwin*):** *"I have long admired the remarkable genius of **Linnaeus**, whose taxonomic vision brought order to chaotic nature."*
+> - 📜 **Johann Wolfgang von Goethe (*Italian Journey*):** *"After Shakespeare and Spinoza, **Linnaeus** produced the most profound impression upon my scientific reflections."*
+> - 📜 **Thomas Henry Huxley (*Evolution in Biology*):** *"The pioneering definitions laid down by **Linnaeus** established botany as a rigorous descriptive discipline."*

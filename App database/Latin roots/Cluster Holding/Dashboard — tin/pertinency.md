@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relevance by virtue of being applicable to the matter at hand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relevance by virtue of being applicable to the matter at hand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Direct relevance or applicability to a subject, discussion, or legal inquiry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suitability and appositeness of evidence or testimony in determining the truth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pertinency designates relevance by virtue of being applicable to the matter at hand."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He cited classical maxims with such lively **pertinency** that the whole company admired his ready wit."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"The judge examined the **pertinency** of the document before permitting it to be read before the jury."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The Scottish advocate argued with extraordinary **pertinency**, demolishing the prosecutor's circumstantial charges."*

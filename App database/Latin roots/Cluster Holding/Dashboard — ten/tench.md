@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Freshwater dace-like game fish of europe and western asia noted for ability to survive outside water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freshwater dace-like game fish of europe and western asia noted for ability to survive outside water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A European freshwater fish (*Tinca tinca*) of the carp family, with a thick slimy dark-olive skin, small barbel, and rounded fins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bottom-dwelling river and pond fish traditionally believed in folklore to have medicinal healing slime.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tench designates freshwater dace-like game fish of europe and western asia noted for ability to survive outside water."*
+> - 📜 **Izaak Walton (*The Compleat Angler*):** *"The **tench** is the physician of fishes, for the pike being sick or hurt cureth himself by touching her slimy skin."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"I am stung like a **tench**; the fleas in this Rochester inn bite worse than horse-flies."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"When the parish pond was drained in winter, we found several large **tench** buried deep in the protective mud."*

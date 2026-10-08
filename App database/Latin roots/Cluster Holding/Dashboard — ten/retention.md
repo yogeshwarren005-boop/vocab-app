@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of retaining something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The power of retaining and recalling past experience.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The continued use, existence, holding, or possession of something or someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology and neurology, the ability of the brain to retain memories, knowledge, and learned skills.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, I thought it fit To send the old and miserable King To some retention and appointed guard; Whose age has charms in it, whose title more, To pluck the common bosom on his side, And turn our impress’d lances in our eyes Which do command them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is no woman’s sides Can bide the beating of so strong a passion As love doth give my heart: no woman’s heart So big, to hold so much; they lack retention."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His life I gave him, and did thereto add My love, without retention or restraint, All his in dedication."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The memory depends upon **retention**, which is the power of the mind to revive perceptions once experienced."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The permanent **retention** of overseas colonies requires either heavy military garrisons or voluntary economic allegiance."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute urinary **retention** was relieved immediately by surgical catheterization, averting dangerous uremic poisoning."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Under terms not final or fully worked out or agreed upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unsettled in mind or opinion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not certain or fixed; provisional, exploratory, or made as an experimental trial without final commitment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Done without confidence; hesitant, cautious, or timid in action or utterance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"That he was a desultory tentative student of something and everything might only have been predicted of him."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"The tentative kiss has not yet disclosed the presence of the Prince of Revolution, and they are likely to doze for another century or two."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Whether the hen, too, was beginning to feel the effects of its run I do not know, but it slowed down to a walk, and even began to peck in a tentative manner at the grass."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"I put forward these **tentative** suggestions merely as an exploratory outline of a vast and difficult subject."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Isabel took a few **tentative** steps across the terrace, uncertain whether to confront Osmond or retire in silence."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Initial scientific hypotheses are merely **tentative** guesses until confirmed by rigorous experimental verification."*

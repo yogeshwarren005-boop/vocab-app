@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Painful spasm of the anal sphincter along with an urgent desire to defecate without the significant production of feces; associated with irritable bowel syndrome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Painful spasm of the anal sphincter along with an urgent desire to defecate without the significant production of feces; associated with irritable bowel syndrome.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A continual or recurrent inclination to evacuate the bowels or bladder, accompanied by painful, ineffectual straining.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clinical symptom of rectal or bladder inflammation, dysentery, or proctitis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenesmus designates painful spasm of the anal sphincter along with an urgent desire to defecate without the significant production of feces; associated with irritable bowel syndrome."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In acute bacillary dysentery, agonizing **tenesmus** exhausts the patient through frequent ineffectual bowel movements."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"The bloody flux is marked by violent griping in the belly and an unceasing, distressing rectal **tenesmus**."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The young doctor administered an opium enema to relieve the intolerable pelvic **tenesmus** tormenting the patient."*

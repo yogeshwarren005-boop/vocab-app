@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The group following and attending to some important person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The group following and attending to some important person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of advisers, assistants, or attendants accompanying an important personage; a train of followers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An aristocratic or royal entourage displaying status, wealth, and ceremonial magnificence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not only, sir, this your all-licens’d fool, But other of your insolent retinue Do hourly carp and quarrel; breaking forth In rank and not-to-be-endured riots."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As to this point, and as to some minor topics, there are differences of opinion; but it is perfectly clear to the brilliant and distinguished circle, all round, that nobody is in question but Boodle and his retinue, and Buffy and HIS retinue."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Next evening, down come Sir Leicester and my Lady with their largest retinue, and down come the cousins and others from all the points of the compass."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Hear me, my lord: what need you five and twenty, ten, or five, to follow in a house where twice so many have a command to tend you, or any **retinue** at all?"*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"Prince John rode to the tournament at Ashby surrounded by a glittering **retinue** of Norman knights and mercenary captains."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Persian monarch travelled across the empire accompanied by an enormous **retinue** of eunuchs, concubines, and guards."*

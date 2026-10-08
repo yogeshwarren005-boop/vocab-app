@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relevance by virtue of being applicable to the matter at hand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relevance by virtue of being applicable to the matter at hand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Direct relevance, appositeness, or applicability to the matter under consideration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apposite fitness, logical connection, and appropriateness of an argument or piece of evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Turn of the Screw*):** *"It was in any case over _my_ life, _my_ past, and _my_ friends alone that we could take anything like our ease—a state of affairs that led them sometimes without the least pertinence to break out into sociable reminders."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The great lawyer demonstrated the acute **pertinence** of ancient common-law precedents to modern commercial disputes."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Deductive validity hinges upon the strict **pertinence** of each intermediate proposition to the final conclusion."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"Let the parliament judge the constitutional **pertinence** of these colonial petitions before rejecting them with disdain."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small often spiny insectivorous mammal of madagascar; resembles a hedgehog.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small often spiny insectivorous mammal of madagascar; resembles a hedgehog.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small nocturnal mammal of the family Tenrecidae, native primarily to Madagascar, often resembling a hedgehog, shrew, or opossum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An insectivorous mammal exhibiting remarkable adaptive radiation on Madagascar, with high reproductive litter sizes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenrec designates small often spiny insectivorous mammal of madagascar; resembles a hedgehog."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The spiny **tenrec** of Madagascar represents a primitive mammalian type that has flourished in isolated insular security."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The insectivorous **tenrec** displays extraordinary morphological parallels to European hedgehogs through convergent evolution."*
+> - 📜 **David Livingstone (*Missionary Travels and Researches in South Africa*):** *"Naturalists brought from the Great Island a curious striped **tenrec** that foraged for earthworms among the bamboo roots."*

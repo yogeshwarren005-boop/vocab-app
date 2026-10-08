@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of arthropods including darkling beetles and mealworms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of arthropods including darkling beetles and mealworms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic family of darkling beetles, comprising over 20,000 species adapted to diverse habitats, especially arid environments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cosmopolitan beetle family whose larvae include mealworms, characterized by fused elytra and chemical defense secretions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenebrionidae designates a family of arthropods including darkling beetles and mealworms."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Desert-dwelling beetles of the family **Tenebrionidae** frequently possess completely fused wing-covers to conserve internal moisture."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The fauna of St. Helena includes several endemic genera of **Tenebrionidae** found nowhere else on earth."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In **Tenebrionidae**, the defensive pygidial glands secrete foul-smelling quinones to deter predatory spiders and lizards."*

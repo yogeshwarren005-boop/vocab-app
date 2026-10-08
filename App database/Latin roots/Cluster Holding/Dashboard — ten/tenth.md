@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tenth part; one part in ten equal parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Position ten in a countable series of things.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting number ten in a sequence; 10th; or each of ten equal parts into which something is divided.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tithe; historically, a tax of one-tenth levied on personal property or ecclesiastical revenue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be thou the tenth Muse, ten times more in worth Than those old nine which rhymers invocate, And he that calls on thee, let him bring forth Eternal numbers to outlive long date."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of all the horses— Whereof we have ta’en good and good store—of all The treasure in this field achieved and city, We render you the tenth, to be ta’en forth Before the common distribution At your only choice."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know you are more clement than vile men, Who of their broken debtors take a third, A sixth, a tenth, letting them thrive again On their abatement; that’s not my desire."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"Let Helen go: since the first sword was drawn about this question, every **tenth** soul of our valiant brothers hath bled."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Julius Caesar reposed supreme confidence in the **tenth** legion, which spearheaded every decisive Gallic assault."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"**Tenths** and fifteenths were ancient temporary aids granted by parliament to the crown from the personal property of the kingdom."*

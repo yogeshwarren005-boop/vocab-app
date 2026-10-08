@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a tense manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a tense manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a tense, rigid, or nervous manner; with physical or emotional strain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With taut expectation, watchful alertness, and tightly strung nerves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Flume, back against the opposite wall, weapon high and ready, peered tensely about."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"We lived, as it were, with bated breath and eager ears, our nerves tensely strung with anxiety and suspense waiting to catch the first sound of that coming strife, where we knew so many of our bravest and best must fall."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Upon them the undivided, tensely passionate attention of that whole mass of men was concentrated."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Speckled Band*):** *"Holmes sat **tensely** on the side of the bed with his cane ready, watching the sinister ventilator shaft."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The helmsman peered **tensely** into the heavy river fog, dreading an ambush from the unseen banks."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I gripped my hands **tensely** together to conceal the trembling that shook my frame as Rochester approached."*

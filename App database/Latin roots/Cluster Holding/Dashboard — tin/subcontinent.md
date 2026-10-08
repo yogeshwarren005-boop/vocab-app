@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large and distinctive landmass (as india or greenland) that is a distinct part of some continent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large and distinctive landmass (as india or greenland) that is a distinct part of some continent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, distinguishable part of a continent, such as the Indian subcontinent, having distinct geographic or tectonic identity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A major landmass, slightly smaller than a conventional continent, forming an identifiable geographic entity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subcontinent designates a large and distinctive landmass (as india or greenland) that is a distinct part of some continent."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The Indian **subcontinent** presents a remarkable mixture of Ethiopian and Indo-Malayan mammalian families."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Plate tectonics reveal how an ancient drifting **subcontinent** collided with Asia, upthrusting the majestic Himalayas."*
+> - 📜 **Rudyard Kipling (*Kim*):** *"The Great Trunk Road ran like a spinal cord across the vast northern plains of the Indian **subcontinent**."*

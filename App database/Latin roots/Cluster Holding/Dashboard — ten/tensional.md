@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or produced by tension.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or produced by tension.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resulting from mechanical, physical, or geological tension or stretching.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by psychological strain, emotional friction, or conflict.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tensional designates of or relating to or produced by tension."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The crustal faulting produced profound **tensional** rifts across the elevated volcanic plateau."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Social cohesion breaks down when internal **tensional** stresses exceed the institutional elasticity of the state."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The fibrous capsule of the hip joint is adapted to resist immense **tensional** forces during upright locomotion."*

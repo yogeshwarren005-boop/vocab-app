@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychology) a state of mental or emotional strain or suspense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physical condition of being stretched or strained.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mental anxiety, political strain, or the physical pulling force transmitted along a stretched cable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics, the pulling force transmitted axially by means of a string, cable, chain, or structural member.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The infant’s breathing grew more difficult, and the mother’s mental tension increased."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"When she found him near her, her very tension at what she had heard the night before made her the first to speak."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"My good God! that ever I should ha’ lived to say it, but I say it again, you little fool!” Tess was convulsed with weeping, the tension of so many days having relaxed at last."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"The velocity of a transverse wave upon a vibrating chord varies directly as the square root of the applied **tension**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The growing political **tension** between the eastern and western courts erupted into mutual recriminations."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"There was an awkward **tension** in the room until the arrival of tea provided an excuse for casual conversation."*

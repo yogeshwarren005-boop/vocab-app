@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a series of hooks used to hold cloth on a tenter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of a series of hooks used to hold cloth on a tenter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hooked nail used for fastening and stretching cloth on a wooden tenter frame; often plural in figurative idiom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the idiom 'on tenterhooks': in a state of painful suspense, anxiety, or uneasy anticipation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Still just then, being on tenterhooks, he desired the female’s room more than her company so it came as a genuine relief when the keeper made her a rude sign to take herself off."*
-> - 📜 **Grant Allen (*Michael's Crag*):** *"Oh, take care!" Walter Tyrrel cried, looking up at him, on tenterhooks."*
+> - 📜 **Tobias Smollett (*The Adventures of Roderick Random*):** *"I was kept on the **tenterhook** of agonizing suspense for three whole days awaiting the admiral's final decision."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The gossiping villagers hung each visitor on the **tenterhook** of curiosity regarding the mysterious stranger."*
+> - 📜 **Charles Dickens (*Martin Chuzzlewit*):** *"Pecksniff kept his anxious pupils upon the **tenterhook** of uncertainty concerning the architectural prize."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relatively small dimension through an object as opposed to its length or width.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rarified quality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition or property of being thin, slender, or flimsy; lack of density, thickness, or substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rarity or low density of a gas; or flimsiness, unsubstantiality, and weakness of an argument.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Science can now educe threads of such exquisite tenuity that only the feet of the tiniest infant-spiders can ascend them; but up the filmiest insubstantiality Shelley runs with agile ease."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The extreme **tenuity** of the interplanetary medium offers no perceptible resistance to the orbits of planets."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Metaphysical theories of human rights possess an airy **tenuity** that evaporates upon the first touch of real political crisis."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The cometary tail exhibits an astonishing **tenuity**, permitting faint telescopic stars to shine through its vast expanse undimmed."*

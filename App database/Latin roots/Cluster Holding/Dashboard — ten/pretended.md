@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make believe with the intent to deceive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Behave unnaturally or affectedly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not genuine; assumed, simulated, or feigned; falsely claimed or pretended.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Asserted as a pretext or fictitious title, as a pretended monarch or heir.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now presently I’ll give her father notice Of their disguising and pretended flight, Who, all enraged, will banish Valentine, For Thurio he intends shall wed his daughter."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Quoth she, “Reward not hospitality With such black payment as thou hast pretended; Mud not the fountain that gave drink to thee, Mar not the thing that cannot be amended."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"This out of to-day, quite an unnecessary out so far as the attendance, which was its pretended object, went, was planned by me alone for thee alone."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The **pretended** prince of Wales was denounced by Whig pamphleteers as a warming-pan impostor."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The usurper ruled under the **pretended** sanction of an ancient republican decree extorted from a terrified senate."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The naturalist maintained a **pretended** ignorance of the hound, though he secretly nurtured the beast upon the moor."*

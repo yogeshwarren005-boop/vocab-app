@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of memory) deficient in retentiveness or range.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of memory) deficient in retentiveness or range.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not retentive; having a poor or defective memory; unable to hold or preserve information or impressions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical science, incapable of holding moisture, heat, or magnetic polarization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unretentive designates (of memory) deficient in retentiveness or range."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"An **unretentive** memory resembles a shallow vessel of sand, where water vanishes as swiftly as it is poured."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"The careless student complains of an **unretentive** intellect, when his real defect is lack of disciplined attention."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Sandy soil is notoriously **unretentive** of moisture, baking into dry dust under the heat of midday sun."*

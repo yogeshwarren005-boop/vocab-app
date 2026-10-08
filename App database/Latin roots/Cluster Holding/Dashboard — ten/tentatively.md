@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a tentative manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a tentative manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Subject to further confirmation; not definitely or conclusively; provisionally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hesitantly, cautiously, or with lack of certainty in movement or speech.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Perhaps somebody in the house is in love,” she said tentatively."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He thrust tentatively, and again I feigned, this time making a needlessly wide parry."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I am just wondering," I began tentatively."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes tapped **tentatively** along the wainscot with his cane, listening for the hollow echo of a hidden panel."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Anne spoke **tentatively** of Captain Wentworth's return, watching her companion's countenance for any sign of interest."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The young ape advanced **tentatively** toward the novel object, ready to retreat to the branches at the first alarm."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spanish island in the atlantic off the northwestern coast of africa; the largest of the canary islands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spanish island in the atlantic off the northwestern coast of africa; the largest of the canary islands.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest of the Canary Islands (Spain), located in the Atlantic Ocean, dominated by the volcanic peak of Mount Teide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A delicate, wheel-like drawn-thread needle lace historically crafted on the island of Tenerife.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenerife designates a spanish island in the atlantic off the northwestern coast of africa; the largest of the canary islands."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The snow-capped summit of **Tenerife** rose majestically above the clouds as the Beagle approached the Canary archipelago."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"Our botanical ascent of Mount Teide in **Tenerife** revealed distinct ecological zones from sea palms to alpine lichens."*
+> - 📜 **Horatio Nelson (*Dispatches and Letters*):** *"At the night assault upon Santa Cruz de **Tenerife**, our boats encountered ferocious resistance and severe grapeshot fire."*

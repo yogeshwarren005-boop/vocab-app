@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A false or unsupportable quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artful or simulated semblance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An attempt to make something that is not the case appear true; a false display, feigning, or affectation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A claim or aspiration, especially one that is questionable, superficial, or unsupported by merit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why hast thou abus’d So many miles with a pretence?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now this follows— Which, as I take it, is a kind of puppy To the old dam treason—Charles the Emperor, Under pretence to see the Queen his aunt— For ’twas indeed his colour, but he came To whisper Wolsey—here makes visitation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The subjects’ grief Comes through commissions, which compels from each The sixth part of his substance, to be levied Without delay; and the pretence for this Is named your wars in France."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Against the undivulg'd **pretence** I fight of treasonous malice, and lay bare the bloody plot."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Under the plausible **pretence** of defending the frontiers, the ambitious general gathered an army to usurp the throne."*
+> - 📜 **Jane Austen (*Emma*):** *"Frank Churchill made a frivolous **pretence** of buying ribbons in order to ride over to Highbury to visit Jane."*

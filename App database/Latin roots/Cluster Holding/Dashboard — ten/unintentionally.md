@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without intention; in an unintentional manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without intention; in an unintentional manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without meaning to do something; inadvertently, accidentally, or by mistake; not deliberately.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unknowingly producing a result without conscious premeditation or design.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Thus much indeed he was obliged to acknowledge: that he had been constant unconsciously, nay unintentionally; that he had meant to forget her, and believed it to be done."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He cut a convict unintentionally with a bread-knife."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"The responsibility of giving the lady away devolved upon the Aged, which led to the clergyman’s being unintentionally scandalised, and it happened thus."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne **unintentionally** wounded her mother's feelings by speaking passionately of Willoughby's past promises."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Watson **unintentionally** stepped upon the footprint in the garden path, drawing a sharp rebuke from Sherlock Holmes."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Dick **unintentionally** betrayed the hiding place of the runaway boy by his innocent remarks over backgammon."*

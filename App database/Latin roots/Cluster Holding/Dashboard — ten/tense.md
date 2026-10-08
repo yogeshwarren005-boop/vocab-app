@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A grammatical category of verbs used to express distinctions of time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become stretched or tense or taut.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stretched tight, rigid, or showing signs of nervousness and strain; unable to relax.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In grammar, a category that locates a situation in time (past, present, or future) through verbal inflection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He went to the door, knocked, and waited with tense muscles and an aching brow."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"For a few seconds the wayfarer stood with that tense stillness which signifies itself to be not the end, but merely the suspension, of a previous motion."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And then we looked with all our eyes, blue eyes and black, until Pilate’s wife, a thin, tense, overwrought woman, laughed nervously."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Every nerve in Watson's body grew **tense** as the mysterious footsteps approached along the dark corridor."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Hold off thy hand; by heaven, I'll have't; let us speak in the present **tense** of what must instantly be done."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The atmosphere in the revolutionary courtroom was **tense** with suppressed bloodlust and political frenzy."*

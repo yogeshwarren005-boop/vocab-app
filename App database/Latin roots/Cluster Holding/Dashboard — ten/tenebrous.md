@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dark and gloomy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dark and gloomy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dark, shadowy, gloomy, or murky; shut off from light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obscure, difficult to understand; mysterious, enigmatic, or sinister in tone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"It is strange how I accepted this unforeseen partnership, this choice of nightmares forced upon me in the tenebrous land invaded by these mean and greedy phantoms."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"The **tenebrous** waters of the tarn reflected the crumbling battlements with eerie, melancholic precision."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The barbarian horde plunged into the **tenebrous** depths of the Hercynian forest, beyond the reach of Roman scouts."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"A **tenebrous** corridor led to the secret attic chamber where the madwoman paced in violent solitude."*

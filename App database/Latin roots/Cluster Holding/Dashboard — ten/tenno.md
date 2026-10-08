@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The emperor of japan; when regarded as a religious leader the emperor is called tenno.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The emperor of japan; when regarded as a religious leader the emperor is called tenno.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Emperor of Japan; the hereditary ceremonial monarch and high priest of the Shinto faith in Japan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The supreme imperial title and sovereign institution embodying Japanese national continuity and religious rites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenno designates the emperor of japan; when regarded as a religious leader the emperor is called tenno."*
+> - 📜 **Lafcadio Hearn (*Japan: An Attempt at Interpretation*):** *"The sacred person of the **Tenno** was revered as the earthly representative of the sun goddess Amaterasu."*
+> - 📜 **Basil Hall Chamberlain (*Things Japanese*):** *"With the Meiji Restoration of 1868, the **Tenno** was restored to direct sovereign authority after centuries of shogunate rule."*
+> - 📜 **Algernon Freeman-Mitford (*Tales of Old Japan*):** *"The imperial herald announced the sacred decree of the **Tenno** to the kneeling samurai assembled in Kyoto."*

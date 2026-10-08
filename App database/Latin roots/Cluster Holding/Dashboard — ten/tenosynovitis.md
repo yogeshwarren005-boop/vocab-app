@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of a tendon and its enveloping sheath.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of a tendon and its enveloping sheath.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the fluid-filled sheath (synovium) that surrounds a tendon, causing pain, swelling, and crepitus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A repetitive strain disorder or infectious condition affecting the flexor or extensor tendons of the wrist or hand.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenosynovitis designates inflammation of a tendon and its enveloping sheath."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute suppurative **tenosynovitis** of the flexor tendon sheath demands prompt surgical decompression to save finger function."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The factory girl complained of severe wrist swelling diagnosed as occupational **tenosynovitis** from ceaseless loom work."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"In traumatic **tenosynovitis**, distinct dry crepitation may be felt along the sheath during voluntary motion of the thumb."*

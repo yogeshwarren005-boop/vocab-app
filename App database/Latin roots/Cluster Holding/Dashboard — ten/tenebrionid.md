@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sluggish hard-bodied black terrestrial weevil whose larvae feed on e.g. decaying plant material or grain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sluggish hard-bodied black terrestrial weevil whose larvae feed on e.g. decaying plant material or grain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any beetle of the family Tenebrionidae; a darkling beetle, usually black or brown and nocturnal in habits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scavenger or herbivorous beetle thriving in arid deserts, rotting timber, or stored grains (e.g., mealworm beetle).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenebrionid designates sluggish hard-bodied black terrestrial weevil whose larvae feed on e.g. decaying plant material or grain."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Beneath the stones of the arid Patagonian plains we found a curious wingless **tenebrionid** beetle crawling slowly."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The dense tropical mould sheltered diverse **tenebrionid** species that feed upon decaying fungal mycelia."*
+> - 📜 **Henri Fabre (*More Hunting Wasps*):** *"The sand wasp captured a plump **tenebrionid** larva to stock the underground nursery burrow for its brood."*

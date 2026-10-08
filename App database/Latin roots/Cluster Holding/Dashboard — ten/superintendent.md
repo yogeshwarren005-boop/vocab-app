@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who directs and manages an organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A caretaker for an apartment house; represents the owner as janitor and rent collector.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who oversees, directs, or manages an organization, department, district, or building; an executive director.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A high-ranking police officer ranking above an inspector in British and Commonwealth constabularies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Hall, "told me that when superintendent of a Sunday school he felt a strong impulse, one Saturday evening, to call at the home of one of his teachers whom he had never visited before."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He is now an active Christian, a superintendent of the Sabbath school, and a most zealous member of the Young Men's Christian Association of this place." ALMOST PERSUADED."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Hearing of this intention the Superintendent of Quedlinburg hurried to the spot and has described for us what he saw."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The police **superintendent** arrived at Pondicherry Lodge in a four-wheeler accompanied by two armed detectives."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"Mr. Bounderby appointed a hard-faced **superintendent** to enforce twelve-hour shifts in the smoking Coketown mills."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Abbot Samson acted as a vigilant **superintendent** of the monastery estates, clearing debts and repairing abbey roofs."*

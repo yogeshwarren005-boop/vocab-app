@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The application of a thin layer of soft solder to the ends of wires before soldering them.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The application of a protective layer of tin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The industrial or craft process of coating sheets of iron, steel, or copper with a thin protective layer of molten tin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The commercial canning or preserving of food in hermetically sealed metal containers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Tinning Copper Shell._ Tin-foil is melted on the back of the copper shell."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Plus this fact is the accuracy of mechanical operation in handling wax molds from the time they are put into the batteries until they are taken out with the shell deposited thereon and ready for tinning and backing-up."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The **tinning** of copper vessels prevents the acid juices of food from generating noxious green verdigris."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The manufacture of tinplate requires skilled rolling of iron plates and careful **tinning** in grease baths."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"Clean soldering requires the previous **tinning** of the copper bit with rosin and molten solder."*

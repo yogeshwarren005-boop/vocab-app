@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not ostentatious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not ostentatious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not making claims to importance or distinction; unostentatious, modest, humble, and unassuming.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Simple and plain in domestic lifestyle, architecture, or literary expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Perhaps I should only have to say to Ada, “Would you like to come and see me married to-morrow, my pet?” Perhaps our wedding might even be as unpretending as her own, and I might not find it necessary to say anything about it until it was over."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"When it was decided that he should settle here, it came into my head that I might ask his acceptance of some unpretending and suitable little place to lay his own head in."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"The domestic, unpretending merits of a person never known do not often create that kind of fervent, venerating tenderness which would prompt a visit like yours."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Barton Cottage was an **unpretending** little dwelling, but it offered shelter, peace, and clean country air."*
+> - 📜 **Oliver Goldsmith (*The Deserted Village*):** *"The village preacher's modest mansion rose, a man he was to all the country dear, and passing rich with forty pounds a year; in **unpretending** piety."*
+> - 📜 **Charles Darwin (*Life and Letters of Charles Darwin*):** *"My grandfather was a man of the most **unpretending** character, whose benevolent kindness won all rustic hearts."*

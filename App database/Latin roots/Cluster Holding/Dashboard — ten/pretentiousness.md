@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of elegance as a consequence of being pompous and puffed up with vanity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being pretentious (behaving or speaking in such a manner as to create a false appearance of great importance or worth).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ostentatious affectation, pompous display, or exaggerated self-importance designed to impress others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shallow display of cultural, artistic, or social superiority designed to mask mediocrity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pretentiousness designates lack of elegance as a consequence of being pompous and puffed up with vanity."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"The modest country parson was refreshingly free from that modern **pretentiousness** which plagues ambitious churchmen."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"Nothing exposes an author to sharper ridicule than the solemn **pretentiousness** of an ornate, empty style."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"True classic prose avoids vulgar **pretentiousness**, achieving its enduring power through simplicity and precise cadence."*

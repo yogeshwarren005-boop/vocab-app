@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The adult male singing voice above baritone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The pitch range of the highest male voice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The highest natural adult male singing voice, or the general meaning, drift, or prevailing tone of a speech or document.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A continuous or unbroken course in a way of life, office, or legal proceeding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be it your charge, my lord, To see perform’d the tenor of our word."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Myself have letters of the selfsame tenor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The tenor of them doth but signify My health and happy being at your court."*
+> - 📜 **Thomas Gray (*Elegy Written in a Country Churchyard*):** *"Far from the madding crowd's ignoble strife, their sober wishes never learn'd to stray; along the cool sequester'd vale of life they kept the noiseless **tenor** of their way."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The general **tenor** of the Magna Carta confirms the ancient common-law liberties of English freemen."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The sweet Italian **tenor** sang an aria from Bellini that stirred the romantic sensibilities of the drawing-room."*

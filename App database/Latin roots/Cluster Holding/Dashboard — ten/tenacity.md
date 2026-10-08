@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Persistent determination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Persistent determination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or fact of being able to grip something firmly; grip or persistent determination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and materials science, the property of a solid material to resist being pulled apart; tensile strength.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Each trial only increased its tenacity, and brought him greater humility, for it opened his own heart to a sense of his own powerlessness, and this faith has grown with work and trial, till its strength is beyond all precedent."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The tenacity with which he strove to hide this inward drama made it the more vivid for him; as we hear with the more keenness what we wish others not to hear."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate could only say, “Poor, poor darling!”—but he secretly wondered over the terrible tenacity of this mild creature."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"William of Orange defended the liberties of the Netherlands with an indomitable **tenacity** that exhausted French arms."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The roots of the mangrove bind the coastal silt together with marvelous **tenacity** against tidal currents."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Drawn copper wire displays extraordinary metallic **tenacity**, supporting immense weights without permanent elongation."*

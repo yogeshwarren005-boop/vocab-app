@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having thin consistency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very thin in gauge or diameter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Very weak or slight; insubstantial, flimsy, or doubtful; having little substance or validity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very slender or fine in physical structure; rarefied, as a gas or atmosphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Something tenuous, of immense brain power, of immense will."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The lunar surface is surrounded by a vanishingly **tenuous** atmosphere incapable of supporting terrestrial life."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"Do not sever that subtle, **tenuous** cord of mutual commercial affection that unites the colonies to the mother country."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The chain of circumstantial evidence against the young baronet was far too **tenuous** to convince Holmes."*

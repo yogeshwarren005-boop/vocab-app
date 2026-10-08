@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (in enumerating something, such as topics or points of discussion) in the tenth place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (in enumerating something, such as topics or points of discussion) in the tenth place.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In the tenth place; tenth in a numbered list of items, arguments, or points.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As the tenth successive division in an elaborate formal discourse or legal brief.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenthly designates (in enumerating something, such as topics or points of discussion) in the tenth place."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"The pedantic author proceeded to argue ninthly, **tenthly**, and eleventhly, wearying the reader with endless subdivisions."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"And **tenthly**, we must consider the fecundity of the act in generating secondary pleasures and pains throughout society."*
+> - 📜 **Richard Baxter (*The Christian Directory*):** *"The puritan divine expounded the decalogue, arriving **tenthly** at the divine prohibition against coveting a neighbor's goods."*

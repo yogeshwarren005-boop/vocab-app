@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state in east central united states.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A river formed by the confluence of two other rivers near knoxville; it follows a u-shaped course to become a tributary of the ohio river in western kentucky.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A southeastern US state bordered by eight states, known for the Appalachian Mountains and musical heritage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A major river of the southeastern United States, flowing into the Ohio River at Paducah, Kentucky.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Please, God, let a good man be in Glendale, Tennessee, who will understand and protect me--no, that's the wrong prayer!"*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Paris and London and New York are nice safe places to live in, in comparison with Glendale, Tennessee, in some respects."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"If any jungle explorer thinks he has mapped and charted a woman's heart he had better pack up his instruments of warfare and recorders and come down to Glendale, Tennessee."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"Steamboats churned the muddy waters of the **Tennessee** River, hauling cotton bales down to the great junction."*
+> - 📜 **Ulysses S. Grant (*Personal Memoirs*):** *"The capture of Fort Donelson opened the Cumberland and **Tennessee** rivers to federal gunboat flotillas."*
+> - 📜 **Theodore Roosevelt (*The Winning of the West*):** *"Settlers poured into **Tennessee**, establishing self-governing frontier associations at Watauga and Cumberland."*

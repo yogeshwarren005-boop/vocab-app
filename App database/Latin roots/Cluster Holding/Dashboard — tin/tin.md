@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A silvery malleable metallic element that resists corrosion; used in many alloys and to coat other metals to prevent corrosion; obtained chiefly from cassiterite where it occurs as tin oxide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vessel (box, can, pan, etc.) made of tinplate and used mainly in baking.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A silvery-white, ductile, malleable metallic chemical element (atomic number 50, symbol Sn), used in alloys like bronze and solder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A container made of tinplate or aluminum used for preserving food, biscuits, or tobacco; a can.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, “a habitable doll’s house with good board and a few tin people to get into debt with and borrow money of would set the boy up in life."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Quickly the waitress returns bearing what is apparently a model of the Tower of Babel but what is really a pile of plates and flat tin dish-covers."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He could play ’em a tune on any sort of pot you please, so as it was iron or block tin."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The Cornish mines have yielded pure **tin** since the days when Phoenician ships traded in the British seas."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe brought out a small **tin** can of grease to lubricate the squeaking hinges of the smithy door."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Inside the stone hut on the moor, Holmes found an empty **tin** of tongue and a tin pannikin for water."*

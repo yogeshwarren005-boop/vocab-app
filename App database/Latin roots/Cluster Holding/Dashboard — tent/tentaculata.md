@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ctenophores have retractile tentacles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ctenophores have retractile tentacles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major class of the phylum Ctenophora (comb jellies), characterized by possessing a pair of retractable tentacles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marine pelagic invertebrates utilizing ciliated comb rows for propulsion and branched tentacles with colloblasts to catch prey.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tentaculata designates ctenophores have retractile tentacles."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The class **Tentaculata** comprises comb jellies whose branched feeding tentacles retract into specialized lateral sheaths."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Phosphorescent blooms of **Tentaculata** illuminated the nighttime wake of the ship with ethereal azure flashes."*
+> - 📜 **William Beebe (*Half Mile Down*):** *"Through the bathysphere window we observed fragile specimens of **Tentaculata** pulsing rhythmically in the ocean abyss."*

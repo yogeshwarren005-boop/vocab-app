@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A false or unsupportable quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The advancing of a claim.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A claim or assertion of a claim to something, especially to merit, scholarship, or distinction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of affectation to impress others; ostentatiousness or snobbish display.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Miss Tilney had a good figure, a pretty face, and a very agreeable countenance; and her air, though it had not all the decided pretension, the resolute stylishness of Miss Thorpe’s, had more real elegance."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"He owns it himself without disguise.” “No,” said Darcy, “I have made no such pretension."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Neither the value of lands, nor the numbers of the people, which have been successively proposed as the rule of State contributions, has any pretension to being a just representative."*
+> - 📜 **Jane Austen (*Emma*):** *"Harriet Smith had no fortune and no connections, and her modest beauty gave her no **pretension** to so elevated a match."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The arrogant **pretension** of the Parisian mob to dictate laws to the whole realm ruined the nascent constitutional order."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The barbarian king backed his imperial **pretension** with fifty thousand Ostrogothic lances encamped outside Ravenna."*

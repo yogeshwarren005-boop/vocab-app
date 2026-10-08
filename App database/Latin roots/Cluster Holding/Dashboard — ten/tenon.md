@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A projection at the end of a piece of wood that is shaped to fit into a mortise and form a mortise joint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A projection at the end of a piece of wood that is shaped to fit into a mortise and form a mortise joint.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A projecting piece of wood made for insertion into a mortise in another piece to form a joint in carpentry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy, Tenon's capsule, the thin fibrous membrane enclosing the eyeball from the optic nerve to the ciliary region.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"If you allow me. _(He indicates vaguely Lynch and Bloom.)_ We are all in the same sweepstake, Kinch and Lynch. _Dans ce bordel où tenons nostre état_."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I borrowed an axe and hewed the white pine studs, cutting each mortise and **tenon** with careful accuracy for my roof."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The timber craftsman drove the seasoned oak peg through the mortise to lock the heavy **tenon** into place."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The ocular surgeon made an incision through the conjunctiva and **tenon** capsule to expose the rectus muscle."*

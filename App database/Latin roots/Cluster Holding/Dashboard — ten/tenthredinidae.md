@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sawflies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sawflies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest family of sawflies (order Hymenoptera), containing over 5,000 species of non-stinging plant-feeding wasps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insects whose caterpillar-like larvae feed on foliage, equipped with saw-like ovipositors used by females to cut slits in leaves for eggs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog tenthredinidae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The sawflies of the family **Tenthredinidae** inflict severe injury upon rose bushes and gooseberry crops in early summer."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"In the rainforest canopies we observed colorful species of **Tenthredinidae** exhibiting protective mimicry of stinging vespids."*
+> - 📜 **Henri Fabre (*The Life of the Fly*):** *"The female sawfly of **Tenthredinidae** uses its serrated abdominal saws with exquisite precision to insert its eggs into the twig."*

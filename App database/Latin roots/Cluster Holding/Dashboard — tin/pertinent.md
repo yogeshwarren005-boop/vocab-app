@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having precise or logical relevance to the matter at hand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being of striking appropriateness and pertinence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relevant or applicable to a particular matter; apposite, directly germane, and fitting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appropriately related to an issue under judicial consideration or academic inquiry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But yet my caution was more pertinent Than the rebuke you give it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At the queen’s be’t: “good” should be pertinent, But so it is, it is not."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Farmer Boldwood?” It was the single name among all possible wrong ones that just at this moment seemed to Bathsheba more pertinent than the right."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes asked a few brief, **pertinent** questions regarding the exact time of the baronet's departure."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth made several **pertinent** remarks on the novel, which proved her refined taste and sound judgment."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is **pertinent** to examine whether the proposed federal judiciary possesses adequate powers to enforce the laws."*

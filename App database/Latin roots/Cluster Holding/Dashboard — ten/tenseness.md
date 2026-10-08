@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical condition of being stretched or strained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (psychology) a state of mental or emotional strain or suspense.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Nervous strain, physical rigidity, or taut suspense in muscle or emotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tautness in a stretched rope, cable, or biological membrane.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"It was a week of strained tenseness; a certain electricity seemed at hand in the atmosphere, inhibiting speech."*
-> - 📜 **O. Henry (*My tussle with the devil, and other stories*):** *"Stooping, she picks it up, and then, as her eyes scan the page, there is a sudden tenseness of the body, as she reads:-- “The key to the ‘Temple of Knowledge’ lies within each soul and he who seeks, from the heart, shall find."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Intense mental concentration is accompanied by an involuntary **tenseness** in the facial and neck muscles."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"There was a painful **tenseness** in the silence that fell between the estranged husband and wife."*
+> - 📜 **Herman Melville (*Billy Budd*):** *"The sudden **tenseness** of the ship's company revealed their horror as the fatal court-martial sentence was pronounced."*

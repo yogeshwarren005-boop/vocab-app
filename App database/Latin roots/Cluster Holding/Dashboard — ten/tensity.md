@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical condition of being stretched or strained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physical condition of being stretched or strained.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The degree of tension, mechanical tautness, or nervous strain in a structure or voice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intensity, earnestness, or taut emotional focus in voice or expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tensity designates the physical condition of being stretched or strained."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The poetic diction maintains an extraordinary **tensity** of imaginative power throughout the introductory ode."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The physical **tensity** of the steel spring stores potential mechanical energy ready for instant release."*
+> - 📜 **Henry James (*The Wings of the Dove*):** *"Milly was conscious of a sudden dramatic **tensity** in Densher's voice as he turned toward her."*

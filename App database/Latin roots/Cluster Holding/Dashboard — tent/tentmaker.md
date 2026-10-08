@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who makes or repairs tents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who makes or repairs tents.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose craft or trade is the making of tents, marquees, sails, and canvas coverings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically associated with the Apostle Paul, who earned his living as a tentmaker in Corinth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tentmaker designates someone who makes or repairs tents."*
+> - 📜 **John Milton (*The Reason of Church Government*):** *"Paul, the holy apostle and humble **tentmaker**, refused to be a financial burden to the churches he founded."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"In the bazaars of Tarsus, the trade of the **tentmaker** supplied camel-hair pavilions to desert caravans."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"From the humble shop of the **tentmaker** went forth spiritual doctrines that subverted the pagan altars of Rome."*

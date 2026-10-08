@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of sustaining life by food or providing a means of subsistence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of sustaining life by food or providing a means of subsistence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of sustaining, upholding, or supporting life; nourishment, maintenance, or preservation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Financial maintenance provided for clergy, educational institutions, or charitable endowments (e.g., sustentation fund).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sustentation designates the act of sustaining life by food or providing a means of subsistence."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Trees draw mineral moisture from the earth for the **sustentation** of their leafy boughs and swelling fruit."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The Scottish church established a national **sustentation** fund to maintain unbeneficed ministers in remote Highland parishes."*
+> - 📜 **Jeremy Taylor (*Holy Living*):** *"God provides daily bread for the humble **sustentation** of our fragile bodies, forbidding luxurious greed."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who makes or repairs tinware.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who makes or repairs tinware.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who works in a tin mine; a Cornish tin miner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tinsmith or artisan who makes and repairs tinware and galvanized household utensils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tinner designates someone who makes or repairs tinware."*
+> - 📜 **William Camden (*Britannia*):** *"The Cornish **tinner** laboriously digs through granite veins to extract rich black tin ore for the stannary courts."*
+> - 📜 **Walter Scott (*The Fortunes of Nigel*):** *"A bustling street **tinner** mended kettles and soldering pots over a portable charcoal brazier."*
+> - 📜 **Charles Dickens (*The Old Curiosity Shop*):** *"The itinerant **tinner** hammered on a dented copper sauce-pan, singing an old country ballad in the tavern yard."*

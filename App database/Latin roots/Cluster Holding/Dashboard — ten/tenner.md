@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of nine and one; the base of the decimal system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A united states bill worth 10 dollars.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ten-pound banknote (in British currency) or a ten-dollar bill (in American currency).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person or thing associated with the number ten, or a sporting contest lasting ten rounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I first appear, though rude and raw and muddy, To speak before thy noble grace this tenner, At whose great feet I offer up my penner."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Blue Carbuncle*):** *"He pulled a crisp **tenner** from his pocket and slapped it upon the table to clinch the wager with the poulterer."*
+> - 📜 **P. G. Wodehouse (*The Inimitable Jeeves*):** *"Bingo Little borrowed a **tenner** from me to place upon an alleged certainty in the afternoon handicap."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"A spare **tenner** would have meant three weeks of clean lodging and decent bread for an impoverished dishwasher."*

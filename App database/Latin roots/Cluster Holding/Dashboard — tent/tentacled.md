@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having tentacles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having tentacles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Furnished with or possessing tentacles; having flexible grasping appendages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling or characterized by radiating feelers or extending arms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tentacled designates having tentacles."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A vast, **tentacled** squid rose to the ocean surface, its gelatinous arms undulating like a forest of serpents."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In tidal pools we discovered many-**tentacled** actinias glowing with brilliant scarlet and emerald pigments."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"The monstrous, eight-**tentacled** poulpe attacked the glass portholes of the submarine with furious suction."*

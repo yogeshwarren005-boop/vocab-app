@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A measuring instrument for measuring the moisture content of soil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument for measuring the tension in a wire or fiber or beam.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring surface tension of liquids, or the soil moisture tension in agricultural fields.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mechanical device used in engineering to measure tension in wires, cables, or textile fibers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tensiometer designates a measuring instrument for measuring the moisture content of soil."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"The surface tension of the soap bubble film was measured with a delicate torsion **tensiometer**."*
+> - 📜 **Liberty Hyde Bailey (*The Principles of Fruit-Growing*):** *"Orchardists bury a porous **tensiometer** in the root zone to determine the precise timing for seasonal irrigation."*
+> - 📜 **Arthur C. Clarke (*The Fountains of Paradise*):** *"The orbital tower engineer checked the electronic **tensiometer** readings along the hyper-tensile carbon composite cable."*

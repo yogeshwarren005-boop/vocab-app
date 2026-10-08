@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Good at remembering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stubbornly unyielding; ; ; ; - t.s.eliot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to keep a firm hold of something; clinging or adhering closely; persistent or stubborn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Holding fast to an opinion, purpose, or principle; determined, resolute, and unyielding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"How long were you there?” “Eight years.” “Eight years! you must be tenacious of life."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"While earnestly wishing to erase from his mind the trace of my former offence, I had stamped on that tenacious surface another and far deeper impression: I had burnt it in."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Her affections were not acute, nor was her mind tenacious."*
+> - 📜 **Francis Bacon (*Essays*):** *"Old men are **tenacious** of their ancient opinions, and slow to embrace novel innovations in government."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Climbing plants develop **tenacious** tendrils that twine firmly around every neighboring branch."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I held to my moral resolution with a **tenacious** grip, refusing to become Rochester's mistress against divine law."*

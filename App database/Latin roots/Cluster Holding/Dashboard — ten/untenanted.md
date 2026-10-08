@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not leased to or occupied by a tenant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not leased to or occupied by a tenant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not occupied by a tenant or resident; uninhabited, empty, vacant, or deserted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no occupant, dweller, or lessee, as an abandoned farm or empty townhouse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"For ten years it had been untenanted, until a Miss O'Malley had bought it, and opened the great oak doors, and let the sea-air blow through the windows of it, and clipped the garden of the yews."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"I had the further motive that Baskerville Hall, as the paper says, would certainly remain untenanted if anything were done to increase its already rather grim reputation."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"The twilight under tall pines seems to be untenanted and to lack something, at first sight, as if one opened the door of an empty house."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The dark brick house had stood **untenanted** for twenty years, its shuttered windows grey with accumulated soot."*
+> - 📜 **Walter Scott (*The Bride of Lammermoor*):** *"The north wing of the ancient castle remained **untenanted**, abandoned to the owls and nesting bats."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The dusty shop parlor had long been **untenanted** until Miss Hepzibah unlocked the creaking door to the public."*

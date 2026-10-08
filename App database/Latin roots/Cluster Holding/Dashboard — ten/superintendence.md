@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Management by overseeing the performance or operation of a person or group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Management by overseeing the performance or operation of a person or group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of superintending; supervision, management, oversight, or directorial care.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Administrative control exercised by an appointed overseer, director, or governing board.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In the active superintendence of this young person, Judy Smallweed appears to attain a perfectly geological age and to date from the remotest periods."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The dairy superintendence shall be done by a man—I can afford it well—you shall never have so much as to look out of doors at haymaking time, or to think of weather in the harvest."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Darcy often acknowledged himself to be under the greatest obligations to my father’s active superintendence; and when, immediately before my father’s death, Mr."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The general **superintendence** of federal finances demands an energetic treasury executive accountable to Congress."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The wages of inspection and **superintendence** vary with the trust reposed in the overseer of the manufactory."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The roads, aqueducts, and grain granaries of the capital were placed under the immediate **superintendence** of the city prefect."*

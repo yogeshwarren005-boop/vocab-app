@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dark and gloomy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dark and gloomy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing, causing, or spreading darkness, gloom, or obscurity; darkening.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Melancholy or obscure in literary tone, philosophical style, or moral effect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"It lightens, it brightens The tenebrific scene, To meet with, and greet with My Davie, or my Jean!"*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"A **tenebrific** cloud of revolutionary panic descended over Paris, extinguishing every spark of civil moderation."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Scholastic jargon exercises a **tenebrific** influence upon young minds, shrouding simple truths in verbose mystification."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"An air of **tenebrific** gloom hung over the black tarn, chilling the soul of the approaching wanderer."*

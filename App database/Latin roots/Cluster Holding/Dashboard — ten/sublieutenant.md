@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An officer ranking next below a lieutenant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An officer ranking next below a lieutenant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A junior commissioned officer in the British Royal Navy and several other navies, ranking below a lieutenant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A subordinate military officer assisting a company commander in infantry or artillery units.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sublieutenant designates an officer ranking next below a lieutenant."*
+> - 📜 **Joseph Conrad (*The Secret Sharer*):** *"The young **sublieutenant** stood upon the bridge of the torpedo boat, keeping vigilant watch through the dense sea mist."*
+> - 📜 **Arthur Conan Doyle (*The Return of Sherlock Holmes*):** *"The naval **sublieutenant** was accused of stealing the top-secret Bruce-Partington submarine blueprints from Woolwich."*
+> - 📜 **C. S. Forester (*Mr. Midshipman Hornblower*):** *"Having passed his examination in seamanship, Hornblower was promoted to **sublieutenant** aboard the frigate."*

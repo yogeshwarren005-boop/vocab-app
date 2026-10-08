@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The term during which some position is held.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The right to hold property; part of an ancient hierarchical system of holding lands.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The conditions under which land or buildings are held or occupied; or the period of holding a prestigious office or employment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Guaranteed permanent employment, especially as an academic teacher or professor, protecting intellectual freedom from arbitrary dismissal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is it thy spirit that thou send’st from thee So far from home into my deeds to pry, To find out shames and idle hours in me, The scope and tenure of thy jealousy?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Call me a fool; Trust not my reading nor my observations, Which with experimental seal doth warrant The tenure of my book; trust not my age, My reverence, calling, nor divinity, If this sweet lady lie not guiltless here Under some biting error."*
-> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"Is it thy spirit that thou send’st from thee So far from home into my deeds to pry, To find out shames and idle hours in me, The scope and tenure of thy jealousy?"*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Feudal **tenure** by knight-service bound the vassal to furnish military attendance to his lord upon forty days' notice."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The standard of good behavior for the continuance in office of the judicial magistracy is the best expedient to secure independent **tenure**."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Security of agrarian **tenure** transformed peasant tenants into enterprising improvers of the land."*

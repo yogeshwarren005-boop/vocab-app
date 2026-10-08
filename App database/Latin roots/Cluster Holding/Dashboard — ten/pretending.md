@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of giving a false appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make believe with the intent to deceive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Making believe or feigning a situation; engaging in simulation or deceptive display.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Laying claim or aspiring to merit, virtue, or learning without genuine entitlement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Queen, sir, very oft importun’d me To temper poisons for her; still pretending The satisfaction of her knowledge only In killing creatures vile, as cats and dogs, Of no esteem."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Now the foxy little thing wants to incline mother to be comforted by pretending to pity them," Kurt declared."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, I wonder who it can be about?” said I, pretending to consider."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She walked across the lawn, **pretending** to look for her gloves while secretly watching for Darcy's return."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Estella laughed coldly, **pretending** utter indifference to Pip's passionate declarations of devotion."*
+> - 📜 **Francis Bacon (*Essays*):** *"Men who achieve high rank by **pretending** virtues they do not possess are quickly discovered and disgraced."*

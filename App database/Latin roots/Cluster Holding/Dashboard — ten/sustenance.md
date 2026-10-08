@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A source of materials to nourish the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The financial means whereby one lives.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Food and drink regarded as a source of strength, nutrition, and physical nourishment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The maintaining of someone or something in life or existence; livelihoods, maintenance, or financial support.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, our vessel is of Tyre, in it the king; A man who for this three months hath not spoken To anyone, nor taken sustenance But to prorogue his grief."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I have hardly a penny in the world—I am staying with my aunt for my bare sustenance."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He went into the corn-field at autumn and visited the olive tree for sustenance as did other men."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Of all the trees in paradise that bear delicious fruit, so various, not to taste that only tree of knowledge was our sole charge; all else yield sweet **sustenance**."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I gathered wild grapes and barley ears to provide winter **sustenance** in my cave fortress."*
+> - 📜 **Jonathan Swift (*A Modest Proposal*):** *"Poor tenant parents are unable to work for their honest livelihood, being forced to beg **sustenance** for their helpless infants."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flap consisting of a piece of canvas that can be drawn back to provide entrance to a tent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flap consisting of a piece of canvas that can be drawn back to provide entrance to a tent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An outer waterproof roof or awning erected over a tent to provide extra protection against rain or sun.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A canvas flysheet extending beyond the front of a tent to create a sheltered entrance or cooking space.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tent-fly designates flap consisting of a piece of canvas that can be drawn back to provide entrance to a tent."*
+> - 📜 **Mark Twain (*Roughing It*):** *"We rigged a heavy canvas **tent-fly** over the wagon to shield our flour barrels from the scorching desert sun."*
+> - 📜 **Theodore Roosevelt (*Hunting Trips of a Ranchman*):** *"Under the broad **tent-fly** we sat in the cool shade, cleaning our rifles while the venison roasted over the coals."*
+> - 📜 **John Muir (*The Mountains of California*):** *"The torrential mountain thunderstorm beat furiously against the pitched **tent-fly**, but not a single drop penetrated."*

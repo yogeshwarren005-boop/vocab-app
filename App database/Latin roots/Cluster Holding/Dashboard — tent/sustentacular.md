@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to sustain or support.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to sustain or support.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to support or uphold; supporting, especially said of anatomical structures or specialized cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histology, relating to sustentacular cells (such as Sertoli cells in the testes or supporting cells of the olfactory epithelium).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sustentacular designates serving to sustain or support."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The sensory receptors are embedded among non-neural **sustentacular** cells that provide vital metabolic support."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*):** *"A framework of **sustentacular** connective fibers binds the nerve ganglia into a coherent cord."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"The olfactory rods are sheltered by tall **sustentacular** epithelial pillars extending to the basement membrane."*

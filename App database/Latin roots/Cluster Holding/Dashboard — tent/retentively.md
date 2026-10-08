@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a retentive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a retentive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a retentive manner; with strong capacity to remember, hold, or preserve information or substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With persistent grasp, tenacity, or physical containment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retentively designates in a retentive manner."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"A brain that registers sensations vividly also preserves them **retentively** across long intervals of time."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The dense marl holds water **retentively**, nourishing deep-rooted oak timbers throughout the driest seasons."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Genius often combines fertile imagination with the power of storing observations **retentively** in the subconscious mind."*

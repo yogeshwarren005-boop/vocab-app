@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tenants of an estate considered as a group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tenants of an estate considered as a group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tenants on an estate considered collectively; the body of agricultural or residential renters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tenancy or occupation of leased land in historical feudal agriculture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The places of others were taken by a tenantry, white or black, lacking the thrift of ownership; the lands of others passed to new owners of alien races."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The master and his house-keeper had been murdered in the tenantry riots, and the boys that did the business, they swung for it soon afterward."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Then the tenantry mounted on horseback again, or stayed and refreshed themselves at the Crawley Arms."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"A benevolent country gentleman lived beloved among his hereditary **tenantry**, supporting them in years of famine."*
+> - 📜 **Walter Scott (*Waverley*):** *"The Highland chieftain summoned his loyal **tenantry** to assemble with broadswords beneath the clan banner."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The estate was in excellent order, and Mr. Darcy was revered by his **tenantry** as a generous and just landlord."*

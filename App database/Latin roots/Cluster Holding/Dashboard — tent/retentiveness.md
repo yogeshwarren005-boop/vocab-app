@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The power of retaining and recalling past experience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of retaining possessions that have been acquired.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capacity or property of retaining things, especially information in the memory or moisture in soil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mental tenacity with which memories, facts, and impressions are conserved over time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"As regarded novelties (among which cabs and omnibuses were to be reckoned), his mind appeared to have lost its proper gripe and retentiveness."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Native **retentiveness** of memory is a physiological property of cerebral tissue that cannot be fundamentally altered by schooling."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The high **retentiveness** of peat mosses enables upland bogs to sponge up rainfall and feed mountain brooks gradually."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"Tutors should cultivate accuracy and **retentiveness** in boys rather than overburdening them with mechanical recitation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resembling tentacles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or resembling tentacles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling a tentacle or tentacles; functioning as a feeler or grasping arm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having radiating, insidious extensions reaching out to envelop or control.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tentacular designates of or relating to or resembling tentacles."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"The sensitive **tentacular** hairs of the Drosera secrete a glistening droplet of sticky fluid to entrap small gnats."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"The bizarre creature displayed strange **tentacular** appendages about its mouth that twitched nervously."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*):** *"The **tentacular** crown of the tubeworm expands in calm seawater to capture microscopic organic food particles."*

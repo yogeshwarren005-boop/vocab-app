@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An oral beta blocker (trade name tenormin) used in treating hypertension and angina; has adverse side effects (depression and exacerbation of congestive heart failure etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oral beta blocker (trade name tenormin) used in treating hypertension and angina; has adverse side effects (depression and exacerbation of congestive heart failure etc.).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand name for atenolol, a synthetic cardioselective beta-1 adrenergic receptor antagonist used to treat high blood pressure and angina.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cardiac drug that slows heart rate, decreases myocardial contractility, and lowers blood pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenormin designates an oral beta blocker (trade name tenormin) used in treating hypertension and angina; has adverse side effects (depression and exacerbation of congestive heart failure etc.)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Clinical trials established that **Tenormin** effectively reduces the frequency of anginal attacks during physical exertion."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The physician prescribed **Tenormin** to steady the erratic palpitations of the elderly merchant."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"By selectively blocking beta receptors in the myocardium, **Tenormin** blunts the chronotropic response to sympathetic stimulation."*

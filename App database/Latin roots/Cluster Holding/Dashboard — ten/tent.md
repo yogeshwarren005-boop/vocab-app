@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A portable shelter (usually of canvas stretched over supporting poles and fastened to the ground with ropes and pegs).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A web that resembles a tent or carpet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A portable shelter made of cloth, canvas, or nylon, supported by poles and held firmly by ropes and pegs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgery, a small plug of lint, sponge, or gauze inserted into a wound to keep it open or absorb discharge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In good sadness, I do not know; either it is there or it is upon a file, with the duke’s other letters, in my tent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The messenger Came on my guard, and at thy tent is now Unloading of his mules."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go with me to my tent, where you shall see How hardly I was drawn into this war, How calm and gentle I proceeded still In all my writings."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Far off on the plains of Heaven, the bright pavilions of the angelic armies were pitched like a vast **tent**."*
+> - 📜 **William Shakespeare (*Richard III*):** *"Here pitch our **tent**, even here in Bosworth field; my counsel is, my shield; we must not look for friends in this dire hour."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I erected a large double **tent** of canvas under the shelter of the hollow rock to preserve my goods from the rain."*

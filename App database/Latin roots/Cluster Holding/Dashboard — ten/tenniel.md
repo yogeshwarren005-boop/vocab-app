@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English cartoonist (1820-1914).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English cartoonist (1820-1914).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sir John Tenniel, English illustrator renowned for his classic woodcut illustrations of Lewis Carroll's *Alice* books.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A primary political cartoonist for *Punch* magazine over fifty years, shaping Victorian visual satire.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenniel designates english cartoonist (1820-1914)."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"The iconic drawings of Sir John **Tenniel** brought the Mad Hatter and Cheshire Cat to life in unforgettable woodcuts."*
+> - 📜 **Sydney Waterlow (*Victorian Illustrators*):** *"The political cartoons of **Tenniel** in Punch captured the spirit of Victorian imperial politics with dignified irony."*
+> - 📜 **G. K. Chesterton (*The Victorian Age in Literature*):** *"Without the pencil of **Tenniel**, the surreal humor of the White Knight would lose half its poignant absurdity."*

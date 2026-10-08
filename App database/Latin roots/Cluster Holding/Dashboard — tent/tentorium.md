@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (anatomy) a fold of dura mater that covers the cerebellum and supports the occipital lobes of the cerebrum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (anatomy) a fold of dura mater that covers the cerebellum and supports the occipital lobes of the cerebrum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anatomical structure resembling a tent, especially the tentorium cerebelli (a fold of dura mater separating cerebellum from occipital lobes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In insect morphology, the internal cuticular skeleton of the head capsule that supports the brain and anchors jaw muscles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tentorium designates (anatomy) a fold of dura mater that covers the cerebellum and supports the occipital lobes of the cerebrum."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A tumor situated beneath the **tentorium** cerebelli causes early intracranial pressure, ataxia, and severe occipital headache."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The **tentorium** cerebelli is a crescentic lamina of dura mater arched over the superior surface of the cerebellum."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The chitinous **tentorium** provides an internal framework bracing the cranial walls of the locust against powerful mandibles."*

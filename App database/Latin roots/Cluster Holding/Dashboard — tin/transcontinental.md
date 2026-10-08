@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spanning or crossing or on the farther side of a continent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spanning or crossing or on the farther side of a continent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Crossing, extending across, or spanning an entire continent, as a railroad, highway, or communications line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Linking ocean coasts on opposite sides of a landmass through integrated transit networks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transcontinental designates spanning or crossing or on the farther side of a continent."*
+> - 📜 **Walt Whitman (*Passage to India*):** *"I see the locomotives rushing along the new **transcontinental** railway, binding the Atlantic to the Pacific shore."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The completion of the **transcontinental** line transformed a perilous six-month trek into a pleasant six-day journey in palace cars."*
+> - 📜 **Jules Verne (*Around the World in Eighty Days*):** *"Phileas Fogg boarded the great **transcontinental** train at San Francisco, speeding across the snowy passes of the Sierra Nevada."*

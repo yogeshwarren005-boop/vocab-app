@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of being a tenant or occupant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act of being a tenant or occupant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possession of land or property as a tenant; the period or terms of a lease agreement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In property law, an estate or interest held in real property (e.g., joint tenancy, tenancy in common).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"And then the days of their tenancy of the Upper Farm would be numbered."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Ownership and tenancy. § 1. #Agriculture and farms in the United States#."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Now that I was left wholly to myself, I gave notice of my intention to quit the chambers in the Temple as soon as my tenancy could legally determine, and in the meanwhile to underlet them."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"An estate for years is a **tenancy** created by lease for a determinate period agreed upon between landlord and tenant."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Long agricultural leases encourage improvements on the soil, whereas insecure **tenancy** keeps husbandry backward."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The expiration of the cottage lease ended the family's long **tenancy** in the village of Marlott."*

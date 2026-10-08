@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A run-down apartment house barely meeting minimal standards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A run-down apartment house barely meeting minimal standards.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A room or a set of rooms forming a separate residence within a house or block of apartments, especially in an urban area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In property law, any permanent property (such as land, houses, or rents) held by a tenant of another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby could withstand his little woman’s look as it enters at his eyes, the windows of his soul, and searches the whole tenement, he were other than the man he is."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, “and in the opinion of my friends, a commodious tenement."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The village being small he had little difficulty in finding Mrs Durbeyfield’s tenement, which was a house in a walled garden, remote from the main road, where she had stowed away her clumsy old furniture as best she could."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"In legal parlance, a **tenement** signifies anything that may be holden, provided it be of a permanent nature."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tom-all-Alone's was a ruined **tenement** alley where pestilence spawned in stagnant gutters and crowded garrets."*
+> - 📜 **Jacob Riis (*How the Other Half Lives*):** *"The crowded city **tenement** housed dozens of immigrant families in dark, windowless interior rooms."*

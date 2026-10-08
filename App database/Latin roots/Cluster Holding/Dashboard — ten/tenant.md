@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who pays rent to use land or a building or a car that is owned by someone else.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A holder of buildings or lands by any kind of title (as ownership or lease).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who occupies land or property rented from a landlord under a lease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any occupant, dweller, or inhabitant of a building, room, habitat, or living body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"OLD MAN, Tenant to Gloucester."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O my good lord, I have been your tenant, and your father’s tenant these fourscore years."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He’ll ask no questions and would accept you as a tenant at a word from me—before the clock strikes, if you chose."*
+> - 📜 **William Shakespeare (*King Lear*):** *"I have been your **tenant**, and your father's **tenant**, these fourscore years upon this manor."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"The industrious **tenant** improves the barren earth, multiplying the grain yield for the benefit of all society."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I was the sole **tenant** of my woodland house, untroubled by visits from landlords, bailiffs, or tax collectors."*

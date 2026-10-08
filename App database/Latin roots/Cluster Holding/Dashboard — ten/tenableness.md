@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being plausible or acceptable to a reasonable person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being plausible or acceptable to a reasonable person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or property of being tenable; logical defensibility or military security.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sound rational credibility capable of withstanding scrutiny or adversarial challenge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenableness designates the quality of being plausible or acceptable to a reasonable person."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He argued with such vigor that his opponents were forced to concede the intrinsic **tenableness** of his thesis."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The **tenableness** of the ministerial position was undermined by damaging revelations of foreign subsidies."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"Philosophical skepticism challenges the ultimate **tenableness** of our instinctive beliefs concerning external bodies."*

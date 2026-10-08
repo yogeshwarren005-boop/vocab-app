@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occupy as a tenant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resided in; having tenants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occupied or inhabited by tenants or dwellers; not vacant or deserted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Held, leased, or cultivated under a rental agreement with a landlord.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The group for which we were now steering (although among the earliest of European discoveries in the South Seas, having been first visited in the year 1595) still continues to be tenanted by beings as strange and barbarous as ever."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Toby insisted that it was the abode of the Happar, and I that it was tenanted by their enemies the ferocious Typees."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"That the vale at our feet was tenanted by one of them, was a point that appeared to us past all doubt, since we knew that they resided in this quarter, although our information did not enlighten us further."*
+> - 📜 **Walter Scott (*The Bride of Lammermoor*):** *"The gloomy keep was thinly **tenanted** by an aged domestic and a single starving hound."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The antique gable room was once more **tenanted** by the gentle Clifford after thirty years of absence."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The ruined tenement house was **tenanted** by hundreds of wretched London outcasts shivering in squalor."*

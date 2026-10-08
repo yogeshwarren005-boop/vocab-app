@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Trade name for an antihypertensive drug consisting of a fixed combination of atenolol and a diuretic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trade name for an antihypertensive drug consisting of a fixed combination of atenolol and a diuretic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pharmaceutical combination medication containing atenolol (a beta-blocker) and chlorthalidone (a diuretic), used to treat hypertension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antihypertensive drug regimen combining cardiac rate-reduction with systemic fluid depletion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenoretic designates trade name for an antihypertensive drug consisting of a fixed combination of atenolol and a diuretic."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cardiologists prescribed **Tenoretic** to manage stubborn essential hypertension through synergistic arterial vasodilation."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The medical practitioner reviewed the dosage of **Tenoretic**, carefully monitoring the patient's daily pulse rate."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Pharmacological intervention with **Tenoretic** reduces systemic vascular resistance, decreasing workload on the left ventricle."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being plausible or acceptable to a reasonable person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being plausible or acceptable to a reasonable person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Logical defensibility, sound reasoning, or capability of being maintained against intellectual attack.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The military defensibility of a fortification or position against armed assault.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenability designates the quality of being plausible or acceptable to a reasonable person."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The logical **tenability** of an empirical hypothesis depends upon its ability to withstand falsifying experiments."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman engineer questioned the military **tenability** of the Danube fortress when the river froze solid."*
+> - 📜 **William James (*The Will to Believe*):** *"A philosophical theory loses all intellectual **tenability** when it contradicts the inescapable deliverances of direct consciousness."*

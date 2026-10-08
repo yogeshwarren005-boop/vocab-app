@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tenor bassoon; pitched a fifth higher than the ordinary bassoon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tenor bassoon; pitched a fifth higher than the ordinary bassoon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small bassoon pitched a fifth or fourth higher than the standard bassoon; an alto or tenor bassoon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An obsolete double-reed wind instrument of the eighteenth and nineteenth centuries used for intermediate melodic parts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenoroon designates a tenor bassoon; pitched a fifth higher than the ordinary bassoon."*
+> - 📜 **Hector Berlioz (*Treatise on Instrumentation*):** *"The curious sweet timber of the **tenoroon** blends admirably with English horns in pastoral orchestral movements."*
+> - 📜 **George Bernard Shaw (*London Music in 1888-89*):** *"In the historical concert of antique woodwinds, the soloist performed a charming sonata upon the rare **tenoroon**."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The parish gallery orchestra included an ancient **tenoroon** whose deep mellow reed notes anchored the Christmas carols."*

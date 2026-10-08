@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a pretentious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a pretentious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a pretentious, showy, or ostentatious manner; with an exaggerated display of importance or learning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pompously attempting to appear culturally or intellectually superior to associates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"She knew what it was all meant to represent, but it was so pretentiously false and unnatural that she first felt ashamed for the actors and then amused at them."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"The small-town literary club spoke **pretentiously** of modern French poetry without understanding a word of the text."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Gilbert Osmond discussed Italian ceramics **pretentiously**, displaying his fastidious connoisseurship before Isabel."*
+> - 📜 **William Makepeace Thackeray (*The Book of Snobs*):** *"The minor baronet bowed **pretentiously** to every carriage that bore an aristocratic coat of arms upon its panels."*

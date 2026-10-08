@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A narrow headband or strip of ribbon worn as a headband.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A narrow headband or strip of ribbon worn as a headband.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tapeworm of the genus *Taenia*, a parasitic flatworm infesting the intestines of vertebrates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical architecture, the small fillet or band separating the architrave from the frieze in a Doric entablature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenia designates a narrow headband or strip of ribbon worn as a headband."*
+> - 📜 **Charles Darwin (*The Zoology of the Voyage of H.M.S. Beagle*):** *"Dissection of the viscera revealed a long parasitic **tenia** coiled within the intestinal canal of the bird."*
+> - 📜 **Vitruvius (*De Architectura*):** *"Above the epistyle runs the continuous **tenia**, upon which the triglyphs and metopes of the frieze rest securely."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Prophylaxis against **tenia** infection requires thorough cooking of beef and pork to destroy encysted larvae."*

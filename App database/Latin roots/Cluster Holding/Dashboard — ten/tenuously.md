@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a tenuous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a tenuous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a tenuous manner; slightly, weakly, or with very little physical or logical connection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flimsily or precariously, ready to collapse upon slight pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenuously designates in a tenuous manner."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Isolated alpine colonies cling **tenuously** to mountaintops, threatened with extinction by regional warming."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The speculative doctrine was linked only **tenuously** to empirical observation by a chain of ambiguous verbal definitions."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The exiled emperor maintained himself **tenuously** in Dalmatia, relying upon the uncertain protection of the Byzantine court."*

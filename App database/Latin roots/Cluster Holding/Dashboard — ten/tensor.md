@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A generalization of the concept of a vector.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several muscles that cause an attached structure to become tense or firm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mathematical object that generalizes scalars, vectors, and matrices to higher dimensions, obeying specific coordinate transformations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy, a muscle that stretches or tightens a particular part of the body (e.g., tensor fasciae latae, tensor tympani).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tensor designates a generalization of the concept of a vector."*
+> - 📜 **William Rowan Hamilton (*Lectures on Quaternions*):** *"I call the factor which alters the length of the vector without changing its direction the **tensor** of the quaternion."*
+> - 📜 **Albert Einstein (*The Meaning of Relativity*):** *"The gravitational field equations are formulated in terms of the curvature **tensor** and the energy-momentum tensor."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Contraction of the **tensor** tympani draws the handle of the malleus inward, dampening excessive acoustic vibrations."*

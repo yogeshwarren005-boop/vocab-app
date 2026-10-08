@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plate with tin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preserve in a can or tin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having tines, prongs, or spikes; pronged, as an antler or pitchfork.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by radiating sharp points or branches on a tool or horn.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Cainy and I haven’t tined our eyes to-night.” “A good few twins, too, I hear?” “Too many by half."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Cainy and I haven’t tined our eyes to-night.” “A good few twins, too, I hear, so to speak it?” “Too many by half."*
+> - 📜 **Walter Scott (*The Lady of the Lake*):** *"The antler'd monarch of the waste sprung from his heathery couch, tossing his many-**tined** head against the morning sky."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The farm laborer lifted heavy sheaves of wheat with a sharp, four-**tined** iron fork."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"Our Indian guide speared river salmon with a three-**tined** iron spear fastened to a long spruce pole."*

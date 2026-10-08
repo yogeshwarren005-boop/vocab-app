@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unpretentious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unpretentious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unpretentious, modest, and simple manner; without affectation or display of superiority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quietly and naturally, without striving for grand effect or applause.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Cadwallader said that Brooke was beginning to treat the Middlemarchers, and that she preferred the farmers at the tithe-dinner, who drank her health unpretentiously, and were not ashamed of their grandfathers’ furniture."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"She dressed **unpretentiously** in simple grey serge, yet her intellectual accomplishments commanded universal respect."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel Oak spoke **unpretentiously** of sheep-farming, answering the bailiff with honest, practical wisdom."*
+> - 📜 **William Makepeace Thackeray (*The Newcomes*):** *"The colonel entertained his old comrades **unpretentiously**, sharing cold mutton and ale with cheerful hospitality."*

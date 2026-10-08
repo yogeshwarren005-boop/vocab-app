@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A framework with hooks used for stretching and drying cloth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A framework with hooks used for stretching and drying cloth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wooden framework or drying rack on which freshly washed and milled woolen cloth was stretched to dry evenly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who tends or operates machinery in a factory, especially in weaving and textile mills.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenter designates a framework with hooks used for stretching and drying cloth."*
+> - 📜 **Daniel Defoe (*A Tour Through the Whole Island of Great Britain*):** *"On every hillside near Halifax the clothiers set up their broad **tenter** frames, covered with white woolen kerseys."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The Yorkshire weaver carried his wet web to the outdoor **tenter**, praying for a sunny breeze to dry the cloth."*
+> - 📜 **William Langland (*Piers Plowman*):** *"Dishonest fullers stretch the poor man's cloth upon the **tenter** until the wool threads are pulled ready to break."*

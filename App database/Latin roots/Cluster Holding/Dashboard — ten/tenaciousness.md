@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Persistent determination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Persistent determination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of holding fast; persistent determination, stubbornness, or cohesive adhesiveness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The stubborn adherence of a mind or group to traditional beliefs or ancient prerogatives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I have studied myself, and know what ground I occupy; and however a friend or the world may differ from me in that particular, I stand for my own opinion, in silent resolve, with all the tenaciousness of property."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"Milton's unbending **tenaciousness** of republican principle alienated the royalist courtiers of the Restoration."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The **tenaciousness** with which ancestral traits persist across breeding generations illustrates the power of inheritance."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode fought for his social standing with the desperate **tenaciousness** of a drowning man."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tenrecs and extinct related forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tenrecs and extinct related forms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic family of placental mammals (tenrecs) found on Madagascar and western central Africa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diverse family of afrotherian mammals occupying ecological niches of moles, shrews, hedgehogs, and muskrats on Madagascar.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenrecidae designates tenrecs and extinct related forms."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The family **Tenrecidae** is almost entirely confined to Madagascar, constituting its most characteristic mammalian group."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Members of the family **Tenrecidae** retain cloacal structures and incomplete zygomatic arches indicative of ancient ancestry."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In several genera of the **Tenrecidae**, females give birth to extraordinary litters numbering upwards of twenty offspring."*

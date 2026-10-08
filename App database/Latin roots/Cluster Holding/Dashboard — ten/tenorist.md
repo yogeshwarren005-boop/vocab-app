@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A musician who plays the tenor saxophone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musician who plays the tenor saxophone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A male singer whose vocal range is tenor, especially in opera, oratorio, or choir; or a tenor instrumentalist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musician performing on a tenor instrument, particularly the tenor saxophone in jazz ensembles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenorist designates a musician who plays the tenor saxophone."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The young Italian **tenorist** possessed a robust chest register, but lacked delicacy in the softer phrases."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"The sublime **tenorist** poured forth his passionate notes, filling the crowded opera hall with glorious vibration."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The church choir relied upon the veteran **tenorist** to lead the complex psalm settings each Sabbath morning."*

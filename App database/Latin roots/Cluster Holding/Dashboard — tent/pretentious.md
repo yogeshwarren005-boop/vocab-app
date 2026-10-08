@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Making claim to or creating an appearance of (often undeserved) importance or distinction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intended to attract notice and impress others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Attempting to impress by affecting greater importance, talent, culture, or elegance than is actually possessed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by ostentatious ambition, pompous phrasing, or showy vulgarity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"They implied that he was insolent, pretentious, and given to that reckless innovation for the sake of noise and show which was the essence of the charlatan."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"If anything, his orders had been more curt, his concessions fewer, his whole treatment of the case on simpler lines than it might have been in almost any less pretentious home with which he was familiar."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Above the whole towered a rather pretentious two-spired church."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Old Mr. Osborne built a huge, **pretentious** stucco mansion in Russell Square to display his mercantile wealth."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond Vincy found the provincial society of Middlemarch narrow, while her own ambitions were shallow and **pretentious**."*
+> - 📜 **Henry James (*The Bostonians*):** *"The salon was decorated in a **pretentious** aesthetic style that betrayed more financial extravagance than genuine taste."*

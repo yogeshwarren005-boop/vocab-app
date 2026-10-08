@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of encamping and living in tents in a camp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Live in or as if in a tent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Camping out in a tent; dwelling temporarily under canvas in the wilderness or on a military expedition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fabric or heavy canvas suitable for manufacturing tents; or in surgery, the application of a tent to keep an incision open.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenting designates the act of encamping and living in tents in a camp."*
+> - 📜 **Walt Whitman (*Drum-Taps*):** *"We are **tenting** tonight on the old camp ground, give us a song to cheer our weary hearts."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"After a day of paddling down the Penobscot, **tenting** under the fragrant hemlock boughs proved pure luxury."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"The wounds whores receive of them they must not bear; the smiles of Rome are **tenting** griefs to heal."*

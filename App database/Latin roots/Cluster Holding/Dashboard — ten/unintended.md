@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not deliberate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not deliberate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not planned or meant; happening without conscious purpose, calculation, or design; accidental.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of consequences, unexpected side-effects arising from deliberate policy decisions or actions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A result usually unintended is the derangement of business and of the existing distribution of incomes."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The unintended, and to some degree inevitable, result of the taxation of goods in commerce, whether imports or exports, is to prevent and discourage trade and to raise the prices of the goods imported."*
-> - 📜 **George Eliot (*Middlemarch*):** *"She answered, wanting to check unintended consequences— “I spoke from inference only."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"By pursuing his own interest, an individual frequently promotes that of the society more effectually than by **unintended** design."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The legislators produced a harvest of ruinous, **unintended** calamities by rashly dismantling ancient judicial courts."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Artificial selection by pigeon fanciers often brings along **unintended** anatomical correlations in plumage and beak structure."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strain excessively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strain excessively.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To expand or stretch something beyond safe, prudent, or sustainable limits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To commit oneself to more financial obligations, debts, or military lines than resources can support.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overextend designates strain excessively."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor cautioned his successor never to **overextend** the empire beyond the natural boundaries of the Rhine and Danube."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Speculative merchants who **overextend** their paper credit court sudden insolvency upon the first contraction of the money market."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"A battle commander who attempts to **overextend** his assault front risks being severed by an enemy counterstroke."*

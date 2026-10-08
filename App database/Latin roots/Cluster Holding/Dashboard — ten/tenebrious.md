@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dark and gloomy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dark and gloomy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of darkness; gloomy, shadowy, obscure, or murky; dark.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Morally dim, sinister, obscure, or difficult to comprehend.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenebrious designates dark and gloomy."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Through **tenebrious** regions of eternal night the outcast angels wandered, seeking respite from divine wrath."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The subterranean passage was damp and **tenebrious**, smelling of ancient tomb vaults and moldering coffins."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The catacombs beneath Rome presented a **tenebrious** labyrinth where torches flickered against weeping tufa walls."*

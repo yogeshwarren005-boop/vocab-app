@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from tension.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from tension.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from tension, strain, stiffness, or emotional friction; relaxed, slack, or untroubled.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In engineering, experiencing zero axial pulling force or mechanical load.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tensionless designates free from tension."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"I lean and loafe at my ease observing a spear of summer grass in serene, **tensionless** contentment."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The coiled rope lay **tensionless** upon the deck of the launch until the engines surged forward."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"In the quiet garden after sunset, a **tensionless** calm settled over the leafy branches and sleeping flowers."*

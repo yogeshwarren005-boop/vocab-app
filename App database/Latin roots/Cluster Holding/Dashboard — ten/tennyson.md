@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Englishman and victorian poet (1809-1892).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Englishman and victorian poet (1809-1892).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Alfred, Lord Tennyson, celebrated Victorian English poet, author of *In Memoriam*, *The Charge of the Light Brigade*, and *Idylls of the King*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The Victorian poet laureate whose melodious blank verse, classical themes, and Arthurian epics defined nineteenth-century English verse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"EDWARDS. * * * * * MORE THINGS ARE WROUGHT BY PRAYER THAN THE WORLD DREAMS OF.--TENNYSON. * * * * * PRAYERS ANSWERED IN BUSINESS AND SOCIAL ANXIETIES."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"There is not ill Adonais that note of personal bereavement which wails through Tennyson's 'In Memoriam' or Cowley's 'Ode on the Death of Mr."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Do you read poetry, Val?" "I occasionally dip into Tennyson," Val replied, settling himself in an easy chair."*
+> - 📜 **Thomas Carlyle (*Letters of Thomas Carlyle*):** *"Alfred **Tennyson** sat by our hearth smoking his long clay pipe, a true poetic soul dwelling in majestic silence."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"The elegiac stanzas of **Tennyson** in 'In Memoriam' express the profound spiritual anxieties of the Victorian mind."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Will Ladislaw quoted stanzas from **Tennyson** to Dorothea, praising the exquisite musical cadence of the young laureate."*

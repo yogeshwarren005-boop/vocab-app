@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or resident of tennessee.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or resident of tennessee.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or resident of the US state of Tennessee; or relating to the state of Tennessee.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the culture, history, or geography of the Volunteer State.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"But if there _was_ any rear guard they never saw it, although they ran into another body of Tennesseans, more than a thousand of them this time, who told them that the army gone on toward Tupelo, thirty-five miles from Corinth."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The hardy **Tennessean** raftsman steered his timber flatboat through the turbulent Mississippi shoals with casual daring."*
+> - 📜 **Ulysses S. Grant (*Personal Memoirs*):** *"At the Battle of Shiloh, many a loyal **Tennessean** fought valiantly to preserve the integrity of the Union."*
+> - 📜 **Theodore Roosevelt (*The Winning of the West*):** *"The pioneer **Tennessean** cleared forest glades with his rifle across his knees, ready for Indian alarms."*

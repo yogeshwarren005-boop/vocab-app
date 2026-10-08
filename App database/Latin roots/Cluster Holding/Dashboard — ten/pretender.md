@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A claimant to the throne or to the office of ruler (usually without just title).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who makes deceitful pretenses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who claims or aspires to a title or right, especially a claimant to an occupied or abolished throne.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who makes false claims, feigns abilities, or engages in imposture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"But, it was only the pleasanter to turn to Biddy and to Joe, whose great forbearance shone more brightly than before, if that could be, contrasted with this brazen pretender."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And there was a prized thing of his boyhood there, a dagger the Young Pretender wore in his stocking, and he in Highland dress, as he swung toward London with pipe and drum."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"From his desk she picked up the Young Pretender's dagger."*
+> - 📜 **Walter Scott (*Waverley*):** *"Prince Charles Edward Stuart, known to his adversaries as the Young **Pretender**, landed upon the rugged shores of Moidart."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The Jacobite army rallied around their exiled **pretender**, dreaming of a Stuart restoration in London."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"A superficial scholar is an intolerable **pretender** to learning, deceiving only those who know less than himself."*

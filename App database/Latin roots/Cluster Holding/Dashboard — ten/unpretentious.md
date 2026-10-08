@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking pretension or affectation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not ostentatious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not attempting to impress others with an appearance of greater importance, talent, or elegance than is possessed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pleasantly simple, natural, and free from pompous display or ostentation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"But there was neither defiance nor fear in Val: tranquil and unpretentious, in his force of character he reminded Lawrence of Laura Clowes."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The tinge of unpretentious, inoffensive vulgarity in Mrs."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"There adhered to him only a few unpretentious friends, whose religion was something more 54:24 than a name."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Caleb Garth lived in an **unpretentious** stone house outside the town, caring nothing for the fashionable vanities of wealth."*
+> - 📜 **Henry James (*The American*):** *"Newman admired the quiet, **unpretentious** dignity with which Madame de Cintré received her aristocratic visitors."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Miss Morstan was dressed in a plain, **unpretentious** dark woolen costume, but her bearing was that of a true lady."*

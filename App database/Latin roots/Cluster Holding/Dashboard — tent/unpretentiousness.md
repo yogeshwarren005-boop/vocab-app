@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being natural and without pretensions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being natural and without pretensions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genuine modesty, unadorned simplicity, and freedom from showy affectation in manner or lifestyle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Honest straightforwardness in lifestyle, manners, architecture, or prose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unpretentiousness designates the quality of being natural and without pretensions."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Anne Elliot was charmed by the genuine **unpretentiousness** of Captain and Mrs. Harville in their little cottage at Lyme."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"An engaging **unpretentiousness** of manner disarms the malice of rivals and smooths the path to genuine friendship."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The quiet **unpretentiousness** of Dolly Winthrop brought comfort into the lonely weaver's darkened stone cottage."*

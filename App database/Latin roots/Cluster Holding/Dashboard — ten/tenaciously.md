@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With obstinate determination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With obstinate determination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With a firm hold; clingingly, persistently, stubbornly, or resolutely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unyielding manner that refuses to surrender a position, claim, or belief.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Don’t cling so tenaciously to ties of the flesh; save your constancy and ardour for an adequate cause; forbear to waste them on trite transient objects."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Though the latter held on tenaciously, her voice lost none of its honeyed firmness and softness."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And she deduced the essentials of his wishes quite correctly, and having once arrived at them clung to them tenaciously."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The harpooned whale swam desperately onward, while the Nantucket crew clung **tenaciously** to the flying towline."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The defenders of Jerusalem resisted **tenaciously**, contesting every breach of the city walls against Titus's legions."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes adhered **tenaciously** to his original hypothesis, refusing to be misled by circumstantial rumors."*

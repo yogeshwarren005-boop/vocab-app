@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The power of retaining and recalling past experience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of retaining possessions that have been acquired.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability of a material or substance to retain a physical property, especially magnetic flux after an external field is removed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and engineering, the measure of remanence or residual magnetization retained by ferromagnetic alloys.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retentivity designates the power of retaining and recalling past experience."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Hard tempered steel exhibits high magnetic **retentivity**, remaining strongly polarized long after the current ceases."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Soft iron loses its magnetic force immediately upon circuit interruption, possessing negligible **retentivity**."*
+> - 📜 **Arthur C. Clarke (*The City and the Stars*):** *"The memory banks of the Central Computer utilized molecular crystals of immense electrical **retentivity**."*

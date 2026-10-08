@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of a tendon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of a tendon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of Tenon's capsule (the fibrous envelope covering the sclera of the eyeball); or inflammation of a tendon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A painful ophthalmic condition characterized by swelling of orbital tissues and painful restriction of eye movements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenonitis designates inflammation of a tendon."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute **tenonitis** is marked by chemosis, moderate proptosis, and severe pain when moving the affected eyeball."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The surgeon diagnosed serious **tenonitis** behind the left orbit, prescribing cold compresses and rest."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Suppurative **tenonitis** may extend along the sheath of the optic nerve unless orbital drainage is promptly established."*

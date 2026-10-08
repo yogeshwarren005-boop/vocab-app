@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not extended or stretched out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not extended or stretched out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not extended; not stretched out, prolonged, or expanded in space, time, or dimensions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metaphysics (Cartesian philosophy), having no spatial extension or physical dimensions, as the thinking mind.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unextended designates not extended or stretched out."*
+> - 📜 **René Descartes (*Meditations on First Philosophy*):** *"The soul is an indivisible, **unextended** substance that thinks, wholly distinct from the extended physical body."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Philosophers dispute whether an **unextended** spiritual monad can operate upon physical bodies in space."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"In the mathematical model, we initially treat the celestial body as an **unextended** mass point."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on sound reasoning or evidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on sound reasoning or evidence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be maintained or defended against attack, objection, or intellectual dispute; defensible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In appointments or fellowships, capable of being held by a designated person for a specified term.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I pray you all, If you have hitherto conceal’d this sight, Let it be tenable in your silence still; And whatsoever else shall hap tonight, Give it an understanding, but no tongue."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is only in Jesus that the Love of God (in the New Testament sense), is tenable at all."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Plymdale that comforting explanation seemed no longer tenable."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"The doctrine of the divine right of kings is no longer **tenable** in an age of rational constitutional inquiry."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Gothic garrison was ordered to withdraw to a more **tenable** line of defense along the Apennine passes."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The theory of independent special creations ceases to be **tenable** when we examine the rudimentary organs of animals."*

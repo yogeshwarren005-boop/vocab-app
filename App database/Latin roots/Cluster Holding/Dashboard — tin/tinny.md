@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or containing tin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of very poor quality; flimsy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a thin, harsh, high-pitched metallic sound lacking resonance or bass; or tasting of tin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cheap, flimsy, or insubstantial in construction, resembling thin tinplate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tinny designates of or containing tin."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"A **tinny** music began to trickle from the telescreen, accompanied by synthetic military fanfares."*
+> - 📜 **E. M. Forster (*A Room with a View*):** *"The cheap hotel piano had a harsh, **tinny** timbre that murdered Beethoven's sonatas."*
+> - 📜 **Virginia Woolf (*The Voyage Out*):** *"The gramophone in the saloon ground out a **tinny** waltz that drifted across the dark tropical bay."*

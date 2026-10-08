@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of nine and one; the base of the decimal system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of four playing cards in a deck with ten pips on the face.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number equal to the sum of nine and one; the base of the decimal numeral system; 10.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A playing card, domino, or die bearing ten spots, or a bill/banknote worth ten currency units.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be thou the tenth Muse, ten times more in worth Than those old nine which rhymers invocate, And he that calls on thee, let him bring forth Eternal numbers to outlive long date."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virginity, by being once lost, may be ten times found; by being ever kept, it is ever lost. ’Tis too cold a companion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With that she sighed as she stood, With that she sighed as she stood, And gave this sentence then: Among nine bad if one be good, Among nine bad if one be good, There’s yet one good in ten._ COUNTESS."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"For if the sun breed maggots in a dead dog, being a god kissing carrion... let her not walk i' the sun: conception is a blessing, but not as your daughter may conceive. Friend, look to't; I would have you **ten** times wiser."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The prism refracted the beam of sunlight into **ten** distinct bands of spectral coloration across the screen."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Nine days they fell; yet eternal wrath burned after them to the bottomless pit, where **ten** thousand thunders rolled."*

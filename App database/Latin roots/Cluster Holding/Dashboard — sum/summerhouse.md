@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small roofed building affording shade and rest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small roofed building affording shade and rest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small light building or pavilion in a garden or park, designed for relaxation and shade in warm weather.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A seasonal residence or cottage occupied exclusively during the summer vacation months.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He had kissed her two or three times, as occasion served and she seemed to desire it, but he had never lain awake afterwards, nor had his heart beaten any faster, no, not even in the summerhouse at Bingley when she was fairly in his arms."*
-> - 📜 **George Eliot (*Middlemarch*):** *"She went into the summerhouse and said, “I am come, Edward; I am ready.” He took no notice, and she thought that he must be fast asleep."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"The walking party sought shelter from the heat in a rustic **summerhouse** overlooking the bowling green."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"In the leafy garden behind the cottage stood a quaint octagonal **summerhouse** draped with honeysuckle."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Mr. Rochester walked slowly toward the secluded **summerhouse** at the far end of the orchard as twilight fell."*

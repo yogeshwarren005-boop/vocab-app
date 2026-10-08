@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not deserving.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not deserving.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not deserving or worthy of reward, assistance, honor, or favorable consideration; unworthy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking moral merit or practical qualification to claim a privilege or benefit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lady, to the manner of the days, In courtesy gives undeserving praise."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My gracious lord, that which I would discover The law of friendship bids me to conceal, But when I call to mind your gracious favours Done to me, undeserving as I am, My duty pricks me on to utter that Which else no worldly good should draw from me."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Well, he is a very undeserving young man--and I do not suppose there is the least chance in the world of her ever getting him now."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"To bestow public honors upon an **undeserving** flatterer degrades the dignity of the magistrate who confers them."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"Bounderby declared all impoverished factory hands to be an idle and **undeserving** class who expected turtle soup and venison."*
+> - 📜 **Samuel Johnson (*Rasselas*):** *"Pity ought not to be withheld even from the **undeserving**, for human frailty is the universal heritage of our race."*

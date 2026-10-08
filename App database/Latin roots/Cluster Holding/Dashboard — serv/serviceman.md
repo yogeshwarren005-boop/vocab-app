@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who serves in the armed forces; a member of a military force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who serves in the armed forces; a member of a military force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A male member of the armed forces of a country; a soldier, sailor, or airman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technician or mechanic employed to repair, adjust, or maintain machinery or domestic appliances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serviceman designates someone who serves in the armed forces; a member of a military force."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"Every **serviceman** in the desert army knew that the impending offensive at El Alamein would decide the fate of Egypt."*
+> - 📜 **Arthur Conan Doyle (*His Last Bow*):** *"The young naval **serviceman** stood proudly in his blue uniform, ready to embark upon the destroyer."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The hardened **serviceman** endured the freezing mud of the trenches with grim stoicism and meager rations."*

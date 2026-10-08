@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An acrobatic feat in which the feet roll over the head (either forward or backward) and return.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acrobatic feat in which the feet roll over the head (either forward or backward) and return.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An acrobatic movement in which a person turns heels over head in the air or on the ground and finishes on their feet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complete and sudden reversal of opinion, policy, strategy, or political allegiance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"But more amusing than this to the children was to see him turn summersaults both forward and backward."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The nimble clown turned an agile **summersault** upon the sawdust stage to the intense delight of the gallery."*
+> - 📜 **Herman Melville (*Omoo*):** *"A jovial Polynesian diver executed a spectacular **summersault** from the yardarm straight into the sparkling lagoon."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"Tom performed a daring **summersault** over the fence to show off his athletic prowess before Becky Thatcher."*

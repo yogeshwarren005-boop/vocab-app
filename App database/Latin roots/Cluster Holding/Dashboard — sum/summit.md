@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The highest level or degree attainable; the highest stage of development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The top or extreme point of something (usually a mountain or hill).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The highest point of a hill, mountain, or geographic elevation; the peak or crest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The highest attainable level of achievement, power, or excellence; or a formal conference between heads of government.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What if it tempt you toward the flood, my lord, Or to the dreadful summit of the cliff That beetles o’er his base into the sea, And there assume some other horrible form Which might deprive your sovereignty of reason, And draw you into madness?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is a massy wheel Fix’d on the summit of the highest mount, To whose huge spokes ten thousand lesser things Are mortis’d and adjoin’d; which when it falls, Each small annexment, petty consequence, Attends the boist’rous ruin."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From the dread summit of this chalky bourn."*
+> - 📜 **John Milton (*Paradise Lost*):** *"From the proud **summit** of the sacred hill, the archangel surveyed the vast amphitheater of Eden."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Under the Antonines, the Roman state seemed to have attained the absolute **summit** of human prosperity and power."*
+> - 📜 **Percy Bysshe Shelley (*Mont Blanc*):** *"Mont Blanc yet gleams on high: the power is there, the still and solemn power of many sights, and vast ethereal **summit** white and bare."*

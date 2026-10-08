@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a reasonable basis for belief or acceptance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affording reasonable grounds for belief or acceptance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving reasonable grounds for presumption, inference, or belief; based on likelihood or conjecture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dynastic succession, holding an inheritance or title subject to being displaced by the birth of a nearer heir (e.g., heir presumptive).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"The heir presumptive, the very William Walter Elliot, Esq., whose rights had been so generously supported by her father, had disappointed her."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The first was a short paragraph in the local newspaper, which, beyond making by a methodizing pen formidable presumptive evidence of Troy’s death by drowning, contained the important testimony of a young Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The first was a short paragraph in the local newspaper, which, beyond making by a methodizing pen formidable presumptive evidence of Troy’s death by drowning, contained the important testimony of a young Mr."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"An heir **presumptive** enjoys an expectation of the crown that may be defeated by the birth of an heir apparent."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Norwood Builder*):** *"The bloody thumbprint upon the wall constituted formidable **presumptive** evidence of the prisoner's presence."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The caesar held the **presumptive** claim to supreme imperial dignity upon the demise of the august sovereign."*

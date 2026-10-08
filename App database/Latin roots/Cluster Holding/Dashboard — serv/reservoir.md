@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large or extra supply of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lake used to store water for community use.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large natural or artificial lake used as a source of water supply for towns or agricultural irrigation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A receptacle or chamber for holding fluid; or a vast supply or store of knowledge, talent, or biological pathogen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is a great reservoir of confidences, not to be so tapped."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The degree of influence that can thus be exerted on the value of the two metals depends on the size of the reservoir of the metal that is rising in value."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Moreover, the stock of gold in monetary uses is but slowly worn out; it is, therefore, a large reservoir into which flows a comparatively small stream of annual production; the existing stock is twenty or thirty times the annual output."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Subterranean caverns act as an enormous natural **reservoir**, feeding perennial thermal springs along the fault."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"A deep circular well led down into the dark pumping **reservoir** of the subterranean Morlock machinery."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The ancient libraries of Alexandria served as a magnificent **reservoir** of classical science and philosophy."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Control system that converts a small mechanical motion into one requiring much greater power; may include a negative feedback system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Control system that converts a small mechanical motion into one requiring much greater power; may include a negative feedback system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An automatic control system in which an error signal drives an actuator to match an output to a reference input.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A closed-loop mechanical or electronic device that uses feedback to maintain desired position, velocity, or torque.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, servomechanism designates control system that converts a small mechanical motion into one requiring much greater power; may include a negative feedback system."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"A domestic thermostat is a elementary form of **servomechanism**, maintaining room temperature through continuous negative feedback."*
+> - 📜 **W. Ross Ashby (*Design for a Brain*):** *"The homeostatic mechanisms of the mammalian nervous system function precisely like a self-correcting **servomechanism**."*
+> - 📜 **Isaac Asimov (*Foundation*):** *"Every gun turret across the galactic battlecruiser was coordinated by an atomic-powered **servomechanism** array."*

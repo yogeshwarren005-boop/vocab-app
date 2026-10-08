@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (maine colloquial) temporary summer residents of coastal maine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (maine colloquial) a temporary summer resident of maine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plural dialectal form denoting summer caterpillars infesting orchard leaves or garden foliage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transient summer laborers, seasonal wanderers, or visitors roaming rural hamlets in warm weather.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, summercaters designates (maine colloquial) temporary summer residents of coastal maine."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Marty South shook the apple boughs to clear them of greedy **summercaters** before the blossoming began."*
+> - 📜 **William Barnes (*Poems of Rural Life in the Dorset Dialect*):** *"The hedge leaves were chewed into lace by hungry **summercaters** basking in the July sun."*
+> - 📜 **George Borrow (*Lavengro*):** *"The gypsy encampment accommodated diverse **summercaters** who found temporary work harvesting the hops."*

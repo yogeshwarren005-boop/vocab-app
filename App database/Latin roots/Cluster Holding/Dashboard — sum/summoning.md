@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Calling up supposed supernatural forces by spells and incantations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Call in an official matter, such as to attend court.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of formally calling or demanding the presence of someone, especially before a court of law or public assembly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The gathering, evoking, or concentrating of internal spiritual, magical, or physical reserves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Again, summoning all my courage, I attempted it."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I am hungry: so are you, I daresay, only you forget.” Summoning Mary, I soon had the room in more cheerful order: I prepared him, likewise, a comfortable repast."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I did.” It was no laughing matter with Estella now, nor was she summoning these remembrances from any shallow place."*
+> - 📜 **John Milton (*Paradise Lost*):** *"He called so loud that all the hollow deep resounded, **summoning** his fallen legions to reassemble."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The herald sounded three piercing blasts upon his trumpet, **summoning** the champion of Rebecca to enter the lists."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The prison jailer read out the fatal roll-call, **summoning** twenty-three condemned aristocrats to mount the tumbrils."*

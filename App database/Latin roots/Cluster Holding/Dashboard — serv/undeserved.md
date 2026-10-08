@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not deserved or earned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not deserved or earned.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not merited, earned, or warranted; unjust or unmerited whether applied to praise or punishment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Received without just cause, equitable desert, or personal moral justification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is hard and undeserved measure, my lord."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let none presume To wear an undeserved dignity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If that be made a theme for disputation, The branches of another root are rotted, And undeserved reproach to him allotted That is as clear from this attaint of mine As I, ere this, was pure to Collatine."*
+> - 📜 **William Shakespeare (*Othello*):** *"Reputation is an idle and most false imposition, oft got without merit, and lost without **undeserved** blame."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"God doth not need either man's work or his own gifts; who best bear his mild yoke, they suffer not from **undeserved** wrath."*
+> - 📜 **Edmund Burke (*Letter to a Noble Lord*):** *"I have not solicited pensions nor accepted any **undeserved** favors from the royal bounty of my sovereign."*

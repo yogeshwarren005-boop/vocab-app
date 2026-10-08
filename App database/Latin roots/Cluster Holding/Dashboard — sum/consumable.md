@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: May be used up.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: May be used up.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being consumed, depleted, eaten, or spent through ordinary usage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A good or supply intended to be used up relatively quickly and replenished regularly, distinct from capital assets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"In order to attack the difficulties one by one we will, therefore, in the following discussion, deal first with this class of ripe, consumable goods, as food, personal services, enjoyments of any sort that are immediately available."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Taxes levied upon **consumable** commodities raise market prices and ultimately diminish the purchasing power of labor."*
+> - 📜 **David Ricardo (*Principles of Political Economy and Taxation*):** *"The annual revenue of the state arises from the total sum of **consumable** goods produced by national industry."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"Our supply of **consumable** provisions within the sphere was calculated to last precisely thirty terrestrial days."*

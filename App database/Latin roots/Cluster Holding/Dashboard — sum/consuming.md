@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eat immoderately.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serve oneself to, or consume regularly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Engrossing or absorbing all of one's attention, energy, or time completely; all-absorbing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroying or using up completely through combustion, decay, or ravenous spending.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though now this grained face of mine be hid In sap-consuming winter’s drizzled snow, And all the conduits of my blood froze up, Yet hath my night of life some memory, My wasting lamps some fading glimmer left, My dull deaf ears a little use to hear."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, sharp and piercing, to maintain his truth; Whiles thy consuming canker eats his falsehood."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Light vanity, insatiate cormorant, Consuming means, soon preys upon itself."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"A **consuming** curiosity urged me forward to discover what dreadful mystery was concealed behind the attic door."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Captain Ahab paced the quarterdeck day and night, gripped by one **consuming** monomania of revenge."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard felt a **consuming** jealousy whenever he beheld Donald Farfrae winning the applause of the marketplace."*

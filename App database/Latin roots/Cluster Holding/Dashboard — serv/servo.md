@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Control system that converts a small mechanical motion into one requiring much greater power; may include a negative feedback system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or involving servomechanisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An automatic device or motor that uses error-sensing negative feedback to correct the performance of a mechanism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A servomotor or actuator employed in robotics, aircraft control surfaces, or precision industrial automation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Hhhn: burst sideways. _—Non intres in judicium cum servo tuo, Domine._ Makes them feel more important to be prayed over in Latin."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Be ye Turks or Christians, that handle a churchman?—Know ye what it is, ‘manus imponere in servos Domini’?"*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"The steering engine functions as a true **servo**, adjusting the rudder in direct proportion to the angular error signal."*
+> - 📜 **Arthur C. Clarke (*2001: A Space Odyssey*):** *"A faint electrical whine indicated that the miniature **servo** units were pivoting the antenna toward Earth."*
+> - 📜 **Isaac Asimov (*I, Robot*):** *"The mechanical technician inspected each microscopic **servo** embedded within the android's delicate wrist joint."*

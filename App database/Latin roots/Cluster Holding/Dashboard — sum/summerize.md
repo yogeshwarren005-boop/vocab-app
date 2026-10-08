@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prepare for summer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prepare for summer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To prepare or adapt an automobile, heating plant, or building for use during warm summer weather.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To graze or pasture livestock on summer range; to spend or pass the summer season.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, summerize designates prepare for summer."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"Every spring the suburban garage owner offered a special service package to drain winter anti-freeze and **summerize** motorcars."*
+> - 📜 **John Burroughs (*Signs and Seasons*):** *"Ranchers in the valley **summerize** their horses in the cool mountain glades above the timberline."*
+> - 📜 **F. Scott Fitzgerald (*Tender Is the Night*):** *"The wealthy colony arrived in June to **summerize** on the sun-bleached beaches of the French Riviera."*

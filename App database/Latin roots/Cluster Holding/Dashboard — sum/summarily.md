@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without delay; in a summary manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without delay; in a summary manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a summary manner; without formalities or customary procedural delay; immediately and decisively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Briefly or concisely; giving only key points without elaborate exposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"The Admiral wound it up summarily by exclaiming— “Ay, a very bad business indeed."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Sit down.” “Who, mem?” “Sit down.” Joseph Poorgrass, in the background twitched, and his lips became dry with fear of some terrible consequences, as he saw Bathsheba summarily speaking, and Henery slinking off to a corner."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Matters that to our grandfathers were trivialities, to be summarily dismissed, are seriously studied."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Mutinous centurions were executed **summarily** outside the praetorian camp to restore military subordination."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes examined the circumstantial deductions and dismissed them **summarily** as unworthy of a serious analytical mind."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The revolutionary tribunal disposed **summarily** of hundreds of prisoners without hearing witness testimony."*

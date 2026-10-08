@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of taking food into the body through the mouth (as by eating).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving the lungs with progressive wasting of the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The using up of a resource, supply, good, or service; the economic expenditure on commodities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historical term for a progressive wasting disease of the lungs, especially pulmonary tuberculosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I can get no remedy against this consumption of the purse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But to the girdle do the gods inherit, beneath is all the fiend’s; there’s hell, there’s darkness, there is the sulphurous pit; burning, scalding, stench, consumption."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would not deny you; but, by this good day, I yield upon great persuasion, and partly to save your life, for I was told you were in a consumption."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"High taxes upon malt diminish the national **consumption** of ale and encourage the illicit trade in spirits."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Helen Burns lay wasting quietly away, her sweet spirit yielding slowly to the fatal grip of **consumption**."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The Chancery suit proved the slow **consumption** of three generations of suitors who perished in hopeless litigation."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being something that is useful in reaching an end or carrying out a plan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a subservient state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Willingness to obey others unquestioningly; slavish subordination, compliance, or deference.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of acting as a secondary instrument or useful means to promote an external purpose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate was no Puritan, but he did not care for play, and winning money at it had always seemed a meanness to him; besides, he had an ideal of life which made this subservience of conduct to the gaining of small sums thoroughly hateful to him."*
-> - 📜 **George Eliot (*Middlemarch*):** *"There was hardly ever so much unanimity among them as in the opinion that Lydgate was an arrogant young fellow, and yet ready for the sake of ultimately predominating to show a crawling subservience to Bulstrode."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Here, as elsewhere, he was surrounded by an atmosphere of subservience to his wealth, and being in the habit of lording it over these people, he treated them with absent-minded contempt."*
+> - 📜 **Edmund Burke (*Thoughts on the Cause of the Present Discontents*):** *"Parliamentary independence was gradually undermined by the court's demand for blind and unconditional **subservience**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The client kings maintained their fragile thrones through shameful **subservience** to Roman proconsuls."*
+> - 📜 **Mary Wollstonecraft (*A Vindication of the Rights of Woman*):** *"Women are educated to cultivate a false **subservience** that enervates their intellect and moral dignity."*

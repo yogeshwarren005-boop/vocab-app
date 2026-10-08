@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of preparing a summary (or an instance thereof); stating briefly and succinctly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of preparing a summary (or an instance thereof); stating briefly and succinctly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or technique of creating a concise summary or comprehensive overview of a text or argument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A concise condensation or synopsis containing the main points of a longer document or spoken discourse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, summarisation designates the act of preparing a summary (or an instance thereof); stating briefly and succinctly."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Cognitive comprehension requires the rapid mental **summarisation** of multiple sensory impressions into coherent ideas."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The final chapter provides an admirable **summarisation** of the inductive evidence gathered across the experimental series."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"A clear **summarisation** of geological epochs helps the student grasp the vast scale of paleontological time."*

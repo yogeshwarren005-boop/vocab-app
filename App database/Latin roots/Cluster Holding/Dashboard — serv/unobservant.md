@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not consciously observing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not consciously observing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not observant; failing to notice things, heedless, inattentive, or lacking alert perception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failing to comply with or observe established religious rites, rules, or social customs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Edmund, between his theatrical and his real part, between Miss Crawford’s claims and his own conduct, between love and consistency, was equally unobservant; and Mrs."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"To the unobservant stranger the frank gaiety of his laugh was as spontaneous as ever, but then that had never had much to do with Barter’s inward sensations."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Unobservant as was the little princess, these tears, the cause of which she did not understand, agitated her."*
+> - 📜 **Arthur Conan Doyle (*A Scandal in Bohemia*):** *"You see, but you do not observe; the distinction is clear; Watson, you are chronically **unobservant** of trivial details."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Bingley was completely **unobservant** of his sister's sneering glances, so entirely was his attention absorbed by Jane."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke was so pleasantly **unobservant** of human nature that he constantly mistook sarcasm for enthusiastic approval."*

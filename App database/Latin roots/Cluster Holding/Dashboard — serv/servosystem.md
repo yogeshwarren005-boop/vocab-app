@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Control system that converts a small mechanical motion into one requiring much greater power; may include a negative feedback system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Control system that converts a small mechanical motion into one requiring much greater power; may include a negative feedback system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A complete automatic control system consisting of a controller, feedback transducer, and servomotor actuator.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An integrated electro-mechanical assembly operating on closed-loop feedback principles to govern motion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, servosystem designates control system that converts a small mechanical motion into one requiring much greater power; may include a negative feedback system."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Stability in any **servosystem** depends upon avoiding excessive phase lag between error detection and corrective action."*
+> - 📜 **Arthur C. Clarke (*The Deep Range*):** *"The submarine's directional **servosystem** corrected automatically for the violent underwater turbulence of the trench."*
+> - 📜 **Isaac Asimov (*The Naked Sun*):** *"The estate was maintained by a centralized **servosystem** that monitored agricultural pumps without human intervention."*

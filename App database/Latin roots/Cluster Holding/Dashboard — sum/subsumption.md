@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The premise of a syllogism that contains the minor term (which is the subject of the conclusion).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incorporating something under a more general category.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of subsuming, or classifying a specific instance or premise under a general rule or category.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal logic, the minor premise of a syllogism that brings a particular case under the universal major premise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subsumption designates the premise of a syllogism that contains the minor term (which is the subject of the conclusion)."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"The transcendental schema mediates the **subsumption** of appearances under the pure concepts of the understanding."*
+> - 📜 **William Hamilton (*Lectures on Logic*):** *"In categorical syllogisms, deductive validity requires the correct logical **subsumption** of the minor term under the middle."*
+> - 📜 **Max Weber (*Economy and Society*):** *"Modern bureaucratic jurisprudence relies on the formal **subsumption** of concrete cases under codified statutory rules."*

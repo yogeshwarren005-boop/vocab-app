@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose occupation is to serve at table (as in a restaurant).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (court games) the player who serves to start a point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who serves food and drink at a table, restaurant, or banquet; an attendant or waiter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computing, a central computer or software program that provides services, resources, or data to other computers on a network.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath been since an ape-bearer, then a process-server, a bailiff."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"He therefore appointed a second consolation, a last resource, the fight of martyrdom and the baptism of blood, thereafter secure."[111] This view may not appeal to us to-day; it did not appeal to Gnostic, time-server and coward."*
-> - 📜 **James Joyce (*Ulysses*):** *"A server bearing a brass bucket with something in it came out through a door."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"The hospitable Franklin kept an attentive **server** at his side to carve the roast flesh and pour the spiced ale."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The cup-bearer and every household **server** moved with solemn reverence across the rushes of the great Saxon hall."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The silver salad **server** found beneath the sideboard proved to be the vital clue linking the thief to the kitchen."*

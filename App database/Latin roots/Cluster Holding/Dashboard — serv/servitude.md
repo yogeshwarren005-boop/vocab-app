@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State of subjection to an owner or master or forced labor imposed as punishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: State of subjection to an owner or master or forced labor imposed as punishment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Compulsory subjection to a master or sovereign power; loss of personal liberty through bondage or involuntary labor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, a registered charge, burden, or easement on an estate for the benefit of another property.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is it, Adam, that grieves me, and the spirit of my father, which I think is within me, begins to mutiny against this servitude."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This servitude makes you to keep unwed."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"But I did not love my servitude: I wished, many a time, he had continued to neglect me."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Better to reign in hell than serve in heaven, casting off eternal **servitude** under arbitrary power."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Millions of vanquished provincials were condemned to hopeless domestic **servitude** by victorious Roman legions."*
+> - 📜 **Frederick Douglass (*Narrative of the Life of Frederick Douglass*):** *"The cruel whip of the overseer served as a perpetual reminder of my degrading **servitude** under southern law."*

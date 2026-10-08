@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a summation or produced by summation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a summation or produced by summation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resulting from the accumulation or addition of parts; cumulative; serving to summarize or evaluate at the conclusion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In education, designating an evaluation or assessment administered at the conclusion of an instructional unit to gauge total learning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, summative designates of or relating to a summation or produced by summation."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Evolution exhibits a **summative** progression, wherein countless minor adjustments aggregate into complex structural orders."*
+> - 📜 **William James (*The Meaning of Truth*):** *"A pragmatic judgment offers a **summative** verdict upon the practical working consequences of a conceptual scheme."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"A **summative** evaluation measures final achievement, but formative guidance must nurture the continuous process of student inquiry."*

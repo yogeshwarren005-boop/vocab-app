@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively forward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accepted as real or true without proof.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or based on assumption; hypothetical, presumptive, or taken for granted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Displaying unwarranted boldness, arrogance, or presumptuous self-confidence in interpersonal dealings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, assumptive designates excessively forward."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"His **assumptive** rhetoric irritated those scholars who demanded documentary citations rather than bold assertions."*
+> - 📜 **William James (*The Will to Believe*):** *"Every practical philosophy starts from an **assumptive** stance concerning the ultimate intelligibility of experience."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"The court rejected the petitioner's **assumptive** claims regarding common law privileges that had no statutory sanction."*

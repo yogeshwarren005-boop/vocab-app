@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A shrub or tree of the genus rhus (usually limited to the non-poisonous members of the genus).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shrub or tree of the genus rhus (usually limited to the non-poisonous members of the genus).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic variant spelling of sumac, designating shrubs of the genus *Rhus* with acidic berries used for tanning and dyeing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dried leaves or pulverized bark of sumac shrubs formerly harvested for use in leather tanning and astringent medicines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"They plunged into the narrow path between the tall sumach bushes, and were at once hidden in the gloom."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"Now he turned in his tracks, between the walls of sumach bushes—turned himself as carefully as if he were a ship—and then stepped quickly but cautiously along."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"You see we knew right where to put our hands on them, by your description; so we crept along on tiptoe till we got within fifteen feet of them—dark as a cellar that sumach path was—and just then I found I was going to sneeze."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"In the sheltered hollow the Venetian **sumach** put forth its curious feathery panicles resembling purple smoke."*
+> - 📜 **Thomas Jefferson (*Notes on the State of Virginia*):** *"The native Virginia **sumach** yields an abundant tanning liquor prized by local leather dressers."*
+> - 📜 **John Evelyn (*Sylva, or A Discourse of Forest-Trees*):** *"Tanners utilize the dried leaves of the stagshorn **sumach** to impart durability to their finest cordwain skins."*

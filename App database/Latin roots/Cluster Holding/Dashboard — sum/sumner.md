@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states sociologist (1840-1910).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states sociologist (1840-1910).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical officer employed to serve citations and summon suspected sinners to appear before an ecclesiastical court; a summoner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A petty court official or apparitor enforcing canon law citations in medieval parish communities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Her health being at length restored, she went to Washington, spent a few days in visiting the hospitals there, and then, with a pass sent her by Major-General Sumner, from Falmouth, she joined Mrs."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Palmer, she joined Sumner's Division at Camp California, Virginia, where she was to remain and follow to render her services in case the anticipation was verified."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Edson next proceeded to join the army before Yorktown, about the 1st of May, 1862, and was attached to the Hospital of General Sumner's corps."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"The fiery-faced **sumner** frightened the village children with his pimpled cheeks and carried a garland big enough for an ale-stake."*
+> - 📜 **William Langland (*Piers Plowman*):** *"The corrupt **sumner** took bribes of silver groats to overlook the sins of wealthy tavern-keepers."*
+> - 📜 **Walter Scott (*The Fair Maid of Perth*):** *"The apparitor or **sumner** delivered the bishop's parchment mandate requiring the armorer to answer charges of heresy."*

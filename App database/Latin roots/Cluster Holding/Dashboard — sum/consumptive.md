@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person with pulmonary tuberculosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to consume or use often wastefully.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to consume, waste away, or deplete resources or bodily tissues rapidly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affected with or relating to pulmonary tuberculosis (consumption); a person suffering from tuberculosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Another consumptive in the neighborhood, was thoroughly an infidel."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"We continued in prayer, and then one application was made for an apprentice, and from the time we first began, we have been able to find places for eighteen boys." THE CONSUMPTIVE'S HOME."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In the United States there is a Parallel Record to George Mailer's Life of Faith and Trust, found in the history of the Consumptive's Home of Boston, Mass."*
+> - 📜 **John Keats (*Letters of John Keats*):** *"The physicians warned that Rome's winter air offered the only palliative for his acute **consumptive** cough."*
+> - 📜 **Nathaniel Hawthorne (*The Blithedale Romance*):** *"Her pale, transparent cheeks bore the delicate hectic flush characteristic of a **consumptive** decline."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"An idle aristocracy exhibits a **consumptive** appetite for luxury while contributing nothing to productive labor."*

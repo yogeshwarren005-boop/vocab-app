@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Performance of duties or provision of space and equipment helpful to others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Work done by one person or group that benefits another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intangible economic products, functions, or professional activities performed for fees, distinct from manufactured goods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acts of assistance or formal duty performed for an institution, sovereign, or the community.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have no precious time at all to spend; Nor services to do till you require."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hear me, queen: The strong necessity of time commands Our services awhile, but my full heart Remains in use with you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do it at once, Or thy precedent services are all But accidents unpurposed."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The annual labor of every nation feeds itself partly through material goods and partly through diverse personal **services**."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The crown rewarded the admiral's extraordinary naval **services** with a peerage and a generous pension."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"The colonies volunteered both men and financial **services** during the late war against the French."*

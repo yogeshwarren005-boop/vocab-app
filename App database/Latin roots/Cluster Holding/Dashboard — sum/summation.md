@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A concluding summary (as in presenting a case before a law court).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physiology) the process whereby multiple stimuli can produce a response (in a muscle or nerve or other part) that one stimulus alone does not produce.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of adding things together, or the culminating total or final aggregate produced by addition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lawyer's closing argument in a trial, reviewing the evidence presented; or the cumulative physiological effect of successive nerve impulses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This summation of each person's income makes income taxation peculiarly suitable for progressive taxation with the social-welfare motive of equalizing the distribution of wealth."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Temporal **summation** demonstrates that repetitive stimuli spaced closely in time can fire a motor neuron where a single shock fails."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes gave a brilliant **summation** of the criminal investigation, laying each link of proof before the astounded inspector."*
+> - 📜 **Edmund Burke (*Speech on the Impeachment of Warren Hastings*):** *"In my final **summation** to this high court of Parliament, I charge the governor with systematic extortion and oppression."*

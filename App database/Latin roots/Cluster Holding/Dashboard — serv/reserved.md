@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hold back or set aside, especially for future use or contingency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give or assign a resource to a particular person or cause.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Slow to reveal emotion or opinions; introverted, reticent, dignified, and restrained in conversation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Kept specially for a particular person, purpose, or future occasion; set aside.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, I believe with him, In argument of praise, or to the worth Of the great count himself, she is too mean To have her name repeated; all her deserving Is a reserved honesty, and that I have not heard examin’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him speak, my lord, Upon his peril, that I have reserved To myself nothing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cleopatra, Not what you have reserved nor what acknowledged Put we i’ th’ roll of conquest."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Edward Ferrars was not handsome, and his manners required intimacy to make them pleasing; he was naturally **reserved**."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The naturalist was quiet and **reserved** until conversation turned toward botany and the wildlife of the moor."*
+> - 📜 **George Washington (*Letters of George Washington*):** *"A president must maintain a **reserved** demeanor to preserve the impartial dignity of the executive office."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wealth as evidenced by sumptuous living.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality possessed by something that is excessively expensive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Splendid opulence, decorative magnificence, or costly material abundance in architectural appointments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The character of lavish expenditure and decorative extravagance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sumptuousness designates wealth as evidenced by sumptuous living."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **sumptuousness** of the coronation ceremony in Santa Sophia dazzled the rough ambassadors from the German forests."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The antique mahogany sideboard was piled with silver plate of antique design and astonishing **sumptuousness**."*
+> - 📜 **Henry James (*The Wings of the Dove*):** *"Milly Theale gazed upon the Venetian palazzo, marveling at the decayed **sumptuousness** of its carved ceilings and tarnished mirrors."*

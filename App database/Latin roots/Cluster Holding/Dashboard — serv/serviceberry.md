@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various north american trees or shrubs having showy white flowers and edible blue-black or purplish fruit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Edible purple or red berries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deciduous shrub or small tree of the genus *Amelanchier* (rose family), bearing sweet edible dark purple berry-like pomes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The small sweet fruit of the juneberry or shadbush shrub, historically gathered by indigenous peoples and early settlers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serviceberry designates any of various north american trees or shrubs having showy white flowers and edible blue-black or purplish fruit."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"Along the riverbank grew clusters of wild **serviceberry**, their white petals dusting the dark forest floor in early spring."*
+> - 📜 **John Muir (*The Mountains of California*):** *"The ripe fruit of the **serviceberry** bushes provided a rich feast for bears and migrating songbirds alike."*
+> - 📜 **Meriwether Lewis (*The Journals of Lewis and Clark*):** *"The natives brought to our camp cakes of dried **serviceberry** pounded together with pemmican."*

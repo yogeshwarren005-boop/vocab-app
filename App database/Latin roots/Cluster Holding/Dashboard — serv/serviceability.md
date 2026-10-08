@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being able to provide good service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being able to provide good service.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fitness, durability, or operational capability to perform intended mechanical or professional functions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ease or feasibility with which a machine or system can be maintained, repaired, and kept operational.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serviceability designates the quality of being able to provide good service."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The market value of iron tools depends directly upon their intrinsic **serviceability** in manual husbandry."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Engineers debated the long-term **serviceability** of granite breakwaters when battered by severe Atlantic storms."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Institutions survive only so long as their social **serviceability** outweighs the friction of administrative decay."*

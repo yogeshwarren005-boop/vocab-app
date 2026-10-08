@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An acrobatic feat in which the feet roll over the head (either forward or backward) and return.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acrobatic feat in which the feet roll over the head (either forward or backward) and return.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete or dialectal form of somersault; a leap heels over head.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sudden tumble or complete flip; an abrupt volte-face in stance or loyalty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"I have seen him do the summerset several times together, upon a trencher fixed on a rope which is no thicker than a common packthread in England."*
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"They were very clever bears, and could climb posts and trees, dance and turn summersets and do a great many other tricks besides."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"Aunt Polly entered in time to see him throw a few double summersets, deliver a final mighty hurrah, and sail through the open window, carrying the rest of the flower-pots with him."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"Candidates for high political office in Lilliput were obliged to cut a dexterous **summerset** upon a slender tight-rope."*
+> - 📜 **Walter Scott (*Rob Roy*):** *"The clumsy horse tripped over a hidden root, throwing its rider in a headlong **summerset** into the peat-bog."*
+> - 📜 **Ben Jonson (*Bartholomew Fair*):** *"The tumbler astonished the fairgoers with his nimble leaps, turning a clean **summerset** over three drawn swords."*

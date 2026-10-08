@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Contain or include.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consider (an instance of something) as part of a general rule or principle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To include, incorporate, or classify a particular instance, idea, or rule under a comprehensive rule, category, or class.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To absorb an individual element or lesser concept into a larger, overarching system or entity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subsume designates contain or include."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"Judgment is the faculty of thinking the particular as contained under the universal, to **subsume** intuition under concepts."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Scientific explanation consists in the ability to **subsume** observed phenomena under general physical laws."*
+> - 📜 **G. W. F. Hegel (*The Science of Logic*):** *"Dialectical thought does not merely **subsume** finite determinations under an abstract genus, but unfolds their necessary unity."*

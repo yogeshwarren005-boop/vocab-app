@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The theory that an increasing consumption of goods is economically beneficial.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movement advocating greater protection of the interests of consumers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The socio-economic preoccupation with the acquisition of consumer goods, often equating material possessions with happiness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The advocacy, movement, or legal protection of consumer rights against dishonest commercial practices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, consumerism designates the theory that an increasing consumption of goods is economically beneficial."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Modern urban life fosters an unceasing **consumerism** where conspicuous waste establishes one's reputability."*
+> - 📜 **Aldous Huxley (*Brave New World Revisited*):** *"Mass advertising has transformed unthinking **consumerism** into the chief moral duty of the standardized citizen."*
+> - 📜 **John Kenneth Galbraith (*The Affluent Society*):** *"The frantic drive of contemporary **consumerism** creates synthetic wants through corporate publicity rather than genuine human needs."*

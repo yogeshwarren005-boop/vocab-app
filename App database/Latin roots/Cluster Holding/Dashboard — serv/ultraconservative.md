@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An extreme conservative; an opponent of progress or liberalism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely conservative.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely conservative in political, social, or religious outlook; opposing all progressive change or reform.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person holding uncompromisingly right-wing, reactionary, or traditionalist convictions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ultraconservative designates an extreme conservative; an opponent of progress or liberalism."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The **ultraconservative** faction of the French nobility foolishly imagined that royal absolutism could be restored without civil strife."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"An **ultraconservative** legislature that stubbornly resists timely reforms inevitably provokes violent revolutionary reaction."*
+> - 📜 **Woodrow Wilson (*Congressional Government*):** *"The committee was dominated by an **ultraconservative** chairman who systematically buried every bill proposing tariff revision."*

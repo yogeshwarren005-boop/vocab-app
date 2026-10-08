@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give a summary (of).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be a summary of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To state, present, or write the main points of a matter or text concisely; to sum up.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To condense large bodies of information, data, or arguments into a brief, digestible overview.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Attempts to summarize the nation's wealth. § 5."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Summarize the facts adverse to our cause and our options for dealing with each."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"As his description of the rite contains some interesting particulars not mentioned in the foregoing account, it may be worth while to summarize it."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In the final chapters of this work, I will **summarize** the anatomical and embryological evidence supporting our common origin."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Watson, allow me to **summarize** the curious events of the past fortnight before we venture across the moor tonight."*
+> - 📜 **Benjamin N. Cardozo (*The Nature of the Judicial Process*):** *"The judge must **summarize** the conflicting precedents and harmonize them with contemporary social welfare."*

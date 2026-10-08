@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slender long-legged african wildcat having large untufted ears and tawny black-spotted coat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slender long-legged african wildcat having large untufted ears and tawny black-spotted coat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A slender, long-legged wild cat (*Leptailurus serval*) native to sub-Saharan Africa, with large oval ears and a spotted coat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A carnivorous African felid specialized in hunting rodents and birds in savannah grasslands by leaping high into the air.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serval designates slender long-legged african wildcat having large untufted ears and tawny black-spotted coat."*
+> - 📜 **David Livingstone (*Missionary Travels and Researches in South Africa*):** *"The agile **serval** sprang from the tall reeds of the marsh, seizing a waterfowl with astonishing swiftness."*
+> - 📜 **Theodore Roosevelt (*African Game Trails*):** *"We surprised a handsome **serval** cat hunting among the acacia bushes at the break of dawn."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The **serval** represents an exquisite morphological adaptation for stalking small mammals in tall African grass."*

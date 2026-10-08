@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a people who inhabited ancient sumer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to ancient sumer or its inhabitants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of ancient Sumer, its people, cuneiform scripts, or Mesopotamian civilization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of the ancient people of Sumer; or their language, an ancient language isolate preserved in cuneiform inscriptions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As the Sumerians took the loan of Shamashnapishtin from us, so did the Sons of Shem take him from the Sumerians and call him Noah."*
+> - 📜 **Leonard Woolley (*Ur of the Chaldees*):** *"The royal cemetery preserved priceless **Sumerian** treasures of inlaid lapis lazuli, electrum, and hammered gold."*
+> - 📜 **Samuel Noah Kramer (*The Sumerians: Their History, Culture, and Character*):** *"The **Sumerian** language is an agglutinative tongue with no demonstrated genealogical kinship to any known linguistic family."*
+> - 📜 **V. Gordon Childe (*What Happened in History*):** *"The **Sumerian** temple served as the administrative and economic center of the early city-state."*

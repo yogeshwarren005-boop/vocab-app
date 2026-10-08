@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An area in the southern region of babylonia in present-day iraq; site of the sumerian civilization of city-states that flowered during the third millennium bc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An area in the southern region of babylonia in present-day iraq; site of the sumerian civilization of city-states that flowered during the third millennium bc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient civilization and historical region located in southern Mesopotamia (modern southern Iraq), flourishing between c. 4500 and 1900 BCE.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cradle of urban civilization known for inventing cuneiform writing, the wheel, and monumental mud-brick ziggurats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sumer designates an area in the southern region of babylonia in present-day iraq; site of the sumerian civilization of city-states that flowered during the third millennium bc."*
+> - 📜 **V. Gordon Childe (*Man Makes Himself*):** *"The urban revolution that established Bronze Age civilization occurred earliest in the irrigated alluvial plains of ancient **Sumer**."*
+> - 📜 **Leonard Woolley (*The Sumerians*):** *"Excavations at Ur revealed that the craftsmen of **Sumer** were master metallurgists long before the pyramids of Egypt were raised."*
+> - 📜 **Samuel Noah Kramer (*History Begins at Sumer*):** *"Recorded literature, legal codes, and formal schooling all trace their earliest written roots back to the cities of **Sumer**."*

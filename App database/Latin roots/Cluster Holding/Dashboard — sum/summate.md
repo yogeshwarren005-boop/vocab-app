@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Determine the sum of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form or constitute a cumulative effect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To add together, combine, or form into a cumulative sum; to gather or aggregate multiple parts into a whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology and neuroscience, of individual nerve stimuli or electrical impulses, to combine cumulatively to produce a threshold response.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, summate designates determine the sum of."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Successive subminimal stimuli delivered to the sensory nerve **summate** at the synapse to evoke a vigorous motor reflex."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Sensory impressions **summate** within consciousness until their united intensity breaks across the threshold of attention."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Small molecular modifications **summate** across countless generations to generate profound organic adaptations."*

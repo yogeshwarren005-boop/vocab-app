@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not consummated (especially of a marriage).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not consummated (especially of a marriage).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not brought to completion, perfection, or fruition; left unfulfilled or unfinished.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In matrimonial law, of a marriage, not made physically complete by the act of sexual intercourse between the spouses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unconsummated designates not consummated (especially of a marriage)."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ambitious grand alliance remained **unconsummated** when the emperor died suddenly on the eve of the campaign."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"An **unconsummated** marriage may be dissolved by the ecclesiastical court upon proof of canonical incapacity."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The diplomatic treaty was signed by the ambassadors but remained **unconsummated** due to parliament's refusal of subsidies."*

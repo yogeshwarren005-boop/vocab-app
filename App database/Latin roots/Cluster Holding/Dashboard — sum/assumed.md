@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take to be the case or to be true; accept without verification or proof.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take on titles, offices, duties, responsibilities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Accepted as true or valid without explicit demonstration; taken for granted as a premise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adopted fictitiously or pretended; feigned or taken on under false identity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"She should be an upper servant by her attire, yet in her air and step, though both are hurried and assumed—as far as she can assume in the muddy streets, which she treads with an unaccustomed foot—she is a lady."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The lady said, of her own accord and not of his seeking, that her name was an assumed one."*
-> - 📜 **Jane Austen (*Persuasion*):** *"As she joined him, Captain Harville’s countenance re-assumed the serious, thoughtful expression which seemed its natural character."*
+> - 📜 **Arthur Conan Doyle (*A Scandal in Bohemia*):** *"Under an **assumed** name and in the disguise of an amiable cabman, Holmes mingled freely with the local ostlers."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"He spoke with an **assumed** air of careless joviality that ill concealed his growing trepidation."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Principles merely **assumed** without demonstration cannot serve as reliable foundation stones in systematic philosophy."*

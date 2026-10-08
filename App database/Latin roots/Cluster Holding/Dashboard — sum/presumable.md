@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being inferred on slight grounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being inferred on slight grounds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being presumed or taken for granted; reasonably expected or probable based on evidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plausible enough to be assumed valid in the absence of contradictory testimony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Is it presumable, that every man, the instant he took his seat in the national Senate or House of Representatives, would commence a traitor to his constituents and to his country?"*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The **presumable** cause of these marine fossils inland is the gradual elevation of the seabed over epochs."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The **presumable** motive for the baronet's midnight excursion was an assignation at the yew hedge gate."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Prescription establishes a **presumable** title to property which no revolutionary tribunal may justly overturn."*

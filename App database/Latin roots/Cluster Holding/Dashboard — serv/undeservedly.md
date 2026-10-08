@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unmerited manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unmerited manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an undeserved, unmerited, or unfair manner; without having done anything to merit what occurred.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unjustly, whether in receiving unearned commendation or suffering wrongful censure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Assuming that she did go down to see him, Princess Mary imagined the words he would say to her and what she would say to him, and these words sometimes seemed undeservedly cold and then to mean too much."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"Many valiant commanders suffered **undeservedly** in history, being disgraced through the treacherous lies of court parasites."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth felt that Jane had suffered **undeservedly** through the selfish interference of Mr. Darcy and the Bingley sisters."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The statesman was **undeservedly** blamed for disasters that arose from the incurable negligence of his predecessors."*

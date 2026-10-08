@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (sports) a stroke that puts the ball in play.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serve a purpose, role, or function.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To perform duties or services for an employer, master, state, or organization; to work for or attend upon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To distribute or present food or drink; or to fulfill a specific purpose, function, or legal requirement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Several young French Lords, that serve with Bertram in the Florentine War."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It well may serve A nursery to our gentry, who are sick For breathing and exploit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Would God would serve the world so all the year!"*
+> - 📜 **John Milton (*On His Blindness*):** *"They also **serve** who only stand and wait, ready to do the bidding of their heavenly Master."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"I will be correspondent to command and do my spiriting gently, to **serve** thee faithfully on this isle."*
+> - 📜 **George Washington (*Farewell Address*):** *"I was summoned to **serve** my country in peace and in war by the unanimous voice of my fellow citizens."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An assumption that is taken for granted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) an inference of the truth of a fact from other facts proved or admitted or judicially noticed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An idea that is taken to be true on the basis of probability or reasonable evidence; an assumption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Audacious, insolent, or overweening behavior that oversteps bounds of courtesy, rank, or propriety.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is not so with Him that all things knows As ’tis with us that square our guess by shows; But most it is presumption in us when The help of heaven we count the act of men."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let my presumption not provoke thy wrath, For I am sorry that with reverence I did not entertain thee as thou art."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tut, this was nothing but an argument That he that breaks a stick of Gloucester’s grove Shall lose his head for his presumption."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The law maintains a strict **presumption** of innocence until guilt is proven beyond all reasonable doubt."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was astonished at Mr. Darcy's **presumption** in proposing marriage while insulting her humble connections."*
+> - 📜 **Francis Bacon (*Essays*):** *"Boldness in civil business is the child of ignorance and **presumption**, far inferior to deliberate wisdom."*

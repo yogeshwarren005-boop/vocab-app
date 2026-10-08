@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not ready for service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being used.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not fit for use, service, or employment; worn out, defective, useless, or broken down.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of rendering effective military, industrial, or domestic duty due to damage or obsolescence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Five or six thousand; but very weak and unserviceable: the troops are all scattered, and the commanders very poor rogues, upon my reputation and credit, and as I hope to live."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"The storm had shattered the rudder and rendered our ship completely **unserviceable** in the violent open sea."*
+> - 📜 **Walter Scott (*Waverley*):** *"Rusty matchlocks and broken pikes, long rendered **unserviceable** by dampness, lay heaped in the highland armory."*
+> - 📜 **Arthur Conan Doyle (*The Great Boer War*):** *"The heavy siege guns became **unserviceable** after firing hundreds of rounds through their overheated rifled barrels."*

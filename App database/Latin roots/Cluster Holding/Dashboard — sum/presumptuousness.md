@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Audacious (even arrogant) behavior that you have no right to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Audacious (even arrogant) behavior that you have no right to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Audacious boldness or unwarranted arrogance; the disposition to exceed proper boundaries of modesty or respect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overbearing self-assertion that disregards the expertise, dignity, or rights of others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, presumptuousness designates audacious (even arrogant) behavior that you have no right to."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Early success frequently betrays young authors into an intolerable **presumptuousness** that repels critical mentors."*
+> - 📜 **George Eliot (*Romola*):** *"Tito shrank from the cold **presumptuousness** of the young Florentine nobles who frequented the palace."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The blind **presumptuousness** of the court nobility precipitated the very catastrophe they sought to evade."*

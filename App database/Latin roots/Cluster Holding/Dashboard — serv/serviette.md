@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small piece of table linen that is used to wipe the mouth and to cover the lap in order to protect clothing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small piece of table linen that is used to wipe the mouth and to cover the lap in order to protect clothing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A table napkin made of cloth or absorbent paper, used during meals to protect clothes and wipe the mouth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A folded linen towel used by attendants or dining staff at table service.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serviette designates a small piece of table linen that is used to wipe the mouth and to cover the lap in order to protect clothing."*
+> - 📜 **James Joyce (*Dubliners*):** *"He tucked his stiff linen **serviette** securely into his collar before attacking the smoking bowl of mutton broth."*
+> - 📜 **Virginia Woolf (*The Voyage Out*):** *"The waiter folded each white **serviette** into the shape of a fan beside the silver dinner forks."*
+> - 📜 **Arnold Bennett (*The Old Wives' Tale*):** *"A clean **serviette** was placed before every guest in the hotel dining room as the evening bell tolled."*

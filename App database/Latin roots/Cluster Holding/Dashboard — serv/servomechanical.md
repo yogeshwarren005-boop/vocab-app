@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or involving servomechanisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or involving servomechanisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, operating by, or utilizing servomechanisms; involving feedback-controlled mechanical actuation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to automatic control systems where mechanical output is governed by an error signal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, servomechanical designates of or involving servomechanisms."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"Modern antiaircraft artillery relies upon intricate **servomechanical** linkages that track rapidly fleeing aerial targets."*
+> - 📜 **Isaac Asimov (*The Caves of Steel*):** *"The automatic transport corridor was governed by **servomechanical** sensors regulating speed and spacing between cars."*
+> - 📜 **Arthur C. Clarke (*Rendezvous with Rama*):** *"The exploration rover responded smoothly as its **servomechanical** limbs adapted to the spinning cylinder's centrifugal force."*

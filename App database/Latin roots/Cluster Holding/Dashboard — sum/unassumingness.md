@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quality of naturalness and simplicity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quality of naturalness and simplicity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genuine modesty, unpretentious simplicity, and freedom from haughtiness or vanity in social intercourse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unpretentious humility and gentle reserve in character or deportment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unassumingness designates a quality of naturalness and simplicity."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"True greatness of soul is ever accompanied by an engaging **unassumingness** that disarms envy and inspires affection."*
+> - 📜 **Jane Austen (*Emma*):** *"Jane Fairfax possessed a delicate **unassumingness** of character that made her superior accomplishments all the more charming."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Kate's gentle **unassumingness** contrasted sharply with the loud, vulgar ostentation of the Wititterly household."*

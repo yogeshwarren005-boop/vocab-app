@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a subservient state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a subservient state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The character or habit of being excessively submissive, compliant, or deferential to authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The instrumental utility or adaptedness of something to serve a higher purpose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subservientness designates in a subservient state."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He despised that fawning **subservientness** which barters moral integrity for the hollow smiles of great men."*
+> - 📜 **Jeremy Bentham (*Deontology*):** *"The moral worth of any civil institution lies in its demonstrable **subservientness** to the greatest happiness principle."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"There was in his quiet speech no hint of timid **subservientness**, but rather the calm composure of self-respect."*

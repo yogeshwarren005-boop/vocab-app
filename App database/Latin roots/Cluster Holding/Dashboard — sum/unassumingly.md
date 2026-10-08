@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unassuming manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unassuming manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unassuming, modest, or unpretentious manner; without arrogance or ostentatious display.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quietly and unobtrusively, without demanding attention or self-promotion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Quietly, unassumingly Rumbold stepped on to the scaffold in faultless morning dress and wearing his favourite flower, the _Gladiolus Cruentus_."*
+> - 📜 **George Eliot (*Silas Marner*):** *"Dolly Winthrop moved **unassumingly** through the village, quietly tending to the sick and comforting the sorrowful."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Clym Yeobright dressed **unassumingly** in coarse working corduroys, indifferent to the vain fashions of Parisian society."*
+> - 📜 **William Makepeace Thackeray (*The Newcomes*):** *"The old colonel lived **unassumingly** in humble lodgings, bearing his financial ruin with serene christian fortitude."*

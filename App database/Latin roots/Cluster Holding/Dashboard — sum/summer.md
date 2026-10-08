@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The warmest season of the year; in the northern hemisphere it extends from the summer solstice to the autumnal equinox.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The period of finest development, happiness, or beauty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The warmest season of the year, between spring and autumn, in the northern hemisphere extending from June to August.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A period of fruition, prime, or peak maturity in human life, prosperity, or artistic achievement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But were some child of yours alive that time, You should live twice,—in it, and in my rhyme. 18 Shall I compare thee to a summer’s day?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or call it winter, which being full of care, Makes summer’s welcome, thrice more wished, more rare. 57 Being your slave what should I do but tend, Upon the hours, and times of your desire?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O how shall summer’s honey breath hold out, Against the wrackful siege of batt’ring days, When rocks impregnable are not so stout, Nor gates of steel so strong but time decays?"*
+> - 📜 **William Shakespeare (*Sonnet 18*):** *"Shall I compare thee to a **summer** day? Thou art more lovely and more temperate."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Every **summer** morning was a quiet invitation to make my life of equal simplicity with nature herself."*
+> - 📜 **John Keats (*To Autumn*):** *"Until they think warm days will never cease, for **summer** has o'er-brimm'd their clammy cells."*

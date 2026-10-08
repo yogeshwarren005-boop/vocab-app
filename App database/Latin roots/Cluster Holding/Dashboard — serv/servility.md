@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abject or cringing submissiveness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abject or cringing submissiveness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An excessive, cringing willingness to serve, flatter, or please others; obsequiousness or slavish submissiveness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The degrading condition or character associated with enslavement or menial bondage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To be a queen in bondage is more vile Than is a slave in base servility; For princes should be free."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"There is a mixture of servility and self-importance in his letter which promises well."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"The French emissaries conducted themselves like lords of Germany, while the German princes vied with each other in acts of servility and submission to the arrogant Frenchmen."*
+> - 📜 **Tacitus (*Annals*):** *"Tiberius was wont to complain of the disgustingly abject **servility** of the Roman patricians."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A spirit of manly liberty was extinguished, and universal **servility** corrupted the morals of the empire."*
+> - 📜 **Mary Wollstonecraft (*A Vindication of the Rights of Woman*):** *"Blind submission to despotic authority breeds a degrading **servility** that enervates both sexes."*

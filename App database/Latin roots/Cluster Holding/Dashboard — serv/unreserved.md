@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not reserved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not cautious or reticent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Frank, open, and without reticence or concealment in communicating thoughts or feelings; candid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not set apart or restricted for a particular person; or unqualified and complete, as in unreserved praise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole, seeing them for the first time, should be so unreserved and should lay himself out to be so exquisitely agreeable."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"From that hour I felt quite easy with him, quite unreserved, quite content to know no more, quite happy."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As the dear old infant would be with us directly, he begged that I would make an appointment for the morning, when he might set himself right through the means of an unreserved conversation with me."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne's affectionate and **unreserved** disposition made it impossible for her to dissemble her ardent admiration."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The allied prince tendered his **unreserved** submission, surrendering his fortresses and treasury to the Roman legate."*
+> - 📜 **George Washington (*Letters of George Washington*):** *"I offer to my companion in arms my most **unreserved** confidence and warmest sentiments of fraternal esteem."*

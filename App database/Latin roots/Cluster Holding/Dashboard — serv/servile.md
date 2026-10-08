@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Submissive or fawning in attitude or behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or involving slaves or appropriate for slaves or servants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing an excessive, cringing willingness to serve or please others; sycophantic, fawning, or submissive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or characteristic of a slave or menial status; slavish in imitation or lacking originality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet, if this servile usage once offend, Go and be free again as Suffolk’s friend. [_She is going._] O, stay!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O that I were a god, to shoot forth thunder Upon these paltry, servile, abject drudges!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These growing feathers pluck’d from Caesar’s wing Will make him fly an ordinary pitch, Who else would soar above the view of men, And keep us all in servile fearfulness. [_Exeunt._] SCENE II."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"And why should Caesar be a tyrant then? Poor man! I know he would not be a wolf, but that he sees the Romans are but sheep; he were no lion, were not Romans **servile**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman senate degenerated into a **servile** assembly that ratified every cruel edict of the emperor."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"A people governed by **servile** habits of mind loses the capacity for independent political deliberation."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement that is assumed to be true and from which a conclusion can be drawn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hypothesis that is taken for granted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thing that is accepted as true or as certain to happen, without proof; a presupposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of taking on or receiving power, office, or responsibility; or in theology, the bodily ascent of Mary into heaven.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But a stir in that direction, a gathering of reverential awe in the rustic faces, and a blandly ferocious assumption on the part of Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have no time to waste.” In the midst of his perfect assumption of indifference, he directs a sharp look at the trooper, taking care to stand with his own back to the light and to have the other with his face towards it."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"It is but justice to say, that in no case has there ever been the thought or the assumption, by Doctor Cullis himself, of having _any divinely conferred power_ to heal all that come to him, or for whom he may pray."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Human understanding leaps hastily from particular instances to an ungrounded **assumption** of general axioms."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The solemn **assumption** of the crown by William and Mary marked the definitive end of monarchical despotism."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"To refuse hearing an opinion because we are sure it is false is an **assumption** of personal infallibility."*

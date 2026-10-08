@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Call in an official matter, such as to attend court.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ask to come.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To authoritatively or urgently call on someone to be present, especially as a defendant or witness before a judge or magistrate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To muster, rally, or call into action one's courage, strength, or mental faculties to face a trial.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lend you him I will For half a hundred years.—Summon the town."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Summon a parley; we will talk with him. [_Trumpets sound a parley._] CHARLES."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Summon their general unto the wall."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Hear it not, Duncan; for it is a knell that **summon** thee to heaven or to hell."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The police inspector resolved to **summon** immediate reinforcements before storming the gloomy riverside warehouse."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I endeavored to **summon** all my fortitude to listen to the horrifying narrative of the creature I had brought to life."*

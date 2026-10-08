@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being able to provide good service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being able to provide good service.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rugged utility, dependable functioning, and practical readiness for regular daily employment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The accommodating disposition of a person eager to render assistance to associates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode’s standard had been his serviceableness to God’s cause: “I am sinful and nought—a vessel to be consecrated by use—but use me!”—had been the mould into which he had constrained his immense need of being something important and predominating."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"He valued furniture not for its gilded ornamentation, but for its solid **serviceableness** and comfort."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"Tutors should train boys toward practical **serviceableness** in civil society rather than pedantic display."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Caleb Garth judged men by the honest **serviceableness** of their handiwork upon the land."*

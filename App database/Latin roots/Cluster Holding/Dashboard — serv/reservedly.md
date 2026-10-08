@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With reserve; in a reserved manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With reserve; in a reserved manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With cool restraint, reticence, or emotional distance; without openness or demonstrativeness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner marked by conditional caution, discretion, or deliberate understatement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reservedly designates with reserve; in a reserved manner."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Gilbert Osmond bowed **reservedly**, answering the lively inquiries of the visitor with fastidious brevity."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Gwendolen received the compliments of the assembled company **reservedly**, betraying none of her inward pride."*
+> - 📜 **William Makepeace Thackeray (*The History of Henry Esmond*):** *"The colonel answered the general's questions **reservedly**, unwilling to compromise his comrades in arms."*

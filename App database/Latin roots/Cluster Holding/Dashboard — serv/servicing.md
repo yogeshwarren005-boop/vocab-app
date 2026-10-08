@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of mating by male animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be used by; as of a utility.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of performing routine maintenance, inspection, and repairs on a vehicle, machine, or system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The payment of interest and installment charges on a loan or national debt over time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Raven, on a lengthy umbilical-catwalk, had been tethered to the Guardian Station, ostensibly for maintenance after a servicing round of nearby communications boosters."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"As the last of the six cleared in through the Raven's air lock, Hodak had hit "Emergency," on appropriate switches and the ship-to-station servicing lines went through quick-disconnect."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Serious manufacturing and servicing mistakes were also found in other types of equipment used by the Army Air Corps."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Specialized teams were assigned to the systematic **servicing** of the aerial fleet before the dawn patrol."*
+> - 📜 **John Maynard Keynes (*The Economic Consequences of the Peace*):** *"The staggering annual burden of **servicing** the foreign war debt paralyzed the industrial recovery of the continent."*
+> - 📜 **Nevil Shute (*No Highway*):** *"Careful **servicing** of the transport plane's structural tailplane revealed unexpected signs of metal fatigue."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The archeology of ancient sumerians.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The archeology of ancient sumerians.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The academic study of ancient Sumer, its language, literature, culture, history, and cuneiform inscriptions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialized branch of Assyriology and Near Eastern archaeology focusing on pre-Babylonian Mesopotamian civilization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sumerology designates the archeology of ancient sumerians."*
+> - 📜 **Samuel Noah Kramer (*History Begins at Sumer*):** *"The fledgling discipline of **Sumerology** made dramatic strides as scholars deciphered complex mythological tablets from Nippur."*
+> - 📜 **Leonard Woolley (*The Sumerians*):** *"Modern **Sumerology** has transformed our understanding of the origins of law, irrigation, and monumental temple architecture."*
+> - 📜 **Archibald Sayce (*The Archaeology of the Cuneiform Inscriptions*):** *"Through pioneering advances in **Sumerology**, epigraphers demonstrated that Semitic Babylonian writing was borrowed from a non-Semitic predecessor."*

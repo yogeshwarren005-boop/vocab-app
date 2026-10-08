@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not servile or submissive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not servile or submissive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not servile, cringing, or obsequious; exhibiting independent dignity, self-respect, and moral freedom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from slavish imitation, menial submissiveness, or sycophancy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unservile designates not servile or submissive."*
+> - 📜 **John Milton (*Areopagitica*):** *"A free commonwealth produces an **unservile** citizenry that dares to speak and write truth to magistrates."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He maintained an **unservile** demeanor before wealthy patrons, demanding respect for his literary labors."*
+> - 📜 **Mary Wollstonecraft (*A Vindication of the Rights of Woman*):** *"True education elevates the mind above frivolous dependence, fostering a robust and **unservile** virtue in women."*

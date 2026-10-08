@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eat immoderately.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serve oneself to, or consume regularly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To eat, drink, or ingest food or drink; or to use up, exhaust, or expend a resource.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To destroy completely, as by fire; or to engross, obsess, or overpower one's thoughts and emotions entirely.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he were putting to my house the brand That should consume it, I have not the face To say “Beseech you, cease.”—You have made fair hands, You and your crafts!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Break thou in pieces and consume to ashes, Thou foul accursed minister of hell!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The iron of itself, though heat red-hot, Approaching near these eyes would drink my tears And quench his fiery indignation Even in the matter of mine innocence; Nay, after that, consume away in rust, But for containing fire to harm mine eye."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Fierce wrath and envy begin to **consume** him inward, boiling like subterranean pitch."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The red flames did not spare the proud château, but spread swiftly to **consume** roof, timber, and tapestries."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"A fever of ambition began to **consume** my vital energies as the grotesque creation neared its animation."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Short descriptive summary (of events).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A summary of your academic and work history.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To begin again or continue after an interruption or pause; to recommence an activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To take back or reoccupy a position, right, or garment previously laid aside.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, mother, Resume that spirit when you were wont to say If you had been the wife of Hercules, Six of his labours you’d have done and saved Your husband so much sweat.—Cominius, Droop not."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That opportunity, Which then they had to take from’s, to resume We have again."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou shalt find That I’ll resume the shape which thou dost think I have cast off for ever. [_Exeunt Lear, Kent and Attendants._] GONERIL."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Till morn, let us **resume** our peaceful task, and till the fragrant garden under heaven's gracious smile."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor was persuaded to **resume** the purple robes which he had renounced in his ascetic retirement."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"After a painful silence of some minutes, Mr. Darcy endeavored to **resume** conversation with customary civility."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a presumptuous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a presumptuous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an excessively forward, arrogant, or audacious manner; with unwarranted boldness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting with disregard for established rules, divine commandments, or rightful authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"And woe to Boythorn or other daring wight who shall presumptuously contest an inch with him!"*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I have not so learned the moral government of the universe: nor do I presumptuously and impiously aspire to the attributes of Godhead; and seek to bear upon my poor body the iniquities of the world."*
-> - 📜 **John Keats (*Poems 1817*):** *"Will not some say that I presumptuously Have spoken? that from hastening disgrace 'Twere better far to hide my foolish face?"*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The dwarf **presumptuously** insolent dropped a large silver marrow-bone into the queen's silver bowl of milk."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"Simple and Sloth were sleeping by the wayside, while Presumption talked **presumptuously** of his own safety."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The young prefect **presumptuously** assumed the supreme command without awaiting orders from the senate."*

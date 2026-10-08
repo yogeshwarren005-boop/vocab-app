@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be helpful or useful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be helpful or useful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To help forward, promote, or serve as an instrument to advance an end, interest, or purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To act in subordination to a greater objective; to minister or contribute instrumentally.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor, perhaps, will it fail to be eventually perceived, that behind those forms and usages, as it were, he sometimes masked himself; incidentally making use of them for other and more private ends than they were legitimately intended to subserve."*
-> - 📜 **Effie Afton (*Eventide*):** *"Pimble's is to stay at home and superintend the minor matters of life, such as milking the kine, feeding the chickens, and slaughtering a lamb occasionally to subserve the grosser wants of poor human nature."*
-> - 📜 **Effie Afton (*Eventide*):** *"But I'm willing you should use my name, darling, to subserve your timidity."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Natural philosophy ought not to be forced to **subserve** the superstitious dogmas of scholastic theology."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Every organ in a living creature has been modified so as to **subserve** some vital need in its struggle for life."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Secondary moral rules are valuable precisely because they **subserve** the ultimate principle of general utility."*

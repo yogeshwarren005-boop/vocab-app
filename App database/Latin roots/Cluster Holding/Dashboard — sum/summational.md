@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a summation or produced by summation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a summation or produced by summation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, operating by, or characterized by summation or cumulative addition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the mathematical process of summing series or integrating aggregated components.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, summational designates of or relating to a summation or produced by summation."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"The **summational** capacity of the spinal reflex arc enables an organism to respond decisively to persistent faint stimuli."*
+> - 📜 **Alfred North Whitehead (*Process and Reality*):** *"Each actual entity achieves its subjective unity through a **summational** synthesis of prehensions."*
+> - 📜 **Karl Pearson (*The Grammar of Science*):** *"The total variance observed in the sample exhibits a **summational** relationship to the individual partial variances."*

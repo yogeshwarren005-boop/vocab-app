@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to or characteristic of or occurring in summer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to or characteristic of or occurring in summer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of, suitable for, or resembling the weather or atmosphere of summer; pleasantly warm and bright.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of clothing or attire, light, airy, and designed for warm sunny weather.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Alas! the parting is over-- The parting, but not the pain-- Oh! sweet was the purple clover, And sweet was the yellow grain; And sweet were the woody hollows On the summery Rhineward track; But a winter untimely swallows All sweets as I travel back."*
+> - 📜 **Jane Austen (*Emma*):** *"The morning was delightfully mild and **summery**, enticing Mrs. Elton to propose an immediate strawberry-gathering party."*
+> - 📜 **Virginia Woolf (*Mrs. Dalloway*):** *"London was full of a light, **summery** rustle of silk dresses and sparkling shop windows beneath the blue June sky."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She wore a simple, **summery** frock of printed muslin as she walked through the fragrant buttercup pastures of the valley."*

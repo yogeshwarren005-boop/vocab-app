@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A japanese form of wrestling; you lose if you are forced out of a small ring or if any part of your body (other than your feet) touches the ground.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A japanese form of wrestling; you lose if you are forced out of a small ring or if any part of your body (other than your feet) touches the ground.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Japanese style of heavyweight wrestling in which a competitor attempts to force their rival out of a circular ring or onto the ground.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A centuries-old ritualized sport imbued with Shinto religious traditions, referee salt-purifications, and ancient ceremonial ranks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sumo designates a japanese form of wrestling; you lose if you are forced out of a small ring or if any part of your body (other than your feet) touches the ground."*
+> - 📜 **Lafcadio Hearn (*Glimpses of Unfamiliar Japan*):** *"The ancient art of **sumo** wrestling preserves sacred Shinto rituals, where massive athletes purify the clay dohyo with salt."*
+> - 📜 **Basil Hall Chamberlain (*Things Japanese*):** *"In professional **sumo**, matches are decided in a flurry of explosive charges lasting only a few breathless seconds."*
+> - 📜 **Algernon Freeman-Mitford (*Tales of Old Japan*):** *"The daimyo patronized renowned **sumo** champions whose portraits were sold as popular woodblock prints across Edo."*

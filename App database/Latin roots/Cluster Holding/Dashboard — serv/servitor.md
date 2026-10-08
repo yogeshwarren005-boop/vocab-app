@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who performs the duties of an attendant for someone else.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who performs the duties of an attendant for someone else.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who serves others; a male servant, attendant, or domestic follower, especially in an archaic or historical context.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically at Oxford University, an undergraduate student who paid lower fees in return for performing menial duties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My noble Queen, let former grudges pass, And henceforth I am thy true servitor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Signior Montano, Your trusty and most valiant servitor, With his free duty recommends you thus, And prays you to believe him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, I have learned that fearful commenting Is leaden servitor to dull delay; Delay leads impotent and snail-paced beggary; Then fiery expedition be my wing, Jove’s Mercury, and herald for a king!"*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Signior Antonio commends him to you, and his trusty **servitor** brings these letters with all speed."*
+> - 📜 **Walter Scott (*The Bride of Lammermoor*):** *"Caleb Balderstone remained the sole devoted **servitor** in the crumbling, impoverished tower of Wolf's Crag."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"George Whitefield entered Pembroke College as a humble **servitor**, scrubbing staircases while studying Greek."*

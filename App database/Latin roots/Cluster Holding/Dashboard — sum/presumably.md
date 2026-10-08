@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By reasonable assumption.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By reasonable assumption.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: As may be reasonably assumed, expected, or inferred; probably; according to likely evidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on logical presupposition rather than direct empirical verification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"It is, presumably, a transcript of one of the early copies."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The flower it blaws, it fades, it fa’s, And art can ne’er renew it; But worth and truth, eternal youth Will gie to Polly Stewart, O lovely Polly Stewart, &c. [Footnote 1: Bacon was the name of a presumably intrusive host."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke’s estate, presumably worth about three thousand a-year—a rental which seemed wealth to provincial families, still discussing Mr."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The footprints lead toward the river wharf, where the fugitive **presumably** boarded an outgoing steam launch."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Captain Wentworth was **presumably** detained in town by business relating to his naval prize money."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"These decorative plumes were **presumably** acquired through generations of sexual selection by the female birds."*

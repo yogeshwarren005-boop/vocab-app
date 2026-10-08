@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A request to be present.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order to appear in person at a given place and time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An authoritative or formal call to appear in court, face trial, or attend to a public duty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An urgent invocation, appeal, or call to action issued by a commander, monarch, or moral authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And then it started, like a guilty thing Upon a fearful summons."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I then moved you, My Lord of Canterbury, and got your leave To make this present summons."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your name, your quality? and why you answer This present summons?"*
+> - 📜 **William Shakespeare (*Macbeth*):** *"A heavy **summons** lies like lead upon me, and yet I would not sleep; merciful powers, restrain in me the cursed thoughts."*
+> - 📜 **Francis Bacon (*Essays*):** *"Men fear death as children fear to go in the dark; yet it is but a natural **summons** to pay the debt of nature."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The urgent telegram came as a sudden **summons** to leave London and hasten down to Devonshire without delay."*

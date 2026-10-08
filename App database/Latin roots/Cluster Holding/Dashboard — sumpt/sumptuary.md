@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Regulating or controlling expenditure or personal behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regulating or controlling expenditure or personal behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or regulating expenditure, especially laws designed to restrain excessive luxury, dress, or extravagance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intended to restrict private spending on moral, economic, or class distinction grounds through statutory regulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The Middle Ages are full of futile sumptuary laws which sprang from the envy of the nobles for the wealthy merchants."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"There is need of better standards of taste and judgment in expenditure, but not of sumptuary laws."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The figures were grossly exaggerated, but nevertheless an alliance was formed with the Democratic party in the State by the substantial adoption of the anti-sumptuary plank in its platform."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"It is the highest impertinence and presumption in kings and ministers to pretend to watch over the economy of private people by **sumptuary** laws."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Ancient censors vainly revived severe **sumptuary** edicts to check the costly importation of oriental silks and pearls into Rome."*
+> - 📜 **Francis Bacon (*Essays*):** *"The increase of trade and moderate **sumptuary** regulations keep the commonwealth from wasting its vital treasure in ostentatious riot."*

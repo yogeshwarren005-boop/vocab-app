@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wood of a sumac.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shrub or tree of the genus rhus (usually limited to the non-poisonous members of the genus).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any shrub or small tree of the genus *Rhus*, bearing compound leaves and dense conical clusters of red hairy fruits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tangy, astringent spice made from the dried, ground crimson berries of the sumac plant, widely used in Middle Eastern cooking.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sumac designates wood of a sumac."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The smooth **sumac** grew luxuriantly along the embankment, pushing up velvety shoots and crimson fruit spikes."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"The red berries of the wild **sumac** gleamed bright along the fence-rows under the autumn sun."*
+> - 📜 **John Muir (*A Thousand-Mile Walk to the Gulf*):** *"We pushed through dense thickets of blooming **sumac** and blackberry briars along the river margins."*

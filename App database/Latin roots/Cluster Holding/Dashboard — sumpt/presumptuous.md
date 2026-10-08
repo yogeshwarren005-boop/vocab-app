@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively forward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessively forward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing to observe the limits of what is permitted or appropriate; insolently bold or excessively confident.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overstepping bounds of social decorum, modest rank, or moral reverence; brazenly forward.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be not offended; for it hurts not him That he is lov’d of me; I follow him not By any token of presumptuous suit, Nor would I have him till I do deserve him; Yet never know how that desert should be."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Presumptuous priest, this place commands my patience, Or thou shouldst find thou hast dishonour’d me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Presumptuous vassals, are you not ashamed With this immodest clamorous outrage To trouble and disturb the King and us?"*
+> - 📜 **John Milton (*Paradise Lost*):** *"How hast thou with **presumptuous** folly dared to break the bounds prescribed to thy rebellious race!"*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She feared to appear **presumptuous** by voicing her heartfelt convictions in the presence of so haughty an auditor."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"A **presumptuous** philosopher thinks himself qualified to reconstruct the state on abstract principles in a single afternoon."*

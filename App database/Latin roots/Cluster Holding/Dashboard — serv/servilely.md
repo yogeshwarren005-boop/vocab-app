@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an obsequious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an obsequious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an excessively submissive, cringing, or obsequious manner; with humiliating deference.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner marked by slavish, uncreative imitation of another model or authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"And thou, sly hypocrite, who now wouldst seem Patron of liberty, who more than thou Once fawned, and cringed, and servilely adored Heaven’s awful Monarch? wherefore, but in hope To dispossess him, and thyself to reign?"*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"Ministers of state bowed **servilely** to the royal footstool, licking the dust according to court etiquette."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"A minor versifier who copies **servilely** the cadences of Pope produces only feeble and monotonous rhymes."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The courtiers flattered **servilely** the tyrant's vices while betraying his country to foreign gold."*

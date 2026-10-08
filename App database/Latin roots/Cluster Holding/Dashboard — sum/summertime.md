@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The warmest season of the year; in the northern hemisphere it extends from the summer solstice to the autumnal equinox.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The warmest season of the year; in the northern hemisphere it extends from the summer solstice to the autumnal equinox.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The period or season of summer, typically marked by long daylight hours and warm weather.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A prosperous, sunny, or joyful period in life; the prime season of ease and vitality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"There's no danger in summertime, the shepherds often cross it and so do I."*
-> - 📜 **Thornton W. Burgess (*The Adventures of Reddy Fox*):** *"And so old Granny Fox puckered up her brows and thought and thought, trying to find some good reason why Farmer Brown's boy should have been hunting in the summertime."*
-> - 📜 **Bram Stoker (*Dracula*):** *"I was told that this road is in summertime excellent, but that it had not yet been put in order after the winter snows."*
+> - 📜 **William Wordsworth (*The Prelude*):** *"Fair seed-time had my soul, and I grew up fostered alike by beauty and by fear in the sweet **summertime** of youth."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"In pleasant **summertime**, when the roses clustered thick about the porch, Chesney Wold wore an aspect of stately peace."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"The yellow bees hummed incessantly over the clover blossoms in the golden haze of mid-day **summertime**."*

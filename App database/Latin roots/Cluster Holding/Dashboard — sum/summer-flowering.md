@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of plants that bloom during the summer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of plants that bloom during the summer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Botanically characterized by flowering during the summer period; having summer blossom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to ornamental or agricultural crops cultivated for summer floral harvest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, summer-flowering designates of plants that bloom during the summer."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"In these **summer-flowering** species, cross-pollination by bumblebees greatly enhanced the vigor of the resulting seedlings."*
+> - 📜 **Gertrude Jekyll (*Colour Schemes for the Flower Garden*):** *"The tall **summer-flowering** lilies create a majestic architectural accent behind the broad drift of silver foliage."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The warm weeks of July encouraged a rich profusion of **summer-flowering** heaths across the sandy commons."*

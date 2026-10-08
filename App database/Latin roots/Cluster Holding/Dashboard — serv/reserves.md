@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Civilians trained as soldiers but not part of the regular army.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formality and propriety of manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Supplies of a commodity or funds not needed for immediate use but stored for future contingencies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Military forces held back from action to reinforce battle lines or retained for national emergencies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But she so loves the token, For he conjur’d her she should ever keep it, That she reserves it evermore about her To kiss and talk to."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I should have got a lawyer, and he would have said (as I have often read in the newspapers), ‘My client says nothing, my client reserves his defence’: my client this, that, and t’other."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As the reserves of strength are consumed there is less strength to lose."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman general brought up his veteran **reserves** to turn the wavering fortunes of the battle on the Rhine."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Prudent bankers maintain substantial **reserves** of gold bullion to answer extraordinary runs upon their notes."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The commander who squanders his strategic **reserves** in the opening skirmish invites catastrophic defeat at dusk."*

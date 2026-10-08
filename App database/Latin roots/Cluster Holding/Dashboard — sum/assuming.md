@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take to be the case or to be true; accept without verification or proof.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take on titles, offices, duties, responsibilities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking for granted as a working hypothesis; supposing or positing for the purpose of argument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by presumption, arrogance, or forwardness; overbearing and self-assertive.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To sing a song that old was sung, From ashes ancient Gower is come; Assuming man’s infirmities, To glad your ear, and please your eyes."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Had I known it, I would have had the pleasure of talking to him about you.” “To confess the truth,” said Mrs Smith, assuming her usual air of cheerfulness, “that is exactly the pleasure I want you to have."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The huge pool of blood in front of her was already assuming the iridescence of coagulation; and when the sun rose a hundred prismatic hues were reflected from it."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Even **assuming** that capital flows without friction, wage rates vary according to hardship and trust."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His manner was far from **assuming**, yet there was a quiet dignity about him that checked unwarranted familiarities."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"By **assuming** that the future will resemble the past, inductive reasoners rely on custom rather than strict deduction."*

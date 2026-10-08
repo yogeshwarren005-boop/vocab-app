@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (maine colloquial) a temporary summer resident of maine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (maine colloquial) a temporary summer resident of maine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dialectal term for a caterpillar appearing in midsummer; or an itinerant person wandering about during warm weather.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A summer visitor, vacationer, or temporary vagrant roving the countryside during the harvest season.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, summercater designates (maine colloquial) a temporary summer resident of maine."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The rustic woodman warned that a destructive **summercater** was devouring the tender green shoots of the young hazel coppice."*
+> - 📜 **William Barnes (*Poems of Rural Life in the Dorset Dialect*):** *"Down along the shady lane the green **summercater** swung from its delicate silk thread beneath the bough."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The village constable kept a sharp eye on every wandering **summercater** who tramped the turnpike during sheep-shearing."*

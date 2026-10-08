@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beginning again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beginning again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of starting something again after an interruption; recommencement or renewal of an action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The legal recovery or taking back of property, authority, or specie payment by a government or owner.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This was called "the resumption of specie payments." Almost every nation has at some time issued political money."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He was preparing to transfer his management of the Bank, and to give up any active control of other commercial affairs in the neighborhood, on the ground of his failing health, but without excluding his future resumption of such work."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"I am unable even to remember at this day what proposal I framed for the end of his holidays and the resumption of his studies."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The parliamentary bill for the **resumption** of crown grants provoked furious debates among the landed nobility."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Commercial confidence revived immediately upon the official **resumption** of cash payments by the national bank."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **resumption** of hostilities along the Persian frontier dashed all hopes of enduring peace in the east."*

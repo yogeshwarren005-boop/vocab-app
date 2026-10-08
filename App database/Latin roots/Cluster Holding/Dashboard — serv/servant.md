@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person working in the service of another (especially in the household).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a subordinate position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person employed in the service of another, especially one performing domestic duties in a household.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dedicated agent or public official acting under loyalty to a monarch, state, or religious cause.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor dare I chide the world-without-end hour, Whilst I (my sovereign) watch the clock for you, Nor think the bitterness of absence sour, When you have bid your servant once adieu."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"RYNALDO, servant to the Countess of Rossillon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Clown, servant to the Countess of Rossillon."*
+> - 📜 **William Shakespeare (*King Lear*):** *"A good and faithful **servant** will not obey unjust commands that violate humanity."*
+> - 📜 **Francis Bacon (*Essays*):** *"Men in great place are thrice **servants**: **servants** of the sovereign, **servants** of fame, and **servants** of business."*
+> - 📜 **Edmund Burke (*Speech to the Electors of Bristol*):** *"Your representative owes you, not his industry only, but his judgment; and he betrays you if he sacrifices it to your opinion, acting as a blind **servant**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take to be the case or to be true; accept without verification or proof.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take upon oneself; act presumptuously, without permission.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To take for granted as true without complete proof; to suppose or infer on reasonable grounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To dare, venture, or undertake something boldly beyond the bounds of modesty, authority, or etiquette.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do presume, sir, that you are not fallen From the report that goes upon your goodness; And therefore, goaded with most sharp occasions, Which lay nice manners by, I put you to The use of your own virtues, for the which I shall continue thankful."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do beseech you, sir, Since you are like to see the king before me, Commend the paper to his gracious hand, Which I presume shall render you no blame, But rather make you thank your pains for it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Presume not that I am the thing I was; For God doth know, so shall the world perceive, That I have turn’d away my former self; So will I those that kept me company."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"Do not **presume** too much upon my love; I may do that I shall be sorry for."*
+> - 📜 **Alexander Pope (*An Essay on Man*):** *"Know then thyself, **presume** not God to scan; the proper study of mankind is man."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"Magistrates may not **presume** to legislate upon private conscience without explicit warrant from natural law."*

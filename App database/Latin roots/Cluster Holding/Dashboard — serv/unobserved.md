@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not observed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not observed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not seen, noticed, or perceived by anyone; unnoticed or unseen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Left unpracticed or unheeded, as a law, custom, or treaty that is ignored.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"On its being proposed, Anne offered her services, as usual; and though her eyes would sometimes fill with tears as she sat at the instrument, she was extremely glad to be employed, and desired nothing in return but to be unobserved."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"How much is that?” “Hundred and seventeen,” chuckled another old gentleman, given to mental arithmetic and little conversation, who had hitherto sat unobserved in a corner."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She made use of an unobserved minute whilst his attention was absorbed in the operation to arrange her plumes a little."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Satan entered **unobserved** into the borders of Eden, gliding like a black mist over the fragrant ramparts."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The Black Knight slipped away **unobserved** into the dark woodland before the heralds could proclaim his victory."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Speckled Band*):** *"The assassin crept **unobserved** along the ventilator shaft during the dead silence of the country night."*

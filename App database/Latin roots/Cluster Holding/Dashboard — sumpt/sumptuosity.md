@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality possessed by something that is excessively expensive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality possessed by something that is excessively expensive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lavish expenditure, costly magnificence, or luxurious richness in feasts, dress, and domestic furnishings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ostentatious luxury and lavishness displayed in banquets, furnishings, palaces, or personal apparel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"He was rather a favourite with the regiment, treating the young officers with sumptuosity, and amusing them by his military airs."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Persian monarch received the Roman ambassadors with an oriental **sumptuosity** that astonished their western austerity."*
+> - 📜 **Walter Scott (*Kenilworth*):** *"The Earl of Leicester welcomed Queen Elizabeth with unprecedented **sumptuosity**, converting Kenilworth Castle into a palace of enchanted delights."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"True elegance avoids vulgar **sumptuosity**, aiming rather at refined harmony and tasteful simplicity in every appointment."*

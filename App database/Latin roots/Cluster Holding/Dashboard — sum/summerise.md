@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prepare for summer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prepare for summer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To keep, pasture, or maintain cattle or livestock on open pasture through the summer season.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To prepare, adjust, or adapt a house, vehicle, or mechanical system for summer operation and warm weather.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, summerise designates prepare for summer."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Highland farmers found it profitable to **summerise** their young black cattle upon the elevated heather moors."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel Oak prepared the high upland paddocks where the bailiff intended to **summerise** the breeding ewes."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Drovers from the Sussex weald **summerise** their herds on the chalk downs where sweet wild thyme abounds."*

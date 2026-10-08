@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of sumatra.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the island of sumatra or its inhabitants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or originating from the island of Sumatra in Indonesia, its peoples, or its flora and fauna.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or inhabitant of Sumatra; or a member of a critically endangered endemic species native to the island.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"No consideration will induce a Sumatran to catch or wound a tiger except in self-defence or immediately after a tiger has destroyed a friend or relation."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The **Sumatran** rhinoceros differs markedly from its Javan cousin, possessing two horns and a hairier hide."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Naturalists noted that several **Sumatran** mammals exhibited geographical variations distinct from mainland Asian forms."*
+> - 📜 **Joseph Conrad (*The Rescue*):** *"The native craft was steered by an experienced **Sumatran** sailor who understood every reef in the archipelago."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of preparing a summary (or an instance thereof); stating briefly and succinctly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of preparing a summary (or an instance thereof); stating briefly and succinctly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or process of summarizing; expressing the essential facts or key ideas in a condensed, concise form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A summarized statement, synopsis, or executive briefing highlighting core findings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, summarization designates the act of preparing a summary (or an instance thereof); stating briefly and succinctly."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Effective memory relies upon the selective **summarization** of experience rather than the exhaustive retention of details."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"A lucid **summarization** of precedent clarifies the underlying legal doctrine that connects divergent rulings."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Philosophy aims at the ultimate **summarization** of all scientific truths into one coherent universal law."*

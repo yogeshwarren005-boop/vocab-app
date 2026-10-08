@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a military reserve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a military reserve.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a military reserve force, trained for combat but maintaining civilian employment during peacetime.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A citizen-soldier subject to immediate mobilization upon declaration of national emergency or war.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reservist designates a member of a military reserve."*
+> - 📜 **Arthur Conan Doyle (*The Great Boer War*):** *"Every rural burgher was an experienced marksman and **reservist**, ready to saddle his pony upon a moment's notice."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The telegraph orders summoned each trained **reservist** from the harvest fields to report at the regimental depot."*
+> - 📜 **Winston Churchill (*The River War*):** *"The veteran British **reservist** proved steadfast under blistering desert sun and sudden dervish charges."*

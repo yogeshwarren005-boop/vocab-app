@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be a summary of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give a summary (of).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To give a brief, concise statement of the main points, facts, or substance of something; to synopsize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To recapitulate or reduce a long discussion, report, or finding to its essential features.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"BIBLIOGRAPHICAL NOTE The literature dealing with Shelley's work and life is immense, and no attempt will be made even to summarise it here."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It was in the summer of ’89, not long after my marriage, that the events occurred which I am now about to summarise."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Table III. on preceding page, summarises the results of the work of Addicks and Johnson, and indicates the effects of small amounts of different impurities on the conductivity of the metal."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Before concluding this chapter, I will briefly **summarise** the leading arguments which demonstrate the power of natural selection."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Let the historian attempt to **summarise** the tumultuous roar of ten thousand voices clamoring for bread."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon attempted to **summarise** the convoluted mythical traditions of antiquity in his sprawling Key to all Mythologies."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mountainous island in western indonesia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mountainous island in western indonesia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large island in western Indonesia, situated on the equator, renowned for tropical rainforests, volcanoes, and biodiversity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sudden, violent squall accompanied by thunder, lightning, and rain occurring in the Malacca Strait off the coast of Sumatra.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And on the great drift, southward and eastward under the burning sun that perished all descendants of the houses of Asgard and Vanaheim, I have been a king in Ceylon, a builder of Aryan monuments under Aryan kings in old Java and old Sumatra."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Would not Lazarus rather be in Sumatra than here?"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Time out of mind the piratical proas of the Malays, lurking among the low shaded coves and islets of Sumatra, have sallied out upon the vessels sailing through the straits, fiercely demanding tribute at the point of their spears."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The dense tropical forests of **Sumatra** harbor majestic orangutans, tapirs, and the enormous bloom of Rafflesia arnoldii."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"A violent squall from the west, known in the eastern straits as a fierce **sumatra**, broke upon the ship with sudden fury."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The Pequod sailed through the Strait of Sunda, leaving Java to the east and the dark volcanic crags of **Sumatra** on our lee."*

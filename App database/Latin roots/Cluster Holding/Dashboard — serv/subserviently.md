@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an obsequious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an obsequious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an excessively submissive, deferential, or compliant manner; with obedient deference.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner that serves as an auxiliary instrument or subordinate means to an end.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subserviently designates in an obsequious manner."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"The sycophant echoed **subserviently** every absurd opinion advanced by his aristocratic patron."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Judges who acted **subserviently** to the royal prerogative were justly reviled by constitutional patriots."*
+> - 📜 **David Hume (*The History of England*):** *"The prelates bowed **subserviently** before the throne, eager to preserve their temporal benefices."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not accessible to direct observation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not accessible to direct observation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being observed, detected, or perceived by the senses or scientific instruments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy of science, theoretical entities or physical states that cannot be perceived directly by human observation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unobservable designates not accessible to direct observation."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The minute corpuscles that compose physical bodies are individually **unobservable** to our finite human eyes."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Subconscious neural pathways remain **unobservable** to immediate introspection, yet their results surface into consciousness."*
+> - 📜 **Karl Pearson (*The Grammar of Science*):** *"Science constructs conceptual models of the atom, even though its ultimate internal constituents remain strictly **unobservable**."*

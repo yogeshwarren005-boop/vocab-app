@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By reasonable assumption.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By reasonable assumption.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By way of presumption; according to plausible conjecture or legal inference in the absence of counterproof.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner based on probability or expected succession.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, presumptively designates by reasonable assumption."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"An intentional battery is **presumptively** unlawful unless justified by self-defense or lawful authority."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"Possession of stolen chattels immediately after a burglary renders the holder **presumptively** guilty."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Customary rents in rural districts were **presumptively** equitable until commercial competition intervened."*

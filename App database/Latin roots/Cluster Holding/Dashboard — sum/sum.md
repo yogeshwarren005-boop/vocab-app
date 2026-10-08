@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quantity of money.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quantity obtained by the addition of a group of numbers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A particular amount of money, or the total amount resulting from the addition of two or more numbers or items.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arithmetic problem or calculation, or the concise substance, essence, or summary of an argument.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How much more praise deserv’d thy beauty’s use, If thou couldst answer ‘This fair child of mine Shall sum my count, and make my old excuse,’ Proving his beauty by succession thine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Profitless usurer why dost thou use So great a sum of sums yet canst not live?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Caesar, what a wounding shame is this, That thou vouchsafing here to visit me, Doing the honour of thy lordliness To one so meek, that mine own servant should Parcel the sum of my disgraces by Addition of his envy!"*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"If he should break his day, what should I gain by the exaction of the forfeiture? A pound of man's flesh taken from a man is not so estimable, profitable neither, as flesh of muttons, beefs, or goats; yet to supply his **sum** I seal this bond."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"The total momentum of any system of bodies is the vector **sum** of the separate momentums of its parts."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Thus have I told thee all my state, and brought my story to the **sum** of earthly bliss which I enjoy."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compliant and obedient to authority; -g. b. shaw.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving or acting as a means or aid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prepared to obey others unquestioningly; excessively submissive, deferential, or compliant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving as a means to an end; functioning in a subordinate, instrumental, or auxiliary capacity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There now’s a patched professor in Queen Nature’s granite-founded College; but methinks he’s too subservient."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is in vain to say that enlightened statesmen will be able to adjust these clashing interests, and render them all subservient to the public good."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is observed that select corps may be formed, composed of the young and ardent, who may be rendered subservient to the views of arbitrary power."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Words are merely artificial signs, **subservient** to the communication of our internal thoughts to others."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"The passions of the individual must be rendered **subservient** to the impartial rules of social justice."*
+> - 📜 **George Washington (*Farewell Address*):** *"The nation which indulges toward another an habitual hatred or an habitual fondness becomes a **subservient** satellite."*

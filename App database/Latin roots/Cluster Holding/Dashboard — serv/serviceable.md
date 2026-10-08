@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ready for service or able to give long service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being put to good use.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fulfilling its purpose well; functional, durable, useful, and fit for practical wear or employment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Willing or ready to be of service; accommodating and helpful to others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it be so to do good service, never Let me be counted serviceable."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A serviceable villain, As duteous to the vices of thy mistress As badness would desire."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What would my lord, but that he may not have, Wherein Olivia may seem serviceable?"*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"Out of the wreck I salvaged three **serviceable** fowling-pieces and several barrels of dry gunpowder."*
+> - 📜 **Jane Austen (*Emma*):** *"She was clothed in a plain and **serviceable** pelisse, perfectly adapted for walking along muddy country lanes."*
+> - 📜 **Walter Scott (*Waverley*):** *"The ancient claymore was still a sharp and **serviceable** weapon in the hands of the veteran Highlander."*

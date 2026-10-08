@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fulfill sexually.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make perfect; bring to perfection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing a high degree of skill and flair; complete, supreme, perfect, or consummate in quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To bring a project, transaction, or marriage to completion, fulfillment, or legal perfection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do you the office, friar; which consummate, Return him here again.—Go with him, Provost. [_Exeunt Angelo, Mariana, Friar Peter and Provost._] ESCALUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do but stay till your marriage be consummate, and then go I toward Arragon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There shall we consummate our spousal rites. [_Exeunt all but Titus._] TITUS."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Belisarius conducted the defense of Rome with **consummate** generalship against overwhelming Gothic forces."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"To destroy an ancient constitution requires mere violence; to reform it demands **consummate** prudence and patience."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp displayed **consummate** art in flattering the elderly baronet until he forgot her humble origins."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without reservation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without reservation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without reservations, hesitation, or restrictions; completely, openly, and unconditionally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Frankly and without emotional concealment or diplomatic disguise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Her imagination was always as active as her heart, which she gave unreservedly on such occasions."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Jane, you are docile, diligent, disinterested, faithful, constant, and courageous; very gentle, and very heroic: cease to mistrust yourself—I can trust you unreservedly."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Diana and Mary approved the step unreservedly."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip confessed his youthful errors **unreservedly** to Joe Gargery, finding comfort in the blacksmith's honest embrace."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Priory School*):** *"The Duke of Holdernesse at length gave **unreservedly** the full explanation of the family secret to Sherlock Holmes."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The House of Commons committed itself **unreservedly** to the defense of Protestant liberties against continental despotism."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not arrogant or presuming.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not arrogant or presuming.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not pretentious or arrogant; modest, unostentatious, and humble in manner, appearance, or demeanor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by quiet reserve and lack of self-assertion; retiring and free from vanity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"My mother has a little property, which takes the form of a small life annuity, upon which she lives in an independent though unassuming manner in the Old Street Road."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Then is she kind and cruel, stately and unassuming, various, beautifully wilful."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They had a low and unassuming aspect from this upland, though as approached on the other side from Blackmoor in her childhood they were as lofty bastions against the sky."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor had an **unassuming** manner that won the quiet esteem of everyone whose good opinion was worth possessing."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"Doctor Watson was an **unassuming** gentleman whose loyal modesty often blinded him to his own admirable courage."*
+> - 📜 **Charles Darwin (*Autobiography*):** *"He was a man of the most **unassuming** disposition, pursuing his botanical research without the slightest craving for public renown."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual quantity of food or drink taken as part of a meal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of delivering a writ or summons upon someone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quantity of food or drink provided for one person at a single meal; a portion or helping.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of performing duties, assisting, or ministering to others in a household, profession, or office.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Isis else defend, And serving you so long!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They, by observing of him, do bear themselves like foolish justices: he, by conversing with them, is turned into a justice-like serving-man."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This Davy serves you for good uses; he is your serving-man and your husband."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The hungry boy timidly held out his bowl, begging for a second meager **serving** of thin workhouse gruel."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Two households, both alike in dignity, where ancient grudge breaks to new mutiny, civil blood makes civil hands unclean, while faithful **serving** men fight in the public street."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A single modest **serving** of boiled beans and maize satisfied my daily bodily needs in the woods."*

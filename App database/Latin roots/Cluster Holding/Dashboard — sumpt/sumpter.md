@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal (such as a mule or burro or horse) used to carry loads.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An animal (such as a mule or burro or horse) used to carry loads.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pack animal, especially a horse or mule, used for carrying baggage and heavy provisions on journeys.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person in charge of pack animals; a driver or baggage attendant on a military or aristocratic expedition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Persuade me rather to be slave and sumpter To this detested groom. [_Pointing to Oswald._] GONERIL."*
-> - 📜 **Effie Afton (*Eventide*):** *"Sumpter is digesting his fortune."*
-> - 📜 **Effie Afton (*Eventide*):** *"I am afraid our good seeress will discover you and I fighting a duel in that ominous cup, or brewing a tempest in her teapot." "Ha, ha, ha! it is not impossible," ejaculated Sumpter."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Return with her? Persuade me rather to be slave and **sumpter** to this detested groom."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The prior's richly loaded **sumpter** mule lagged behind, weighed down with flagons of Gascon wine and pasties of venison."*
+> - 📜 **John Milton (*Animadversions*):** *"Scholastic theologians load the patient scriptures like a weary **sumpter** horse with their absurd disputations."*

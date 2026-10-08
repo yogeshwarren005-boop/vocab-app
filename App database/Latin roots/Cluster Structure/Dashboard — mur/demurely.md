@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a demure manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a demure manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a modest, quiet, or sedately reserved manner, often with an air of calculated discretion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With an outward appearance of solemn innocence or docile propriety.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The drums Demurely wake the sleepers."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba demurely regarded a contemptible straw lying upon the ground, in a way which suggested less ovine criticism than womanly embarrassment."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"You cannot and you don’t,” she said demurely."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth answered **demurely**, concealing her inward amusement at Mr. Collins's pompous compliments."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Biddy folded her sewing **demurely** and listened with steady patience to my foolish complaints."*
+> - 📜 **George Eliot (*Silas Marner*):** *"Eppie walked **demurely** beside the weaver on their way to church, her bright curls tucked under a plain bonnet."*

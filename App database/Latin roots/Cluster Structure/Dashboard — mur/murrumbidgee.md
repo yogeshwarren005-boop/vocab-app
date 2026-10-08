@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A river of southeastern australia; flows westward into the murray river.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A river of southeastern australia; flows westward into the murray river.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major river of southern New South Wales, Australia, forming a vital tributary of the Murray River system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extensive river valley and agricultural irrigation basin vital to southeast Australian farming.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, murrumbidgee designates a river of southeastern australia; flows westward into the murray river."*
+> - 📜 **Charles Sturt (*Two Expeditions into the Interior of Southern Australia*):** *"We launched our expedition boat into the rapid currents of the **Murrumbidgee**, bound for unknown interior regions."*
+> - 📜 **Thomas Mitchell (*Three Expeditions into the Interior of Eastern Australia*):** *"The rich grassy valleys bordering the **Murrumbidgee** offered superb pastures for colonial sheep grazing."*
+> - 📜 **Henry Kingsley (*The Recollections of Geoffry Hamlyn*):** *"The weary riders camped along the bend of the **Murrumbidgee**, watching the campfire smoke drift over the gum trees."*

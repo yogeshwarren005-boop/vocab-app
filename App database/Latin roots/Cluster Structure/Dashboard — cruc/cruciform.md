@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a cross.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped like a cross.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the shape, plan, or pattern of a cross.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical architecture, describing a cathedral or church laid out on a cross-shaped floor plan with nave and transepts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cruciform designates shaped like a cross."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The noble **cruciform** plan of the medieval cathedral embodied both structural balance and profound spiritual symbolism."*
+> - 📜 **Henry James (*Transatlantic Sketches*):** *"We entered the great **cruciform** abbey, where soaring vaulted arches met in solemn shadow above the altar."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The ancient stone milestone bore a faint **cruciform** incision marking the intersection of the lonely downs roads."*

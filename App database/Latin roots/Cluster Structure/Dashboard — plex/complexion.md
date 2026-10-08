@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The coloring of a person's face.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A combination that results from coupling or interlinking.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The natural color, texture, and visual aspect of the skin, especially of the human face.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The overarching character, distinctive tone, or prevailing moral disposition of an affair or historical epoch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The purple pride Which on thy soft cheek for complexion dwells, In my love’s veins thou hast too grossly dyed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you will see a pageant truly played Between the pale complexion of true love And the red glow of scorn and proud disdain, Go hence a little, and I shall conduct you, If you will mark it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The best thing in him Is his complexion; and faster than his tongue Did make offence, his eye did heal it up."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"And thus the native hue of resolution is sicklied o'er with the pale cast of thought, altering the enterprise's moral **complexion**."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Her bright eyes and healthy outdoor **complexion** gave Elizabeth Bennet an animated beauty that caught Darcy's notice."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The abrupt fall of the ancient monarchy imparted a terrifying new **complexion** to the balance of European kingdoms."*

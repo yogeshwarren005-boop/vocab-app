@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone makes things complex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone makes things complex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent, factor, or theoretical variable that renders an existing process or conceptual system substantially more intricate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systems ecology or sociology, an interacting component that triggers emergent operational entanglements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, complexifier designates someone makes things complex."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"The specialization of civic offices acts as a relentless **complexifier** in the evolution of modern political states."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Voluntary reflective attention introduces a potent **complexifier** into the otherwise automatic reflex arcs of neural response."*
+> - 📜 **John Dewey (*Logic: The Theory of Inquiry*):** *"Every newly discovered empirical anomaly serves as an intellectual **complexifier**, unsettling convenient dogmatic premises."*

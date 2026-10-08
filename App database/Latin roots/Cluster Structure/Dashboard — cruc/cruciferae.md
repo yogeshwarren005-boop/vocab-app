@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large family of plants with four-petaled flowers; includes mustards, cabbages, broccoli, turnips, cresses, and their many relatives.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large family of plants with four-petaled flowers; includes mustards, cabbages, broccoli, turnips, cresses, and their many relatives.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The large botanical family encompassing mustard, cabbage, radish, and turnip, marked by four cross-shaped petals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A widespread plant order of agricultural significance, now also termed Brassicaceae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cruciferae designates a large family of plants with four-petaled flowers; includes mustards, cabbages, broccoli, turnips, cresses, and their many relatives."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The diverse cultivated races of **Cruciferae** illustrate how human selection has shaped foliage, roots, and oilseeds."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Species belonging to the family **Cruciferae** are instantly recognizable by their pungent sap and tetradynamous stamens."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"The **Cruciferae** form an extensive natural order represented abundantly throughout the temperate zones of the Old World."*

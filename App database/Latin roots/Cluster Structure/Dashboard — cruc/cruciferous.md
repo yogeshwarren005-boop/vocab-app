@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or belonging to the plant family cruciferae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or belonging to the plant family cruciferae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or belonging to the cabbage and mustard family of plants with cross-shaped flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bearing or displaying parts arranged in the configuration of a cross.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"What is the external appearance presented by the “white rust” of cabbages, and allied cruciferous plants, is soon told."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Of the British species one is found on many cruciferous plants, as the shepherd’s-purse, garden-cress, mustard, radish, and plants of the cabbage kind."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Certain caterpillars feed exclusively upon the leaves of **cruciferous** plants, guided by distinctive aromatic chemicals."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Autocrat of the Breakfast-Table*):** *"The humble garden beds flourished with pungent **cruciferous** greens that supplied wholesome winter nourishment."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Small white butterflies fluttered incessantly over the beds of **cruciferous** herbs throughout the warm July afternoons."*

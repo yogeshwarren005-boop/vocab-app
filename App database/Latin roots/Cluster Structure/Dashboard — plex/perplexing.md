@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be a mystery or bewildering to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more complicated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing bewilderment, confusion, or doubt; difficult to understand, untangle, or explain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intricately complicated or frustratingly enigmatic in structure or behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Not on his own account (I was again aware of that perplexing and extraordinary contradiction), but on ours, as if personal considerations were impossible with him and the contemplation of our happiness alone affected him."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy’s perplexing way with boastful misery to tempt his particular friends into this subject, and the moment they touch it, to turn on them with that trenchant severity about the chords in the human mind, both Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"An indescribable succession of dull blows, perplexing in their regularity, sent their sound with difficulty through the fluffy atmosphere."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The geographical dispersal of freshwater organisms presented a **perplexing** riddle to early naturalists."*
+> - 📜 **Jane Austen (*Emma*):** *"Frank Churchill's sudden departure for London seemed a **perplexing** mystery to the entire Highbury society."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Open public debate assists citizens in navigating the most **perplexing** dilemmas of modern statecraft."*

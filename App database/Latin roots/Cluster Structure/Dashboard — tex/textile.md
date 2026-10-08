@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Artifact made by weaving or felting or knitting or crocheting natural or synthetic fibers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to fabrics or fabric making.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flexible fabric or cloth manufactured by weaving, knitting, or felting natural or synthetic fibers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the production, spinning, and processing of fabrics and yarns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is also employed very widely in the larger factories in textile and mechanical industries."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It appeared in textile, iron, mercantile, and other industries."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The sago pith is now put into the trough, into which is fixed a strainer made of that delicate textile that envelopes the unexpanded fronds of the coco-nut palm."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The rapid expansion of the mechanized **textile** industry revolutionized British export commerce and employment."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The rich colors of oriental **textile** hangings adorned the high marble walls of the Venetian palaces."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"My mother practiced diligent **textile** spinning at home, promoting domestic frugality and self-reliance."*

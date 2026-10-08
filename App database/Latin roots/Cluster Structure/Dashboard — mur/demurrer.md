@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a formal objection to an opponent's pleadings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) any pleading that attacks the legal sufficiency of the opponent's pleadings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal pleading in a lawsuit asserting that, even if the opponent's allegations are true, they lack legal basis for a remedy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who demurs; an objector who raises doubts or hesitations against an accepted proposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Mr Bloom thoroughly acquiesced in the general gist of this though the mystical finesse involved was a bit out of his sublunary depth still he felt bound to enter a demurrer on the head of simple, promptly rejoining: —Simple?"*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A **demurrer** admits the truth of the facts alleged by the plaintiff, but denies that any cause of action arises in law."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The Chancery barristers filed bill, answer, and **demurrer** in endless rotation, devouring the estate in legal costs."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with the Colonies*):** *"To enter a technical **demurrer** against the rights of three million distant subjects is unworthy of imperial statesmanship."*

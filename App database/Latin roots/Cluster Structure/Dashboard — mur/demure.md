@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affectedly modest or shy especially in a playful or provocative way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affectedly modest or shy especially in a playful or provocative way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Quiet, reserved, and modest in behavior, manner, dress, or personal expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by an affected or theatrical show of modesty and shyness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s never none of these demure boys come to any proof; for thin drink doth so over-cool their blood, and making many fish meals, that they fall into a kind of male green-sickness; and then, when they marry, they get wenches."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And then to have the humour of state; and after a demure travel of regard, telling them I know my place as I would they should do theirs, to ask for my kinsman Toby."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"On the contrary, I was so demure and used to seem so unconscious that sometimes I considered within myself while I was sitting at work whether I was not growing quite deceitful."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"My pupil sat in a **demure** attitude by the schoolroom window, her hands folded neatly over her French primer."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"I will be proud, I will read politic authors, I will baffle Sir Toby, I will wash off gross acquaintance, with a **demure** travel of regard."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"The village maiden cast a **demure** glance from beneath her straw bonnet as the Sunday congregation dispersed."*

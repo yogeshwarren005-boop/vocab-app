@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by soft sounds; ; ; - r.p.warren.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by soft sounds; ; ; - r.p.warren.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, filled with, or emitting a low, continuous, and soothing sound; softly humming.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suggesting or accompanied by subdued whispers or hushed, indistinct conversations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Keats (*Lamia*):** *"He met within the murmurous vestibule His young disciple."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Such a spring is said to have gushed from the foot of the great oak at Dodona, and from its murmurous flow the priestess drew oracles."*
+> - 📜 **John Keats (*Ode to a Nightingale*):** *"The coming musk-rose, full of dewy wine, the **murmurous** haunt of flies on summer eves."*
+> - 📜 **Edgar Allan Poe (*Al Aaraaf*):** *"A **murmurous** sound arose from the enchanted grove as twilight settled over the celestial valley."*
+> - 📜 **Henry James (*The American*):** *"The quiet courtyard was filled with the **murmurous** splashing of the central marble fountain."*

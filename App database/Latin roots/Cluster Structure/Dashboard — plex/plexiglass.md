@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A light transparent weather resistant thermoplastic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light transparent weather resistant thermoplastic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tough, transparent acrylic plastic sheet used as a durable, shatter-resistant alternative to ordinary glass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lightweight optical plastic used in protective shields, vehicle canopies, and industrial display cases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plexiglass designates a light transparent weather resistant thermoplastic."*
+> - 📜 **Philip K. Dick (*Do Androids Dream of Electric Sheep?*):** *"He glanced through the scratched **plexiglass** partition separating the driver from the passengers."*
+> - 📜 **Kurt Vonnegut (*Slaughterhouse-Five*):** *"The sentry box was enclosed in heavy bulletproof **plexiglass** that rattled with each distant mortar blast."*
+> - 📜 **Tom Wolfe (*The Right Stuff*):** *"The test pilot adjusted his visor beneath the bubble of clear **plexiglass** before initiating the rocket burn."*

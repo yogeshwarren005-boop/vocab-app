@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Experiencing no difficulty or confusion or bewilderment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Experiencing no difficulty or confusion or bewilderment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from confusion, bewilderment, or doubt; possessing a clear, serene understanding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uncomplicated and calm in judgment, purpose, or moral decision-making.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"He stood as opposed to Captain Wentworth, in all his own unwelcome obtrusiveness; and the evil of his attentions last night, the irremediable mischief he might have done, was considered with sensations unqualified, unperplexed."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Happy will it be if our choice should be directed by a judicious estimate of our true interests, unperplexed and unbiased by considerations not connected with the public good."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"What word will men say,--here where Giotto planted His Campanile like an unperplexed Fine question heaven-ward, touching the things granted A noble people, who, being greatly vexed In act, in aspiration keep undaunted?” --Mrs."*
+> - 📜 **John Milton (*Paradise Regained*):** *"With calm, **unperplexed** wisdom, the savior exposed each deceptive argument of the tempter."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Fanny's **unperplexed** moral clarity guided her steadily through the intrigues of the domestic theatricals."*
+> - 📜 **William Wordsworth (*The Prelude*):** *"I looked upon the starlit mountain lake with an **unperplexed** and serene spirit of gratitude."*

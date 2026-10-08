@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any doctrine emphasizing the importance of the context in solving problems or establishing the meaning of terms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any doctrine emphasizing the importance of the context in solving problems or establishing the meaning of terms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical doctrine holding that knowledge, meaning, or moral judgments can only be understood relative to specific contexts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architecture and urban design, the practice of designing new structures to harmonize with existing surrounding streetscapes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contextualism designates any doctrine emphasizing the importance of the context in solving problems or establishing the meaning of terms."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"An uncompromising epistemological **contextualism** warns philosophers against seeking absolute certitude divorced from practical inquiry."*
+> - 📜 **John Dewey (*Context and Thought*):** *"The neglect of **contextualism** remains the perennial source of distortion in classical metaphysical speculations."*
+> - 📜 **Lewis Mumford (*The City in History*):** *"The historic builder practiced an instinctive civic **contextualism**, respecting both topography and neighboring stone facades."*

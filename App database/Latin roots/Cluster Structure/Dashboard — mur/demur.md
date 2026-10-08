@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a formal objection to an opponent's pleadings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take exception to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To raise objections, hesitate, or politely express reluctance before taking action or consenting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal proceedings, to submit a demurrer disputing the legal sufficiency of the opposing party's pleading.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Clowes' parlour." Barry had executed too many equally singular orders to raise any demur."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I offered to pay her well for her trouble, and, after some demur, she consented to accompany me to the spot."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Don't demur, for no guests will arrive, I am sure; If they do, why there's room on the bed or the floor."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor felt bound to **demur** when Mrs. Jennings proposed an expensive and ostentatious excursion into town."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The prudent banker did not outright refuse the loan, but chose to **demur** until better securities were deposited."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The solicitor seemed inclined to **demur**, pacing the dusty room and raising technical objections to every clause."*

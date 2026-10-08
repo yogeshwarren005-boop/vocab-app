@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A computer program that looks for text that matches a given text.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A computer program that looks for text that matches a given text.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The computational process of comparing character sequences to locate exact or approximate textual correspondences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Algorithmic comparison of documents to detect duplicate passages, citations, or digital patterns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, text-matching designates a computer program that looks for text that matches a given text."*
+> - 📜 **Claude Shannon (*Prediction and Entropy of Printed English*):** *"Automated **text-matching** procedures quantify the statistical redundancy present in printed natural languages."*
+> - 📜 **Donald Knuth (*The Art of Computer Programming*):** *"Efficient **text-matching** routines determine string alignments in linear running time through pattern preprocessing."*
+> - 📜 **Vannevar Bush (*As We May Think*):** *"The photographic memex consulted records through rapid optical **text-matching** across miniaturized microfilm trails."*

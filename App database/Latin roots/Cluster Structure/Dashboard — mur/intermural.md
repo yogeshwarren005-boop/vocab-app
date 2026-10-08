@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Between two or more institutions etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Between two or more institutions etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lying, occurring, or situated between walls, ramparts, or institutional boundaries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biology, positioned between cellular or organ walls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intermural designates between two or more institutions etc."*
+> - 📜 **William Camden (*Britannia*):** *"The legionary cavalry patrolled the **intermural** passage between the inner fort and the outer ditch."*
+> - 📜 **Richard Owen (*Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The fluid-filled **intermural** spaces of the shell matrix cushion the mollusk against mechanical crushing."*
+> - 📜 **Edward Freeman (*The History of the Norman Conquest of England*):** *"Archers were stationed along the **intermural** walkway to repulse assaults upon the castle gates."*

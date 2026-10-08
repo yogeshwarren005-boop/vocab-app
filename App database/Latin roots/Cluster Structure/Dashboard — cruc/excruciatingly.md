@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a very painful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a very painful manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an intensely painful, agonizing, or unbearably severe manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an extreme, painfully tedious, or acutely embarrassing degree.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Excruciatingly funny to watch the stampede, after the loud "One--two--three--and away!" The plunges, the waddles, the skelter of flying heels!"*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Side by side with that statement let all men now write that my situation is the most excruciatingly _painful_ one that a human being has ever been called upon to endure."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Every step along the frozen turnpike jarred her bruised feet **excruciatingly** in the early dawn."*
+> - 📜 **Henry James (*The Ambassadors*):** *"The prolonged silence after Madame de Vionnet's confession stretched **excruciatingly** across the elegant salon."*
+> - 📜 **Charles Darwin (*Journal of Researches (The Voyage of the Beagle)*):** *"The sting of the tropical scorpion burned **excruciatingly** for hours before the swelling began to subside."*

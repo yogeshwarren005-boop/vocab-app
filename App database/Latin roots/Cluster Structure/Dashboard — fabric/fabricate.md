@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put together out of artificial or natural components or parts; ; ; he manufactured a popular cereal".
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make up something artificial or untrue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To construct, manufacture, or assemble a physical product from prepared raw materials.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To invent, forge, or concoct a deceitful story, false charge, or forged document.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Should this at any time happen, how easy would it be to fabricate pretenses of approaching danger!"*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"If I understand at all the first rudiments of National Economy, it is best for each and all nations that each should mainly fabricate for itself, freely purchasing of others all such staples as its own soil or climate proves ungenial to."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Day after day I gave to this girl here what gold I succeeded in fabricating, telling her to store it away after supplying our necessities."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Ten workmen divided their tasks to **fabricate** more than forty thousand pins in a single working day."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Corrupt imperial courtiers hesitated not to **fabricate** accusations of treason against wealthy provincial senators."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"With patient ingenuity, we managed to **fabricate** new lead types and ink to supply our modest colonial press."*

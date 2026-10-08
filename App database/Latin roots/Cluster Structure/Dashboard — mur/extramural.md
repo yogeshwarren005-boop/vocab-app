@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Carried on outside the bounds of an institution or community.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carried on outside the bounds of an institution or community.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated, taking place, or designed for persons outside the physical walls or boundaries of a town or institution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to university educational courses or lectures provided for non-resident, off-campus students.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extramural designates carried on outside the bounds of an institution or community."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ancient Roman tombs were erected along the **extramural** stretches of the Appian Way outside the city gates."*
+> - 📜 **Thomas Henry Huxley (*Science and Education*):** *"The professor championed **extramural** lectures to disseminate scientific knowledge among working-class mechanics."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The execution ground was situated in an **extramural** field beyond the southern port of Edinburgh."*

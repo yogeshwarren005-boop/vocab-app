@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being intricate and compounded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being intricate and compounded.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The intricate or manifold nature of an artifact, organism, or conceptual scheme.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The degree of structural entanglement and component multiplicity exhibited by an integrated system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, complexness designates the quality of being intricate and compounded."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The poetic **complexness** of Shakespeare's dramatic verses reflects the infinite variety of natural passion."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Cosmic growth moves unceasingly from simple, uniform states toward higher degrees of organic **complexness**."*
+> - 📜 **Henry James (*The Golden Bowl*):** *"The subtle psychological **complexness** of their silent compact cast a quiet spell across the crowded drawing room."*

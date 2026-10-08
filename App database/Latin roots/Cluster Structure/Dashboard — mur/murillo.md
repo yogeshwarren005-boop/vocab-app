@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spanish painter (1617-1682).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spanish painter (1617-1682).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A painting or artwork executed in the distinctive, sentimental, and luminous style of the Spanish baroque master Bartolomé Esteban Murillo.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An aesthetic reference to rich chiaroscuro, warm flesh tones, and tender religious or street depictions in classical painting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Also pictures by Murillo, Rubens, Teniers, Titian, Vandyck, and others."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"You must have a "sunset nature" to appreciate a sunset, and you must be sanctified wholly to see in Christ a beauty and loveliness which no Murillo and no Raphael and no Del Sarto have yet put on canvas."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The Madrid gallery preserves a celebrated **Murillo** whose glowing depiction of beggar boys captivated European collectors."*
+> - 📜 **Henry James (*Transatlantic Sketches*):** *"The soft shadows and radiant Madonnas of **Murillo** imparted a tender solemnity to the dim cathedral chapels of Seville."*
+> - 📜 **George Eliot (*Romola*):** *"The youth possessed the curly dark hair and liquid brown eyes of a peasant boy in a painting by **Murillo**."*

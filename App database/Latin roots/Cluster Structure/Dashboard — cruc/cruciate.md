@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a cross.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped like a cross.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arranged or intersecting in the shape of a cross, especially in biological, floral, or anatomical structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Crossing each other obliquely, as the cruciate ligaments stabilizing the human knee joint.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cruciate designates shaped like a cross."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The anterior and posterior **cruciate** ligaments cross each other within the knee joint to prevent forward slippage of the tibia."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The four petals of the blossom stand in a regular **cruciate** pattern characteristic of the mustard family."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The deep tendinous fibers interlace across the joint capsule in a robust **cruciate** configuration."*

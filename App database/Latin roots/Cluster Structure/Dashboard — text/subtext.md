@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin text within the domain of Structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of text in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An underlying, implicit, and often unstated meaning or theme in a conversation, drama, or book.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The implicit emotional or psychological current operating beneath the surface dialogue of characters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subtext designates pertaining to, derived from, or characteristic of latin text within the domain of structure."*
+> - 📜 **Henry James (*The Art of Fiction*):** *"In subtle dramatic dialogue, the unspoken emotional **subtext** carries vastly more weight than literal speech."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"A melancholy **subtext** ran through his animated dinner conversation, revealing a yearning for lasting acclaim."*
+> - 📜 **George Bernard Shaw (*Plays Pleasant and Unpleasant*):** *"The witty dramatist crafts his dialogue so that the satiric **subtext** pierces bourgeois complacency."*

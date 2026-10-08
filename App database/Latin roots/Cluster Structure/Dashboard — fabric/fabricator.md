@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who tells lies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who tells lies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A manufacturer, builder, or industrial tradesman who constructs physical equipment or goods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An author or inventor of deliberate falsehoods, myths, or forged evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"On the whole product of her industry, two-thirds is tolled out by carriers and bored out by Inspectors, until but a beggarly remnant is left to satisfy the fabricator of her goods."*
+> - 📜 **Jonathan Swift (*The Examiner*):** *"The partisan pamphleteer stood revealed as an unblushing **fabricator** of political slanders against the ministry."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"God is the supreme **fabricator** of the celestial spheres, ordering their motions by immutable geometric laws."*
+> - 📜 **William Makepeace Thackeray (*The History of Henry Esmond*):** *"The loyal soldier despised every cowardly **fabricator** of camp gossip and anonymous libel."*

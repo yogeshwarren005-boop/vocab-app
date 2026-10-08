@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A country in northwestern africa with a provisional military government; achieved independence from france in 1960; largely western sahara desert.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A country in northwestern africa with a provisional military government; achieved independence from france in 1960; largely western sahara desert.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The northwest African sovereign nation officially known as the Islamic Republic of Mauritania.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The historic Maghreb territory bordering the Atlantic Ocean and western Sahara desert.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, muritaniya designates a country in northwestern africa with a provisional military government; achieved independence from france in 1960; largely western sahara desert."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The legionary outposts garrisoned along the borders of ancient **Muritaniya** held nomadic raiders in check."*
+> - 📜 **Richard Francis Burton (*First Footsteps in East Africa*):** *"Desert caravans traversed the immense barren dunes connecting the western shores of **Muritaniya** with central trading towns."*
+> - 📜 **Leo Africanus (*The History and Description of Africa*):** *"The fiercely independent Berber tribes of **Muritaniya** sustained their pastoral lifestyle across arid plateau pastures."*

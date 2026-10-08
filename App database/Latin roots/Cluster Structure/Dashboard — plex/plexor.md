@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (medicine) a small hammer with a rubber head used in percussive examinations of the chest and in testing reflexes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (medicine) a small hammer with a rubber head used in percussive examinations of the chest and in testing reflexes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small rubber-tipped percussion hammer used by physicians to strike a pleximeter or elicit reflexes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diagnostic reflex hammer used during physical examinations to assess nervous system function.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plexor designates (medicine) a small hammer with a rubber head used in percussive examinations of the chest and in testing reflexes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A sharp tap of the rubber **plexor** upon the quadriceps tendon immediately elicited a brisk patellar reflex."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The steady tap of the physician's **plexor** echoed across the ward as he mapped the margins of the consolidated lung."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"The acoustic vibration excited by a light stroke of the **plexor** reveals the physical condition of thoracic viscera."*

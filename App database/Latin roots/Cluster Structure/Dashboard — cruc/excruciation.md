@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of acute pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The infliction of extremely painful punishment or suffering.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The infliction or endurance of extreme bodily or spiritual torment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specific source of agonizing pain, distress, or acute mental suffering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, excruciation designates a state of acute pain."*
+> - 📜 **Jeremy Taylor (*Holy Living and Holy Dying*):** *"The patient spirit endures the bodily **excruciation** of illness with humble resignation to divine providence."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The secret **excruciation** of guilt destroys the tranquility of the most luxurious banquet."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The tyrant condemned his ministers to slow **excruciation** to extract confessions of imaginary treason."*

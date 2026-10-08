@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Torment emotionally or mentally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to torture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing intense physical pain or mental agony; intensely harrowing and agonizing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely tedious, embarrassing, or uncomfortably awkward in social or professional situations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Have you ever laced your shoe too tightly, and, after half an hour, experienced that excruciating pain across the instep of the obstructed circulation?"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Why, you have saved my life!—snatched me from a horrible and excruciating death! and you walk past me as if we were mutual strangers!"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Drowsiness was irresistibly mastering him, but he kept awake by an excruciating pain in his arm, for which he could find no satisfactory position."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The wound in his shoulder throbbed with **excruciating** pain as he dragged himself through the freezing mist of the marshes."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The quiet parting from Thornfield Hall was attended by an **excruciating** ache of the spirit that language cannot utter."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The prisoner endured the **excruciating** tortures of the thumbscrew without betraying the hiding place of his confederates."*

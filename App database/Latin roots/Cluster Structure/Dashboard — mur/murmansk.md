@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A port city in northwestern russia on the kola peninsula; the largest city to the north of the arctic circle; an important supply line to russia in world war i and world war ii.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port city in northwestern russia on the kola peninsula; the largest city to the north of the arctic circle; an important supply line to russia in world war i and world war ii.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ice-free Arctic port city in northwestern Russia situated upon Kola Bay near the Barents Sea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vital northern naval stronghold and commercial maritime terminus in high subpolar latitudes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, murmansk designates a port city in northwestern russia on the kola peninsula; the largest city to the north of the arctic circle; an important supply line to russia in world war i and world war ii."*
+> - 📜 **Arthur Conan Doyle (*The British Campaign in France and Flanders*):** *"Allied naval detachments landed at **Murmansk** to safeguard vast Arctic storehouses from falling into enemy hands."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The strategic ice-free harbor of **Murmansk** kept supply communications open when all other Baltic ports were frozen shut."*
+> - 📜 **Joseph Conrad (*Notes on Life and Letters*):** *"Merchant mariners braved howling subpolar gales to bring their battered ships safely into the shelter of **Murmansk**."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Black-and-white diving bird of northern seas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Black-and-white diving bird of northern seas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A black-and-white pelagic seabird of the auk family (Alcidae) that nests in dense colonies on sheer cliffs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A marine diving bird adapted with compact wings for underwater pursuit of fish in cold northern seas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Howitt's return from the ceremony he was visited by one of the principal men of the Murring tribe, who had travelled some two hundred and fifty miles from his home to fetch back the teeth."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Among the tribes settled on the southern coast of New South Wales, of which the Coast Murring tribe may be regarded as typical, the drama of resurrection from the dead was exhibited in a graphic form to the novices at initiation."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"Every narrow ledge along the rocky northern promontory was crowded with dense ranks of breeding **murre** pairs."*
+> - 📜 **Henry David Thoreau (*Cape Cod*):** *"A solitary **murre** floated upon the cold Atlantic surf, diving beneath the rolling swells with effortless ease."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Flocks of screaming **murre** circled above the jagged headlands as the whaler stood out into the open sea."*

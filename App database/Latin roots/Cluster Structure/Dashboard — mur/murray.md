@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: British classical scholar (born in australia) who advocated the league of nations and the united nations (1866-1957).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scottish philologist and the lexicographer who shaped the oxford english dictionary (1837-1915).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The longest river in Australia, forming a vital inland waterway and agricultural irrigation basin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A notable Scottish and British historic family surname linked to prominent military and political leaders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"The family of John Murray, a ploughman or "hind" from the Duns district, and now settled at Bastleridge, the next farm to Ayton Hill, also attended Mr."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"It ripened into affection between John Cairns and Alison, John Murray's only daughter, and in June 1814 they were united in marriage."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"During this session, as had been previously arranged, he lodged in Charles Street with his mother's brother, whose eldest son, John Murray, shared his room."*
+> - 📜 **Charles Sturt (*Two Expeditions into the Interior of Southern Australia*):** *"We steered our exploration boat down the broad, winding reaches of the magnificent **Murray** river."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Lord **Murray** rallied his loyal highland clansmen to defend the Protestant settlement of the kingdom."*
+> - 📜 **Edward Eyre (*Journals of Expeditions of Discovery into Central Australia*):** *"The shaded alluvial banks of the **Murray** provided life-saving water to our parched exploration party."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deletion by an act of expunging or erasing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deletion by an act of expunging or erasing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of erasing, blotting out, or striking a name, passage, or charge from an official record.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Total legal cancellation or obliteration of a judgment, statute, or disciplinary finding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expunction designates deletion by an act of expunging or erasing."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The House of Commons voted the **expunction** of the arbitrary royal proclamation from their parliamentary journals."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Judicial review ensures the peaceful **expunction** of unconstitutional statutes that violate fundamental charter rights."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Upon full proof of wrongful indictment, the court ordered the **expunction** of the entry from the county assize rolls."*

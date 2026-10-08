@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being imprisoned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being imprisoned.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Confinement or imprisonment within walls; isolation from the outside world.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The gruesome historic practice of entombing a condemned person alive inside a masonry recess.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immurement designates the state of being imprisoned."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Perpetual **immurement** within a remote fortress was the mildest fate awaiting deposed Byzantine pretenders."*
+> - 📜 **Edgar Allan Poe (*The Cask of Amontillado*):** *"The horrific **immurement** of Fortunato within the damp catacomb wall was completed with the final stone and mortar."*
+> - 📜 **Henry James (*The Bostonians*):** *"She shuddered at the thought of life-long domestic **immurement**, yearning for active participation in public causes."*

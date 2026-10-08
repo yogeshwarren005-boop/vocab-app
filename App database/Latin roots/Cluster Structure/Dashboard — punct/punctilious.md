@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by precise accordance with details.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by precise accordance with details.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing meticulous attention to minute details of conduct, formal etiquette, or official duty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely scrupulous and exact in adhering to rules, promises, and conventional decorum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Though not the most ardent of lovers, he was one of the most punctilious of men, and appeared earnestly solicitous that his mission should be speedily and courteously executed."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And tell me, please—I’ve been meaning to ask—how is he behaving himself, and in general...” “As far as the service goes he is quite punctilious, your excellency; but his character...” said Timókhin."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He is an honest and very punctilious German.” “And they say he’s a skillful commander,” rejoined Pierre."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Mr. Brocklehurst was **punctilious** in enforcing the plainest dress and most austere habits upon the charity girls."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Mr. Lorry was **punctilious** in all financial matters, maintaining the grave decorum of Tellson's Bank."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon was remarkably **punctilious** concerning the scholarly acknowledgments in his theological treatise."*

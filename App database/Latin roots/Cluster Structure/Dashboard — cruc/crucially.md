@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a crucial degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a crucial degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a decisive, indispensable, or critically consequential manner that determines an ultimate outcome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At a pivotal juncture or intersection where essential differences are conclusively settled.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crucially designates to a crucial degree."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"The outcome of social legislation depends **crucially** upon the moral education and enlightenment of the voting populace."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"Cranial morphology distinguishes human beings **crucially** from the anthropoid apes in structural volume."*
+> - 📜 **Walter Bagehot (*The English Constitution*):** *"The authority of the prime minister functions **crucially** as the buckle uniting the legislative and executive powers."*

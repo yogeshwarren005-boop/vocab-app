@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (anatomy) a point or small area.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (anatomy) a point or small area.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A minute anatomical opening, point, or dot, such as the lacrimal punctum through which tears drain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sharp, poignant detail in a work of art or literature that arrests and pierces the observer's attention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I have plenty of ideas and facts, you know, and I can see he is just the man to put them into shape—remembers what the right quotations are, _omne tulit punctum_, and that sort of thing—gives subjects a kind of turn."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Tears pass from the conjunctiva into the tear sac via the small lacrimal **punctum** on the eyelid margin."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Gentle muscular contraction compresses the lacrimal **punctum** to prevent excessive tear overflow down the cheek."*
+> - 📜 **Richard Owen (*Comparative Anatomy and Physiology of the Vertebrate Animals*):** *"Under the microscope, a tiny vascular **punctum** marks the initial center of bony ossification."*

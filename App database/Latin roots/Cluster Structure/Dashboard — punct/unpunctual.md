@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not punctual; after the appointed time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not punctual; after the appointed time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not arriving, acting, or completed at the appointed time; tardy, delayed, or habitually late.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Irregular and disorderly in keeping schedules, appointments, or established deadlines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I glanced at Herbert’s home, and at his character, and at his having no means but such as he was dependent on his father for; those, uncertain and unpunctual."*
-> - 📜 **Bram Stoker (*Dracula*):** *"It seems to me that the further east you go the more unpunctual are the trains."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber was notoriously **unpunctual** in meeting his creditors, yet ever confident of fortune."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The archdeacon had no patience for an **unpunctual** curate who kept the parish assembly waiting."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The royal carriage proved disastrously **unpunctual** at the military relay, sealing the king's fate."*

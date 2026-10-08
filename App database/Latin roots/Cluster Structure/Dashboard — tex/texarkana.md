@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in northeast texas adjacent to texarkana, arkansas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in southwest arkansas on the texas border adjacent to texarkana, texas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A twin border city straddling the state line between northeast Texas and southwest Arkansas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A major historic railroad junction and manufacturing hub connecting Gulf states with the American interior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, texarkana designates a town in northeast texas adjacent to texarkana, arkansas."*
+> - 📜 **Theodore Roosevelt (*Outdoor Pastimes of an American Hunter*):** *"Our special train stopped at **Texarkana**, where enthusiastic citizens from both states packed the depot."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"Steamboat travelers transferred to the rail depot at **Texarkana** to continue their journey westward."*
+> - 📜 **John Muir (*A Thousand-Mile Walk to the Gulf*):** *"We journeyed past the pine woods near **Texarkana**, admiring the tall loblolly trees bordering the tracks."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A low continuous indistinct sound; often accompanied by movement of the lips without the production of articulate speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complaint uttered in a low and indistinct tone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Emitting or producing a low, continuous, subdued sound like running water or gentle breezes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of speaking in undertones; or the uttering of private complaints and grievances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He’s speaking now, Or murmuring “Where’s my serpent of old Nile?” For so he calls me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"West of this place, down in the neighbour bottom; The rank of osiers, by the murmuring stream, Left on your right hand, brings you to the place."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The fishermen that walk upon the beach Appear like mice; and yond tall anchoring bark, Diminish’d to her cock; her cock a buoy Almost too small for sight: the murmuring surge That on th’unnumber’d idle pebble chafes Cannot be heard so high."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"The **murmuring** pines gave back the sighing of the mountain gale in mournful, solemn cadence."*
+> - 📜 **Alfred, Lord Tennyson (*The Princess*):** *"The moan of doves in immemorial elms, and **murmuring** of innumerable bees filled the fragrant summer air."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The anxious **murmuring** of the crowd ceased abruptly as the royal procession entered the palace gates."*

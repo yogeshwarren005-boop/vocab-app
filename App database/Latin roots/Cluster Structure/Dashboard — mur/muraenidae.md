@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marine eels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marine eels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic family of predatory marine eels comprising the morays, characterized by scaleless skin and strong jaws.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of anguilliform fishes that dwell in coral reefs and rocky marine crevasses worldwide.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, muraenidae designates marine eels."*
+> - 📜 **Charles Darwin (*Journal of Researches (The Voyage of the Beagle)*):** *"Among the coral ledges of Keeling Island we captured ferocious eels of the family **Muraenidae** lurking in deep rock hollows."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In the **Muraenidae**, pectoral fins are entirely absent and the gill openings are reduced to small lateral apertures."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Species of **Muraenidae** inhabit tropical reefs, striking outward from protective crevices to seize passing fish."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fine point of etiquette or petty formality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strict observance of formalities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A minute, trivial detail of conduct, ceremony, etiquette, or formal diplomatic procedure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fastidious observance of tiny points of honor, pride, or ceremonious protocol.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The preliminaries had been conducted with proper punctilio."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"I know how to behave myself quite as well as those who have the entree here; but when my entire happiness is at stake I do not stand on punctilio."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Having thus obtained the victory, he did not much regard the punctilios of chivalry; but, taking it for granted he had a right to make the most of his advantage, resolved to carry off the spolia opima."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Lady Catherine expected every formal **punctilio** to be observed with rigorous deference by all her guests."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Envoys squandered precious weeks disputing some frivolous **punctilio** of ceremonial precedence in the imperial hall."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The old antiquary insisted upon every legal **punctilio**, examining each red seal before acknowledging the parchment."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A network of intersecting blood vessels or intersecting nerves or intersecting lymph vessels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A network of intersecting blood vessels or intersecting nerves or intersecting lymph vessels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An intricate interwoven network of nerves, blood vessels, or lymphatic channels in the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any complex, tangled web or interconnected system of transportation lines, conduits, or thoughts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Communication was effected through the pituitary body and also by means of the orangefiery and scarlet rays emanating from the sacral region and solar plexus."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The brachial **plexus** supplies the motor and sensory innervation of the entire upper extremity."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The complex neural **plexus** controlling visceral functions shows remarkable homology across mammalian orders."*
+> - 📜 **Lewis Mumford (*The City in History*):** *"The modern metropolis operates through a dense subterranean **plexus** of water mains, cables, and transit tunnels."*

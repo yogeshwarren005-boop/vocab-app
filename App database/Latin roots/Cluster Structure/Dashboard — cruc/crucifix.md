@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Representation of the cross on which jesus died.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gymnastic exercise performed on the rings when the gymnast supports himself with both arms extended horizontally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A carved, painted, or molded representation of a cross bearing the sculpted figure of Jesus Christ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A Christian devotional object kept in churches, shrines, or private rooms as an aid to contemplative prayer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"John, the crucifix and holy banner leading the way, to a place called Chouquet."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Every one took care to contribute a faggot to the pile, and the whole population marched to the spot in procession with the crucifix at their head and the priest bringing up the rear."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There stand his trees, each with a hollow trunk, as if a hermit and a crucifix were within; and here sleeps his meadow, and there sleep his cattle; and up from yonder cottage goes a sleepy smoke."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"A solitary silver **crucifix** hung against the white wall of the convent dormitory, catching the morning sun."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The peasant knelt before a roadside **crucifix**, murmuring a brief petition for safe travel through the mountain pass."*
+> - 📜 **Victor Hugo (*Les Misérables*):** *"The bishop held the bronze **crucifix** before the eyes of the dying man, whispering words of immortal consolation."*

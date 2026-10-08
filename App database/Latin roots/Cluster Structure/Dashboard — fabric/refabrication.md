@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assembling again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assembling again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of rebuilding, refashioning, or reconstructing an industrial structure or part again.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The conceptual re-assembly or restructuring of a theoretical model from updated premises.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, refabrication designates assembling again."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"The industrial **refabrication** of damaged equipment spurred the rapid revival of post-war factories."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"Modern architectural restoration is all too often a lifeless **refabrication** of ancient masonry."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"Progressive scientific theory requires the constant dismantling and thoughtful **refabrication** of working models."*

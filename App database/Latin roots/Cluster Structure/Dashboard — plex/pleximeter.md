@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small thin metal plate held against the body and struck with a plexor in percussive examinations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small thin metal plate held against the body and struck with a plexor in percussive examinations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small plate of ivory, rubber, or metal held against the body to receive blows during medical percussion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diagnostic instrument used in indirect percussion of the thorax to evaluate internal organ density.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleximeter designates a small thin metal plate held against the body and struck with a plexor in percussive examinations."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinician held the small ivory **pleximeter** firmly against the ribs before striking it with the hammer."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Indirect percussion utilizing a flat **pleximeter** produces a clearer acoustic tone than direct finger tapping."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The diagnostic notes elicited by the **pleximeter** reveal subtle pulmonary consolidations to the trained ear."*

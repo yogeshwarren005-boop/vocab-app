@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having surface roughness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having surface roughness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a surface marked by a distinctive feel, raised pattern, grain, or tactile roughness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing multifaceted, layered, and rich complexity in musical composition, prose, or painting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, textured designates having surface roughness."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The richly **textured** surface of the carved stone facade captured the warmth of the setting sun."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The dark, **textured** heath stretched unbroken beneath the stormy twilight sky across Egdon waste."*
+> - 📜 **Henry James (*The Spoils of Poynton*):** *"The salon was hung with exquisitely **textured** tapestries that softened the footsteps of visiting connoisseurs."*

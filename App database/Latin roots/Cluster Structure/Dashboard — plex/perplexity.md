@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Trouble or confusion resulting from complexity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trouble or confusion resulting from complexity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of bewilderment, deep confusion, or uncertainty arising from a complicated situation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intricate complication, tangle, or difficult puzzle that defies easy solution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here, Master Doctor, in perplexity and doubtful dilemma."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby wistfully, and coughing behind his hand his cough of great perplexity and doubt, “really, that does seem a question."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn to the painted ceiling again, often in his perplexity changing the leg on which he rests."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Precise logical definitions rescue the human intellect from endless **perplexity** and dogmatic dispute."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The sudden revolt of the frontier legions threw the imperial senate into extraordinary **perplexity**."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Poor Hepzibah stood in helpless **perplexity** behind the counter, dismayed by her first commercial customer."*

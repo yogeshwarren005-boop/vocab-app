@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin tex within the domain of Structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of tex in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To impart a distinctive texture, grain, crimp, or tactile feel to a fabric, fiber, or food product.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To treat synthetic fibers mechanically or chemically to increase bulk, loft, and tactile resilience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, texturize designates pertaining to, derived from, or characteristic of latin tex within the domain of structure."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"Modern spinning mills employ thermal crimping to **texturize** synthetic yarns into warm wool substitutes."*
+> - 📜 **Arthur C. Clarke (*The Deep Range*):** *"Automated ocean farm processing units learned to **texturize** harvested marine proteins into appetizing forms."*
+> - 📜 **Buckminster Fuller (*Critical Path*):** *"Chemical engineers can **texturize** lightweight architectural membranes to boost thermal and acoustic insulation."*

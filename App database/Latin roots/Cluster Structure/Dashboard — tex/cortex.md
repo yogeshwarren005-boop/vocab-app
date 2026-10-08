@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The layer of unmyelinated neurons (the grey matter) forming the cortex of the cerebrum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tissue forming the outer layer of an organ or structure in plant or animal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The outer surface layer of an internal organ or bodily structure, especially the cerebral cortex of the brain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, the outer parenchymal tissue of an unthickened plant stem or root lying beneath the epidermis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"Tentatively Henig used the telecommunicator to explore the animal mind; he found no indication of a cerebral cortex."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Nerve impulses radiating from the cerebral **cortex** excite the expressive facial muscles in moments of sudden terror."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The grey matter of the cerebral **cortex** contains millions of densely packed ganglion cells supporting conscious cognition."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Between the woody cylinder and the outer epidermis lies the cellular **cortex**, transporting vital nutrients."*

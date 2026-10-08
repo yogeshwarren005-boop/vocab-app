@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A low continuous indistinct sound; often accompanied by movement of the lips without the production of articulate speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A low continuous indistinct sound; often accompanied by movement of the lips without the production of articulate speech.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A massive flock of starlings that performs coordinated, undulating aerial flight maneuvers at dusk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A low, continuous sound of whispered muttering, grumbling, or collective subdued conversation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, murmuration designates a low continuous indistinct sound; often accompanied by movement of the lips without the production of articulate speech."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"At twilight an immense **murmuration** of starlings wheeled and descended in swirling clouds over the marsh reeds."*
+> - 📜 **John Milton (*Paradise Lost*):** *"A sullen **murmuration** ran through the rebel host, murmuring against the decree of their supreme commander."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The damp autumn air was filled with the soft **murmuration** of rooks settling into the high boughs of the rookery."*

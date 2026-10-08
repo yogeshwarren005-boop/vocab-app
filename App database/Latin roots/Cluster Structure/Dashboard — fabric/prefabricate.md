@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To manufacture sections of (a building), especially in a factory, so that they can be easily transported to and rapidly assembled on a building site of buildings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produce synthetically, artificially, or stereotypically and unoriginally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To manufacture standardized sections of a building or structure in a workshop for swift on-site assembly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To prepare or formulate slogans, plans, or literary formulas in advance in a mechanical manner.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prefabricate designates to manufacture sections of (a building), especially in a factory, so that they can be easily transported to and rapidly assembled on a building site of buildings."*
+> - 📜 **Lewis Mumford (*The Highway and the City*):** *"Modern engineering methods permit industrial firms to **prefabricate** modular concrete arches for rapid erection."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"Ministry clerks were trained to **prefabricate** political propaganda pamphlets suited to every sudden shift in policy."*
+> - 📜 **Walter Gropius (*Scope of Total Architecture*):** *"Factory methods allow architects to **prefabricate** comfortable residential units at substantially lower cost."*

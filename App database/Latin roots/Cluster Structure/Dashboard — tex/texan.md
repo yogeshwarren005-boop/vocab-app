@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or resident of texas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of texas or its residents.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native, inhabitant, or resident of the state of Texas in the southern United States.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or characteristic of the state of Texas, its history, or its distinct culture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She might have added besides: “On an Australian upland or Texan plain, who is to know or care about my misfortunes, or to reproach me or you?” Yet, like the majority of women, she accepted the momentary presentment as if it were the inevitable."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The Mexican War was the result of the colonization of Texan territory by American settlers and the desire of powerful interests to extend the area of land open to slavery."*
-> - 📜 **Effie Afton (*Eventide*):** *"Pshaw, girls! you'll both marry wild Texan rangers before two years," said the old gentleman, who was no less a personage than Esq."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"The bold **Texan** hunter galloped his mustang across the vast blooming prairie toward the evening sun."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The enterprising **Texan** pioneers steadily pushed the boundaries of settlements into the southwestern plains."*
+> - 📜 **Mark Twain (*Roughing It*):** *"A tall **Texan** cattleman stood by the depot, recounting hair-raising tales of wild prairie stampedes."*

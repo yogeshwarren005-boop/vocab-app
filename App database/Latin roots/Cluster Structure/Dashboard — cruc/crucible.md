@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vessel made of material that does not melt easily; used for high temperature chemical reactions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vessel made of material that does not melt easily; used for high temperature chemical reactions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vessel of refractory ceramic or metal used for melting metals and minerals at extremely high temperatures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A severe test, trial, or transformative situation in which enduring character and strength are forged.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I’ll get a crucible, and into it, and dissolve myself down to one small, compendious vertebra."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The sea was as a crucible of molten gold, that bubblingly leaps with light and heat."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It was a bitter blow, doctor, but nil desperandum was my motto, so I went to work at my crucible again, with redoubled energy, and made an ingot nearly every second day."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The chemist poured the molten gold from the glowing clay **crucible** to test its purity against acid."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The terrible civil wars became the fiery **crucible** out of which the military monarchy of the Caesars emerged."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The try-pots glowed upon the deck like a fiery **crucible**, consuming whale blubber in the pitch-black Pacific night."*

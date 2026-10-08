@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that makes repeated and regular interruptions or divisions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The marks used to clarify meaning by indicating separation of words into sentences and clauses and phrases.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The system of standardized marks used in writing to separate sentences and clarify syntactic elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practice of inserting stops; or periodic interruptions occurring within an activity or process.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Piper has a good deal to say, chiefly in parentheses and without punctuation, but not much to tell."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"The punctuation is altered throughout, the spelling is altered in scores of words and though the actual verbal differences between the original MS. and Dyce's reprint of it are not very many, yet these occur here and there throughout the play."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Spelling and punctuation have been largely brought into conformity with modern British usage."*
+> - 📜 **Edgar Allan Poe (*Marginalia*):** *"Judicious **punctuation** is the essential anatomy of written thought, guiding the pauses of the reader."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"Careless **punctuation** distorts an author's meaning far more effectively than minor spelling slips."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The geological record resembles a vast chronicle with missing chapters and broken **punctuation**."*

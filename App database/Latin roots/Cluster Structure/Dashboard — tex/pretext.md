@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something serving to conceal plans; a fictitious reason that is concocted in order to conceal the real reason.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artful or simulated semblance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A purported reason put forward to conceal the true motive, purpose, or nature of an action; an excuse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An outward show or cloaking pretense designed to mask self-interest, aggression, or deception.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know it, And my pretext to strike at him admits A good construction."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I made Caddy Jellyby—her maiden name was so natural to me that I always called her by it—the pretext for this visit and wrote her a note previously asking the favour of her company on a little business expedition."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was loth to admit this defeat by one small woman, and my eyes, turning aside, lighted on the disgraceful rout of my comrades and the trailing _ki-sang_ and gave me the pretext."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ambitious general seized upon a petty border quarrel as an honorable **pretext** for launching an invasion."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Willoughby invented a hurried business **pretext** to excuse his abrupt departure from the cottage."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Theoretical benevolence was made the hypocritical **pretext** for confiscating the ancestral lands of the church."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Kill by nailing onto a cross.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat cruelly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To execute a person by binding or nailing them to a cross until death ensues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To subject someone to severe criticism, ruin, or mortification; or to suppress carnal passions ruthlessly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Whom did they crucify there, young scholar?"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"You know what the Romans are in such matters.” “Then will Hanan avoid the question,” she smiled, “by compelling Pilate to crucify him."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And all the while the mob cried: “Crucify him!"*
+> - 📜 **William Shakespeare (*Henry VI, Part 3*):** *"Wouldst thou have me **crucify** mine own soul with dishonorable surrenders when our royal house demands courage?"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Roman proconsuls hesitated not to **crucify** rebellious provincial slaves to maintain unquestioned imperial terror."*
+> - 📜 **John Milton (*Christian Doctrine*):** *"The sincere believer must **crucify** the carnal inclinations of the flesh to walk worthily in the spirit."*

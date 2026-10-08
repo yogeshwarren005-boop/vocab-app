@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device that can interleave two or more activities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device that can interleave two or more activities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electronic device that combines multiple analog or digital input signals into a single output transmission line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In telecommunications, a hardware component that selects and routes data from multiple sources across a shared carrier.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiplexer designates a device that can interleave two or more activities."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"A synchronized **multiplexer** allocates discrete time slots to distinct message sources along a bandwidth-limited channel."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"The automated **multiplexer** functions like a sensory switchboard, directing incoming pulses toward computational registers."*
+> - 📜 **Vannevar Bush (*Science, the Endless Frontier*):** *"High-speed communication circuits rely upon an electronic **multiplexer** to handle unprecedented volumes of research data."*

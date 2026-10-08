@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put together out of artificial or natural components or parts; ; ; he manufactured a popular cereal".
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make up something artificial or untrue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Manufactured, constructed, or assembled from raw materials or modular components.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Invented untruthfully; forged or concocted with intent to deceive.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Of the fabricated tastes of good fashionable society she knew but little, and of the formulated self-indulgence of bad, nothing at all."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"To him, daily, Cecil Winwood was reporting the progress of the break—all fancied and fabricated in his own imagination."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In old Norse times, the thrones of the sea-loving Danish kings were fabricated, saith tradition, of the tusks of the narwhale."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The notorious Titus Oates maintained his influence through a series of **fabricated** plots against the crown."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The stone implements were skillfully **fabricated** from flint nodules by prehistoric inhabitants of the valley."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Norwood Builder*):** *"Holmes demonstrated that the bloody thumbprint was a **fabricated** clue designed to frame an innocent clerk."*

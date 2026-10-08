@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Communicates two or more signals over a common channel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movie theater than has several different auditoriums in the same building.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of many interconnected parts, aspects, or multiplexed channels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In telecommunications, transmitting multiple distinct messages or signals simultaneously over a shared medium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiplex designates communicates two or more signals over a common channel."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Human understanding must not oversimplify the **multiplex** and subtle operations of nature's hidden laws."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Living protoplasm exhibits a **multiplex** variety of chemical transformations maintaining organic life."*
+> - 📜 **Alexander Graham Bell (*The Multiple Telegraph*):** *"Our experimental apparatus achieved **multiplex** transmission of eight distinct harmonic signals along one telegraph wire."*

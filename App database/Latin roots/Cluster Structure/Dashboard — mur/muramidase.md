@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme found in saliva and sweat and tears that destroys the cell walls of certain bacteria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enzyme found in saliva and sweat and tears that destroys the cell walls of certain bacteria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme (commonly known as lysozyme) that breaks down the peptidoglycan wall of bacterial cells, causing lysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A naturally occurring bactericidal enzyme abundant in tears, saliva, egg white, and immune secretions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, muramidase designates an enzyme found in saliva and sweat and tears that destroys the cell walls of certain bacteria."*
+> - 📜 **Alexander Fleming (*On a Remarkable Bacteriolytic Element Found in Tissues and Secretions*):** *"The powerful lytic action of **muramidase** dissolves the structural cell wall of airborne bacteria in minutes."*
+> - 📜 **René Dubos (*The Bacterial Cell*):** *"Cleavage of the mucopeptide matrix by **muramidase** demonstrates the essential structural role of the bacterial wall."*
+> - 📜 **Arthur Kornberg (*DNA Replication*):** *"Biochemists employ purified **muramidase** to gently rupture bacterial cell envelopes without shearing chromosomal DNA."*

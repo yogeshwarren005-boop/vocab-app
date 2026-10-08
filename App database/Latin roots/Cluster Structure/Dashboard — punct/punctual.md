@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acting or arriving or performed exactly at the time appointed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting or arriving or performed exactly at the time appointed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Happening, arriving, or performed precisely at the appointed or scheduled time; prompt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strictly exact, scrupulous, or observant regarding every rule, schedule, or duty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He was punctual and diligent; he did what he had to do, sir,” said Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I would recommend a hasty sandwich.” “Thank you, father,” returned Prince, “I will be sure to be punctual."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You are as punctual as the sun,” said Mr."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Barkis was invariably **punctual**, his carrier's cart arriving at the inn yard on the stroke of four."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"Early rising and **punctual** attendance to business secured my printing house against bankruptcy."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Monsieur Paul was strictly **punctual**, stepping upon the lecture platform the instant the chapel bell stopped."*

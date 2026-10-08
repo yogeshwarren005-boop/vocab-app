@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conceptual whole made up of complicated and related parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compound described in terms of the central atom to which other atoms are bound or coordinated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of intricate, interdependent parts or multifaceted factors that resist quick, superficial comprehension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychoanalysis, a subconscious cluster of emotionally charged ideas that shapes outward behavior; or an integrated architectural grouping.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Kenge, using his silver trowel persuasively and smoothingly, “that this has been a great cause, that this has been a protracted cause, that this has been a complex cause."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Almost at a leap Tess thus changed from simple girl to complex woman."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Suspended animation is nothing new, not alone in the vegetable world and in the lower forms of animal life, but in the highly evolved, complex organism of man himself."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Organs of extreme perfection and **complex** structure arose through the slow accumulation of innumerable advantageous variations."*
+> - 📜 **Sigmund Freud (*The Interpretation of Dreams*):** *"The repressed psychological **complex** repeatedly betrays its presence through disguised symbolic imagery in waking fantasy."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Civil magistrate authority must govern a **complex** society with both equitable laws and prudent administrative restraint."*

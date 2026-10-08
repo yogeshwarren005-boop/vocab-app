@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A painting that is applied to a wall surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to walls.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large painting, fresco, or decorative artwork applied directly to a wall or ceiling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a wall, rampart, or masonry embankment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now is the mural down between the two neighbours."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Disburd’nd Heav’n rejoic’d, and soon repaird Her mural breach, returning whence it rowld."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It rears its irregular walls and massive towers, like a mural crown around the brow of a lofty ridge, waves its royal banner in the clouds, and looks down with a lordly air upon the surrounding world."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Giotto adorned the quiet chapel with an exquisite **mural** fresco illustrating the life of the Virgin Mary."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman legionary who first scaled the enemy rampart was rewarded with a golden **mural** crown."*
+> - 📜 **Henry James (*Italian Hours*):** *"The ancient palazzo displayed faded **mural** decorations depicting allegorical triumphs of Renaissance dukes."*

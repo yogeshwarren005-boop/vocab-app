@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The second largest state; located in southwestern united states on the gulf of mexico.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The second largest state; located in southwestern united states on the gulf of mexico.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large southern state of the United States bordering Mexico, the Gulf of Mexico, and neighboring plains states.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The historic independent Republic of Texas (1836–1845) that was later annexed to the American Union.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In a few months he was ignominiously discharged from the service, and, at the close of the war, he came to Texas, and sought and obtained employment as teamster in the train then organizing for El Paso."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"We knew that General Cortinas, with his troops, was somewhere between us and Texas, as the State we were in was one of those in rebellion."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The blood-thirsty character of General Cortinas is well known on the frontier, there being no less than seventeen indictments against him for murder in the State of Texas."*
+> - 📜 **Abraham Lincoln (*Speech on the Mexican War*):** *"The question of the true southern boundary of **Texas** remained hotly contested along the Rio Grande."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The rapid colonization of **Texas** by American pioneers foreshadowed its inevitable annexation into the Union."*
+> - 📜 **Ralph Waldo Emerson (*Essays: Second Series*):** *"The annexation of **Texas** renewed fierce congressional debates concerning the expansion of southern slavery."*

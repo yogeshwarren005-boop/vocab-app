@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of critical urgency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of critical urgency.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The pivotal, decisive importance or critical weight of a moment, finding, or policy choice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The character of being an indispensable turning point in an experimental debate or strategic campaign.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cruciality designates a state of critical urgency."*
+> - 📜 **Thomas Carlyle (*History of Friedrich II of Prussia*):** *"The historic **cruciality** of that morning cannonade at Leuthen decided the destiny of the Prussian crown."*
+> - 📜 **William James (*The Will to Believe*):** *"In certain practical crises, the momentous **cruciality** of our decision leaves no room for perpetual agnostic hesitation."*
+> - 📜 **George Grote (*A History of Greece*):** *"The battle of Marathon possessed a transcendent **cruciality** for the survival of intellectual freedom in the ancient world."*

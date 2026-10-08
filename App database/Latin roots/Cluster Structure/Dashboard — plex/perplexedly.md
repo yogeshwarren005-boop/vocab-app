@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a perplexed manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a perplexed manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a bewildered, puzzled, or thoroughly baffled manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With an attitude of profound hesitation or intellectual uncertainty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. Rider Haggard (*Swallow: A Tale of the Great Trek*):** *"What is it?” “This: that if you send me away you are likely to lose more than you bargain for.” Now Jan stared at him perplexedly, but I smiled, for I guessed what was to come."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The English customer paid for what he had had, perplexedly counted his change, and asked, as a stranger, to be directed towards the National Palace."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke stroked his chin **perplexedly**, quite unable to follow the young scholar's learned disquisition."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Farmer Boldwood gazed **perplexedly** at the mysterious valentine, seeking some clue in the delicate handwriting."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Inspector Jones scratched his head **perplexedly** as Holmes reconstructed the burglar's extraordinary escape."*

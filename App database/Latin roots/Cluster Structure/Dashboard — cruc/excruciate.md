@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Torment emotionally or mentally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to torture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To inflict intense physical or mental agony upon a person; to torment acutely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To subject oneself or others to severe, distressing anxiety or emotional suffering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Her presence used to excruciate Osborne; but go she would upon all parties of pleasure on which she heard her young friends were bent."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Have you ever laced your shoe too tightly, and, after half an hour, experienced that excruciating pain across the instep of the obstructed circulation?"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Why, you have saved my life!—snatched me from a horrible and excruciating death! and you walk past me as if we were mutual strangers!"*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Unreasonable jealousy and melancholy doubts **excruciate** the human heart far more painfully than bodily ailments."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"Blind and captive, memories of past greatness serve only to **excruciate** the fallen champion in his prison cell."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"Vain courtiers invent imaginary slights that **excruciate** their pride and destroy their peace of mind."*

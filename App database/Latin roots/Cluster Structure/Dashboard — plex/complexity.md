@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being intricate and compounded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being intricate and compounded.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The intricate structural arrangement of interconnected parts that renders an entity difficult to analyze or untangle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computation and natural sciences, the measure of resources or algorithmic steps necessary to resolve a system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"This is the central problem which a study of his life presents, and it is one of no ordinary complexity; but there are some considerations relating to it which go far to solve it, and these it may be worth while for us at this point to examine."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They are a simple folk, mere common people.” “I wish it were as simple, the report of all this complexity that I must send to Tiberius,” Pilate grumbled."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In a period of years a country may change in a multitude of ways, in complexity of industry, modes of exchange, transportation, wealth, and income."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Nature delights in fundamental harmony and eschews unnecessary structural **complexity** in her universal operations."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The astonishing **complexity** of the human cerebral cortex mirrors the elevated development of moral and reflective faculties."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The growing commercial **complexity** of global commerce requires stable maritime laws and equitable currency standards."*

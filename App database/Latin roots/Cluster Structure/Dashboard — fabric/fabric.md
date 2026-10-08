@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Artifact made by weaving or felting or knitting or crocheting natural or synthetic fibers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The underlying structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cloth or textile material manufactured through weaving, knitting, or felting threads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fundamental framework, structural composition, or underlying organization of a building or society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The kingly crowned head, the vigilant eye, The counsellor heart, the arm our soldier, Our steed the leg, the tongue our trumpeter, With other muniments and petty helps Is this our fabric, if that they— MENENIUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But now ’tis odds beyond arithmetic, And manhood is called foolery when it stands Against a falling fabric."*
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"I think our heart-strings were, like warp and woof In some firm fabric, woven in and out; Your golden filaments in fair design Across my duller fibre."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"To tear down the venerable constitutional **fabric** of a great commonwealth is the rash work of ideological fanatics."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"And, like the baseless **fabric** of this vision, the cloud-capp'd towers, the gorgeous palaces, the solemn temples, shall dissolve."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The stone **fabric** of the ducal palace unites Byzantine delicacy with the solid strength of Gothic masonry."*

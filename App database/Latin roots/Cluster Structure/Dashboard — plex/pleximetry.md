@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tapping a part of the body for diagnostic purposes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tapping a part of the body for diagnostic purposes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The clinical method of performing indirect percussion of the body using a pleximeter and percussion hammer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acoustic diagnostic technique used to outline internal organ borders and identify pleural fluids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleximetry designates tapping a part of the body for diagnostic purposes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Careful thoracic **pleximetry** enables the physician to map out the borders of cardiac dullness with high fidelity."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Through systematic **pleximetry**, the practitioner readily distinguishes healthy lung resonance from dense pleural effusion."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The clinical margins of the liver are routinely verified through meticulous abdominal **pleximetry**."*

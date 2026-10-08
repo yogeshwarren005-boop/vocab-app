@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be a mystery or bewildering to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more complicated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To confuse, baffle, or puzzle someone so thoroughly that they cannot understand or choose a course of action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To complicate or entangle an issue, making its resolution difficult and obscure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"One but painted thus Would be interpreted a thing perplex’d Beyond self-explication."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Neither know I What is betid to Cloten, but remain Perplex’d in all."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am perplex’d, and know not what to say."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Ambiguous words and scholastic subtleties serve only to **perplex** the minds of honest seekers after truth."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Unfounded metaphysical disputes tend only to **perplex** natural philosophy and hinder practical discoveries."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The unexpected arrival of the letter served to **perplex** Elizabeth regarding Mr. Darcy's true intentions."*

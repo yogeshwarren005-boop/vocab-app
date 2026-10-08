@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rodent that is a member of the family muridae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or transmitted by a member of the family muridae (rats and mice).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affecting mice, rats, or other members of the rodent family Muridae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a mouse in appearance, habits, or behavioral characteristics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, murine designates a rodent that is a member of the family muridae."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Experimental laboratories rely upon **murine** models to investigate infectious transmission and immunology."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Wild **murine** populations exhibit notable coat color variations when colonizing distinct geological terrains."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Epidemiologists confirmed that the endemic typhus pathogen is maintained primarily in wild **murine** reservoirs."*

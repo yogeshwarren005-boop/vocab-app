@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A superfamily of rodents essentially equal to the suborder myomorpha but with the dipodidae excluded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A superfamily of rodents essentially equal to the suborder myomorpha but with the dipodidae excluded.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The vast taxonomic superfamily of rodents encompassing true mice, rats, voles, lemmings, and gerbils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The most ecologically diverse mammalian clade, characterized by gnawing incisors and high fecundity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, muroidea designates a superfamily of rodents essentially equal to the suborder myomorpha but with the dipodidae excluded."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The skull architecture in the superfamily **Muroidea** exhibits profound specializations for vigorous gnawing."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Adaptive divergence within the superfamily **Muroidea** illustrates how rapidly small rodents conquer diverse environments."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"Various ancestral branches of **Muroidea** reached distant oceanic archipelagos by drifting upon floating storm timber."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a punctilious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a punctilious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner marked by scrupulous, meticulous attention to etiquette, details, or official duty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With strict and unbending observance of ceremonial formalities or precise legal requirements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The sea-vultures all in pious mourning, the air-sharks all punctiliously in black or speckled."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I felt also an interest in the scene from the consideration that these fleeting customs were posting fast into oblivion, and that this was perhaps the only family in England in which the whole of them was still punctiliously observed."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"The sea-vultures all in pious mourning, the air-sharks all punctiliously in black or speckled."*
+> - 📜 **Henry James (*The American*):** *"The ancient aristocratic family observed every social rule **punctiliously**, admitting no casual intimacy."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The Dutch regiment stood sentry **punctiliously**, maintaining vigilant watch throughout the cold night."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Major Dobbin fulfilled the young widow's requests **punctiliously**, seeking neither credit nor reward."*

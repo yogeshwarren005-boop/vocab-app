@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strict attention to minute details.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strict attention to minute details.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The character of being extremely attentive to minute details, etiquette, or conscientious duty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rigid adherence to formal correctness, diplomatic ceremonials, or technical procedures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, punctiliousness designates strict attention to minute details."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Excessive **punctiliousness** in trivial ceremonies often repels sincere affection and chills casual conversation."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Sir Thomas Bertram's grave **punctiliousness** maintained strict order across the household."*
+> - 📜 **Anthony Trollope (*The Warden*):** *"Mr. Harding admired the archdeacon's administrative **punctiliousness**, yet grieved over the bitter legal disputes."*

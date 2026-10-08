@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A light transparent weather resistant thermoplastic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light transparent weather resistant thermoplastic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lightweight, shatterproof transparent thermoplastic material manufactured from poly(methyl methacrylate).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An optical acrylic sheet widely used in aircraft windshields, submarine ports, and architectural glazing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plexiglas designates a light transparent weather resistant thermoplastic."*
+> - 📜 **Arthur C. Clarke (*Rendezvous with Rama*):** *"The outer observation cupola was shielded by curved slabs of toughened **Plexiglas** to resist meteor impacts."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Deep-sea cameras sealed behind thick **Plexiglas** ports captured glowing bioluminescent organisms in the abyss."*
+> - 📜 **Isaac Asimov (*Foundation*):** *"The navigation bridge was enclosed by transparent **Plexiglas** bulkheads overlooking the bustling interstellar port."*

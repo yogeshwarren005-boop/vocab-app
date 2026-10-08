@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being punctured.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being punctured.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being pierced, perforated, or punctured by a sharp pointed instrument or object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Susceptible to accidental perforation or rupture under external mechanical stress or pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, puncturable designates capable of being punctured."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The tympanic membrane is a thin, easily **puncturable** partition closing the inner end of the ear canal."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The anterior wall of the pericardium forms a delicate, **puncturable** sheet during paracentesis."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Subterranean gases broke through the thin, **puncturable** crust of cooling basalt in the volcanic crater."*

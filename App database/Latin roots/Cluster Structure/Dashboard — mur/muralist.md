@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A painter of murals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A painter of murals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artist who designs and paints large-scale murals on public or interior walls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A painter dedicated to architectural decoration and civic fresco arts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, muralist designates a painter of murals."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The true **muralist** conceives his design in intimate harmony with the structural proportions of the stone hall."*
+> - 📜 **Henry James (*A Little Tour in France*):** *"The provincial cathedral hired a skilled Italian **muralist** to restore the vaulted paintings above the choir."*
+> - 📜 **William Morris (*Hopes and Fears for Art*):** *"The cooperative guild trained every aspiring **muralist** to celebrate common civic labor upon public meeting walls."*

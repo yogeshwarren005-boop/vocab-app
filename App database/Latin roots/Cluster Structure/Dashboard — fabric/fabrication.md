@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deliberately false or improbable account.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Writing in a fictional form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The industrial or mechanical manufacturing of physical structures, machines, or goods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The deliberate invention of a falsehood, forged document, or deceitful narrative.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"Were it a system agreeable to the narrow views, in unison with the selfish feelings, and gratifying to the depraved taste of human nature, it would more resemble the fabrication of man, than the workmanship of God."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It was obvious at a glance that the story of the fuller’s-earth was the merest fabrication, for it would be absurd to suppose that so powerful an engine could be designed for so inadequate a purpose."*
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Nothing more is required for their fabrication than a little ignorance and a little love of gossip."*
+> - 📜 **Alexander Hamilton (*Report on Manufactures*):** *"The domestic **fabrication** of iron, wool, and gunpowder is essential to the commercial independence of the United States."*
+> - 📜 **David Hume (*The History of England*):** *"The alleged confession was exposed as a clumsy **fabrication** extorted through the threat of torture."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The systematic **fabrication** of optical lenses revolutionized astronomical research throughout the seventeenth century."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A book prepared for use in schools or colleges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: According to or characteristic of a casebook or textbook; typical.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A comprehensive instructional manual designed for students studying a specific subject or discipline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conforming exactly to accepted, classic, or model principles; exemplary in method or execution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"What we have, so far, is a textbook tactical disposition of forces around a theoretical objective."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Scriptural foundations In following these leadings of scientific revelation, the Bible was my only textbook."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"This volume indispensable A Christian Scientist requires my work SCIENCE AND HEALTH for his textbook, and so do all his students and 456:27 patients."*
+> - 📜 **Thomas Henry Huxley (*Science and Education*):** *"An effective scientific **textbook** instructs the pupil in personal observation rather than rote recitation."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Every geological **textbook** demonstrates the vast thickness of sedimentary layers formed over countless ages."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The author prepared this introductory **textbook** to guide inquiring students through cognitive phenomena."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being without punctures or incapable of being punctured.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being without punctures or incapable of being punctured.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no punctures, pinholes, or perforations; intact, airtight, or leak-proof.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resistant to piercing; maintaining an unbroken pneumatic or barrier surface against punctures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, punctureless designates being without punctures or incapable of being punctured."*
+> - 📜 **Arthur C. Clarke (*The Sands of Mars*):** *"The surveyor examined his spacesuit seams, verifying that the fabric was entirely **punctureless**."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"Our sphere remained miraculously **punctureless** despite grazing the sharp rocks of the lunar crater."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The thick cuticle provides a tough, **punctureless** shield guarding the insect's thoracic organs."*

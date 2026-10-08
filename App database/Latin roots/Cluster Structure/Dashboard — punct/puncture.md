@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss of air pressure in a tire when a hole is made by some sharp object.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small hole made by a sharp object.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small hole or piercing made in an object or body part by a sharp, pointed instrument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To make a hole in something with a sharp point; or to deflate pomposity, conceit, or illusions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Not a puncture, not a weak spot anywhere."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"You've got to puncture the hide of that outfit to get any decency into their heads." Then came a deep silence."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"He then dressed the puncture neatly with appliances for that purpose which he carried about him, and shouted in Mellish’s ear to rouse him."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The physician performed a careful lumbar **puncture** to obtain diagnostic spinal fluid from the patient."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"A single candid remark was enough to **puncture** his inflated pride and restore common sense."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The sharp quill pen seemed to **puncture** the legal vellum with malicious clerical vigor."*

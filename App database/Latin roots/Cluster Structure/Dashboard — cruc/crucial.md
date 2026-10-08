@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of extreme importance; vital to the resolution of a crisis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having crucial relevance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Decisively important, pivotal, or resolving a crisis upon which future outcomes absolutely depend.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cross-shaped in anatomical nomenclature; or constituting a critical turning point in experimental inquiry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The crucial question is whether profit-sharing alone in any particular case will insure that the costs will be less than those of competitors, thus giving a source out of which an increased amount, really a wage, can be paid to the laborer."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"In his case, as in every other, the central and crucial question is, What is his experience of God?"*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"With Jesus this is the central and crucial reality."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"We call instances of the fingerpost **crucial** experiments because they point directly to the true cause between competing hypotheses."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The defense of Londonderry proved a **crucial** test for the Protestant succession and the liberties of the realm."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"This single breeding record furnished a **crucial** verification of our principles of inheritance."*

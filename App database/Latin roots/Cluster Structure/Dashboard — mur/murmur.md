@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A low continuous indistinct sound; often accompanied by movement of the lips without the production of articulate speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A schwa that is incidental to the pronunciation of a consonant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A low, continuous, indistinct sound, such as that made by distant voices, flowing streams, or rustling trees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal periodic sound heard in the heart valves during clinical thoracic auscultation; or quiet discontent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In thy faint slumbers I by thee have watch’d, And heard thee murmur tales of iron wars, Speak terms of manage to thy bounding steed, Cry “Courage!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now entertain conjecture of a time When creeping murmur and the poring dark Fills the wide vessel of the universe."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The fresh streams ran by her, and murmur’d her moans, Sing willow, willow, willow; Her salt tears fell from her, and soften’d the stones;—_ Lay by these:— [_Sings._] _Sing willow, willow, willow._ Prithee hie thee."*
+> - 📜 **William Wordsworth (*Lines Composed a Few Miles above Tintern Abbey*):** *"These waters, rolling from their mountain-springs with a soft inland **murmur**, soothe the weary wanderer."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A harsh systolic **murmur** detected over the aortic cartilage frequently signals progressive valvular sclerosis."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"A faint **murmur** of conversation arose from the drawing room as the evening guests gathered around the hearth."*

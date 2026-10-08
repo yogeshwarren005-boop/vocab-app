@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner dependent on context.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner dependent on context.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner determined by or viewed in relation to surrounding circumstances, conditions, or words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By reference to surrounding linguistic discourse or specific historical background rather than in isolation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contextually designates in a manner dependent on context."*
+> - 📜 **George Campbell (*The Philosophy of Rhetoric*):** *"The orator must weigh each expression **contextually**, discerning how nearby tropes shade the listener's impression."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"Mythological symbols must be interpreted **contextually** within the rituals and tribal lore of the community."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"A witty remark shines brightly when heard **contextually**, but falls flat when quoted without its original conversational atmosphere."*

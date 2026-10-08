@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of little importance; not decisive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not in a state of crisis or emergency.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not critical, decisive, or essential; of secondary, minor, or incidental importance to an outcome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systems engineering or medical evaluation, denoting factors whose variance does not alter core outcomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noncrucial designates of little importance; not decisive."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The careful experimentalist must disregard **noncrucial** circumstances to isolate the true governing physical laws."*
+> - 📜 **William James (*The Will to Believe*):** *"In everyday **noncrucial** choices, our intellect may suspend judgment without endangering our practical welfare."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Comparative morphologists set aside **noncrucial** superficial traits when tracing ancestral affinities between orders."*

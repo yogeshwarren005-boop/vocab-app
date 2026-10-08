@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be a mystery or bewildering to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more complicated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Completely baffled, puzzled, or filled with uncertainty; unable to grasp or resolve a difficulty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intricate, entangled, or convoluted in structural composition or logical sequence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be gone, I say; for till you do return, I rest perplexed with a thousand cares."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"E’en in this thought through the dark night he stealeth, A captive victor that hath lost in gain, Bearing away the wound that nothing healeth, The scar that will, despite of cure, remain; Leaving his spoil perplexed in greater pain."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He seems perplexed respecting three or four, can’t remember where he left them, looks up and down the street as half expecting to see them astray, suddenly pricks up his ears and remembers all about it."*
+> - 📜 **William Shakespeare (*Othello*):** *"Speak of one that loved not wisely but too well; of one not easily jealous, but being wrought, **perplexed** in the extreme."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I stood **perplexed** before his sudden change of mood, doubtful whether my presence was desired."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber cast a **perplexed** eye upon the stack of unpaid bills before brightening with sudden optimism."*

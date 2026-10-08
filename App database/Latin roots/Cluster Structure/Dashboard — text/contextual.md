@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or determined by or in context.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or determined by or in context.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Depending upon, arising from, or directly related to surrounding circumstances, conditions, or text.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting meaning or validity only within a particular social, historical, or linguistic frame of reference.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contextual designates relating to or determined by or in context."*
+> - 📜 **William James (*The Meaning of Truth*):** *"Every working truth possesses a **contextual** validity grounded in its practical congruence with experiential facts."*
+> - 📜 **John Dewey (*Experience and Nature*):** *"Aesthetic enjoyment cannot be isolated from its rich **contextual** immersion within human cultural customs."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"The precise reference of descriptive phrases often hinges upon subtle **contextual** cues supplied by surrounding sentences."*

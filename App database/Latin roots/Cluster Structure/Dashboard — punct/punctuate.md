@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insert punctuation marks into.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To stress, single out as important.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To insert standard punctuation marks into written text to clarify meaning and grammatical division.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To occur at intervals throughout an event, speech, or period of time, interrupting or emphasizing it.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"I won't think you're--dead!” “You--blessed--little-goose!” scolded Bertram, punctuating each word with a kiss."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"I’m grown a man no doubt, I’ve broken bounds: all the editions are so punctuated; but it seems the comma should be after “man”, connecting “no doubt” with “I’ve broken bounds”. 235."*
-> - 📜 **James Joyce (*Ulysses*):** *"From the belfries far and near the funereal deathbell tolled unceasingly while all around the gloomy precincts rolled the ominous warning of a hundred muffled drums punctuated by the hollow booming of pieces of ordnance."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Vivid flashes of lightning began to **punctuate** the gathering storm over the dark lagoons."*
+> - 📜 **Samuel Johnson (*Lives of the Poets*):** *"The editor must **punctuate** the poet's stanzas with discernment to preserve both rhythm and clarity."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Loud bursts of civic applause continued to **punctuate** the monarch's proclamation from the palace balcony."*

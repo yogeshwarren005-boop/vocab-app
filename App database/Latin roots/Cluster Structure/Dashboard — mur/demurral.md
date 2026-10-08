@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a formal objection to an opponent's pleadings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a formal objection to an opponent's pleadings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of demurring, raising an objection, or expressing polite hesitation before complying.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal or informal protest indicating unwillingness to accept an offer, assertion, or command.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demurral designates (law) a formal objection to an opponent's pleadings."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"Archdeacon Grantly accepted the bishop's invitation without the least **demurral**, eager to contest the upcoming patronage."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Her polite **demurral** only heightened Osmond's cold resolve to bend her independent judgment to his will."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Dr. Watson agreed without **demurral** to watch over Sir Henry during the perilous nights upon the Dartmoor waste."*

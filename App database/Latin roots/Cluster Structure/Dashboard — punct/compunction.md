@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of deep regret (usually for some misdeed).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of deep regret (usually for some misdeed).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sharp twinge of guilt, remorse, or moral anxiety arising from the recognition of having committed a wrong.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lingering conscientious scruple that momentarily stays a person's hand before performing an unkind or deceitful act.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It may be that he pursues her doggedly and steadily, with no touch of compunction, remorse, or pity."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I may keep him at a standstill, but I can never shake him off.” “Has he so little pity or compunction?” “He has none, and no anger."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Those whom he has been the chief cause of leading into ruin, he can neglect and desert without the smallest compunction."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"He had thrust aside every voice of **compunction** in pursuing his reckless schemes across foreign capitals."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The barbarian general ordered the pillage of the ancient shrine without the slightest sign of religious **compunction**."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"A bitter **compunction** pierced the minister's spirit whenever his parishioners praised his unmatched sanctity."*

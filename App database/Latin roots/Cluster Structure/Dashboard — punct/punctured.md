@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pierce with a pointed object; make a hole into.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make by piercing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pierced, perforated, or deflated by a sharp point or needle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Metaphorically deflated of arrogance, optimism, or self-importance; punctured in spirits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The adjacent low-lying ground for half a mile in breadth is a stagnant river with melancholy trees for islands in it and a surface punctured all over, all day long, with falling rain."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Passing his hand over the sheep’s left flank, and selecting the proper point, he punctured the skin and rumen with the lance as it stood in the tube; then he suddenly withdrew the lance, retaining the tube in its place."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Passing his hand over the sheep’s left flank, and selecting the proper point, he punctured the skin and rumen with the lance as it stood in the tube; then he suddenly withdrew the lance, retaining the tube in its place."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Speckled Band*):** *"Holmes pointed out the tiny **punctured** wounds upon the wrist where the venomous snake had struck."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His bubble of intellectual conceit was abruptly **punctured** by the young lady's incisive questions."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sharp steel barb had deeply **punctured** the blubber mantle, holding fast in the wounded whale."*

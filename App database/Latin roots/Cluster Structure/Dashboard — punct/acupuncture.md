@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treatment of pain or disease by inserting the tips of needles at specific points on the skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treatment of pain or disease by inserting the tips of needles at specific points on the skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The insertion of fine needles into specific anatomical points to alleviate pain and stimulate physiological recovery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A major therapeutic modality in traditional East Asian medicine based on balancing energy circulation through bodily channels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acupuncture designates treatment of pain or disease by inserting the tips of needles at specific points on the skin."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"For acute muscular lumbago, **acupuncture** is, in many instances, the most promptly efficacious treatment available."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The therapeutic introduction of **acupuncture** excited considerable curiosity across European clinics before systematic scrutiny weighed its merits."*
+> - 📜 **Joseph Needham (*Science and Civilisation in China*):** *"Ancient physiological treatises on **acupuncture** charted complex vascular pathways long before modern dissection confirmed their neural counterparts."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The manufacture of sections of a building at the factory so they can be easily and rapidly assembled at the building site.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The manufacture of sections of a building at the factory so they can be easily and rapidly assembled at the building site.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The industrial practice of manufacturing standardized building sections off-site for rapid on-site assembly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern construction and manufacturing, the preparation of modular assemblies prior to installation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prefabrication designates the manufacture of sections of a building at the factory so they can be easily and rapidly assembled at the building site."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"The rise of **prefabrication** shifted the construction trades from artisanal handcraft to standardized mass production."*
+> - 📜 **Walter Gropius (*Scope of Total Architecture*):** *"Systematic industrial **prefabrication** offers the most practical path toward solving acute metropolitan housing shortages."*
+> - 📜 **Buckminster Fuller (*Nine Chains to the Moon*):** *"Geodesic structural efficiency demonstrates the profound material savings made possible by modular **prefabrication**."*

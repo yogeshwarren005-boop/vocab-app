@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The words of something written.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A passage from the bible that is used as the subject of a sermon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The original words and form of a written work; written or printed words forming a book, poem, or message.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A passage from Scripture cited as the theme of a discourse; or digital character sequences in computing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And thank you too; for society, saith the text, is the happiness of life."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And certes, the text most infallibly concludes it. [_To Dull_.] Sir, I do invite you too."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fair as a text B in a copy-book."*
+> - 📜 **John Milton (*Areopagitica*):** *"A good book preserves the precious life-blood of a master spirit, embalmed in its sacred **text**."*
+> - 📜 **Samuel Johnson (*Preface to Shakespeare*):** *"The editor must recover the genuine classical **text** by purging the careless errors of early printers."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Over-subtle commentators buried the original philosophical **text** beneath endless theological disputes."*

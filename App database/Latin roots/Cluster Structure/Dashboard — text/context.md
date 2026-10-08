@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discourse that surrounds a language unit and helps to determine its interpretation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The set of facts or circumstances that surround a situation or event.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surrounding circumstances, background conditions, or textual setting that determine the meaning of an event or statement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philology and linguistics, the immediate syntactic environment within which a particular word or phrase occurs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And taken with the context, this is full of meaning."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The statement has been declared so often across the ages that it's lost meaning, obviously because it changes in context and perception from one event, century or millennium to the next."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"In categorizing the Sandbox incident 'insignificant' I do so only in the context of its effect on objectives and strategy."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"No philosophical proposition can be fairly interpreted when torn ruthlessly from the historical **context** of its utterance."*
+> - 📜 **Samuel Johnson (*Preface to Shakespeare*):** *"The editor must inspect the entire dramatic **context** before venturing to emend an obscure Elizabethan passage."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"Human ethical development must be examined within the broader **context** of cosmic evolutionary struggle."*

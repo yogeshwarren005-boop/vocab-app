@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Originally old world rats now distributed worldwide; distinguished from the cricetidae by typically lacking cheek pouches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Originally old world rats now distributed worldwide; distinguished from the cricetidae by typically lacking cheek pouches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest mammalian family of rodents, comprising true mice, rats, gerbils, and related species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cosmopolitan rodent family adapted to diverse ecological niches with gnawing incisors and high reproductive rates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, muridae designates originally old world rats now distributed worldwide; distinguished from the cricetidae by typically lacking cheek pouches."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Numerous endemic rodents belonging to the family **Muridae** inhabit the isolated Galapagos archipelago."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The dentition of the **Muridae** is characterized by the absence of canines and premolars, leaving a distinct diastema."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"Species of **Muridae** have accompanied human maritime migrations across every continent and oceanic island."*

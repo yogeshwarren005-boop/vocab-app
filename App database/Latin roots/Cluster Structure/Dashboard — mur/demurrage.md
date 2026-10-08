@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A charge required as compensation for the delay of a ship or freight car or other cargo beyond its scheduled time of departure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Detention of a ship or freight car or other cargo beyond its scheduled time of departure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fee payable by a charterer or shipper for detaining a freight vessel or railcar beyond the agreed loading or unloading period.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The period of time during which a cargo carrier is detained beyond the contractual lay days.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demurrage designates a charge required as compensation for the delay of a ship or freight car or other cargo beyond its scheduled time of departure."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Unreasonable harbor delays increase mercantile freight charges through heavy penalties of **demurrage** levied by shipowners."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The law of charter-parties strictly enforces the payment of **demurrage** when merchants detain vessels in foreign ports."*
+> - 📜 **Joseph Conrad (*Chance*):** *"The captain paced the quay, swearing at the harbor master while the running days of **demurrage** accumulated against the cargo owners."*

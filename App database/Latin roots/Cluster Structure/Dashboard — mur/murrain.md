@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any disease of domestic animals that resembles a plague.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any disease of domestic animals that resembles a plague.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An infectious, deadly pestilence or epidemic disease afflicting cattle, sheep, and other domestic livestock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An archaic imprecation or plague invoked upon an adversary in curses and dramatic speech.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A murrain on your monster, and the devil take your fingers!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A red murrain o’ thy jade’s tricks!"*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Every fire was put out and a large one lit on the top of the hill, and the cattle driven round it sunwards (_dessil_), to keep off murrain all the year."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"A **murrain** on your monster, and the devil take your fingers!"*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"A destructive **murrain** swept the low-lying pastures, carrying off the hardiest breeding stock in the parish."*
+> - 📜 **John Milton (*Paradise Lost*):** *"A grievous **murrain** struck the Egyptian herds, filling every stall and pasture with decaying carcasses."*

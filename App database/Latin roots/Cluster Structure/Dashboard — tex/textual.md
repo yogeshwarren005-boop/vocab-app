@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or based on a text.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or based on a text.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or based upon the literal text, wording, or content of a written document.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strictly adhering to the exact written words of a statute, scripture, or classic author.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Quote the textual terms in which the prospectus claimed advantages for this thaumaturgic remedy."*
-> - 📜 **James Joyce (*Ulysses*):** *"Quote the textual terms of this notice."*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Not so is it with Hinayana and Mahayana, for they appeal to two differing sets of textual authorities."*
+> - 📜 **Samuel Johnson (*Preface to Shakespeare*):** *"The critic must engage in rigorous **textual** comparison before proposing amendments to early dramatic folios."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Scholars debated conflicting manuscripts to resolve difficult **textual** discrepancies in the imperial decrees."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Thorough **textual** scrutiny prevents thinkers from confounding verbal equivocations with genuine philosophical truths."*

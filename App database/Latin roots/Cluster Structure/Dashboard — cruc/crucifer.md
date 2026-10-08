@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the family cruciferae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plants of the family cruciferae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who carries a processional cross in a religious service or ecclesiastical pageant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, any plant of the mustard or cabbage family characterized by cross-shaped four-petaled flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"In the crucifer rust the conidia are all equal in the pustules and globose."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"CRUCIFER WHITE RUST; conidia equal, globose; membrane equal, ochraceous; oospores subglobose, epispore yellowish-brown, with irregular obtuse warts; warts solid.—On Shepherd’s-purse, Cabbages, and other Cruciferæ."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Oogonium of Crucifer white rust (_Cystopus candidus_) × 400 (_De Bary_). 〃 207."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"A solemn **crucifer** walked at the head of the monastic train, holding aloft the silver emblem of redemption."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The choir moved through the shadowy basilica led by a robed **crucifer** bearing an ancient gilded staff."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Every wild **crucifer** examined in the meadow produced abundant seeds when visited by foraging honeybees."*

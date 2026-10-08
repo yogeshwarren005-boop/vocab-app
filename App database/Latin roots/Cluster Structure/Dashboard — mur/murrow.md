@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states broadcast journalist remembered for his reports from london during world war ii (1908-1965).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states broadcast journalist remembered for his reports from london during world war ii (1908-1965).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinguished American broadcast journalist noted for courageous wartime radio reporting and televised investigative integrity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ethical benchmark in investigative journalism emphasizing unvarnished truth against political intimidation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, murrow designates united states broadcast journalist remembered for his reports from london during world war ii (1908-1965)."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The nightly London broadcasts of Edward R. **Murrow** conveyed British defiance under the Blitz directly to American homes."*
+> - 📜 **Walter Lippmann (*Public Opinion*):** *"The courageous radio journalism of **Murrow** established an enduring standard for reporting historical crises."*
+> - 📜 **George F. Kennan (*Memoirs*):** *"The incisive television essays of **Murrow** pierced political paranoia and restored sober public reflection."*

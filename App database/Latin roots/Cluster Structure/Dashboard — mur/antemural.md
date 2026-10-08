@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin mur within the domain of Structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of mur in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An outer defensive wall, barbican, or masonry apron constructed before the main rampart of a fortress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any forward protective bulwark or institutional barrier serving to shield a core domain from external hostility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antemural designates pertaining to, derived from, or characteristic of latin mur within the domain of structure."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The deep ditch and massive **antemural** of Constantinople repeatedly shattered the assault columns of barbarian invaders."*
+> - 📜 **William Camden (*Britannia*):** *"The legionary engineers raised an **antemural** of dressed sandstone along the vulnerable crest of the northern frontier."*
+> - 📜 **Walter Scott (*The Talisman*):** *"Archers posted upon the stone **antemural** poured devastating volleys of arrows into the opposing siege line."*

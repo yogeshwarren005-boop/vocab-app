@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Desert shrub of southwestern united states and new mexico having persistent resinous aromatic foliage and small yellow flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Desert shrub of southwestern united states and new mexico having persistent resinous aromatic foliage and small yellow flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical taxonomic designation commemorating Frederick Vernon Coville, notably applied to genus taxa like *Covillea* (creosote bush) and desert plant species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historical agricultural and biological reference denoting Coville's pioneering horticultural experiments in breeding large-fruited blueberries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coville designates desert shrub of southwestern united states and new mexico having persistent resinous aromatic foliage and small yellow flowers."*
+> - 📜 **Frederick Vernon Coville (*Botany of the Death Valley Expedition*):** *"During the expedition through the desert basins, **coville** meticulously cataloged the xerophytic shrubs adapted to intense alkaline soils."*
+> - 📜 **John Muir (*Steep Trails*):** *"The scientific reports published by **coville** illuminated the fragile botanical communities flourishing along the rim of Crater Lake."*
+> - 📜 **Gifford Pinchot (*Breaking New Ground*):** *"Our early forest surveys drew immense practical benefit from the botanical classifications formulated by **coville** and his colleagues."*

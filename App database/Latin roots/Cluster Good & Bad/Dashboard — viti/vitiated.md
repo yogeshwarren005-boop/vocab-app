@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make imperfect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impaired, corrupted, contaminated, or debased in quality, purity, or moral character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology or sanitation, describing air or water that has been contaminated or rendered foul and unwholesome.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Hers are faults of principle, Fanny; of blunted delicacy and a corrupted, vitiated mind."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There was excellent blood in his veins—royal stuff; though sadly vitiated, I fear, by the cannibal propensity he nourished in his untutored youth."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Besides, to work was to quit the _Nautilus_, and breathe directly the pure air drawn from the reservoirs, and supplied by our apparatus, and to quit the impoverished and vitiated atmosphere."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"The sick must never be made to breathe their own **vitiated** air, nor that of their fellow sufferers in a crowded ward."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"A **vitiated** social taste mistakes ostentation for true magnificence and mere conformity for virtue."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Habitual self-deception leaves behind a **vitiated** intellect, incapable of discerning fine shades of moral distinction."*

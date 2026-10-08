@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slanderous defamation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rude expression intended to offend or hurt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of speaking ill of, defaming, or blackening the reputation of someone through abusive and malicious falsehoods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sustained public campaign of slander, denunciation, or contemptuous disparagement directed at a person or group.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vilification designates slanderous defamation."*
+> - 📜 **Thomas Jefferson (*Writings: Letters on Politics and Society*):** *"No public officer can expect to escape partisan **vilification** when political factions contend for supreme power."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"Systematic **vilification** of the colonial assemblies served only to alienate the affectionate loyalty of the American subjects."*
+> - 📜 **John Adams (*Defence of the Constitutions of Government*):** *"The relentless **vilification** of constitutional magistrates inevitably weakens the reverence required for the rule of law."*

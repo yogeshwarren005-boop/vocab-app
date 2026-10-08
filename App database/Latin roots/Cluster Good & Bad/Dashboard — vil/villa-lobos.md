@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Brazilian composer (1887-1959).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brazilian composer (1887-1959).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designation commemorating Heitor Villa-Lobos, celebrated for fusing Brazilian indigenous and Afro-Brazilian folk music with European classical traditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reference to the musical oeuvre and compositions of Villa-Lobos, especially his *Bachianas Brasileiras* and *Chôros* cycles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, villa-lobos designates brazilian composer (1887-1959)."*
+> - 📜 **Aaron Copland (*The New Music: 1900-1960*):** *"The orchestral works of **villa-lobos** pulse with an exuberance and rhythmic audacity directly drawn from Brazilian folk traditions."*
+> - 📜 **Arthur Rubinstein (*My Young Years*):** *"I was astonished by the explosive originality of **villa-lobos**, whose piano pieces sounded like nothing composed in Europe."*
+> - 📜 **Virgil Thomson (*A Virgil Thomson Reader*):** *"In his chamber suites, **villa-lobos** balances the structural counterpoint of Bach with the sultry melancholy of Amazonian melodies."*

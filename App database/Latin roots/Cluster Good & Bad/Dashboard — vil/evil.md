@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Morally objectionable behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: That which causes harm or destruction or misfortune; - shakespeare.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Profoundly immoral, wicked, corrupt, or depraved; that which is destructive of moral integrity and social well-being.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing misfortune, suffering, adversity, or physical injury; harmful, pernicious, or disastrous in outcome.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O benefit of ill, now I find true That better is, by evil still made better."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To win me soon to hell my female evil Tempteth my better angel from my side, And would corrupt my saint to be a devil, Wooing his purity with her foul pride."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Farewell, monsieur; I have spoken better of you than you have or will to deserve at my hand; but we must do good against evil. [_Exit._] PAROLLES."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I was benevolent and good; misery made me a fiend; make me happy, and I shall again be virtuous, free from all **evil**."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Pierre understood that the struggle against **evil** in the world must begin with the purification of one's own inner life."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Farewell remorse: all good to me is lost; **evil** be thou my good; by thee at least divided empire with heaven's king I hold."*

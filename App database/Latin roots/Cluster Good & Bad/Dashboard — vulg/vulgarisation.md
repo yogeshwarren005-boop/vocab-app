@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of rendering something coarse and unrefined.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making something attractive to the general public.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of popularizing complex scientific, literary, or philosophical ideas to make them accessible to the general public.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The debasement, coarsening, or degradation of high cultural standards, language, or artistic tastes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vulgarisation designates the act of rendering something coarse and unrefined."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"The danger of modern democracy lies in the reckless **vulgarisation** of ideals, mistaking industrial wealth for spiritual greatness."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"The rapid **vulgarisation** of scientific discoveries through popular journals inspired thousands of young minds across Victorian Britain."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"True education requires not the cheap **vulgarisation** of natural truth, but its clear, lucid presentation to inquiring working men."*

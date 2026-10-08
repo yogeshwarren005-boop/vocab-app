@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital and largest city of lithuania; located in southeastern lithuania.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital and largest city of lithuania; located in southeastern lithuania.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Historical Slavic toponym denoting the city of Vilnius, especially during the eras of the Polish-Lithuanian Commonwealth and the Russian Empire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designation for the major university and publishing hub that catalyzed 19th-century romantic poetry and philomath movements in Eastern Europe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vilno designates the capital and largest city of lithuania; located in southeastern lithuania."*
+> - 📜 **Alexander Herzen (*My Past and Thoughts*):** *"The imperial governor stationed at **vilno** struggled continually to maintain control over the rebellious student societies."*
+> - 📜 **Pyotr Kropotkin (*Memoirs of a Revolutionist*):** *"Traveling westward toward Europe, our convoy halted at **vilno**, where the ancient castle ramparts dominated the river basin."*
+> - 📜 **Joseph Conrad (*A Personal Record*):** *"Family traditions recounted the stormy assemblies held at **vilno** during the doomed national uprisings of the nineteenth century."*

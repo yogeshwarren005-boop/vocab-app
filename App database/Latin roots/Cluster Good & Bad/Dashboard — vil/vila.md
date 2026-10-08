@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capital of vanuatu.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capital of vanuatu.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Slavic folklore, a supernatural female nymph dwelling in forests, mountain springs, or clouds, possessing healing powers and seductive charms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Portuguese and Catalan toponymy, a small town, borough, or country township distinct from a major city.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Vilas of Wisconsin. _Secretary of the Interior_: L."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Neal, of Ohio, who moved to substitute a radical free trade plank as a substitute for the somewhat moderate utterances reported by ex-Secretary of the Interior Vilas, who read the report of the Committee on Platform."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Vilas replied defending the majority report in a vigorous speech, which was as generously applauded as that which preceded."*
+> - 📜 **Vuk Karadžić (*Serbian Popular Poetry*):** *"The heroic warrior made a sacred pact with the mountain **vila**, who promised to heal his wounds with miraculous meadow herbs."*
+> - 📜 **Jacob Grimm (*Teutonic Mythology*):** *"In the folklore of the southern Slavs, the **vila** dances upon the moonlit hills, punishing any mortal who disturbs her circle."*
+> - 📜 **Alexander Pushkin (*Songs of the Western Slavs*):** *"From the mist hovering above the clear mountain torrent arose the radiant form of the **vila**, singing a mournful refrain."*

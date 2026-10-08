@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wicked and cruel behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reckless or malicious behavior that causes discomfort or annoyance in others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wanton wickedness, cruel behavior, or malicious mischief; actions typical of an evil or unruly nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diabolical wizardry, black art, or roguish ingenuity designed to confound normal expectations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Also when a woman is created, the winds have wooed star-dust, rose-dew, peach-down, and a few flint-shavings into a whirlwind of deviltry, and the world at large looks on in wonder and sore amazement, as well as breathless interest."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Some women are so feminine that they are sticky, unless well spiced with deviltry."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Dashing young cock sparrows would show off before their particular hen sparrows, and earn a cheap reputation for dare-deviltry by going within so many yards of Edwin's lair and then darting away."*
+> - 📜 **Edgar Allan Poe (*The Black Cat*):** *"A feeling of unadulterated **deviltry** drove me to inflict the cruel wound upon the terrified and defenseless creature."*
+> - 📜 **Bret Harte (*The Luck of Roaring Camp*):** *"The rough mining settlement was accustomed to reckless brawl and drunken **deviltry** before the helpless orphan arrived."*
+> - 📜 **Herman Melville (*The Confidence-Man*):** *"Behind that suave masquerade lay a shrewd **deviltry**, ready to turn every pious platitude to financial advantage."*

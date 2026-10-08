@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Morally reprehensible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing or able to cause nausea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Morally despicable, base, depraved, or contemptible; exciting disgust, revulsion, or deep condemnation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely unpleasant, offensive, foul, or wretched; of poor quality, mean, or insignificant value.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Were I his lady I would poison that vile rascal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In respect that it is solitary, I like it very well; but in respect that it is private, it is a very vile life."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A most wicked Sir Oliver, Audrey, a most vile Martext."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Wisdom and goodness to the **vile** seem **vile**; filths savour but themselves."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"When I considered the **vile** manners and corrupt passions of the Yahoos, I felt an intense abhorrence of my own species."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"He denounced the **vile** conspiracy that had robbed the widow of her modest savings and ruined her family."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a vile manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a vile manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a despicable, dishonorable, base, or contemptible manner; with moral baseness or deceit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an offensive, wretched, clumsy, or egregiously inferior manner; abominably.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On safeguard he came to me, and did curse Against the Volsces, for they had so vilely Yielded the town."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bardolph, am I not fallen away vilely since this last action?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, my lord, he speaks most vilely of you, like a foul-mouthed man as he is, and said he would cudgel you."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"Shall I corrupt the faith of nations, and **vilely** betray the secret of God to heathen oppressors?"*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"Some praise at morning what they blame at night, but always think the last opinion right, and **vilely** flatter every rising name."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"He had **vilely** abused the laws of hospitality, turning weapon and deceit against the knight who had saved his life."*

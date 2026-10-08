@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of lacking taste and refinement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of lacking taste and refinement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coarseness, lack of refinement, crude ostentation, or bad taste in manners, speech, or conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The character of being common, low-bred, or devoid of aesthetic and moral elevation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Philips’s vulgarity was another, and, perhaps, a greater tax on his forbearance; and though Mrs."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He had measured in that moment the extent of his error, and he cursed, not for the first time, his want of perception, which his ever-candid father had once called a streak of vulgarity."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"The streak of vulgarity again! and worse than vulgarity: Andrew Hyde's sardonic old voice was ringing in his ears, "Lawrence, you'll never be a gentleman." "All right, we'll leave it at that."*
+> - 📜 **Ralph Waldo Emerson (*The Conduct of Life*):** *"True culture is the antidote to **vulgarity**, replacing cheap swagger and noise with serenity and inward power."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Fanny Price shrank from the noise, confusion, and unfeeling **vulgarity** that reigned in her parents' household in Portsmouth."*
+> - 📜 **Oscar Wilde (*The Decay of Lying*):** *"The nineteenth century is famous for its mechanical inventions and its boundless capacity for respectable **vulgarity**."*

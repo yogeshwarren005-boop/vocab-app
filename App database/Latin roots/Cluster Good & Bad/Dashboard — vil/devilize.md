@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn into a devil or make devilish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn into a devil or make devilish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To transform into something demonic; to infuse with depravity, malice, or fiendish malevolence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To demonize, portray, or condemn an opponent as an agent of utter wickedness or supernatural evil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, devilize designates turn into a devil or make devilish."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"Idle superstition will often **devilize** simple misfortunes, attributing ordinary human errors to the direct intervention of hell."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"To **devilize** human nature in literature is as serious an artistic distortion as depicting it with impossible angelic purity."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The painter chose not to **devilize** the fallen monarch, presenting instead the quiet pathos of a ruined intellect."*

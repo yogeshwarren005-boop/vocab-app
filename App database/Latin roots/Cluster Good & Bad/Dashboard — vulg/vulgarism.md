@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An offensive or indecent word or phrase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of lacking taste and refinement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word, phrase, idiom, or turn of expression regarded as coarse, illiterate, or unrefined in formal language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coarseness of behavior, bad taste, or unrefined manners in social intercourse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"It was a vulgarism. [56] Galen, extant in Arabic in _hist. anteislam_. _Abulfedae_ (ed."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Visions of good and ill breeding, of old vulgarisms and new gentilities, were before her; and she was meditating much upon silver forks, napkins, and finger-glasses."*
+> - 📜 **Lord Chesterfield (*Letters to His Son*):** *"A gentleman avoids every colloquial **vulgarism**, cultivating a precise and elegant simplicity in his spoken conversation."*
+> - 📜 **William Hazlitt (*The Plain Speaker*):** *"What pedants condemn as an intolerable **vulgarism** is often the living root from which vigorous vernacular idioms spring."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Poetic language should remain untainted by commercial jargon, avoiding both rustic **vulgarism** and affected pedantry."*

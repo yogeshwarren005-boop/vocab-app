@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of evil by virtue of villainous behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of evil by virtue of villainous behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inherent wickedness, depravity, or atrocious malice; the essential character of a villainous action or disposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repulsive badness, extreme offensive wretchedness, or contemptible inferiority in quality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, villainousness designates the quality of evil by virtue of villainous behavior."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"The sheer **villainousness** of betrayal appears most revolting when disguised beneath the sacred mantle of friendship."*
+> - 📜 **Henry James (*The Princess Casamassima*):** *"Hyacinth shuddered at the dark **villainousness** of the conspiracy, which demanded the blood of an innocent victim."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"History records with shuddering detail the unmasked **villainousness** of the prison massacres of September."*

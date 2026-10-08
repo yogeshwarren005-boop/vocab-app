@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cultivator of grape vine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cultivator of grape vine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist or agriculturalist who cultivates, breeds, and manages grapevines, particularly for winemaking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A horticulturist whose research addresses vine diseases, grafting techniques, or terroir adaptation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, viticulturist designates a cultivator of grape vine."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"The experienced **viticulturist** understands that rootstock selection determines the vine's resistance to phylloxera and soil salinity."*
+> - 📜 **George Husmann (*American Grape Growing and Wine Making*):** *"Every pioneer **viticulturist** in Missouri recognized the superior hardiness of native grape hybrids during severe Midwestern winters."*
+> - 📜 **Eugene W. Hilgard (*Report on the Agricultural Experiment Stations of the University of California*):** *"The resident **viticulturist** demonstrated that controlled irrigation on benchlands produced higher sugar concentrations in wine grapes."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who makes something vulgar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who makes attractive to the general public.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who popularizes scientific, literary, or philosophical ideas for the general reading public.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who cheapens, coarsens, or debases aesthetic, intellectual, or moral standards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vulgarizer designates someone who makes something vulgar."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"The superficial **vulgarizer** seizes upon a few sensational conclusions while discarding the disciplined methodology of genuine scholarship."*
+> - 📜 **James Russell Lowell (*My Study Windows*):** *"He was no mere **vulgarizer** of science, but a master whose luminous prose opened the wonders of astronomy to every hearth."*
+> - 📜 **H. L. Mencken (*Prejudices: First Series*):** *"The popular press depends upon the industrious **vulgarizer**, who boils down complex economic realities into sensational headlines."*

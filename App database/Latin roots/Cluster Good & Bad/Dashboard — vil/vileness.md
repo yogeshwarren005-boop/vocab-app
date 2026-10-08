@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being wicked.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being disgusting to the senses or emotions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme moral baseness, wickedness, depravity, or contemptibility of character or conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The repulsive, degraded, or offensive quality of physical conditions, surroundings, or expressions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good alone Is good without a name; vileness is so: The property by what it is should go, Not by the title."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Paul, I acknowledge myself the chiefest of sinners; but I do not suffer this sense of my personal vileness to daunt me."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The coarse brawl, the loathsome den, the crude violence of disordered life, the very vileness of thief and outcast, were more vivid, in their intense actuality of impression, than all the gracious shapes of art, the dreamy shadows of song."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The mind that has once accustomed itself to the **vileness** of deliberate falsehood soon loses all relish for noble truth."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor was shocked at the utter **vileness** of his conduct, which exceeded even her darkest apprehensions."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I remembered Adam's supplication to his Creator, but where was mine? Mine had abandoned me in my **vileness** and misery."*

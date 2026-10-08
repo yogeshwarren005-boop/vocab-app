@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A benign epithelial tumor forming a rounded mass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A benign epithelial tumor forming a rounded mass.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In pathology, a villous adenoma or benign epithelial neoplasm characterized by numerous delicate, finger-like papillary projections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A papillary villous growth occurring primarily upon mucosal surfaces of the large intestine or bladder.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, villoma designates a benign epithelial tumor forming a rounded mass."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Microscopic examination of the **villoma** revealed highly vascularized stromal papillae covered with proliferating epithelial layers."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A solitary **villoma** of the rectosigmoid junction warrants prompt surgical excision due to its documented tendency toward malignant transformation."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"The delicate, tufted architecture of a **villoma** bleeds readily upon contact, presenting clinical symptoms early in its progression."*

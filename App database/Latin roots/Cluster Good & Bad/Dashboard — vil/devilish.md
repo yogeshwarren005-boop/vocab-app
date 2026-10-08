@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing the cunning or ingenuity or wickedness typical of a devil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Playful in an appealingly bold way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling, characteristic of, or appropriate to a devil; diabolically wicked, cruel, or fiendish in intent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessively clever, cunning, difficult, or extreme in degree; intensely annoying or perplexing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Having thus far proceeded (Unless thou think’st me devilish) is’t not meet That I did amplify my judgement in Other conclusions?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The offer likes not; and the nimble gunner With linstock now the devilish cannon touches, [_Alarum, and chambers go off._] And down goes all before them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By devilish policy art thou grown great And, like ambitious Sylla, overgorged With gobbets of thy mother’s bleeding heart."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Old Roger Chillingworth displayed a **devilish** curiosity, probing mercilessly into the darkest corners of the minister's heart."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"A savage and almost **devilish** laugh echoed through the third story of Thornfield Hall during the dead of night."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The complexity of the legal suit exhibited a **devilish** persistence that consumed whole generations in endless litigation."*

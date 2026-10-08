@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belittle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belittle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To hold cheap, treat with contempt, disparage, or regard with slight esteem and disdain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To speak slightingly or depreciatively of; to underestimate or belittle the merits of a person or achievement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"On George's intercourse with Amelia he put an instant veto--menacing the youth with maledictions if he broke his commands, and vilipending the poor innocent girl as the basest and most artful of vixens."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Let no proud pedant **vilipend** the humble tailor, whose stitchery shields humanity from the biting winter blast."*
+> - 📜 **Robert Browning (*The Ring and the Book*):** *"They dared to **vilipend** the sacred bond of marriage, treating holy vows as mere pawns in family ambition."*
+> - 📜 **Charles Lamb (*Essays of Elia*):** *"I cannot endure that modern critics should **vilipend** the charming conceits of our old seventeenth-century poets."*

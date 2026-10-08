@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wicked and cruel behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reckless or malicious behavior that causes discomfort or annoyance in others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Diabolical magic, witchcraft, or sorcery; supernatural machinations associated with evil spirits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wicked, cruel, or recklessly mischievous conduct; reckless daring and wanton defiance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Moreover, by chance or by devilry, the ministrant was antecedently made interesting by being a handsome stranger who had evidently seen better days."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Jack Bendish as a plain little devil, but as a rule the devilry was more conspicuous than the plainness."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"You and I are wreckage of war, Val: cursed, senseless devilry of war.-- Go and play a tune, I'm sick of talking." Val was not any less sick of listening."*
+> - 📜 **Bram Stoker (*Dracula*):** *"There is some grim and terrible **devilry** at work in this castle, and I am a helpless prisoner in its clutches."*
+> - 📜 **Walter Scott (*Waverley*):** *"The Highlanders whispered stories of ancient **devilry**, believing the deep cavern was haunted by vengeful mountain sprites."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"In that bewildering twilight of tropical storm and human panic, pure **devilry** seemed to govern the abandon of the ship."*

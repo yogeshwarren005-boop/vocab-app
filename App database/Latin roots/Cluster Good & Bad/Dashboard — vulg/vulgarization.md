@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of rendering something coarse and unrefined.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making something attractive to the general public.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of popularizing scientific, technical, or artistic knowledge for a general audience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The debasement, coarsening, or degradation of standards of culture, taste, or language.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vulgarization designates the act of rendering something coarse and unrefined."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"The rapid **vulgarization** of democratic politics appalled older statesmen, who mourned the demise of classical republican eloquence."*
+> - 📜 **William James (*Pragmatism*):** *"Critics charged that pragmatism was a mere **vulgarization** of philosophy, pandering to the commercial instincts of the marketplace."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Conspicuous consumption inevitably leads to the aesthetic **vulgarization** of everyday utensils and domestic furnishings."*

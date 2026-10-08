@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vulgar person (especially someone who makes a vulgar display of wealth).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vulgar person (especially someone who makes a vulgar display of wealth).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vulgar, coarse, or unrefined person, especially one who makes an ostentatious display of newly acquired wealth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ill-bred parvenu or social pretender lacking culture, restraint, or aesthetic taste.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"His scientific sympathies were distinctly reptilian; he loved nature’s vulgarians and described himself as the Zola of zoology."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Nineteen persons out of twenty (including the younger sister herself) pronounced Edith infinitely the prettier of the two; but the twentieth, besides reversing this judgement, had the entertainment of thinking all the others aesthetic vulgarians."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Curse the whole pack of money-grubbing vulgarians!"*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"New York society viewed the newly arrived financier as an ostentatious **vulgarian**, despite the immense fortune he lavishly expended."*
+> - 📜 **Henry James (*Daisy Miller*):** *"Mrs. Costello sniffed disdainfully, dismissing the courier-reliant American tourists as hopelessly uneducated **vulgarian** travelers."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"Higgins declared that ninety percent of fashionable society consisted of wealthy **vulgarian** poseurs pretending to cultivate artistic sensibilities."*

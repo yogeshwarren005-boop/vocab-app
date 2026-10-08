@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy block of iron or steel on which hot metals are shaped by hammering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ossicle between the malleus and the stapes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy iron block with a smooth flat steel top upon which heated metals are hammered, shaped, and welded by smiths.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate anatomy, the incus, a tiny anvil-shaped bone in the middle ear that transmits acoustic vibrations from the malleus to the stapes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here I clip The anvil of my sword and do contest As hotly and as nobly with thy love As ever in ambitious strength I did Contend against thy valour."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The weather was still favourable, the ground ringing under her feet like an anvil."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In Gacko, contrary to the usual custom, the fire is made by striking a piece of iron on an anvil, till sparks are given out, which are caught in tinder."*
+> - 📜 **Henry Wadsworth Longfellow (*The Village Blacksmith*):** *"Thus at the flaming forge of life our fortunes must be wrought, thus on its sounding **anvil** shaped each burning deed and thought."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Towards evening, when the forge was lighted, Perth set about beating the hot shank upon his ringing **anvil**."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe hammered at the glowing bar upon the **anvil**, sparks cascading over his leather apron in brilliant showers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or having vitiligo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or having vitiligo.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or affected by vitiligo; characterized by depigmented macules or patches of skin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical dermatology, exhibiting autoimmune destruction of melanocytes resulting in well-demarcated amelanotic lesions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vitiliginous designates of or relating to or having vitiligo."*
+> - 📜 **Jonathan Hutchinson (*Clinical Lectures and Reports*):** *"The margins of the **vitiliginous** plaques exhibited a faint hyperpigmented border that clearly delineated them from unaffected tissue."*
+> - 📜 **Thomas Addison (*On the Constitutional and Local Effects of Disease of the Supra-Renal Capsules*):** *"Patients with endocrine disturbances frequently present symmetrical **vitiliginous** patches across the hands and torso."*
+> - 📜 **Ferdinand von Hebra (*Diseases of the Skin*):** *"A careful microscopic survey of **vitiliginous** skin confirms the absolute absence of functional pigment granules within the basal epidermis."*

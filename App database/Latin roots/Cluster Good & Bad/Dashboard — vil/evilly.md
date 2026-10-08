@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a wicked evil manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a wicked evil manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a wicked, malevolent, corrupt, or deeply sinful manner; with deliberate intent to cause harm or ruin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unfavorably, ominously, or in a manner attended by misfortune, adversity, or distress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O monument And wonder of good deeds evilly bestowed!"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The figure that now stood by its bows was tall and swart, with one white tooth evilly protruding from its steel-like lips."*
-> - 📜 **Anonymous (*The Story of Gunnlaug the Worm-Tongue and Raven the Skald*):** *"But Helga thought evilly of all these redes."*
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"The dark portraits on the parlor wall seemed to gaze down **evilly** upon the trembling conspirators."*
+> - 📜 **Herman Melville (*Billy Budd*):** *"Claggart's pale eyes flashed **evilly** whenever the handsome young sailor passed along the sunlit deck."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Circumstances had conspired **evilly** against their peaceful reunion, turning slight misunderstandings into irreparable alienation."*

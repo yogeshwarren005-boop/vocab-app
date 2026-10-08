@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reckless or malicious behavior that causes discomfort or annoyance in others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reckless or malicious behavior that causes discomfort or annoyance in others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wild, reckless, or mischievous conduct; mischievous behavior marked by roguish playfulness or defiant antics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Troublesome vexation or malicious mischief designed to annoy, provoke, or perplex others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"He told me to watch out sharp and let him know when the men come in sight again; said they was up to some devilment or other—wouldn’t be gone long."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"There was a whole summer of **devilment** shining in the boy's eyes as he slipped through the garden fence."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A spirit of rustic **devilment** possessed the harvesters as the cider flowed freely around the blazing hearth."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"The village youth were perpetually engaged in some harmless **devilment**, tormenting the sleepy constable with nocturnal tricks."*

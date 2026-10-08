@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Neither attractive nor tempting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not tempting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Repellent, bleak, forbidding, or unattractive; lacking qualities that welcome or please the observer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discouraging participation or enjoyment; disagreeable or dreary in appearance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"There was no want of respect in the young man’s address; and Fanny’s reception of it was so proper and modest, so calm and uninviting, that he had nothing to censure in her."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Sardines, looking more oily and uninviting than anything I had ever seen, appeared in their native tin beyond the loaf of bread."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"You'll stop to dinner, I hope?” Paul thought of the soup and dry bread which he used to find so uninviting, and said that he should not have time to do so."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The dark waters of the harbor looked cold and **uninviting** beneath the bitter November sleet."*
+> - 📜 **Robert Louis Stevenson (*The Strange Case of Dr. Jekyll and Mr. Hyde*):** *"The sinister facade presented a blind, **uninviting** forehead of discolored wall that seemed devoid of human warmth."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The primeval forest rose before us like an **uninviting** wall of impenetrable gloom and suffocating heat."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman villain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman villain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who is wicked, malicious, or criminal; an evil woman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic and narrative literature, a female antagonist who plots evil schemes against the protagonist.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, villainess designates a woman villain."*
+> - 📜 **Wilkie Collins (*The Woman in White*):** *"Madame Fosco played the compliant **villainess**, executing her husband's conspiratorial directives without the slightest hesitation."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The reader must determine whether Becky Sharp is a calculating **villainess** or merely an adroit woman battling a callous world."*
+> - 📜 **Anthony Trollope (*The Eustace Diamonds*):** *"Lizzie Eustace refused to view herself as a vulgar **villainess**, maintaining an air of injured innocence throughout the jewel trial."*

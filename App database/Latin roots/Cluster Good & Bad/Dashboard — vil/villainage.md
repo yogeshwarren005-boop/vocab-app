@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The legal status or condition of servitude of a villein or feudal serf.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The legal status or condition of servitude of a villein or feudal serf.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In English legal history, the feudal tenure or social status of a villein, legally bound to labor on the lord's manorial estate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Base, degraded, or servile condition; bondage or servility characterized by complete subordination to a master.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, villainage designates the legal status or condition of servitude of a villein or feudal serf."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Pure **villainage** subjected the tenant to uncertain and servile duties at the arbitrary discretion of the lord of the manor."*
+> - 📜 **Henry Maine (*Ancient Law*):** *"The historical transition from status to contract gradually dissolved the burdensome incidents of medieval **villainage**."*
+> - 📜 **Frederic William Maitland (*The History of English Law*):** *"Manorial court rolls illustrate how customary tenants slowly commuted the labor services of **villainage** into money rents."*

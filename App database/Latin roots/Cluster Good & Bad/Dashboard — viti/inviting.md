@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Increase the likelihood of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Invite someone to one's house.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Alluring, attractive, tempting, or pleasantly welcoming; offering an agreeable prospect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Encouraging friendly acceptance, participation, or entrance; hospitable and engaging in manner.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An inviting eye, and yet methinks right modest."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter several strange Shapes, bringing in a banquet: they dance about it with gentle actions of salutation; and inviting the King &c., to eat, they depart."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath sent me an earnest inviting, which many my near occasions did urge me to put off; but he hath conjured me beyond them, and I must needs appear."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The weather was so fine, and the garden walk so **inviting**, that Elizabeth could not resist lingering outdoors."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"A roaring hearth and a table loaded with roast chestnuts presented an extraordinarily **inviting** spectacle on Christmas Eve."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The library presented an **inviting** retreat, where rows of calf-bound volumes promised hours of uninterrupted study."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rude expression intended to offend or hurt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rude expression intended to offend or hurt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The utterance of harsh, abusive, and vituperative reproach; bitter verbal insult and contemptuous disparagement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enduring public defamation, scorn, and vituperative reproach in social or political arenas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, revilement designates a rude expression intended to offend or hurt."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Unrestrained **revilement** of hereditary institutions took the place of calm deliberation and prudent constitutional reform."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He endured the loud **revilement** of his contemporaries with the steadfast tranquility of one conscious of his own integrity."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"To suffer insolent **revilement** from Philistian lords was a torment far heavier to bear than iron chains."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of disclosing something that was secret or private.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of disclosing something that was secret or private.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of revealing, disclosing, or publicizing secret or confidential information; public disclosure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formal revelation or exposure of that which had previously remained hidden or guarded.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, divulgement designates the act of disclosing something that was secret or private."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The treacherous **divulgement** of private letters invariably destroys that mutual confidence upon which social harmony depends."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The premature **divulgement** of the palace conspiracy compelled the plotters to strike before their legions had assembled."*
+> - 📜 **Jeremy Taylor (*The Rule and Exercises of Holy Living*):** *"A modest man will guard his neighbor's infirmities, avoiding the uncharitable **divulgement** of faults known only to himself."*

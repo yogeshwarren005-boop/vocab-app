@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (judeo-christian and islamic religions) chief spirit of evil and adversary of god; tempter of mankind; master of hell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An evil supernatural being.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Judeo-Christian theology, the supreme spirit of evil, personified as Satan; an adversary who tempts humanity toward sin and ruin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person noted for exceptional malice, ferocity, or reckless daring; colloquially, a printer's apprentice or junior culinary concoction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To win me soon to hell my female evil Tempteth my better angel from my side, And would corrupt my saint to be a devil, Wooing his purity with her foul pride."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My poor body, madam, requires it; I am driven on by the flesh, and he must needs go that the devil drives."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be more expressive to them; for they wear themselves in the cap of the time; there do muster true gait; eat, speak, and move, under the influence of the most receiv’d star; and though the devil lead the measure, such are to be followed."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Abashed the **devil** stood, and felt how awful goodness is, and saw virtue in her shape how lovely."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"The **devil** can cite Scripture for his purpose; an evil soul producing holy witness is like a villain with a smiling cheek."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"You believe yourself innocent, cried the daemon, yet you treat me as a wretched **devil** deserving only boundless hatred."*

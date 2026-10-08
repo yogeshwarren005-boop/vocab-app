@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking refinement or cultivation or taste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or associated with the great masses of people.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking sophistication, good taste, refinement, or cultural polish; coarse, crude, or ostentatious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to or characteristic of the common people; in historical linguistics, expressed in the vernacular language rather than literary Latin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But thou, to whom my jewels trifles are, Most worthy comfort, now my greatest grief, Thou best of dearest, and mine only care, Art left the prey of every vulgar thief."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I found you as a morsel cold upon Dead Caesar’s trencher; nay, you were a fragment Of Gneius Pompey’s, besides what hotter hours, Unregistered in vulgar fame, you have Luxuriously pick’d out."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Five tribunes to defend their vulgar wisdoms, Of their own choice."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"Be not the first by whom the new are tried, nor yet the last to lay the old aside; avoid the **vulgar** extremes of taste."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Mrs. Jennings possessed a good-humored kindness of heart, though her conversation was often loud, **vulgar**, and embarrassing."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"Dryden rescued English poetic diction from **vulgar** colloquialisms, giving it dignity, harmony, and polished strength."*

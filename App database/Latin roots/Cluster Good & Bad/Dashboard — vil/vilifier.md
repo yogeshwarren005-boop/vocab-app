@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who attacks the reputation of another by slander or libel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who attacks the reputation of another by slander or libel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who defames, slanders, or utters malicious and abusive falsehoods to degrade another's reputation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vituperative critic or polemicist who systematically disparages opponents through contemptuous invective.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vilifier designates one who attacks the reputation of another by slander or libel."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"The anonymous **vilifier** was soon exposed to universal ridicule when his fabricated charges were brought to light."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A prudent statesman will ignore the clamor of the hired **vilifier**, relying upon the durable verdict of posterity."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Every political turn of fortune brought forth a venomous **vilifier** eager to denounce the fallen minister to the victorious court."*

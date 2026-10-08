@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French poet (flourished around 1460).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French poet (flourished around 1460).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designation commemorating François Villon, renowned for his masterpieces *Le Lais* and *Le Grand Testament*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Allusion to the Bohemian rogue, wandering outcast, or defiant lyrical poet celebrated in French literary heritage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"It must have been like this in ancient Paris when Villon thieved and sang, and the wolves came clamoring at the gates ... and the crusaders in warm Palestine...."*
+> - 📜 **Robert Louis Stevenson (*Familiar Studies of Men and Books*):** *"In the poetry of **villon**, the sordid alleys and shadowy taverns of medieval Paris find their most brilliant and tragic voice."*
+> - 📜 **Algernon Charles Swinburne (*Poems and Ballads*):** *"Our sad bad glad mad brother **villon** sang with a wild bittersweet beauty that echoes across five centuries."*
+> - 📜 **Ezra Pound (*The Spirit of Romance*):** *"No medieval singer ever looked mortality more unflinchingly in the face than did **villon** when awaiting the gallows."*

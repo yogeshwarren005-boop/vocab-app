@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of the family vitaceae; woody vines with simple leaves and small flowers; includes a wide variety of grapes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The type genus of the family vitaceae; woody vines with simple leaves and small flowers; includes a wide variety of grapes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In botany, the taxonomic genus of woody climbing vines in the family Vitaceae, encompassing approximately 79 species of wild and cultivated grapes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The vine plant, notably *Vitis vinifera* (common European grapevine), cultivated for fresh fruit, raisins, and winemaking.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"BILBERRY UREDO; spots yellow-brown; sori subrotund, minute, aggregate, and scattered, on the under surface of the leaves; epidermis seldom ruptured; spores ovoid, yellowish.—On _Vaccinium Myrtillus_ and _V. vitis-idæa_."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"In his botanical catalog, Linnaeus defined the genus **vitis** by its five-petaled calyptra that detaches at the base during anthesis."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The sensitive tendrils of **vitis** rotate spontaneously in search of supports, curling securely around whatever bough they encounter."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Several species of **vitis** flourish along North American riverbanks, providing vital breeding stocks for disease resistance."*

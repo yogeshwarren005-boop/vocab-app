@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mexican revolutionary leader (1877-1923).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Detached or semidetached suburban house.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spacious country residence, large rural estate, or luxurious suburban retreat, typically situated in picturesque grounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Rome, an agricultural estate comprising the luxurious residential quarters (*villa urbana*) and farming quarters (*villa rustica*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"They had taken a little villa in Sils on the mountain, which they had seen advertised for the summer months."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The Herons, though an ordinary villa, stood in its own grounds, and was certainly the last place in which one would have expected to find lodgings, so private was its appearance."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A man she knew, one of the workmen employed at an adjoining villa, was passing by, and she begged him to come in and go upstairs with her; she feared something had happened to one of her lodgers."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"From the terrace of the hilltop **villa**, one looked down across the sunlit valley of Florence and its olive groves."*
+> - 📜 **E. M. Forster (*Where Angels Fear to Tread*):** *"The secluded **villa** stood white against the dark cypress trees that lined the winding road to the Tuscan town."*
+> - 📜 **Edith Wharton (*Italian Villas and Their Gardens*):** *"The true charm of the Renaissance **villa** lies in its exquisite harmony with the surrounding landscape and watercourses."*

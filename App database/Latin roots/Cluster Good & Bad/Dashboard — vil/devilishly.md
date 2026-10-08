@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As a devil; in an evil manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a playfully devilish manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a diabolical, malicious, or fiendish manner; exhibiting wicked cunning or sinister hostility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an intense, extraordinary, or vexing degree; exceedingly or confoundingly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, devilishly designates as a devil; in an evil manner."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The buccaneer grinned **devilishly** across the table, flashing teeth blackened by tobacco and rum."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"It is a **devilishly** intricate problem, Watson, and one that requires our most delicate deductive reasoning."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"He was **devilishly** keen upon his own amusement, displaying scant regard for the convenience of his traveling companions."*

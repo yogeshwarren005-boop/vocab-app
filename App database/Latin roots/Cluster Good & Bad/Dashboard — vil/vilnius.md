@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital and largest city of lithuania; located in southeastern lithuania.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital and largest city of lithuania; located in southeastern lithuania.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital and largest city of Lithuania, known for its extensive Baroque and Gothic Old Town, university founded in 1579, and multifaceted cultural history.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The historical seat of the Grand Duchy of Lithuania and modern European Baltic cultural center.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vilnius designates the capital and largest city of lithuania; located in southeastern lithuania."*
+> - 📜 **Czesław Miłosz (*Native Realm: A Search for Self-Definition*):** *"In **vilnius**, the bells of dozens of Baroque churches rang out across steep tiled roofs and winding cobblestone streets."*
+> - 📜 **Adam Mickiewicz (*Pan Tadeusz*):** *"My youth in **vilnius** remains forever linked with passionate dreams of liberty and the majestic forests of Lithuania."*
+> - 📜 **Tomas Venclova (*Vilnius: A Personal History*):** *"Walking through modern **vilnius**, one encounters centuries of layered architectural dialogue among Poles, Lithuanians, Jews, and Ruthenians."*

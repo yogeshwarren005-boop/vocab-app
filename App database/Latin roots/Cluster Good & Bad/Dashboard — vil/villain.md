@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wicked or evil person; someone who does evil deliberately.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The principal bad character in a film or work of fiction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wicked or malicious person actively devoted to crime, deceit, or moral depravity; a scoundrel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature, drama, and narrative fiction, the principal evil character or antagonist whose actions oppose the hero.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath out-villain’d villainy so far that the rarity redeems him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou say so, villain, Thou kill’st thy mistress."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What say you? [_Strikes him again._] Hence, horrible villain, or I’ll spurn thine eyes Like balls before me!"*
+> - 📜 **William Shakespeare (*Hamlet*):** *"O **villain**, **villain**, smiling, damned **villain**! My tables—meet it is I set it down, that one may smile, and smile, and be a **villain**."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"Bill Sikes stood revealed as an unfeeling **villain**, whose brutal instincts acknowledged neither mercy nor repentance."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"Long John Silver was a thorough **villain**, yet his calm daring and smooth tongue commanded obedience among the pirate crew."*

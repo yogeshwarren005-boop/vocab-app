@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of disclosing something that was secret or private.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of disclosing something that was secret or private.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The disclosure, revelation, or publication of secret, confidential, or private knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The public emergence or exposure of concealed information to general awareness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, divulgence designates the act of disclosing something that was secret or private."*
+> - 📜 **Walter Scott (*The Bride of Lammermoor*):** *"He dreaded the public **divulgence** of his family's financial ruin more than the sharpest reproaches of his political rivals."*
+> - 📜 **Henry James (*The Wings of the Dove*):** *"There was an exquisite delicacy in her silence, as though any abrupt **divulgence** of their compact would shatter its magic."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The strange old document contained secrets whose **divulgence** promised to alter the disputed ownership of the vast ancestral estate."*

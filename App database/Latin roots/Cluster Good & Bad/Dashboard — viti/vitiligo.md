@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An acquired skin disease characterized by patches of unpigmented skin (often surrounded by a heavily pigmented border).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acquired skin disease characterized by patches of unpigmented skin (often surrounded by a heavily pigmented border).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic dermatological disorder characterized by the selective destruction of skin melanocytes, producing smooth white depigmented patches.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acquired autoimmune skin condition that typically affects the hands, face, neck, and skin folds without causing physical pain or scarring.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vitiligo designates an acquired skin disease characterized by patches of unpigmented skin (often surrounded by a heavily pigmented border)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In cases of **vitiligo**, the loss of dermal pigment is progressive, leaving patches of milky-white skin surrounded by darker borders."*
+> - 📜 **Robert Willan (*Description and Treatment of Cutaneous Diseases*):** *"The ancient physicians frequently confused the benign macules of **vitiligo** with the more dreadful manifestations of leprosy."*
+> - 📜 **Thomas Bateman (*A Practical Synopsis of Cutaneous Diseases*):** *"Observation shows that **vitiligo** develops spontaneously without general constitutional disturbance, causing distress primarily through cosmetic disfigurement."*

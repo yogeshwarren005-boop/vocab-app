@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being morally wrong in principle or practice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being morally wrong in principle or practice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inherent viciousness, moral depravity, or malignity of character; the essential nature of that which is evil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The destructive or harmful tendency of actions, institutions, or circumstances that generate suffering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, evilness designates the quality of being morally wrong in principle or practice."*
+> - 📜 **Jonathan Edwards (*Freedom of the Will*):** *"The heinous **evilness** of sin consists in its direct opposition to the infinite holiness and benevolence of the Creator."*
+> - 📜 **George Eliot (*Romola*):** *"She recoiled from the cold **evilness** that revealed itself beneath her husband's polished and ambitious exterior."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"We judge of the moral goodness or **evilness** of actions solely by their conformity to an established law."*

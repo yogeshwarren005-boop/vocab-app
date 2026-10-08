@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely wicked.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely wicked.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of a villain; wicked, depraved, atrocious, or thoroughly despicable in motive or conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely bad, unpleasant, foul, or wretched; offensive to the senses or intellect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll tell thee, Charles, it is the stubbornest young fellow of France, full of ambition, an envious emulator of every man’s good parts, a secret and villainous contriver against me his natural brother."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For I assure thee (and almost with tears I speak it) there is not one so young and so villainous this day living."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well may you, sir, Remember me at court, where I was taught Of your chaste daughter the wide difference ’Twixt amorous and villainous."*
+> - 📜 **Walter Scott (*Kenilworth*):** *"Varney pursued his **villainous** scheme with ruthless patience, sacrificing every honorable scruple to his patron's ambition."*
+> - 📜 **Herman Melville (*Typee*):** *"The tobacco we were compelled to smoke possessed a **villainous** flavor that defied all culinary endurance."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"A more **villainous** countenance than that of the river scoundrel I have rarely encountered in my criminal investigations."*

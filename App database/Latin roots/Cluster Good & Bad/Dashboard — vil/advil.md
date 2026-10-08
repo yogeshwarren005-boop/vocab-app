@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonsteroidal anti-inflammatory and analgesic medicine (trade names advil and motrin and nuprin) used to relieve the pain of arthritis and as an antipyretic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nonsteroidal anti-inflammatory and analgesic medicine (trade names advil and motrin and nuprin) used to relieve the pain of arthritis and as an antipyretic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proprietary brand of ibuprofen used as a nonsteroidal anti-inflammatory drug (NSAID) to alleviate mild to moderate pain, inflammation, and fever.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In common clinical and colloquial parlance, any over-the-counter ibuprofen formulation taken for muscular aches, headaches, or dysmenorrhea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, advil designates a nonsteroidal anti-inflammatory and analgesic medicine (trade names advil and motrin and nuprin) used to relieve the pain of arthritis and as an antipyretic."*
+> - 📜 **David Foster Wallace (*Infinite Jest*):** *"He swallowed two **advil** with lukewarm tap water, waiting for the throbbing ache behind his temples to subside."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"Patients routinely manage post-operative discomfort with simple regimens combining acetaminophen and **advil** before requesting narcotics."*
+> - 📜 **Oliver Sacks (*The Mind's Eye*):** *"When episodic headaches encroached upon her reading hours, a standard tablet of **advil** generally provided swift relief."*

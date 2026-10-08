@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of evil by virtue of villainous behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A criminal or vicious act.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Atrocious wickedness, deliberate depravity, or base conduct; an act of heinous malice or betrayal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A criminal plot, treachery, or villainous enterprise designed to ruin another person or subvert justice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath out-villain’d villainy so far that the rarity redeems him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In me ’tis villainy; In thee ’t had been good service."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All good seeming, By thy revolt, O husband, shall be thought Put on for villainy; not born where’t grows, But worn a bait for ladies."*
+> - 📜 **William Shakespeare (*Othello*):** *"I think I smell't; O **villainy**! I thought so then; I'll kill myself for grief; O **villainy**, **villainy**!"*
+> - 📜 **John Milton (*Paradise Lost*):** *"He planned in darkness a supreme **villainy**, seeking to corrupt the innocent dwellers of newly created Eden."*
+> - 📜 **Jonathan Swift (*A Modest Proposal*):** *"History furnishes innumerable examples of unblushing **villainy** executed under the respectable pretext of public utility."*

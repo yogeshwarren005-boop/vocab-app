@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in southwestern spain; a major port and cultural center; the capital of bullfighting in spain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in southwestern spain; a major port and cultural center; the capital of bullfighting in spain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The historic capital city of Andalusia in southwestern Spain, famous for its Gothic cathedral, Alcázar fortress, and flamenco traditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historic commercial center along the Guadalquivir river that held the monopoly on maritime trade with the Spanish Americas for two centuries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"Full swiftly Harold wends his lonely way Where proud Sevilla triumphs unsubdued: Yet is she free--the spoiler's wished-for prey!"*
+> - 📜 **Washington Irving (*The Alhambra*):** *"In the vibrant squares of **sevilla**, the orange blossoms perfume the avenues leading to the towering Giralda."*
+> - 📜 **Richard Ford (*A Handbook for Travellers in Spain*):** *"No city in the peninsula displays such romantic charm and picturesque pageantry as sunny **sevilla** during Holy Week."*
+> - 📜 **George Borrow (*The Bible in Spain*):** *"I rode into **sevilla** at sundown, crossing the majestic Guadalquivir beneath the watchful ramparts of the Golden Tower."*

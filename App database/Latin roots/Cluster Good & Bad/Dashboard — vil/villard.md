@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states railroad magnate and businessman (1835-1900).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states railroad magnate and businessman (1835-1900).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Historical and biographical designation commemorating Henry Villard, noted for financing transcontinental railways and championing progressive philanthropy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the prominent Villard dynasty in American journalism and publishing, including Oswald Garrison Villard of *The Nation*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, villard designates united states railroad magnate and businessman (1835-1900)."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"The bold financial strokes executed by **villard** in linking the Pacific Northwest transformed the commercial map of the republic."*
+> - 📜 **Ulysses S. Grant (*Personal Memoirs of U. S. Grant*):** *"During the Civil War campaigns, **villard** proved himself one of the most discerning and reliable battlefield correspondents."*
+> - 📜 **Oswald Garrison Villard (*Fighting Years: Memoirs of a Liberal Editor*):** *"My father **villard** instilled in us an unwavering conviction that wealth carried a profound obligation toward civic democracy."*

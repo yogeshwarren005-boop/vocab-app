@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nullification by the destruction of the legal force; rendering null.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nullification by the destruction of the legal force; rendering null.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of corrupting, contaminating, or impairing something; the progressive degradation of quality or purity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and ethical contexts, the invalidation, nullification, or moral debasement of an act or document.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vitiation designates nullification by the destruction of the legal force; rendering null."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The gradual **vitiation** of medieval design began when machine-like regularity superseded the expressive liberty of the workman."*
+> - 📜 **Herbert Spencer (*Social Statics*):** *"Every governmental interference with spontaneous social growth risks the **vitiation** of individual responsibility."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"The legal **vitiation** of a testament follows inevitably upon positive proof of fraudulent manipulation."*

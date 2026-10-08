@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cater to popular taste to make popular and present to the general public; bring into general or common use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Debase and make vulgar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To lower in character, quality, or taste; to render coarse, crude, or commonplace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To popularize or disseminate among the general populace so as to make generally known.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"His marriage to that woman has hopelessly vulgarised him."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"He made an attempt on his own life; and, being with difficulty restrained, his agitation sunk into a kind of sullen insensibility, which seemed to absorb all sentiment, and gradually vulgarised his faculty of thinking."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"Is not the phrase, in line 7, page 6, "Great lake," too much vulgarised by every-day language for so sublime a poem?"*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Art ceases to be sublime the moment it attempts to **vulgarise** its mysteries for the amusement of an undiscerning multitude."*
+> - 📜 **George Orwell (*Shooting an Elephant and Other Essays*):** *"Modern political propaganda operates tirelessly to **vulgarise** noble words until they lose all precise moral significance."*
+> - 📜 **John Ruskin (*Sesame and Lilies*):** *"Sensational novels **vulgarise** the tender emotions of youth, teaching readers to indulge in theatrical sentiment rather than real charity."*

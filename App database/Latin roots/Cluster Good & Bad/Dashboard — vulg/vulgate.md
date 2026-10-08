@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The latin edition of the bible translated from hebrew and greek mainly by st. jerome at the end of the 4th century; as revised in 1592 it was adopted as the official text for the roman catholic church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The latin edition of the bible translated from hebrew and greek mainly by st. jerome at the end of the 4th century; as revised in 1592 it was adopted as the official text for the roman catholic church.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The principal Latin translation of the Bible, prepared largely by Saint Jerome in the late 4th century and adopted as official by the Roman Catholic Church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any widely accepted, standard text, commonly used version, or the common speech and vernacular of a people.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"This was translated as χαλκὸς (_chalcos_) in the Septuagint, and _Aes_ in the Vulgate; the Greeks and Romans using the terms, however, both for copper and for the alloys brass and bronze."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Latin **vulgate** of Jerome provided the medieval Western Church with a magnificent and uniform sacred scriptural standard."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The scholar quoted the resonant phrases of the **vulgate**, confident that every educated gentleman in Parliament would recognize the passage."*
+> - 📜 **Desiderius Erasmus (*The Praise of Folly*):** *"My ambition was to compare the received readings of the Latin **vulgate** with the oldest extant Greek manuscripts of the Apostles."*

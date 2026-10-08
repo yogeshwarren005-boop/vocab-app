@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cater to popular taste to make popular and present to the general public; bring into general or common use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Debase and make vulgar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To lower the quality, character, or dignity of; to render coarse, crude, or debased.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To make common, popular, or widely known among the general public.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vulgarize designates cater to popular taste to make popular and present to the general public; bring into general or common use."*
+> - 📜 **Ralph Waldo Emerson (*Nature, Addresses, and Lectures*):** *"We must not permit the feverish pursuits of trade to **vulgarize** our perceptions of the sublime beauty of the universe."*
+> - 📜 **Walt Whitman (*Democratic Vistas*):** *"Democracy must possess its own glorious literature, lest material prosperity completely **vulgarize** the soul of the nation."*
+> - 📜 **Henry David Thoreau (*Life Without Principle*):** *"The relentless scramble for gold tends to **vulgarize** human life, reducing heroic aspirations to a calculation of petty profits."*

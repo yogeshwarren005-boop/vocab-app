@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spread negative information about.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread negative information about.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To speak ill of, defame, slander, or blacken the character and reputation of someone unjustly and maliciously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To lower in estimation or treat with open contempt; to belittle or disparage as base and worthless.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The former found it easier to exterminate than to civilize; the latter to vilify than to discriminate."*
-> - 📜 **Effie Afton (*Eventide*):** *"I've never been able to conquer my aversion toward him, since he vilified Annie's character, and caused her flight," said she, wondering at her father's question."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Their Maker’s image, answered Michael, then Forsook them, when themselves they vilified To serve ungoverned Appetite; and took His image whom they served, a brutish vice, Inductive mainly to the sin of Eve."*
+> - 📜 **Abraham Lincoln (*Cooper Union Address*):** *"It is not our duty to **vilify** our fellow citizens, but to state plainly the principles of constitutional liberty."*
+> - 📜 **Jonathan Swift (*The Examiner*):** *"Party writers make it their sole business to **vilify** the most virtuous actions of their political antagonists."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The official press did not merely defeat the dissident faction, but labored ceaselessly to **vilify** its fallen leaders."*

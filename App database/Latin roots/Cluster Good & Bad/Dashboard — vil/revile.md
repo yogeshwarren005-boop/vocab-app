@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spread negative information about.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread negative information about.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To criticize, denounce, or address with vehement, abusive, and contemptuous language; to berate bitterly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To subject an opponent to widespread public defamation, scorn, or vituperative reproach.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And did not she herself revile me there?"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"A man of strife ye’ve born me: For sair contention I maun bear; They hate, revile, and scorn me."*
-> - 📜 **John Milton (*Paradise Lost*):** *"To whom The gracious Judge without revile repli’d."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Zealous polemics did not hesitate to **revile** the memory of deceased emperors whose edicts failed to satisfy their faction."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Why did they always suspect and **revile** me, when I labored ceaselessly to conform to their harsh expectations?"*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Crowds assembled in the galleries to applaud their favorites and **revile** every deputy suspected of monarchist sympathy."*

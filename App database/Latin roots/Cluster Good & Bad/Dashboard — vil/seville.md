@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in southwestern spain; a major port and cultural center; the capital of bullfighting in spain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in southwestern spain; a major port and cultural center; the capital of bullfighting in spain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The English geographical name for the major Andalusian metropolis in southern Spain situated on the Guadalquivir.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and gastronomy, the bitter Seville orange (*Citrus aurantium*), prized for traditional marmalades and liqueurs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"Fair is proud Seville; let her country boast Her strength, her wealth, her site of ancient days, But Cadiz, rising on the distant coast, Calls forth a sweeter, though ignoble praise."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Lowest of all, a compact leaden-vault enshrined the sweet wine and a stock of cordials: whence issued whispers of Seville Orange, Lemon, Almond, and Caraway-seed."*
+> - 📜 **Lord Byron (*Don Juan*):** *"In **seville** was he born, a pleasant city, famous for oranges and women; he who has not seen it will surely regret it."*
+> - 📜 **George Borrow (*The Zincali*):** *"The gypsies gathered along the outskirts of **seville**, singing plaintive melodies that echoed across the olive groves."*
+> - 📜 **Washington Irving (*Chronicle of the Conquest of Granada*):** *"The royal court lingered at **seville** to marshal supplies, artillery, and cavalry for the decisive summer campaign."*

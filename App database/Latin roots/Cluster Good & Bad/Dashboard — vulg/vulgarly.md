@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a smutty manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a smutty manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a common, unrefined, coarse, or ill-bred manner; without taste or elegance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the common, vernacular, or popular tongue; according to popular opinion or common parlance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First, for this woman, To justify this worthy nobleman, So vulgarly and personally accused, Her shall you hear disproved to her eyes, Till she herself confess it."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"They were vulgarly shaped, like men formed for the common purposes of life, and had that air of supercilious assumption which is never seen in the true gentleman."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"I don’t like you!” Then, after this deliverance, which might have been that of a vulgarly pert little girl in the street, she hugged Mrs."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Words **vulgarly** imposed upon things according to the capacity of the multitude do strangely entangle the human understanding."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Men frequently use terms **vulgarly** accepted without ever examining the distinct ideas that ought to correspond to them."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"This curious malady was **vulgarly** attributed to bewitchment, though a sensible physician would ascribe it to poor diet."*

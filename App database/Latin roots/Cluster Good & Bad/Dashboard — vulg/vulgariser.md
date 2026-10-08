@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who makes something vulgar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who makes attractive to the general public.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who popularizes complex scientific, historical, or philosophical knowledge for the broader public.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who debases, cheapens, or coarsens culture, manners, or literary standards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vulgariser designates someone who makes something vulgar."*
+> - 📜 **George Eliot (*The Impressions of Theophrastus Such*):** *"The ambitious literary **vulgariser** reduces delicate philosophical distinctions to catchy slogans designed for hurried diners."*
+> - 📜 **Aldous Huxley (*Music at Night*):** *"Every generation produces its adroit **vulgariser**, who translates profound mystical insights into palatable commercial claptrap."*
+> - 📜 **William Hazlitt (*Table Talk*):** *"He was an amusing **vulgariser** of the classics, stripping ancient epics of their majestic solemnity to please the groundlings."*

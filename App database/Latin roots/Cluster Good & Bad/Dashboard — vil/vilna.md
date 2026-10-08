@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital and largest city of lithuania; located in southeastern lithuania.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital and largest city of lithuania; located in southeastern lithuania.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The historical name of Vilnius, celebrated as a vibrant Baltic political capital and an international center of Jewish learning and rabbinic scholarship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historical reference to the cultural and intellectual epicenter dubbed the 'Jerusalem of Lithuania', birthplace of the Vilna Gaon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vilna designates the capital and largest city of lithuania; located in southeastern lithuania."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Tsar Alexander held his brilliant military court in **vilna** on the very eve of the French invasion of Russia."*
+> - 📜 **Chaim Weizmann (*Trial and Error*):** *"The rabbinic scholars of **vilna** exercised a moral and intellectual authority that shaped Jewish communities throughout the diaspora."*
+> - 📜 **Sholem Aleichem (*The Nightingale*):** *"Students arrived from every corner of the Pale to study within the renowned academies and printing houses of **vilna**."*

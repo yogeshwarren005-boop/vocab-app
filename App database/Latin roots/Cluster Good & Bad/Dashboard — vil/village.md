@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A community of people smaller than a town.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A settlement smaller than a town.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A clustered human settlement in a rural district, usually larger than a hamlet and smaller than a town.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The collective body of inhabitants living in such a rural community; a tight-knit rural social world.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And to that end I have been with Sir Oliver Martext, the vicar of the next village, who hath promised to meet me in this place of the forest and to couple us."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As a walled town is more worthier than a village, so is the forehead of a married man more honourable than the bare brow of a bachelor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, go we in procession to the village; And be it death proclaimed through our host To boast of this or take that praise from God Which is His only."*
+> - 📜 **George Eliot (*Silas Marner*):** *"In the quiet **village** of Raveloe, the rustics gathered nightly around the tavern bench to discuss the slow turn of crops."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The picturesque **village** lay sheltered in the hollow of the vale, surrounded by rich water-meadows and orchards."*
+> - 📜 **Oliver Goldsmith (*The Deserted Village*):** *"Sweet smiling **village**, loveliest of the lawn, thy sports are fled, and all thy charms withdrawn."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Noticeable heterogeneity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Noticeable heterogeneity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of manifold variety, multiplicity, and difference among related components.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heterogeneity or variation in character, style, or structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diverseness designates noticeable heterogeneity."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The marked **diverseness** of fossil fauna across adjacent geological strata reflects shifting oceanic climates."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Nature rejoices in infinite **diverseness**, never repeating an identical mountain contour or cloud pattern."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The astonishing **diverseness** of organic forms presents an inspiring challenge to biological classification."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the genus mutisia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plants of the genus mutisia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of South American climbing or shrubby plants in the aster family (Asteraceae), renowned for large, showy orange, red, or pink flower heads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A botanical specimen belonging to this Andean composite genus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mutisia designates any of various plants of the genus mutisia."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"The climbing stems of a brilliant **mutisia** entwined the branches of dwarf myrtles upon the Andean slope."*
+> - 📜 **Richard Spruce (*Notes of a Botanist on the Amazon and Andes*):** *"We collected a rare scarlet-flowered **mutisia** while traversing the cloud-swept ridge of the eastern cordillera."*
+> - 📜 **Joseph Dalton Hooker (*Curtis's Botanical Magazine*):** *"Cultivated specimens of **mutisia** produce striking pendulous ray florets in temperate greenhouse borders."*

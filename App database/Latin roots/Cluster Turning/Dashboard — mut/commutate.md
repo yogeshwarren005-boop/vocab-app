@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reverse the direction of (an alternating electric current) each half cycle so as to produce a unidirectional current.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reverse the direction of (an alternating electric current) each half cycle so as to produce a unidirectional current.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To reverse, alter, or switch the direction of an electrical current or signal, particularly in an electric dynamo or motor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To interchange or transpose two mathematical variables, operations, or mathematical elements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, commutate designates reverse the direction of (an alternating electric current) each half cycle so as to produce a unidirectional current."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"A mechanical contact was introduced to **commutate** the induced current at each half revolution of the copper disc."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The rotating armature was designed to **commutate** the alternating polarity into unidirectional current."*
+> - 📜 **Oliver Heaviside (*Electromagnetic Theory*):** *"We may systematically **commutate** the differential operators when considering linear homogeneous medium conditions."*

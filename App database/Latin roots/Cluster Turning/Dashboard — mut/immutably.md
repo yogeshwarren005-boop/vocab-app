@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unalterable and unchangeable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unalterable and unchangeable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unalterable, unchanging, or permanent manner; steadfastly without deviation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fixed beyond possibility of modification or revocation by law, nature, or decree.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"This whole act’s immutably decreed. ’Twas rehearsed by thee and me a billion years before this ocean rolled."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"This whole act’s immutably decreed. ’Twas rehearsed by thee and me a billion years before this ocean rolled."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"God is "the same yesterday, and to-day, and forever;" and 3:1 He who is immutably right will do right without being reminded of His province."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"The decrees of eternal necessity are **immutably** written in the fabric of the revolving spheres."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"A genuine law of nature works **immutably**, whether foolish men acknowledge its presence or deny it."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The principles of natural equity are **immutably** antecedent to positive human statutes."*

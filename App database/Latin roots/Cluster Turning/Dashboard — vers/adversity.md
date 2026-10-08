@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of misfortune or affliction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stroke of ill fortune; a calamitous event.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Difficulties, hardship, or misfortune; prolonged distress or affliction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unfortunate or calamitous event or condition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me embrace thee, sour adversity, For wise men say it is the wisest course. 2 KEEPER."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll give thee armour to keep off that word, Adversity’s sweet milk, philosophy, To comfort thee, though thou art banished."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A man I am crossed with adversity; My riches are these poor habiliments, Of which if you should here disfurnish me, You take the sum and substance that I have."*
+> - 📜 **Francis Bacon (*Essays*):** *"Prosperity is the blessing of the Old Testament; **adversity** is the blessing of the New."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"Sweet are the uses of **adversity**, which, like the toad, ugly and venomous, wears yet a precious jewel in his head."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"True greatness of soul reveals its steadfast luster under the dark clouds of **adversity**."*

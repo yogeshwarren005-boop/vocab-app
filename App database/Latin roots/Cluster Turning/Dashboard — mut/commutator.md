@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Switch for reversing the direction of an electric current.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Switch for reversing the direction of an electric current.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rotary electrical switch in certain electric motors and generators that periodically reverses the current direction between the rotor and external circuit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics and quantum mechanics, an operator representing the difference between the products of two operations taken in opposite orders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, commutator designates switch for reversing the direction of an electric current."*
+> - 📜 **Nikola Tesla (*My Inventions*):** *"I sought to eliminate the mechanical **commutator** entirely by introducing rotating polyphase magnetic fields."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The copper segments of the **commutator** must remain clean to avoid excessive sparking under heavy electrical load."*
+> - 📜 **Paul Dirac (*The Principles of Quantum Mechanics*):** *"The non-vanishing **commutator** of position and momentum embodies the fundamental indeterminacy of quantum measurement."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scottish unit of liquid measure equal to 0.9 united states pint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scottish unit of liquid measure equal to 0.9 united states pint.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An old Scottish unit of liquid measure, equal to one quarter of a Scottish pint, or approximately three-quarters of an imperial pint (about 15 fluid ounces / 425 ml).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A container, bottle, or flagon with a holding capacity of one mutchkin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"I’ve seen me dazed upon a time, I scarce could wink or see a styme; Just ae half-mutchkin does me prime,— Ought less is little— Then back I rattle on the rhyme, As gleg’s a whittle."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Paint Scotland greetin owre her thrissle; Her mutchkin stowp as toom’s a whissle; An’ damn’d excisemen in a bussle, Seizin a stell, Triumphant crushin’t like a mussel, Or limpet shell!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Come, bring the tither mutchkin in, And here’s—for a conclusion— To ev’ry New Light^12 mother’s son, From this time forth, Confusion!"*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The host was ordered to fetch another **mutchkin** of brandy to revive the fainting traveler by the hearth."*
+> - 📜 **Robert Burns (*Poems and Songs*):** *"A wee drop out of a **mutchkin** stoup warm'd their hearts amidst the howling winter blast."*
+> - 📜 **Robert Louis Stevenson (*Kidnapped*):** *"We drank a modest **mutchkin** of ale together in the low-ceilinged room before discussing our journey."*

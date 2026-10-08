@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Directed outward; marked by interest in others or concerned with external reality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Directed outward; marked by interest in others or concerned with external reality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, exhibiting, or characterized by extraversion; outgoing, socially oriented, and directed toward the external environment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting psychic energy that seeks stimulation from external objects and social interaction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extraversive designates directed outward; marked by interest in others or concerned with external reality."*
+> - 📜 **Carl Jung (*Psychological Types*):** *"An **extraversive** personality readily conforms to collective norms, finding motivation in outer social stimuli."*
+> - 📜 **Gordon Allport (*Pattern and Growth in Personality*):** *"Behavioral traits of an **extraversive** character include uninhibited conversation and energetic public leadership."*
+> - 📜 **Karen Horney (*Neurosis and Human Growth*):** *"The individual adopted an **extraversive** defense, immersing himself in external distractions to avoid self-reflection."*

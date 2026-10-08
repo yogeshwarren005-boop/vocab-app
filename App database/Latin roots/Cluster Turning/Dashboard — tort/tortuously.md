@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With twists and turns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a tortuous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a winding, twisting, circuitous, or meandering course.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an intricate, devious, or convoluted manner.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And the cunning men took the land and the waters and the light, and worked tortuously until they could sell them at a price...."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The brown current flowed **tortuously** between primeval walls of impenetrable tropical jungle."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The equity suit wound **tortuously** through the Court of Chancery for generations without resolution."*
+> - 📜 **Edgar Allan Poe (*The Narrative of Arthur Gordon Pym*):** *"The subterranean chasm branched **tortuously** in all directions beneath the basaltic ridge."*

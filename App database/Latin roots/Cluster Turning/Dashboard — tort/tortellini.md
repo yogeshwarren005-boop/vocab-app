@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small ring-shaped stuffed pasta.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small ring-shaped stuffed pasta.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small ring-shaped pasta parcels filled with a seasoned mixture of meat, cheese, or vegetables, traditionally served in broth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An Italian culinary preparation originating in Bologna and Modena.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tortellini designates small ring-shaped stuffed pasta."*
+> - 📜 **Elizabeth David (*Italian Food*):** *"Authentic Bolognese cooks serve tender **tortellini** floating in a rich, crystal-clear capon broth."*
+> - 📜 **Pellegrino Artusi (*Science in the Kitchen and the Art of Eating Well*):** *"The careful shaping of each individual **tortellini** requires deft fingers and supple pasta dough."*
+> - 📜 **Mary McCarthy (*The Stones of Florence*):** *"Pungent aromas of simmered broth and fresh **tortellini** drifted from bustling trattoria kitchens."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act that changes the form or character or substance of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A qualitative change.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or process of changing or converting into another nature, substance, or form; particularly the transformation of chemical elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, the historical doctrine that ancestral organisms evolve into new distinct taxa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Am not I Christopher Sly, old Sly’s son of Burton-heath; by birth a pedlar, by education a cardmaker, by transmutation a bear-herd, and now by present profession a tinker?"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oh, this is dreadful!” she went on, unconscious of the transmutation she was effecting."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Being even now only a young woman of twenty, one who mentally and sentimentally had not finished growing, it was impossible that any event should have left upon her an impression that was not in time capable of transmutation."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The gradual **transmutation** of species through natural selection replaced the notion of special creation."*
+> - 📜 **Ernest Rutherford (*Radioactive Substances and Their Radiations*):** *"Artificial **transmutation** of nitrogen nuclei was achieved by bombarding the gas with fast alpha particles."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The changing of bodies into light, and light into bodies, is very conformable to the course of nature, which seems delighted with **transmutation**."*

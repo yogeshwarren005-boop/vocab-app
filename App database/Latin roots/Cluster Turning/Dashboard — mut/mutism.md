@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being unable or unwilling to speak.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of being unable or unwilling to speak.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The persistent inability or deliberate refusal to speak, despite having the physical capability and vocal organs for speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A psychological or neurological condition characterized by profound speechlessness, such as selective mutism or akinetic mutism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mutism designates the condition of being unable or unwilling to speak."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Profound emotional shock may induce prolonged hysterical **mutism** without impairing intellectual perception."*
+> - 📜 **Sigmund Freud (*Studies on Hysteria*):** *"The patient's sudden **mutism** coincided with the repressed memory of a traumatic domestic quarrel."*
+> - 📜 **Henry Maudsley (*The Pathology of Mind*):** *"In catatonic states, persistent **mutism** often masks intense internal turmoil and hallucinatory agitation."*

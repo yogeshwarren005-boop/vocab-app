@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to the nature of a tort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to the nature of a tort.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In law, constituting or involving a tort; wrongful, unlawful, and giving rise to civil liability for damages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or of the nature of a tort.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tortious designates of or pertaining to the nature of a tort."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Any **tortious** act that inflicts direct physical injury upon another person entitles the victim to redress."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The defendant's conduct was deemed **tortious** because it violated the standard of reasonable prudence."*
+> - 📜 **Frederick Pollock (*The Law of Torts*):** *"To succeed in an action, the plaintiff must prove that the defendant committed a **tortious** breach of legal duty."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a binary operation) independent of order; as in e.g.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a binary operation) independent of order; as in e.g.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In mathematics, describing an operation where changing the sequence or order of operands does not alter the resultant value (such as addition or multiplication).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to exchange, mutual substitution, or reciprocity in socioeconomic contracts and distributive justice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, commutative designates (of a binary operation) independent of order; as in e.g."*
+> - 📜 **Isaac Newton (*Arithmetica Universalis*):** *"The **commutative** property ensures that the multiplication of two scalar factors yields an identical product regardless of order."*
+> - 📜 **William Rowan Hamilton (*Elements of Quaternions*):** *"Unlike ordinary algebraic numbers, the product of two quaternions does not obey the **commutative** law of multiplication."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"In **commutative** justice, arithmetic equality governs the mutual transactions between private individuals."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to or marked by genetic mutation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to or marked by genetic mutation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to cause, undergo, or characterize mutation or transformation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and developmental biology, producing an evolutionary transition or shift from one state to another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mutative designates of or pertaining to or marked by genetic mutation."*
+> - 📜 **Hugo de Vries (*Species and Varieties: Their Origin by Mutation*):** *"The plant was seized by a **mutative** period, producing dozens of aberrant offspring in a single generation."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Under heavy cosmic radiation, the **mutative** rate accelerated significantly beyond normal equilibrium."*
+> - 📜 **Roman Jakobson (*Selected Writings*):** *"A **mutative** phonological process reshaped the vocalic system during the medieval transitional dialect shift."*

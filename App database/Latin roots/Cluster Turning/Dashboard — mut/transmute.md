@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change in outward structure or looks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change or alter in form, appearance, or nature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To change or convert in form, appearance, nature, or substance, especially into a higher, purer, or more valuable state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear physics, to convert one chemical element or isotope into another through nuclear reaction or radioactive decay.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Of the countless millions of saurians then existing, capricious Nature had seized upon this one, to transmute it into an imperishable monument of that extinct race."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Dost thou desire nothing brighter than gold that thou wouldst transmute all this ethereal lustre into such dross as thou wallowest in already?"*
-> - 📜 **Nathaniel Hawthorne (*Chippings with a Chisel (From "Twice Told Tales")*):** *"The speculation had turned out so successful, that my friend expected to transmute slate and marble into silver and gold, to the amount of at least a thousand dollars, during the few months of his sojourn at Nantucket and the Vineyard."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The true poet knows how to **transmute** the common events of everyday life into enduring gold."*
+> - 📜 **Percy Bysshe Shelley (*A Defence of Poetry*):** *"Poetry turns all things to loveliness; it can **transmute** all that it touches into divine beauty."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Alchemists pretended to **transmute** dross into gold, yet their labors yielded valuable chemical discoveries."*

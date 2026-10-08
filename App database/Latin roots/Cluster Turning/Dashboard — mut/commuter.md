@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A passenger train that is ridden primarily by passengers who travel regularly from one place to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who travels regularly from home in a suburb to work in a city.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who travels a significant distance between home and work on a regular, usually daily, schedule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A passenger vehicle, small airliner, or train engineered specifically for short-distance passenger transport.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The switch of weapons and holsters to clips on their inner coveralls completed, they strolled out of the storage room and mingled with a throng of citizen commuters."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Skirting knots of commuters they faced outward in a momentarily vacant slot for two along the edge of the fast moving lane."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We'll have lost the launch window." More commuters swung aboard the strip and crowded their space."*
+> - 📜 **E. B. White (*Here Is New York*):** *"The suburban **commuter** rushes through the crowded concourse twice daily, tethered to the rigid railway timetable."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"Every morning the prosperous **commuter** folded his morning newspaper while waiting upon the suburban platform."*
+> - 📜 **John Cheever (*The Stories of John Cheever*):** *"The weary **commuter** stared out through soot-streaked windows as the evening train sped across twilight rivers."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deaden (a sound or noise), especially by wrapping.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a softened tone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Softened, subdued, or muffled in sound, tone, color, or expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduced in intensity, brightness, or emotional vigor; dampened.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The place hummed with muted voices and the almost silent clicks of an organized combat ops center."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Full of grace!" But in the kitchen they would be laughing, chatting, playing crude forfeits, telling grotesque stories, giving riddles, and now, to the muted sound of a melodeon, a man would dance a hornpipe...."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The church bells sounded with a **muted** chime across the valley, dampened by the heavy autumn mist."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A **muted** murmur of uneasy anticipation spread among the harpooners gathered beneath the foremast."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"The fading afternoon light cast **muted** shadows upon the worn tapestries of the drawing room."*

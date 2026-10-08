@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who offers opposition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who offers opposition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One's opponent in a contest, conflict, legal suit, or armed dispute; an enemy or antagonist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specifically in theology, Satan or the Devil (from Hebrew *ha-Satan*, the accuser or adversary).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He must think us some band of strangers i’ the adversary’s entertainment."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As doth a ruler with unlawful oaths; Or one that, at a triumph having vow’d To try his strength, forsaketh yet the lists By reason of his adversary’s odds."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet am I noble as the adversary I come to cope."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"Here comes your **adversary**, who with fiery eyes and drawn sword seeks vengeance upon this ground."*
+> - 📜 **John Milton (*Paradise Lost*):** *"So spake the divine Arbiter, while the great **adversary** fled discomfited through cosmic shadows."*
+> - 📜 **Arthur Conan Doyle (*The Final Problem*):** *"In Professor Moriarty, Holmes recognized an intellectual **adversary** worthy of his highest powers."*

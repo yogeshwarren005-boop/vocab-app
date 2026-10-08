@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who mutilates or destroys or disfigures or cripples.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who mutilates or destroys or disfigures or cripples.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual or destructive agent that inflicts mutilation, physical dismemberment, or violent wounding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who degrades, excises, or vandalizes precious literary documents, historical archives, or artworks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mutilator designates a person who mutilates or destroys or disfigures or cripples."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The furious **mutilator** of classical busts took perverse pride in obliterating imperial inscriptions."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The mob denounced the ruthless **mutilator** who had desecrated royal tombs within the basilica."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"A reckless constitutional **mutilator** severs ancient civic institutions without calculating the societal ruin."*

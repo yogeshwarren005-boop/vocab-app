@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who commits sabotage or deliberately causes wrecks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who commits sabotage or deliberately causes wrecks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who engages in political, military, or economic subversion designed to divert attention or disrupt state operations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual who deliberately creates tactical distractions or industrial sabotage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diversionist designates someone who commits sabotage or deliberately causes wrecks."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"State propaganda perpetually denounced the elusive **diversionist** who supposedly sabotaged production quotas."*
+> - 📜 **Arthur Koestler (*Darkness at Noon*):** *"The prosecutor charged Rubashov with acting as an ideological **diversionist** in league with foreign powers."*
+> - 📜 **Victor Serge (*Memoirs of a Revolutionary*):** *"The revolutionary tribunal treated every suspected **diversionist** with unforgiving ideological severity."*

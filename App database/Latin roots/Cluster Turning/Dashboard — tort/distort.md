@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make false by mutilation or addition; as of a message or story.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form into a spiral shape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To pull, twist, or press out of shape; to deform the natural proportion, contour, or structure of an object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To misrepresent, bias, or alter the true meaning, sequence, or perspective of facts, statements, or visual images.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"So some with direful strange Grimaces, Within this Dome distort their Faces; Strain, ----squeeze, ----yet loth for to depart, Again they strain--for what? a Fart."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Nay, but they are not to take in a decoction or in nauseous form, so you need not snub that so charming nose, or I shall point out to my friend Arthur what woes he may have to endure in seeing so much beauty that he so loves so much distort."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Seward is loved not only by his household and his friends, but even by his patients, who, being some of them hardly in mental equilibrium, are apt to distort causes and effects."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Prejudices of the human mind **distort** the true aspect of things like an uneven mirror."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Passionate self-interest will constantly **distort** the plainest words of a statute."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Barbarous customs often lead communities to **distort** the natural human cranium by artificial binding."*

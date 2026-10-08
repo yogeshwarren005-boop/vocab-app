@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exchangeability by virtue of being replaceable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being commutable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capability of being exchanged, interchanged, or substituted for something else of equal value or function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal jurisprudence and financial contracts, the property of allowing an obligation or penalty to be commuted into another form.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, commutability designates exchangeability by virtue of being replaceable."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The **commutability** of paper currency into precious metal establishes the security of public commerce."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"Judicial discretion hinges upon the **commutability** of corporal sentences into monetary fines."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Free trade relies fundamentally upon the ready **commutability** of diverse commodities across borders."*

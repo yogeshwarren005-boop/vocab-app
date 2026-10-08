@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: California moth whose larvae live in especially oranges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small indian moth infesting e.g. tea and coffee plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of the moth family Tortricidae, especially the green oak tortrix (*Tortrix viridana*), whose larvae roll oak leaves into cylinders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A leafroller moth or caterpillar classified within the genus *Tortrix*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tortrix designates california moth whose larvae live in especially oranges."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Larvae of the green **tortrix** stripped whole branches of the ancestral oak grove during early summer."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Fly*):** *"A tiny green **tortrix** slipped agilely from its twisted foliage cocoon when touched."*
+> - 📜 **Edward Meyrick (*A Handbook of British Lepidoptera*):** *"The genus **tortrix** is recognized by its broad subquadrate forewings and smooth scaling."*

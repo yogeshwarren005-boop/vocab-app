@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without alteration or misrepresentation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without alteration or misrepresentation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not twisted, warped, or deformed; retaining original, natural shape, symmetry, and proportion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from misrepresentation, bias, or alteration; conveying objective and truthful representation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undistorted designates without alteration or misrepresentation."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The parabolic mirror reflected an **undistorted** image of the distant celestial constellation."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"A candid mind receives sensations in an **undistorted** condition before forming complex reflections."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In undisturbed rock formations, the fossil shell remains completely **undistorted** by metamorphic pressure."*

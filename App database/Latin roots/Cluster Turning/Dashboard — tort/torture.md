@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme mental distress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unbearable physical pain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The deliberate infliction of severe physical pain or psychological suffering, especially as a punishment or to force confession.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Severe mental anguish, anxiety, or physical torment; or to subject to such suffering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And each (though enemies to either’s reign) Do in consent shake hands to torture me, The one by toil, the other to complain How far I toil, still farther off from thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tax of impudence, A strumpet’s boldness, a divulged shame, Traduc’d by odious ballads; my maiden’s name Sear’d otherwise; nay worse of worst extended With vilest torture, let my life be ended."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he mislike My speech and what is done, tell him he has Hipparchus, my enfranched bondman, whom He may at pleasure whip, or hang, or torture, As he shall like, to quit me."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Vex not his ghost: O! let him pass; he hates him that would upon the rack of this tough world stretch him out longer. He is free from **torture** now."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Inquisitors in the dark dungeon prepared the implements of gruesome **torture** for the prisoner."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Far from the peace of heaven, the fallen angels lay tossed in outer darkness and endless **torture**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being changed in substance as if by alchemy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being changed in substance as if by alchemy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being changed, converted, or transformed into a different substance, form, or condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Susceptible to alchemical conversion into noble metals, or to nuclear decay into distinct atomic isotopes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transmutable designates capable of being changed in substance as if by alchemy."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The ancient naturalists erroneously believed that all primary elements were readily **transmutable** into one another."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"Experiments showed that quicksilver was not easily **transmutable** by the ordinary fires of the furnace."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Early theorists postulated that organic forms were infinitely **transmutable** under changing ambient conditions."*

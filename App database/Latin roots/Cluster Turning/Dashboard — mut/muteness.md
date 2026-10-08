@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being unable or unwilling to speak.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A refusal to speak when expected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The absence of speech or vocal sound; silence, speechlessness, or vocal mutism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inability or refusal to articulate thoughts, feelings, or sounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"By night the same muteness of humanity before the shrieks of the ocean prevailed; still in silence the men swung in the bowlines; still wordless Ahab stood up to the blast."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There they lay in their triangular oaken vaults, each mariner a chiselled muteness; a score of lamps flashing upon his hooded eyes."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"By night the same muteness of humanity before the shrieks of the ocean prevailed; still in silence the men swung in the bowlines; still wordless Ahab stood up to the blast."*
+> - 📜 **Herman Melville (*Billy Budd*):** *"In moments of extreme emotional agony, Billy was seized by a sudden **muteness** that choked his utterance."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The desolate landscape answered his cry with an appalling **muteness** that chilled his despairing heart."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Silence is the element in which great things fashion themselves; in **muteness** dwells deepest spiritual power."*

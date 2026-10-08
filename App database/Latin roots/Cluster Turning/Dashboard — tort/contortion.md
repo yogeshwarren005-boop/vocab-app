@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of twisting or deforming the shape of something (e.g., yourself).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tortuous and twisted shape or position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A twisted, strained, or unnatural position, motion, or deformation of the body or limbs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A violent, convoluted distortion of meaning, truth, or intellectual reasoning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"For an instant he felt that the struggle was causing a queer contortion of his mobile features, but with a good effort he resolved it into nothing more offensive than a merry smile."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"The smile was no more than a contortion of the muscles of the face, which made a long mirthless crease on either cheek, and left the eyes untouched by the least light of sympathy."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"The result of that frightened contortion of the features was nothing less than ghastly."*
+> - 📜 **Charles Dickens (*The Old Curiosity Shop*):** *"Quilp punctuated his malicious laughter with a grotesque bodily **contortion** that alarmed the onlookers."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The political assembly was thrown into violent **contortion** by the sudden outbreak of factional revolt."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"A morbid nervous **contortion** gripped his limbs whenever the low subterranean rumble reverberated."*

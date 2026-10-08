@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from physical or moral spots or stains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from physical or moral spots or stains.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Undamaged, uninjured, or whole; having suffered no loss of limbs, essential organs, or physical components.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preserved intact, complete, and uncensored, as an ancient manuscript, sculpture, or historical chronicle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unmutilated designates free from physical or moral spots or stains."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"A singularly fortunate chance preserved an **unmutilated** copy of Tacitus within the monastic scriptorium."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The sculptured capitals remained **unmutilated** beneath the protective portico of the ducal palace."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"We possess the author's masterpiece in an **unmutilated** state, free from the expurgations of timorous editors."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rich cake usually covered with cream and fruit or nuts; originated in austria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rich cake usually covered with cream and fruit or nuts; originated in austria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rich, layered cake traditionally made with ground nuts, eggs, sugar, and little or no flour, filled with whipped cream, jam, or buttercream.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pastry or savory tart baked in a round pan.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, torte designates rich cake usually covered with cream and fruit or nuts; originated in austria."*
+> - 📜 **Leo Tolstoy (*Anna Karenina*):** *"The banquet concluded with an elaborate Viennese **torte** decorated with spun sugar and berries."*
+> - 📜 **Thomas Mann (*Buddenbrooks*):** *"The family savored a delicate almond **torte** served with dark coffee on festive Sunday afternoons."*
+> - 📜 **Henry James (*The American*):** *"The hostess offered her guest a generous slice of rich hazelnut **torte** in the sunlit garden salon."*

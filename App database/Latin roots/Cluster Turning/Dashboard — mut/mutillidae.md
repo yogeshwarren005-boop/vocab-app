@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of wasps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of wasps.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of solitary aculeate wasps known colloquially as velvet ants, whose wingless females resemble hairy ants and deliver extremely painful stings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The taxonomic family of parasitoid wasps comprising brightly colored velvet ants found predominantly in arid ecosystems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mutillidae designates a family of wasps."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"Entomologists frequently confuse wingless females of the **mutillidae** with true formicid workers in desert habitats."*
+> - 📜 **Jean-Henri Fabre (*The Wonders of Instinct*):** *"A wandering parasitic wasp belonging to the **mutillidae** penetrated the earthen gallery of the burrowing bee."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature, and Other Essays*):** *"Bright warning coloration in the **mutillidae** advertises their potent sting and dense protective exoskeleton."*

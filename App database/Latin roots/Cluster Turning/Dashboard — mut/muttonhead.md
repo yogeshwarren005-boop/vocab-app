@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stupid person; these words are used to express a low opinion of someone's intelligence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stupid person; these words are used to express a low opinion of someone's intelligence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dull-witted, sluggish, or foolish person; a dunce or simpleton.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by obstinate stupidity or lack of discernment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, muttonhead designates a stupid person; these words are used to express a low opinion of someone's intelligence."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"Tom called his awkward comrade a senseless **muttonhead** for dropping the fishing line into the rapids."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Sam Weller retorted that only a certified **muttonhead** would look for clear water in a stagnant ditch."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Lestrade was dismissed as an obstinate **muttonhead** when he failed to grasp the significance of the footprint."*

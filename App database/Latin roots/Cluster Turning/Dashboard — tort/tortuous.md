@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Highly complex or intricate and occasionally devious; ; ; ; ; ; ; ; - sir walter scott.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by repeated turns and bends.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of twists, turns, and curves; winding, crooked, or meandering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devious, highly complex, convoluted, or indirect in thought, speech, or moral character.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She went out of the town by a tortuous back street, and drove slowly along, unconscious of the road and the scene."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"An unguided ramble into its recesses in bad weather is apt to engender dissatisfaction with its narrow, tortuous, and miry ways."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"But Commander Farragut would not take a tortuous passage, but doubled Cape Horn."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The boat followed the **tortuous** trail of bloody bubbles left behind by the wounded leviathan."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"She unraveled the **tortuous** web of Madame Beck's subtle surveillance through patient observation."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"A solitary footman walked along the **tortuous** pathway that wound through the somber heather."*

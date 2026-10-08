@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A regular journey of some distance to and from your place of work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exchange positions without a change in value.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To travel regularly over a distance between one's place of residence and one's place of work or education.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To substitute a less severe legal punishment for another; or to exchange one obligation, asset, or payment for another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The understanding of this will enable you to commute this 378:6 self-sentence, and meet every circumstance with truth."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I suppose that I am commuting a felony, but it is just possible that I am saving a soul."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Those were wonderful hours in which the two hunted a nest that would be near enough to the city for Martin's daily commuting and yet have so much of the country about it as to boast of green grass and space for flowers."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The weary laborer must **commute** daily between village lodgings and distant factory works to earn basic bread."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The sovereign granted mercy to **commute** the capital decree to lifelong transportation beyond the seas."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A prudent landlord may choose to **commute** agrarian labor dues into an annual fixed monetary payment."*

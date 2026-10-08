@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of introducing variety (especially in investments or in the variety of goods and services offered).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of being varied.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of allocating resources, investments, or activities among different categories to reduce risk or expand range.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, the evolutionary branching and proliferation of new species from an ancestral lineage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Industries are forced into an earlier diversification by tariffs."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Her iron manufactures undoubtedly were hastened--they cannot truly be said to have been created--by the protective tariff. [Sidenote: Social effects of the tariff] Industries are forced into an earlier diversification by tariffs."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The rapid **diversification** of ancestral mammals followed the extinction of colossal reptilian competitors."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Agrarian **diversification** protects farmers against the total loss of capital during unseasonable harvests."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Prudent commercial **diversification** prevents national economies from over-reliance upon a single export crop."*

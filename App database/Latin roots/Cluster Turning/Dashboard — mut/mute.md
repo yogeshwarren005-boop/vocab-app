@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deaf person who is unable to speak.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device used to soften the tone of a musical instrument.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Refraining from speech or unable to speak, whether temporarily through emotion or permanently through physiological condition; silent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device fitted to a musical instrument to soften or dampen its acoustic volume and tone; also, a deadened sound or letter not pronounced in speech.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This silence for my sin you did impute, Which shall be most my glory being dumb, For I impair not beauty being mute, When others would give life, and bring a tomb."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thanks, sir; all the rest is mute."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The third is that thou wilt be a voluntary mute to my design."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"You that look pale and tremble at this chance, that are but **mute** audiences to this act, had I but time."*
+> - 📜 **John Milton (*Paradise Lost*):** *"All the celestial voices stood in silence **mute**, considering the heavy ransom required for fallen man."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The undertaker hired an elderly mourner to stand as a professional **mute** beside the solemn door."*

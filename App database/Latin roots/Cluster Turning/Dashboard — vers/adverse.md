@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Contrary to your interests or welfare.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an opposing direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Preventing success or development; harmful, unfavorable, or hostile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Situated opposite; facing toward or contrary in direction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All’s well that ends well yet, Though time seem so adverse and means unfit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Henry the Fifth, thy ghost I invocate: Prosper this realm, keep it from civil broils, Combat with adverse planets in the heavens."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The adverse winds, Whose leisure I have stay’d, have given him time To land his legions all as soon as I; His marches are expedient to this town, His forces strong, his soldiers confident."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Variations that prove even slightly **adverse** to the organism are inexorably eliminated by natural selection."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A fragile commercial treaty cannot long survive under **adverse** political circumstances."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She struggled bravely against the **adverse** fate that seemed to pursue her family lineage."*

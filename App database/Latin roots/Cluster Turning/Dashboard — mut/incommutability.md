@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being not interchangeable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being not interchangeable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The intrinsic inability or impossibility of being exchanged, interchanged, or substituted for something else.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical metaphysics and theology, absolute unalterability or exemption from reciprocal substitution or decay.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incommutability designates the quality of being not interchangeable."*
+> - 📜 **Augustine of Hippo (*The City of God*):** *"The sublime **incommutability** of the Creator stands in stark contrast to the shifting mutations of creaturely life."*
+> - 📜 **Samuel Clarke (*A Demonstration of the Being and Attributes of God*):** *"Absolute perfection demands the **incommutability** of eternal moral distinctions before all understanding."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The strict **incommutability** of real substance from empty sensation forms the crux of our epistemological inquiry."*

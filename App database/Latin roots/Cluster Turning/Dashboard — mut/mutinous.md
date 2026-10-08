@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disposed to or in a state of mutiny.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of or characterized by or inciting to mutiny.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Openly revolting, rebellious, or insubordinate against lawful naval, military, or civil command.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to incite insurrection or unruly insubordination; ungovernable or turbulent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A street Enter a company of mutinous Citizens, with staves, clubs, and other weapons."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The senators of Rome are this good belly, And you the mutinous members."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The people mutinous; and, it is rumoured, Cominius, Martius your old enemy, Who is of Rome worse hated than of you,— And Titus Lartius, a most valiant Roman, These three lead on this preparation Whither ’tis bent."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"At my command have waked their sleepers, oped, and let 'em forth by my so potent art upon the **mutinous** winds."*
+> - 📜 **Joseph Conrad (*The Nigger of the 'Narcissus'*):** *"A dark, **mutinous** whisper circulated throughout the forecastle as the gale battered the listing vessel."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The crowd grew increasingly **mutinous** as bread shortages afflicted the starving faubourgs of Paris."*

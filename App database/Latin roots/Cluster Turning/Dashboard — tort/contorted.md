@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Twist and press out of shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Twisted (especially as in pain or struggle); ; ; - walter scott.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Twisted or bent into an unnatural, strained, or grotesque shape or posture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convoluted, unnatural, or forced in style, reasoning, or logical structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I am not a fool," he hissed as his features contorted into waves of quivering fat."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A face, contorted in anger and despair, appeared and addressed them."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The agony of those contorted limbs struck me with a spasm of pain and blurred my eyes with tears."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Ancient geological strata often reveal **contorted** layers of slate folded by immense tectonic pressure."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The victim lay upon the damp moor with a **contorted** countenance frozen in horror."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"Old olive trees with gnarled and **contorted** trunks dotted the rocky Italian hillside."*

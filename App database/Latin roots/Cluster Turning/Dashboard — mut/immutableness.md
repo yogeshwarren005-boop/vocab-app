@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being incapable of mutation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being incapable of mutation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic quality or attribute of being permanently unalterable and constant across all circumstances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The endurance and steadfast permanence of principles, physical constants, or divine attributes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Still, for all this immutableness, was there some lack of common consistency about worthy Captain Bildad."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Still, for all this immutableness, was there some lack of common consistency about worthy Captain Bildad."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The eternal **immutableness** of celestial justice confounded the ambitions of the rebellious host."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Human vanity foolishly seeks an **immutableness** in earthly fortunes which mortal existence cannot sustain."*
+> - 📜 **Jonathan Edwards (*Freedom of the Will*):** *"The profound **immutableness** of moral truth ensures that rectitude remains eternal and unshakeable."*

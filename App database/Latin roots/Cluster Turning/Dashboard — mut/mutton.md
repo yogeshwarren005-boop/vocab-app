@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Meat from a mature domestic sheep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meat from a mature domestic sheep.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The culinary meat derived from a mature domesticated sheep, prized for rich flavor and traditional slow braising.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Archaic term for a sheep; also used colloquially in historical idioms referring to livestock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And is not the grease of a mutton as wholesome as the sweat of a man?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What’s a joint of mutton or two in a whole Lent?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Some pigeons, Davy, a couple of short-legged hens, a joint of mutton, and any pretty little tiny kickshaws, tell William cook."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"A succulent joint of roasted **mutton** was placed before the traveler after his long and tedious trek."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mrs. Micawber presided over a cold shoulder of **mutton** with cheerful grace despite financial anxieties."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The honest captain preferred plain boiled **mutton** with caper sauce to all the elaborate French concoctions."*

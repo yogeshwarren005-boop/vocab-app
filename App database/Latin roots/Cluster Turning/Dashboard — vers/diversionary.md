@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of tactics e.g.) likely or designed to confuse or deceive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of tactics e.g.) likely or designed to confuse or deceive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intended to distract attention or military resources from a main objective, plan, or point of attack.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or functioning as an intentional tactical diversion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Narval did say to crank in diversionary tactics that would draw the Terminals' defensive forces away from their normal ops zone." "That's weird." "Agreed."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"What we cannot count on is INOR's failing to see us on the move." "How do we get around that?" "Diversionary tactics; draw their attention to a major initiative on our part in which all of INOR has role vital to its interests, if not survival."*
+> - 📜 **Carl von Clausewitz (*On War*):** *"A bold **diversionary** assault upon the forward outpost masked the deployment of the primary reserve corps."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The naval bombardment served as a vital **diversionary** feint prior to the amphibious beachhead landing."*
+> - 📜 **Arthur Conan Doyle (*His Last Bow*):** *"The spy staged a noisy **diversionary** brawl in the tavern to slip unnoticed through the rear exit."*

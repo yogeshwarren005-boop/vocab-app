@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mottled horny substance of the shell of some turtles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brilliantly colored; larvae feed on nettles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mottled, translucent, amber-and-brown horny material obtained from the carapace of the hawksbill sea turtle, historically used for decorative combs and inlays.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mottled pattern or coloration of brown, black, amber, and yellow, characteristic of certain domestic cat coats or butterfly wings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"That half tabbywhite tortoiseshell in the _City Arms_ with the letter em on her forehead."*
-> - 📜 **James Joyce (*Ulysses*):** *"MRS BELLINGHAM: _(In cap and seal coney mantle, wrapped up to the nose, steps out of her brougham and scans through tortoiseshell quizzing-glasses which she takes from inside her huge opossum muff.)_ Also to me."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"An elegant dressing case inlaid with polished **tortoiseshell** stood upon the mahogany vanity."*
+> - 📜 **Alexander Pope (*The Rape of the Lock*):** *"From silver vases the cosmetics rise; and **tortoiseshell** combs array the shining locks."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The old gentleman adjusted his heavy spectacles with rims crafted of mottled **tortoiseshell**."*

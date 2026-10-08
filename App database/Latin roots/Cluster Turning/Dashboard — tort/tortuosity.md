@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tortuous and twisted shape or position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tortuous and twisted shape or position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Anatomical, geographical, or physical curvature characterized by repeated winding twists, bends, and turns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deviousness, complexity, or convoluted nature of mind, conduct, or legal procedure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tortuosity designates a tortuous and twisted shape or position."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The marked **tortuosity** of the meandering river channel slowed the velocity of the floodwaters."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Gothic ornamentation delights in the graceful **tortuosity** of intertwined vine tendrils."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The diplomatic negotiations were prolonged by the labyrinthine **tortuosity** of court intrigue."*

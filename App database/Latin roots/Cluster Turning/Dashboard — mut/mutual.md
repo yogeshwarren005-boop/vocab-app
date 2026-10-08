@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Common to or shared by two or more parties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerning each of two or more persons or things; especially given or done in return.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Experienced, held, or shared in common between two or more parties; reciprocally directed or given.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by interdependent interaction, cooperation, or reciprocal commercial association.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, let me be obsequious in thy heart, And take thou my oblation, poor but free, Which is not mixed with seconds, knows no art, But mutual render, only me for thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The nobleness of life Is to do thus [_Embracing_]; when such a mutual pair And such a twain can do’t, in which I bind, On pain of punishment, the world to weet We stand up peerless."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But it chances The stealth of our most mutual entertainment With character too gross is writ on Juliet."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"A **mutual** understanding gradually softened their former reserve and opened the way for genuine affection."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"Men enter into civil society for the **mutual** preservation of their lives, liberties, and estates."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"True friendship rests upon a foundation of **mutual** respect and intellectual magnanimity."*

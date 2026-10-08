@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In diverse ways.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diverse ways.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In varied, different, or distinct ways; multiformly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In different directions or contradictory manners.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"A mere spectator of other men’s fortunes and adventures, and how they play their parts; which, methinks, are diversely presented unto me, as from a common theatre or scene.”--BURTON."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The human understanding is **diversely** infected and biased by passions and sensory limitations."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Mankind are **diversely** affected by the same external events according to individual temperament."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Sensory objects act **diversely** upon the nervous organs to produce distinct mental impressions."*

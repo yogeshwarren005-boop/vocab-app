@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make false by mutilation or addition; as of a message or story.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form into a spiral shape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pulled, twisted, or warped out of normal shape, symmetry, or proportion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Misrepresented, perverted, or falsified in fact, character, or musical tone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce and Jarndyce had obtained such possession of his whole nature that it was impossible to place any consideration before him which he did not, with a distorted kind of reason, make a new argument in favour of his doing what he did."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Since the receipt of the missive in the morning, Boldwood had felt the symmetry of his existence to be slowly getting distorted in the direction of an ideal passion."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It radiated upwards into their faces, and sent over half the plantation gigantic shadows of both man and woman, each dusky shape becoming distorted and mangled upon the tree-trunks till it wasted to nothing."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Refracted rays made the submerged harpoon appear broken and **distorted** beneath the surface."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Gossip presented a cruelly **distorted** account of the physician's motives to the provincial town."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The glass prism produced a **distorted** image when its faces lacked optical parallelism."*

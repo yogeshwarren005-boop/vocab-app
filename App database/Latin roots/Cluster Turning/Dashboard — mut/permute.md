@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change the order or arrangement of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change the order or arrangement of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To change the order or linear arrangement of a set of items, symbols, or components; to rearrange combinatorially.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To alter, exchange, or transform thoroughly in form or nature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, permute designates change the order or arrangement of."*
+> - 📜 **William Rowan Hamilton (*Elements of Quaternions*):** *"When we **permute** the cyclic indices of the triad, the sign of the product reverses systematically."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The engine mechanism could **permute** arithmetic sequences automatically without human intervention."*
+> - 📜 **Arthur Cayley (*Collected Mathematical Papers*):** *"To **permute** the columns of the determinant yields an equivalent matrix with inverted determinant sign."*

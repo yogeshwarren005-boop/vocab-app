@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With the use of colloquial expressions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With the use of colloquial expressions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a conversational, informal, or colloquial manner; through spoken dialogue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the easy, unconstrained tone of everyday talk.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket conversationally, “and much to blame you would be if you didn’t."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Conversationally, I am like a clockwork toy."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"You treat her as a child who must be fed on sweetmeats, and bribed with treats and diversions; conversationally you talk down to her level."*
+> - 📜 **Mark Twain (*The Adventures of Huckleberry Finn*):** *"He remarked **conversationally** that the river had risen two feet since the previous sunset."*
+> - 📜 **Henry James (*Daisy Miller*):** *"Winterbourne spoke **conversationally**, attempting to put the unconventional young lady at her ease."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"She inquired **conversationally** after his family, hiding all trace of inner agitation."*

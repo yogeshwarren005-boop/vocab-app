@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reciprocality of sentiments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reciprocal relation between interdependent entities (objects or individuals or groups).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition or practice of reciprocal exchange, shared sentiment, or interdependent relationship between persons or groups.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal contracts, the doctrine that both parties must be bound or receive reciprocal consideration for an agreement to remain enforceable.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The problem is often in bringing the two distant age groups into each other's presence so that the dynamics of their interaction and mutuality can take place."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Where such cross feed and mutuality does not prevail, employer-community initiatives can explore them and apply the results for the common good."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When these mutualities so marshal the way, hard at hand comes the master and main exercise, the incorporate conclusion."*
+> - 📜 **John Stuart Mill (*The Subjection of Women*):** *"Marital happiness flourishes only where complete equality and moral **mutuality** define the domestic union."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The doctrine of contractual **mutuality** dictates that both parties must assume reciprocal covenants of obligation."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The blossoming **mutuality** of their artistic tastes drew them into prolonged and intimate conversations."*

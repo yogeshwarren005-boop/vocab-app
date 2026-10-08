@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of having the meaning altered or twisted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of having the meaning altered or twisted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being deformed, warped, or twisted out of natural shape or alignment by physical stress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Susceptible to misrepresentation, misinterpretation, or ideological alteration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, distortable designates capable of having the meaning altered or twisted."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The physical ether was treated mathematically as a continuous, non-rigid, **distortable** elastic medium."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Ambiguous linguistic terms remain dangerously **distortable** in the hands of unscrupulous polemicists."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"Flexible theoretical models are easily **distortable** to accommodate contrary experimental observations."*

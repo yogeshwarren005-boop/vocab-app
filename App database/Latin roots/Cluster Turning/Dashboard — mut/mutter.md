@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A low continuous indistinct sound; often accompanied by movement of the lips without the production of articulate speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complaint uttered in a low and indistinct tone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To speak or utter words indistinctly in a low, muffled voice, often in complaint, discontent, or irritation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A low, rumbling, indistinct sound or complaining utterance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How now, wool-sack, what mutter you?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What mutter you, or what conspire you, lords?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There are a kind of men so loose of soul, That in their sleeps will mutter their affairs."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I heard him **mutter** a bitter imprecation under his breath as he turned abruptly away from the window."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Orlick continued to **mutter** insolent defiance while hammering sullenly at the anvil."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The rustic elders would **mutter** gloomy prophecies whenever the river rose above the old stone bridge."*

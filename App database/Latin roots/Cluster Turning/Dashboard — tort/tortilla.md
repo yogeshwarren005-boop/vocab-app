@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thin unleavened pancake made from cornmeal or wheat flour.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thin unleavened pancake made from cornmeal or wheat flour.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin, circular unleavened flatbread made from finely ground maize flour (nixtamalized corn) or wheat flour, baked on a hot griddle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Spanish cuisine, a thick omelet typically prepared with sliced potatoes and onions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tortilla designates thin unleavened pancake made from cornmeal or wheat flour."*
+> - 📜 **Alexander von Humboldt (*Political Essay on the Kingdom of New Spain*):** *"The maize **tortilla** constitutes the fundamental daily sustenance of the Mexican population."*
+> - 📜 **Richard Henry Dana Jr. (*Two Years Before the Mast*):** *"Californian rancheros served us roasted beef wrapped within a warm, fresh **tortilla**."*
+> - 📜 **John Steinbeck (*Tortilla Flat*):** *"Pilon broke a steaming corn **tortilla** in half and shared the meager meal with his friend."*

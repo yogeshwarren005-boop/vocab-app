@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resulting from mutation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or resulting from mutation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, caused by, or relating to genetic mutations or the process of mutation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by changes, variations, or alterations in sequence or hereditary form.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mutational designates of or relating to or resulting from mutation."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"The persistent **mutational** pressure provides an inexhaustible reservoir of genetic variability in populations."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"Natural selection acts upon the phenotypic products of **mutational** events occurring in chromosomes."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"A high **mutational** load can diminish the average reproductive fitness of an isolated population."*

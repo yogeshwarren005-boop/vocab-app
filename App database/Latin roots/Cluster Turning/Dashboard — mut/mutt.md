@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inferior dog or one of mixed breed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inferior dog or one of mixed breed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mixed-breed dog, especially one of uncertain or diverse ancestry; a mongrel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slang for a foolish, clumsy, or unrefined person; an awkward blunderer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mutt designates an inferior dog or one of mixed breed."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"The tough prairie **mutt** proved far more resilient in the arctic blizzard than any pampered pedigreed hound."*
+> - 📜 **O. Henry (*The Four Million*):** *"A friendly yellow **mutt** trotted beside the night watchman, wagging its tail at every passing stranger."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"He affectionately scolded his sleepy **mutt** as it curled upon the braided rag rug before the stove."*

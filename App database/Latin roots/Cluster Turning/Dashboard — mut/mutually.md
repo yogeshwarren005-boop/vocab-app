@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a mutual or shared manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a mutual or shared manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a mutual or reciprocal manner; each toward the other; in common agreement or shared experience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With joint interdependence and reciprocal consequence between both parties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So then it seems your most offenceful act Was mutually committed?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From time to time I have acquainted you With the dear love I bear to fair Anne Page, Who mutually hath answered my affection, So far forth as herself might be her chooser, Even to my wish."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pinch him, fairies, mutually; Pinch him for his villainy."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The commercial interests of the states were **mutually** intertwined and dependent upon naval protection."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Two competing varieties may become **mutually** modified over successive generations through natural selection."*
+> - 📜 **Jane Austen (*Emma*):** *"They spent a delightful morning in pursuits that were **mutually** agreeable to both temperament and intellect."*

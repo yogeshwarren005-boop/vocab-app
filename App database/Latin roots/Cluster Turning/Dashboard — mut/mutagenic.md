@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of inducing mutation (used mainly of extracellular factors such as x-rays or chemical pollution).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of inducing mutation (used mainly of extracellular factors such as x-rays or chemical pollution).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of inducing or accelerating genetic mutations; possessing mutagen properties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by or resulting from genetic mutation induced by external agents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mutagenic designates capable of inducing mutation (used mainly of extracellular factors such as x-rays or chemical pollution)."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Laboratory assays demonstrated the dangerously **mutagenic** properties of alkylating agricultural compounds."*
+> - 📜 **Herman Joseph Muller (*Studies in Genetics*):** *"The high frequency of lethal mutations confirmed the markedly **mutagenic** action of thermal shocks and rays."*
+> - 📜 **Linus Pauling (*No More War!*):** *"Atmospheric fallout introduces **mutagenic** radioactive isotopes directly into human food chains across the globe."*

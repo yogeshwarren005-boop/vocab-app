@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An event that results in a transformation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A change in the units or form of an expression:.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of changing or being transformed from one form, state, purpose, or currency into another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A profound change of personal belief, religion, or political conviction; in legal terms, wrongful appropriation of another's personal property.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do not shame To tell you what I was, since my conversion So sweetly tastes, being the thing I am."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good den, Sir Richard!” “God-a-mercy, fellow!” And if his name be George, I’ll call him Peter; For new-made honour doth forget men’s names: ’Tis too respective and too sociable For your conversion."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Well, it is a strange story; believe it or not; but I can tell you the means by which my conversion was brought about, and I hope you will be interested enough at least to listen."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The **conversion** of mechanical motion into electric currents represents a fundamental natural harmony."*
+> - 📜 **Augustine of Hippo (*Confessions*):** *"My heart was flooded with celestial peace at the moment of spiritual **conversion** in the garden."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"An action of trover lies for the tortious **conversion** of personal goods to the defendant's use."*

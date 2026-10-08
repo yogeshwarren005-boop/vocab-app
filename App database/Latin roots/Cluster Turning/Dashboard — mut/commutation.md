@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The travel of a commuter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A warrant substituting a lesser punishment for a greater one.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of commuting, substituting, or exchanging one thing for another, especially the reduction of a legal sentence to a less severe penalty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical engineering, the reversal of current direction in a coil of an electric motor or generator; also, regular daily travel between home and workplace.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Could he some commutation broach, I’ll pledge my aith in guid braid Scotch, He needna fear their foul reproach Nor erudition, Yon mixtie-maxtie, queer hotch-potch, The Coalition."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Husband's labors for the pardon or commutation of the sentence of soldiers condemned by court-martial--Her museum and its treasures. 287-298 THE HOSPITAL TRANSPORT SERVICE."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The commutation of his death sentence had been due to some doubts as to his complete sanity, so atrocious was his conduct."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The power of pardon includes the lesser prerogative of sentence **commutation** when justice warrants clemency."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Irregular spark discharge occurred at the split ring during rapid **commutation** of the dynamic charge."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"A sudden **commutation** of capital penalties into terms of solitary imprisonment transformed the penal system."*

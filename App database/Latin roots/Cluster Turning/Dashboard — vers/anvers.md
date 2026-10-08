@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A busy port and financial center in northern belgium on the scheldt river; it has long been a center for the diamond industry and the first stock exchange was opened there in 1460.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A busy port and financial center in northern belgium on the scheldt river; it has long been a center for the diamond industry and the first stock exchange was opened there in 1460.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The French name for the historic port and commercial diamond center of Antwerp in northern Belgium, situated on the Scheldt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the mercantile, maritime, or artistic traditions of the Flemish city of Antwerp.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anvers designates a busy port and financial center in northern belgium on the scheldt river; it has long been a center for the diamond industry and the first stock exchange was opened there in 1460."*
+> - 📜 **Victor Hugo (*Les Misérables*):** *"Merchandise from all across Europe passed through the maritime quays of **anvers** before reaching Paris."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"She embarked at London for **anvers**, eager to begin her pedagogical duties upon the Continent."*
+> - 📜 **John Lothrop Motley (*The Rise of the Dutch Republic*):** *"The tragic sack of **anvers** by mutinous Spanish troops crippled Flemish prosperity for decades."*

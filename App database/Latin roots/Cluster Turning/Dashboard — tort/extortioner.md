@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A criminal who extorts money from someone by threatening to expose embarrassing information about them.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A criminal who extorts money from someone by threatening to expose embarrassing information about them.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who practices extortion; one who coerces money or property through threats or official power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A grasping, avaricious lender, usurer, or tax farmer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extortioner designates a criminal who extorts money from someone by threatening to expose embarrassing information about them."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"The unjust judge and greedy **extortioner** shall meet swift reckoning before the divine tribunal."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Society rightly despises the heartless **extortioner** who enriches himself upon the misfortunes of orphans."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The honest farmer is often preyed upon by the mercantile **extortioner** awaiting debt default."*

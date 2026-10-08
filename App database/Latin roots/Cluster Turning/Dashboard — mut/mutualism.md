@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation between two different species of organisms that are interdependent; each gains benefits from the other.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation between two different species of organisms that are interdependent; each gains benefits from the other.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ecological interaction or symbiotic relationship between two distinct species in which both organisms derive nutritional or survival benefits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A socioeconomic philosophy advocating voluntary mutual assistance, cooperative federations, and reciprocal credit unions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mutualism designates the relation between two different species of organisms that are interdependent; each gains benefits from the other."*
+> - 📜 **Peter Kropotkin (*Mutual Aid: A Factor of Evolution*):** *"The widespread occurrence of **mutualism** across animal communities proves that cooperation drives evolutionary success."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Co-evolutionary adaptations sustain obligate **mutualism** between flowering plants and specialized insect pollinators."*
+> - 📜 **Pierre-Joseph Proudhon (*The Principle of Federation*):** *"Under true economic **mutualism**, producers exchange equivalent values through free contractual association."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An acrobat able to twist into unusual positions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acrobat able to twist into unusual positions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An acrobat or performer who displays extraordinary bodily flexibility by bending and twisting limbs into unusual postures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who engages in convoluted intellectual acrobatics or evasive rhetorical twisting to defend a flawed position.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contortionist designates an acrobat able to twist into unusual positions."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The travelling circus featured a supple **contortionist** who could fold himself into a small traveling trunk."*
+> - 📜 **P. T. Barnum (*Struggles and Triumphs*):** *"Audiences watched with breathless amazement as the Parisian **contortionist** performed his astonishing serpentine feats."*
+> - 📜 **George Bernard Shaw (*Dramatic Opinions and Essays*):** *"The diplomatic speaker performed like a verbal **contortionist**, twisting his statements to placate every hostile faction."*

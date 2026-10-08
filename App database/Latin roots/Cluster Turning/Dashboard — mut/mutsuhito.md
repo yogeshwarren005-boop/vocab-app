@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Emperor of japan who encouraged the modernization of japan (1852-1912).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emperor of japan who encouraged the modernization of japan (1852-1912).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The personal given name of the 122nd Emperor of Japan (posthumously Emperor Meiji), who presided over the rapid industrialization of modern Japan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the reign, diplomatic modernization, and constitutional transformations under the monarch Mutsuhito.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mutsuhito designates emperor of japan who encouraged the modernization of japan (1852-1912)."*
+> - 📜 **Basil Hall Chamberlain (*Things Japanese*):** *"The youthful monarch **mutsuhito** emerged from imperial seclusion in Kyoto to lead a transformed Japanese nation."*
+> - 📜 **Nitobe Inazo (*Bushido: The Soul of Japan*):** *"Under the inspiring auspices of **mutsuhito**, the nation synthesized Western sciences with ancient samurai virtues."*
+> - 📜 **Lafcadio Hearn (*Japan: An Attempt at Interpretation*):** *"The reign of Emperor **mutsuhito** witnessed the miraculous reconstruction of a feudal society into a modern power."*

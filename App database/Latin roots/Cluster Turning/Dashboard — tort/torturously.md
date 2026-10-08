@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a very painful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a very painful manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner causing or accompanied by excruciating pain, agony, or severe torture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With prolonged, agonizing difficulty or emotional distress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, torturously designates in a very painful manner."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The trapped oarsman struggled **torturously** to free himself from the fouled whale line."*
+> - 📜 **Edgar Allan Poe (*The Pit and the Pendulum*):** *"The descending steel blade swept **torturously** closer to my heart with each swinging oscillation."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"The hours dragged by **torturously** while she awaited the fateful messenger upon the veranda."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of changing sequence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of changing sequence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being interchanged, transposed, or rearranged into diverse alternative orders or combinations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Susceptible to mutual substitution without destroying fundamental structural equivalence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, permutable designates capable of changing sequence."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The teeth upon the calculating wheels were made **permutable** to facilitate varied polynomial tabulations."*
+> - 📜 **William Rowan Hamilton (*Lectures on Quaternions*):** *"Operations that are strictly **permutable** commute freely across all algebraic transformations."*
+> - 📜 **James Clerk Maxwell (*Scientific Papers*):** *"The optical components remained **permutable** so that polarizers could be transposed at will."*

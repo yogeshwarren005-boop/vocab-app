@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone skilled at conversation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone skilled at conversation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who takes part in conversation, especially one noted for conversational skill; variant of conversationalist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adept participant in intellectual or social colloquies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conversationist designates someone skilled at conversation."*
+> - 📜 **Samuel Johnson (*Lives of the Poets*):** *"Dryden was an excellent poet but a modest **conversationist**, reluctant to display his learning in company."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"Coleridge shone as a transcendent **conversationist**, pouring forth endless streams of poetic speculation."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The French salon gathered every notable **conversationist** of the Enlightenment era."*

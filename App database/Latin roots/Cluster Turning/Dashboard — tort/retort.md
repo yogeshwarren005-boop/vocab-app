@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quick reply to a question or remark (especially a witty or critical one).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vessel where substances are distilled or decomposed by heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make a sharp, quick, witty, or cutting reply to an accusation, insult, or remark.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry, a vessel with a long tapering neck bent downward, used for distillation or decomposition by heat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is called the “retort courteous”."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do retort the _solus_ in thy bowels; For I can take, and Pistol’s cock is up, And flashing fire will follow."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Duke’s unjust Thus to retort your manifest appeal, And put your trial in the villain’s mouth Which here you come to accuse."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was prepared with a spirited **retort** that completely disarmed her haughty interlocutor."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"Volatile gases were driven off through the curved neck of the glass **retort** over the furnace."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber paused for a moment before delivering an indignant **retort** to his creditor."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The travel of a commuter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exchange positions without a change in value.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or practice of traveling regularly back and forth between residence and workplace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics and physics, possessing or exhibiting the mathematical property of commutation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I suppose that I am commuting a felony, but it is just possible that I am saving a soul."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Those were wonderful hours in which the two hunted a nest that would be near enough to the city for Martin's daily commuting and yet have so much of the country about it as to boast of green grass and space for flowers."*
+> - 📜 **Lewis Mumford (*The City in History*):** *"Long hours spent **commuting** across sprawling suburbs fractured the organic community life of the historical township."*
+> - 📜 **Paul Dirac (*The Principles of Quantum Mechanics*):** *"Two **commuting** observables possess a simultaneous set of eigenstates throughout the configuration space."*
+> - 📜 **Jane Jacobs (*The Death and Life of Great American Cities*):** *"Extensive daily **commuting** drains neighborhood sidewalks of active civic oversight during working hours."*

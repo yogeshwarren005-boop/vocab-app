@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mutually dependent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mutually dependent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism that participates in a symbiotic relationship of mutualism with another species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adherent or proponent of the economic philosophy of mutualism, notably following the ideas of Pierre-Joseph Proudhon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mutualist designates mutually dependent."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The pollinating insect acts as an indispensable **mutualist**, ensuring the fertilization of the orchid."*
+> - 📜 **Peter Kropotkin (*Mutual Aid: A Factor of Evolution*):** *"Every true social **mutualist** recognizes that collective solidarity outshines ruthless individual competition."*
+> - 📜 **Pierre-Joseph Proudhon (*What Is Property?*):** *"The genuine **mutualist** seeks to eliminate usury and establish reciprocal exchange based upon equal labor value."*

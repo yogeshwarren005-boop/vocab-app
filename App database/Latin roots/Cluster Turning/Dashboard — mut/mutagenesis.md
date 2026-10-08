@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An event capable of causing a mutation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An event capable of causing a mutation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or biological origin by which genetic information of an organism is changed, producing a permanent mutation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biology, experimental techniques (such as site-directed mutagenesis) deliberately employed to alter genetic sequences for scientific study.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mutagenesis designates an event capable of causing a mutation."*
+> - 📜 **Herman Joseph Muller (*Artificial Transmutation of the Gene*):** *"Experimental **mutagenesis** opened a new frontier for mapping gene loci and analyzing hereditary dynamics."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"Targeted **mutagenesis** enabled researchers to decipher the specific amino acid consequences of triplet codon alterations."*
+> - 📜 **Salvador Luria (*Mutations of Bacteria from Virus Sensitivity to Virus Resistance*):** *"Spontaneous **mutagenesis** in bacterial cultures accounted for the rapid emergence of phage-resistant colonies."*

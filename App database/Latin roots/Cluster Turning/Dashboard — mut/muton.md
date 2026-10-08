@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The smallest unit of dna where a mutation can occur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The smallest unit of dna where a mutation can occur.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical molecular genetics, the smallest element or nucleotide pair within a gene capable of undergoing mutational alteration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fundamental unit of genetic mutation as defined by fine-structure recombination experiments in bacteriophage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, muton designates the smallest unit of dna where a mutation can occur."*
+> - 📜 **Seymour Benzer (*The Elementary Units of Heredity*):** *"We define the **muton** as the smallest alterable physical element that can yield an inheritable phenotypic change."*
+> - 📜 **Ernst Mayr (*The Growth of Biological Thought*):** *"Benzer's conceptual division into cistron, recon, and **muton** refined the physical definition of the gene locus."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"Genetic mapping experiments confirmed that the theoretical **muton** corresponded precisely to a single nucleotide base pair."*

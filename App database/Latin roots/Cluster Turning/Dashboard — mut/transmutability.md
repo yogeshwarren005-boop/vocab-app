@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being commutable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being commutable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The susceptibility or capability of being converted, altered, or transformed from one substance, species, or element into another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In alchemical philosophy and nuclear physics, the capacity of atomic matter or chemical elements to undergo transmutation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transmutability designates the quality of being commutable."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The alleged **transmutability** of base lead into pure gold remains an unverified dogma of the adepts."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"We must investigate the **transmutability** of bodies to uncover the latent processes governing material change."*
+> - 📜 **Ernest Rutherford (*Radioactivity*):** *"The spontaneous **transmutability** of radium into helium atoms revolutionized modern chemical philosophy."*

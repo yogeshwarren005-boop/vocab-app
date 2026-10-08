@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being changed into something else.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being changed into something else.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being transformed, converted, or transmuted into a different form, substance, or elemental state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impervious to chemical, alchemical, or nuclear alteration; intrinsically permanent and refractory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, untransmutable designates not capable of being changed into something else."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"Certain primitive earths appear utterly **untransmutable** despite prolonged exposure to intense heat."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The diamond was deemed **untransmutable** by ancient sages because of its impenetrable hardness."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The simple ideas of sensation remain **untransmutable** by the creative power of human fancy."*

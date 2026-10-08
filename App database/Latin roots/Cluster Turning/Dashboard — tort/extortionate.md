@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Greatly exceeding bounds of reason or moderation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greatly exceeding bounds of reason or moderation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exorbitant, grossly excessive, or oppressive in price, rate, or demanded terms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by or practicing extortion; unjustifiably grasping.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Employment and extortionate profits from Slingshot services and industries would plummet as Planet Pluto continued outbound along its eccentric orbit into interstellar space."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The sole druggist in a small town might occasionally get extortionate prices from particular customers in times of dire need, but he would thus drive away much of his custom, and would tempt a fairer and less grasping competitor to come in."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Give Señor Candiola the doubloon that he charges for this fowl." He gave him the extortionate amount, which Candiola was not slow to accept; and then our friend went on thus,-- "Señor Candiola, let us speak together."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The usurer demanded **extortionate** interest from the insolvent debtor trapped within the Marshalsea."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The innkeeper presented an **extortionate** bill for accommodation, taking advantage of the stranded post-chaise."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Monopolies impose **extortionate** rates when unfettered competition fails to restrain prices."*

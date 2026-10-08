@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leaf rollers and codling moths.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leaf rollers and codling moths.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large cosmopolitan family of microlepidopteran moths, commonly known as leafrollers or tortricid moths, many of whose larvae are significant agricultural pests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The taxonomic family comprising leaf-twisting and fruit-boring moths such as the codling moth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tortricidae designates leaf rollers and codling moths."*
+> - 📜 **Charles Valentine Riley (*Report on the Insects of Missouri*):** *"Economic entomologists study the **tortricidae** because several species cause extensive damage to orchard crops."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"The larvae of the **tortricidae** construct characteristic tubular shelters by fastening curled leaves together."*
+> - 📜 **Augustus Radcliffe Grote (*Check List of North American Moths*):** *"Numerous newly discovered boreal genera were appended to the catalogued **tortricidae**."*

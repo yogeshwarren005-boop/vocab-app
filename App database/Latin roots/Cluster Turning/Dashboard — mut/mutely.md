@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without speaking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without speaking.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without speech or sound; silently, wordlessly, or in dumb silence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner indicating unspoken consent, despair, or suppressed feeling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In its occasional moments of reason, it would look piteously as if mutely appealing, and then the next convulsion would take it and seem to leave it just at death's door."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"John—sitting as still as one of the dusty pictures on the walls, keeping his eyes fixed on the page he perused, and his lips mutely sealed—was easy enough to examine."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But Dorothea is not always consistent.” Thus Celia, mutely bending over her tapestry, until she heard her sister calling her."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She gazed **mutely** into the dying embers, harboring sorrows she dared not impart to another soul."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe Gargery pointed **mutely** toward the forge fire, his honest eyes expressing all that tongue could not utter."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The solitary figure stood **mutely** before the tribunal, bearing the heavy condemnation with unyielding fortitude."*

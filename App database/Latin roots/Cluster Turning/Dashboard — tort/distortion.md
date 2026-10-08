@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A change for the worse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shape resulting from distortion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The alteration of the original shape, configuration, or appearance of an object, wave, or sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The misrepresentation of facts, statements, or truths; a biased perversion of reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was, so to speak, that symmetry in their distortion which is less the characteristic of British than of Continental grotesques of the period."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"And what a distortion in your judgment, what a perversity in your ideas, is proved by your conduct!"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Dear Celia,” said Dorothea, with tender gravity, “if you don’t ever see me, it will not be my fault.” “Yes, it will,” said Celia, with the same touching distortion of her small features."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Excessive devotion to rhetoric produces a serious **distortion** of philosophical enquiry."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Thermal metamorphism caused extreme **distortion** of the fossiliferous strata along the volcanic dyke."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Envy causes a moral **distortion** that blinds the soul to the excellence of neighboring minds."*

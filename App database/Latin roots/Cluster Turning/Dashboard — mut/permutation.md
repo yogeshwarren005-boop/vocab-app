@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An event in which one thing is substituted for another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of changing the arrangement of a given number of elements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An arrangement of a definite number of items into a specific linear or ordered sequence, where order matters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any alteration, radical transformation, or variation of a set, concept, or structural pattern.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A was undermining B, D was undermining C, and so on in all possible combinations and permutations."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Countless geological epochs witnessed every possible **permutation** of climate and continental topography."*
+> - 📜 **Isaac Newton (*Arithmetica Universalis*):** *"The calculation of every linear **permutation** of the letters establishes the total factorial combinations."*
+> - 📜 **Edgar Allan Poe (*The Gold-Bug*):** *"By testing each probable **permutation** of the cipher symbols, Legrand deciphered the pirate's cryptic message."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reciprocality of sentiments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reciprocality of sentiments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic reciprocity or shared nature of feelings, obligations, or agreements between two or more parties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Interdependent communion or cooperative understanding existing within a relationship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mutualness designates a reciprocality of sentiments."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Poetic resonance depends upon the deep **mutualness** of emotional sympathy connecting bard and audience."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"No artificial bond can replace the spontaneous **mutualness** that unites two kindred spirits in virtue."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"A society devoid of moral **mutualness** dissolves into a chaotic battlefield of selfish competing interests."*

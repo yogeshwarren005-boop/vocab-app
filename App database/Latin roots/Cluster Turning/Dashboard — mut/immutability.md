@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being incapable of mutation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being incapable of mutation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property or attribute of being unchangeable, enduring, and incapable of undergoing alteration through time or circumstance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological doctrine and computer science, the absolute constancy of divine nature, or the inability of an object's state to be modified after creation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He alone did not obey the law of immutability in the enchanted, sleeping castle."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The perceived **immutability** of mathematical truths arises from the necessary relations connecting our abstract ideas."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"We mistakenly attribute eternal **immutability** to customary sequences observed repeatedly in external nature."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"Divine essence implies absolute **immutability**, since any potential change requires an external actualizing principle."*

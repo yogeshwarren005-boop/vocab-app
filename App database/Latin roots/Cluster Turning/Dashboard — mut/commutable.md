@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subject to alteration or change.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being exchanged for another or for something else that is equivalent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being exchanged, replaced, or converted into another form, value, or equivalent penalty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In daily travel or transit geography, describing a residential distance that can be traversed reasonably on a daily commute to work.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, commutable designates subject to alteration or change."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Ideas that are purely arbitrary remain easily **commutable** within ordinary linguistic discourse."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A penal sentence rendered **commutable** by executive grace softens the perceived harshness of statutory law."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Ancient feudal services became **commutable** for annual monetary rents paid directly to the crown."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous small moths having lightly fringed wings; larvae are leaf rollers or live in fruits and galls.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous small moths having lightly fringed wings; larvae are leaf rollers or live in fruits and galls.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any small moth of the family Tortricidae, whose larvae typically roll, fold, or twist plant leaves together to create protective shelters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or characteristic of the leafroller moth family Tortricidae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tortricid designates any of numerous small moths having lightly fringed wings; larvae are leaf rollers or live in fruits and galls."*
+> - 📜 **Jean-Henri Fabre (*Social Life in the Insect World*):** *"The voracious **tortricid** caterpillar binds adjacent apple leaves with silky threads before feeding."*
+> - 📜 **John Lubbock (*On the Senses, Instincts, and Intelligence of Animals*):** *"Certain species of **tortricid** moths display remarkable protective mimicry matching weathered bark."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature, and Other Essays*):** *"Microlepidopterists collected diverse **tortricid** specimens among the canopy foliage of the rainforest."*

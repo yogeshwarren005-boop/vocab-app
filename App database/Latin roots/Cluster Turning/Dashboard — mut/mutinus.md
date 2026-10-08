@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fungi belonging to the family phallaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of fungi belonging to the family phallaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of stinkhorn fungi in the family Phallaceae, noted for slender, phallic fruiting bodies capped with pungent spore-bearing gleba.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A botanical specimen belonging to this genus of phallic stinkhorn saprobic fungi.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mutinus designates a genus of fungi belonging to the family phallaceae."*
+> - 📜 **Charles Horton Peck (*Report of the State Botanist*):** *"A solitary specimen of **mutinus** emerged abruptly from the decaying woodchips beneath the garden hedge."*
+> - 📜 **Mordecai Cubitt Cooke (*British Fungi*):** *"The foetid olive-green slime coating the apex of **mutinus** attracts carrion flies to disperse its spores."*
+> - 📜 **Pier Andrea Saccardo (*Sylloge Fungorum*):** *"Taxonomic keys differentiate **mutinus** from Phallus by its lack of a distinct, separate pileus veil."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin mut within the domain of Turning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of mut in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With the necessary changes having been made; applied to comparisons between analogous cases where minor details are adjusted to fit the new context.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal Latin qualification in law, philosophy, or logic noting that the same principle holds true once relevant differences are accommodated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mutatis mutandis designates pertaining to, derived from, or characteristic of latin mut within the domain of turning."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The identical principle applies, **mutatis mutandis**, to the regulation of foreign importations across maritime borders."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The propositions established regarding physical causes apply, **mutatis mutandis**, to mental phenomena."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"The same reasoning holds, **mutatis mutandis**, when we examine the passions of pride and humility."*

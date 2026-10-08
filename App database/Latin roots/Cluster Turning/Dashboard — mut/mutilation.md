@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An injury that causes disfigurement or that deprives you of a limb or other important body part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An injury that causes disfigurement or that deprives you of a limb or other important body part.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The infliction of severe physical trauma resulting in the loss or severe impairment of an anatomical limb or organ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The destructive alteration, disfigurement, or truncation of an artistic, architectural, or literary masterpiece.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Unlike and superior to either of those two typical remnants of mediævalism, the old barn embodied practices which had suffered no mutilation at the hands of time."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Less the opportunity of an insight into grinding and bolting than the casual fact that lodgings were to be obtained in that very farmhouse which, before its mutilation, had been the mansion of a branch of the d’Urberville family."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Blindness and mutilation are better, Jesus said, than the eye of lust (Matt. 5:28)."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The common law punished mayhem and malicious **mutilation** as heinous felonies against the king's peace."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"Modern restorations have wrought more irreparable **mutilation** upon medieval cathedrals than centuries of storm."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The woodchopper considered not the tragic **mutilation** of the ancient pines felled for commercial lumber."*

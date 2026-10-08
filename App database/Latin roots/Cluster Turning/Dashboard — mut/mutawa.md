@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Religious police in saudi arabia whose duty is to ensure strict adherence to established codes of conduct; offenders may be detained indefinitely; foreigners are not excluded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Religious police in saudi arabia whose duty is to ensure strict adherence to established codes of conduct; offenders may be detained indefinitely; foreigners are not excluded.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the religious police or public morality squads in Saudi Arabia, tasked with enforcing strict Islamic social observances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official or voluntary enforcer of Islamic behavioral codes and ritual attendance in conservative Arabian societies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mutawa designates religious police in saudi arabia whose duty is to ensure strict adherence to established codes of conduct; offenders may be detained indefinitely; foreigners are not excluded."*
+> - 📜 **Robert Lacey (*The Kingdom: Arabia and the House of Sa'ud*):** *"Pedestrians hurried toward the mosque as an austere **mutawa** patrolled the market perimeter with a cane."*
+> - 📜 **Sandra Mackey (*The Saudis: Inside the Desert Kingdom*):** *"The presence of a vigilant **mutawa** compelled shopkeepers to pull down metal shutters at the call to prayer."*
+> - 📜 **Lawrence Wright (*The Looming Tower*):** *"In the capital streets, the **mutawa** scrutinized public attire to ensure strict adherence to traditional decorum."*

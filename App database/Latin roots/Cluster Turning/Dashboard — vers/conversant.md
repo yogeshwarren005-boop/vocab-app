@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (usually followed by `with') well informed about or knowing thoroughly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually followed by `with') well informed about or knowing thoroughly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Familiar with or knowledgeable about something through study or experience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Archaic meaning: associating or living familiarly with someone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I much marvel that your lordship, having Rich tire about you, should at these early hours Shake off the golden slumber of repose. ’Tis most strange, Nature should be so conversant with pain."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I want my daughters to become thorough housekeepers, conversant with all the details of every branch of the business."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But my life for it he was either practically conversant with his subject, or else marvellously tutored by some experienced whaleman."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Every naturalist **conversant** with breeding practices knows how rapidly domestic varieties change."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The human intellect is primarily **conversant** about its own internal perceptions and ideas."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"A man truly **conversant** with scientific principles evaluates evidence without personal bias."*

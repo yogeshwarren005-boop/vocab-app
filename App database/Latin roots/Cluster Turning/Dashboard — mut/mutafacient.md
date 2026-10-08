@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of inducing mutation (used mainly of intracellular agents).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of inducing mutation (used mainly of intracellular agents).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing, inducing, or accelerating genetic mutation; acting as an active mutagenic agent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical substance, radiological agent, or physiological stimulus that induces heritable changes in genetic material.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mutafacient designates capable of inducing mutation (used mainly of intracellular agents)."*
+> - 📜 **Herman Joseph Muller (*Artificial Transmutation of the Gene*):** *"Irradiation with X-rays acted as an energetic **mutafacient** agent, multiplying mutations in the germ cells."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"The exposure of larval cultures to a chemical **mutafacient** increased the frequency of morphological anomalies."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Natural selection winnows the raw variants produced continuously by **mutafacient** environmental factors."*

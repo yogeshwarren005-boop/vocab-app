@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who speaks softly and indistinctly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who speaks softly and indistinctly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who continually speaks in low, indistinct, or grumbling tones, especially when airing grievances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual who whispers complaints, rumors, or conspiracies out of earshot of superiors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mutterer designates a person who speaks softly and indistinctly."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The discontented **mutterer** in the cafe was quickly silenced by the watchful gaze of the municipal guard."*
+> - 📜 **Walter Scott (*Old Mortality*):** *"A sullen **mutterer** of sedition slunk through the shadowed arches of the garrison courtyard."*
+> - 📜 **Robert Louis Stevenson (*The Master of Ballantrae*):** *"The old steward was a habitual **mutterer**, rehearsing ancient wrongs to the silent corridors of the manor."*

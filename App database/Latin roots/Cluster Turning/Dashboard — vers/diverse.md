@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Many and different.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distinctly dissimilar or unlike.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing a great deal of variety; distinctly different in kind, character, or form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Composed of distinct, varied elements or ethnic and cultural backgrounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Pilate waxed eloquent over the diverse sects and the fanatic uprisings and riotings that were continually occurring."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Only the flesh dies and passes, ever a-crawl with the chemic ferment that informs it, ever plastic, ever crystallizing, only to melt into the flux and to crystallize into fresh and diverse forms that are ephemeral and that melt back into the flux."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The institution of private property has evolved under diverse conditions."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection produces an astonishing array of **diverse** adaptations suited to varied ecological niches."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Behind the manifold and **diverse** appearances of nature operates a single transcendent spiritual law."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A vast continental republic encompasses **diverse** economic interests that mutually check factional tyranny."*

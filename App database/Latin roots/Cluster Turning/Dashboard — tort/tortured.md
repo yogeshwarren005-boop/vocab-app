@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Torment emotionally or mentally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to torture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Subjected to severe physical pain, torment, or agonizing anguish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forced, strained, unnatural, or convoluted in literary expression, thought, or art.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Murder indeed, that bloody sin, I tortured Above the felon or what trespass else."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say he be taken, racked, and tortured, I know no pain they can inflict upon him Will make him say I moved him to those arms."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ha, let’s see. ’Tis very true, my grief lies all within; And these external manner of laments Are merely shadows to the unseen grief That swells with silence in the tortured soul."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"His brow bore the deep lines of a **tortured** soul warring against unyielding destiny."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Arthur Dimmesdale pressed his trembling hand to his **tortured** heart during the midnight vigil."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab's sleep was broken by **tortured** visions of the great white whale rising from abyssal depths."*

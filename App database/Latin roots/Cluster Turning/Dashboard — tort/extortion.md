@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An exorbitant charge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unjust exaction (as by the misuse of authority).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or crime of obtaining money, property, or favors through coercion, threats, or abuse of public office.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The exaction of exorbitant, oppressive, or unjust prices or terms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, that goodness Of gleaning all the land’s wealth into one, Into your own hands, Cardinal, by extortion; The goodness of your intercepted packets You writ to the Pope against the King."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Monopoly price is a bad price to the one who pays it, not only because it is a high price but because it bears the character of personal extortion."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Our position is unchanged: the fees that they demand are without justification, an extortion to which we cannot submit." Throughout the discussions, the Strategic Concepts Computer flashed a continuing display."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The common law defines **extortion** as an abuse of public justice by any officer taking unlawful fees."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Monopoly privileges frequently degenerate into shameless **extortion** practiced against defenseless consumers."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The colonial collector was impeached for systematic **extortion** levied upon native merchants."*

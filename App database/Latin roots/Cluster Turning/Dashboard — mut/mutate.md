@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergo mutation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergo mutation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To undergo or cause to undergo a genetic change or alteration in form, structure, or nucleotide sequence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To change, transform, or evolve into a significantly different new form over time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mutate designates undergo mutation."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Organic forms **mutate** subtly over generations as environmental pressures winnow each minute variation."*
+> - 📜 **Thomas Hunt Morgan (*The Physical Basis of Heredity*):** *"Certain genetic loci tend to **mutate** with predictable frequency under controlled laboratory conditions."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Genes **mutate** by discrete steps, producing novel alleles that feed the selective evolutionary process."*

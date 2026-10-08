@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroy or injure severely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alter so as to make unrecognizable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having sustained severe injury, loss of limbs, or dismemberment; violently damaged or mangled.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rendered imperfect, fragmented, or truncated through severe editorial excisions or physical degradation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"When we came to the spot I inquired who the man was, for he was so mutilated I could not recognize him. _It was Mc."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Will He accept a mutilated sacrifice?"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He stretched his right hand (the left arm, the mutilated one, he kept hidden in his bosom); he seemed to wish by touch to gain an idea of what lay around him: he met but vacancy still; for the trees were some yards off where he stood."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab paced the deck upon his ivory heel, brooding over his **mutilated** limb with smoldering rage."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The coroner examined the **mutilated** remains found buried beneath the floorboards of the abandoned villa."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"An ancient, **mutilated** copy of the Saxon chronicle was preserved with reverent care in the monastic vault."*

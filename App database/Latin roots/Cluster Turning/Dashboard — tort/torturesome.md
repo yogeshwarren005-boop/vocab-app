@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely painful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely painful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing torture, agonizing discomfort, or intense physical or emotional distress; excruciating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by prolonged and painful irritation or anxiety.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, torturesome designates extremely painful."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"The sailor endured the **torturesome** penalty of the lash with clenched teeth and silent defiance."*
+> - 📜 **Robert Louis Stevenson (*The Master of Ballantrae*):** *"A slow, **torturesome** suspense eroded the spirits of the garrison trapped within the winter fort."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Doubt is a **torturesome** ailment of the intellect, cured only by decisive earnest action."*

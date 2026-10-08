@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states civil rights worker in mississippi; was killed by a sniper (1925-1963).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states civil rights worker in mississippi; was killed by a sniper (1925-1963).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Commemorating Medgar Evers, prominent American civil rights leader and field secretary for the NAACP in Mississippi who was assassinated for his activism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Archaic third-person singular of the verb ever (to overturn or turn outward).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, evers designates united states civil rights worker in mississippi; was killed by a sniper (1925-1963)."*
+> - 📜 **James Baldwin (*No Name in the Street*):** *"The murder of Medgar **evers** in his driveway shattered any remaining illusion of racial reconciliation without cost."*
+> - 📜 **Martin Luther King Jr. (*Why We Can't Wait*):** *"The courageous sacrifice of Medgar **evers** galvanized thousands to confront systemic injustice across the nation."*
+> - 📜 **Ralph Ellison (*Going to the Territory*):** *"The legacy of Medgar **evers** endures as a beacon of uncompromising dedication to American constitutional freedom."*

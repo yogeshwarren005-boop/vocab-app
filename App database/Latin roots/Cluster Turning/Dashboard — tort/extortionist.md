@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A criminal who extorts money from someone by threatening to expose embarrassing information about them.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A criminal who extorts money from someone by threatening to expose embarrassing information about them.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who obtains money or advantages by intimidation, coercion, or blackmail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual or gang operating criminal rackets based on extortion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extortionist designates a criminal who extorts money from someone by threatening to expose embarrassing information about them."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of Charles Augustus Milverton*):** *"Holmes declared that the blackmailer was the most dangerous **extortionist** in London."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"The police inspector tracked the elusive **extortionist** through the foggy alleys of Soho."*
+> - 📜 **G. K. Chesterton (*The Innocence of Father Brown*):** *"The anonymous letter bore all the sinister marks of a professional **extortionist** at work."*

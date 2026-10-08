@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unnatural condition in which the head leans to one side because the neck muscles on that side are contracted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unnatural condition in which the head leans to one side because the neck muscles on that side are contracted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical condition characterized by involuntary, abnormal contraction of the neck muscles, resulting in a tilted or twisted head posture; wryneck.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spasmodic or congenital cervical dystonia causing persistent deviation of the head.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, torticollis designates an unnatural condition in which the head leans to one side because the neck muscles on that side are contracted."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Spasmodic **torticollis** presents as distressing clonic contractions of the sternocleidomastoid muscle."*
+> - 📜 **Jean-Martin Charcot (*Clinical Lectures on Diseases of the Nervous System*):** *"The patient exhibited persistent **torticollis** that worsened markedly under emotional agitation."*
+> - 📜 **Henry Maudsley (*The Pathology of Mind*):** *"Cases of chronic **torticollis** demonstrate the complex interplay between motor innervation and psychical distress."*

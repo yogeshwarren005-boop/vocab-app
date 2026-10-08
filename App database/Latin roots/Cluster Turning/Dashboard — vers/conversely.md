@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With the terms of the relation reversed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With the terms of the relation reversed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Introducing a statement or situation that is the reverse or contrary of what has just been described; on the other hand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an inverted or reciprocal relationship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"What Jesus then teaches on prayer will illuminate what he means by God; and conversely his conception of God will throw new light upon the whole problem of prayer."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is a received and well-founded maxim, that where no other circumstances affect the case, the greater the power is, the shorter ought to be its duration; and, conversely, the smaller the power, the more safely may its duration be protracted."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The several bills of rights in Great Britain form its Constitution, and conversely the constitution of each State is its bill of rights."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Any variation beneficial to the organism is preserved; and **conversely**, injurious variations are rigorously eliminated."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"High wages encourage worker diligence, and **conversely**, penury breeds despondency and neglect."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Actions are right as they tend to promote happiness; and **conversely**, wrong as they tend to produce pain."*

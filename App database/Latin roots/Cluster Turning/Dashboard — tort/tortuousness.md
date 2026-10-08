@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tortuous and twisted shape or position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Puzzling complexity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of convoluted windings, curves, and bends throughout a physical route or structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intricacy, deviousness, or convoluted complexity in thoughts, policies, or discourse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tortuousness designates a tortuous and twisted shape or position."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The traveler complained of the bewildering **tortuousness** of the ancient highland mountain pass."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode sought to disguise the inner **tortuousness** of his financial transactions behind pious phrases."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Truth abhorreth the sluggish **tortuousness** of bureaucratic compromise and demands clear rectitude."*

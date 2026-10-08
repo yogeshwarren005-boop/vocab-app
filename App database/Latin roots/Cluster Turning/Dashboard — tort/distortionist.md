@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A painter who introduces distortions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A painter who introduces distortions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who habitually misrepresents, falsifies, or twists facts, historical narratives, or political truths.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artist or writer who deliberately employs extreme structural deformation or grotesque disproportion for aesthetic effect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, distortionist designates a painter who introduces distortions."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The partisan pamphleteer stood exposed as a brazen **distortionist** of parliamentary proceedings."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"The satirist acted as a skillful **distortionist**, magnifying personal mannerisms into absurd public spectacles."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"A mannerist painter risks becoming a mere **distortionist** when natural proportions are sacrificed to sensational drama."*

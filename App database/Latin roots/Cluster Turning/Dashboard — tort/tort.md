@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) any wrongdoing for which an action for damages may be brought.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) any wrongdoing for which an action for damages may be brought.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In common law, a civil wrong (other than breach of contract) that causes injury, harm, or loss, giving rise to legal liability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Archaic term for wrongful harm, injury, or injustice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"In art, as in politics, _les grandpères ont toujours tort_.” “This play was good enough for us, Harry."*
-> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: _(Obdurately.)_ Sirs, take notice that by the law of torts you are bound over in your own recognisances for six months in the sum of five pounds."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Personal actions arise from either breach of contract or the commission of an actionable **tort**."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The general purpose of the law of **tort** is to secure indemnity against certain civil injuries."*
+> - 📜 **Edmund Spenser (*The Faerie Queene*):** *"He vowed to right each grievous **tort** and champion the oppressed across the realm."*

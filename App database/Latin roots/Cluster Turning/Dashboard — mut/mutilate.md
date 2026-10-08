@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroy or injure severely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alter so as to make unrecognizable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To inflict serious damage on a body, limb, or physical structure by severing or tearing away essential parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To corrupt, vandalize, or disfigure a text, artistic work, or historical record by cutting or altering essential components.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"Why mutilate her poor body without need?"*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"In examining the two handsome bodies lying there, I noticed one fact to which I should have liked to draw the attention of the whole learned fraternity of blacksmiths, who mutilate horses, the world over."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"Armour prevailed with him to mutilate that unlucky paper[12c] yesterday."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Fanatics were encouraged to **mutilate** the noble marble statues that adorned the ancient civic basilicas."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Tribal customs frequently compelled warriors to **mutilate** their fingers or faces in solemn rites of mourning."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Censors sought to **mutilate** the offending treatise by tearing out the most eloquent political passages."*

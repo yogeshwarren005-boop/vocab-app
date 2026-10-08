@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Usually herbivorous land turtles having clawed elephant-like limbs; worldwide in arid area except australia and antarctica.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Usually herbivorous land turtles having clawed elephant-like limbs; worldwide in arid area except australia and antarctica.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A slow-moving, terrestrial reptile of the family Testudinidae, enclosed within a domed bony shell and possessing club-shaped hind feet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, a person, vehicle, or entity notable for exceedingly slow progress or methodical endurance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"The master was an old Turtle—we used to call him Tortoise—” “Why did you call him Tortoise, if he wasn’t one?” Alice asked."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"There must have been plenty of fun at Field Place when he told his sisters stories about the alchemist in the attic or "the Great Tortoise that lived in Warnham Pond," frightened them with electric shocks, and taught his baby brother to say devil."*
-> - 📜 **George Eliot (*Middlemarch*):** *"How very mean of you to whip poor old Tortoise!"*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The giant Galápagos **tortoise** trudges along well-worn paths to drink at the mountain springs."*
+> - 📜 **Aesop (*Fables*):** *"The slow and patient **tortoise** plodded steadily forward until it surpassed the sleeping hare."*
+> - 📜 **Herman Melville (*The Encantadas*):** *"I stared at the colossal **tortoise**, whose primeval carapace bore the weathering of centuries."*

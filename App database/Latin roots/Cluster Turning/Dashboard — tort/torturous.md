@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely painful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely painful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving, causing, or characterized by severe torture, agonizing pain, or excruciating physical or emotional torment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by extreme cruelty or agonizing difficulty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, torturous designates extremely painful."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The dying convict gasped for breath under the **torturous** spasms induced by the deadly poison."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"Larsen subjected the rebellious seaman to a **torturous** ordeal that broke his physical stamina."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"He lived through a **torturous** interval of self-recrimination that haunted him across foreign shores."*

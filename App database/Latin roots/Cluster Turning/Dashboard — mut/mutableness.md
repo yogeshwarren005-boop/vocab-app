@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being capable of mutation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being capable of mutation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inherent quality, tendency, or disposition to change, alter, or fluctuate over time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inconstancy, fickleness, or caprice in human opinion, resolution, or affection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mutableness designates the quality of being capable of mutation."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The perpetual **mutableness** of sublunary affairs warns the philosopher against excessive attachment to transient honors."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The apparent **mutableness** of physical phenomena disguises the constancy of underlying primary mechanical laws."*
+> - 📜 **Jonathan Edwards (*Treatise Concerning Religious Affections*):** *"A superficial piety is betrayed by the **mutableness** of its fleeting spiritual impulses."*

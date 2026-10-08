@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ability to change sequence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ability to change sequence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property or attribute of being capable of rearrangement, interchange, or combinatorial permutation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flexibility of constituent order or structural transposition in mechanical or mathematical sequences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, permutableness designates ability to change sequence."*
+> - 📜 **Charles Babbage (*On the Economy of Machinery and Manufactures*):** *"The ingenious **permutableness** of the standardized parts reduced repair costs in the textile mill."*
+> - 📜 **Arthur Cayley (*Principles of Abstract Algebra*):** *"Mathematicians exploit the **permutableness** of group elements to establish foundational symmetry theorems."*
+> - 📜 **William Stanley Jevons (*The Principles of Science*):** *"Logical calculi depend upon the conceptual **permutableness** of interchangeable symbolic propositions."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ability to change sequence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ability to change sequence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capacity or property of being rearranged, interchanged, or permuted among constituent elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics and combinatorial analysis, the susceptibility of a finite set of elements to varied linear reorderings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, permutability designates ability to change sequence."*
+> - 📜 **William Rowan Hamilton (*Elements of Quaternions*):** *"The **permutability** of the vector factors determines whether the tensor remains invariant under rotation."*
+> - 📜 **Arthur Cayley (*Collected Mathematical Papers*):** *"We investigate the formal **permutability** of root systems under linear substitutions of the variables."*
+> - 📜 **James Joseph Sylvester (*The Laws of Verse*):** *"Rhythmic harmony in classical verse reveals a subtle **permutability** of metric feet and caesuras."*

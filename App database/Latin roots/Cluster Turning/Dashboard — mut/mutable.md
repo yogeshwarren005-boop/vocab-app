@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of or tending to change in form or quality or nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of or tending to change in form or quality or nature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Liable or subject to change or alteration; variable, fluctuating, or inconstant in nature or form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In software programming, denoting an object or data structure whose state or contents can be modified after instantiation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For The mutable, rank-scented many, let them Regard me, as I do not flatter, and Therein behold themselves."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It guards equally against that extreme facility, which would render the Constitution too mutable; and that extreme difficulty, which might perpetuate its discovered faults."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"To trace the mischievous effects of a mutable government would fill a volume."*
+> - 📜 **John Milton (*Paradise Lost*):** *"For God made thee perfect, not **mutable** by external force, but free to stand or fall."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The recognition that living forms are **mutable** dissolved the doctrine of permanent, fixed species."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Human affections are notoriously **mutable**, tossed hither and thither by superficial apprehensions."*

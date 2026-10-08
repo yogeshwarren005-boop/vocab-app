@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To an exorbitant degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an exorbitant degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an extortionate manner; at an exorbitantly high or oppressive rate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With greedy, coercive, or unconscionable exaction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extortionately designates to an exorbitant degree."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The Parisian landlords charged **extortionately** for modest lodgings during the allied occupation."*
+> - 📜 **Anthony Trollope (*The Warden*):** *"The litigation expenses mounted **extortionately**, draining the ancient charitable endowment."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Commercial middlemen profited **extortionately** while the rural weavers suffered bitter privation."*

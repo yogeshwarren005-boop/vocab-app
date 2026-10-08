@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being capable of mutation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being capable of mutation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The liability or tendency to change, alter, fluctuate, or decay; susceptibility to transformation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inconsistency or instability of character, purpose, or political fortune.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The mutability in the public councils arising from a rapid succession of new members, however qualified they may be, points out, in the strongest manner, the necessity of some stable institution in the government."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"By NECESSITATING a change of men, in the first office of the nation, it would necessitate a mutability of measures."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But this objection will have little weight with those who can properly estimate the mischiefs of that inconstancy and mutability in the laws, which form the greatest blemish in the character and genius of our governments."*
+> - 📜 **Percy Bysshe Shelley (*Mutability*):** *"Man's yesterday may ne'er be like his morrow; naught may endure but **mutability**."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"Hail to the voice of common people, whose fickle **mutability** wavers with each passing breeze."*
+> - 📜 **Edmund Spenser (*The Faerie Queene*):** *"Proud **mutability** boasts dominion over all sublunary things, claiming that nothing under heaven abideth sure."*

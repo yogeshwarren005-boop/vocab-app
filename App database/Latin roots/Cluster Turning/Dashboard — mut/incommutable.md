@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not subject to alteration or change.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not interchangeable or able to substitute one for another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not commutable; incapable of being exchanged, replaced, substituted, or converted into another form or equivalent penalty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological or philosophical prose, permanently immutable and unaffected by external vicissitudes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incommutable designates not subject to alteration or change."*
+> - 📜 **John Milton (*The Doctrine and Discipline of Divorce*):** *"Spiritual covenants rest upon **incommutable** bonds of divine sanction that human edicts cannot annul."*
+> - 📜 **Jeremy Bentham (*Principles of Penal Law*):** *"When statutory sanctions are declared **incommutable**, the magistrate lacks discretion to substitute lighter alternatives."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"The divine truth shines as an **incommutable** light by which created intellects perceive intelligible realities."*

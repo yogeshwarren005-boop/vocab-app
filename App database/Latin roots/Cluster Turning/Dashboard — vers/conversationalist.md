@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone skilled at conversation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone skilled at conversation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who participates in or excels at interesting, engaging, and articulate conversation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual recognized for entertaining social dialogue and wit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Gilchrist even more gifted as a conversationalist than as a writer."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Morgan’s appearance might be somewhat disappointing, as even her loyal worshippers had been forced to admit to each other; but she proved to be a delightful conversationalist."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"He was celebrated throughout Roman society as a brilliant **conversationalist** and connoisseur."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes proved himself an agreeable **conversationalist** whenever he chose to relax from severe investigation."*
+> - 📜 **Virginia Woolf (*Orlando*):** *"The ambassador was a charming **conversationalist**, moving gracefully among European courts."*

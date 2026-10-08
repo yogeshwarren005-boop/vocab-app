@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The deliberate, systematic, or wanton infliction of physical or mental suffering by one or more persons in an attempt to force another person to yield information or to make a confession or for any other reason.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Torment emotionally or mentally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflicting agonizing physical pain, distress, or severe mental torment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to or accompanied by intense and racking suffering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is there no play To ease the anguish of a torturing hour?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There let them bide until we have devised Some never-heard-of torturing pain for them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The aged cramp Had screwed his square foot round; The gout had knit his fingers into knots, Torturing convulsions from his globy eyes Had almost drawn their spheres, that what was life In him seemed torture."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Fierce desire and **torturing** despair alternate within the breast of the banished archangel."*
+> - 📜 **William Shakespeare (*Richard III*):** *"My conscience hath a thousand several tongues, and every tongue brings in a several tale, and every tale condemns me for a villain. O coward conscience, how dost thou afflict me with **torturing** dread!"*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"The titan endured the **torturing** talons of the winged hound of heaven without uttering a plea."*

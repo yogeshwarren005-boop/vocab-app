@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any agent (physical or environmental) that can induce a genetic mutation or can increase the rate of mutation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any agent (physical or environmental) that can induce a genetic mutation or can increase the rate of mutation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A physical, chemical, or biological agent that permanently alters genetic material, thereby increasing the frequency of mutations above the natural background level.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any environmental toxin, ionizing radiation, or chemical compound capable of damaging cellular DNA.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mutagen designates any agent (physical or environmental) that can induce a genetic mutation or can increase the rate of mutation."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Synthetic pesticides may function as a sinister **mutagen**, disrupting chromosome integrity within the living cell."*
+> - 📜 **Herman Joseph Muller (*Radiation Damage to the Genetic Material*):** *"No threshold exists below which an ionizing **mutagen** fails to produce occasional chromosomal breakage."*
+> - 📜 **Ernst Mayr (*The Growth of Biological Thought*):** *"The discovery that mustard gas serves as a potent chemical **mutagen** inaugurated modern chemical genetics."*

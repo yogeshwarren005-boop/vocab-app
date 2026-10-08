@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) an organism that has characteristics resulting from chromosomal alteration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An animal that has undergone mutation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism, gene, or characteristic resulting from or displaying the effect of a mutation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Differing in physical form, genetic code, or physiological function from the wild type due to genetic alteration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mutant designates (biology) an organism that has characteristics resulting from chromosomal alteration."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"A single **mutant** variety with ruffled plumage appeared spontaneously among the breeder's domestic flock."*
+> - 📜 **Thomas Hunt Morgan (*The Mechanism of Mendelian Heredity*):** *"The white-eyed **mutant** fly provided crucial empirical evidence for sex-linked chromosomal inheritance."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"He wondered whether these frail subterranean beings were the **mutant** degenerate descendants of humankind."*

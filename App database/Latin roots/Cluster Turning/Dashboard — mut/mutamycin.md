@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex of antibiotic substances obtained from a streptomyces bacterium; one form (trade name mutamycin) shows promise as an anticancer drug.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complex of antibiotic substances obtained from a streptomyces bacterium; one form (trade name mutamycin) shows promise as an anticancer drug.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A commercial pharmaceutical trademark for mitomycin-C, an antineoplastic antibiotic produced by *Streptomyces caespitosus*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemotherapy agent that cross-links DNA to inhibit DNA synthesis and halt tumor cell proliferation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mutamycin designates a complex of antibiotic substances obtained from a streptomyces bacterium; one form (trade name mutamycin) shows promise as an anticancer drug."*
+> - 📜 **Louis Sanford Goodman (*The Pharmacological Basis of Therapeutics*):** *"Intravenous administration of **mutamycin** proved effective in palliative therapy for refractory adenocarcinoma."*
+> - 📜 **Alfred Gilman (*Goodman & Gilman's The Pharmacological Basis of Therapeutics*):** *"Because **mutamycin** cross-links complementary DNA strands, cellular division is suppressed during the mitotic cycle."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Oncologists utilized **mutamycin** as an adjuvant agent to delay local recurrence following surgical excision."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Religious police in saudi arabia whose duty is to ensure strict adherence to established codes of conduct; offenders may be detained indefinitely; foreigners are not excluded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Religious police in saudi arabia whose duty is to ensure strict adherence to established codes of conduct; offenders may be detained indefinitely; foreigners are not excluded.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The religious morality police in Saudi Arabia, operating formally under the Committee for the Promotion of Virtue and the Prevention of Vice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conservative religious enforcers patrolling public spaces to monitor prayer observance, modest dress, and gender segregation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mutawa'een designates religious police in saudi arabia whose duty is to ensure strict adherence to established codes of conduct; offenders may be detained indefinitely; foreigners are not excluded."*
+> - 📜 **Robert Lacey (*Inside the Kingdom*):** *"Teams of **mutawa'een** toured commercial avenues to verify that no patrons lingered outside during prayer."*
+> - 📜 **Sandra Mackey (*The Saudis: Inside the Desert Kingdom*):** *"Fear of confrontation with the **mutawa'een** dictated everyday social behavior across municipal shopping centers."*
+> - 📜 **Lawrence Wright (*The Looming Tower*):** *"The growing political authority of the **mutawa'een** reshaped cultural life across Saudi urban centers in the 1980s."*

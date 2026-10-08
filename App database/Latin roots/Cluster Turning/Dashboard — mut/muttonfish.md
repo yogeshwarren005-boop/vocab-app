@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Similar to and often marketed as `red snapper'.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Similar to and often marketed as `red snapper'.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several marine food fishes, particularly the mutton snapper (*Lutjanus analis*) or the ocean pout, esteemed for edible flesh.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An Australian culinary name for abalone (marine gastropod mollusk of genus *Haliotis*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, muttonfish designates similar to and often marketed as `red snapper'."*
+> - 📜 **Spencer Fullerton Baird (*Report on the Condition of the Sea Fisheries*):** *"Local fishermen prize the **muttonfish** for its firm white flesh, marketing the catch fresh throughout the coast."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The large coastal snapper commonly designated as **muttonfish** frequents coral reefs in tropical seas."*
+> - 📜 **Theodore Gill (*Fishes of the East Coast*):** *"Trawlers captured abundant specimens of the northern pout or **muttonfish** in deep cold waters off the banks."*

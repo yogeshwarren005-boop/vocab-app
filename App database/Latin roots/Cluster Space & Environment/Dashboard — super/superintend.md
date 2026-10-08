@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superintend
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Watch and direct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Watch and direct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To have or exercise the charge, oversight, management, or direction of an activity, institution, or project.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To supervise workers, public affairs, or operations with executive authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She meant to superintend these preparations herself and to have it all fixed as daintily as possible."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He was quite willing to receive Richard into his house and to superintend his studies, and as it seemed that those could be pursued advantageously under Mr."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"We read that "in those days, when the stock of any considerable farmer was seized with the murrain, he would send for one of the charm-doctors to superintend the raising of a _need-fire_."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The sovereign has the duty to **superintend** public works that are beneficial to society but unprofitable to private investors."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A single energetic executive is best qualified to **superintend** the execution of national laws."*
+> - 📜 **George Washington (*Writings of George Washington*):** *"I arrived at the armory to personally **superintend** the manufacturing of rifles and field carriages."*

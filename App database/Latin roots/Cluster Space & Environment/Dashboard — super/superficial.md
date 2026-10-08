@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superficial
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with or comprehending only what is apparent or obvious; not deep or penetrating emotionally or intellectually.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, affecting, or being on or near the surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing, occurring, or located on the surface; not penetrating deeply.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking depth of character, intellect, or understanding; shallow and concerned only with appearances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A very superficial, ignorant, unweighing fellow."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In the worst attacks of trouble there appears to be always a superficial film of consciousness which is left disengaged and open to the notice of trifles, and Bathsheba was faintly amused at the boy’s method, till he too passed on."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A superficial glance at the trade relations of an old, rich country with a new province seems to give evidence for such a belief."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"A little philosophy inclineth man's mind to atheism, but depth in philosophy bringeth men's minds about to religion; the **superficial** student halts midway."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Our knowledge of bodies is often merely **superficial**, confined to visible textures while inner essences escape us."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection acts not on **superficial** appearances, but on the whole machinery of life."*

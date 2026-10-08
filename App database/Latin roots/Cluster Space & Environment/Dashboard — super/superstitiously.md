@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superstitiously
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a superstitious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a superstitious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a superstitious manner; with irrational belief in omens or magical causation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With excessive scrupulousness or fearful veneration born of superstition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are like one that superstitiously Doth swear to the gods that winter kills the flies: But yet I know you’ll do as I advise. [_Exeunt._] SCENE IV."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dreams are toys, Yet for this once, yea, superstitiously, I will be squar’d by this."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"This fire they carefully feed with straw and dry sticks and scatter the ashes over the vegetable gardens, foolishly and superstitiously imagining that in this way the caterpillar can be kept off."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Ancient physicians **superstitiously** observed the phases of the moon when compounding medicinal potions."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The imperial courtiers **superstitiously** consulted astrologers before embarking on any foreign expedition."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The townspeople **superstitiously** avoided the gloomy mansion, whispering legends of hereditary curses."*

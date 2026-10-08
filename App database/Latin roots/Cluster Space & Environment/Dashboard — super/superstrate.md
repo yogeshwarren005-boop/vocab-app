@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superstrate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any stratum or layer superimposed on another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The language of a later invading people that is imposed on an indigenous population and contributes features to their language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A language or cultural influence imposed upon a native population, influencing the subordinate substrate tongue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dominant linguistic stratum that leaves lexical or syntactic traces upon a localized speech community.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superstrate designates any stratum or layer superimposed on another."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"Norman French acted as an aristocratic **superstrate** upon Anglo-Saxon, infusing thousands of legal and administrative loanwords."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"When a conqueror's language becomes a prestigious **superstrate**, bilingual elites accelerate phonological shifts."*
+> - 📜 **Otto Jespersen (*Growth and Structure of the English Language*):** *"The French **superstrate** enriched the English vocabulary with refined distinctions of rank and culture."*

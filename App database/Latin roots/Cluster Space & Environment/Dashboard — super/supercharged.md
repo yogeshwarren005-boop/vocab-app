@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supercharged
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Increase or raise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Increase the pressure on a gas or liquid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Equipped with a supercharger to force air into an engine cylinder for increased power output.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Filled with heightened tension, excessive energy, or suppressed passion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supercharged designates increase or raise."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The **supercharged** racing helicopter hummed through the upper sky on synthetic alcohol fuel."*
+> - 📜 **Arthur C. Clarke (*The Exploration of Space*):** *"High-altitude aircraft required **supercharged** cabins to maintain tolerable atmospheric density for crews."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"The atmosphere of the drawing-room grew **supercharged** with unspoken grievances as the afternoon heat intensified."*

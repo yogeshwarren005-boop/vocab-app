@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supermolecule
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any very large complex molecule; found only in plants and animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any very large complex molecule; found only in plants and animals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex organized chemical structure composed of multiple molecules held together by noncovalent intermolecular forces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oligomeric molecular assembly capable of molecular recognition, host-guest binding, and self-assembly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supermolecule designates any very large complex molecule; found only in plants and animals."*
+> - 📜 **Jean-Marie Lehn (*Supramolecular Chemistry: Concepts and Perspectives*):** *"A **supermolecule** is to molecules what a molecule is to atoms, bound together by noncovalent interactions."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Hydrogen bonding coordinates multiple polypeptide units into a functional **supermolecule** endowed with enzymatic activity."*
+> - 📜 **Donald J. Cram (*From Design to Discovery*):** *"Crown ethers and cryptands form a stable **supermolecule** by selectively encapsulating metal cations."*

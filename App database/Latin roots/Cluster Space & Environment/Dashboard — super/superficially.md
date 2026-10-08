@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superficially
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a superficial manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a superficial manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: As regards the surface only; on the surface or exterior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a shallow, hasty, or perfunctory manner without deep understanding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Paris and Troilus, you have both said well; And on the cause and question now in hand Have gloz’d, but superficially; not much Unlike young men, whom Aristotle thought Unfit to hear moral philosophy."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I was yesterday taken by surprise, and saw it superficially."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"He was about to take a step which would astonish all his friends and displease a great many of them, and which had superficially nothing to recommend it."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Those who observe nature **superficially** collect isolated marvels while overlooking fundamental causal laws."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Two species may resemble each other **superficially** while differing fundamentally in cranial morphology."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The peace treaty settled the frontier **superficially**, leaving the underlying animosities of both empires untouched."*

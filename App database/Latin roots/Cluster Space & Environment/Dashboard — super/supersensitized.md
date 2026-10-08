@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supersensitized
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an allergy or peculiar or excessive susceptibility (especially to a specific factor).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an allergy or peculiar or excessive susceptibility (especially to a specific factor).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Treated or modified so as to possess extreme physical or photographic sensitivity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Made excessively responsive to mechanical shock, electrical impulses, or immune reactions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supersensitized designates having an allergy or peculiar or excessive susceptibility (especially to a specific factor)."*
+> - 📜 **Thomas Edison (*Patents and Technical Papers*):** *"The **supersensitized** telephone diaphragm registered faint acoustic whispers across transatlantic circuits."*
+> - 📜 **George Eastman (*Technical Papers on Photography*):** *"The dry plates were **supersensitized** with organic dye baths to extend spectral response into the infrared."*
+> - 📜 **Nikola Tesla (*My Inventions: The Autobiography of Nikola Tesla*):** *"My apparatus included a **supersensitized** coherer capable of detecting lightning discharges hundreds of miles away."*

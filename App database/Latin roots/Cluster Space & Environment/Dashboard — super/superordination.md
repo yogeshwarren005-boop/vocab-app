@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superordination
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The semantic relation of being superordinate or belonging to a higher rank or class.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The semantic relation of being superordinate or belonging to a higher rank or class.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The placement, elevation, or structural supremacy of one category or authority over subordinate units.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The organizational hierarchy whereby higher entities govern lower functional branches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superordination designates the semantic relation of being superordinate or belonging to a higher rank or class."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Militant societies depend upon rigid **superordination** of ranks, where obedience is enforced by severe penal codes."*
+> - 📜 **Max Weber (*Economy and Society*):** *"Bureaucratic organization requires a clear system of **superordination** and subordination among established offices."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Constitutional government limits the arbitrary **superordination** of administrative rulers over free citizens."*

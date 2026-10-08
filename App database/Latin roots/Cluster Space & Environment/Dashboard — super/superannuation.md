@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superannuation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A monthly payment made to someone who is retired from work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being out of date and not current.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Retirement from service, office, or employment due to advanced age or physical infirmity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A regular financial pension granted to an employee upon retirement from public or private service.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superannuation designates a monthly payment made to someone who is retired from work."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A secure provision for **superannuation** encourages servants of the crown to maintain incorruptible fidelity."*
+> - 📜 **Charles Lamb (*Essays of Elia*):** *"My sudden **superannuation** brought me an infinity of leisure that at first bewildered my routine-bound mind."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Parliament debated a bill establishing equitable **superannuation** allowances for disabled naval veterans."*

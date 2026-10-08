@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superficies
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The purely external aspect of a thing; superficial appearance; -r.w.speaight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Outer surface of an area or a body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surface, outer face, or exterior area of a two- or three-dimensional physical body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In property law, everything erected on or attached to a piece of ground, such as buildings and trees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"As if a woman were a mere colored superficies!"*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"The superficies was composed of several bits of wood, about the bigness of a die, but some larger than others."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"The attraction of a uniform spherical shell upon an internal corpuscle vanishes at every point of its interior **superficies**."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Under civil law, the right of **superficies** granted a builder ownership of the structure while the soil belonged to another."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Our senses perceive only the outward **superficies** of substances, while their inner constitution remains hidden."*

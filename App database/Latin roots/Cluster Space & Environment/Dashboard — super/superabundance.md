@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superabundance
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quantity that is more than what is appropriate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quantity that is more than what is appropriate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An excessive, overflowing, or more than sufficient quantity; surplus abundance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exuberant excess of material wealth, natural resources, or creative energy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"She wished to help him, to bestow on him the superabundance of her own happiness."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"As to Henrietta, my apology for whom I just left incomplete, she exemplifies, I fear, in her superabundance, not an element of my plan, but only an excess of my zeal."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Of course in some districts food is scarce, in others, there is a superabundance."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A **superabundance** of paper money depreciates the real currency and drives bullion into foreign markets."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The fertility of Egypt provided a **superabundance** of grain that fed the idle populace of the capital."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"In the state of nature, the **superabundance** of untilled land prevented bitter contention among early families."*

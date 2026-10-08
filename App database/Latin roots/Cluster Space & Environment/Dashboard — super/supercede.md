@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supercede
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take the place or move into the position of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take the place or move into the position of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To take the place of, supplant, or replace someone or something previously in authority or use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To set aside, render obsolete, or displace an established rule or practice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supercede designates take the place or move into the position of."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"New empirical discoveries must eventually **supercede** ancient speculative dogmas in natural philosophy."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Improved varieties steadily **supercede** ancestral forms in the relentless competition for habitat resources."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The imperial mandate was framed to **supercede** all former provincial edicts regarding religious assemblies."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supermarketeer
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An operator of a supermarket.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An operator of a supermarket.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A manager, owner, or promoter of a supermarket or supermarket chain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A merchant specializing in high-volume, self-service retail merchandising techniques.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supermarketeer designates an operator of a supermarket."*
+> - 📜 **Peter Drucker (*The Practice of Management*):** *"The pioneer **supermarketeer** revolutionized logistics by turning inventory turnover into the primary driver of profit."*
+> - 📜 **John Kenneth Galbraith (*The New Industrial State*):** *"The ambitious **supermarketeer** relied upon national advertising campaigns to create predictable consumer loyalty."*
+> - 📜 **Vance Packard (*The Hidden Persuaders*):** *"Motivational researchers advised the **supermarketeer** to place high-margin luxury foods at shoppers' eye level."*

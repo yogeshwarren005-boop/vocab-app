@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superior
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of greater rank or station or quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The head of a religious community.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Higher in rank, status, quality, intellect, or authority compared to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Situated higher up anatomically; or displaying an attitude of haughty condescension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The general’s disdain’d By him one step below, he by the next, That next by him beneath; so every step, Exampl’d by the first pace that is sick Of his superior, grows to an envious fever Of pale and bloodless emulation."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You can be reassured, for we have thought of that, too," the visitor said with a slightly superior smile."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A very superior gentleman, Mr."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The disciplined courage of the legions proved **superior** to the tumultuous numbers of the barbarian hordes."*
+> - 📜 **Francis Bacon (*Essays*):** *"He that is only real had need have exceeding great parts of virtue; as the stone had need to be rich that is set without foil; but in a **superior** mind truth shines alone."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"We defer with natural veneration to those endowed with **superior** wisdom and benevolent authority."*

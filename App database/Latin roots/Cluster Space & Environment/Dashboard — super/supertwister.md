@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supertwister
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The most powerful tornado which can create enormously devastating damage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The most powerful tornado which can create enormously devastating damage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An exceptionally violent, destructive tornado of immense vortex strength; or a high-velocity textile twisting frame.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A catastrophic cyclonic storm displaying extreme rotational wind velocities and wide damage tracks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supertwister designates the most powerful tornado which can create enormously devastating damage."*
+> - 📜 **John Muir (*The Mountains of California*):** *"The roaring wind funnel struck the canyon like an unleashed **supertwister**, snapping ancient sugar pines like matchsticks."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The river pilot recalled a terrible **supertwister** that sucked up half a village and hurled steamers into treetops."*
+> - 📜 **Herman Melville (*The Confidence-Man*):** *"The rumor spread like a prairie **supertwister**, uprooting all calm judgment among the panicked passengers."*

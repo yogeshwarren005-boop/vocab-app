@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supermex
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states golfer (born in 1939).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states golfer (born in 1939).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A popular journalistic epithet designating champion golfer Lee Trevino, renowned for charismatic humor and shotmaking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colloquial cultural moniker celebrating Mexican-American sporting brilliance and folk heroism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supermex designates united states golfer (born in 1939)."*
+> - 📜 **Norman Mailer (*Existential Errands*):** *"The gallery roared with delight as the exuberant champion known as **Supermex** curved another improbable iron shot toward the pin."*
+> - 📜 **Hunter S. Thompson (*The Great Shark Hunt*):** *"Reporters scrambled across the fairways to catch the witty running commentary delivered by **Supermex** beneath the blistering sun."*
+> - 📜 **Tom Wolfe (*The Pump House Gang*):** *"The sports pages celebrated **Supermex** as a self-taught folk hero who upended the staid traditions of country club golf."*

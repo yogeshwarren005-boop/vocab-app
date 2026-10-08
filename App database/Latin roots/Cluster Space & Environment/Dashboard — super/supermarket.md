@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supermarket
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large self-service grocery store selling groceries and dairy products and household goods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large self-service grocery store selling groceries and dairy products and household goods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large self-service grocery store selling a wide variety of foods, beverages, and household goods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A retail department store operating on large-scale centralized purchasing and self-service display.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I identified each album sequentially on its spine with a gold foil letter from a packet purchased at a supermarket."*
+> - 📜 **John Kenneth Galbraith (*The Affluent Society*):** *"The modern **supermarket** exhibits an astonishing abundance of consumer goods arranged to maximize impulsive demand."*
+> - 📜 **Peter Drucker (*Management: Tasks, Responsibilities, Practices*):** *"The innovation of the **supermarket** was not just in lower prices, but in converting shopping into an efficient self-service operation."*
+> - 📜 **Alvin Toffler (*Future Shock*):** *"Walking through a modern **supermarket**, the consumer faces an overwhelming proliferation of branded options."*

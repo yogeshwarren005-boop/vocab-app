@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supercilium
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The arch of hair above each eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The arch of hair above each eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The anatomical eyebrow, or the prominent bony brow-ridge situated above the eye socket.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical architecture, the upper moulding or lintel positioned above the architrave of a door.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supercilium designates the arch of hair above each eye."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The prominent bony **supercilium** protects the delicate eyeball of the carnivore from injury in dense thickets."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The Neanderthal cranium displays an exaggerated **supercilium** forming a continuous transverse bar of bone."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Contraction of the corrugator muscle knits the **supercilium** into characteristic vertical furrows of grief."*

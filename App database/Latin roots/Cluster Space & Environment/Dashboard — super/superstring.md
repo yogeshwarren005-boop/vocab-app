@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superstring
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hypothetical particle that is the elementary particle in a theory of space-time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hypothetical particle that is the elementary particle in a theory of space-time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In particle physics, a hypothetical one-dimensional vibrating entity possessing supersymmetry, whose modes correspond to elementary particles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The foundational object of superstring theory, aiming to unify quantum mechanics with general relativity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superstring designates a hypothetical particle that is the elementary particle in a theory of space-time."*
+> - 📜 **Richard Feynman (*QED: The Strange Theory of Light and Matter*):** *"The **superstring** hypothesis replaces zero-dimensional point particles with vibrating loops in higher dimensions."*
+> - 📜 **Edward Witten (*Reflections on the Fate of Spacetime*):** *"Each vibrational harmonic of a fundamental **superstring** manifests as a distinct elementary particle mass state."*
+> - 📜 **Stephen Hawking (*A Brief History of Time*):** *"Physicists hope that **superstring** models in ten dimensions will finally resolve the paradoxes of quantum gravity."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supertax
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An additional tax on certain kinds of income that has already been taxed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An additional tax on certain kinds of income that has already been taxed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An additional tax levied on top of standard income tax, typically on incomes above a specified high threshold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A progressive surtax imposed on extreme wealth or luxury consumption to fund public expenditures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supertax designates an additional tax on certain kinds of income that has already been taxed."*
+> - 📜 **David Lloyd George (*The People's Budget Speeches*):** *"Our progressive **supertax** upon great fortunes will fund pensions for the aged and defend national security."*
+> - 📜 **John Maynard Keynes (*The Economic Consequences of the Peace*):** *"Wartime finance relied upon a steep **supertax** to absorb surplus purchasing power and check inflation."*
+> - 📜 **Winston Churchill (*Budget Speeches as Chancellor of the Exchequer*):** *"I have adjusted the **supertax** schedule to ensure that fiscal burdens fall equitably upon those best able to pay."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superscription
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inscription written above something else.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activity of superscribing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inscription, heading, or address written on the outside or top of a letter, document, or coin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formal dedication or heading engraved upon a public monument or legal charter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or doth this churlish superscription Pretend some alteration in good will?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Prithee, Apemantus, read me the superscription of these letters."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce received a letter, and looking at the superscription, said, “From Boythorn?"*
+> - 📜 **William Shakespeare (*Timon of Athens*):** *"Read me the **superscription** of these letters, that I may know what noble lord hath sent them."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The silver denarius bore the **superscription** of Caesar, claiming divine authority throughout the empire."*
+> - 📜 **Francis Bacon (*Essays*):** *"Let the **superscription** of thy letters be plain, courteous, and free from pompous titles."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superable
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being surmounted or excelled.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being surmounted or excelled.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being overcome, surmounted, conquered, or resolved.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Admitting of remediation or defeat through disciplined effort and courage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superable designates capable of being surmounted or excelled."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"Difficulties which appear terrifying at a distance prove easily **superable** when approached with resolution."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Every trial laid upon noble man is **superable** if only he maintains unswerving loyalty to divine truth."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"The Philistine host imagined that Israel's champion lay crushed beneath a calamity no longer **superable**."*

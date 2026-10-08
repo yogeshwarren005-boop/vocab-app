@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supersede
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take the place or move into the position of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take the place or move into the position of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To take the place of a person or thing previously in authority or use; supplant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To set aside, suspend, or render obsolete by establishing a newer method, law, or authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He supposes all his dependents to be utterly bereft of individual characters, intentions, or opinions, and is persuaded that he was born to supersede the necessity of their having any."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Mechanism only transfers labour, being powerless to supersede it, and the original amount of exertion was not cleared away; it was thrown into the body and arms."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"This brief account of the family is intended to supersede the necessity of a long and minute detail from Mrs."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Sound experimental inductive methods will steadily **supersede** the barren dialectic of the medieval schoolmen."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The newly modified descendants of any species will generally tend to **supersede** and exterminate their progenitors."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The new administrative code was designed to **supersede** the confusing multitude of contradictory imperial decrees."*

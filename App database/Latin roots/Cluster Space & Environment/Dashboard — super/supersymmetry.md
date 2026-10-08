@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supersymmetry
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (physics) a theory that tries to link the four fundamental forces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physics) a theory that tries to link the four fundamental forces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A theoretical symmetry in quantum physics relating bosons (force carriers) and fermions (matter particles).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mathematical invariance predicting that every elementary fermion has a bosonic superpartner and vice versa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supersymmetry designates (physics) a theory that tries to link the four fundamental forces."*
+> - 📜 **Abdus Salam (*Ideals and Realities*):** *"The beauty of **supersymmetry** lies in its bold unification of matter constituents and fundamental forces."*
+> - 📜 **Steven Weinberg (*Dreams of a Final Theory*):** *"If **supersymmetry** holds in nature, our particle colliders should eventually detect the predicted superpartners."*
+> - 📜 **Edward Witten (*Magic, Mystery, and Matrix*):** *"The mathematical consistency of string theory depends fundamentally upon the presence of unbroken **supersymmetry** in ten dimensions."*

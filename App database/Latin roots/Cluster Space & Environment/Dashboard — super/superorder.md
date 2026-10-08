@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superorder
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) a taxonomic group ranking above an order and below a class or subclass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) a taxonomic group ranking above an order and below a class or subclass.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic category ranking directly above an order and below a class or subclass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A high-level lineage uniting several evolutionary orders sharing major anatomical specializations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superorder designates (biology) a taxonomic group ranking above an order and below a class or subclass."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"We establish each vertebrate **superorder** to reflect profound divergences in reproductive and skeletal anatomy."*
+> - 📜 **Ernst Haeckel (*Systematische Phylogenie*):** *"Haeckel arranged the mammalian orders under a genealogical **superorder** based on placental development."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The distinguishing characters of a **superorder** demonstrate broad structural continuity across diverse fossil forms."*

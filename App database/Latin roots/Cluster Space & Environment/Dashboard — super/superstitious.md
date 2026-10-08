@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superstitious
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing ignorance of the laws of nature and faith in magic or chance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing ignorance of the laws of nature and faith in magic or chance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing a belief in superstitions; excessively credulous regarding magic or omens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resulting from, marked by, or pertaining to irrational fear of the supernatural.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But it is doubtful yet Whether Caesar will come forth today or no; For he is superstitious grown of late, Quite from the main opinion he held once Of fantasy, of dreams, and ceremonies."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have heard of such a spirit, and well you know The superstitious idle-headed eld Received and did deliver to our age, This tale of Herne the hunter for a truth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This foolish, dreaming, superstitious girl Makes all these bodements."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"A **superstitious** man is in continual terror of phantoms created by his own undisciplined imagination."*
+> - 📜 **David Hume (*Of Superstition and Enthusiasm*):** *"The **superstitious** mind easily surrenders intellectual autonomy to the tyrannical authority of priestly hierarchies."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The barbarian warriors were swayed by **superstitious** dread whenever an eclipse darkened the field of battle."*

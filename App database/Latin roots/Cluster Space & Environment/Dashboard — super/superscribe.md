@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superscribe
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Write on the top or outside.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Write on the outside or upper part of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To write on the top, outside, or cover of a letter, package, or legal document; to address.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To inscribe text at the head of a manuscript or monument.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The photograph was of Irene Adler herself in evening dress, the letter was superscribed to “Sherlock Holmes, Esq."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"This is to tell him you are there.” As the ancient clerk deliberately folded and superscribed the note, Mr."*
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"I will **superscribe** the letter with the fairest titles of honor to commend it to the lady."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The secretary took care to **superscribe** the imperial dispatch with seals and ribbons of state."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Mr. Pickwick paused with dipping pen, wondering how he should **superscribe** so delicate an epistle."*

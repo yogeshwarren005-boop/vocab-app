@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supervisor
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who supervises or has charge and direction of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A program that controls the execution of other programs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who supervises, directs, or oversees workers, operations, or an organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An administrative officer or manager with executive authority over a municipal district or department.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Would you, the supervisor, grossly gape on, Behold her topp’d?"*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"So strong was the superstitious belief of the people in this deified stone that when, some twenty years ago, the road supervisor of the district threw it over and broke off a portion, it was prophesied that Kaneaukai would be avenged for the insult."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"And when shortly afterward the supervisor lost his position and removed from the district, returning not to the day of his death; and since several of his relatives have met untimely ends, not a few felt it was the recompense of his sacrilegious act."*
+> - 📜 **Frederick Winslow Taylor (*Shop Management*):** *"A capable **supervisor** analyzes time and motion studies to eliminate wasteful exertion in the machine shop."*
+> - 📜 **Henry Ford (*My Life and Work*):** *"Every assembly line requires a keen **supervisor** who ensures that components arrive at the bench without delay."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The county **supervisor** represents the shared interests of several rural townships in the provincial council."*

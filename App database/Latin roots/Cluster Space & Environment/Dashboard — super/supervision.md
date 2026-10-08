@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supervision
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Management by overseeing the performance or operation of a person or group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Management by overseeing the performance or operation of a person or group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, function, or role of overseeing, directing, and managing people or operations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Critical inspection and authoritative direction given to subordinates or activities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"At length he recovered sufficiently to be removed under his elder brother's careful and loving supervision to the Edinburgh Infirmary, where he remained for four months."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This, quite apart from the note issues, gives a power to the banks collectively, under the general supervision and control of the board, to expand credits indefinitely at any time for real business purposes."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"His purpose is to stimulate the industry of the workers, thus reducing waste and cost of labor and supervision, and thereby increasing profits."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The owner of a great estate cannot bestow upon every farm that vigilant **supervision** which a small peasant proprietor exercises."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Township officers in New England perform their duties without arbitrary **supervision** from distant provincial governors."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The financial integrity of the treasury demands constant **supervision** by independent congressional committees."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superficiality
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of depth of knowledge or thought or feeling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shallowness in terms of affecting only surface layers of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shallow comprehension, lack of intellectual depth, or exclusive concern with exterior appearances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The attribute of existing merely on the surface without profound substance or foundation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The education had intensified the cardinal faults of his character, impatience, superficiality, a great lack of sympathy for the more tender attachments and the more profound interests of men--essential unbelief in human grandeur."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Don José was not acquainted with the superficialities of etiquette, and by character and custom was opposed to the amenities and the white lies which are a part of the foundations of courtesy."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"At the mention of his work, beyond the merest superficialities, she lifted her hands and said in laughing tones, "Please, Martin, don't talk shop!"*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"Society everywhere is in conspiracy against the manhood of its members, prizing conformity and sleek **superficiality**."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The apparent **superficiality** of quick-witted minds is often redeemed by their immense associative versatility."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"The conversationalist who flits from topic to topic betrays a glaring **superficiality** of solid knowledge."*

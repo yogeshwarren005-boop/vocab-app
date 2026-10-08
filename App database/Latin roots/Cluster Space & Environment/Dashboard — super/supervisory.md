@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supervisory
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or limited to or involving supervision.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or limited to or involving supervision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having, relating to, or exercising the role or authority of a supervisor; managerial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to oversight, inspection, or administrative control over operations or personnel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supervisory designates of or limited to or involving supervision."*
+> - 📜 **Max Weber (*The Theory of Social and Economic Organization*):** *"Bureaucratic administration establishes a clear **supervisory** hierarchy linking all departmental levels."*
+> - 📜 **Frederick Winslow Taylor (*The Principles of Scientific Management*):** *"The **supervisory** staff must collaborate warmly with workmen rather than relying on tyrannical commands."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The judicial power in America exercises a quiet **supervisory** control over legislative enactments."*

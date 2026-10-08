@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supercharger
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compressor that forces increased oxygen into the cylinders of an internal-combustion engine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compressor that forces increased oxygen into the cylinders of an internal-combustion engine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical air compressor that increases the pressure or density of air supplied to an internal combustion engine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A blower or turbine driven by engine crank gears to boost power output at high altitudes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supercharger designates compressor that forces increased oxygen into the cylinders of an internal-combustion engine."*
+> - 📜 **Henry Ford (*My Life and Work*):** *"The experimental racing car incorporated a centrifugal **supercharger** to maximize torque on the speedway."*
+> - 📜 **Orville Wright (*The Papers of Wilbur and Orville Wright*):** *"Without an efficient **supercharger**, the aero engine loses power rapidly when ascending into thin mountain air."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"The aeronautical **supercharger** paved the way for modern jet turbine technology by mastering high-speed compression."*

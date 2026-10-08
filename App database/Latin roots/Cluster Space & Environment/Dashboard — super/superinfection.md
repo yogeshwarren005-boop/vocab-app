@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superinfection
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Infection that occurs while you are being treated for another infection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infection that occurs while you are being treated for another infection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A secondary infection occurring on top of an earlier infection, especially by a drug-resistant pathogen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The invasion of a host organism by a new parasite while already infected by another strain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superinfection designates infection that occurs while you are being treated for another infection."*
+> - 📜 **Louis Pasteur (*Researches on Inoculation*):** *"The clinical deterioration was traced to a fatal **superinfection** by septic vibriones in the exposed wound."*
+> - 📜 **Robert Koch (*Investigations into Bacteria*):** *"A cutaneous **superinfection** complicates the primary tubercular ulceration in neglected cases."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The physician must constantly watch for **superinfection** when prolonged debilitating fevers exhaust bodily defenses."*

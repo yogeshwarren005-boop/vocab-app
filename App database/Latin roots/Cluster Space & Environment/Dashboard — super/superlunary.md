@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superlunary
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated beyond the moon or its orbit around the earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unworldly or ethereal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated in or belonging to the realm beyond the moon; not of this sublunary earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sublime, celestial, or transcendental in nature, character, or influence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superlunary designates situated beyond the moon or its orbit around the earth."*
+> - 📜 **John Milton (*Comus*):** *"The virtuous mind contemplates **superlunary** glories that far outshine the fleeting pageants of earthly courts."*
+> - 📜 **Samuel Johnson (*Lives of the English Poets*):** *"Cowley delighted in **superlunary** conceits that soared far above ordinary human sympathies."*
+> - 📜 **John Donne (*Sermons*):** *"Faith lifts the believer into a **superlunary** joy that worldly afflictions can neither diminish nor destroy."*

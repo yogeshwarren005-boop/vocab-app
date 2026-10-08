@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superlatively
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a superlative degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a superlative degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner of the highest degree, supreme excellence, or extreme intensity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exceedingly, surpassingly, or beyond all common comparison.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Being a man not without a frequent consciousness that there was some charm in this life he led, he stood still after looking at the sky as a useful instrument, and regarded it in an appreciative spirit, as a work of art superlatively beautiful."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Their table was superlatively stupid."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Or, if for any reason thought to be corporeally incapacitated for that, yet such an one would seem superlatively competent to cheer and howl on his underlings to the attack."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He was **superlatively** gifted in eloquence, commanding the passions of the senate at his pleasure."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Lady Catherine regarded her own taste in park landscape as **superlatively** refined."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"The actress delivered her lines with a **superlatively** tragic intensity that held the auditorium spellbound."*

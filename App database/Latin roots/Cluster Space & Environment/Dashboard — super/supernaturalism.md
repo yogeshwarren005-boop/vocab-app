@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supernaturalism
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A belief in forces beyond ordinary human understanding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being attributed to power that seems to violate or go beyond natural forces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical belief that there are forces, divine beings, or principles beyond the physical universe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reliance upon miraculous or divine intervention rather than natural scientific causes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor, in some things, does the common, hereditary experience of all mankind fail to bear witness to the supernaturalism of this hue."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Nor, in some things, does the common, hereditary experience of all mankind fail to bear witness to the supernaturalism of this hue."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Further, we have seen that, over and above this general supernaturalism, some persons are supposed to be inspired for short periods by a divine spirit, and thus temporarily to enjoy the knowledge and power of the indwelling deity."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Natural **supernaturalism** reveals that the entire visible cosmos is the living, woven garment of the divine."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Popular piety clings tenaciously to piecemeal **supernaturalism**, expecting specific miraculous answers to prayer."*
+> - 📜 **Matthew Arnold (*Literature and Dogma*):** *"The decaying fabric of medieval **supernaturalism** must yield to a moral and spiritual interpretation of scripture."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superstratum
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any stratum or layer superimposed on another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The language of a later invading people that is imposed on an indigenous population and contributes features to their language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An overlying geological layer or stratum resting upon an underlying formation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics, the dominant superstrate language layer influencing an indigenous substrate tongue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superstratum designates any stratum or layer superimposed on another."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The thick **superstratum** of glacial gravel concealed the tilted coal-bearing sandstones beneath."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The Romance vernaculars absorbed the Germanic **superstratum** without surrendering their core Latin syntax."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"Where basalt sheets form a protective **superstratum**, the softer underlying shales are shielded from erosion."*

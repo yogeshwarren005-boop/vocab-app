@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superincumbent
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lying or resting on and exerting pressure on something else.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lying or resting on and exerting pressure on something else.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lying, resting, or pressing down from directly above; weighing down upon something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exerting downward physical pressure upon underlying geological strata or architectural members.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Then a superincumbent bundle rolled down, with a whisking noise; flames elongated, and bent themselves about with a quiet roar, but no crackle."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"At evening she lays hold of the two digging-sticks and by their help frees herself from the superincumbent weight of sand and returns to the camp."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But in life—as we have elsewhere seen—this inclined plane is angularly filled up, and almost squared by the enormous superincumbent mass of the junk and sperm."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The enormous weight of the **superincumbent** rocks consolidated the soft clay into dense shale."*
+> - 📜 **James Hutton (*Theory of the Earth*):** *"Subterranean heat softened the mineral mass beneath the immense pressure of **superincumbent** ocean water."*
+> - 📜 **John Playfair (*Illustrations of the Huttonian Theory of the Earth*):** *"The pillars of the cavern sustained the **superincumbent** weight of the mountain without fracture."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supersedure
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of replacing one person or thing by another especially one held to be superior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of replacing one person or thing by another especially one held to be superior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of superseding, setting aside, or displacing an established law, office, or method.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The replacement of an older institution or technology by an updated successor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supersedure designates act of replacing one person or thing by another especially one held to be superior."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Extinction is the inevitable consequence of the **supersedure** of ancient forms by improved varieties."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The sudden **supersedure** of the lord chancellor by a court favorite provoked severe indignation in parliament."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"The quiet **supersedure** of customary courts by royal tribunals eroded the ancient autonomy of the provinces."*

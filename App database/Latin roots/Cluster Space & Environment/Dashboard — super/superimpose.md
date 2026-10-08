@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superimpose
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place on top of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place on top of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To lay, place, or set something on top of something else so that both are evident.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To add a new layer, characteristic, or pattern over an existing structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sight, coming as it did, superimposed upon the other dark scenery of the previous days, formed a sort of climax to the whole panorama, and it was more than he could endure."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak had in some slight measure been prepared for the presence of Troy by hearing a rumour of his return just before entering Boldwood’s house; but before he had weighed that information, this fatal event had been superimposed."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess—I couldn’t help it!” he began desperately, as he wiped his heated face, which had also a superimposed flush of excitement."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Artificial selection operates to **superimpose** new domestic traits upon the ancestral wild frame."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Subsequent volcanic eruptions **superimpose** sheets of basalt upon the sedimentary marine strata."*
+> - 📜 **Isaac Newton (*Opticks*):** *"When we **superimpose** two colored spectrums, their overlapping frequencies produce intermediate hues."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supernumerary
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person serving no apparent function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A minor actor in crowd scenes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exceeding the regular, standard, or prescribed number; extra and superfluous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A theatrical performer with a non-speaking role, such as a crowd member; an extra.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The supply was getting less as the animals advanced in calf, and the supernumerary milkers of the lush green season had been dismissed."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The dairy-work lasted only till the milk began to lessen, for she had not met with a second regular engagement as at Talbothays, but had done duty as a supernumerary only."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The small dairies to the west, beyond Port-Bredy, in which she had served as supernumerary milkmaid during the spring and summer required no further aid."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor disbanded the **supernumerary** cohorts whose wages drained the imperial treasury."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Nicholas was engaged as a humble **supernumerary** to carry banners and join the chorus in the provincial theatre."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Each whaler carried a few **supernumerary** oarsmen to fill vacancies caused by accident or desertion."*

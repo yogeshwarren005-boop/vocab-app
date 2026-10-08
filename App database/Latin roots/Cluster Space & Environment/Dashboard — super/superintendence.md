@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superintendence
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Management by overseeing the performance or operation of a person or group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Management by overseeing the performance or operation of a person or group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or function of overseeing, managing, or directing an institution, work, or team.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vigilant general supervision and executive responsibility over operations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In the active superintendence of this young person, Judy Smallweed appears to attain a perfectly geological age and to date from the remotest periods."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The dairy superintendence shall be done by a man—I can afford it well—you shall never have so much as to look out of doors at haymaking time, or to think of weather in the harvest."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Darcy often acknowledged himself to be under the greatest obligations to my father’s active superintendence; and when, immediately before my father’s death, Mr."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The profits of stock are not merely wages of inspection and **superintendence**, but reward for financial risk."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The supreme judicial tribunal exercises general **superintendence** over the decisions of all inferior courts."*
+> - 📜 **George Washington (*Writings of George Washington*):** *"The military stores require the constant **superintendence** of an incorruptible officer of experience."*

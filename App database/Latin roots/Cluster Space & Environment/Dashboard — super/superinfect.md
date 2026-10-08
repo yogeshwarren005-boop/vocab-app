@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superinfect
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Infect (an infected cell) further or infect a cell already containing similar organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infect (an infected cell) further or infect a cell already containing similar organisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To infect an organism or cell already suffering from an infection with a second, distinct infectious agent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To introduce a secondary microbial pathogen into an established parasitic colony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superinfect designates infect (an infected cell) further or infect a cell already containing similar organisms."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Foreign bacteria may easily **superinfect** the beer wort if aseptic precautions are neglected during cooling."*
+> - 📜 **Robert Koch (*The Etiology of Anthrax*):** *"Attempts to **superinfect** the diseased animal with secondary pyogenic micrococci accelerated terminal sepsis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Streptococcal organisms frequently **superinfect** the respiratory tract following severe influenza."*

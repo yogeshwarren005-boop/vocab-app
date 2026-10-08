@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supertanker
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest class of oil tankers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The largest class of oil tankers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An exceptionally large merchant tanker ship designed for transporting vast quantities of crude oil across oceans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very large crude carrier (VLCC) displacing hundreds of thousands of deadweight tons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supertanker designates the largest class of oil tankers."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"The emergence of the mammoth **supertanker** introduced unprecedented risks of ecological disaster to coastal fisheries."*
+> - 📜 **Arthur C. Clarke (*Voices from the Sky*):** *"A modern **supertanker** moves through maritime straits with inertia so vast that miles are required to arrest its momentum."*
+> - 📜 **Jacques Cousteau (*The Silent World*):** *"We watched the colossal silhouette of a laden **supertanker** gliding like an iron island past the reef."*

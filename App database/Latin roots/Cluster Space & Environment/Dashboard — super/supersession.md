@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supersession
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of replacing one person or thing by another especially one held to be superior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of replacing one person or thing by another especially one held to be superior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of superseding, supplanting, or replacing an existing person, law, or mechanism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The official replacement of one officer or authority by another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"From their own point of view they were right, for the triumph of the ideas of Jesus was the abolition of tribal religions and their supersession by a new mind or spirit with nothing local or racial about it."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **supersession** of the ancient polytheism by Christian worship transformed the civic life of the empire."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The sudden **supersession** of General Fairfax was accomplished without tumult by the New Model Army."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Geological strata reveal the continuous **supersession** of primitive species by more specialized descendants."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superimposed
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place on top of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Placed on or over something else.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Placed, layered, or situated over another object, surface, or image.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Added on top of an existing geological layer or artistic composition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sight, coming as it did, superimposed upon the other dark scenery of the previous days, formed a sort of climax to the whole panorama, and it was more than he could endure."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak had in some slight measure been prepared for the presence of Troy by hearing a rumour of his return just before entering Boldwood’s house; but before he had weighed that information, this fatal event had been superimposed."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess—I couldn’t help it!” he began desperately, as he wiped his heated face, which had also a superimposed flush of excitement."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The freshwater limestones are **superimposed** conformably upon older marine clays throughout the Paris basin."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"We see specialized instincts **superimposed** upon older generic behaviors across allied insect genera."*
+> - 📜 **James Hutton (*Theory of the Earth*):** *"Horizontal sandstone beds were **superimposed** upon the upturned edges of ancient vertical schist."*

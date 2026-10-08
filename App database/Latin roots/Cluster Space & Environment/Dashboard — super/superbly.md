@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superbly
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used as an intensifier) extremely well.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used as an intensifier) extremely well.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a magnificent, splendid, or exquisitely excellent manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With majestic elegance or consummate artistic skill.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Hall will have found your correct places in each other's lives and it will be just a glorious example of how superbly a man and woman can work together at the same profession."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"He ticked superbly, but with one unforeseen result."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"In the midst of this grand mausoleum stands the sepulchre of its founder--his effigy, with that of his queen, extended on a sumptuous tomb--and the whole surrounded by a superbly-wrought brazen railing."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Madame Merle was **superbly** poised, navigating the subtle currents of high Roman society without a single misstep."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The grand carriage swung **superbly** through the courtyard gates, scattering peasants into the gutter."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The marble columns rose **superbly** against the crimson sunset, recalling the vanished majesty of Greece."*

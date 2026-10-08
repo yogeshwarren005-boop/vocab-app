@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supernaturalistic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to supernaturalism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to supernaturalism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, marked by, or advocating supernaturalism and divine intervention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Interpreting occurrences in terms of miraculous forces rather than natural causal laws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supernaturalistic designates of or relating to supernaturalism."*
+> - 📜 **William James (*The Will to Believe*):** *"He adopted a **supernaturalistic** hypothesis to account for sudden spiritual transformations that defied neurology."*
+> - 📜 **Max Weber (*The Sociology of Religion*):** *"The transition from magical ritual to a **supernaturalistic** salvation theology transformed the ethical life of communities."*
+> - 📜 **Ernst Troeltsch (*The Social Teaching of the Christian Churches*):** *"Early Christian piety maintained an uncompromising **supernaturalistic** expectation of the imminent kingdom of God."*

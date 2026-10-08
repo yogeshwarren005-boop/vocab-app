@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # unsupervised
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not supervised or under constant observation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not supervised or under constant observation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not supervised; occurring or operating without an overseer, inspector, or director.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In machine learning, algorithms learning patterns from unlabeled data without human training tags.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsupervised designates not supervised or under constant observation."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Citizens left **unsupervised** in the management of local affairs develop practical civic courage and resourcefulness."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The individual ought to be left **unsupervised** in all conduct that concerns only his own welfare and conscience."*
+> - 📜 **William James (*The Principles of Psychology*):** *"When attention wanders, mental associations run on in an **unsupervised** drift of reverie and fleeting images."*

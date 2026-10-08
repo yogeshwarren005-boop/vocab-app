@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supernaturally
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a supernatural manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a supernatural manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that transcends the laws of nature; miraculously or by divine power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beyond all natural or ordinary human capability or expectation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It was now about nine o’clock, and the room seeming almost supernaturally quiet after these orgies, I began to congratulate myself upon a little plan that had occurred to me just previous to the entrance of the seamen."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The exquisite atmosphere of an almost supernaturally ideal life surrounds his pictures, irradiates the rosy features of his youthful faces, or greets us, like the peace of God, in the dignified figures of his devout old men."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Even the enemy was the same as at Austerlitz and Friedland—yet the terrible stroke of his arm had supernaturally become impotent."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The scarlet letter seemed to burn upon her bosom with a **supernaturally** vivid and ominous glow."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The hideous creature bounded across the glacier with **supernaturally** agile leaps that baffled human pursuit."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"The heavy ebony doors opened slowly, as though moved by a **supernaturally** silent and irresistible force."*

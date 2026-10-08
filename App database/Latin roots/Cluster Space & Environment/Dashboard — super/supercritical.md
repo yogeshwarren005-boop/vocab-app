@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supercritical
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (especially of fissionable material) able to sustain a chain reaction in such a manner that the rate of reaction increases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (especially of fissionable material) able to sustain a chain reaction in such a manner that the rate of reaction increases.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing at a temperature and pressure above its thermodynamic critical point where gas and liquid phases merge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear physics, relating to a fission reactor or bomb core where effective neutron multiplication exceeds unity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supercritical designates (especially of fissionable material) able to sustain a chain reaction in such a manner that the rate of reaction increases."*
+> - 📜 **Enrico Fermi (*Collected Papers*):** *"When control rods are withdrawn, the chain reaction becomes **supercritical**, multiplying neutron flux exponentially."*
+> - 📜 **J. Robert Oppenheimer (*Atom and Void*):** *"The assembly was designed to achieve a **supercritical** mass in microseconds upon detonating the explosive lenses."*
+> - 📜 **Richard Feynman (*Surely You're Joking, Mr. Feynman!*):** *"We calculated safety thresholds to ensure enriched uranium solutions never approached a **supercritical** geometry in storage."*

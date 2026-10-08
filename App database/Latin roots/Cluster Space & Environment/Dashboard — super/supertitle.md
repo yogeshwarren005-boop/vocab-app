@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supertitle
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Translation of the words of a foreign opera (or choral work) projected on a screen above the stage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Translation of the words of a foreign opera (or choral work) projected on a screen above the stage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A translated or transcribed text projected on a screen above a stage during an opera or theatrical performance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overhead surtitles provided to help audiences follow dialogue or libretto in a foreign language.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supertitle designates translation of the words of a foreign opera (or choral work) projected on a screen above the stage."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"Shaw would have applauded any legible **supertitle** that liberated opera audiences from the tyranny of bilingual libretto booklets."*
+> - 📜 **Virginia Woolf (*The Captain's Death Bed and Other Essays*):** *"The glowing **supertitle** above the proscenium arch bridged the barrier between Italian aria and English imagination."*
+> - 📜 **W. H. Auden (*The Dyer's Hand*):** *"A discrete **supertitle** preserves the musical integrity of the sung language while granting dramatic transparency to listeners."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superciliously
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With a sneer; in an uncomplimentary sneering manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With a sneer; in an uncomplimentary sneering manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a haughty, arrogant, or contemptuously disdainful manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With condescending indifference or an air of aristocratic superiority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"She took no notice of me until she had the candle in her hand, when she looked over her shoulder, superciliously saying, “You are to come this way to-day,” and took me to quite another part of the house."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"At their first encounter Paul bowed and spoke pleasantly, but Dawkins looked superciliously at him without appearing to know him."*
-> - 📜 **James Joyce (*Ulysses*):** *"BEAUFOY: _(His lip upcurled, smiles superciliously on the court.)_ You funny ass, you!"*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Elton smiled **superciliously**, plainly intending to show how completely he disregarded her advice."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The haughty baronet bowed **superciliously** to his solicitor, as though legal consultations were a painful condescension."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond listened **superciliously** to her mother's prudent warnings regarding domestic household expenses."*

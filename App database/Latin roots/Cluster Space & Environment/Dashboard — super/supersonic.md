@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supersonic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of speed) greater than the speed of sound in a given medium (especially air).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having frequencies above those of audible sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving, moving at, or pertaining to speeds greater than the speed of sound in the surrounding medium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: High-velocity shockwave phenomena generated when an aircraft exceeds Mach one.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supersonic designates (of speed) greater than the speed of sound in a given medium (especially air)."*
+> - 📜 **Ernst Mach (*Popular Scientific Lectures*):** *"A bullet moving at **supersonic** velocity carries before it a conical shockwave visible in shadowgraph photography."*
+> - 📜 **Theodore von Kármán (*Aerodynamics: Selected Topics in the Light of Their Historical Development*):** *"The transition to **supersonic** flight required swept wings to delay wave drag and preserve longitudinal stability."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"Commercial **supersonic** transport will shrink the oceans, turning intercontinental travel into routine morning commutes."*

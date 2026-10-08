@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supercilious
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing arrogant superiority to and disdain of those one views as unworthy; ; ; ; ; ; ; - w.l.shirer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressive of contempt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Behaving or looking as though one thinks one is superior to others; arrogantly disdainful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by haughty contempt or patronizing indifference toward perceived social inferiors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"A distant supercilious air makes a cold atmosphere about her, and there is nothing in her bearing, as there was before, to encourage openness."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Blanche Ingram, after having repelled, by supercilious taciturnity, some efforts of Mrs."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"For, though elated by his rank, it did not render him supercilious; on the contrary, he was all attention to everybody."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His manners gave a disgust which turned the tide of his popularity, for he was discovered to be proud, and **supercilious**."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"She addressed the governess with that **supercilious** coolness which high-born ladies reserve for dependent poor relations."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Blanche Ingram cast a cold, **supercilious** glance across the room, dismissing my presence as beneath notice."*

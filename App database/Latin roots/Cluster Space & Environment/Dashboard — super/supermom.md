@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supermom
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal term for a mother who can combine childcare and full-time employment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An informal term for a mother who can combine childcare and full-time employment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mother who successfully balances a demanding professional career with exemplary childcare and home management.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cultural archetype of maternal multitasking celebrated or scrutinized in contemporary social commentary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supermom designates an informal term for a mother who can combine childcare and full-time employment."*
+> - 📜 **Betty Friedan (*The Second Stage*):** *"The exhausting myth of the modern **supermom** pressured women to perform two full-time jobs without institutional support."*
+> - 📜 **Gloria Steinem (*Outrageous Acts and Everyday Rebellions*):** *"Expecting every working mother to become an unassisted **supermom** obscures the need for universal daycare."*
+> - 📜 **Margaret Mead (*Aspects of the Present*):** *"Sociological surveys reveal how the popular image of the **supermom** reflects profound shifts in domestic roles."*

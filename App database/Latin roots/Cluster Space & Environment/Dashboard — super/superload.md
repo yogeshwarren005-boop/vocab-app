@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superload
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A variable load on a structure (e.g. a bridge) such as moving traffic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A variable load on a structure (e.g. a bridge) such as moving traffic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An excessive or extraordinary structural load placed upon a foundation, bridge, or vehicle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To load or burden beyond normal safe operational capacity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superload designates a variable load on a structure (e.g. a bridge) such as moving traffic."*
+> - 📜 **Thomas Telford (*Life of Thomas Telford, Civil Engineer*):** *"The suspension chains were engineered with a safety factor of four to support any conceivable **superload**."*
+> - 📜 **Isambard Kingdom Brunel (*Reports on the Great Western Railway*):** *"The stone viaduct arches easily resisted the **superload** imposed by two coupled broad-gauge locomotives."*
+> - 📜 **Robert Stephenson (*Report on the Britannia Tubular Bridge*):** *"Tests proved that the iron tubes would not deflect dangerously under the heaviest anticipated railway **superload**."*

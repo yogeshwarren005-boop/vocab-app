@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superstition
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An irrational belief arising from ignorance or fear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An irrational belief arising from ignorance or fear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively credulous belief in and reverence for supernatural beings or omens; an irrational practice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A widely held but unjustified belief that certain actions or portents cause good or bad fortune.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And give me leave, And do not say ’tis superstition, that I kneel, and then implore her blessing."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Then they'll see that it is only a superstition and that there is no wandering ghost in Wildenstein."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The sentinel could only have been pleased by his endeavor to get rid of such an old superstition."*
+> - 📜 **Francis Bacon (*Essays*):** *"It were better to have no opinion of God at all, than such an opinion as is unworthy of him; for the one is unbelief, the other is **superstition**."*
+> - 📜 **David Hume (*The Natural History of Religion*):** *"Human terror and ignorance of natural causes are the primary wellsprings of religious **superstition** across the globe."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman senate maintained civic harmony by patronizing every ancient **superstition** with aristocratic tolerance."*

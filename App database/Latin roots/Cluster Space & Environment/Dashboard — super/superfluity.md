@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superfluity
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme excess.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme excess.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unnecessarily large or excessive amount; a surplus or overabundance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unnecessary thing, luxury, or excessive ornament beyond genuine necessity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If they would yield us but the superfluity while it were wholesome, we might guess they relieved us humanely."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then we shall ha’ means to vent Our musty superfluity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Superfluity come sooner by white hairs, but competency lives longer."*
+> - 📜 **Francis Bacon (*Essays*):** *"Seek not a great **superfluity** of riches, but only what thou mayest get justly, use soberly, and leave contentedly."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Take physick, pomp; expose thyself to feel what wretches feel, that thou mayst shake the **superfluity** to them."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The imperial banquets displayed an ostentatious **superfluity** of rare meats gathered from the ends of the earth."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supersaturated
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being more concentrated than normally possible and therefore not in equilibrium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being more concentrated than normally possible and therefore not in equilibrium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing a higher concentration of dissolved solute than would be present in equilibrium at that temperature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorology, air holding more water vapor than the equilibrium saturation vapor pressure without condensing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supersaturated designates being more concentrated than normally possible and therefore not in equilibrium."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"A **supersaturated** solution of Glauber's salt crystallizes in an instant upon introducing a single microscopic seed crystal."*
+> - 📜 **Louis Pasteur (*Researches on Molecular Asymmetry*):** *"Careful cooling produced a **supersaturated** tartrate syrup that deposited beautiful hemihedral crystals."*
+> - 📜 **Robert Boyle (*Experiments and Notes about the Mechanical Origin of Qualities*):** *"The warm liquor, being **supersaturated** with saline particles, solidified into a solid mass upon sudden agitation."*

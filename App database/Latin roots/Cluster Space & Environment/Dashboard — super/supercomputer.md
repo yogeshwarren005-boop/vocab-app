@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supercomputer
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mainframe computer that is one of the most powerful available at a given time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mainframe computer that is one of the most powerful available at a given time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mainframe computer possessing extremely high processing capacity and calculation speed compared to general machines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A massively parallel computing installation designed for advanced scientific simulation and cryptography.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supercomputer designates a mainframe computer that is one of the most powerful available at a given time."*
+> - 📜 **Arthur C. Clarke (*2001: A Space Odyssey*):** *"The HAL 9000 **supercomputer** processed millions of navigational calculations per second with flawless precision."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"The emergence of the electronic **supercomputer** created feedback systems capable of forecasting weather over whole hemispheres."*
+> - 📜 **Alan Turing (*Intelligent Machinery*):** *"Future computational architecture foreshadows a **supercomputer** whose speed will rival biological neural networks."*

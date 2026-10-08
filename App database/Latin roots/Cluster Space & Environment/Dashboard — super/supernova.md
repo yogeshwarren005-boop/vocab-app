@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supernova
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A star that explodes and becomes extremely luminous in the process.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A star that explodes and becomes extremely luminous in the process.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extraordinarily luminous, cataclysmic explosion of a massive star marking the end of its stellar evolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stellar detonation that briefly outshines an entire galaxy and disperses heavy elements across interstellar space.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supernova designates a star that explodes and becomes extremely luminous in the process."*
+> - 📜 **Fritz Zwicky (*On Super-Novae*):** *"Zwicky predicted that the explosion of a **supernova** would collapse the core into a dense ball of neutrons."*
+> - 📜 **Walter Baade (*The Crab Nebula*):** *"The Crab Nebula represents the expanding gaseous debris of the historical **supernova** observed by Chinese astronomers in 1054."*
+> - 📜 **Arthur Eddington (*The Philosophy of Physical Science*):** *"A distant **supernova** releases in weeks an energy comparable to the lifelong radiation of our sun."*

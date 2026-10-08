@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # insuperable
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to surmount.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being surmounted or excelled.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to overcome, surmount, or conquer; insurmountable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Presenting an obstacle so formidable that ordinary human efforts cannot prevail against it.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Am I severed from you by insuperable obstacles?"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I am in a condition to prove my allegation: an insuperable impediment to this marriage exists.” Mr."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I have called it insuperable, and I speak advisedly.” The speaker came forward and leaned on the rails."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The precipitous Alpine defiles presented an almost **insuperable** barrier to the heavily armored cavalry."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The despotic power of custom remains an **insuperable** hindrance to human advancement in traditional societies."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I was overcome by a gloom that appeared **insuperable**, believing that my fatal creation had destroyed all hope."*

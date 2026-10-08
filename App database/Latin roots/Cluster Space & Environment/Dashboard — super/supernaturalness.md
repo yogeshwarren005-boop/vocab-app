@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supernaturalness
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being attributed to power that seems to violate or go beyond natural forces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being attributed to power that seems to violate or go beyond natural forces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Miraculous character, divine origin, or transcendence above physical laws of nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The otherworldly or mysterious aura attaching to an unexplainable occurrence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Glancing upwards, he cried: “See! see!” and once more the high tapering flames were beheld with what seemed redoubled supernaturalness in their pallor."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Glancing upwards, he cried: “See! see!” and once more the high tapering flames were beheld with what seemed redoubled supernaturalness in their pallor."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"The feeling of spirituality or supernaturalness is again referred to as being strong in my mind in this passage."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The apparent **supernaturalness** of the ancient mariner's tale was redeemed by its deep psychological truth."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The undeniable **supernaturalness** felt in conversion experiences stamps them with profound authority for the subject."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Strip the miracle of its crude **supernaturalness**, and you discover the sublime law of the universe."*

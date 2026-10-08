@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superconductivity
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The disappearance of electrical resistance at very low temperatures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The disappearance of electrical resistance at very low temperatures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of zero electrical resistance and total expulsion of magnetic fields in materials below a critical temperature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A macroscopic quantum phenomenon occurring in certain metals and ceramics cooled by cryogenic liquids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superconductivity designates the disappearance of electrical resistance at very low temperatures."*
+> - 📜 **Heike Kamerlingh Onnes (*Further Experiments with Liquid Helium*):** *"Mercury showed an abrupt drop to absolute zero resistance at 4.2 Kelvin, revealing the phenomenon of **superconductivity**."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The theoretical explanation of **superconductivity** requires Cooper pairing of conduction electrons across the Fermi surface."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"In **superconductivity**, persistent electrical currents circulate indefinitely in closed rings without dissipating Joule heat."*

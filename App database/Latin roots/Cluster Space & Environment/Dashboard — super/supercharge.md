@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supercharge
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Increase or raise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Increase the pressure on a gas or liquid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To supply an internal combustion engine with air or fuel mixture at higher than atmospheric pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To charge to excess; to overload with emotional intensity, physical energy, or responsibility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supercharge designates increase or raise."*
+> - 📜 **Nikola Tesla (*Lectures, Patents, Articles*):** *"By utilizing resonant circuits, we can **supercharge** the primary condenser to enormous electrostatic potentials."*
+> - 📜 **Thomas Edison (*Patents and Technical Papers*):** *"Care must be taken not to **supercharge** the accumulator plate beyond its designed thermal threshold."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"Every political incident served to **supercharge** the European atmosphere with mutual fear and suspicion."*

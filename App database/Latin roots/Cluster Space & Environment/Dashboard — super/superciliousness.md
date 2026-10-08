@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superciliousness
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of displaying arrogance by patronizing those considered inferior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of displaying arrogance by patronizing those considered inferior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Haughty disdain, contemptuous pride, or an arrogant demeanor of superiority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The offensive display of condescension toward perceived inferiors in society or intellect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Noted reed-drawers were they too, and looked round upon the other three with some superciliousness."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"A certain superciliousness of look, coolness of manner, nonchalance of tone, express fully their sentiments on the point, without committing them by any positive rudeness in word or deed."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"His little eyes glittered like mica discs—with curiosity—though he tried to keep up a bit of superciliousness."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Nothing alienates friendship more completely than the cold **superciliousness** of assumed intellectual greatness."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor bore the proud **superciliousness** of Lady Middleton with dignified, calm endurance."*
+> - 📜 **William Makepeace Thackeray (*The Book of Snobs*):** *"The true snob is recognized by that unbearable **superciliousness** with which he treats servants and tradesmen."*

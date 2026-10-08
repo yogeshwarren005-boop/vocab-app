@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superordinate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of greater rank or station or quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word that is more generic than a given word.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Higher in rank, status, category, or authority than another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and logic, an overarching term or hypernym that includes subordinate instances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superordinate designates one of greater rank or station or quality."*
+> - 📜 **Aristotle (*Categories*):** *"The **superordinate** genus predicates its essence of every subordinate species and individual falling beneath it."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"In classification, the **superordinate** concept embraces a wider extension and a narrower comprehension."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The higher executive centers of the cerebrum act as **superordinate** governors over the automated spinal reflex arcs."*

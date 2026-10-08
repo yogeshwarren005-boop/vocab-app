@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supererogation
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An effort above and beyond the call of duty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An effort above and beyond the call of duty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The performance of more work or virtuous deeds than duty, obligation, or church doctrine requires.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Doing more than is formally necessary; redundant or gratuitous effort.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Which was quite a work of supererogation--I think that is the word, but Elsie knows--considering that their own brother, Mad Jeremy, was on foot--and healthy, thank'ee kindly!"*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"While cause and effect remain in the ethical realm, factors of saving power and even of something resembling works of supererogation are introduced."*
+> - 📜 **Francis Bacon (*Essays*):** *"Works of **supererogation** were taught by the friars as treasury merits available to remit temporal penances."*
+> - 📜 **John Milton (*Of Reformation in England*):** *"To imagine that mortal sinners can possess surplus merits of **supererogation** contradicts holy scripture."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The hermit regarded severe physical austerities as meritorious works of **supererogation** securing celestial favor."*

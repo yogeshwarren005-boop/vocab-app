@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superannuated
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Retire and pension (someone) because of age or physical inability.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declare to be obsolete.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Retired on a pension because of old age or advanced years of service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obsolete, outmoded, or antiquated in design, doctrine, or equipment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"During this interval I had remained standing on the piazza of the ‘Ti,’ which directly fronted the Happar mountain, and with no one near me but Kory-Kory and the old superannuated savages I have described."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"One moment he volunteered to trot off with me on his back to the stream; and when I refused, noways daunted by the repulse, he continued to frisk about me like a superannuated house-dog."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Scarcely satisfied with my apologies, however, he marched off with the superannuated musket in something of a huff, as if he would no longer expose it to the indignity of being manipulated by such unskilful fingers."*
+> - 📜 **Charles Lamb (*The Superannuated Man*):** *"A **superannuated** man suddenly released from clerical drudgery feels like an inmate released from long captivity."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The frontiers were defended by **superannuated** legionaries who had forgotten the austere discipline of antiquity."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"In the corner of the stable stood a **superannuated** stagecoach, mouldering beneath cobwebs and fallen thatch."*

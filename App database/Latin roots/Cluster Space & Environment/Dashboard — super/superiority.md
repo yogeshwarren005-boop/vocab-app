@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superiority
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being superior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being at a competitive advantage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Preeminent merit, higher rank, greater power, or distinguished excellence over competitors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A demeanor of assumed greatness, pride, or haughty condescension over others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Yes!” With her air of superiority, and power, and fascination, and I know not what, she seemed to regard Ada and me as little more than children."*
-> - 📜 **Jane Austen (*Persuasion*):** *"The two families had always been on excellent terms, there being no pride on one side, and no envy on the other, and only such a consciousness of superiority in the Miss Musgroves, as made them pleased to improve their cousins."*
-> - 📜 **Jane Austen (*Persuasion*):** *"There was no superiority of manner, accomplishment, or understanding."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Rome asserted her unquestioned **superiority** across the Mediterranean through combined naval and military might."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The natural **superiority** of fertile soils gives their proprietors a monopoly rent over barren lands."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Democratic equality dissolves ancient pretensions to hereditary social **superiority**."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superlunar
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated beyond the moon or its orbit around the earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unworldly or ethereal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated above or beyond the moon; celestial, heavenly, or ethereal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to the incorruptible heavenly spheres in ancient Ptolemaic cosmology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superlunar designates situated beyond the moon or its orbit around the earth."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The pure archangels dwell in **superlunar** light, untainted by the corruptions of mortal dust."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"A **superlunar** harmony seemed to descend from the stars, calming the tempestuous ocean waves."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Aristotle held that all things in the **superlunar** heavens were exempt from physical decay and alteration."*

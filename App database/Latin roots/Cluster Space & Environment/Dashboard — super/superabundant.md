@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superabundant
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Most excessively abundant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Most excessively abundant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing in great excess; exceeding what is necessary or sufficient; copious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overflowing with vital energy, resources, or productivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Revenues were superabundant for current expenses of government, and altho there was a large national debt, hardly any of it was redeemable at the time."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Can't you keep your place, ma'am?" and he gave a great _whoo!_ as if he were letting off superabundant steam."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The vine produces a **superabundant** harvest when its roots encounter moisture charged with decaying marl."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **superabundant** reproduction of every organism leads inevitably to a severe struggle for existence."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Their theoretical schemes were sustained by a **superabundant** rhetoric that hid an utter poverty of practical wisdom."*

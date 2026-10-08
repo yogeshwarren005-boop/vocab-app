@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superslasher
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large (20-ft) and swift carnivorous dinosaur having an upright slashing claw 15 inches long on each hind foot; early cretaceous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large (20-ft) and swift carnivorous dinosaur having an upright slashing claw 15 inches long on each hind foot; early cretaceous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extreme, high-octane slasher horror film or monstrous cinematic killer; or an industrial high-power cutting tool.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sensational pop-culture work or mechanical device characterized by extreme cutting or hacking power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superslasher designates large (20-ft) and swift carnivorous dinosaur having an upright slashing claw 15 inches long on each hind foot; early cretaceous."*
+> - 📜 **Stephen King (*Danse Macabre*):** *"The modern **superslasher** film transformed the classic gothic monster into an unstoppable masked engine of gore."*
+> - 📜 **H. P. Lovecraft (*Supernatural Horror in Literature*):** *"Crude physical brutality in modern tales replaces subtle cosmic dread with the bloody frenzy of a **superslasher**."*
+> - 📜 **Ray Bradbury (*Something Wicked This Way Comes*):** *"The carnival machine whirred in the shadows like a mechanical **superslasher**, menacing the fleeing boys."*

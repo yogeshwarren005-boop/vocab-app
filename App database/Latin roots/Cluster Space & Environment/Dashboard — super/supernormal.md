@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supernormal
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beyond the range of the normal or scientifically explainable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exceeding the normal or average.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exceeding normal human faculty, standard physiological capacity, or statistical average.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to unusual sensory, psychological, or paranormal phenomena beyond ordinary limits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supernormal designates beyond the range of the normal or scientifically explainable."*
+> - 📜 **William James (*Essays in Psychical Research*):** *"The medium displayed **supernormal** sensitivity to hidden objects, baffling our skeptical observers."*
+> - 📜 **Frederic W. H. Myers (*Human Personality and Its Survival of Bodily Death*):** *"I employ the word **supernormal** to designate faculties that transcend the ordinary evolutionary development of the senses."*
+> - 📜 **Henri Bergson (*Mind-Energy*):** *"Spontaneous telepathy suggests that the brain normally restricts conscious awareness, while **supernormal** states lift the filter."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superannuate
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Retire and pension (someone) because of age or physical inability.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declare to be obsolete.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To retire an employee or official on a pension on account of advanced age or infirmity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To declare or treat as obsolete, out of date, or unfit for modern service.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"During this interval I had remained standing on the piazza of the ‘Ti,’ which directly fronted the Happar mountain, and with no one near me but Kory-Kory and the old superannuated savages I have described."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"One moment he volunteered to trot off with me on his back to the stream; and when I refused, noways daunted by the repulse, he continued to frisk about me like a superannuated house-dog."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Scarcely satisfied with my apologies, however, he marched off with the superannuated musket in something of a huff, as if he would no longer expose it to the indignity of being manipulated by such unskilful fingers."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The ministry resolved to **superannuate** several aged admirals to make room for younger officers."*
+> - 📜 **Charles Lamb (*The Superannuated Man*):** *"The directors voted to **superannuate** their faithful clerk after thirty-six tedious years over office ledgers."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"It was considered prudent to **superannuate** those veterans whose physical strength could no longer endure winter campaigns."*

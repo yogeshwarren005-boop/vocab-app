@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superb
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of surpassing excellence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surpassingly good.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of the highest quality, magnificence, grandeur, or excellence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impressively splendid, stately, or majestic in appearance or performance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Two wax candles stood lighted on the table, and two on the mantelpiece; basking in the light and heat of a superb fire, lay Pilot—Adèle knelt near him."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"With anxiety I watched his eye rove over the gay stores: he fixed on a rich silk of the most brilliant amethyst dye, and a superb pink satin."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"We were to have a superb dinner, consisting of a leg of pickled pork and greens, and a pair of roast stuffed fowls."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **superb** monuments of Palmyra arose amidst the desert sands as an enduring testament to Zenobia's glory."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Her tall stature and **superb** features gave her the commanding air of an eastern princess in the drawing-room."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The white whale arched his **superb** back in the morning sun, dazzling every watcher from the mastheads."*

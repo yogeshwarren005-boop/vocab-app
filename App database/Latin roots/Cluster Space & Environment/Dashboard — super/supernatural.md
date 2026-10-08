@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supernatural
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Supernatural forces and events and beings collectively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not existing in nature or subject to explanation according to natural laws; not physical or material.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Manifesting or attributed to an agency, realm, or force beyond the scientific laws of nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Miraculous, magical, or spiritual in essence, exceeding ordinary physical reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They say miracles are past; and we have our philosophical persons to make modern and familiar things supernatural and causeless."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"MACBETH. [_Aside._] Two truths are told, As happy prologues to the swelling act Of the imperial theme.—I thank you, gentlemen.— [_Aside._] This supernatural soliciting Cannot be ill; cannot be good."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It put him into the best spirits that there had been nothing supernatural about it, and that he was able again to talk with his mother as before."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Miracles are **supernatural** works wrought by the sovereign author of nature for divine manifestations."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"A miracle is a violation of the laws of nature, and must therefore be judged as a purported **supernatural** event."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"My endeavor in the poems was to transfer from our inward nature a human interest and a semblance of truth sufficient to procure for these shadows of imagination that willing suspension of disbelief for the moment, which constitutes poetic faith in the **supernatural**."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supersensitive
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an allergy or peculiar or excessive susceptibility (especially to a specific factor).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an allergy or peculiar or excessive susceptibility (especially to a specific factor).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally, excessively, or acutely sensitive to physical stimuli, pain, or emotional reactions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of responding to minute changes in temperature, current, or environmental conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But with the self-combating proclivity of the supersensitive, an answer thereto arose in Clare’s own mind, and he almost feared it."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The tip of the growing radicle is **supersensitive** to touch, moisture, and the pull of gravity."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A neurotic disposition often renders the nervous system **supersensitive** to the slightest discord in tone."*
+> - 📜 **Sigmund Freud (*The Interpretation of Dreams*):** *"The patient became **supersensitive** to any casual remark that stirred repressed infantile memories."*

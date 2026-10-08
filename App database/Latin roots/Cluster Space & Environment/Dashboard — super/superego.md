@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superego
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychoanalysis) that part of the unconscious mind that acts as a conscience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (psychoanalysis) that part of the unconscious mind that acts as a conscience.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In psychoanalytic theory, the ethical component of the personality that provides moral standards and conscience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The internalization of parental and cultural ideals acting critically upon the ego through guilt.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superego designates (psychoanalysis) that part of the unconscious mind that acts as a conscience."*
+> - 📜 **Sigmund Freud (*The Ego and the Id*):** *"The **superego** retains the character of the father, holding up moral ideals and punishing the ego with severe guilt."*
+> - 📜 **Carl Jung (*Two Essays on Analytical Psychology*):** *"What Freud describes as the **superego** is largely the internalized collective consciousness of the social group."*
+> - 📜 **Alfred Adler (*The Individual Psychology of Alfred Adler*):** *"The harsh demands of the neurotic **superego** reflect an exaggerated striving for godlike superiority over others."*

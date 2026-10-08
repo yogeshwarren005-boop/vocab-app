@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supernaturalist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to supernaturalism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to supernaturalism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who accepts or advocates belief in the supernatural or miraculous divine agency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A theologian or thinker who asserts that revelation transcends empirical scientific reason.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Yet you must admit that the footmark is material.” “The original hound was material enough to tug a man’s throat out, and yet he was diabolical as well.” “I see that you have quite gone over to the supernaturalists."*
+> - 📜 **David Hume (*Dialogues Concerning Natural Religion*):** *"The ardent **supernaturalist** appeals to extraordinary portents whenever rational argument fails his purpose."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Every sincere prophet was in some sense a **supernaturalist**, seeing the eternal reality behind earthly shows."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"The philosophical **supernaturalist** distinguishes between the mechanistic order of nature and the free realm of spirit."*

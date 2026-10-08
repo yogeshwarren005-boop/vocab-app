@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supernatant
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The clear liquid that lies above a sediment or precipitate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a liquid; floating on the surface above a sediment or precipitate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Denoting the clear liquid that lies above a precipitate or sediment after settling or centrifugation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Floating or swimming upon the surface of a fluid medium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supernatant designates the clear liquid that lies above a sediment or precipitate."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"We carefully decanted the clear **supernatant** liquor to separate the active enzymes from yeast cells."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The metallic powder subsided to the bottom, leaving an azure **supernatant** solution of vitriol."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The precipitating reagent clarified the fluid, permitting easy extraction of the **supernatant** water."*

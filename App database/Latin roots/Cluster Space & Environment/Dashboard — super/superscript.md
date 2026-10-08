@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superscript
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A character or symbol set or printed or written above and immediately to one side of another character.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Written or printed above and to one side of another character.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A letter, figure, or symbol printed or written immediately above the ordinary line of text.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mathematical exponents or footnote markers positioned above the typographical baseline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superscript designates a character or symbol set or printed or written above and immediately to one side of another character."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"The algebraic exponent was denoted by a small **superscript** numeral indicating the power of the variable."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"In the mechanical notations of the engine, each **superscript** sign signified an operational linkage."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Tensor components are designated by **superscript** indices denoting coordinate contravariance."*

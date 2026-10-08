@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superfluously
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a superfluous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a superfluous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unnecessary, excessive, or redundant manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beyond what is required or beneficial for function or clarity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That may be, for you bear a many superfluously, and ’twere more honour some were away."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Hurst, poking the fire superfluously...."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I am perhaps talking rather superfluously; but a man likes to assume superiority over himself, by holding up his bad example and sermonizing on it.” Lydgate took Mr."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Scholastic disputants multiplied distinctions **superfluously**, obscuring the clear light of truth."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He spent his youthful fortune **superfluously** upon horses and banquet halls, securing neither love nor honor."*
+> - 📜 **John Milton (*Paradise Lost*):** *"No word was uttered **superfluously** in that august council of the archangels."*

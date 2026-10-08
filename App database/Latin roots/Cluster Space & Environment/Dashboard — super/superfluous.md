@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superfluous
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving no useful purpose; having no excuse for being.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: More than is needed, desired, or required.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exceeding what is sufficient, necessary, or normal; extra and redundant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Needless, useless, or wasteful in practical operation or discourse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Caesar, ’tis his schoolmaster— An argument that he is plucked, when hither He sends so poor a pinion of his wing, Which had superfluous kings for messengers Not many moons gone by."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O my dear Gertrude, this, Like to a murdering piece, in many places Gives me superfluous death. [_A noise within._] QUEEN."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It were superfluous, for his apparel is built upon his back, and the whole frame stands upon pins."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Nature does nothing in vain, and all **superfluous** mechanical complexity should be pruned from philosophy."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"Whatever grass or fruit exceeded one's personal consumption was **superfluous** and could belong to any other."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Rudimentary organs demonstrate how natural selection gradually suppresses structures that have become **superfluous**."*

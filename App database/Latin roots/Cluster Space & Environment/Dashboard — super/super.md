@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # super
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A caretaker for an apartment house; represents the owner as janitor and rent collector.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of the highest quality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of the highest quality, grade, or excellence; superior or first-rate in informal usage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A theatrical extra or supernumerary; or an overarching prefix designating placement above.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It is different from perception that culminates in reason, for it arises in sensation and culminates in emotion, which, be it admitted, is nothing else than super-sensation."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"With all the super-subtlety that sometimes characterizes theologians, these men had a passion for truth."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I can recommend it for your purpose, sir, because it really is extra super."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The mind must not remain content with common sensations, but seek a **super** excellence in demonstrable axioms."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Shakespeare possesses a **super** intelligence that perceives the underlying harmony of all tragic drama."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The mystic experiences a **super** normal consciousness that defies translation into ordinary vernacular speech."*

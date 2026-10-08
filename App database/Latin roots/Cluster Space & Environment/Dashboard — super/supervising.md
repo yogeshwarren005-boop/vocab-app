@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supervising
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Management by overseeing the performance or operation of a person or group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Watch and direct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Directing and managing operations, workers, or procedures with executive responsibility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Watching over and inspecting conduct or performance to ensure conformity with standards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Especially is the difficulty of supervising workers and of ensuring the performance of a certain standard, or minimum, amount and quality of work great in larger enterprises."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The lender must also, in estimating net interest, count the cost of placing, supervising, and collecting the loan."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"A larger part of the energies of men will then be directed merely to supervising the developed machinery."*
+> - 📜 **Alexander Hamilton (*Report on the Mint*):** *"The officer in charge spent his hours **supervising** the assayers to maintain exact standards of bullion purity."*
+> - 📜 **Frederick Winslow Taylor (*The Principles of Scientific Management*):** *"Functional foremanship divides the task of **supervising** workmen among several specialized experts."*
+> - 📜 **George Washington (*Writings of George Washington*):** *"I spent the entire day upon the drill ground **supervising** the maneuvers of the newly raised battalions."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # exsuperate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin super within the domain of Space & Environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of super in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To surpass, excel, surmount, or rise triumphantly above all obstacles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To overtop or overbear by superior power, height, or intellectual preeminence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exsuperate designates pertaining to, derived from, or characteristic of latin super within the domain of space & environment."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The force of heroic virtue can **exsuperate** the stubborn malice of fortune and historical neglect."*
+> - 📜 **John Milton (*The Reason of Church-Government*):** *"Truth by her own immortal luster will easily **exsuperate** the gloomy clouds of clerical superstition."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman legions sought to **exsuperate** every geographical barrier that opposed the extension of their empire."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supererogatory
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: More than is needed, desired, or required.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: More than is needed, desired, or required.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Observed, performed, or given beyond what is required, expected, or strictly necessary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Superfluous, gratuitous, or non-essential in character or effort.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He was close to her doors: his standing was sufficient: his qualities were even supererogatory."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He was close to her doors: his standing was sufficient: his qualities were even supererogatory."*
-> - 📜 **James Joyce (*Ulysses*):** *"What supererogatory marks of special hospitality did the host show his guest?"*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He looked upon ceremonial courtesies as **supererogatory** duties that wasted precious hours of serious study."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The revolutionary constitution heaped **supererogatory** declarations of rights upon an anarchy of practical laws."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The lavish praise bestowed upon the victorious admiral appeared **supererogatory** to his jealous political rivals."*

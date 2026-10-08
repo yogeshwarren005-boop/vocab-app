@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supertonic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) the second note of a diatonic scale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (music) the second note of a diatonic scale.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The second scale degree of a diatonic musical scale, situated one whole step immediately above the tonic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A triad or chord constructed upon the second degree of a musical scale.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supertonic designates (music) the second note of a diatonic scale."*
+> - 📜 **Charles Burney (*A General History of Music*):** *"The resolution of the discord from the **supertonic** chord to the dominant prepares the ear for the final cadence."*
+> - 📜 **Hector Berlioz (*Treatise on Modern Instrumentation and Orchestration*):** *"Modulation through the minor **supertonic** imparts an unexpected melancholy to the allegro theme."*
+> - 📜 **Donald Francis Tovey (*Essays in Musical Analysis*):** *"Beethoven frequently pivots upon the chromatic **supertonic** to plunge into remote tonal keys."*

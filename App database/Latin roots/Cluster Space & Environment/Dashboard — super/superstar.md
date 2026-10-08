@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superstar
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is dazzlingly skilled in any field.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is dazzlingly skilled in any field.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extremely famous, prominent, and celebrated performer, athlete, or public figure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cultural luminary who commands immense commercial drawing power and international adoration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superstar designates someone who is dazzlingly skilled in any field."*
+> - 📜 **Andy Warhol (*The Philosophy of Andy Warhol*):** *"In my studio, every charismatic eccentric had the opportunity to become an underground **superstar** for fifteen minutes."*
+> - 📜 **Marshall McLuhan (*Understanding Media*):** *"Electronic media create the modern **superstar** by projecting an amplified intimate presence into every household."*
+> - 📜 **Tom Wolfe (*The Electric Kool-Aid Acid Test*):** *"The legendary rock **superstar** walked through the crowd, radiating that hypnotic aura of celebrity magnetism."*

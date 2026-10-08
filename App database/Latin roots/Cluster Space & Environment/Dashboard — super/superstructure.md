@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superstructure
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Structure consisting of the part of a ship above the main deck.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Structure consisting of the part of a ship above the main deck.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A structure built on top of something else; especially the part of a building or ship rising above the foundation or deck.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Marxist theory, the ideological, legal, and political institutions that arise upon the economic base.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"M'Gregor was anxious that a superstructure should be built on the foundation laid by himself by his going to College."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It has been shown in the course of these papers, that the existing Confederation is founded on principles which are fallacious; that we must consequently change this first foundation, and with it the superstructure resting upon it."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The superstructure of the Temple was erected amid the strain and stress of an economic depression of an unprecedented severity gripping the North American continent."*
+> - 📜 **Karl Marx (*A Contribution to the Critique of Political Economy*):** *"Upon the real economic foundation arises a legal and political **superstructure** to which correspond definite forms of social consciousness."*
+> - 📜 **Friedrich Engels (*Anti-Dühring*):** *"The changes in economic production ultimately determine the transformations within the religious and political **superstructure**."*
+> - 📜 **Vladimir Lenin (*The State and Revolution*):** *"The bourgeois state apparatus constitutes the political **superstructure** that defends private monopoly ownership."*

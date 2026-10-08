@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # supersensitised
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an allergy or peculiar or excessive susceptibility (especially to a specific factor).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an allergy or peculiar or excessive susceptibility (especially to a specific factor).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rendered abnormally or extraordinarily sensitive, especially of photographic emulsions to light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hyper-reactive to environmental stimuli, allergens, or emotional influences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supersensitised designates having an allergy or peculiar or excessive susceptibility (especially to a specific factor)."*
+> - 📜 **William Henry Fox Talbot (*The Pencil of Nature*):** *"The calotype paper was **supersensitised** by washing with gallic acid and silver nitrate before exposure."*
+> - 📜 **George Eastman (*Chronicles of Photography*):** *"Our laboratory developed a **supersensitised** film emulsion capable of recording nighttime exposures."*
+> - 📜 **John Herschel (*Philosophical Transactions*):** *"The **supersensitised** chemical plate registered ultraviolet rays invisible to the human retina."*

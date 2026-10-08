@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # insuperably
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To an insuperable degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an insuperable degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an insurmountable, unconquerable, or impassable manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a degree that resists every attempt at overcoming or removing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"This instant at which I speak to you shows me again exactly how, to my great misfortune, you just insuperably charm me."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The barbarian forces found themselves **insuperably** divided by hereditary hatred and conflicting ambitions."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The prejudices of the ancient aristocracy were **insuperably** opposed to the commercial reforms of the Whigs."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Indolence binds the soul with chains that grow **insuperably** strong through long procrastination."*

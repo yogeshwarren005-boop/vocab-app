@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — super]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # superoxide
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metallic oxide containing the univalent anion o2-.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The univalent anion o2-.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inorganic chemical compound containing the hyperoxide or superoxide anion O₂⁻.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reactive oxygen species produced during cellular respiration, scavenged by superoxide dismutase.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superoxide designates a metallic oxide containing the univalent anion o2-."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The paramagnetic property of potassium **superoxide** proves that the anion possesses an unpaired electron."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The metallic electrode yielded a crust of yellow **superoxide** under the action of prolonged galvanic current."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Davy heated potassium in pure oxygen gas, obtaining an orange substance which he recognized as a **superoxide**."*

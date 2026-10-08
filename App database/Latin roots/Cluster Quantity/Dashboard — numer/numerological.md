@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — numer]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # numerological
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to numerology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to numerology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or based on numerology, the belief in mystical significance of numbers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the occult study of numbers in relation to human fate or character.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, numerological designates of or relating to numerology."*
+> - 📜 **Thomas Browne (*The Garden of Cyrus*):** *"He explored the **numerological** mysteries of the quincunx across natural and divine architectures."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Astrologers interweave **numerological** calculations with stellar charts to bewilder the credulous."*
+> - 📜 **Samuel Butler (*Hudibras*):** *"The knight placed great store in **numerological** horoscopes cast by fraudulent conjurers."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — larg]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # largemouth
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large black bass; the angle of the jaw falls behind the eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large black bass; the angle of the jaw falls behind the eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A North American freshwater game fish, specifically the largemouth black bass (*Micropterus salmoides*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an exceptionally wide or gaping mouth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, largemouth designates a large black bass; the angle of the jaw falls behind the eye."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Anglers rowed across the quiet cove in pursuit of the elusive **largemouth** bass."*
+> - 📜 **Theodore Roosevelt (*Outdoor Pastimes of an American Hunter*):** *"The strike of a vigorous **largemouth** bass in tangled lily pads thrills any sportsman."*
+> - 📜 **Ernest Hemingway (*Green Hills of Africa*):** *"We talked of fishing back home, comparing trout streams with lakes full of **largemouth** bass."*

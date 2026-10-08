@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — larg]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # allargando
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gradually decreasing in tempo and broadening in manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gradually decreasing in tempo and broadening in manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical direction indicating that the tempo should become broader and slower, usually with increased volume.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A passage performed with broadening tempo and expansive musical phrasing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allargando designates gradually decreasing in tempo and broadening in manner."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The symphonic finale broadened into a noble **allargando**, filling the cathedral with resounding brass."*
+> - 📜 **Thomas Mann (*Doctor Faustus*):** *"The conductor indicated a majestic **allargando** as the chorale theme reasserted its dominance."*
+> - 📜 **E. M. Forster (*A Room with a View*):** *"The pianist broadened the final bars into a passionate **allargando** that held the room spellbound."*

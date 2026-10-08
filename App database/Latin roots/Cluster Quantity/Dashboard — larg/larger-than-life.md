@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — larg]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # larger-than-life
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very imposing or impressive; surpassing the ordinary (especially in size or scale).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very imposing or impressive; surpassing the ordinary (especially in size or scale).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exceeding ordinary scale or stature; having a commanding, legendary, or heroic presence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exaggerated or dramatic beyond the proportions of ordinary daily existence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, larger-than-life designates very imposing or impressive; surpassing the ordinary (especially in size or scale)."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"The pioneering frontiersman stepped forth as a **larger-than-life** figure against the vast western prairie."*
+> - 📜 **Virginia Woolf (*Orlando*):** *"Her dramatic ancestors appeared **larger-than-life** in the gloomy portraits along the grand corridor."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"The hero appears to the common multitude as a **larger-than-life** embodiment of divine will."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — larg]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # larger
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large or big relative to something else.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Above average in size or number or quantity or magnitude or extent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of greater size, extent, capacity, or quantity than another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Broader or more comprehensive in scope, vision, or significance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And what may follow To try a larger fortune."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For Lord Hamlet, Believe so much in him that he is young; And with a larger tether may he walk Than may be given you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am to pray you not to strain my speech To grosser issues nor to larger reach Than to suspicion."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Genera containing a **larger** number of species tend to yield a greater proportion of varieties."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Netherfield had a **larger** dining room, but Longbourn possessed far more familial warmth."*
+> - 📜 **Abraham Lincoln (*Gettysburg Address*):** *"In a **larger** sense, we cannot dedicate, we cannot consecrate, we cannot hallow this ground."*

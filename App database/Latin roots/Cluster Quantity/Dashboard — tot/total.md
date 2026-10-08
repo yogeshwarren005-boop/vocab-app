@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tot]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # total
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The whole amount.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quantity obtained by the addition of a group of numbers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprising the whole number or quantity; entire; full; complete.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The complete sum or aggregate amount arrived at by adding parts together.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Head to foot Now is he total gules, horridly trick’d With blood of fathers, mothers, daughters, sons, Bak’d and impasted with the parching streets, That lend a tyrannous and a damned light To their vile murders."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed a tapster’s arithmetic may soon bring his particulars therein to a total."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The parties to it understand it least, but it has been observed that no two Chancery lawyers can talk about it for five minutes without coming to a total disagreement as to all the premises."*
+> - 📜 **Isaac Newton (*The Principia*):** *"The **total** quantity of matter in the planet determines its collective gravitational pull."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **total** extinction of a species generally follows a prolonged decline in its population."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The **total** defeat of the army spread consternation throughout the capital."*

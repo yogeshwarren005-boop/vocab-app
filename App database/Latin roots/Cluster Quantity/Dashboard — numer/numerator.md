@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — numer]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # numerator
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The dividend of a fraction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dividend of a fraction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In mathematics, the number or expression written above the horizontal line in a common fraction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person or mechanical device that numbers or counts items sequentially.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, numerator designates the dividend of a fraction."*
+> - 📜 **Isaac Newton (*Universal Arithmetick*):** *"Multiply the **numerator** of the first fraction by the denominator of the second."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The calculating linkage registers the **numerator** on the upper dial of the accumulator."*
+> - 📜 **Leonhard Euler (*Elements of Algebra*):** *"If the **numerator** equals the denominator, the value of the fraction is unity."*

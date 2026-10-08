@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tot]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # prototypal
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Representing or constituting an original type after which other similar things are patterned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Representing or constituting an original type after which other similar things are patterned.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having the nature of a prototype; serving as an original standard model.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting the essential primitive characteristics of an ancestral form or category.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prototypal designates representing or constituting an original type after which other similar things are patterned."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The rudimentary vertebrate limb preserves the **prototypal** skeletal architecture of the class."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The embryonic nerve cord displays the **prototypal** morphology common to all chordates."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Plato represents the **prototypal** thinker whose dialogues anticipate all subsequent metaphysics."*

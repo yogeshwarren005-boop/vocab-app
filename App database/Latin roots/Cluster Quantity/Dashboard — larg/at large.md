@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — larg]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # at large
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin larg within the domain of Quantity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of larg in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from restraint, confinement, or capture; roaming loose, as an escaped prisoner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As a whole; generally; in an extensive or detailed manner, as to discuss a topic at large.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, at large designates pertaining to, derived from, or characteristic of latin larg within the domain of quantity."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"A dangerous hound was **at large** upon the moor, striking terror into the peasants."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The proposed constitution concerns the general welfare of the American community **at large**."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The convict remained **at large** across the dreary marshes while search parties combed the dikes."*

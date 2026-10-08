@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — larg]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # large-cap
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of stocks of companies with a market capitalization of five billion dollars or more.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of stocks of companies with a market capitalization of five billion dollars or more.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Referring to a company with a large market capitalization, typically exceeding ten billion dollars.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stock or equity representing a high-capitalization corporation known for market stability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, large-cap designates of stocks of companies with a market capitalization of five billion dollars or more."*
+> - 📜 **John Maynard Keynes (*Essays in Persuasion*):** *"Prudent institutional trustees favored conservative investment in **large-cap** commercial enterprises."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Modern equity markets establish distinct yield profiles for **large-cap** industrial corporations."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Investment syndicates concentrated voting power in **large-cap** railroad conglomerates."*

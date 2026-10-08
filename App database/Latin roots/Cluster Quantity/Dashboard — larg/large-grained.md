@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — larg]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # large-grained
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having a fine texture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having a fine texture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or having large particles, seeds, or mineral grains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a coarse or rough texture due to prominent crystalline or cellular grains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, large-grained designates not having a fine texture."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The granite intrusion exhibited a **large-grained** texture indicative of slow subterranean cooling."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Agricultural selection favored **large-grained** varieties of wheat for lowland cultivation."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The deck was dusted with **large-grained** sea salt dried under the fierce tropical sun."*

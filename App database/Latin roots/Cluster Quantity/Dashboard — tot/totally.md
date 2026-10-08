@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tot]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # totally
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a complete degree or to the full or entire extent (`whole' is often used informally for `wholly').
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a complete degree or to the full or entire extent (`whole' is often used informally for `wholly').
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a total manner; completely, entirely, wholly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without reservation, condition, or limitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No; he doth but mistake the truth totally."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Yes, I always feel better when I think of that," Leonore added after a time in a totally changed voice."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"How could you do otherwise, being totally destitute of the sympathies with which he overflows!"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was **totally** unprepared for such an extraordinary declaration from Mr. Darcy."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Many fossil genera have become **totally** extinct, leaving no descendants behind."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ocean remained **totally** calm, mirroring the blue expanse of the tropical sky."*

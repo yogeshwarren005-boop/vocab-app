@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tot]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # totalism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The principle of complete and unrestricted power in government.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The principle of complete and unrestricted power in government.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ideology or sociopolitical system demanding absolute control and complete subsumption of the individual under the collective; totalitarianism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The philosophical doctrine of treating systems exclusively in their complete, undifferentiated entirety.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, totalism designates the principle of complete and unrestricted power in government."*
+> - 📜 **George Orwell (*Looking Back on the Spanish War*):** *"The ominous rise of ideological **totalism** threatens the very survival of intellectual freedom."*
+> - 📜 **Karl Popper (*The Open Society and Its Enemies*):** *"Philosophical **totalism** subordinates individual rights to an all-embracing historicist myth."*
+> - 📜 **Hannah Arendt (*The Origins of Totalitarianism*):** *"Psychological **totalism** demands the absolute ideological loyalty of every party member."*

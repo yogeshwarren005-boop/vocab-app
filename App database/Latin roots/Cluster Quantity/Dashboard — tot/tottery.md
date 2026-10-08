@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tot]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # tottery
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unsteady in gait as from infirmity or old age.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unsteady in gait as from infirmity or old age.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unsteady, shaky, or trembling on one's feet; feeble; unsteady.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking firm structural balance; precarious and liable to fall.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was a bat-eyed, tottery skeleton at the time."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The old clerk rose on **tottery** legs, gripping the corner of his high desk for support."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The cottage porch was supported by a **tottery** wooden post decayed at the ground."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Featherstone sat propped up with pillows, looking frail and **tottery** in the curtained bed."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tot]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # totemic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to totemism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to totemism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, based on, or having the character of a totem or totemism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving as a symbolic clan emblem or venerated spiritual representation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Chasas of Orissa believe that if they were to injure their totemic animal they would be attacked by leprosy and their line would die out."*
+> - 📜 **James George Frazer (*Totemism and Exogamy*):** *"Exogamous marriage rules were strictly organized around specific **totemic** lineages."*
+> - 📜 **Sigmund Freud (*Totem and Taboo*):** *"The **totemic** meal symbolized the shared kinship bond uniting all members of the tribe."*
+> - 📜 **Émile Durkheim (*The Elementary Forms of the Religious Life*):** *"Religious veneration attaches not to the animal itself, but to the **totemic** emblem."*

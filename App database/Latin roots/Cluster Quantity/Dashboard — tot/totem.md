@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tot]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # totem
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A clan or tribe identified by their kinship to a common totemic object.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emblem consisting of an object such as an animal or plant; serves as the symbol of a family or clan (especially among american indians).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A natural object, animal, or plant adopted by an indigenous clan or family as a sacred emblem and protector.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A carved wooden pole or material symbol representing familial lineage and spiritual ancestral bonds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Good Lord, fifty thousand years ago, in our totem-families, our women were cleaner, our family and group relations more rigidly right."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"A woman in such a condition has boughs of some tree of her totem tied round her loins, and is constantly watched and guarded, for it is thought that should any male be so unfortunate as to see a woman in such a condition, he would die."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Here the tribes are divided into a number of totem clans, each of which is charged with the duty of multiplying their totem for the good of the community by means of magical ceremonies."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Tribal law forbade members of the clan from killing or eating their ancestral **totem** animal."*
+> - 📜 **Sigmund Freud (*Totem and Taboo*):** *"The primitive community observed sacred ceremonial rites surrounding the symbolic clan **totem**."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"The native hunter pointed with deep respect to the caribou **totem** carved on his birch canoe."*

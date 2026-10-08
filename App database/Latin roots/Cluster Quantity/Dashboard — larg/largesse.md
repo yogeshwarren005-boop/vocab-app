@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — larg]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # largesse
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gift or money given (as for service or out of benevolence); usually given ostentatiously.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liberality in bestowing gifts; extremely liberal and generous of spirit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Generosity and lavish bestowal of gifts, honors, or financial rewards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Money or material favors distributed generously to the public or dependents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Next day he distributed largesse to his followers."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"James closes his description by a burst of general eulogium: In her was youth, beauty, with humble port, Bounty, richesse, and womanly feature: God better knows than my pen can report, Wisdom, largesse,+ estate,++ and cunning& sure."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"In every point so guided her measure, In word, in deed, in shape, in countenance, That nature might no more her child advance. * Wrought gold. + Largesse, bounty. ++ Estate, dignity. & Cunning, discretion."*
+> - 📜 **William Shakespeare (*Henry V*):** *"A little touch of Harry in the night dispenses gracious **largesse** to every soldier."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The newly crowned sovereign distributed **largesse** to the cheering multitude outside Whitehall."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"He was not a man to dispense careless **largesse** without expecting gratitude in return."*

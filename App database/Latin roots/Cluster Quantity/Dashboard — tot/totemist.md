@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tot]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # totemist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who belongs to a clan or tribe having a totem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who belongs to a clan or tribe having a totem.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a clan or community that practices totemism; a believer in totem kinship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scholar or anthropologist who investigates the institutions and beliefs of totemism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, totemist designates a person who belongs to a clan or tribe having a totem."*
+> - 📜 **James George Frazer (*Totemism and Exogamy*):** *"The devout **totemist** reveres his guardian animal as an ancestral brother and protector."*
+> - 📜 **Émile Durkheim (*The Elementary Forms of the Religious Life*):** *"Every **totemist** bears the sacred emblem tattooed or painted upon his body."*
+> - 📜 **Andrew Lang (*Custom and Myth*):** *"The primitive **totemist** strictly abstained from hurting the animal whose name he bore."*

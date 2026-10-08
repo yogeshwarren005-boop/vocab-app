@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tot]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # totara
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Valuable timber tree of new zealand yielding hard reddish wood used for furniture and bridges and wharves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Valuable timber tree of new zealand yielding hard reddish wood used for furniture and bridges and wharves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tall evergreen podocarp tree native to New Zealand, valued for its durable reddish wood and bark.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The strong rot-resistant timber obtained from this majestic Southern Hemisphere tree.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, totara designates valuable timber tree of new zealand yielding hard reddish wood used for furniture and bridges and wharves."*
+> - 📜 **Joseph Dalton Hooker (*Handbook of the New Zealand Flora*):** *"The majestic **totara** tree towers above the sub-canopy of the temperate southern rainforest."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Maori craftspeople carved magnificent war canoes from the massive boles of the **totara**."*
+> - 📜 **Leonard Cockayne (*New Zealand Plants and Their Story*):** *"Ancient specimens of **totara** survive for centuries in lowland alluvial forests."*

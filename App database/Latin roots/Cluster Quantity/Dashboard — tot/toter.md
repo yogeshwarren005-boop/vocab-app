@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tot]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # toter
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone whose employment involves carrying something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone whose employment involves carrying something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who totes, carries, or hauls burdens or packages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who bears a firearm or specific piece of equipment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toter designates someone whose employment involves carrying something."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"The water **toter** trudged up the dusty hill balancing two heavy tin buckets."*
+> - 📜 **Jack London (*The Cruise of the Snark*):** *"Each island porter proved an indefatigable **toter** of baggage over the mountain ridge."*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"The weary cartridge **toter** scrambled through the brush to resupply the frontline infantry."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — numer]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # numerous
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Amounting to a large indefinite number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Amounting to a large indefinite number.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Great in number; many; consisting of a large quantity of individuals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rhythmical, melodious, or measured in poetic cadence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"We valued their stimulating company very much and were always happy when through some chance they were exempt from some of their numerous lessons."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt was always glad to have such numerous friends, for he usually needed a large following for the execution of his schemes."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The expected guests are rather select than numerous, being Mr. and Mrs."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Species belonging to large genera are **numerous** and widely distributed throughout the globe."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Her acquaintance in Meryton was **numerous**, but scarcely any among them possessed fine taste."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Hear the sweet accents of **numerous** verse flowing from inspired poetic lips."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — larg]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # largeness
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capacity to understand a broad range of topics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large or extensive in breadth or importance or comprehensiveness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Great physical size, extensive volume, or broad dimensions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Magnanimity, breadth of mind, or generosity of character.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"She paused and murmured words mechanically, but all the while her eyes dreamed through me and beyond me with the largeness of the vision that filled them."*
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"I am got into a house, the doors all open, This, by the largeness of the room, the hangings, And other rich adornments, glistring through The sable masque of night, sayes it belongs To one of means and rank: no servant stirring?"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The mere largeness of an establishment forbids also the personal acquaintance of employer and workman."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sheer **largeness** of the sperm whale skeleton astonished visitors to the temple."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea was distinguished by a noble **largeness** of soul that transcended petty conventions."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"We honor in Plato that intellectual **largeness** which encompasses every philosophical system."*

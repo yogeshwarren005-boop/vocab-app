@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — numer]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # numerologist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A believer in numerology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A believer in numerology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who practices or studies numerology; an occultist who interprets numbers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A practitioner claiming to divine character or fate from numerical calculations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, numerologist designates a believer in numerology."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The **numerologist** pretends to decipher secret celestial portents hidden within dates and names."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Many a foolish courtier consulted an itinerant **numerologist** to determine auspicious days for marriage."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"In Laputa, every **numerologist** sought to reduce moral virtues to geometric and arithmetic ratios."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — larg]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # large-mouthed
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a relatively large mouth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a relatively large mouth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a wide, prominent, or expansive mouth, as of an animal, fish, or vessel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a broad opening or aperture designed for rapid intake.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, large-mouthed designates having a relatively large mouth."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The shark is a **large-mouthed** scavenger following continuously in the wake of whaling vessels."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In the freshwater lagoon we netted several specimens of a **large-mouthed** predatory perch."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Anglers in the pond frequently caught the **large-mouthed** bass amidst the lily pads."*

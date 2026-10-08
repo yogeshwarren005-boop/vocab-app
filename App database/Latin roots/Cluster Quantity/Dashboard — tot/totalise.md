@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tot]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # totalise
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make into a total.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make into a total.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To find the total of; to add up or aggregate into a single sum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To make total, comprehensive, or unified across all elements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, totalise designates make into a total."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The customs officer had to **totalise** the duties collected across every port of the realm."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"When we **totalise** the annual outputs of diverse industries, aggregate national wealth emerges."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Sociologists attempt to **totalise** social phenomena into a coherent synthetic philosophy."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tot]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # prototype
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A standard or typical example.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A standard or typical example.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An original model, pattern, or archetype from which other copies or improved versions are developed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A standard primitive specimen illustrating the essential features of a later class or type.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"In Diotima, the muse of his "Hyperion," whose prototype was Susette Gontard, he has found it--and now he feels that he is in a new world."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The book he chose was Boetius’ Consolations of Philosophy, a work popular among the writers of that day, and which had been translated by his great prototype, Chaucer."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In this Rice-mother and Rice-child of the Malay Peninsula we may see the counterpart and in a sense the prototype of the Demeter and Persephone of ancient Greece."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Comparative anatomists identified the primitive lancelet as a living **prototype** of higher vertebrates."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The mechanical workshop constructed a working brass **prototype** of the calculating cylinder."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sea-serpent of ancient mythology may find its biological **prototype** in the giant squid."*

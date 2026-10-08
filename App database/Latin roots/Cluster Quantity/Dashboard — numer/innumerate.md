@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — numer]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # innumerate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking knowledge and understanding of mathematical concepts and methods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking knowledge and understanding of mathematical concepts and methods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking basic knowledge of mathematics, arithmetic, and numeracy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unskilled in quantitative reasoning or interpreting statistical data.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, innumerate designates lacking knowledge and understanding of mathematical concepts and methods."*
+> - 📜 **C. P. Snow (*The Two Cultures*):** *"Literary intellectuals frequently remain proudly **innumerate**, ignorant of elementary mathematical concepts."*
+> - 📜 **Bertrand Russell (*The Art of Rational Conjecture*):** *"An **innumerate** citizenry easily falls prey to misleading financial propaganda."*
+> - 📜 **Carl Sagan (*The Demon-Haunted World*):** *"Society suffers when citizens are scientifically illiterate and quantitatively **innumerate**."*

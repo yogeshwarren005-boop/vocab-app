@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — larg]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # enlargement
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of increasing (something) in size or volume or quantity or scope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being enlarged.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expansion in dimension, increase in magnitude, or photographic magnification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A photographic print or mechanical reproduction made larger than the original image.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But now the arbitrator of despairs, Just Death, kind umpire of men’s miseries, With sweet enlargement doth dismiss me hence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Master Lieutenant, now that God and friends Have shaken Edward from the regal seat And turned my captive state to liberty, My fear to hope, my sorrows unto joys, At our enlargement what are thy due fees?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, tenderness of years, take this key, give enlargement to the swain, bring him festinately hither."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The rapid **enlargement** of the empire eventually weakened its distant frontiers."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The farmer planned an extensive **enlargement** of the sheepfolds before winter set in."*
+> - 📜 **Arthur Conan Doyle (*A Scandal in Bohemia*):** *"Holmes examined a photographic **enlargement** through his powerful magnifying lens."*

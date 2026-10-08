@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tot]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # totterer
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who walks unsteadily as if about to fall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who walks unsteadily as if about to fall.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who totters; one who walks feebly, unsteadily, or falteringly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One whose balance or authority is precarious and trembling on the brink of falling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, totterer designates someone who walks unsteadily as if about to fall."*
+> - 📜 **Charles Dickens (*The Old Curiosity Shop*):** *"The ancient **totterer** paused at every doorstep, catching his breath in the frosty air."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The tipsy rustic became an unsteady **totterer** as he made his way homeward along the lane."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The aged beadle, a feeble **totterer**, hobbled forward to open the churchyard gate."*

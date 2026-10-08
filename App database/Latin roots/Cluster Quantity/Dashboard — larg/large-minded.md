@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — larg]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # large-minded
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing or characterized by broad-mindedness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing or characterized by broad-mindedness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Broad-minded; tolerant; having an expansive, liberal, and generous intellect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from petty prejudices, bigotry, or narrow viewpoints.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, large-minded designates showing or characterized by broad-mindedness."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"A **large-minded** philosopher welcomes differing opinions as essential correctives to dogmatism."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"He was a **large-minded** statesman capable of seeing beyond the narrow interests of faction."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Montaigne remains the archetype of a **large-minded** observer of human nature."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tot]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # totter
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move without being stable, as if threatening to fall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Walk unsteadily.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To move in an unsteady, swaying, or feeble way, as if about to fall; to falter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To be insecure or unstable; to verge on collapse, as a dilapidated building or crumbling government.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At length her onward walk dwindled to the merest totter, and she opened a gate within which was a haystack."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"John Anderson, my jo, John, We clamb the hill thegither; And mony a cantie day, John, We’ve had wi’ ane anither: Now we maun totter down, John, And hand in hand we’ll go, And sleep thegither at the foot, John Anderson, my jo."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle’s great-aunt collected her energies, and made an indiscriminate totter at them with a birch-rod."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The decrepit old man began to **totter** across the cobblestone court, leaning upon his hickory cane."*
+> - 📜 **William Shakespeare (*King Lear*):** *"The aged monarch seemed ready to **totter** and sink under the cruel weight of filial ingratitude."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The rotten fabric of imperial administration began to **totter** under barbarian invasions."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — larg]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # overlarge
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively large.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessively large.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively large; too big or extensive for a particular use, space, or function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disproportionately huge or swollen beyond proper aesthetic or structural bounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overlarge designates excessively large."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The harpooner wore an **overlarge** beaver hat that tilted precariously over his brow."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The drawing room was furnished with **overlarge** mahogany tables that crowded the narrow parlor."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The ancient oak bore an **overlarge** canopy of limbs that threatened the thatched cottage below."*

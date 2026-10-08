@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — numer]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # numerical
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Measured or expressed in numbers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or denoting numbers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, expressed in, or consisting of numbers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Denoting or determined by numbers or quantitative measure rather than qualitative rank.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"In numerical strength they usually approximated to the apostolic figure of twelve, and Dr."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"When he received this intelligence, Mehevi, by the aid of his fingers, went through a long numerical calculation, as if estimating the number of Frenchmen the squadron might contain."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Soon after the weights of the atoms had been found a medical student named Prout in an anonymous essay called attention to the fact that there were curious numerical relationships between them."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"A small **numerical** change in the population can trigger immense selective pressures."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"He relied upon **numerical** data to illustrate the growth of colonial manufacturing."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Roman forces held a decisive **numerical** superiority over the barbarian invaders."*

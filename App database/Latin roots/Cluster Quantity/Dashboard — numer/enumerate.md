@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — numer]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # enumerate
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Specify individually.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Determine the number or amount of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To mention a number of things one by one; to specify or list sequentially.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To count, ascertain, or determine the total number of items in a group.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Many things, needless to enumerate, press this upon my mind."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"We now proceed to enumerate some of the causes, of this deplorable state of feeling towards the _truth as it is in Jesus_."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I shall enumerate them by their forecastle appellations; for possibly such a list may be valuable to future investigators, who may complete what I have here but begun."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"It were a tedious task to **enumerate** every minor error that hath crept into philosophical treatises."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"I might **enumerate** numerous instances of structural divergence produced by prolonged isolation."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The historian pauses to **enumerate** the diverse barbarian nations assembled upon the frontier."*

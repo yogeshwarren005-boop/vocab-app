@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — larg]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # large-headed
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a large head.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a large head.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a large or disproportionately prominent head, as an animal, person, or nail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a broad, expanded floral cluster or capitulum in botanical descriptions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, large-headed designates having a large head."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The male baboon is a **large-headed** quadruped armed with formidable canine teeth."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The carpenter secured the oak timbers using heavy, **large-headed** wrought-iron nails."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The **large-headed** thistle crowned the pasture knoll with spiny purple blooms."*

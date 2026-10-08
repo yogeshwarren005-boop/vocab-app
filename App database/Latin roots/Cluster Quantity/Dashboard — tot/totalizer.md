@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tot]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # totalizer
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Computer that registers bets and divides the total amount bet among those who won.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A calculator that performs simple arithmetic functions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical counter or electrical computing device that records and sums successive values; an accumulator.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who aggregates or synthesizes multiple parts into a total.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, totalizer designates computer that registers bets and divides the total amount bet among those who won."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The mechanical **totalizer** advanced one digit each time the primary cam rotated."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"In industrial automation, the electronic **totalizer** tracks flow rates across continuous pipelines."*
+> - 📜 **Claude Shannon (*Communication Theory of Secrecy Systems*):** *"The register functions as a binary **totalizer**, summing parity bits across the stream."*

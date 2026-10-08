@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tot]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # in toto
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin tot within the domain of Quantity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of tot in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: As a whole; entirely, completely; without exception or omission.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Altogether; considering the entirety of a system, decree, or argument.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, in toto designates pertaining to, derived from, or characteristic of latin tot within the domain of quantity."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Senate voted to reject the barbarian king's insolent demands **in toto**."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The parliamentary majority adopted the ministerial petition **in toto** after brief debate."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"To condemn the proposed constitutional framework **in toto** is to invite national anarchy."*

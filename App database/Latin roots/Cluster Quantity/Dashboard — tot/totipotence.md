@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tot]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # totipotence
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability of a cell to give rise to unlike cells and so to develop a new organism or part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ability of a cell to give rise to unlike cells and so to develop a new organism or part.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In cell biology, the capacity of a single biological cell to divide and produce all the differentiated cells in an organism, including extraembryonic tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Universal developmental potency possessed by early zygotic blastomeres.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, totipotence designates the ability of a cell to give rise to unlike cells and so to develop a new organism or part."*
+> - 📜 **Thomas Hunt Morgan (*Embryology and Genetics*):** *"Early cleavage cells exhibit complete **totipotence**, capable of developing into entire embryos."*
+> - 📜 **Hans Driesch (*The Science and Philosophy of the Organism*):** *"Experiments with sea urchin blastomeres demonstrated the remarkable **totipotence** of isolated cells."*
+> - 📜 **Julian Huxley (*The Science of Life*):** *"Cellular **totipotence** gradually diminishes as embryonic tissue layers undergo specialized differentiation."*

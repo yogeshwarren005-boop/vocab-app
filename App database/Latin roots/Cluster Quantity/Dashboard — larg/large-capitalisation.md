@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — larg]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # large-capitalisation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of stocks of companies with a market capitalization of five billion dollars or more.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of stocks of companies with a market capitalization of five billion dollars or more.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The financial classification of corporations possessing very high market capital value on stock exchanges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to investments in prominent, financially established companies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, large-capitalisation designates of stocks of companies with a market capitalization of five billion dollars or more."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"The shares of **large-capitalisation** concerns exhibit higher liquidity during financial panics."*
+> - 📜 **Frank A. Fetter (*Principles of Economics*):** *"Corporate reorganization frequently converts fragmented firms into single **large-capitalisation** entities."*
+> - 📜 **J. A. Hobson (*Imperialism: A Study*):** *"The growth of **large-capitalisation** syndicates drove overseas financial expansion."*

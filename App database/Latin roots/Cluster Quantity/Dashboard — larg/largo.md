@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — larg]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # largo
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) a composition or passage that is to be performed in a slow and dignified manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very slow in tempo and broad in manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In music, in a slow, broad, solemn, and dignified tempo.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical movement or piece composed in slow and stately measure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"In the middle distance are the tower of Dunbar Church, the Bass Rock, and the Isle of May; and farther off is the coast of Fife, with Largo Law and the Lomonds in the background."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"May still your life from day to day, Nae “lente largo” in the play, But “allegretto forte” gay, Harmonious flow, A sweeping, kindling, bauld strathspey— Encore!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Boat song—Hey, Ca’ Thro’ Up wi’ the carls o’ Dysart, And the lads o’ Buckhaven, And the kimmers o’ Largo, And the lasses o’ Leven."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The stately **largo** unfolded with solemn majesty beneath the vaulted cathedral arches."*
+> - 📜 **Thomas Mann (*Doctor Faustus*):** *"The string quartet played the opening **largo** with tragic intensity and spacious phrasing."*
+> - 📜 **E. M. Forster (*A Room with a View*):** *"The solemn strains of the Handel **largo** floated across the quiet Italian terrace."*

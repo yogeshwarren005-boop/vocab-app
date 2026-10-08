@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tot]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # totemism
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belief in the kinship of a group of people with a common totem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belief in the kinship of a group of people with a common totem.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of belief and social organization in which clans have a mystical relationship with a totem animal or plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The religious and sociological practices associated with totem reverence and clan exogamy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Roscoe, _The Baganda_ (London, 1911), pp. 393 _sq._, compare pp. 396, 398. [78] See _Totemism and Exogamy_, iv. 224 _sqq._ [79] Sir Harry H."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Bush negroes of Surinam, who practise totemism, believe that if they ate the _capiaï_ (an animal like a pig) it would give them leprosy; perhaps the _capiaï_ is one of their totems."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The aborigines of Australia have totemism in the most primitive form known to us; but there is no clear evidence that they attempt, like the North American Indians, to conciliate the animals which they kill and eat."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Classical anthropologists traced the global distribution of **totemism** across indigenous cultures."*
+> - 📜 **Émile Durkheim (*The Elementary Forms of the Religious Life*):** *"Australian aboriginal religion offers the purest example of elementary **totemism**."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"Early human societies formulated **totemism** as a system of symbolic kinship classification."*

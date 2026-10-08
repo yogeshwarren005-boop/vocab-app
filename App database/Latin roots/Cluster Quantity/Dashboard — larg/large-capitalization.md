@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — larg]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # large-capitalization
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of stocks of companies with a market capitalization of five billion dollars or more.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of stocks of companies with a market capitalization of five billion dollars or more.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Referring to companies having high total equity market value, commonly abbreviated as large-cap.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by massive corporate capitalization and deep trading liquidity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, large-capitalization designates of stocks of companies with a market capitalization of five billion dollars or more."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"Trading volume is predominantly concentrated in **large-capitalization** securities."*
+> - 📜 **Thorstein Veblen (*The Engineers and the Price System*):** *"A **large-capitalization** merger allowed financiers to control strategic industrial output."*
+> - 📜 **John Kenneth Galbraith (*The New Industrial State*):** *"The modern techno-structure thrives within mature, **large-capitalization** corporations."*

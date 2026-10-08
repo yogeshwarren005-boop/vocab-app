@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — larg]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # largish
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Somewhat large.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Somewhat large.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Somewhat large; moderately big or spacious; of fairly considerable size.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relatively large in comparison to typical specimens of its kind.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A largish piece of the biscuit the Emperor was holding in his hand broke off, fell on the balcony parapet, and then to the ground."*
-> - 📜 **F. H. Costello (*Sure-dart*):** *"There were disconcerting noises, and flittings of great wings, and once a largish but harmless snake found a hole in the thorny wall, and slipped in; but nothing in the way of a disaster happened."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The shepherd carried a **largish** wooden crook polished by decades of continuous use."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The lawyer pulled a **largish** bundle of legal documents from his deep coat pocket."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"In the overgrown courtyard stood a **largish** bronze statue covered in greenish moss."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tot]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # totalitarianism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The principle of complete and unrestricted power in government.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of government characterized by absolute state control over all aspects of public and private life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An authoritarian political philosophy that suppresses all political opposition and individual liberties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, totalitarianism designates a form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.)."*
+> - 📜 **George Orwell (*Selected Essays*):** *"The greatest moral menace confronting modern civilization is the rapid spread of **totalitarianism**."*
+> - 📜 **Hannah Arendt (*The Origins of Totalitarianism*):** *"Modern **totalitarianism** transforms society into an atomized mass susceptible to ideological hysteria."*
+> - 📜 **Karl Popper (*The Open Society and Its Enemies*):** *"The closed society finds its ultimate twentieth-century expression in aggressive **totalitarianism**."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — larg]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # large
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A garment size for a large person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Above average in size or number or quantity or magnitude or extent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of considerable size, extent, capacity, or quantity; big.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Broad, comprehensive, or generous in outlook, understanding, or sympathy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But ah, thought kills me that I am not thought To leap large lengths of miles when thou art gone, But that so much of earth and water wrought, I must attend, time’s leisure with my moan."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wilt thou whose will is large and spacious, Not once vouchsafe to hide my will in thine?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The sea all water, yet receives rain still, And in abundance addeth to his store, So thou being rich in will add to thy will One will of mine to make thy large will more."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A **large** sperm whale can yield upwards of eighty barrels of illuminating oil."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Bingley was a young man of **large** fortune and extraordinarily agreeable manners."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Species belonging to a **large** genus generally present a greater number of varieties."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — numer]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # innumerous
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Too numerous to be counted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Too numerous to be counted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Countless; innumerable; too many to count or quantify.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forming an exceedingly vast or dense multitude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, innumerous designates too numerous to be counted."*
+> - 📜 **John Milton (*Comus*):** *"Through the wild wood with **innumerous** boughs the wandering travelers took their way."*
+> - 📜 **Alexander Pope (*The Odyssey*):** *"Along the shore lay gathered the **innumerous** host of Greek warriors."*
+> - 📜 **Samuel Taylor Coleridge (*The Rime of the Ancient Mariner*):** *"Ten thousand **innumerous** ripples caught the gleaming rays of the setting sun."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tot]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # totalistic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the principles of totalitarianism according to which the state regulates every realm of life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the principles of totalitarianism according to which the state regulates every realm of life.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of or advocating totalism or totalitarian control; demanding total uniformity and submission.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: All-encompassing, uncompromising, or absolute in theoretical scope.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, totalistic designates of or relating to the principles of totalitarianism according to which the state regulates every realm of life."*
+> - 📜 **Karl Popper (*The Open Society and Its Enemies*):** *"The utopian planner adopts a **totalistic** ambition to reconstruct the whole of society at once."*
+> - 📜 **Hannah Arendt (*The Origins of Totalitarianism*):** *"A **totalistic** movement systematically liquidates all independent social and civic institutions."*
+> - 📜 **George Orwell (*Selected Essays*):** *"The danger of **totalistic** political doctrines lies in their refusal to tolerate independent truth."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — larg]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # large-scale
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unusually large in scope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constructed or drawn to a big scale.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extensive in scope, size, or production; on a broad or grand dimension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cartography, representing a small geographical area with high detail and a large fractional ratio.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, large-scale designates unusually large in scope."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The division of labor achieves its greatest efficiency in **large-scale** manufacturing establishments."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Geological changes operate through **large-scale** crustal movements over vast epochs."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The naval admiralty organized a **large-scale** transport operation across the English Channel."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — numer]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # numerate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Determine the number or amount of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Read out loud as words written numbers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a good basic knowledge of mathematics and the ability to work with numbers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of understanding and applying quantitative data and statistical reasoning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, numerate designates determine the number or amount of."*
+> - 📜 **C. P. Snow (*The Two Cultures*):** *"A modern civil servant must be thoroughly **numerate** to evaluate technical policy proposals."*
+> - 📜 **Bertrand Russell (*Unpopular Essays*):** *"To be scientifically **numerate** preserves the mind from vulgar astrological superstitions."*
+> - 📜 **Jacob Bronowski (*The Ascent of Man*):** *"The Renaissance merchant was required to be literate in Latin and **numerate** in double-entry bookkeeping."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — numer]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # numeration
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Naming numbers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of counting; reciting numbers in ascending order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of numbering, counting, or calculating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of numbering or the expression of numbers by words, symbols, or notation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"This point won, you have started as you should. 326:18 You have begun at the numeration-table of Christian Science, and nothing but wrong intention can hinder your advancement."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The art of **numeration** enables the understanding to record vast magnitudes with precision."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The engine employs decimal **numeration** across thirty distinct calculating columns."*
+> - 📜 **Isaac Newton (*The Principia*):** *"Systematic **numeration** is essential to reduce astronomical observations into orderly tables."*

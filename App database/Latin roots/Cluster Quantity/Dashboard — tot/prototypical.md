@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tot]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # prototypical
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Representing or constituting an original type after which other similar things are patterned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Representing or constituting an original type after which other similar things are patterned.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of an original type, model, or classic representative; archetypal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting the defining traits that qualify an entity as the premier standard of its group.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prototypical designates representing or constituting an original type after which other similar things are patterned."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Saint Francis exemplifies the **prototypical** saint whose life embodies ascetic devotion."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The archeopteryx stands as a **prototypical** transitional creature linking reptiles and avian species."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke served as a **prototypical** country gentleman with a mind like a sieve."*

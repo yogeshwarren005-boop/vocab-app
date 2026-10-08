@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — numer]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # numerology
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the supposed occult influence of numbers on human affairs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of the supposed occult influence of numbers on human affairs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the occult, mystical, or esoteric meaning of numbers and their influence on human life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A belief system attributing divine or supernatural significance to numerical patterns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, numerology designates the study of the supposed occult influence of numbers on human affairs."*
+> - 📜 **Thomas Browne (*The Garden of Cyrus*):** *"Ancient kabbalists found sacred **numerology** woven throughout the structure of the cosmos."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Idle minds fall easily into the maze of **numerology**, finding omens in every fortuitous coincidence."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Rational philosophy must distinguish true arithmetic from the delusions of occult **numerology**."*

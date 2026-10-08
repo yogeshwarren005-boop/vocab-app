@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tot]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # totipotency
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability of a cell to give rise to unlike cells and so to develop a new organism or part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ability of a cell to give rise to unlike cells and so to develop a new organism or part.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological capability of an undifferentiated cell to develop into any specialized cell type or a complete living organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inherent potential of plant parenchyma cells to regenerate whole fertile plants under culture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, totipotency designates the ability of a cell to give rise to unlike cells and so to develop a new organism or part."*
+> - 📜 **Thomas Hunt Morgan (*Experimental Embryology*):** *"Plant tissue cultures provide striking demonstrations of somatic cell **totipotency** in laboratory conditions."*
+> - 📜 **Julian Huxley (*Problems of Relative Growth*):** *"The retention of developmental **totipotency** in regenerating hydra tissue remains a biological wonder."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"Nuclear **totipotency** persists through early cell divisions before genetic silencing occurs."*

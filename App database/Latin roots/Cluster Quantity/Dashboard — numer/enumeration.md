@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — numer]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # enumeration
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A numbered list.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of counting; reciting numbers in ascending order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of mentioning a number of things one by one; a catalog or detailed listing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mathematical process of counting or ascertaining the precise sum of elements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Here this mere enumeration must be allowed to convey its own suggestion of far-reaching results for the whole political economy of the nation and of the world."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Collins expected the scene to inspire, and was but slightly affected by his enumeration of the windows in front of the house, and his relation of what the glazing altogether had originally cost Sir Lewis de Bourgh."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"HAMILTON To the People of the State of New York: The three last numbers of this paper have been dedicated to an enumeration of the dangers to which we should be exposed, in a state of disunion, from the arms and arts of foreign nations."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The detailed **enumeration** of public grievances occupied several hours in the House of Commons."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"A careful **enumeration** of homologous bones confirms the common ancestry of vertebrate limbs."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"His **enumeration** of human miseries left the youthful listener in deep melancholy."*

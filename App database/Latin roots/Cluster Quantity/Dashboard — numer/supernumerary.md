@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — numer]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # supernumerary
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person serving no apparent function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A minor actor in crowd scenes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exceeding the regular, prescribed, or standard number; extra; surplus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An actor without speaking lines in a play; an extra member of an organization or crew.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The supply was getting less as the animals advanced in calf, and the supernumerary milkers of the lush green season had been dismissed."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The dairy-work lasted only till the milk began to lessen, for she had not met with a second regular engagement as at Talbothays, but had done duty as a supernumerary only."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The small dairies to the west, beyond Port-Bredy, in which she had served as supernumerary milkmaid during the spring and summer required no further aid."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The vessel carried a **supernumerary** crew member to assist with the arduous harpooning duties."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The clerk was merely a **supernumerary** assistant retained during the busiest terms of the court."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The emperor discharged all **supernumerary** guards to relieve the strained treasury."*

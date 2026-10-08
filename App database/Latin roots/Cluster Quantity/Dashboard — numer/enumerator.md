@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — numer]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # enumerator
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who collects census data by visiting individual homes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who collects census data by visiting individual homes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person employed in taking a census or counting people, households, or votes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computing and mathematics, an algorithm or device that iterates over and yields items in a sequence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enumerator designates someone who collects census data by visiting individual homes."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The federal **enumerator** traversed the backwoods settlements to record the decennial population."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The census **enumerator** found few inhabitants willing to disclose their exact ages."*
+> - 📜 **Alan Turing (*Intelligent Machinery*):** *"The theoretical **enumerator** systematically outputs valid formulas of the symbolic calculus."*

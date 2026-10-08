@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — larg]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # large-leafed
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having relatively large leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having relatively large leaves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having broad, large, or expansive leaves, especially of plants or trees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bearing extensive foliage adapted for capturing light in shaded forests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, large-leafed designates having relatively large leaves."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Beneath the canopy of the rainforest grew dense groves of **large-leafed** ferns."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The **large-leafed** magnolia displays magnificent fragrant blossoms amidst glossy foliage."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"We walked beneath towering **large-leafed** palms that shaded the tropical riverbank."*

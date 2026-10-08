@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — numer]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # numeric
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or denoting numbers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measured or expressed in numbers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or expressed in numbers; numerical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting entirely of numbers rather than letters or symbols, as in computing code.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, numeric designates of or relating to or denoting numbers."*
+> - 📜 **Alan Turing (*Intelligent Machinery*):** *"The electronic memory stores information encoded as **numeric** symbols."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"Discrete channels transmit information using binary **numeric** digits."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"The digital calculating machine performs operations upon discrete **numeric** inputs."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tot]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # totaled
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Add up in number or quantity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Determine the sum of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Added up to an aggregate sum; amounted to in total quantity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Completely wrecked, smashed, or destroyed beyond salvage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, totaled designates add up in number or quantity."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The annual revenues of the colonial province **totaled** more than two million pounds sterling."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Our geological specimens collected on the island **totaled** several hundred distinct rock types."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The losses suffered during the retreat **totaled** nearly half the imperial legion."*

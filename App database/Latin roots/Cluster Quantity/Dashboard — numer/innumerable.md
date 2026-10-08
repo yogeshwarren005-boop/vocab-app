@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — numer]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # innumerable
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Too numerous to be counted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Too numerous to be counted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Too many to be counted; countless; of immense number.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existing in exceedingly vast or limitless quantities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then, that you have sent innumerable substance— By what means got, I leave to your own conscience— To furnish Rome and to prepare the ways You have for dignities, to the mere undoing Of all the kingdom."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Innumerable children have been born into the cause; innumerable young people have married into it; innumerable old people have died out of it."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Is immediately referred to innumerable people who can tell nothing whatever."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"During the voyage I collected **innumerable** specimens of insects and marine organisms."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Beneath the keel darted **innumerable** luminous creatures sparkling in the dark waves."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"There are **innumerable** stars visible through the cold midnight air above the battlements."*

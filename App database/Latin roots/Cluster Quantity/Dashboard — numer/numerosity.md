@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — numer]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # numerosity
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large number.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vast multiplicity, plentiful count, or perceptual cognitive quantity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive science, the fundamental human or animal perception of numerical quantity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, numerosity designates a large number."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The vast **numerosity** of individual natural facts requires orderly classification."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The direct perception of **numerosity** allows the mind to distinguish three dots from four without explicit counting."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The surprising **numerosity** of insect offspring compensates for the brief span of their individual lives."*

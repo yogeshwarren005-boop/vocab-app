@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tot]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # subtotal
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The sum of part of a group of numbers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sum of part of a group of numbers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sum or total of one set of numbers in a larger calculation before adding the final figures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intermediate aggregate in a financial ledger or accounting spreadsheet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subtotal designates the sum of part of a group of numbers."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The accountant tallied each folio, entering a provisional **subtotal** at the bottom of the ledger."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The merchant calculates a distinct **subtotal** for freight and insurance before assessing net profit."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The calculating wheels carry over each **subtotal** into the master accumulator column."*

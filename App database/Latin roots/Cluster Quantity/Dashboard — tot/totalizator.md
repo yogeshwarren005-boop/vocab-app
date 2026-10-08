@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tot]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # totalizator
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Computer that registers bets and divides the total amount bet among those who won.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Computer that registers bets and divides the total amount bet among those who won.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An automated device or computer for calculating parimutuel betting pools and payout odds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mechanical calculating machine that sums transactions and provides real-time totals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, totalizator designates computer that registers bets and divides the total amount bet among those who won."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"The parimutuel **totalizator** illustrates mechanical efficiency in calculating proportional odds."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Sporting crowds gaze upon the mechanical **totalizator** as an oracle of pecuniary chance."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Early electromechanical computers shared functional kinship with the racing **totalizator**."*

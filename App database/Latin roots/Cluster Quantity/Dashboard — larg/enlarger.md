@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — larg]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # enlarger
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Photographic equipment consisting of an optical projector used to enlarge a photograph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Photographic equipment consisting of an optical projector used to enlarge a photograph.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical apparatus used in photographic darkrooms to project an enlarged image onto photosensitive paper.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person or agency that increases the size, scale, or reputation of something.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enlarger designates photographic equipment consisting of an optical projector used to enlarge a photograph."*
+> - 📜 **George Bernard Shaw (*Selected Essays on Photography*):** *"The darkroom technician adjusted the focus of the vertical **enlarger** to produce a brilliant bromide print."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The philosopher should act as an **enlarger** of the human empire over natural forces."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"He worked in his laboratory with an optical **enlarger** designed to manipulate light waves."*

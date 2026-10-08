@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tot]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # totipotent
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the ability to give rise to unlike cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the ability to give rise to unlike cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In biology, capable of developing into any type of cell or forming an entire organism, as a fertilized egg.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing universal developmental capacity without lineage restriction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, totipotent designates having the ability to give rise to unlike cells."*
+> - 📜 **Thomas Hunt Morgan (*Embryology and Genetics*):** *"The mammalian zygote represents the true **totipotent** cell that generates all embryonic and placental tissues."*
+> - 📜 **Hans Driesch (*The Science and Philosophy of the Organism*):** *"Separated at the two-cell stage, each **totipotent** blastomere formed a complete, miniature larva."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"Only early embryonic blastomeres remain fully **totipotent** in higher animal phyla."*

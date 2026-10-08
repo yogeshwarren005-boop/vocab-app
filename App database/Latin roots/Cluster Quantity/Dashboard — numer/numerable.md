@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — numer]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # numerable
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: That can be counted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: That can be counted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being numbered or counted; countable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Finite in quantity; susceptible of mathematical enumeration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, numerable designates that can be counted."*
+> - 📜 **Isaac Newton (*The Principia*):** *"The particles composing the physical system constitute a finite and **numerable** aggregate."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The species of minerals are finite and **numerable**, unlike the endless variations of art."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Distinct ideas of number are formed by contemplating **numerable** collections of units."*

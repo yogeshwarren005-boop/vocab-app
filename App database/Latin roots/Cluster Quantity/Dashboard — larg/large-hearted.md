@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — larg]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # large-hearted
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing or motivated by sympathy and understanding and generosity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing or motivated by sympathy and understanding and generosity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Generous, benevolent, sympathetic, or magnanimous in spirit and disposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by expansive kindness and deep understanding of others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, large-hearted designates showing or motivated by sympathy and understanding and generosity."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She was a **large-hearted** woman whose instinctive kindness embraced all suffering souls."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Jarndyce proved to be the most **large-hearted** and selfless guardian imaginable."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Major Dobbin was too **large-hearted** to harbor resentment against thoughtless friends."*

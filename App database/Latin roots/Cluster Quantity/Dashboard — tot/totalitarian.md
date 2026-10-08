@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tot]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # totalitarian
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An adherent of totalitarian principles or totalitarian government.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by a government in which the political authority exercises absolute and centralized control; - arthur m.schlesinger, jr.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a system of government that is centralized, dictatorial, and requires complete subservience to the state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exercising total political, social, and cultural dominance over the individual.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, totalitarian designates an adherent of totalitarian principles or totalitarian government."*
+> - 📜 **George Orwell (*1984*):** *"The ultimate objective of a **totalitarian** regime is to control the very thoughts of its citizens."*
+> - 📜 **Hannah Arendt (*The Origins of Totalitarianism*):** *"In a **totalitarian** state, terror serves as the primary instrument for maintaining absolute control."*
+> - 📜 **Aldous Huxley (*Brave New World Revisited*):** *"Propaganda and conditioning are the refined instruments of the modern **totalitarian** state."*

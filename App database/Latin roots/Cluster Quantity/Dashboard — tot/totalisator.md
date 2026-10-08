@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tot]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # totalisator
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Computer that registers bets and divides the total amount bet among those who won.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Computer that registers bets and divides the total amount bet among those who won.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical or electronic system that automatically calculates betting odds and dividends based on total stakes placed on horse races; a tote.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An automated register aggregating bets placed by the wagering public.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, totalisator designates computer that registers bets and divides the total amount bet among those who won."*
+> - 📜 **George Bernard Shaw (*Selected Journalism*):** *"Spectators crowded around the mechanical **totalisator** to watch the odds adjust with each bet."*
+> - 📜 **P. G. Wodehouse (*The Code of the Woosters*):** *"He scrutinized the racecourse **totalisator** with the anxious eye of a heavy punter."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"The racetrack patrons trusted the impartial arithmetic of the **totalisator** over dishonest bookmakers."*

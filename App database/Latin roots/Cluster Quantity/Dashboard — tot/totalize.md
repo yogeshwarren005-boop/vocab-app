@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tot]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # totalize
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make into a total.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make into a total.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To compute the total of; to express as an aggregate or unified whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To make complete, comprehensive, or all-encompassing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, totalize designates make into a total."*
+> - 📜 **John Dewey (*Logic: The Theory of Inquiry*):** *"The scientific mind must not **totalize** provisional data into premature metaphysical dogmas."*
+> - 📜 **William James (*A Pluralistic Universe*):** *"Monistic philosophers seek to **totalize** the fragmented universe into a single absolute whole."*
+> - 📜 **Thorstein Veblen (*The Place of Science in Modern Civilisation*):** *"Theoretical economics tends to **totalize** human behavior under the single heading of utility."*

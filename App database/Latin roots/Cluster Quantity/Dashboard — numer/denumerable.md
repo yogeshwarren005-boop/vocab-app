@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — numer]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # denumerable
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: That can be counted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: That can be counted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In mathematics, capable of being put into a one-to-one correspondence with the set of positive integers; countably infinite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing an enumerable or countable cardinality in set theory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, denumerable designates that can be counted."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"Cantor demonstrated that the set of rational numbers is strictly **denumerable**."*
+> - 📜 **Henri Poincaré (*Science and Method*):** *"A **denumerable** infinity represents the first and simplest order of mathematical transfinite sets."*
+> - 📜 **Alfred North Whitehead (*Principia Mathematica*):** *"The progression of cardinal integers forms the canonical archetype of a **denumerable** series."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — numer]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # numeracy
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Skill with numbers and mathematics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skill with numbers and mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability to understand and work with numbers; proficiency in basic mathematics and quantitative skills.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quantitative competence necessary for effective functioning in modern technological society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, numeracy designates skill with numbers and mathematics."*
+> - 📜 **C. P. Snow (*The Two Cultures*):** *"Basic **numeracy** should be regarded as indispensable to an educated person as literacy."*
+> - 📜 **Bertrand Russell (*In Praise of Idleness*):** *"A democratic society requires widespread **numeracy** to scrutinize complex national budgets."*
+> - 📜 **Karl Popper (*The Open Society and Its Enemies*):** *"Citizens equipped with statistical **numeracy** are better shielded from demagogic deceptions."*

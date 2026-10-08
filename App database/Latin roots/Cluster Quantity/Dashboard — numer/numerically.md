@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — numer]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # numerically
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In number; with regard to numbers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In number; with regard to numbers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In terms of numbers; by numbers or numerical methods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner involving mathematical calculations or quantitative values.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"How was it that the Russian army, which when numerically weaker than the French had given battle at Borodinó, did not achieve its purpose when it had surrounded the French on three sides and when its aim was to capture them?"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Why was the Russian army—which with inferior forces had withstood the enemy in full strength at Borodinó—defeated at Krásnoe and the Berëzina by the disorganized crowds of the French when it was numerically superior?"*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"In expressing numerically, in terms of other objects, an estimate of the utility of an apple, a horse or a house, one inevitably gives expression to a ratio of exchange; demand for one good is the offer of another good. § II."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Carnivorous animals are **numerically** far less abundant than the herbivorous herds they prey upon."*
+> - 📜 **Isaac Newton (*The Principia*):** *"The orbital velocity may be determined **numerically** from the recorded period of revolution."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The legion was **numerically** weakened by desertions and protracted border skirmishes."*

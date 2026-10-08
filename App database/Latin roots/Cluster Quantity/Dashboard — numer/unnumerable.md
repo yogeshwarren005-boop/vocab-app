@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — numer]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unnumerable
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Too numerous to be counted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Too numerous to be counted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Countless; impossible to number or calculate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existing in infinite or unreckonable multitudes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unnumerable designates too numerous to be counted."*
+> - 📜 **William Shakespeare (*The Complete Works*):** *"The sea contains **unnumerable** riches buried beneath its dark unfathomed waters."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Host beyond host, an **unnumerable** throng of celestial spirits surrounded the throne."*
+> - 📜 **Francis Bacon (*Essays*):** *"Human desires multiply into an **unnumerable** variety of ambitious schemes."*

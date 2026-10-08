@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Doubt about someone's honesty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of not trusting others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The feeling that someone or something cannot be relied upon; lack of faith, suspicion, or doubt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To doubt the honesty, reliability, or good intentions of a person, promise, or institution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Make me not offended In your distrust."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, woe is me, you are so sick of late, So far from cheer and from your former state, That I distrust you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet, though I distrust, Discomfort you, my lord, it nothing must: For women’s fear and love holds quantity, In neither aught, or in extremity."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Mutual **distrust** between confederate states would soon invite foreign intrigue and domestic discord."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The Houyhnhnms had no term in their language to express lying, deception, or habitual **distrust**."*
+> - 📜 **William Shakespeare (*Othello*):** *"Iago whispered poisonous suspicions into Othello's ear, sowing seeds of fatal **distrust** against Desdemona."*

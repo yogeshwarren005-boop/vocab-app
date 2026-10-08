@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With distrust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With distrust.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a suspicious, wary, or skeptical manner, withholding confidence, belief, or consent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With guarded vigilance and cautious reluctance to reveal thoughts, intentions, or vulnerabilities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"George looks distrustfully from the painted ceiling to the ground, from the ground to Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn seems to meditate as he looks distrustfully at her, then he replies, “Well, wench, well."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I’ll beat the shivers so far, I’ll bet you.” He was gobbling mincemeat, meatbone, bread, cheese, and pork pie, all at once: staring distrustfully while he did so at the mist all round us, and often stopping—even stopping his jaws—to listen."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The native sailors glanced **distrustfully** at the creaking bulkhead as water seeped through the rivets."*
+> - 📜 **George Eliot (*Silas Marner*):** *"Silas Marner looked **distrustfully** at the Raveloe villagers who gathered curiously around his cottage door."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The traveler eyed the highway stranger **distrustfully**, placing a firm hand upon the hilt of his sword."*

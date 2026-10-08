@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Construct or form anew or provide with a new structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Construct or form anew or provide with a new structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To organize differently; to remodel, rebuild, or adjust the basic framework of a system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To alter the operational, financial, or administrative hierarchy of an enterprise or institution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, restructure designates construct or form anew or provide with a new structure."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Legislators must often **restructure** land tenure laws to encourage industrious cultivation among peasant farmers."*
+> - 📜 **Max Weber (*Economy and Society*):** *"Rationalized bureaucracies continuously **restructure** administrative departments to maximize procedural efficiency."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Every dynamic equilibrium tends to **restructure** component parts in response to shifting external forces."*

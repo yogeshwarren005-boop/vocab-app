@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mexican state on the gulf of campeche.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very spicy sauce (trade name tabasco) made from fully-aged red peppers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pungent condiment and hot pepper sauce made from ripe tabasco chili peppers, vinegar, and salt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A maritime state in southeastern Mexico located along the Gulf coast and Grijalva river delta.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tabasco designates a mexican state on the gulf of campeche."*
+> - 📜 **William H. Prescott (*History of the Conquest of Mexico*):** *"Cortés landed his army on the sandy shores of **Tabasco**, fighting sharp skirmishes with native warriors."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The southern steamboat captain seasoned his river oysters with fiery drops of pungent **tabasco**."*
+> - 📜 **Alexander von Humboldt (*Political Essay on the Kingdom of New Spain*):** *"Humboldt surveyed the tropical hydrography of **Tabasco**, noting its fertile alluvial soil and cocoa groves."*

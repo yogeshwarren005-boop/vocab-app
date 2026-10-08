@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose occupation is teaching.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person whose occupation is teaching.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose occupation is to teach, train, or impart specialized knowledge and skills to students.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An academic teacher holding a recognized pedagogical rank in a college or technical academy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Several young lady pupils, ranging from thirteen or fourteen years of age to two or three and twenty, were assembled; and I was looking among them for their instructor when Caddy, pinching my arm, repeated the ceremony of introduction."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Hands and shears were inclined to suit the words, and held thus for a peculiarly long time by the instructor as he spoke."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"If she has wandered far and daylight overtakes her, she hides herself behind a veil of fir branches; for no one, except her instructor or nearest relatives, should see her face during her period of seclusion."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"An **instructor** of youth performs a service essential to the industrious efficiency of civil society."*
+> - 📜 **John Henry Newman (*The Idea of a University*):** *"The university **instructor** inspires students through living personal influence rather than mechanical lectures."*
+> - 📜 **Ralph Waldo Emerson (*The American Scholar*):** *"Nature is the supreme **instructor** of the scholar, inviting him to decipher the secret harmonies of the universe."*

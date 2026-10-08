@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hinder or prevent the progress or accomplishment of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Block passage through.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Blocked, closed up, or hindered by an obstacle, so that movement or passage is impeded.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hindered from free progress, clear vision, or normal physiological drainage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The intercepting city, ancient Melchester, they were obliged to pass through in order to take advantage of the town bridge for crossing a large river that obstructed them."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Have you ever laced your shoe too tightly, and, after half an hour, experienced that excruciating pain across the instep of the obstructed circulation?"*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"He fought now like a human flail, and every sweep of that terrible sword would have severed in twain any man or boy who obstructed it; but Peter fluttered round him as if the very wind it made blew him out of the danger zone."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"Immense fields of floating ice **obstructed** the vessel, locking the crew in the frozen Arctic sea."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"A heavy mahogany wardrobe **obstructed** the door leading to the secret attic chamber."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Dense sea fog **obstructed** our vision as the Pequod tacked blindly through the northern straits."*

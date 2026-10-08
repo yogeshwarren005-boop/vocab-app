@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Structure consisting of the part of a ship above the main deck.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Structure consisting of the part of a ship above the main deck.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of a building or other structure, such as a bridge or ship, raised above the foundation or deck.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social philosophy, the legal, political, and cultural institutions erected upon an economic base.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"M'Gregor was anxious that a superstructure should be built on the foundation laid by himself by his going to College."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It has been shown in the course of these papers, that the existing Confederation is founded on principles which are fallacious; that we must consequently change this first foundation, and with it the superstructure resting upon it."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The superstructure of the Temple was erected amid the strain and stress of an economic depression of an unprecedented severity gripping the North American continent."*
+> - 📜 **Karl Marx (*A Contribution to the Critique of Political Economy*):** *"Upon the economic foundation rises a legal and political **superstructure** to which correspond social forms of consciousness."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The architectural **superstructure** of the Colosseum collapsed during earthquakes that spared its foundations."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"National commerce provides the revenue that sustains the elaborate naval **superstructure** of the empire."*

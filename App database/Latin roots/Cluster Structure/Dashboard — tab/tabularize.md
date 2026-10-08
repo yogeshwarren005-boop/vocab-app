@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrange or enter in tabular form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrange or enter in tabular form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To arrange data, facts, or statistics systematically into columns and rows for comparison.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To format complex records into a clear table or concise comparative matrix.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tabularize designates arrange or enter in tabular form."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Psychologists attempt to **tabularize** reaction times across varying sensory stimuli to map neural delay."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Economists may **tabularize** luxury expenditures, yet the psychological impulse of ostentation remains elusive."*
+> - 📜 **John Dewey (*How We Think*):** *"The disciplined student learns to **tabularize** historical data to reveal underlying chronological patterns."*

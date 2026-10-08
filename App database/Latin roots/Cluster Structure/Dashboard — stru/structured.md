@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give a structure to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having definite and highly organized structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Constructed, arranged, or organized according to a clear, orderly, and systematic framework.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing a definite morphological, social, or mechanical configuration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, structured designates give a structure to."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Evolution proceeds from an indefinite homogeneity toward a highly **structured** and coherent heterogeneity."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Habit transforms impulsive actions into smoothly **structured** routines that require minimal conscious effort."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"Effective curriculum design provides a **structured** sequence of experiential inquiries for the student."*

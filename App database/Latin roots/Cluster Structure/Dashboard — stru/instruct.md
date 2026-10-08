@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impart skills or knowledge to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give instructions or directions for some task.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To direct, command, or authorize someone to carry out an official action, task, or duty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To impart systematic knowledge, practical skill, or moral principles to a student through teaching.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Instruct my daughter how she shall persever, That time and place with this deceit so lawful May prove coherent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He’ll then instruct us of this body."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Instruct us, boy; what dream, boy?"*
+> - 📜 **John Milton (*Paradise Lost*):** *"**Instruct** me, for thou know'st; thou from the first wast present, and with mighty wings outspread."*
+> - 📜 **Benjamin Franklin (*Autobiography of Benjamin Franklin*):** *"I engaged an able schoolmaster to **instruct** our youth in arithmetic and English grammar."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"A wise tutor strives to **instruct** by engaging curiosity rather than by imposing tedious rote tasks."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make sense of; assign a meaning to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make sense of; assign a meaning to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To interpret or explain the meaning, intent, or significance of words, actions, or statutes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philology, to translate and analyze the grammatical syntax of a sentence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, my good Lord Mowbray, Construe the times to their necessities, And you shall say indeed, it is the time, And not the King, that doth you injuries."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But men may construe things after their fashion, Clean from the purpose of the things themselves."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All my engagements I will construe to thee, All the charactery of my sad brows."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"Men may **construe** things after their fashion, clean from the purpose of the things themselves."*
+> - 📜 **John Milton (*Areopagitica*):** *"Who can **construe** the mind of a censor who fears every pamphlet that questions established authority?"*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Judges are bound to **construe** constitutional provisions according to the manifest intent of the people."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not constructive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not constructive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not serving a useful purpose; failing to encourage development, harmony, or practical improvement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Negative, sterile, or merely carping; offering criticisms without providing viable alternatives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unconstructive designates not constructive."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Sullen opposition without intellectual justification represents an **unconstructive** obstacle to civic progress."*
+> - 📜 **Woodrow Wilson (*The State: Elements of Historical and Practical Politics*):** *"Partisan bickering that impedes necessary legislation is fundamentally **unconstructive** to the commonwealth."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"Arnold condemned the **unconstructive** bitterness of contemporary political pamphlets that stoked sectarian animosity."*

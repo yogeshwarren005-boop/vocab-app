@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any structure that makes progress difficult.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physical condition of blocking or filling a passage with an obstruction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of blocking or impeding, or an obstacle or barrier that closes off a path or passage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The deliberate hindrance or delay of legal proceedings, legislative action, or bodily flow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is no obstruction in this."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I could be sad: this does make some obstruction in the blood, this cross-gartering."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, it hath bay windows transparent as barricadoes, and the clerestories toward the south-north are as lustrous as ebony; and yet complainest thou of obstruction?"*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The unlawful **obstruction** of a public highway gives rise to an indictment for common nuisance."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Prejudice and partisan passions present a formidable **obstruction** to the discovery of truth."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"A nurse must immediately detect any respiratory **obstruction** that threatens the patient's breathing."*

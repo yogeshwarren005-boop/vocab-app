@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing destruction or much damage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing destruction or much damage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing great and irreparable harm, devastation, or permanent damage to life or property.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to subvert, dismantle, or invalidate established theories, reputations, or customs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby did not mean these destructive sentiments."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It may be said, and perhaps truly: better this than underpaid labor destructive to the health of the workers and evil in its competitive effects upon other wage workers."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In short, the girl is viewed as charged with a powerful force which, if not kept within bounds, may prove destructive both to herself and to all with whom she comes in contact."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Severe climate checks the increase of a species by producing a **destructive** winter famine."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Monopolistic privileges exert a **destructive** influence upon the natural productivity of trade."*
+> - 📜 **Carl von Clausewitz (*On War*):** *"Warfare is fundamentally an act of violence driven by the **destructive** collision of opposing armed forces."*

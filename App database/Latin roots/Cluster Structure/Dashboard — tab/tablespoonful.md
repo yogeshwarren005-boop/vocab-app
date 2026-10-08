@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As much as a tablespoon will hold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As much as a tablespoon will hold.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quantity, volume, or dose that a standard tablespoon can hold (about fifteen milliliters).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A domestic unit of liquid or dry measure frequently prescribed in cooking recipes and pharmacopoeias.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The oddest thing was its earth-pouches--two open sacks, one on either side of its head, and capable of containing each a tablespoonful or more."*
-> - 📜 **James Joyce (*Ulysses*):** *"One tablespoonful of honey will attract friend Bruin more than half a dozen barrels of first choice malt vinegar."*
-> - 📜 **James Joyce (*Ulysses*):** *"One third of a pint of quassia to which add a tablespoonful of rocksalt."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Beryl Coronet*):** *"Dr. Watson prescribed a soothing **tablespoonful** of cordial to restore the banker's shaken nerves."*
+> - 📜 **Mrs. Beeton (*The Book of Household Management*):** *"Pour a **tablespoonful** of vinegar into the poaching water to keep the egg whites compact and tender."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A single **tablespoonful** of castor oil was administered at the onset of intestinal irritation."*

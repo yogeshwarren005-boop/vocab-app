@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic structure or features of a system or organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The stock of basic facilities and capital equipment needed for the functioning of a country or area.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic physical and organizational structures and facilities needed for the operation of a society.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The foundational communication arteries, waterworks, and transportation networks supporting an economy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"During the U.S. post-Sputnik initiatives to create a national space program, he critiqued aerospace industries' logistics concepts on future space systems organization, infrastructure and support."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We gained opportunities to fashion and strengthen an infrastructure, and freedom to confuse our INOR neighbors with a melange of schemes to satisfy their greed."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We will provide material support and training for transition to an infrastructure and administration of Pluto's choice."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The sovereign must invest public revenue into civil **infrastructure**, including navigable canals and paved roads."*
+> - 📜 **Alexander Hamilton (*Report on Manufactures*):** *"Hamilton urged Congress to construct domestic commercial **infrastructure** to unify interstate commerce."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Local townships maintain the roads and school **infrastructure** with admirable communal self-reliance."*

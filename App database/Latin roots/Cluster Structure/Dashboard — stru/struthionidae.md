@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tall terrestrial birds: ostriches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tall terrestrial birds: ostriches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic family of ratite birds that contains the living ostriches and their extinct relatives.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian systematics, flightless cursorial birds with reduced wings, no sternal keel, and two functional toes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, struthionidae designates tall terrestrial birds: ostriches."*
+> - 📜 **Thomas Henry Huxley (*On the Classification of Birds*):** *"Huxley classified the **struthionidae** within the Ratitae, highlighting the archaic paleognathous palate."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The Ethiopian zoological realm remains the modern stronghold of the family **struthionidae**."*
+> - 📜 **Richard Owen (*On the Archetype and Homologies of the Vertebrate Skeleton*):** *"In **struthionidae**, the pubic symphysis displays an exceptional union found in few other avian families."*

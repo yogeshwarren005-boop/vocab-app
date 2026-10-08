@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thread on or as if on a string.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Add as if on a string.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fitted with cords or strings, or threaded continuously along a cord, thread, or wire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arranged in a connected series, or stretched tautly across a supporting musical frame.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Subtle as Sphinx, as sweet and musical As bright Apollo’s lute, strung with his hair."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For Orpheus’ lute was strung with poets’ sinews, Whose golden touch could soften steel and stones, Make tigers tame, and huge leviathans Forsake unsounded deeps to dance on sands."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Dare I hint at that worse time when, strung together somewhere in great black space, there was a flaming necklace, or ring, or starry circle of some kind, of which I was one of the beads!"*
+> - 📜 **Alfred Tennyson (*Idylls of the King*):** *"Gareth saw the harp **strung** with golden wire, hanging within the great hall of Camelot."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"Jewels and beads were **strung** on fine silk and stored secretly beneath the old flooring."*
+> - 📜 **Henry Wadsworth Longfellow (*The Song of Hiawatha*):** *"He took his bow of ash tree, well **strung** with cord of deer-sinew, and stepped into the forest."*

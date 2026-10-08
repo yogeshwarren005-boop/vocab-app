@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reassemble mentally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Build again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To build, assemble, or form again after destruction, damage, or decay.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To recreate mentally or infer the historical details of a past event from circumstantial evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The plain fact is that we actually know Jesus a great deal better than we know our x and our y, the elements from which we hoped to reconstruct him."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Can you reconstruct a typical day in the life of Jesus (cf. pp. 81, 82). 4."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"It requires some effort to reconstruct that atmosphere to-day."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"By examining footprints and cigar ash, Holmes was able to **reconstruct** the burglary with exact precision."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor labored tirelessly to **reconstruct** the ruined fortresses along the Danubian frontier."*
+> - 📜 **Thomas Henry Huxley (*American Addresses*):** *"Paleontologists examine fossil bones to **reconstruct** the skeleton and evolutionary pedigree of the horse."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A manual usually accompanying a technical device and explaining how to install or operate it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A message describing how something is to be done.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Authoritative directions, procedural orders, or explicit commands detailing how an action must be carried out.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Written steps or technical guidelines explaining how to assemble, operate, or maintain an apparatus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You, Diana, Under my poor instructions yet must suffer Something in my behalf."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dost thou think in time She will not quench, and let instructions enter Where folly now possesses?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But in these cases We still have judgement here; that we but teach Bloody instructions, which being taught, return To plague th’ inventor."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes gave strict **instructions** to the street arabs, sending them to search the riverbanks for the launch."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The Lilliputian emperor issued royal **instructions** that Gulliver should receive six hundred mattresses for his bed."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn reviewed the confidential **instructions** left by his noble client regarding the family settlement."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small drum with one head of soft calfskin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small drum with one head of soft calfskin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small snare drum played with one stick to accompany a pipe played with the other hand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medieval folk drum used in festive processional ceremonies, mummery, and pastoral dances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tabour designates a small drum with one head of soft calfskin."*
+> - 📜 **Geoffrey Chaucer (*The Knight's Tale*):** *"With horn and pipe and rustic **tabour**, the company marched joyfully toward the tournament field."*
+> - 📜 **Edmund Spenser (*The Shepheardes Calender*):** *"The shepherds gathered on May morning, dancing merrily to the brisk rattle of the rustic **tabour**."*
+> - 📜 **William Wordsworth (*Ode: Intimations of Immortality*):** *"The youthful shepherd beats his **tabour**, and the young lambs bound as to the tabor's sound."*

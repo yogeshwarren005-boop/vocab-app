@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an uninformative manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an uninformative manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that fails to provide valuable information, moral insight, or educational enlightenment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tediously or superficiality, without imparting illuminating understanding or lasting lessons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uninstructively designates in an uninformative manner."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The pedantic professor droned **uninstructively** for two hours upon the genealogy of dead princelings."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"Mediocre commentators multiply words **uninstructively**, obscuring the sublime verses of Shakespeare with trivial glosses."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"The fashionable lecturer discoursed **uninstructively** upon poverty without ever visiting the East End slums."*

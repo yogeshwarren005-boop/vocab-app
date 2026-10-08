@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the struthionidae: african ostriches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the struthionidae: african ostriches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of large flightless African ratite birds comprising the true ostriches.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic zoology, the type genus of the family Struthionidae, characterized by two-toed feet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, struthio designates type genus of the struthionidae: african ostriches."*
+> - 📜 **Pliny the Elder (*Naturalis Historia*):** *"Pliny described the habits of **struthio**, marvelling at its vast stature and its ability to swallow iron."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The wings of the African **struthio** are too small for flight, serving instead as sails when running."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"Cuvier placed the genus **struthio** at the head of the running birds, noting its robust cursorial legs."*

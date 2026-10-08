@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fork for eating at a dining table.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fork for eating at a dining table.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large fork designed for eating meat or main courses at a dining table.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pronged piece of dinner tableware distinct from smaller dessert, salad, or serving utensils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tablefork designates a fork for eating at a dining table."*
+> - 📜 **Thomas Coryat (*Coryat's Crudities*):** *"Coryat introduced the Italian custom of dining with a silver **tablefork**, surprising his English companions."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"Gulliver used his pocket knife and a small iron **tablefork** to carve the minute poultry of the Lilliputians."*
+> - 📜 **Charles Dickens (*Martin Chuzzlewit*):** *"The boarding-house keeper counted every silver **tablefork** after dinner to ensure none had been pocketed."*

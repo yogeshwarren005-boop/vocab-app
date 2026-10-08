@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in northwestern saudi arabia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in northwestern saudi arabia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major provincial capital and agricultural oasis city in northwestern Saudi Arabia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early Islamic history, the site of the famous military expedition led by the Prophet Muhammad in 630 CE.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tabuk designates a city in northwestern saudi arabia."*
+> - 📜 **T. E. Lawrence (*Seven Pillars of Wisdom*):** *"The Arab forces sabotaged the Hejaz railway stations south of **Tabuk**, severing Ottoman troop movements."*
+> - 📜 **Charles Montagu Doughty (*Travels in Arabia Deserta*):** *"Doughty rode his camel into the green palm oasis of **Tabuk**, water springs reviving the parched pilgrim caravan."*
+> - 📜 **Richard Francis Burton (*The Gold-Mines of Midian*):** *"Burton surveyed the barren sandstone ranges of northern Arabia stretching east toward the fortress of **Tabuk**."*

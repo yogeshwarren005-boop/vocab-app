@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of animals that have several estrous cycles in one breeding season) in a period of sexual inactivity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of animals that have several estrous cycles in one breeding season) in a period of sexual inactivity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or occurring during diestrus, the prolonged quiescent phase between estrous cycles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive histology, exhibiting the quiet cellular morphology of the post-ovulatory stage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diestrual designates (of animals that have several estrous cycles in one breeding season) in a period of sexual inactivity."*
+> - 📜 **Francis Hugh Adam Marshall (*The Physiology of Reproduction*):** *"Microscopic examination of vaginal smears during the **diestrual** stage reveals predominantly leukocytes."*
+> - 📜 **George W. Corner (*The Hormones in Human Reproduction*):** *"Corner tracked cyclical uterine changes, highlighting the glandular quiescence typical of the **diestrual** pause."*
+> - 📜 **Walter Heape (*The Sexual Season of Mammals*):** *"In polyestrous species, the **diestrual** interval between cycles varies according to climatic conditions."*

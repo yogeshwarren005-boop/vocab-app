@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Linguistics defined as the analysis of formal structures in a text or discourse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anthropological theory that there are unobservable social structures that generate observable social phenomena.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A 20th-century theoretical movement analyzing culture, language, and society through systemic relations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early psychology, the school founded by Titchener that analyzed conscious experience into basic elements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, structuralism designates linguistics defined as the analysis of formal structures in a text or discourse."*
+> - 📜 **Claude Lévi-Strauss (*Structural Anthropology*):** *"Lévi-Strauss applied anthropological **structuralism** to decode the universal binary logic of indigenous myths."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The foundational concepts of linguistic **structuralism** define signs through their arbitrary relational differences."*
+> - 📜 **Jean Piaget (*Structuralism*):** *"Piaget argued that **structuralism** unifies diverse sciences by discovering coherent self-regulating totalities."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner difficult to understand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner difficult to understand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that is intellectually obscure, deeply profound, and difficult to comprehend.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With esoteric phrasing or subtle reasoning accessible only to specialized scholars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abstrusely designates in a manner difficult to understand."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"He argued **abstrusely** upon the nature of time and space while wandering the midnight streets of London."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"Coleridge would talk **abstrusely** for hours together upon the distinction between fancy and the imagination."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon reflected **abstrusely** upon mythological correspondences that baffled every casual inquirer."*

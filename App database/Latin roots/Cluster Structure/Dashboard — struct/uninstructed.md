@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking information or instruction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking information or instruction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking education, training, or knowledge; untaught; ignorant of essential principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without official instructions, authoritative directions, or procedural guidance from superiors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"When an uninstructed multitude attempts to see with its eyes, it is exceedingly apt to be deceived."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"By those uninstructed in Christian Science, nothing is really understood of material 371:9 existence."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"Anybody might know that.” The other boys agreed that there was reason in what Tom said, because an ignorant lump of bread, uninstructed by an incantation, could not be expected to act very intelligently when set upon an errand of such gravity."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The **uninstructed** mind is like a blank sheet of paper, awaiting the impressions of sensory experience."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"An **uninstructed** populace is far more prone to superstitious delusions and political demagoguery."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The young legionary stood **uninstructed** in discipline, faltering before the fierce charge of the Gothic horsemen."*

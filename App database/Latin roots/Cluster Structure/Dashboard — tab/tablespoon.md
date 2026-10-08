@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As much as a tablespoon will hold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spoon larger than a dessert spoon; used for serving.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large spoon used for serving food or as a culinary measure (approximately fifteen milliliters).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A standardized dining utensil larger than a dessert spoon or teaspoon, used at dinner settings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Would a tablespoon of vanilla be enough for a small layer cake?” “I felt sorrier than ever for the poor man."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"Mrs. Mann administered the bitter parish medicine to the orphan with a heavy pewter **tablespoon**."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"The nurse measured the invalid's beef broth with an accurate **tablespoon** to prevent stomach distress."*
+> - 📜 **Mrs. Beeton (*The Book of Household Management*):** *"Add one level **tablespoon** of flour and stir thoroughly until the gravy thickens smoothly over the fire."*

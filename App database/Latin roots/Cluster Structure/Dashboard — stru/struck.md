@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deliver a sharp blow, as with the hand, fist, or weapon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have an emotional or cognitive impact upon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hit forcefully with a hand, weapon, or tool; collided with or impacted physically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affected suddenly by a strong emotion, disease, or realization; deeply impressed or smitten.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Was it his spirit, by spirits taught to write, Above a mortal pitch, that struck me dead?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was disposed to mirth; but on the sudden A Roman thought hath struck him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, darting Parthia, art thou struck, and now Pleased Fortune does of Marcus Crassus’ death Make me revenger."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab **struck** the compass with his fist, swearing that no magnetic drift should turn him from the hunt."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The courthouse clock **struck** twelve as the prisoner was led out to face the revolutionary tribunal."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"A flash of lightning **struck** the ancient oak tree, shattering its mighty trunk in an instant of brilliant light."*

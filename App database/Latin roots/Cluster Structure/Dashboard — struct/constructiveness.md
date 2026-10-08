@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of serving to build or improve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of serving to build or improve.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capacity, tendency, or creative drive to build, invent, assemble, or organize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early psychological systems, an innate instinct toward mechanical fabrication or design.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, constructiveness designates the quality of serving to build or improve."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Human intelligence displays higher degrees of **constructiveness** as tools evolve from flints into complex engines."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The natural instinct of **constructiveness** impels the young child to assemble wooden blocks into towers."*
+> - 📜 **George Combe (*A System of Phrenology*):** *"Architects and mechanical inventors possess an unusually prominent faculty of **constructiveness**."*

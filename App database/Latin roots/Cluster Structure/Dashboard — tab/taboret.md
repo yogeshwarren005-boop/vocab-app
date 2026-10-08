@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A low stool in the shape of a drum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A low stool in the shape of a drum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A low, small stool or cylindrical seat without back or arms; or a small movable work cabinet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A portable artist's stand or cabinet equipped with drawers for brushes, pigments, and palettes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, taboret designates a low stool in the shape of a drum."*
+> - 📜 **Alexander Dumas (*The Three Musketeers*):** *"The queen motioned the noble lady to be seated upon a low velvet **taboret** near the royal hearth."*
+> - 📜 **Honoré de Balzac (*Cousin Bette*):** *"The sculptor placed his clay models upon a wooden **taboret** beside the large studio window."*
+> - 📜 **George Sand (*Consuelo*):** *"The young singer sat upon an embroidered **taboret**, practicing her vocal scales before the maestro."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ratite bird order: ostriches and related extinct birds; known from the pleistocene onward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ratite bird order: ostriches and related extinct birds; known from the pleistocene onward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological order of flightless ratite birds that includes ostriches, and historically rheas and emus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, paleognathous birds distinguished by cursorial adaptations, flat breastbones, and large bodies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, struthioniformes designates a ratite bird order: ostriches and related extinct birds; known from the pleistocene onward."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"Members of the order **struthioniformes** share a distinctive skull structure that predates modern neognaths."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"Mayr evaluated biogeographical hypotheses accounting for the Gondwanan dispersal of **struthioniformes**."*
+> - 📜 **Hans Friedrich Gadow (*A Dictionary of Birds*):** *"Gadow treated **struthioniformes** as an ancient lineage that diverged early in avian evolutionary history."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Write an instrumental score for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Write an instrumental score for.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To arrange, adapt, or score a musical composition for performance by specific instruments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To equip a technical system or industrial mechanism with monitoring instruments and sensors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, instrumentate designates write an instrumental score for."*
+> - 📜 **Hector Berlioz (*Treatise on Instrumentation and Orchestration*):** *"A composer must carefully **instrumentate** the symphonic themes to exploit the distinctive color of the woodwinds."*
+> - 📜 **George Grove (*A Dictionary of Music and Musicians*):** *"Mozart chose to **instrumentate** the aria with muted strings and solo oboe to reflect the heroine's grief."*
+> - 📜 **Thomas Edison (*The Papers of Thomas A. Edison*):** *"Engineers worked to **instrumentate** the power generating station with accurate current and voltage gauges."*

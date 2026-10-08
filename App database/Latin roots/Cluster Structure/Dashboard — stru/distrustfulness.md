@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of not trusting others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of not trusting others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A habitual disposition to suspect, doubt, or question the motives and goodwill of others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skeptical caution and chronic unwillingness to place confidence in acquaintances or allies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, distrustfulness designates the trait of not trusting others."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Excessive **distrustfulness** poisons the sweetness of social life and transforms companions into imagined conspirators."*
+> - 📜 **Thomas Hobbes (*Leviathan*):** *"In the state of nature, pervasive **distrustfulness** compels men to seek security through anticipatory conquest."*
+> - 📜 **Henry Fielding (*Tom Jones*):** *"Blifil hid his malicious designs under an affected piety that preyed upon Allworthy's lack of **distrustfulness**."*

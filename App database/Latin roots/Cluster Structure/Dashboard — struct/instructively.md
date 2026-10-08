@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an informative manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an informative manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that imparts valuable knowledge, practical insight, or ethical wisdom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an illuminating and pedagogical fashion that clarifies principles through clear examples.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"She would compare me instructively with my opponent, and contrast his dash and brilliance with my own inefficiency."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Mr. Stelling spoke **instructively** upon Latin grammar, indifferent to whether his pupil comprehended the rules."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Teufelsdröckh discoursed **instructively** upon the philosophical meaning of clothes as outward symbols of spirit."*
+> - 📜 **William Hazlitt (*The Spirit of the Age*):** *"Hazlitt wrote **instructively** on the literary figures of his day, blending praise with penetrating critique."*

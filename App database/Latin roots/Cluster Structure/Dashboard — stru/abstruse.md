@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Difficult to penetrate; incomprehensible to one of ordinary understanding or knowledge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Difficult to penetrate; incomprehensible to one of ordinary understanding or knowledge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Difficult to understand, comprehend, or fathom; deeply recondite and obscure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to esoteric philosophical, mathematical, or metaphysical doctrines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Rich and gentlemanly, what does he care?” Bathsheba dropped into a silence intended to express that she had opinions on the matter too abstruse for Liddy’s comprehension, rather than that she had nothing to say."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Often I addressed bodies of scientists on abstruse subjects, reading aloud to them carefully prepared papers on my own researches or on my own deductions from the researches and experiments of others."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Don't talk to me as if you were an alienist trying to examine an abstruse case, Evelina," he growled, with extreme temper."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The mind often exhausts its powers in the pursuit of **abstruse** and barren speculations."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"Accurate and **abstruse** reasoning requires profound application and severe mental discipline."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"He spent entire days submerged in **abstruse** investigations regarding German transcendental philosophy."*

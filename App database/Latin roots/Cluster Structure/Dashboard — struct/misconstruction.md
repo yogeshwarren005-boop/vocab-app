@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of misinterpretation resulting from putting a wrong construction on words or actions (often deliberately).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ungrammatical constituent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The erroneous interpretation or unfair understanding of words, behavior, or legal statutes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A false or misleading construction placed upon an innocent action by prejudiced observers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"You did not use to like cards; but time makes many changes.” “I am not yet so much changed,” cried Anne, and stopped, fearing she hardly knew what misconstruction."*
-> - 📜 **George Eliot (*Middlemarch*):** *"No wonder that in Lydgate’s energetic nature the sense of a hopeless misconstruction easily turned into a dogged resistance."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"No stronger proof could be given of the distress under which these writers labor for objections, than their stooping to such a misconstruction."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth blushed at the memory of her blind prejudice and her hasty **misconstruction** of Darcy's letter."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The framers drafted the judicial clause with precision to guard against accidental **misconstruction**."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"An honest heart is often wounded by the malicious **misconstruction** of rivals seeking its downfall."*

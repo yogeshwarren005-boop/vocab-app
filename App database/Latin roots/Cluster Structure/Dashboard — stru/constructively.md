@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a constructive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a constructive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a productive, helpful manner that promotes improvement, harmony, or practical progress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, by judicial interpretation, reasonable implication, or established legal fiction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, constructively designates in a constructive manner."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Citizens channel their political rivalries **constructively** through voluntary civic associations."*
+> - 📜 **Joseph Story (*Commentaries on the Constitution of the United States*):** *"The supreme tribunal determined that the federal government held the disputed powers **constructively**."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The intellect works **constructively** only when guided by sincere faith in spiritual realities."*

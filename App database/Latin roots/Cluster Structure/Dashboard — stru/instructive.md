@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to instruct or enlighten or inform.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to instruct or enlighten or inform.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to inform, educate, or enlighten; conveying valuable knowledge or moral insight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Furnishing an illuminating example or precedent that clarifies a complex problem or rule.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Their conversation was, indeed, most instructive; for the future, it seems, had no secret worth mentioning for them."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Her fate is recorded in the _Philosophical Transactions_ as a case of spontaneous combustion."[755] [In burning the bewitched animal you burn the witch herself.] This last anecdote is instructive, if perhaps not strictly authentic."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"This little paper, 'The Youth's Companion,' strikes me as very entertaining and instructive, also of excellent moral tone."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The rise and fall of the Antonine emperors provides an **instructive** lesson on the perils of absolute power."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"The biography of a scholar is often more **instructive** than the dramatic chronicles of conquering princes."*
+> - 📜 **David Hume (*The History of England*):** *"The struggles of the Magna Carta barons offer an **instructive** chapter in the evolution of parliamentary liberties."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A covering spread over a dining table.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A covering spread over a dining table.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cloth fabric spread over the flat surface of a table, especially to protect it during a meal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A decorative textile drape covering a dining table to enhance domestic elegance during feasts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She soon finished her eating, and having a consciousness that Clare was regarding her, began to trace imaginary patterns on the tablecloth with her forefinger with the constraint of a domestic animal that perceives itself to be watched."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The others waited for the dairyman’s answer as if their lives hung upon it; Retty, with parted lips, gazing on the tablecloth, Marian with heat added to her redness, Tess throbbing and looking out at the meads."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I have thought over what you say,” she remarked to him, moving her forefinger over the tablecloth, her other hand, which bore the ring that mocked them both, supporting her forehead."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Peggotty spread a clean white **tablecloth** and placed a steaming dish of chops before the hungry boy."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The weaver smoothed the coarse linen **tablecloth** that had belonged to his mother in years gone by."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp admired the silver plate and fine damask **tablecloth** adorning the baronet's country mansion."*

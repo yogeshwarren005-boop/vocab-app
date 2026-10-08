@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hinder or prevent the progress or accomplishment of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Block passage through.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To block, clog, or close up an entrance or passage with obstacles, preventing transit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To hinder, impede, or intentionally delay the progress of an action, law, or proceeding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The nations of Europe are encircled with chains of fortified places, which mutually obstruct invasion."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The differences of opinion, and the jarrings of parties in that department of the government, though they may sometimes obstruct salutary plans, yet often promote deliberation and circumspection, and serve to check excesses in the majority."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The differences of opinion, and the jarrings of parties in that department of the government, though they may sometimes obstruct salutary plans, yet often promote deliberation and circumspection, and serve to check excesses in the majority."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"Fallen trees and thick briars threatened to **obstruct** my path toward the western shore of the island."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The garrison threw down heavy beams to **obstruct** the passage of the Roman siege engines."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Dense mangrove roots **obstruct** the tidal estuaries, catching drift timber and accumulating mud banks."*

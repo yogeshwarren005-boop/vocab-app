@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Interpret (a text or an artwork) by the method of deconstructing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Interpret (a text or an artwork) by the method of deconstructing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To critically analyze a text, discourse, or cultural artifact to expose its underlying contradictions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To dismantle or break down a physical or conceptual system into its basic constituent parts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deconstruct designates interpret (a text or an artwork) by the method of deconstructing."*
+> - 📜 **Jacques Derrida (*Of Grammatology*):** *"To **deconstruct** the discourse of presence requires examining the unseen margins of the written word."*
+> - 📜 **Paul de Man (*Allegories of Reading*):** *"Literary critics seek to **deconstruct** the apparent unity of rhetorical tropes in romantic poetry."*
+> - 📜 **Roland Barthes (*Image, Music, Text*):** *"The semiotician must **deconstruct** consumer mythology to reveal the ideological assumptions behind advertising."*

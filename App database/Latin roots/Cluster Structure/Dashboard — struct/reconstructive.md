@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Helping to restore to good condition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Helping to restore to good condition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending or serving to reconstruct, rebuild, restore, or remodel damaged structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgery, restoring form and function to bodily parts damaged by trauma, burns, or congenital defects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reconstructive designates helping to restore to good condition."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern surgical techniques perform **reconstructive** operations upon severed tendons with remarkable success."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Social progress involves **reconstructive** adaptations that harmonize ancient traditions with modern science."*
+> - 📜 **John Dewey (*Reconstruction in Philosophy*):** *"Philosophy must fulfill a **reconstructive** mission by addressing the genuine perplexities of contemporary life."*

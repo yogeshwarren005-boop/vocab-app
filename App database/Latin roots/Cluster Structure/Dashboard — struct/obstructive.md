@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preventing movement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preventing movement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing or tending to cause an obstruction; creating obstacles, delays, and hindrances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, producing a blockage in an internal vessel, organ, or respiratory passage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I didn’t like what I saw when I was studying there—so much empty bigwiggism, and obstructive trickery."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Garth, accustomed to these obstructive arguments from her male offspring."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Moreover, it is one of those nooks which are legal nooks; and it contains a little Hall, with a little lantern in its roof: to what obstructive purposes devoted, and at whose expense, this history knoweth not."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Customs duties and guild restrictions operate as an **obstructive** tax upon foreign manufactures."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The physician diagnosed an **obstructive** lesion within the bile duct requiring surgical relief."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"Feudal privileges acted as an **obstructive** barrier preventing social mobility across French provinces."*

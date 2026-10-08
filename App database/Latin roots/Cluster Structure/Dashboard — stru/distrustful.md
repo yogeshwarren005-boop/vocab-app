@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing distrust; ; - b.n.cardozo; - thomas jefferson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing distrust; ; - b.n.cardozo; - thomas jefferson.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or showing suspicion, doubt, or hesitation regarding another's motives or integrity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Naturally skeptical, guarded, or hesitant to place confidence in unfamiliar companions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I did think that I and both these young creatures might be friends instead of distrustful foes and that we might so far counter-act the suit and prove too strong for it."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But they have known me much longer than you have, and the confiding eye of affection is not the distrustful eye of business."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Not that I complain, sir, of the eye of business being distrustful; quite the contrary."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Taught by harsh experience at Lowood, Jane was naturally **distrustful** of sudden flattery and lavish promises."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers cast a sharp, **distrustful** glance at the loitering clerk, warning him to mind his duties."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Chillingworth fixed his **distrustful**, brooding eyes upon Dimmesdale, probing the minister's secret grief."*

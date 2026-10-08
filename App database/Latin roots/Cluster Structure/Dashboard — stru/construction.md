@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of constructing something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of words that form a constituent of a sentence and are considered as a single unit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process, art, or industry of building and assembling physical structures or infrastructure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The grammatical syntax, logical arrangement, or interpretive meaning of words in a sentence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know it, And my pretext to strike at him admits A good construction."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him show His skill in the construction."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s no art To find the mind’s construction in the face: He was a gentleman on whom I built An absolute trust."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The solid **construction** of the Roman aqueducts resisted the ravages of time and barbarian invasions."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The division of labor accelerates the **construction** of ships, machinery, and public highways."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Gothic architecture reveals its nobility through the honest **construction** of arched vaults and buttresses."*

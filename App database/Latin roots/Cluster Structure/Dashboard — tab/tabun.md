@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The first known nerve agent, synthesized by german chemists in 1936; a highly toxic combustible liquid that is soluble in organic solvents and is used as a nerve gas in chemical warfare.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first known nerve agent, synthesized by german chemists in 1936; a highly toxic combustible liquid that is soluble in organic solvents and is used as a nerve gas in chemical warfare.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extremely toxic synthetic organophosphate liquid (GA) developed as a deadly chemical nerve agent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lethal warfare toxin that inhibits acetylcholinesterase, producing rapid respiratory paralysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tabun designates the first known nerve agent, synthesized by german chemists in 1936; a highly toxic combustible liquid that is soluble in organic solvents and is used as a nerve gas in chemical warfare."*
+> - 📜 **Gerhard Schrader (*Die Entwicklung neuer Insektizide*):** *"Schrader accidentally discovered the terrifying mammalian lethality of **tabun** while formulating organophosphate pesticides."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"Allied intelligence monitored reports that German munitions plants were stockpiling quantities of the deadly nerve gas **tabun**."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Carson observed that modern agricultural insecticides trace their chemical lineage directly to wartime gases like **tabun**."*

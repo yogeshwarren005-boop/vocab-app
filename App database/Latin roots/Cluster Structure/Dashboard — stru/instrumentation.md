@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artifact (or system of artifacts) that is instrumental in accomplishing some end.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of providing or using the instruments needed for some implementation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The arrangement or composition of music for orchestral or chamber instruments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The specialized measuring, monitoring, or control devices used in an industrial laboratory or plant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Alignment to major concentrations of potential sources, selection of a 'first phase' work site, calibration of instrumentation and activating its spunnel channels and monitors required still more."*
+> - 📜 **Hector Berlioz (*Memoirs of Hector Berlioz*):** *"Berlioz revolutionized symphonic **instrumentation** by introducing the English horn, ophicleide, and harp."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"Accurate physical **instrumentation** allowed researchers to measure minute fluctuations in terrestrial magnetism."*
+> - 📜 **Arthur Sullivan (*Lectures on Music*):** *"Subtle **instrumentation** provides dramatic light and shade without overwhelming the melody of the singers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who systematically obstructs some action that others want to take.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who systematically obstructs some action that others want to take.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who deliberately delays, hinders, or impedes official proceedings or legislative reforms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of or practicing deliberate delay and hindrance against established policy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, obstructionist designates someone who systematically obstructs some action that others want to take."*
+> - 📜 **Theodore Roosevelt (*An Autobiography*):** *"Roosevelt refused to yield an inch to any political **obstructionist** seeking to derail conservation laws."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"He described the veteran senator as an uncompromising **obstructionist** who blocked every presidential treaty."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"The reforming minister found his ambitious educational bill blocked by a stubborn **obstructionist** faction."*

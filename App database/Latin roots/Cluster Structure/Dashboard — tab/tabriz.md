@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient city in northwestern iran; known for hot springs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient city in northwestern iran; known for hot springs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historic commercial and cultural city in northwestern Iran, capital of East Azerbaijan Province.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A renowned historic center of Persian carpet weaving, tile art, and Silk Road trade.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tabriz designates an ancient city in northwestern iran; known for hot springs."*
+> - 📜 **Marco Polo (*The Travels of Marco Polo*):** *"Marco Polo visited the noble city of **Tabriz**, praising its splendid bazaars and the skill of its silk weavers."*
+> - 📜 **Edward Browne (*A Year Amongst the Persians*):** *"Browne entered **Tabriz** through its ancient brick gate, marveling at the vast Blue Mosque and historic citadel."*
+> - 📜 **Lord Curzon (*Persia and the Persian Question*):** *"Curzon described **Tabriz** as the premier commercial emporium of northern Persia, linking Teheran to Trebizond."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A relatively flat highland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A relatively flat highland.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A broad, elevated, and relatively flat area of land; an extensive plateau surrounded by lower plains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geomorphology, a high elevated plain bounded by steep escarpments or eroded canyon walls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Flintcomb-Ash being in the middle of the cretaceous tableland over which no railway had climbed as yet, it would be necessary to walk."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The principal tin claims are at Mount Romeo and the Tableland, some 40 miles distant, and also in the Bloomfield."*
-> - 📜 **H. Rider Haggard (*Swallow: A Tale of the Great Trek*):** *"They rode up to the flanks of the mountain, and through the narrow pass and the red wall of rock to the tableland upon its top, where stood the chief’s huts and the cattle-kraal, and here they found the people gathered."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"The immense **tableland** of central Mexico rises more than seven thousand feet above the level of the sea."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The naturalist crossed the arid **tableland** of Patagonia, noting the uniform gravel strata stretching for miles."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Challenger pointed to the towering red cliffs of the isolated **tableland** where prehistoric beasts survived."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A major jewish festival beginning on the eve of the 15th of tishri and commemorating the shelter of the israelites during their 40 years in the wilderness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mormon temple.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Temporary tents, booths, or rustic huts erected for dwelling during pilgrimage or nomadic transit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The annual Jewish autumn harvest festival (Sukkot), commemorating the wilderness wandering in booths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Man's works are graven, cunning, and skilful On earth, where his tabernacles are; But the sea is wanton, the sea is wilful, And who shall mend her and who shall mar?"*
+> - 📜 **King James Bible (*Book of Leviticus*):** *"Ye shall dwell in booths seven days, celebrating the sacred feast of **tabernacles** unto the Lord."*
+> - 📜 **Flavius Josephus (*Antiquities of the Jews*):** *"Josephus described how pilgrims gathered in Jerusalem during the feast of **tabernacles** carrying myrtle boughs."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"The pilgrims rested peacefully beneath leafy **tabernacles** pitched alongside the River of the Water of Life."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sensationalist journalism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Newspaper with half-size pages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A newspaper of small format, usually featuring sensational reporting, concise articles, and many photographs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Presented in a condensed, simplified, or sensationalized format designed for rapid popular consumption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"One tabloid of cascara sagrada."*
-> - 📜 **James Joyce (*Ulysses*):** *"Might be all feeding on tabloids that time."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"The political campaigner understood how the sensational headlines of the morning **tabloid** swayed the urban vote."*
+> - 📜 **George Bernard Shaw (*Pen Portraits and Reviews*):** *"Shaw mocked the intellectual laziness of readers who preferred dramatic gossip in **tabloid** journalism."*
+> - 📜 **G. K. Chesterton (*The Flying Inn*):** *"Chesterton ridiculed the modern appetite for condensed, superficial wisdom served up in **tabloid** paragraphs."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a destructive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a destructive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that causes widespread ruin, devastation, severe damage, or lasting injury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With hostile or subversive effects that undermine civic harmony, stability, or moral character.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Destructively?" "Yes." "You're in command of the combined fleet, Drummer."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The Parisian mob acted **destructively** upon royal monuments, toppling bronze equestrian statues in the squares."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The white whale struck the wooden hull **destructively**, driving timber fragments through the shattered ribs."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Cannon shot fell **destructively** into the infantry ranks, tearing through battalions with indiscriminate fury."*

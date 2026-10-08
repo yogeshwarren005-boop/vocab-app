@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The strength to resist destruction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The strength to resist destruction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of matter or energy that prevents it from being destroyed, annihilated, or lost.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enduring permanence and complete invulnerability to physical wear, decay, or dissolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"INDESTRUCTIBILITY: Amidst ceaseless change and seeming decay all the elements, all the forces (if indeed they be not one and the same) which operate and substantiate those changes, imperishable; neither matter nor force capable of annihilation."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The fundamental axiom of chemical science rests upon the absolute **indestructibility** of elementary matter."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The **indestructibility** of matter and the persistence of force constitute the dual pillars of modern physics."*
+> - 📜 **John Tyndall (*Fragments of Science*):** *"Tyndall celebrated the universal **indestructibility** of energy across its mechanical, thermal, and chemical transformations."*

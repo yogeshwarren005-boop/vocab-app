@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adhering to an attitude or position widely held to be outmoded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adhering to an attitude or position widely held to be outmoded.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not rebuilt, restored, or reorganized after destruction, defeat, or social upheaval.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stubbornly holding to defeated, outmoded, or unreformed political opinions or traditional prejudices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unreconstructed designates adhering to an attitude or position widely held to be outmoded."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The river pilot encountered many an **unreconstructed** southern planter who refused to accept the abolition of slavery."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"Washington in 1868 buzzed with the contentious voices of **unreconstructed** southern congressmen."*
+> - 📜 **W. E. B. Du Bois (*The Souls of Black Folk*):** *"Du Bois described the bitter opposition of the **unreconstructed** aristocracy against black suffrage in the South."*

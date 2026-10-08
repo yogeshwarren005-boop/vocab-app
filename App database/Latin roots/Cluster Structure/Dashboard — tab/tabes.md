@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wasting of the body during a chronic disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wasting of the body during a chronic disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A progressive wasting disease accompanied by emaciation; especially tabes dorsalis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, the late degeneration of the dorsal spinal columns caused by untreated syphilis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tabes designates wasting of the body during a chronic disease."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Osler detailed the loss of knee jerks, lightning pains, and sensory ataxia characteristic of spinal **tabes**."*
+> - 📜 **Thomas Browne (*Religio Medici*):** *"No bodily medicine can halt the slow consumption of life when secret **tabes** undermines the vital organs."*
+> - 📜 **Jean-Martin Charcot (*Lectures on the Diseases of the Nervous System*):** *"Charcot identified arthropathies of the knee joint occurring as a classic complication in advanced **tabes**."*

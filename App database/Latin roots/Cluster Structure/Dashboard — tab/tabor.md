@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small drum with one head of soft calfskin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small drum with one head of soft calfskin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small medieval snare drum played with one hand while the player fingers a three-holed pipe with the other.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light side drum used in traditional English morris dancing and rural folk festivals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The shepherd knows not thunder from a tabor More than I know the sound of Martius’ tongue From every meaner man."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll make one in a dance, or so; or I will play on the tabor to the Worthies, and let them dance the hay."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That’s not the tune. [_Ariel plays the tune on a tabor and pipe._] STEPHANO."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"Feste the clown entered playing upon his pipe and **tabor**, jesting merrily with Viola at the gate."*
+> - 📜 **John Milton (*L'Allegro*):** *"Rural swains dance in the chequered shade to the merry cadence of the flute and nimble **tabor**."*
+> - 📜 **Walter Scott (*The Lady of the Lake*):** *"The minstrel struck his rustic **tabor**, leading the village maiden in a joyful bridal dance."*

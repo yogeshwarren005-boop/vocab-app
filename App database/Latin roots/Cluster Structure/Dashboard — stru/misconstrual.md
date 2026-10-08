@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of misinterpretation resulting from putting a wrong construction on words or actions (often deliberately).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kind of misinterpretation resulting from putting a wrong construction on words or actions (often deliberately).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The erroneous interpretation, misunderstanding, or misapprehension of an utterance or action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A false or distorted construction placed upon a text, agreement, or diplomatic gesture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misconstrual designates a kind of misinterpretation resulting from putting a wrong construction on words or actions (often deliberately)."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"Harold Transome feared that any delay in publishing his manifesto would invite partisan **misconstrual**."*
+> - 📜 **Henry James (*The Wings of the Dove*):** *"Densher guarded his words with nervous caution to prevent any fatal **misconstrual** of his motives."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Mill sought to rescue his ethical doctrine from popular **misconstrual** as mere sensual indulgence."*

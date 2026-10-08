@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of instructor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of instructor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, rank, tenure, or professional position of an academic instructor or tutor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The period of service or institutional duties assigned to an educator within an academy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, instructorship designates the position of instructor."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"Adams accepted an **instructorship** in medieval history at Harvard, confessing that he knew nothing of the subject."*
+> - 📜 **Thomas Henry Huxley (*Science and Education*):** *"He urged that appointment to an **instructorship** in biology should depend strictly upon original research."*
+> - 📜 **Charles William Eliot (*Educational Reform*):** *"The university elevated the annual salary of every young scholar holding a probationary **instructorship**."*

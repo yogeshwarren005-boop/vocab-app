@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the strings from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emotionally upset.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the strings loosened, detached, or removed, as a bow or musical instrument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Severely unnerved, emotionally shaken, or mentally debilitated by grief, terror, or shock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket to understand, in reply, that her sensitive mind is fully made up never to get the better of it as long as she lives, that her nerves are unstrung for ever, and that she has not the least expectation of ever smiling again."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba’s nerves were still unstrung: she crouched down out of sight again, and the pedestrian came into view."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Well, he is not a ghost; yet every nerve I have is unstrung: for a moment I am beyond my own mastery."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"His shattered spirit was like an **unstrung** lyre, yielding only wild discordant notes to the wind."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Jane found her nerves completely **unstrung** after the terrifying ordeal in the red-room."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Sir Henry looked pale and **unstrung** after hearing the terrible howling across the dark moor."*

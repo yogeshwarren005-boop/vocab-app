@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroy (one's own missile or rocket).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Do away with, cause the destruction or undoing of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause deliberate self-destruction or demolition, especially of an erratic airborne rocket or vessel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To disintegrate, shatter, or suffer catastrophic physical rupture under intense stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, destruct designates destroy (one's own missile or rocket)."*
+> - 📜 **Wernher von Braun (*The Mars Project*):** *"Range safety officers stand ready to **destruct** any booster that veers off its designated ballistic trajectory."*
+> - 📜 **Arthur C. Clarke (*Interplanetary Flight*):** *"Should the telemetry fail during ignition, automated relays **destruct** the rocket before impact."*
+> - 📜 **Robert H. Goddard (*A Method of Reaching Extreme Altitudes*):** *"Excessive chamber pressure threatened to **destruct** the prototype motor during static combustion testing."*

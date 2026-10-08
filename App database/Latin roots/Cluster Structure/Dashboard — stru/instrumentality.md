@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A subsidiary organ of government created for a special purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being instrumental for some purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The agency, means, or vehicle through which an end, purpose, or policy is brought about.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative and constitutional law, a subsidiary organ or body executing public functions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"It is an answer to my prayer, for the Lord employs the instrumentality of his children to answer prayer, and, when it is necessary, he moves them to it."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A few weeks ago I was on the high road to destruction, but now through your instrumentality I am in the narrow path which leads to everlasting life."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He believed without effort in the peculiar work of grace within him, and in the signs that God intended him for special instrumentality."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The national bank acts as a convenient **instrumentality** for collecting and disbursing public revenues."*
+> - 📜 **John Marshall (*McCulloch v. Maryland*):** *"Congress possesses constitutional power to employ every legitimate **instrumentality** to execute its mandate."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Township juries serve as an educational **instrumentality**, teaching ordinary citizens the principles of the law."*

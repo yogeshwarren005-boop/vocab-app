@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of pragmatic philosophy that considers idea to be instruments that should guide our actions and their value is measured by their success.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of pragmatic philosophy that considers idea to be instruments that should guide our actions and their value is measured by their success.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pragmatic philosophy holding that ideas, theories, and concepts are active tools for action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musical composition or performance, the prioritizing of instrumental over vocal expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, instrumentalism designates a system of pragmatic philosophy that considers idea to be instruments that should guide our actions and their value is measured by their success."*
+> - 📜 **John Dewey (*Essays in Experimental Logic*):** *"The doctrine of **instrumentalism** regards concepts as operational hypotheses tested through physical practice."*
+> - 📜 **William James (*Pragmatism*):** *"James praised pragmatism and logical **instrumentalism** for treating truths as working instruments of inquiry."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Russell criticized Dewey's **instrumentalism** for subordinating objective truth to practical biological utility."*

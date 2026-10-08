@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily destroyed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily destroyed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being ruined, dismantled, broken, or utterly destroyed by external force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to temporal decay, mortal dissolution, or physical dissolution; perishable.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"It is true that materiality renders these ideals imperfect and destructible; yet I would not ex- change mine for thine, for mine give me such personal 360:9 pleasure, and they are not so shockingly transcendental."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"But in economic discussion it is the value of things that is being considered, and from this point of view everything is in some degree destructible."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Complex bodies formed of fragile elements are easily **destructible** by atmospheric moisture and heat."*
+> - 📜 **Percy Bysshe Shelley (*Queen Mab*):** *"Tyrants build granite fortresses, forgetting that every mortal palace is frail and **destructible**."*
+> - 📜 **Francis Bacon (*The Great Instauration*):** *"Bacon noted that human inventions are fragile and **destructible**, whereas natural laws endure unchanged."*

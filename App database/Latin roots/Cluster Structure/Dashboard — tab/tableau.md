@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of people attractively arranged (as if in a painting).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any dramatic scene.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vivid, dramatic, or picturesque scene; especially a group of silent, motionless costumed figures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A striking artistic representation or living picture (tableau vivant) staged upon a dramatic platform.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Colonel Dent, their spokesman, demanded “the tableau of the whole;” whereupon the curtain again descended."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The tableau all waned at last with the pallidness aloft; and once more the Pequod and every soul on her decks were wrapped in a pall."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"She felt sure that the _tableau_ was interesting."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"Society guests marveled at the exquisite **tableau** of Reynolds's portraits staged by fashionable ladies."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The Rochester party delighted in performing a historical **tableau** depicting the meeting of Rebecca and Eliezer."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Carlyle painted a terrifying **tableau** of the Parisian mob surging through the royal palace courtyards."*

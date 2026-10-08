@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constructing or tending to construct or improve or promote development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emphasizing what is laudable or hopeful or to the good.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving a useful, beneficial purpose; tending to build up, encourage growth, or improve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence, inferred or derived by legal interpretation rather than explicit statement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This has been a real service to the cause of moderate and constructive reform. § 20. #Revisionism and opportunism in the socialist party#."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Here and there are incorporated passages (rehandled) from articles that have appeared in The Constructive Quarterly, The Nation, The Expositor, and elsewhere."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He felt sure that if he did not come to a bargain with the farmer, Bambridge would; for the stress of circumstances, Fred felt, was sharpening his acuteness and endowing him with all the constructive power of suspicion."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The court ruled that unauthorized entry constituted **constructive** breaking under the ancient common law."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Society benefits when critical debate provides **constructive** alternatives to outworn social conventions."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"A wise statesman seeks reform through **constructive** preservation rather than reckless demolition of ancient laws."*

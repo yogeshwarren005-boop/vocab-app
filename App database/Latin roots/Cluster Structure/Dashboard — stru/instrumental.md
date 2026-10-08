@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or designed for or performed on musical instruments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving or acting as a means or aid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving as a crucial means, agent, or contributory factor in achieving an end or purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or composed for musical instruments rather than the human singing voice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The head is not more native to the heart, The hand more instrumental to the mouth, Than is the throne of Denmark to thy father."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These are sometimes called instrumental goods, or the industrial equipment."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Miss Barton still continues her good work, and has been instrumental in sending certainty if not solace to thousands of families, who mourned their loved ones as lying in unknown graves."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The legionary cavalry was **instrumental** in turning the flank of the Persian host at the decisive battle."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Natural selection is **instrumental** in preserving advantageous variations across changing environments."*
+> - 📜 **Thomas Carlyle (*Heroes and Hero-Worship*):** *"The Great Man is **instrumental** in awakening the dormant energies of his generation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being in a tense state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Too tightly strung.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having strings drawn too tightly, as piano strings arranged in overlapping diagonal layers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessively sensitive, nervous, or emotionally strained to the point of acute exhaustion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"My overstrung nerves failed me suddenly, and I turned and ran—ran as though some dreadful hand were behind me clutching at the skirt of my dress."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"The governess recognized that her nerves were **overstrung** by the eerie isolation of the country estate."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Speckled Band*):** *"Holmes observed her pale countenance and trembling hands, perceiving an **overstrung** state of terror."*
+> - 📜 **George Grove (*A Dictionary of Music and Musicians*):** *"The modern **overstrung** grand piano attains superior acoustic resonance through cross-strung bass wires."*

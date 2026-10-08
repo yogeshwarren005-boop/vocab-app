@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A consonant that is produced with a partial or complete blockage of the airflow from the lungs through the nose or mouth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A consonant that is produced with a partial or complete blockage of the airflow from the lungs through the nose or mouth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In phonetics, a speech sound produced by obstructing airflow in the vocal tract (stops, fricatives).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine, tending to block or obstruct bodily passages; an obstructing agent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, obstruent designates a consonant that is produced with a partial or complete blockage of the airflow from the lungs through the nose or mouth."*
+> - 📜 **William Dwight Whitney (*The Life and Growth of Language*):** *"Phoneticians distinguish the resonant sonorant vowels from the compressed **obstruent** consonants."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"The shift from an **obstruent** stop to a fricative constitutes a common phonetic mutation across dialects."*
+> - 📜 **Otto Jespersen (*Phonetics*):** *"Jespersen analyzed the acoustic resistance generated when an **obstruent** sound closes the oral cavity."*

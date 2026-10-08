@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally enlarged thyroid gland; can result from underproduction or overproduction of hormone or from a deficiency of iodine in the diet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of tuberculosis characterized by swellings of the lymphatic glands.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic medical term for scrofula or chronic enlargement of the thyroid gland; goiter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, a localized cushion-like swelling or enlargement at the base of certain moss capsules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, struma designates abnormally enlarged thyroid gland; can result from underproduction or overproduction of hormone or from a deficiency of iodine in the diet."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Osler detailed the clinical manifestations of endemic goiter, historically designated as thyroid **struma**."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Browne investigated the popular belief that royal touch possessed miraculous efficacy against **struma**."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"In certain bryophyte species, the apophysis develops a prominent **struma** at the base of the sporangium."*

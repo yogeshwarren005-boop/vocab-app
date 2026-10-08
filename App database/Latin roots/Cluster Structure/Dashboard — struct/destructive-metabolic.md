@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to catabolism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to catabolism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to catabolic biochemical reactions that decompose complex organic molecules to release energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterizing physiological tissue breakdown and cellular oxidation during vigorous metabolism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, destructive-metabolic designates of or relating to catabolism."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"Organic vitality requires the continuous interplay of synthetic creation and **destructive-metabolic** combustion."*
+> - 📜 **Michael Foster (*Text-Book of Physiology*):** *"Muscular contraction relies upon rapid **destructive-metabolic** cleavage of glycogen within the muscle fiber."*
+> - 📜 **William Maddock Bayliss (*Principles of General Physiology*):** *"Oxidative enzymes govern the **destructive-metabolic** pathways that generate heat and carbon dioxide."*

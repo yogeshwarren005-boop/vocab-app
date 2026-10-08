@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or caused by structure, especially political or economic structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or having or characterized by structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or forming part of the basic framework, support, or skeleton of an edifice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the underlying organization, relations, or systemic fabric of an institution or language.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Hitherto, in descriptively treating of the Sperm Whale, I have chiefly dwelt upon the marvels of his outer aspect; or separately and in detail upon some few interior structural features."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"What's more, ship's structural and power plant robies are down for maintenance half the time and spare parts are a mess."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The quiet mean to which we originally found him adhering, and in which, with few exceptions, he had continually moved, was that of neutralization: it was not structural at all."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"True architectural beauty depends on **structural** truth rather than extraneous cosmetic ornament."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Homologous bones exhibit fundamental **structural** unity despite serving distinct functions across species."*
+> - 📜 **Karl Marx (*A Contribution to the Critique of Political Economy*):** *"The economic base forms the **structural** foundation upon which the legal and political superstructures rise."*

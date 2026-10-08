@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an obstructive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an obstructive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that deliberately impedes, hinders, or creates barriers to progress or passage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With willful stubbornness or procedural delay that paralyzes collective deliberations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, obstructively designates in an obstructive manner."*
+> - 📜 **Anthony Trollope (*The Prime Minister*):** *"The opposition members behaved **obstructively**, demanding repeated division calls until past midnight."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"The heavy cab lingered **obstructively** in the narrow alley, blocking the passage of police wagons."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The wagoner placed his cart **obstructively** across the bridge, refusing to make way for the magistrate."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not structural.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not structural.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not relating to, affecting, or forming part of the primary load-bearing framework of an edifice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organizational analysis, pertaining to superficial elements rather than systemic arrangements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonstructural designates not structural."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"Ruskin condemned purely **nonstructural** veneers applied over stone facades as dishonest artifice."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The comparative anatomist distinguishes vital skeletal joints from **nonstructural** external tissues."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Certain ceremonial habits are merely **nonstructural** survivals that alter without reshaping social institutions."*

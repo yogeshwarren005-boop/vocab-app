@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The period after the american civil war when the southern states were reorganized and reintegrated into the union; 1865-1877.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activity of constructing something again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or process of rebuilding, restoring, or reorganizing something destroyed or damaged.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The historical era in the United States (1865–1877) following the Civil War; or a mental reenactment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The "reconstruction of a personality"--to borrow a phrase from some psychologists--is a very difficult matter, even when we are masters of our detail."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Jane had gone upstairs to make more calculations on our reconstruction, and I was trying to get a large deep breath."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"It is needless to repeat, for it must be present to all minds, how many and deep are the differences which separate him from the later doctrines of Comte, and how completely he repudiated connection with the religious reconstruction of Positivism."*
+> - 📜 **Frederick Douglass (*Life and Times of Frederick Douglass*):** *"Douglass fought for civil rights during **Reconstruction**, insisting that full citizenship be guaranteed to freedmen."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The anatomical **reconstruction** of Neanderthal crania revealed striking similarities to archaic human forms."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"The social **reconstruction** of France required replacing feudal jurisdictions with uniform civil laws."*

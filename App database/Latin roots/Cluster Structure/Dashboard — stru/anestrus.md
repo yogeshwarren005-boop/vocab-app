@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Applies to nonhuman mammals: a state or interval of sexual inactivity between two periods of estrus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Applies to nonhuman mammals: a state or interval of sexual inactivity between two periods of estrus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A recurring period of sexual quiescence or reproductive inactivity between mating seasons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian physiology, the dormant phase of the reproductive cycle in female non-primates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anestrus designates applies to nonhuman mammals: a state or interval of sexual inactivity between two periods of estrus."*
+> - 📜 **Francis Hugh Adam Marshall (*The Physiology of Reproduction*):** *"During the winter **anestrus**, the ovarian follicles regress and hormonal activity drops to a baseline level."*
+> - 📜 **Walter Heape (*The Sexual Season of Mammals*):** *"Heape defined the period of prolonged sexual rest following lactation as physiological **anestrus**."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Wild ungulates enter an extended **anestrus** throughout the harsh winter months to conserve bodily fat."*

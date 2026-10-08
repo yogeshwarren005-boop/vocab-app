@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deliberate interference.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deliberate interference.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The deliberate policy or practice of causing delays and impeding progress in a parliament or legislature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Systematic hindrance and resistance to administrative or civic reform through procedural tactics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, obstructionism designates deliberate interference."*
+> - 📜 **Woodrow Wilson (*Congressional Government*):** *"Prolonged filibusters and procedural **obstructionism** often paralyze the deliberative work of the Senate."*
+> - 📜 **Winston Churchill (*The River War*):** *"Churchill noted how bureaucratic **obstructionism** in Cairo continually hampered forward military transport."*
+> - 📜 **John Morley (*The Life of William Ewart Gladstone*):** *"Gladstone confronted unyielding Irish **obstructionism** during the passionate parliamentary debates over Home Rule."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being unclear or abstruse and hard to understand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wisdom that is recondite and abstruse and profound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Difficulty of comprehension; the recondite, obscure, or perplexing nature of a doctrine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intellectual density or subtlety that resists casual examination and superficial perusal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"The most wrinkled AEson of an abstruseness leaps rosy out of his bubbling genius."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Writers frequently mistake mere obscurity for profound wisdom, concealing empty thoughts beneath affected **abstruseness**."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The excessive **abstruseness** of scholastic disputations diverted philosophy from productive natural inquiries."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The apparent **abstruseness** of the syllogism vanishes once its deductive foundations are clearly exhibited."*

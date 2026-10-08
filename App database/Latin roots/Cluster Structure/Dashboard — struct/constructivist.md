@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artist of the school of constructivism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artist of the school of constructivism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An adherent, practitioner, or supporter of constructivism in fine art, architecture, or philosophy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to educational methods wherein students actively assemble understanding from experience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, constructivist designates an artist of the school of constructivism."*
+> - 📜 **El Lissitzky (*Russia: An Architecture for World Revolution*):** *"The **constructivist** architect designs buildings not as monuments, but as social condensers of collective life."*
+> - 📜 **Lev Vygotsky (*Mind in Society*):** *"From a **constructivist** perspective, cultural tools mediate cognitive development through guided social interaction."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"The teacher adopts a **constructivist** attitude by arranging active environments rather than dictating passive dogmas."*

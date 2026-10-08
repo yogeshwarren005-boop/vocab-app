@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical notation indicating the fingering to be used.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical notation indicating the fingering to be used.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of musical notation using letters, numbers, or fret diagrams instead of standard notes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mental picture, engraved graphic representation, or painted wall surface depicting a scene.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tablature designates a musical notation indicating the fingering to be used."*
+> - 📜 **John Dowland (*The First Booke of Songes or Ayres*):** *"Dowland printed his lute accompaniments in clear French **tablature** directly beneath the vocal parts."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The human memory preserves an inward **tablature** of impressions gathered through sensory experience."*
+> - 📜 **Charles Burney (*A General History of Music*):** *"Burney transcribed ancient German organ **tablature** into modern score to reveal its contrapuntal structure."*

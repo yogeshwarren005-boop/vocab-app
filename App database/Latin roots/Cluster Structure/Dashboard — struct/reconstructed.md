@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reassemble mentally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Build again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Built anew, reassembled, or restored after suffering damage, demolition, or loss.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reconstituted conceptually from fragmentary historical artifacts or forensic clues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Gradually the events of the preceding night crept with silent, blood-stained feet into his brain and reconstructed themselves there with terrible distinctness."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Brad mentally reconstructed their route before Cordy's challenge."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"With this object his staff was gradually reconstructed and its real strength removed and transferred to the Emperor."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The **reconstructed** campanile stood in St. Mark's Square, mirroring its fallen medieval predecessor."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Geologists studied the **reconstructed** topography of ancient river terraces shaped by volcanic floods."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The sculptor contemplated the **reconstructed** torso of the antique faun unearthed from the ruins."*

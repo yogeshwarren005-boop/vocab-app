@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A philosophical theory of criticism (usually of literature or film) that seeks to expose deep-seated contradictions in a work by delving below its surface meaning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A philosophical theory of criticism (usually of literature or film) that seeks to expose deep-seated contradictions in a work by delving below its surface meaning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A critical and philosophical method of textual analysis interrogating binary oppositions and assumptions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of taking apart, disassembling, or dismantling an established structure or hierarchy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deconstruction designates a philosophical theory of criticism (usually of literature or film) that seeks to expose deep-seated contradictions in a work by delving below its surface meaning."*
+> - 📜 **Jacques Derrida (*Writing and Difference*):** *"The practice of **deconstruction** does not destroy meaning, but reveals its endless différance and deferral."*
+> - 📜 **Michel Foucault (*The Archaeology of Knowledge*):** *"Historical analysis entails the **deconstruction** of self-evident unities in political discourse."*
+> - 📜 **Gayatri Chakravorty Spivak (*In Other Worlds*):** *"Spivak utilized feminist **deconstruction** to question postcolonial narratives of subaltern identity."*

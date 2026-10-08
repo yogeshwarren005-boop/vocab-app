@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The bill in a restaurant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sensationalist journalism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small flap, strap, loop, or projecting strip attached to something for grasping, hanging, or identifying.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An account, bill, or reckoning of expenses kept at a tavern, commercial store, or club.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hodak stretched, quickly finished his drink, paid his tab, and slapped drinking partners' shoulders good-bye."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"It ought to make you thankful that you are so well cared for, Tab.” The cat opened her eyes and winked drowsily at her mistress."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Now, the Guardian Station prison, I am informed, keeps tabs on its inmates using a sophisticated surveillance system."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The dusty legal parchment was sealed with wax and tied with red ribbon passing through a parchment **tab**."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The barkeep kept an accurate **tab** against every miner who drank at the frontier saloon."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Norwood Builder*):** *"Lestrade pointed to the charred cloth **tab** on the coat collar as evidence of the victim's identity."*

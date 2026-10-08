@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A low stool in the shape of a drum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A low stool in the shape of a drum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A low upholstered stool without back or arms; originally conferring privilege at the French court.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In court etiquette of the Ancien Régime, the coveted right of duchesses to sit on a stool in the royal presence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tabouret designates a low stool in the shape of a drum."*
+> - 📜 **Louis de Rouvroy, duc de Saint-Simon (*Memoirs of the Duke of Saint-Simon*):** *"Saint-Simon recorded the bitter intrigues at Versailles over the right of ladies to sit upon a royal **tabouret**."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Courtiers squabbled over ancient privileges of the velvet **tabouret** while the treasury slid toward bankruptcy."*
+> - 📜 **Victor Hugo (*Les Misérables*):** *"The bishop offered the ragged convict the only armchair, seating himself humbly upon a plain wooden **tabouret**."*

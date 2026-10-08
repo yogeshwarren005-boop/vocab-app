@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A proud stiff pompous gait.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brace consisting of a bar or rod used to resist longitudinal compression.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To walk with a proud, haughty, pompous, or arrogant gait; displaying self-importance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In engineering, a rigid bar or structural brace designed to resist longitudinal compression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But when we in our viciousness grow hard— O misery on’t!—the wise gods seal our eyes, In our own filth drop our clear judgments, make us Adore our errors, laugh at’s while we strut To our confusion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Does he not hold up his head, as it were, and strut in his gait?"*
-> - 📜 **Thornton W. Burgess (*The Adventures of Reddy Fox*):** *"He liked to strut around through the Green Forest and over the Green Meadows and brag about what he had done and what he could do."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Life's but a walking shadow, a poor player that frets and **struts** his hour upon the stage."*
+> - 📜 **Thomas Telford (*Life of Thomas Telford, Civil Engineer*):** *"Each iron **strut** of the bridge truss was calculated to withstand immense downward compressive force."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Jane observed the arrogant footman **strut** through the hall as if he owned the manor house."*

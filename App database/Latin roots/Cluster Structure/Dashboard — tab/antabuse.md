@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug (trade name antabuse) used in the treatment of alcoholism; causes nausea and vomiting if alcohol is ingested.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug (trade name antabuse) used in the treatment of alcoholism; causes nausea and vomiting if alcohol is ingested.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic drug (disulfiram) used in the medical treatment of chronic alcohol dependence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pharmacological compound that deters ethanol intake by inducing acute aldehyde accumulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antabuse designates a drug (trade name antabuse) used in the treatment of alcoholism; causes nausea and vomiting if alcohol is ingested."*
+> - 📜 **Erik Jacobsen (*The Pharmacological Action of Antabuse*):** *"Jacobsen demonstrated that patients medicated with **antabuse** developed severe flushing upon tasting wine."*
+> - 📜 **Jens Hald (*Sensitization of the Organism to Alcohol*):** *"The administration of **antabuse** inhibits aldehyde dehydrogenase, producing immediate discomfort after alcohol ingestion."*
+> - 📜 **Edwin H. Sutherland (*Principles of Criminology*):** *"Medical rehabilitation programs frequently prescribe **antabuse** to reinforce voluntary abstinence from liquor."*

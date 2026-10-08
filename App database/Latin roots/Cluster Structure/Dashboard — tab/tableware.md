@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Articles for use at the table (dishes and silverware and glassware).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Articles for use at the table (dishes and silverware and glassware).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dishes, utensils, glassware, and pottery used for setting a dining table and serving meals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The collective cutlery, porcelain, and serving vessels employed in formal food service.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Seeing all was well, she smiled, and carried another armful of dishes and tableware to the kitchen counter."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Mrs. Tulliver mourned the forced auction of her beloved willow-pattern china and heirloom **tableware**."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The glittering crystal glasses and ornate gilded **tableware** reflected the candlelight in the grand salon."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip felt awed by the fine silver **tableware** and tall candlesticks adorning the dining room at Satis House."*

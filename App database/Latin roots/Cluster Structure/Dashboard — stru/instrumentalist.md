@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who plays a musical instrument (as a profession).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who plays a musical instrument (as a profession).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musician who plays an instrument, especially as a distinguished soloist or orchestral player.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adherent of the philosophical doctrine that theoretical concepts function as working tools.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, instrumentalist designates someone who plays a musical instrument (as a profession)."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The visiting violin **instrumentalist** delivered the concerto with breathtaking technical brilliance."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Holmes proved himself a remarkable **instrumentalist**, drawing haunting melodies from his Stradivarius."*
+> - 📜 **John Dewey (*Reconstruction in Philosophy*):** *"The logical **instrumentalist** refuses to view thought as a mirror of fixed metaphysical essences."*

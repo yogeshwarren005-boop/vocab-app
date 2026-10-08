@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Horseflies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Horseflies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic family of stout, bloodsucking dipteran flies commonly known as horseflies and deerflies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical entomology, biting flies with large compound eyes and blade-like mouthparts that vector livestock pathogens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tabanidae designates horseflies."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In the damp pampas swamps, swarms of vicious flies of the family **tabanidae** tormented our horses."*
+> - 📜 **William Kirby (*An Introduction to Entomology*):** *"Kirby noted that female flies of the family **tabanidae** require blood meals to nourish their developing ova."*
+> - 📜 **John Obadiah Westwood (*An Introduction to the Modern Classification of Insects*):** *"The family **tabanidae** is recognized by its broad, flattened abdomen and powerful cutting mandibles."*

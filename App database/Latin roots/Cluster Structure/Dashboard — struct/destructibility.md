@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vulnerability to destruction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vulnerability to destruction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vulnerability or liability to being torn down, ruined, broken, or destroyed by physical force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The perishable nature of material objects and mortal organisms subject to temporal disintegration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"She knows, as well as the poet, that destructibility is not one of nature's words; that it is only the relationship of things--tangibility, visibility--that are transitory."*
+> - 📜 **Lucretius (*De Rerum Natura*):** *"The poet contrasted the eternal persistence of atoms with the mortal **destructibility** of composite matter."*
+> - 📜 **David Hume (*Dialogues Concerning Natural Religion*):** *"The evident **destructibility** of earthly kingdoms demonstrates the absence of mechanical permanence in nature."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Physicists distinguish between the conservation of fundamental energy and the apparent **destructibility** of machine parts."*

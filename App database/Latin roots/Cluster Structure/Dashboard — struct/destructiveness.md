@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of causing destruction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of causing destruction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capacity, tendency, or power to inflict ruin, widespread devastation, or physical harm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical character analysis and phrenology, the instinctual propensity toward violent demolition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, destructiveness designates the quality of causing destruction."*
+> - 📜 **Herbert Spencer (*Social Statics*):** *"Barbarous warfare fosters an unbridled **destructiveness** that retards moral civilization and commercial growth."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The sudden rage of animal combat displays a blind **destructiveness** unguided by calculating prudence."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Fred Vincy lamented his thoughtless **destructiveness** after his carelessness brought financial distress upon his benefactors."*

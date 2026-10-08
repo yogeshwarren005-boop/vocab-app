@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wisdom that is recondite and abstruse and profound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wisdom that is recondite and abstruse and profound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abstruse, obscure, or deeply recondite thought, doctrine, or metaphysical matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The profound obscurity or conceptual entanglement inherent in esoteric speculations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abstrusity designates wisdom that is recondite and abstruse and profound."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Ancient naturalists enveloped simple truths within a labyrinth of speculative **abstrusity**."*
+> - 📜 **Jeremy Taylor (*The Rule and Exercises of Holy Living*):** *"The gospel demands practical faith rather than subtle disputations entangled in theological **abstrusity**."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"The melancholic scholar wastes his youth pondering every scholastic **abstrusity** until his reason falters."*

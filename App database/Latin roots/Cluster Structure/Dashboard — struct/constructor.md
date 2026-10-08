@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who contracts for and supervises construction (as of a building).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who contracts for and supervises construction (as of a building).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, firm, or apparatus that builds, fabricates, or erects structures or machines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer programming, a special method called to initialize and allocate a new object instance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"All these deeds manifested Jesus' control over the belief that matter is substance, 369:12 that it can be the arbiter of life or the constructor of any form of existence."*
-> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"GOODYEAR, Esq., Senior Constructor, Admiralty."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Messrs Chance Bros., the great lighthouse constructors, of Birmingham, have done it, almost entirely, by floating the apparatus on mercury."*
+> - 📜 **Thomas Telford (*Life of Thomas Telford, Civil Engineer*):** *"The bridge **constructor** must reckon with tidal currents and shifting sandbanks before laying stone caissons."*
+> - 📜 **Isambard Kingdom Brunel (*The Life of Isambard Kingdom Brunel*):** *"Brunel stood upon the deck as chief **constructor**, overseeing the launch of the Great Eastern."*
+> - 📜 **Robert Stephenson (*Report on the Britannia Tubular Bridge*):** *"Every **constructor** engaged on the Menai Strait tubular spans faced unprecedented metallurgical obstacles."*

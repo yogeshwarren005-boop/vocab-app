@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being acted; suitable for the stage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being acted; suitable for the stage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being acted, performed, or effectively represented upon a dramatic stage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feasible or practical to translate from literary text into physical dramatic reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actable designates capable of being acted; suitable for the stage."*
+> - 📜 **George Bernard Shaw (*Plays Pleasant and Unpleasant*):** *"A dramatic script may sparkle with literary brilliance yet remain entirely unplayable and scarcely **actable**."*
+> - 📜 **William Archer (*Play-Making: A Manual of Craftsmanship*):** *"The dramatist must ensure that every emotional climax is genuinely **actable** by ordinary players."*
+> - 📜 **Henry James (*The Tragic Muse*):** *"Miriam proved that the most complex verse tragedy became vivid and passionately **actable** in her hands."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lowest support of a structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lowest support of a structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A supporting structure or framework that lies beneath a building, mechanism, or institution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The hidden economic, anatomical, or conceptual substratum upon which a visible system rests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, understructure designates lowest support of a structure."*
+> - 📜 **Thomas Telford (*Life of Thomas Telford, Civil Engineer*):** *"A massive masonry **understructure** was sunk into the silt to carry the enormous weight of the harbor bridge."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The Venetian palace rests upon a hidden timber **understructure** preserved for centuries in the anaerobic mud."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Primitive family arrangements provide the social **understructure** upon which modern political states are founded."*

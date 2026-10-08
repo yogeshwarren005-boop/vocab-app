@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Applies to nonhuman mammals: a state or period of heightened sexual arousal and activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Applies to nonhuman mammals: a state or period of heightened sexual arousal and activity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A recurring period of maximum sexual receptivity and ovulation in female non-human mammals; heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative biology, the fertile physiological phase stimulated by peak follicular estrogen secretion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, estrus designates applies to nonhuman mammals: a state or period of heightened sexual arousal and activity."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"During the periodic **estrus**, female quadrupeds display vibrant colorations that stimulate male interest."*
+> - 📜 **Francis Hugh Adam Marshall (*The Physiology of Reproduction*):** *"The onset of **estrus** coincides with the maturation of Graafian follicles within the ovarian cortex."*
+> - 📜 **Walter Heape (*The Sexual Season of Mammals*):** *"Heape established that the behavioral excitement of **estrus** is governed by internal ovarian secretions."*

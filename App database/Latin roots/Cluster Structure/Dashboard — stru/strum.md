@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sound of strumming.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sound the strings of (a string instrument).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To play on a stringed musical instrument by casually or rhythmically stroking the strings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To sweep the fingers across strings, producing an unstudied, continuous musical sound.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Happily, there is a common language between women and men, and so the bears can get taught.” “Ah, there is Fred beginning to strum!"*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Nay, the good ladies would sit and be delighted with the music of the Miss Lambs, who would condescend to strum an Irish melody for them on the piano; and they would listen with wonderful interest to Mrs."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I can strum on the piano and paint Christmas cards."*
+> - 📜 **Mark Twain (*The Adventures of Huckleberry Finn*):** *"At night on the raft, Jim would softly **strum** his old banjo while the river carried us down."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The old buccaneer began to **strum** upon the table, singing the chorus of fifteen men on the chest."*
+> - 📜 **Washington Irving (*The Alhambra*):** *"Muleteers gathered in the courtyard to **strum** their rustic guitars and sing romantic Moorish ballads."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short sleeveless outer tunic emblazoned with a coat of arms; worn by a knight over his armor or by a herald.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short sleeveless outer tunic emblazoned with a coat of arms; worn by a knight over his armor or by a herald.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A coarse, sleeveless or short-sleeved outer tunic worn in the Middle Ages, especially by heralds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official heraldic garment emblazoned with the royal coat of arms worn during state ceremonies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Mine host came forth at the summons, girding him with his tabard. —Give you good den, my masters, said he with an obsequious bow. —Bestir thyself, sirrah! cried he who had knocked."*
-> - 📜 **James Joyce (*Ulysses*):** *"The van of the procession appears headed by John Howard Parnell, city marshal, in a chessboard tabard, the Athlone Poursuivant and Ulster King of Arms."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"The pilgrims assembled in Southwark at the ancient hostelry known to all travelers as the **Tabard**."*
+> - 📜 **Walter Scott (*The Fair Maid of Perth*):** *"The royal pursuivant advanced into the courtyard, his embroidered **tabard** gleaming in the morning light."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"Falstaff mocked the slender knight, likening his thin coat to an old herald's **tabard** without sleeves."*

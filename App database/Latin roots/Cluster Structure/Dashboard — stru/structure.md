@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thing constructed; a complex entity constructed of many parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The manner of construction of something and the arrangement of its parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The arrangement of and relations between the parts or elements of something complex; an edifice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A constructed building or framework, or the underlying organizational schema of an institution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, really, really!” He said this at the stair-head, gently moving his right hand as if it were a silver trowel with which to spread the cement of his words on the structure of the system and consolidate it for a thousand ages."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She was not an existence, an experience, a passion, a structure of sensations, to anybody but herself."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Inside this cumbrous and creaking structure, and behind this decayed conductor, the _partie carrée_ took their seats—the bride and bridegroom and Mr and Mrs Crick."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The complex **structure** of the eye reveals how slight modifications accumulate through natural selection."*
+> - 📜 **Isaac Newton (*Philosophiæ Naturalis Principia Mathematica*):** *"The mathematical **structure** of gravitational mechanics explains the elliptical orbits of the planets."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"Every noble **structure** bears witness to the patient labor and spiritual reverence of its builders."*

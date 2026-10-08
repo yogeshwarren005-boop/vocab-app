@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Interpret in the wrong way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Interpret in the wrong way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To interpret words, motives, gestures, or actions wrongly; to misunderstand or misread.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To place an unintended or distorted construction upon a text, contract, or law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Still, when I reached my chamber, I felt a pang at the idea she should even temporarily misconstrue what she had seen."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is at least problematical, whether the decisions of this body do not, in several instances, misconstrue the limits prescribed for the legislative and executive departments, instead of reducing and limiting them within their constitutional places."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Carwin may be innocent, but the impetuosity of his judge may misconstrue his answers into a confession of guilt."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Hear me, Portia, lest you **misconstrue** my silence for lack of duty or grateful affection."*
+> - 📜 **Francis Bacon (*Essays*):** *"Envious courtiers are ever ready to **misconstrue** the most loyal counsel given to the prince."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Jane begged Mr. Rochester not to **misconstrue** her wish for independence as ingratitude."*

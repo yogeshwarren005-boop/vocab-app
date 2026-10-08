@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone you dine with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone you dine with.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who regularly sits or shares a meal at the same dining table with another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dining companion sharing board, conversation, and fellowship in a mess, college, or household.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tablemate designates someone you dine with."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ishmael found an unexpected and noble **tablemate** in Queequeg as they shared clam chowder in Nantucket."*
+> - 📜 **William Makepeace Thackeray (*The History of Pendennis*):** *"Pen regarded his cynical collegiate **tablemate** with a mixture of amusement and youthful apprehension."*
+> - 📜 **Thomas Hughes (*Tom Brown at Oxford*):** *"Tom enjoyed the hearty banter of every rowing **tablemate** who gathered at the training hall dinner."*

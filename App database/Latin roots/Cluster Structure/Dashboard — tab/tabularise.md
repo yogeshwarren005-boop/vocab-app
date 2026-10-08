@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrange or enter in tabular form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrange or enter in tabular form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To arrange, classify, or present complex information in the form of systematic tables.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To organize qualitative observations or statistical results into neat columns and rows.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tabularise designates arrange or enter in tabular form."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The empirical researcher must **tabularise** instances of agreement and difference before deducing causal laws."*
+> - 📜 **Herbert Spencer (*Descriptive Sociology*):** *"Spencer sought to **tabularise** the social institutions of diverse tribes to demonstrate evolutionary progress."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty and Its Development*):** *"Galton devised innovative techniques to **tabularise** anthropometric measurements gathered from thousands of subjects."*

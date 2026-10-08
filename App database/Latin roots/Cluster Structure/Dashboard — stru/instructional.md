@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or used in instruction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or used in instruction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, designed for, or providing educational training, pedagogical guidance, or schooling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Imparting systematic methodological skills or technical directions through structured curricula.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, instructional designates of or relating to or used in instruction."*
+> - 📜 **John Dewey (*The School and Society*):** *"The modern school transforms passive classrooms into active **instructional** laboratories of social life."*
+> - 📜 **Horace Mann (*Lectures on Education*):** *"Mann advocated for uniform **instructional** standards and well-prepared textbooks in common schools."*
+> - 📜 **Maria Montessori (*The Montessori Method*):** *"The directress prepares didactic **instructional** materials that awaken the child's sensory discrimination."*

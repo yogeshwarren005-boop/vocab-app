@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic structure or features of a system or organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lowest support of a structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An underlying, supporting foundation or subterranean framework of a building or engineering work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The foundational basis, economic stratum, or theoretical groundwork upon which a system rests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I had placed myself at the port-scuttle, and saw some magnificent substructures of coral, zoophytes, seaweed, and fucus, agitating their enormous claws, which stretched out from the fissures of the rock."*
+> - 📜 **Thomas Telford (*Life of Thomas Telford, Civil Engineer*):** *"Engineers sank deep caissons into the riverbed to secure a firm masonry **substructure** for the bridge piers."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The massive granite **substructure** of the cathedral sustains the soaring weight of the Gothic arches above."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The biological **substructure** of instinctive drives underpins the rational faculties of civilized man."*

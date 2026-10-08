@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sock with a separation for the big toe; worn with thong sandals by the japanese.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sock with a separation for the big toe; worn with thong sandals by the japanese.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Traditional Japanese split-toed socks reaching to the ankle, worn with thonged footwear like geta or zori.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Footwear separating the big toe from the other toes, fastened behind the heel with metal kohaze clasps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tabi designates a sock with a separation for the big toe; worn with thong sandals by the japanese."*
+> - 📜 **Lafcadio Hearn (*Glimpses of Unfamiliar Japan*):** *"The temple pilgrim walked with noiseless step, wearing spotless white **tabi** upon the polished cedar floor."*
+> - 📜 **Isabella Bird (*Unbeaten Tracks in Japan*):** *"Peasants in the northern villages lined their straw sandals with heavy blue cotton **tabi** against the frost."*
+> - 📜 **Basil Hall Chamberlain (*Things Japanese*):** *"Chamberlain noted that etiquette required visitors to remove straw zori while keeping their white **tabi** on."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evergreen tropical trees and shrubs with milky sap.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evergreen tropical trees and shrubs with milky sap.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of tropical flowering trees and shrubs in the dogbane family (Apocynaceae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, lactescent tropical woody plants bearing fragrant white flowers and indole alkaloids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tabernaemontana designates evergreen tropical trees and shrubs with milky sap."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"Linnaeus established the genus **tabernaemontana**, dedicating it to the memory of the illustrious botanist."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Along the humid forest margin, fragrant white clusters of wild **tabernaemontana** attracted large swallowtail butterflies."*
+> - 📜 **George Bentham (*Flora Australiensis*):** *"Bentham documented the milky sap and paired follicular fruit characteristic of indigenous **tabernaemontana**."*

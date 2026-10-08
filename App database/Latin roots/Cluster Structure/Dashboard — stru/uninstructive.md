@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing to instruct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failing to instruct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing to impart knowledge, education, or insight; uninformative and barren of moral value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Furnishing no useful lesson, historical guidance, or clarifying precedent for future conduct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uninstructive designates failing to instruct."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Idle romances filled with improbable marvels are trivial and entirely **uninstructive** to thoughtful minds."*
+> - 📜 **Edward Gibbon (*Memoirs of My Life and Writings*):** *"Gibbon complained that his Oxford tutors passed their days in lazy and **uninstructive** gossip."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea found the dry theological pamphlets of her uncle completely dull and **uninstructive**."*

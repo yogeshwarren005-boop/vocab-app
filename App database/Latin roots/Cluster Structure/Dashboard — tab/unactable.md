@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not actable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not actable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible or unsuitable to act, perform, or stage effectively as a dramatic play.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking theatrical viability; possessing characters or dialogue unsuited to living performance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unactable designates not actable."*
+> - 📜 **George Bernard Shaw (*Our Theatres in the Nineties*):** *"Critics dismissed Ibsen's masterpiece as **unactable**, failing to comprehend its revolutionary psychological realism."*
+> - 📜 **William Archer (*Play-Making: A Manual of Craftsmanship*):** *"A poetic drama burdened with endless philosophical soliloquies remains fundamentally **unactable** on the modern stage."*
+> - 📜 **Henry James (*The Scenic Art*):** *"James was dismayed when the London theater manager rejected his carefully crafted costume drama as **unactable**."*

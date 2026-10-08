@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to anabolism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to anabolism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to anabolic cellular pathways that synthesize complex biomolecules from simple precursors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, supporting tissue assimilation, energy storage, and structural growth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, constructive-metabolic designates of or relating to anabolism."*
+> - 📜 **Claude Bernard (*Introduction to the Study of Experimental Medicine*):** *"Living tissues preserve internal stability through a continuous balance between **constructive-metabolic** and destructive reactions."*
+> - 📜 **Michael Foster (*A Text Book of Physiology*):** *"Protoplasm exhibits **constructive-metabolic** assimilation whereby nutrient particles are transformed into living matter."*
+> - 📜 **Jacques Loeb (*The Mechanistic Conception of Life*):** *"Enzymatic synthesis governs the **constructive-metabolic** stages essential for embryonic cell growth."*

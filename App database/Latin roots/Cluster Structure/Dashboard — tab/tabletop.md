@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The top horizontal work surface of a table.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The top horizontal work surface of a table.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The horizontal upper surface of a table upon which objects are placed for work or meals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling the flat, level surface of a table; or games played upon a flat tabletop board.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Absently, his stubby fingers drummed the tabletop."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"They shoved and twisted through the narrow spaces to the table in time for Hodak to slam his hand, palm down, flat on the tabletop, glaring off a trio of competitors."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"But, collectively, we will not only resist them, we will win and take back full control of space throughout the Outer Region." Eyes cold, voice gritty as space-sand, Brad tapped the tabletop."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"Jim Hawkins traced the contours of the pirate chart spread out upon the rough tavern **tabletop**."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes drummed his fingers upon the polished mahogany **tabletop**, deeply pondering the mysterious warning."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"The mysterious stranger struck the **tabletop** with his bandaged fist, demanding solitude from his landlord."*

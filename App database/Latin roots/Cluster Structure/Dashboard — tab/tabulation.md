@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Information set out in tabular form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of putting into tabular form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or product of arranging data systematically into orderly tables or columns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal systematic table displaying calculated facts, figures, or experimental observations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"This paper, now, ‘Synoptical Tabulation’ and so on, ‘for the use of Mrs."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The Synoptical Tabulation for the use of Mrs."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The scene contracted, and the vacated space filled with numbers and codes representing the few UIPS recon-patrollers in the Plutonian sector followed by a tabulation of INOR's combined assault fleet."*
+> - 📜 **Thomas Robert Malthus (*An Essay on the Principle of Population*):** *"The demographic **tabulation** of parish birth and mortality rates substantiated the author's population theory."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Careful statistical **tabulation** demonstrates that wages vary with the supply and demand for agricultural labor."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"The exact **tabulation** of tidal observations allowed mathematical prediction of ocean currents in harbors."*

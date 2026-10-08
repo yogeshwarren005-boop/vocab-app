@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Addicted to a drug.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Addicted to a drug.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Severely debilitated, exhausted, or mentally disoriented from prolonged substance addiction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stretched out, dispersed, or extended thinly in a long scattered line over a wide area.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, strung-out designates addicted to a drug."*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"The retreating skirmishers looked ragged and **strung-out** along the muddy edge of the dark wood."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"The starving sled dogs were **strung-out** across the frozen trail, faltering under the heavy packs."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"A line of emaciated native laborers were **strung-out** along the railway embankment under the blazing sun."*

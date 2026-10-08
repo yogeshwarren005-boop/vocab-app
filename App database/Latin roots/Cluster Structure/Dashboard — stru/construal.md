@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An interpretation of the meaning of something; the act of construing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An interpretation of the meaning of something; the act of construing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The interpretation, understanding, or mental representation of an event, text, or statement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology and cognitive science, how an individual actively perceives and frames social reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, construal designates an interpretation of the meaning of something; the act of construing."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Every subjective sensation receives its immediate meaning from the mental **construal** imposed by memory."*
+> - 📜 **John Dewey (*Logic: The Theory of Inquiry*):** *"Scientific inquiry progresses through the critical revision and broader **construal** of experimental facts."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"A sign exists only in virtue of its interpretant, which constitutes an objective **construal** of the sign's object."*

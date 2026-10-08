@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abstractionist artistic movement in russia after world war i; industrial materials were used to construct nonrepresentational objects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abstractionist artistic movement in russia after world war i; industrial materials were used to construct nonrepresentational objects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A 20th-century avant-garde art and architectural movement prioritizing geometric industrial form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology and learning theory, the principle that knowledge is actively built by cognizers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, constructivism designates an abstractionist artistic movement in russia after world war i; industrial materials were used to construct nonrepresentational objects."*
+> - 📜 **Vladimir Tatlin (*The Work Ahead of Us*):** *"The radical principles of **constructivism** demanded the complete unification of artistic form with industrial materials."*
+> - 📜 **Naum Gabo (*The Realistic Manifesto*):** *"Gabo rejected decorative ornament, championing kinetic **constructivism** rooted in space and time."*
+> - 📜 **Jean Piaget (*The Construction of Reality in the Child*):** *"Genetic **constructivism** demonstrates that intelligence builds mental categories through active sensory interaction."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mormon temple.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (judaism) a portable sanctuary in which the jews carried the ark of the covenant on their exodus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A temporary dwelling, tent, or booth; especially the portable sanctuary used by the ancient Israelites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ornamental locked receptacle placed upon a Christian altar to house the consecrated Eucharist.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"At one of the prayer-meetings at the Brooklyn tabernacle, Mr."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Using the symbolism of the Hebrew religion and its tabernacle, he compares Jesus to the High Priest, but Jesus, he says, does not enter into the holiest alone."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"It was his grimmest deed since the days when he had brought Barbecue to heel; and knowing as we do how vain a tabernacle is man, could we be surprised had he now paced the deck unsteadily, bellied out by the winds of his success?"*
+> - 📜 **King James Bible (*Book of Exodus*):** *"Moses reared up the **tabernacle**, fastened its sockets, set up the boards thereof, and put in the bars."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The Lord descending made the sacred **tabernacle** his dwelling place amid the wandering tribes of Israel."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The golden vessels of the Jewish **tabernacle** were carried through Rome in the triumphal procession of Titus."*

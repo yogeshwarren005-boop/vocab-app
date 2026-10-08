@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in western tanzania.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in western tanzania.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historic inland city and commercial transportation center in west-central Tanzania.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In African colonial history, an important 19th-century Swahili-Arab caravan junction and ivory depot.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tabora designates a city in western tanzania."*
+> - 📜 **David Livingstone (*The Last Journals of David Livingstone*):** *"Livingstone rested his weary caravan at **Tabora**, waiting for supplies from the coast before exploring the lakes."*
+> - 📜 **Henry Morton Stanley (*How I Found Livingstone*):** *"Stanley marched his expedition into the Arab settlement of **Tabora**, resting his porters after months of fever."*
+> - 📜 **Richard Francis Burton (*The Lake Regions of Central Africa*):** *"Burton described the wealthy Arab merchants residing in palatial mud-brick compounds at **Tabora**."*

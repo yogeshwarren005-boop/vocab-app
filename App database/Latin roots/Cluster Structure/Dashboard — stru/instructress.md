@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman instructor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman instructor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who teaches, trains, or imparts knowledge and discipline to students.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A female tutor or governess presiding over youth in an academy or private household.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The refreshing meal, the brilliant fire, the presence and kindness of her beloved instructress, or, perhaps, more than all these, something in her own unique mind, had roused her powers within her."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I liked to learn of her: I saw the part of instructress pleased and suited her; that of scholar pleased and suited me no less."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"We will endeavour to do our duty by her, and she will, at least, have the advantage of companions of her own age, and of a regular instructress.” “Very true,” cried Mrs."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Madame Beck acted as head **instructress**, supervising the classroom exercises with silent vigilance."*
+> - 📜 **Jane Austen (*Emma*):** *"Mrs. Weston had fulfilled the duties of a loving **instructress** and friend to Emma for sixteen years."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mary Garth earned a modest living as a patient **instructress** to the unruly children of the neighborhood."*

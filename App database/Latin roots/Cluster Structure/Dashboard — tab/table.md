@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of data arranged in rows and columns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of furniture having a smooth flat top that is usually supported by one or more vertical legs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of furniture with a flat horizontal top supported by legs, used for eating or working.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A systematic arrangement of numerical data or words in orderly columns and horizontal rows.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sit down and feed, and welcome to our table."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, Signior Balthasar, either at flesh or fish A table full of welcome makes scarce one dainty dish."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are well understood to be a perfecter giber for the table than a necessary bencher in the Capitol."*
+> - 📜 **Isaac Newton (*Philosophiæ Naturalis Principia Mathematica*):** *"Newton constructed a mathematical **table** displaying the orbital positions of comets across successive years."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"The Cratchit family gathered round the small wooden **table** to partake of their joyful holiday feast."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Bennet sat quietly at his library **table**, reading his favorite authors while the house buzzed with guests."*

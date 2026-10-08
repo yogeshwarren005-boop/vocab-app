@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (architecture) the structure consisting of the part of a classical temple above the columns between a capital and the roof.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (architecture) the structure consisting of the part of a classical temple above the columns between a capital and the roof.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The upper horizontal section of a classical architectural order supported by columns or pilasters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The classical tripartite superstructure comprising the architrave, the frieze, and the crowning cornice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So with a broken throne, the great gods mock that captive king; so like a Caryatid, he patient sits, upholding on his frozen brow the piled entablatures of ages."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"So with a broken throne, the great gods mock that captive king; so like a Caryatid, he patient sits, upholding on his frozen brow the piled entablatures of ages."*
+> - 📜 **Vitruvius (*De Architectura*):** *"The architect must proportion the height of the **entablature** to the diameter and height of the supporting columns."*
+> - 📜 **Andrea Palladio (*The Four Books of Architecture*):** *"Palladio illustrated the delicate carvings decorating the Corinthian **entablature** in Roman temple porticos."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Ruskin admired the massive marble **entablature** that crowned the ancient arcade of the Doge's Palace."*

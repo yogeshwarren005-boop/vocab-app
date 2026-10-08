@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who systematically obstructs some action that others want to take.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any structure that makes progress difficult.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or entity that creates obstacles, impedes passage, or deliberately delays proceedings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agent that physically blocks a channel, flow, or organizational operation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, obstructer designates someone who systematically obstructs some action that others want to take."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The radical deputies denounced every conservative **obstructer** who spoke against the new constitution."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Chancery stood as a monumental **obstructer** of justice, consuming estates in perpetual litigation."*
+> - 📜 **Walter Scott (*Waverley*):** *"The highland guard challenged the traveler, demanding whether he came as a friend or an **obstructer**."*

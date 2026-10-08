@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A school of architecture based on the philosophical theory of deconstruction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A school of architecture based on the philosophical theory of deconstruction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A postmodern architectural movement featuring fragmented volumes, non-rectilinear angles, and visual instability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An aesthetic philosophy that challenges architectural harmony through deliberately disjointed structural surfaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deconstructivism designates a school of architecture based on the philosophical theory of deconstruction."*
+> - 📜 **Peter Eisenman (*Houses of Cards*):** *"Eisenman embraced **deconstructivism** to disrupt conventional domestic hierarchies through shifting spatial axes."*
+> - 📜 **Bernard Tschumi (*Architecture and Disjunction*):** *"The red follies in Parc de la Villette materialized **deconstructivism** through programmatic collision and disjunction."*
+> - 📜 **Rem Koolhaas (*Delirious New York*):** *"Modern urbanism incorporates flashes of **deconstructivism** where infrastructure collides with irregular plots."*

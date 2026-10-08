@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking definite structure or organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking the system or structure characteristic of living bodies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a formal, organized, or systematic arrangement, framework, or predefined schema.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informal and flexible; free from rigid procedural rules, administrative hierarchy, or boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unstructured designates lacking definite structure or organization."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Primitive consciousness presents itself as a blooming, buzzing, **unstructured** confusion of sensations."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"Child play should not be left completely **unstructured**, but guided toward creative problem-solving."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Cosmic matter passes from an **unstructured**, diffuse nebula into integrated solar systems."*

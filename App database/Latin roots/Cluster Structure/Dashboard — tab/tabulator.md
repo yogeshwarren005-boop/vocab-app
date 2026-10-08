@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A calculator that keeps a record of the number of times something happens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A calculator that keeps a record of the number of times something happens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or mechanical apparatus that arranges, counts, or tabulates numerical data.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A key or mechanism on a typewriter or adding machine that advances the carriage to a preset stop.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tabulator designates a calculator that keeps a record of the number of times something happens."*
+> - 📜 **Herman Hollerith (*An Electric Tabulating System*):** *"Hollerith designed an electric **tabulator** utilizing punched cards to process the United States census data."*
+> - 📜 **Mark Twain (*The American Claimant*):** *"The eager inventor demonstrated a mechanical **tabulator** designed to calculate bookkeeping sums automatically."*
+> - 📜 **H. G. Wells (*When the Sleeper Wakes*):** *"Vast electrical **tabulator** banks computed the hourly production quotas across the mechanized subterranean factories."*

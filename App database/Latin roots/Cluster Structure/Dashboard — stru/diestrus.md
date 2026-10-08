@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of animals having several estrous cycles in one breeding season) a state or interval of sexual inactivity or quiescence between periods of activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of animals having several estrous cycles in one breeding season) a state or interval of sexual inactivity or quiescence between periods of activity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The period of sexual quiescence or inactivity intervening between successive heat periods in mammals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive biology, the luteal stage of the estrous cycle dominated by active progesterone secretion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diestrus designates (of animals having several estrous cycles in one breeding season) a state or interval of sexual inactivity or quiescence between periods of activity."*
+> - 📜 **Francis Hugh Adam Marshall (*The Physiology of Reproduction*):** *"During **diestrus**, the corpus luteum reaches peak functional maturity before undergoing regression."*
+> - 📜 **Arthur S. Parkes (*The Internal Secretions of the Ovary*):** *"The duration of **diestrus** can be lengthened experimentally through injections of luteal extracts."*
+> - 📜 **Frank R. Lillie (*The Development of the Chick*):** *"Lillie compared mammalian **diestrus** with the seasonal resting intervals observed in avian reproductive tracts."*

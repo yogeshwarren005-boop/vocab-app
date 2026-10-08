@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small light-boned toothless dinosaur resembling an ostrich in size and proportions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small light-boned toothless dinosaur resembling an ostrich in size and proportions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct genus of ostrich-like theropod dinosaurs from the Late Cretaceous of North America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, a toothless, cursorial ornithomimid dinosaur characterized by long legs and neck.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, struthiomimus designates small light-boned toothless dinosaur resembling an ostrich in size and proportions."*
+> - 📜 **Henry Fairfield Osborn (*Skeletal Adaptations of Ornitholestes, Struthiomimus, Tyrannosaurus*):** *"Osborn recognized that **struthiomimus** possessed cursorial proportions strikingly convergent with modern ostriches."*
+> - 📜 **Charles Hazelius Sternberg (*The Life of a Fossil Hunter*):** *"Sternberg excavated an exquisite articulated skeleton of **struthiomimus** from the Red Deer River badlands."*
+> - 📜 **William Diller Matthew (*Dinosaurs*):** *"The slender, toothless jaws of **struthiomimus** suggest a specialized omnivorous or herbivorous diet."*

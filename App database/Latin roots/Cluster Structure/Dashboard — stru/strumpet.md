@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman adulterer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman adulterer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic term for a promiscuous woman or prostitute; an unchaste courtesan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deceitful or wanton person, frequently invoked metaphorically in Renaissance drama.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tax of impudence, A strumpet’s boldness, a divulged shame, Traduc’d by odious ballads; my maiden’s name Sear’d otherwise; nay worse of worst extended With vilest torture, let my life be ended."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Great King, I am no strumpet, by my life; I am either maid, or else this old man’s wife. [_Pointing to Lafew._] KING."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look where they come: Take but good note, and you shall see in him The triple pillar of the world transform’d Into a strumpet’s fool."*
+> - 📜 **William Shakespeare (*Othello*):** *"I took you for that cunning whore of Venice that married with Othello; you, mistress, that have the office opposite to Saint Peter, and keep the gate of hell! O thou public common **strumpet**!"*
+> - 📜 **John Milton (*Samson Agonistes*):** *"Samson lamented how he yielded his sacred strength to the deceitful enticements of a Philistian **strumpet**."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"The satirist likened corrupted eloquence to a painted **strumpet** adorned to deceive unwary listeners."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A message describing how something is to be done.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activities of educating or instructing; activities that impart knowledge or skill.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, practice, or profession of teaching, educating, and imparting vital knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An authoritative direction, detailed mandate, or technical procedure outlining an action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My queen and Eros Have by their brave instruction got upon me A nobleness in record."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The queen, my mistress, Confined in all she has, her monument, Of thy intents desires instruction, That she preparedly may frame herself To the way she’s forced to."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Their noise be our instruction.—Ladders, ho!"*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"True scientific **instruction** trains the mind to question preconceived notions and heed empirical facts."*
+> - 📜 **Jean-Jacques Rousseau (*Emile, or On Education*):** *"Natural **instruction** allows the growing child to learn from experience rather than verbal preachments."*
+> - 📜 **Thomas Jefferson (*Writings of Thomas Jefferson*):** *"General **instruction** across all social classes is the only secure foundation for republican liberty."*

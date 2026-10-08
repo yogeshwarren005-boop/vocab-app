@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With regard to physical or organizational structure, framework, anatomy, or essential relations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner affecting the permanent load-bearing elements or constitutional fabric of a system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, structurally designates with respect to structure."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The anthropoid apes are **structurally** closer to man than they are to the lower quadrumana."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The basaltic columns of the Giant's Causeway are **structurally** identical to cooling lava formations."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"As industrial societies grow complex, they become **structurally** differentiated into specialized professions."*

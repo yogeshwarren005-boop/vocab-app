@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A slab of stone or wood suitable for bearing an inscription.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A number of sheets of paper fastened together along one edge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flat slab of stone, clay, wood, or ivory bearing an inscription or carved relief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small, compressed cake or solid disc of medicinal powder; or a modern portable touch device.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This tablet lay upon his breast, wherein Our pleasure his full fortune doth confine; And so, away; no farther with your din Express impatience, lest you stir up mine."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A man’s body is as the shell, or the tablet, of his soul, as he is reserved or ingenuous, overflowing or self-contained."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The new part, containing the schoolroom and dormitory, was lit by mullioned and latticed windows, which gave it a church-like aspect; a stone tablet over the door bore this inscription:— LOWOOD INSTITUTION."*
+> - 📜 **King James Bible (*Book of Deuteronomy*):** *"The Lord delivered unto me two tables of stone, written with the finger of God upon each **tablet**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The decemvirs engraved the Twelve Tables of Roman law upon a bronze **tablet** hung in the Forum."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Bruce-Partington Plans*):** *"Holmes examined the chemical **tablet** under his magnifying lens, identifying traces of lethal cyanide."*

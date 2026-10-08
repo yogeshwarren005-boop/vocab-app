@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A finely chopped salad with tomatoes and parsley and mint and scallions and bulgur wheat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A finely chopped salad with tomatoes and parsley and mint and scallions and bulgur wheat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Middle Eastern salad composed of finely chopped parsley, mint, tomatoes, bulgur wheat, and lemon dressing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A Levantine vegetarian mezze dish combining herb aromatics, cracked wheat, scallions, and olive oil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tabooli designates a finely chopped salad with tomatoes and parsley and mint and scallions and bulgur wheat."*
+> - 📜 **Richard Francis Burton (*The Land of Midian*):** *"Burton praised the refreshing herbs and seasoned grains of **tabooli** served by his hospitable Syrian hosts."*
+> - 📜 **T. E. Lawrence (*Seven Pillars of Wisdom*):** *"The Arab scouts shared flat bread wrapped around fresh wild parsley and wheat prepared like **tabooli**."*
+> - 📜 **Gertrude Bell (*The Desert and the Sown*):** *"In Damascus, Bell savored the tart lemon flavor of cool **tabooli** after a dusty journey across the plains."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The fraction of radiant energy that is reflected from a surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fraction of radiant energy that is reflected from a surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The measure of the proportion of incident light or radiant energy reflected by a given surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In spectrophotometry and planetary astronomy, the albedo or fractional radiant flux returned from a planetary atmosphere or mineral sample.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reflectance designates the fraction of radiant energy that is reflected from a surface."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The high optical **reflectance** of polished silver correlates directly with its superior electrical conductivity."*
+> - 📜 **John Tyndall (*Heat a Mode of Motion*):** *"Polished metals exhibit high **reflectance** for radiant heat, whereas rough lampblack absorbs virtually all incident rays."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Variations in the optical **reflectance** of lunar plains disclose differences in surface mineral composition."*

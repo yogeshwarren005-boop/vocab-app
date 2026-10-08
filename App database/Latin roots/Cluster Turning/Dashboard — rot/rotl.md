@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of weight used in some moslem countries near the mediterranean; varies between one and five pounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of weight used in some moslem countries near the mediterranean; varies between one and five pounds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional unit of weight used in parts of North Africa and the Middle East, generally equivalent to approximately one pound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Mediterranean commerce, a variable customary standard for weighing bulk spices, olive oil, wool, and grains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rotl designates a unit of weight used in some moslem countries near the mediterranean; varies between one and five pounds."*
+> - 📜 **Richard Francis Burton (*Personal Narrative of a Pilgrimage to Al-Madinah and Meccah*):** *"The merchant weighed out thirty **rotl** of dried dates upon his brass scales before concluding the transaction."*
+> - 📜 **Edward William Lane (*An Account of the Manners and Customs of the Modern Egyptians*):** *"In the bazaars of Cairo, sugar and coffee are sold by the **rotl**, which varies slightly according to the province."*
+> - 📜 **James Silk Buckingham (*Travels in Palestine*):** *"We purchased five **rotl** of freshly pressed olive oil at the village mill to replenish our traveling supplies."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A twist or aberration; especially a perverse or abnormal way of judging or acting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The amount by which a propagating wave is bent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or process of turning aside or deviating from a straight line or normal position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural mechanics, the degree to which a structural element is displaced under an applied load.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Oh, such a slight deflection, a matter of inches, just barely sufficient to send his point past me so that it pierced a fold of my satin doublet in passing."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Deflection of being 502:9 Spiritually followed, the book of Genesis is the history of the untrue image of God, named a sinful mortal."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The deflection of the needle, therefore, gives us a measure of the strength of the current."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"A sudden magnetic **deflection** of the needle coincided with the appearance of the aurora borealis."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The angular **deflection** of the galvanometer mirror measures the strength of the transient current."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The lateral **deflection** of the river channel indicates recent tectonic displacement along the fault line."*

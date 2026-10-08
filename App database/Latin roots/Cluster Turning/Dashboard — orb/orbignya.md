@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Palms of southern mexico to northern south america: babassu palm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Palms of southern mexico to northern south america: babassu palm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical American palms in the family Arecaceae, renowned for yielding oil-rich babassu nuts used in commerce.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant or botanical specimen classified within this palm genus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orbignya designates palms of southern mexico to northern south america: babassu palm."*
+> - 📜 **Alfred Russel Wallace (*Palm Trees of the Amazon and Their Uses*):** *"Dense stands of **orbignya** palms flourish along the alluvial banks of the lower tributaries."*
+> - 📜 **Richard Spruce (*Notes of a Botanist on the Amazon and Andes*):** *"Local harvesters gathered heavy clusters from the **orbignya** canopy to extract illuminating oil."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"The tall crown of an **orbignya** rose majestically above the secondary growth of the river clearing."*

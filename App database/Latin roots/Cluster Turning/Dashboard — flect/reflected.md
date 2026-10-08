@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Manifest or bring back.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reflect deeply on a subject.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thrown back from a surface without absorption, as light, sound, or heat waves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arising as an indirect result of someone else's achievements, status, or reputation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You may be sure that I should not tell you if I did not have to," Loneli added, "because it makes me so sad." Mea reflected a moment, wondering what she had really done."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"At first I was in two minds about taking such a liberty, but I soon reflected that nobody in the house was likely to notice it."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I will not dwell on the suspense and anxiety with which I reflected all this time that we were leaving my mother farther and farther behind every minute."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In doing so he caught sight of his **reflected** features, wan in expression, and insubstantial in form."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Sometimes, indeed, she had **reflected** that Dodo would perhaps not make a husband happy who had not her way of looking at things."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"There he paused, seeing the flash of the bull's-eye **reflected** in the window."*

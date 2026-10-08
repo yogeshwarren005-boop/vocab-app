@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being flexed (as of a joint).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deviation from a straight or normal course.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of bending a limb or joint, decreasing the angle between the articulating bones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A curved formation, bend, or anatomical fold in an organ or physical structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor does this—its amazing strength, at all tend to cripple the graceful flexion of its motions; where infantileness of ease undulates through a Titanism of power."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Nor does this—its amazing strength, at all tend to cripple the graceful flexion of its motions; where infantileness of ease undulates through a Titanism of power."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Such is the subtle elasticity of the organ I treat of, that whether wielded in sport, or in earnest, or in anger, whatever be the mood it be in, its flexions are invariably marked by exceeding grace."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"With a sudden **flexion** of his flukes, the great whale sounded into the unfathomable depths."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The biceps produces rapid **flexion** of the forearm upon the brachium."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"During dorsal **flexion** of the foot, the anterior tibial muscle is felt contracting beneath the skin."*

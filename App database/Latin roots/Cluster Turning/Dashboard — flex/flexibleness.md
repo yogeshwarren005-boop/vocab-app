@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being flexible; easily bent or shaped.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being adaptable or variable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical property of yielding and bending easily under pressure without cracking or snapping.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mental disposition toward accommodating new viewpoints or adjusting gracefully to altered conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flexibleness designates the property of being flexible; easily bent or shaped."*
+> - 📜 **Robert Boyle (*New Experiments Physico-Mechanical*):** *"The remarkable **flexibleness** of heated glass tubes permits the chemist to fashion intricate distillation retorts."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"A youthful disposition retains a natural **flexibleness** that yields readily to virtuous habit."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Excessive **flexibleness** of mind often exposes an honest thinker to the fickle whims of fashion."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capability of quiet thought or contemplation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capability of quiet thought or contemplation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The disposition or habit of meditating deeply, introspecting, or contemplating matters thoughtfully.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physical capacity or property of an optical surface to cast back radiant rays or light.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"When expressed with some amount of reflectiveness it seems co-ordinate with a belief that this flattery must be reasonable to be effective."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Symbols of reflectiveness passed into her face, and a note of tragedy at times into her voice."*
-> - 📜 **George Eliot (*Middlemarch*):** *"They owe him a deanery.” And here I must vindicate a claim to philosophical reflectiveness, by remarking that Mr."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"When expressed with some amount of **reflectiveness** it seems co-ordinate with a belief that this flattery must be reasonable."*
+> - 📜 **George Eliot (*Middlemarch*):** *"And here I must vindicate a claim to philosophical **reflectiveness**, by remarking that Mr. Casaubon had intentions."*
+> - 📜 **G. K. Chesterton (*The Ball and the Cross*):** *"This Catholicism is a curious thing, said the man of the cloven chin in uninterrupted **reflectiveness**."*

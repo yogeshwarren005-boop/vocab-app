@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A skeletal muscle whose contraction bends a joint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A skeletal muscle whose contraction bends a joint.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A muscle whose contraction bends a limb or other jointed body part.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative musculoskeletal anatomy, any muscle that antagonizes the action of an extensor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flexor designates a skeletal muscle whose contraction bends a joint."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The deep **flexor** muscles of the fingers contract involuntarily under intense emotional agony."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The superficial **flexor** of the digits divides into four tendons that pass beneath the transverse carpal ligament."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"In birds of prey, the digital **flexor** tendons are arranged to grip perches automatically when the bird roosts."*

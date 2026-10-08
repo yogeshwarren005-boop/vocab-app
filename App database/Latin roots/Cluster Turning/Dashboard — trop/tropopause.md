@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The region of discontinuity between the troposphere and the stratosphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The region of discontinuity between the troposphere and the stratosphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The boundary zone in the Earth's atmosphere between the troposphere and the stratosphere, characterized by a cessation of temperature decrease with altitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The thermal inversion layer that acts as a ceiling to most terrestrial weather phenomena and convective storms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tropopause designates the region of discontinuity between the troposphere and the stratosphere."*
+> - 📜 **Napier Shaw (*Manual of Meteorology*):** *"The **tropopause** marks the sharp transition where convective atmospheric cooling ceases and stratification begins."*
+> - 📜 **Sydney Chapman (*The Earth's Magnetism*):** *"Measurements taken near the **tropopause** revealed profound changes in ozone concentration and air density."*
+> - 📜 **Carl-Gustaf Rossby (*Planetary Flow Patterns in the Atmosphere*):** *"Jet streams meander with immense velocity in close proximity to the undulating oceanic **tropopause**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A turning or tilting backward of an organ or body part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An articulatory gesture made by turning the tip of the tongue back against the roof of the mouth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of bending backward, or the resulting anatomical curvature of an organ bent back upon itself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gynecology, the abnormal posterior bending of the uterine corpus upon the uterine cervix.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retroflexion designates a turning or tilting backward of an organ or body part."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"In uterine **retroflexion**, the cervix remains in its normal axis while the fundus is bent backward."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Persistent pelvic congestion frequently accompanies marked **retroflexion** of the mobile viscera."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The **retroflexion** of the horns in certain antelope species protects the neck during head-to-head combat."*

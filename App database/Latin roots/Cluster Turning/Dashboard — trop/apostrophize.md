@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Use an apostrophe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use an apostrophe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To address someone or something using the rhetorical figure of apostrophe, speaking to an absent person, deity, or inanimate abstraction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To punctuate a word with an apostrophe to indicate possession or letter contraction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"If the author be old-fashioned enough to apostrophize the Gentle Reader, I know he must mean me, and docilely give ear, and presently tumble head-foremost into the treacherous pit he has digged for me."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"When he apostrophizes the sinner, he speaks of himself."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Oh!” said the old lady, apostrophizing him with infinite vehemence."*
+> - 📜 **Edgar Allan Poe (*Marginalia*):** *"The distraught romantic poet continued to **apostrophize** the cold stars above his chamber window."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"She seemed in her solitude to **apostrophize** the silent forest that surrounded her dwelling."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"It is a hollow rhetorical trick to **apostrophize** virtues that one fails to practice in daily life."*

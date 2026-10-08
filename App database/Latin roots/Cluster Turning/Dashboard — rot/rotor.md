@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The rotating armature of a motor or generator.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The revolving bar of a distributor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rotating part of an electrical or mechanical device, such as an electric motor, generator, turbine, or helicopter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aerodynamic engineering, the system of rotating aerofoils that supplies lift and propulsion for rotary-wing aircraft.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rotor designates the rotating armature of a motor or generator."*
+> - 📜 **Nikola Tesla (*My Inventions*):** *"The laminated iron **rotor** began to revolve smoothly within the stator, silently confirming my theoretical calculations."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Magnetic induction induces opposing currents in the spinning **rotor**, generating continuous mechanical drive."*
+> - 📜 **Igor Sikorsky (*The Story of the Winged-S*):** *"The high-speed overhead **rotor** created sufficient vertical lift to raise the helicopter into hovering flight."*

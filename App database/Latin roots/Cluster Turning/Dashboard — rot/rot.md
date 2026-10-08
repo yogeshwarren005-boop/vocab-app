@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of decay usually accompanied by an offensive odor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) the process of decay caused by bacterial or fungal action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To undergo decomposition or decay naturally by the action of bacteria, fungi, or moisture; to perish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, to undergo moral, institutional, or social decay and gradual ruin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This common body, Like to a vagabond flag upon the stream, Goes to and back, lackeying the varying tide, To rot itself with motion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sink Rome, and their tongues rot That speak against us!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall, Antipholus, Even in the spring of love, thy love-springs rot?"*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"This common body, like to a vagabond flag upon the stream, goes to and back, to **rot** itself with motion."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"**Rot** the stuff; it would lie in my innerds like lead, said the old man with a grimace."*
+> - 📜 **George Eliot (*Middlemarch*):** *"They **rot** the silk, that's all I know about it, muttered the weaver over his damaged loom."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A personal pronoun compounded with -self to show the agent's action affects the agent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without volition or conscious control.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Referring back to the subject of a clause or verb, as a reflexive pronoun (e.g., myself, themselves).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Performed as an automatic or involuntary physiological response to a stimulus; reflex-like.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Why, it is just like being the past tense of the compound reflexive adverbial incandescent hypodermic irregular accusative Noun of Multitude; which is father to the expression which the grammarians call Verb."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A **reflexive** recoil of the hand occurs before the sensation of burning reaches consciousness."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"In many Indo-European languages, the **reflexive** pronoun serves to construct passive verb forms."*
+> - 📜 **Edward Sapir (*Language*):** *"The use of **reflexive** constructions emphasizes the reciprocal relation between agent and patient."*

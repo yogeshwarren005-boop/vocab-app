@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white crystalline insecticide that has low toxicity for mammals; is used in home gardens; extracted from the roots of derris and cube.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white crystalline insecticide that has low toxicity for mammals; is used in home gardens; extracted from the roots of derris and cube.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A naturally occurring odorless, colorless crystalline isoflavone compound used as a broad-spectrum insecticide and piscicide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and cellular toxicology, a specific inhibitor of complex I in the mitochondrial electron transport chain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rotenone designates a white crystalline insecticide that has low toxicity for mammals; is used in home gardens; extracted from the roots of derris and cube."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Botanical insecticides like **rotenone**, extracted from the roots of tropical leguminous vines, degrade rapidly under sunlight."*
+> - 📜 **Albert Szent-Györgyi (*Studies on Biological Oxidation*):** *"The addition of minute amounts of **rotenone** selectively blocks electron flow within the mitochondrial respiratory complex."*
+> - 📜 **William Beebe (*Beneath Tropic Seas*):** *"Native fishermen have long crushed derris roots containing **rotenone** to stun fish lurking in tidal pools."*

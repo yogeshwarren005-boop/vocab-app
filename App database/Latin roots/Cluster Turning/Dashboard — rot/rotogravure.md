@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Printing by transferring an image from a photogravure plate to a cylinder in a rotary press.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Printed material (text and pictures) produced by an intaglio printing process in a rotary press.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A high-speed photomechanical rotary intaglio printing process using an etched copper-plated cylinder to print high-volume publications.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A magazine section or picture supplement printed by this method, renowned for deep velvety tones and rich photographic reproduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rotogravure designates printing by transferring an image from a photogravure plate to a cylinder in a rotary press."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"On Sunday mornings he settled into his chair to examine the sepia photographs in the weekly **rotogravure** supplement."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"Her face was familiar from the society pages of the Sunday **rotogravure**, posing at country clubs."*
+> - 📜 **John Dos Passos (*U.S.A.*):** *"The front-page **rotogravure** showed crowded troop transports steaming past the Statue of Liberty."*

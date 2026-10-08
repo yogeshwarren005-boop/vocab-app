@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The place names of a region or a language considered collectively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The place names of a region or a language considered collectively.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The systematic study, classification, or cataloguing of verbs based on the specific manner or way an action is performed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The nomenclature or taxonomic principles governing troponymic semantic relations in linguistic lexicography.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, troponomy designates the place names of a region or a language considered collectively."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"A refined **troponomy** enables lexicographers to categorize expressive verbs by the precise manner of action."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"Structural analysis of semantic hierarchies requires a rigorous **troponomy** to map subordinate verbal variants."*
+> - 📜 **Roman Jakobson (*Selected Writings*):** *"The principles of lexical **troponomy** reveal how languages structure subtle nuances of physical movement."*

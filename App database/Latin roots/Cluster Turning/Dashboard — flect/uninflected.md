@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of the voice) not inflected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not inflected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not undergoing grammatical inflection; lacking case endings, tense suffixes, or morphological variation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spoken or uttered in an even, monotonic pitch without expressive melodic pitch variation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"He often exercises a liberty in the collocation of his words which is beyond what an uninflected language like the English admits of, without more or less obscurity."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"In an **uninflected** isolating tongue like classical Chinese, syntactic relationships depend wholly on word order."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He answered in an **uninflected** tone that revealed neither approval nor resentment."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Particles and prepositions carry the relational burden when the core nouns remain entirely **uninflected**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of physical reflection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of physical reflection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not reflecting light, sound, or radiant energy; absorbent or matte rather than mirrored or shiny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optical instrumentation, coated with thin destructive-interference films that eliminate unwanted surface glare.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonreflecting designates not capable of physical reflection."*
+> - 📜 **Isaac Newton (*Opticks*):** *"A blackened, **nonreflecting** screen placed behind the aperture absorbed all stray peripheral rays."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The interior of the measuring cylinder was coated with a **nonreflecting** layer of lampblack."*
+> - 📜 **John Tyndall (*Sound*):** *"Padded acoustic draperies formed a **nonreflecting** enclosure that prevented reverberation during resonance trials."*

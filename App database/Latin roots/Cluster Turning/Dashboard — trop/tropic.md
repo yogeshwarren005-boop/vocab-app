@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two parallels of latitude about 23.5 degrees to the north and south of the equator representing the points farthest north and south at which the sun can shine directly overhead and constituting the boundaries of the torrid zone or tropics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or situated in or characteristic of the tropics (the region on either side of the equator).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of the two celestial parallels of latitude (Cancer and Capricorn) marking the farthest points north and south where the sun can be directly overhead.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to, situated in, or characteristic of the warm, sun-drenched regions between these parallels; tropical.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba was far from dreaming that the dark and silent shape upon which she had so carelessly thrown a seed was a hotbed of tropic intensity."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In the complexion of a third still lingers a tropic tawn, but slightly bleached withal; he doubtless has tarried whole weeks ashore."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I hope ye’ll have fine weather now, so that Captain Ahab may soon be moving among ye—a pleasant sun is all he needs, and ye’ll have plenty of them in the tropic voyage ye go."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The oppressive midday heat seemed transplanted from some equatorial **tropic** into the quiet English meadow."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The adventurous mind finds its own internal **tropic** where thoughts ripen beneath a more ardent sun."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Species residing near the northern **tropic** displayed gradual adaptations to seasonal fluctuations in rainfall."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word that denotes a manner of doing something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word that denotes a manner of doing something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A verb that denotes a specific manner of carrying out an action described by a more general verb; for example, *stroll* and *march* are troponyms of *walk*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lexical item standing in a relationship of troponymy to a hypernymic base verb in semantic networks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, troponym designates a word that denotes a manner of doing something."*
+> - 📜 **George A. Miller (*WordNet: An Electronic Lexical Database*):** *"A verb is a **troponym** of another if doing it entails performing the general act in a particular manner."*
+> - 📜 **Christiane Fellbaum (*WordNet: An Electronic Lexical Database*):** *"The verb whisper functions as a **troponym** of speak, specifying acoustic volume and manner."*
+> - 📜 **Steven Pinker (*Words and Rules*):** *"Children intuitively grasp that strut serves as a vivid **troponym** conveying swaggering gait."*

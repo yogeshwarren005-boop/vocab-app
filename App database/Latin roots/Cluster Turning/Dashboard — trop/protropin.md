@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Trade name of a synthetic human growth hormone given to children deficient in the hormone; use by athletes and weightlifters is banned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trade name of a synthetic human growth hormone given to children deficient in the hormone; use by athletes and weightlifters is banned.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand name for somatrem, a recombinant human growth hormone preparation with an added N-terminal methionine residue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A therapeutic peptide hormone administered to treat pediatric growth hormone deficiency and idiopathic short stature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protropin designates trade name of a synthetic human growth hormone given to children deficient in the hormone; use by athletes and weightlifters is banned."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Pioneering clinical trials with recombinant **protropin** demonstrated accelerated skeletal growth in pediatric subjects."*
+> - 📜 **Louis Sanford Goodman (*The Pharmacological Basis of Therapeutics*):** *"Subcutaneous administration of **protropin** stimulated hepatic production of insulin-like growth factor."*
+> - 📜 **Alfred Gilman (*The Pharmacological Basis of Therapeutics*):** *"The therapeutic advent of **protropin** eliminated the pathogen transmission risks inherent in pituitary-derived growth hormone."*

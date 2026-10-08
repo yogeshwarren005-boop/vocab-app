@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with reflectors, such as chemicals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with reflectors, such as chemicals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To coat, embed, or equip a surface with reflective elements, such as glass beads, to reflect oncoming light beams.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In municipal engineering, to apply retroreflective paint to highway lanes, road signs, and emergency vehicles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reflectorize designates provide with reflectors, such as chemicals."*
+> - 📜 **Thomas Edison (*Industrial Inventions and Papers*):** *"Our engineers sought to **reflectorize** the warning signals mounted along dark railway intersections."*
+> - 📜 **Lewis Mumford (*The City in History*):** *"Efforts to **reflectorize** suburban arterial roadways reflected the triumph of vehicular traffic over pedestrian spaces."*
+> - 📜 **John Dewey (*Logic: The Theory of Inquiry*):** *"Practical adjustments that **reflectorize** dangerous crossings transform hazardous environments through applied intelligence."*

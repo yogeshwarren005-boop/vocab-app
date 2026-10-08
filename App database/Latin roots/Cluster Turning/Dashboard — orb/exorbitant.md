@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Greatly exceeding bounds of reason or moderation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greatly exceeding bounds of reason or moderation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unreasonably high or excessive, especially of prices, demands, or legal fees; grossly exceeding propriety.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deviating abnormally from an established standard, orbit, or customary boundary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Their remoteness and unpunctuality, or their exorbitant charges and frauds, will be drawing forth bitter lamentations.” “I mean to be too rich to lament or to feel anything of the sort."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"She gave him a bright, glad look, that quite settled the matter so far as he was concerned; he would, if necessary, give even an exorbitant price for the place, to please her."*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Part 1*):** *"Ever-blest he lives content; In exorbitant Exiles, Never can his Fate repent; All his Wishes and Desires, To destroy Love's burning Fires. _R."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A sense of **exorbitant** profit, spiritually, by an exchange of hearts, being at the bottom of pure passions."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His justifiable refusal of a rather **exorbitant** request might call forth painful impressions."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"To such the State renders comparatively small service, and a slight tax is wont to appear **exorbitant**."*

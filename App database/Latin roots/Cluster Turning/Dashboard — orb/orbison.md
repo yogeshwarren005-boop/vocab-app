@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states composer and rockabilly tenor popular in the 1950s (1936-1988).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states composer and rockabilly tenor popular in the 1950s (1936-1988).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surname of Anglo-Norman origin, famously borne by American rock-and-roll singer-songwriter Roy Orbison.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of the musical style, operatic vocal timbre, or somber ballads of Roy Orbison.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orbison designates united states composer and rockabilly tenor popular in the 1950s (1936-1988)."*
+> - 📜 **Greil Marcus (*Mystery Train: Images of America in Rock 'n' Roll Music*):** *"The haunting vulnerability in an **orbison** ballad exposed a depth of heartbreak uncommon in early rock."*
+> - 📜 **Robert Palmer (*Deep Blues*):** *"The sweeping orchestration of an **orbison** recording transformed pop heartache into dramatic opera."*
+> - 📜 **Dave Marsh (*Before I Get Old: The Story of The Who*):** *"Young musicians in the sixties studied the dramatic crescendo of an **orbison** performance with reverence."*

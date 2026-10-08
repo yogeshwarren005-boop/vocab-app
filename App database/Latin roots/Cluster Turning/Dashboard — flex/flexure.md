@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being flexed (as of a joint).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An angular or rounded shape made by folding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of bending, or the resulting curve or fold in a structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy and geology, a sharp anatomical bend in an organ (as the hepatic flexure of the colon) or a monocline fold in strata.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will it give place to flexure and low bending?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The elephant hath joints, but none for courtesy; his legs are legs for necessity, not for flexure."*
+> - 📜 **William Shakespeare (*Henry V*):** *"With the King's leant knee and **flexure** of the knee shall buy this treasonable breath."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"A sudden monoclinal **flexure** in the chalk cliffs reveals the intensity of ancient tectonic compression."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The splenic **flexure** marks the abrupt junction between the transverse and descending colon."*

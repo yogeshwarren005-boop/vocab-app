@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) the process of decay caused by bacterial or fungal action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Break down.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergoing biological decomposition and decay by microbes; putrefying.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decaying slowly through neglect, disuse, or exposure to harsh weather.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though mean and mighty rotting Together have one dust, yet reverence, That angel of the world, doth make distinction Of place ’tween high and low."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In the meantime, the place became dilapidated, the wind whistled through the cracked walls, the rain fell through the broken roof, the weeds choked the passage to the rotting door."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I listened for a few moments, and in the musty rotting silence of the house believed that I could hear the murmur of their young voices."*
+> - 📜 **William Shakespeare (*Cymbeline*):** *"Though mean and mighty **rotting** together have one dust, yet reverence doth make distinction of place 'tween high and low."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The fungi grew in all manner of positions from **rotting** leaves and tree stumps, exhibiting their clammy tops."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The **rotting** of a corpse in a watery grave was not so fearful."*

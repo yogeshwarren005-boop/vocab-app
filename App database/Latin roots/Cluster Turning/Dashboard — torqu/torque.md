@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A twisting force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A twisting force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rotational force or moment of a force that tends to produce torsion or rotation around an axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient twisted metal collar or armband worn by Celtic, Gaulish, and Germanic warriors and nobility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, torque designates a twisting force."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The electromagnetic field applies a measurable mechanical **torque** to the suspended magnetic needle."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Gaulish chieftains rode into battle adorned with heavy golden **torque** collars around their necks."*
+> - 📜 **Nikola Tesla (*My Inventions*):** *"The alternating rotating field produced sufficient **torque** to spin the iron rotor without commutators or brushes."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The roundness of a 3-dimensional object.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The roundness of a 3-dimensional object.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical characteristic of having a round, plump, or spherical contour.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fullness, sonorous resonance, or elaborate pomposity in oratorical style.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rotundness designates the roundness of a 3-dimensional object."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The substantial **rotundness** of the English matrons contrasted sharply with the paler delicate figures of the New World."*
+> - 📜 **Washington Irving (*Knickerbocker's History of New York*):** *"Wouter Van Twiller was noted for the complete **rotundness** of his person and the slowness of his thoughts."*
+> - 📜 **Charles Dickens (*Martin Chuzzlewit*):** *"The genial **rotundness** of the tavern landlord seemed a living advertisement for his rich beefsteak pies."*

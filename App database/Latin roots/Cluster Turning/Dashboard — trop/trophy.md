@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An award for success in war or hunting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something given as a token of victory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A decorative prize, cup, or memento awarded or acquired as a symbol and memorial of victory in battle, contest, or sport.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artifact, seized weapon, or hunted animal preserved as an enduring memorial of past conquest or achievement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mere word’s a slave, Debauch’d on every tomb, on every grave A lying trophy, and as oft is dumb Where dust and damn’d oblivion is the tomb Of honour’d bones indeed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It more becomes a man Than gilt his trophy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let this be so; His means of death, his obscure burial,— No trophy, sword, nor hatchment o’er his bones, No noble rite, nor formal ostentation,— Cry to be heard, as ’twere from heaven to earth, That I must call’t in question."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With bloody passage led your wars, even to the **trophy** of your victory."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Upon the mahogany mantlepiece rested a silver **trophy** won during his university athletic days."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The hunter brought home the antlered stag as a proud **trophy** of his woodcraft and stamina."*

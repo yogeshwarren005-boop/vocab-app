@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bend or turn backward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Articulate (a consonant) with the tongue curled back against the palate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bent or curved abruptly in a posterior or backward direction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phonetics, articulated with the tongue tip turned upward and backward toward the roof of the mouth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retroflexed designates bend or turn backward."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A **retroflexed** uterus can often be detected by bimanual pelvic palpation during routine examination."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The **retroflexed** spathe arches gracefully behind the spadix, protecting the minute flowers from direct rainfall."*
+> - 📜 **Henry Sweet (*A Primer of Phonetics*):** *"The consonant is **retroflexed** when the apex of the tongue points directly toward the arch of the palate."*

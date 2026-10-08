@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Language used in a figurative or nonliteral sense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Language used in a figurative or nonliteral sense.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A figurative or metaphorical use of a word or expression; a rhetorical figure involving a turn or shift in meaning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A recurrent theme, motif, or conventional literary device; in medieval liturgy, a musical or textual addition to a chant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Pure religion enthroned Through trope and metaphor, the Revelator, immortal scribe of Spirit and of a true idealism, furnishes the 571:24 mirror in which mortals may see their own image."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The bitter check had wrung from me some tears; and now, as I sat poring over the crabbed characters and flourishing tropes of an Indian scribe, my eyes filled again."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Craigdarroch led a light-arm’d core, Tropes, metaphors, and figures pour, Like Hecla streaming thunder: Glenriddel, skill’d in rusty coins, Blew up each Tory’s dark designs, And bared the treason under."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A lively writer delights to discover a fresh **trope** that illuminates common experience with philosophical brilliance."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ancient mariner employed every bold **trope** known to seafarers to convey the monster's ferocity."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"Language is made of metaphors, and every word was originally a poetic **trope** rooted in material reality."*

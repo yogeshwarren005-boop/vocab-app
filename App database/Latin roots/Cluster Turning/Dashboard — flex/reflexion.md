@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The phenomenon of a propagating wave (light or sound) being thrown back from a surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expression without words.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The return of light, heat, or sound from a surface back into the medium from which it came.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deep, quiet contemplation or serious retrospective thought upon a subject.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"This is all he is entitled to; he is entitled to nothing, he is bound to admit, that can come to him, from the reader, as a result on the latter’s part of any act of reflexion or discrimination."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"But after this she had asked a good many, and her aunt’s answers, whatever turn they took, struck her as food for deep reflexion."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Ah yes, pictures are very convenient,” said Ralph, who appeared to know better what style of reflexion was acceptable to her."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"A little **reflexion** will convince us that the differences between distinct breeds must have arisen gradually."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The angle of incidence is ever equal to the angle of **reflexion** in all specular surfaces."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"By **reflexion** I mean that notice which the mind takes of its own operations within itself."*

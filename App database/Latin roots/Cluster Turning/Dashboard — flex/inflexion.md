@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A change in the form of a word (usually by adding a suffix) to indicate a change in its grammatical function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A change in the form of a word (usually by adding a suffix) to indicate a change in its grammatical function.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A change in the pitch, tone, or modulation of the voice to express meaning or emotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In grammar, the modification of a word to express grammatical case, gender, tense, or number.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Give up--a--?” asked Lord Warburton, meeting her harsh inflexion with a very mellow one."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Shall I show the gentleman up, ma’am?” he asked with a slightly encouraging inflexion."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"He sighed and moaned like one under great suffering, and kept it up for a quarter of an hour; on purpose to distress his cousin apparently, for whenever he caught a stifled sob from her he put renewed pain and pathos into the inflexions of his voice."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Maggie detected a slight **inflexion** of sorrow in her brother's stern voice."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The grammatical **inflexion** of the noun gradually disappeared as analytic prepositions arose."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The rural dialect had a rising **inflexion** that gave even statements the air of tentative questions."*

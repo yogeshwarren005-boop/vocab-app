@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change the form of a word in accordance as required by the grammatical rules of the language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vary the pitch of one's speech.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To bend or curve inward; to deflect or modulate the tone or pitch of the voice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In grammar, to change the form of a word to express tense, gender, number, mood, or case.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"The tone with doubt inflected, The calm, reproachful look, The name of one suspected In light arraignment spoke; These, these enforce the heart-ache, And instigate the strife, And these, in chiefest part, take The joy from out my life."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The sweet singer knew how to **inflect** each cadence to move the solemn passions of the soul."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Primitive roots **inflect** by adding suffixes that gradually fused into grammatical endings."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Children learn early to **inflect** their vocal cries to signal either distress or playful joy."*

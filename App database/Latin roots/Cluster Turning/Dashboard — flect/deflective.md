@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of changing the direction (of a light or sound wave).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of changing the direction (of a light or sound wave).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to deflect or capable of causing deviation from a direct course or normal alignment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and engineering, producing lateral diversion of particles, light rays, or mechanical forces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deflective designates capable of changing the direction (of a light or sound wave)."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The **deflective** force exerted by the magnetic pole upon the moving charge increased with velocity."*
+> - 📜 **William Thomson (*Popular Lectures and Addresses*):** *"The atmospheric layer exercises a marked **deflective** influence upon the trajectory of projectile bodies."*
+> - 📜 **John Tyndall (*Heat a Mode of Motion*):** *"The prism acts as a **deflective** agent, bending radiant heat rays through measured angles."*

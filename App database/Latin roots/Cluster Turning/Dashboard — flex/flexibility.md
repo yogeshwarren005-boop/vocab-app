@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being flexible; easily bent or shaped.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being adaptable or variable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of bending easily without breaking; pliability and supple resilience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The willingness or capacity to adapt to changing circumstances or compromise in plans.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The old girl said it wouldn’t do; intention good, but want of flexibility; try the bassoon."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She was awe-stricken to discover such determination under such apparent flexibility."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Come, Jack." Yvonne rose to her feet, more like a snake than ever in her flexibility and swiftness, and held Isabel to her for a moment, her arm round her young friend's waist."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She was awe-stricken to discover such determination under such apparent **flexibility**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Adaptation is readily grafted on an innate wide **flexibility** of constitution common to most animals."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea said with a pure voice, just trembling in the last words as if only from its liquid **flexibility**."*

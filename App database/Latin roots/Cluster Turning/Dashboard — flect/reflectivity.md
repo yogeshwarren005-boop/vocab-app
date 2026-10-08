@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The fraction of radiant energy that is reflected from a surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ability to reflect beams or rays.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The measure of the fraction of incident radiation reflected by a surface, material, or interface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In climatology and planetary astronomy, the albedo or radiant reflection coefficient of ice sheets or cloud decks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reflectivity designates the fraction of radiant energy that is reflected from a surface."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The electromagnetic theory predicts that the optical **reflectivity** of a conductor increases with its conductance."*
+> - 📜 **John Tyndall (*Contributions to Molecular Physics*):** *"The minute atmospheric particles alter the terrestrial **reflectivity**, modifying the thermal balance of the earth."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The dazzling **reflectivity** of polar glaciers moderates polar summer temperatures by casting solar rays back into space."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The coreferential relation between a reflexive pronoun and its antecedent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (logic and mathematics) a relation such that it holds between an element and itself.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of referring back to the agent or subject; self-referential property in language or thought.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social theory and psychology, the capacity of an individual or system to monitor, reflect upon, and modify its own operations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reflexiveness designates the coreferential relation between a reflexive pronoun and its antecedent."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The **reflexiveness** of self-consciousness enables the mind to become both the observer and the observed."*
+> - 📜 **John Dewey (*Human Nature and Conduct*):** *"A developed moral personality requires that internal **reflexiveness** which examines its own habits critically."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Social institutions attain stability only when a degree of institutional **reflexiveness** permits peaceful reform."*

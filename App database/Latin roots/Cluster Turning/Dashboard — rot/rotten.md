@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very bad.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Damaged by decay; hence unsound and useless.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Decaying or decayed and having a foul smell; decomposed by bacteria and fungi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Corrupt, dishonest, or morally degenerate; extremely unpleasant or contemptible.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then if he thrive and I be cast away, The worst was this: my love was my decay. 81 Or I shall live your epitaph to make, Or you survive when I in earth am rotten, From hence your memory death cannot take, Although in me each part will be forgotten."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, poor old man, thou prun’st a rotten tree, That cannot so much as a blossom yield In lieu of all thy pains and husbandry."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then it will be the earliest fruit i’ th’ country, for you’ll be rotten ere you be half ripe, and that’s the right virtue of the medlar."*
+> - 📜 **William Shakespeare (*Sonnet 81*):** *"Or you survive when I in earth am **rotten**, from hence your memory death cannot take."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sight of the pigs turning in disgust from the **rotten** ears seemed to arouse Boldwood."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He would not have cared a **rotten** nut for the banker's friendship or enmity."*

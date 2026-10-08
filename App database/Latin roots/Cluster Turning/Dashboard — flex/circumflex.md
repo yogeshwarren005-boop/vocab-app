@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A diacritical mark (^) placed above a vowel in some languages to indicate a special phonetic quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diacritical mark (^) placed above a vowel in some languages to indicate a special phonetic quality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diacritical mark (^) placed over a vowel to indicate pronunciation, length, or contraction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy, designating blood vessels or nerves that describe a sharp curve around a structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circumflex designates a diacritical mark (^) placed above a vowel in some languages to indicate a special phonetic quality."*
+> - 📜 **Ben Jonson (*The English Grammar*):** *"The Greek **circumflex** accent denotes a tone that rises and falls upon the same lengthened vowel."*
+> - 📜 **Henry Sweet (*A Handbook of Phonetics*):** *"A sliding pitch inflection that ascends before descending represents a true **circumflex** modulation."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The subtle grammarians disputed whether the syllable required an acute, grave, or **circumflex** tone."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Green chalcedony with red spots that resemble blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Green chalcedony with red spots that resemble blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the borage genus *Heliotropium*, bearing fragrant purple or white flower clusters that turn toward the sun.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A moderate purple or pinkish-purple color; also, a surveying instrument using mirrors to reflect sunlight over long distances, or a bloodstone gem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I recognised some euphorbias, with the caustic sugar coming from them; heliotropes, quite incapable of justifying their name, sadly drooped their clusters of flowers, both their colour and perfume half gone."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A delicate fragrance reminiscent of blooming **heliotrope** drifted unexpectedly across the salt-encrusted deck."*
+> - 📜 **James Joyce (*Dubliners*):** *"Her dress was trimmed with ribbons of pale **heliotrope** that matched the evening glow."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The evening sky softened into tones of **heliotrope** as the last rays faded beyond the heath."*

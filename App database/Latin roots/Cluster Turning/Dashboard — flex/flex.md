@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of flexing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contract.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To bend a limb, joint, or flexible material; to contract a muscle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To showcase or demonstrate physical power, capability, or resources before an observer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Leviathans off-loaded to barges as other ships in a multitude of shapes and sizes grappled with cargo from flex-conveyers that snaked from the Depot's gaping portals."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"One by one, they squeezed through, and found themselves at the foot of a flex-ladder."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"In the foreground, the Slingshot Logistics Depot and its maze of ships, tugs, articulated cranes and flex-conveyers were portrayed busily engaged in loading and unloading the moored vessels, and the new arrivals that waited for their turn."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"The swimmer begins to **flex** his sinewy arms before plunging into the rushing current."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The powerful biceps acts to **flex** the forearm upon the upper arm at the elbow."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"To **flex** the knee requires coordinated contraction of the posterior femoral musculature."*

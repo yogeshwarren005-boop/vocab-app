@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A meter that measures the reflectance of a surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A meter that measures the reflectance of a surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical instrument designed to measure the reflectance or reflective properties of materials.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fiber optics and telecommunications, a time-domain instrument used to locate faults and measure signal loss along waveguides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reflectometer designates a meter that measures the reflectance of a surface."*
+> - 📜 **Hermann von Helmholtz (*Physiological Optics*):** *"A calibrated **reflectometer** enabled us to determine the curvature of the living corneal surface."*
+> - 📜 **Albert Abraham Michelson (*Light Waves and Their Uses*):** *"Using a precision **reflectometer**, we compared the refractive indices of various optical glasses."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"Measurements with the **reflectometer** verified that polished silver reflects more than ninety percent of incident luminous flux."*

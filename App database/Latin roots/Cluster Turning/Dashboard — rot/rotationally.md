@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a rotational manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a rotational manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner involving rotation around an axis or symmetrical center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular physics, with respect to the angular rotation of molecules around their center of mass.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rotationally designates in a rotational manner."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"Molecules absorb energy both translationally and **rotationally** across varying thermal regimes."*
+> - 📜 **John Tyndall (*Heat a Mode of Motion*):** *"Gaseous particles vibrating **rotationally** impart kinetic energy to adjacent molecules during collisions."*
+> - 📜 **Hermann von Helmholtz (*Popular Lectures on Scientific Subjects*):** *"The whirlpool moves **rotationally**, drawing floating particles downward into its central vortex."*

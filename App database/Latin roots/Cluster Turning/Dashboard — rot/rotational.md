@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to rotation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to rotation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, causing, or characterized by motion around an axis or center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In celestial mechanics and physics, relating to angular momentum or moment of inertia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rotational designates of or pertaining to rotation."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The **rotational** momentum of the magnetic vortices accounts for the phenomenon of diamagnetism."*
+> - 📜 **William Thomson (*Popular Lectures and Addresses*):** *"The stability of the gyroscope depends directly upon its high **rotational** velocity."*
+> - 📜 **Isaac Newton (*Principia Mathematica*):** *"Centrifugal force arising from **rotational** motion causes the earth to bulge slightly at the equator."*

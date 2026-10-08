@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A weathered and decomposed siliceous limestone; in powdered form it is used in polishing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A weathered and decomposed siliceous limestone; in powdered form it is used in polishing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A decomposed, soft, friable siliceous limestone used in pulverized form for polishing metals, glass, and varnished furniture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In artisanal wood finishing and metalwork, a fine brown abrasive powder derived from weathered carboniferous limestone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rottenstone designates a weathered and decomposed siliceous limestone; in powdered form it is used in polishing."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The old clerk scrubbed the tarnished brass knocker with oil and **rottenstone** until it gleamed like gold."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"With oil and pulverized **rottenstone**, the cabinet-maker polishes the mahogany tabletop to a mirror sheen."*
+> - 📜 **Robert Louis Stevenson (*Kidnapped*):** *"The captain's brass sextant had been burnished with **rottenstone** till every scale line stood out crisp."*

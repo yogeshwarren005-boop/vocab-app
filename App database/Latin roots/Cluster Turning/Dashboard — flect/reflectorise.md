@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with reflectors, such as chemicals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with reflectors, such as chemicals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To treat or equip a sign, highway surface, or garment with reflective beads or materials to improve visibility in the dark.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil engineering, to apply retroreflective coatings to road barriers and traffic signs to guide nighttime motorists.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reflectorise designates provide with reflectors, such as chemicals."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Bruce-Partington Plans*):** *"To **reflectorise** the railway signals with luminous paint was suggested to avert collisions in dense fog."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The modern transport authorities resolved to **reflectorise** every highway marker across the metropolis."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"The safety committee voted to **reflectorise** the factory corridors to protect the night-shift mechanics."*

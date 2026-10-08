@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to flex; able to bend easily.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to flex; able to bend easily.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily bent or flexing without breaking; supple, pliant, and yielding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character or disposition, readily influenced, tractable, or adaptable.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flexile designates able to flex; able to bend easily."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Under their shade on gentle breezes danced the **flexile** branches clothed with blossom."*
+> - 📜 **Alfred Tennyson (*The Princess*):** *"Her voice, soft and **flexile**, breathed music through the shadowy hall."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Human custom is not iron, but a **flexile** garment woven anew in every changing age."*

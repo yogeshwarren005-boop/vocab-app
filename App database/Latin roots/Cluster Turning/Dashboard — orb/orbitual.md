@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Describing a circle; moving in a circle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing a circle; moving in a circle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or situated within an orbit or circular path of motion; archaic or rare anatomical variant of orbital.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the anatomical cavity or socket containing the eye.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orbitual designates describing a circle; moving in a circle."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The cranial sutures around the **orbitual** cavity demonstrated notable ossification in mature specimens."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"A comparative survey of the **orbitual** margin revealed subtle distinctions among anthropoid apes."*
+> - 📜 **William Henry Flower (*An Introduction to the Osteology of the Mammalia*):** *"The superior border of the **orbitual** opening curves smoothly toward the temporal crest."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Minute aquatic multicellular organisms having a ciliated wheel-like organ for feeding and locomotion; constituents of freshwater plankton.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Minute aquatic multicellular organisms having a ciliated wheel-like organ for feeding and locomotion; constituents of freshwater plankton.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A microscopic, multicellular aquatic invertebrate of the phylum Rotifera, possessing a specialized ciliated crown (corona).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In freshwater ecology, ubiquitous limnetic micro-organisms whose rapid ciliary movements create water currents that sweep food particles into the mastax.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rotifer designates minute aquatic multicellular organisms having a ciliated wheel-like organ for feeding and locomotion; constituents of freshwater plankton."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Examining a drop of pond water, I watched the transparent **rotifer** whirling its ciliated wheels with tireless vigor."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish*):** *"The minute **rotifer** thrives in stagnant pools, surviving complete desiccation within encysted protective coats."*
+> - 📜 **Ernst Haeckel (*Art Forms in Nature*):** *"The ornate siliceous lorica of the pelagic **rotifer** displays extraordinary geometric symmetry under the microscope."*

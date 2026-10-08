@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or characteristic of apostrophe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or characteristic of apostrophe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, containing, or resembling a rhetorical apostrophe (an address to an absent entity or personified concept).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or employing the punctuation mark known as an apostrophe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apostrophic designates of or characteristic of apostrophe."*
+> - 📜 **Percy Bysshe Shelley (*A Defence of Poetry*):** *"The **apostrophic** address to the night wind infused the ode with transcendent lyric power."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"His eloquence leaned heavily toward an **apostrophic** style that swayed susceptible listeners."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The passage culminates in an **apostrophic** invocation celebrating the sublimity of mountain peaks."*

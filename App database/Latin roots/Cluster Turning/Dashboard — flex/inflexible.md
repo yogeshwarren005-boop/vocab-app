@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of change.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not making concessions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being bent; rigid, stiff, and unyielding to mechanical force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unbending in purpose, principle, or discipline; stubborn and immune to compromise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It may be that her beauty and all the state and brilliancy surrounding her only gives him the greater zest for what he is set upon and makes him the more inflexible in it."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Such an inflexible little woman, too, through all!” “Only for the best, guardian,” said I."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Nor do I know yet.” “Lady Dedlock’s sister.” “And why,” I could scarcely ask him, “why, guardian, pray tell me why were THEY parted?” “It was her act, and she kept its motives in her inflexible heart."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The terribly **inflexible** relation of marriage had lost its charm of encouraging delightful dreams."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I had seen the snakes in frosty mornings with portions of their bodies still numb and **inflexible**."*
+> - 📜 **William Shakespeare (*Henry VI, Part 3*):** *"O tiger's heart wrapped in a woman's hide! How couldst thou drain the life-blood of the child, with **inflexible** disdain?"*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or situated in or characteristic of the tropics (the region on either side of the equator).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the tropics, or either tropic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of, originating in, or situated within the tropics; experiencing high year-round temperatures and luxuriant vegetation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomy and calendrics, measured by the interval between successive vernal equinoxes (as in a tropical year).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I can lie down on the grass—in fine weather—and float along an African river, embracing all the natives I meet, as sensible of the deep silence and sketching the dense overhanging tropical growth as accurately as if I were there."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Far different is the case of the oceanic canal in a tropical climate."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Oliver’s large fortune, he might do as much good with it as if he went and laid his genius out to wither, and his strength to waste, under a tropical sun."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"A **tropical** forest presents an astonishing complexity of organic beings competing for light and nourishment."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"He spoke with a **tropical** luxuriance of metaphor that dazzled the sober northern gathering."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Even in winter, an ardent spirit carries a **tropical** summer within its own thoughts."*

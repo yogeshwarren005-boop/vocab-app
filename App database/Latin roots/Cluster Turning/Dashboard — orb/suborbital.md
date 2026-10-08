@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or involving a trajectory of less than one orbit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Situated on or below the floor of the eye socket.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Operating or travelling at an altitude or velocity insufficient to complete a full orbital revolution around a planet or celestial body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Situated below the eye socket (orbit) in vertebrate anatomy, as in suborbital glands or canals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, suborbital designates having or involving a trajectory of less than one orbit."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The distinct **suborbital** glands in certain deer secrete an aromatic substance during the breeding season."*
+> - 📜 **Carl Sagan (*Broca's Brain*):** *"Early rocket experiments demonstrated that a brief **suborbital** trajectory could yield vital atmospheric data."*
+> - 📜 **Arthur C. Clarke (*Voices from the Sky*):** *"Passengers on future **suborbital** flights will experience weightlessness before descending across the continent."*

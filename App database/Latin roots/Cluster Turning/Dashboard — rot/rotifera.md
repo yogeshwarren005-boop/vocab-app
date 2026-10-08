@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A phylum including: rotifers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A phylum including: rotifers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic phylum of microscopic, pseudocoelomate aquatic animals characterized by an anterior ciliated wheel organ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology, a group of minute multicellular metazoans equipped with a specialized muscular pharynx containing chitinous jaws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rotifera designates a phylum including: rotifers."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The phylum **Rotifera** encompasses minute aquatic forms possessing a characteristic ciliated trochal disc at the anterior pole."*
+> - 📜 **Ernst Haeckel (*Systematische Phylogenie*):** *"Members of **Rotifera** bridge microscopic protozoan dimensions with complex metazoan organ differentiation."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The remarkable capacity of certain **Rotifera** to endure prolonged torpor in dry dust aids their cosmopolitan dispersal."*

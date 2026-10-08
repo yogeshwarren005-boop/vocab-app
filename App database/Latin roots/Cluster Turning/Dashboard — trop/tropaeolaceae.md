@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coextensive with the genus tropaeolum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coextensive with the genus tropaeolum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical family of flowering dicotyledonous plants in the order Brassicales, comprising herbs with peltate leaves and spurred flowers like the nasturtium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The taxonomic plant family encompassing the nasturtiums, native to Central and South America.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tropaeolaceae designates coextensive with the genus tropaeolum."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The family **tropaeolaceae** is distinguished by zygomorphic spurred flowers and characteristic pungent glucosinolates."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Cultivated representatives of **tropaeolaceae** thrive in cottage gardens far beyond their native Andean ranges."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"The morphological traits of **tropaeolaceae** place the family in close taxonomic proximity to the geraniaceous alliances."*

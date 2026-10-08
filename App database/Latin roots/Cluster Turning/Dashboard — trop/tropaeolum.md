@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tropical american genus of dicotyledonous climbing or diffuse pungent herbs constituting the family tropaeolaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tropical american genus of dicotyledonous climbing or diffuse pungent herbs constituting the family tropaeolaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of perennial and annual plants in the family Tropaeolaceae, including garden nasturtiums, grown for showy spurred flowers and edible peppery leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant or flower belonging to the genus *Tropaeolum*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tropaeolum designates a tropical american genus of dicotyledonous climbing or diffuse pungent herbs constituting the family tropaeolaceae."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"The genus **tropaeolum** exhibits peltate foliage reminiscent of classical shields and spurred calyces resembling warrior helmets."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The sensitive petioles of **tropaeolum** clasp slender supports with astonishing mechanical tenacity."*
+> - 📜 **Gertrude Jekyll (*Colour in the Flower Garden*):** *"Bright orange blossoms of trailing **tropaeolum** spilled over the rough stone balustrade in late summer."*

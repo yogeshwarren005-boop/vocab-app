@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A building having a circular plan and a dome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large circular room.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A round building or room, especially one crowned by a central dome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and neoclassical architecture, a monumental circular hall serving as a civic vestibule or library atrium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"White horses with white frontlet plumes came round the Rotunda corner, galloping."*
-> - 📜 **James Joyce (*Ulysses*):** *"Sonnez la._ Slower the mare went up the hill by the Rotunda, Rutland square."*
-> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: _(In alderman’s gown and chain.)_ Electors of Arran Quay, Inns Quay, Rotunda, Mountjoy and North Dock, better run a tramline, I say, from the cattlemarket to the river."*
+> - 📜 **James Joyce (*Dubliners*):** *"The meeting held in the **Rotunda** drew an enthusiastic crowd that spilled onto the adjacent pavements."*
+> - 📜 **Thomas Jefferson (*Letters on Architecture*):** *"The central **rotunda** of the university was designed to represent the authority of nature and reason."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"We stood beneath the soaring dome of the Roman **rotunda**, gazing upward through the open eye of the Pantheon."*

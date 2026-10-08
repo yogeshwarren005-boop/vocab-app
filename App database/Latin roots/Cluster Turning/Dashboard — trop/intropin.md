@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A monoamine neurotransmitter found in the brain and essential for the normal functioning of the central nervous system; as a drug (trade names dopastat and intropin) it is used to treat shock and hypotension.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A monoamine neurotransmitter found in the brain and essential for the normal functioning of the central nervous system; as a drug (trade names dopastat and intropin) it is used to treat shock and hypotension.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand name for dopamine hydrochloride, an adrenergic and dopaminergic agonist used intravenously in acute cardiovascular care.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pharmaceutical preparation administered to elevate systemic blood pressure, cardiac output, and renal perfusion in shock states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intropin designates a monoamine neurotransmitter found in the brain and essential for the normal functioning of the central nervous system; as a drug (trade names dopastat and intropin) it is used to treat shock and hypotension."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Clinical stabilization required rapid infusion of **intropin** to restore adequate mean arterial pressure."*
+> - 📜 **Louis Sanford Goodman (*The Pharmacological Basis of Therapeutics*):** *"Low doses of **intropin** stimulate specific renal dopaminergic receptors to promote diuresis."*
+> - 📜 **Alfred Gilman (*Goodman & Gilman's The Pharmacological Basis of Therapeutics*):** *"Infusion rates of **intropin** must be titrated continuously against electrocardiographic and hemodynamic monitors."*

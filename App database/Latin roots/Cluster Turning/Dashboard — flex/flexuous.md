@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having turns or windings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having turns or windings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of bends, turns, or curves; winding in a zigzag or undulating path.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and entomology, describing stems or antennae that curve alternately in opposite directions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"They consisted in about equal proportions of gnarled and flexuous forms, the former being the men, the latter the women, who wore tilt bonnets covered with nankeen, which hung in a curtain upon their shoulders."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The face was young in the groundwork, old in the finish; the general contours were flexuous and childlike, but the finer lineaments had begun to be sharp and thin."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her flexuous and stealthy figure became an integral part of the scene."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The road proceeded along a **flexuous** course through the ancient beeches of Yalbury Wood."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The **flexuous** shoots of the bindweed weave effortlessly across the supporting trellis."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"A **flexuous** stem curves successively to the right and left between adjacent leaf nodes."*

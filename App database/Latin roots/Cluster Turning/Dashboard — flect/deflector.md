@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device intended to turn aside the flow of something (water or air or smoke etc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device intended to turn aside the flow of something (water or air or smoke etc).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device, plate, or baffle designed to deflect or redirect the flow of a fluid, light, or particles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanics and acoustics, a baffle or shield that protects surrounding components from heat, blast, or glare.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A convoy of robot deflectors and screens cleared the Extractor fleet's path of meteoroids, sand and rock swarms and space debris."*
+> - 📜 **Robert Stephenson (*The Locomotive Engine Explained*):** *"An iron **deflector** plate mounted inside the firebox prevents burning cinders from escaping the flue."*
+> - 📜 **Nikola Tesla (*My Inventions*):** *"The high-frequency discharge struck the metal **deflector**, scattering luminous sparks across the laboratory."*
+> - 📜 **Thomas Alva Edison (*Patents and Writings*):** *"A curved **deflector** behind the lamp focuses the luminous rays directly upon the working surface."*

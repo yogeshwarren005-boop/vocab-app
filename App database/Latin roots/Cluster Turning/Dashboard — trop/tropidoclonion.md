@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lined snakes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lined snakes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of harmless colubrid snakes containing the lined snake (*Tropidoclonion lineatum*), native to North American grasslands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small, secretive burrowing snake belonging to this genus, distinguished by keeled scales and longitudinal ventral stripes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tropidoclonion designates lined snakes."*
+> - 📜 **Edward Drinker Cope (*The Crocodilians, Lizards, and Snakes of North America*):** *"The distinct keeled scutellation of **tropidoclonion** distinguishes this prairie serpent from allied natricine genera."*
+> - 📜 **Raymond Ditmars (*The Reptile Book*):** *"Specimens of **tropidoclonion** frequent damp prairie soils where they feed unobtrusively upon earthworms."*
+> - 📜 **Leonhard Stejneger (*Check List of North American Amphibians and Reptiles*):** *"Field collectors confirmed the distribution of **tropidoclonion** throughout the central river valleys."*

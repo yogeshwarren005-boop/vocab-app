@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being flexed (as of a joint).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deviation from a straight or normal course.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of bending, or the curvature of a bent organ; a curved fold or angle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy and physiology, the movement of a joint that decreases the angle between two articulating bones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Man is, and forever has been, God's re- 471:18 flection."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Reflection of Spirit /Question/. - What are body and Soul? /Answer/. - Identity is the reflection of Spirit, the re- 477:21 flection in multifarious forms of the living Principle, Love."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"During extreme **flection** of the elbow, the coronoid process of the ulna enters the anterior fossa."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The alternating **flection** and extension of the limb propel the body forward during locomotion."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The sharp **flection** of the carpal joint enables the wing of the bird to fold snugly against the flank."*

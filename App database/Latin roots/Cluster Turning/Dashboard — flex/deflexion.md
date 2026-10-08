@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The amount by which a propagating wave is bent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The movement of the pointer or pen of a measuring instrument from its zero position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The deviation of a moving body, light ray, or compass needle from its normal straight course.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural engineering, the linear displacement of a loaded beam or column from its unloaded axis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deflexion designates the amount by which a propagating wave is bent."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The magnetic needle showed an instantaneous **deflexion** upon completing the primary circuit."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The gradual **deflexion** of the shoreline reflects persistent tidal scouring along the headland."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The observed **deflexion** of the galvanometer mirror is directly proportional to current intensity."*

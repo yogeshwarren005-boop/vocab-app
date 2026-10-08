@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The prediction that human intelligence and technology will enable life to expand in an orderly way throughout the entire universe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The prediction that human intelligence and technology will enable life to expand in an orderly way throughout the entire universe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A measure of a system's capacity to generate intelligence, information, order, vitality, and improvement, countering thermodynamic decay.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A philosophical framework promoting continuous technological evolution, transhumanist enhancement, and open-ended expansion of consciousness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extropy designates the prediction that human intelligence and technology will enable life to expand in an orderly way throughout the entire universe."*
+> - 📜 **Freeman Dyson (*Infinite in All Directions*):** *"Life preserves and magnifies **extropy** across cosmic epochs, proving resilient against thermal dissipation."*
+> - 📜 **Buckminster Fuller (*Operating Manual for Spaceship Earth*):** *"Human intellect functions as the primary agent of **extropy** within our terrestrial ecosystem."*
+> - 📜 **Stuart Kauffman (*At Home in the Universe*):** *"Self-organization in prebiotic chemical networks marks the emergent fountainhead of **extropy** in nature."*

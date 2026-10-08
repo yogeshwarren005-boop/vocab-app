@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sonorous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sonorous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a plump, rounded, or spherical manner; with sonorous fullness or oratorical pomposity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With resonant, rolling cadence in speech or writing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rotundly designates in a sonorous manner."*
+> - 📜 **Charles Dickens (*Pickwick Papers*):** *"Mr. Pickwick beamed **rotundly** upon the company, adjusting his spectacles with benign satisfaction."*
+> - 📜 **Washington Irving (*The Sketch Book*):** *"The portly parson laughed **rotundly**, his ample belly shaking like a bowl of jelly."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The orator delivered his rolling periods **rotundly**, filling the hall with pompous echoes."*

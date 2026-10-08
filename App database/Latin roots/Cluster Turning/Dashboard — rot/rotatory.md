@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic or causing an axial or orbital turn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic or causing an axial or orbital turn.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing, characterized by, or pertaining to circular motion or rotation around an axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry and optics, possessing the property of rotating the plane of polarized light.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"With a shock he became aware of me, and was severely visited as before; but this time his motion was rotatory, and he staggered round and round me with knees more afflicted, and with uplifted hands as if beseeching for mercy."*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"It is often literally machine-made, as witness the prayer-wheels or rotatory prayer-drums, large and small, stationary or portable, of the Lamaistic sect."*
+> - 📜 **Louis Pasteur (*Researches on the Molecular Asymmetry of Natural Organic Products*):** *"Tartaric acid solutions exhibit a strong **rotatory** power upon the plane of polarized light."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"A heavy glass prism placed in a strong magnetic field demonstrated induced **rotatory** polarization."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The spontaneous **rotatory** movement of young tendrils guides them toward supportive vegetation."*

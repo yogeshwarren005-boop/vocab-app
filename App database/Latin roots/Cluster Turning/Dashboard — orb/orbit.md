@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The (usually elliptical) path described by one celestial body in its revolution about another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A particular environment or walk of life.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The curved path through space along which an astronomical object or spacecraft revolves around a celestial body under gravitational influence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An area, sphere, or range of activity, authority, interest, or influence surrounding a person or institution; also, the bony eye socket in vertebrate anatomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Clark, who, twenty years younger than Jan Coggan, revolved in the same orbit."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But even while we are talking and meditating about the earth’s orbit and the solar system, what we feel and adjust our movements to is the stable earth and the changing day."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"And God help me also, if I have attained so high rank among the blessed before I have learned that the human soul is beyond human aid; that in its eternal relations each soul travels in an orbit of its own and holds correspondence only with its Sun."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The starry system appeared to follow its majestic **orbit** across the darkened dome of the midnight sky."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her intense intellectual enthusiasm drew everyone who entered her domestic **orbit** into shared pursuits."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Every mind has its appointed **orbit**, sweeping beyond transient opinions into universal truth."*

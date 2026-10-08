@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of bothidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of bothidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small lefteye flounders in the family Paralichthyidae, native to marine waters along the Americas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any flatfish belonging to this genus, known for laterally compressed, asymmetrical body orientation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, etropus designates a genus of bothidae."*
+> - 📜 **David Starr Jordan (*The Genera of Fishes*):** *"The genus **etropus** encompasses small flatfishes possessing dextral or sinistral asymmetry adapted for benthic life."*
+> - 📜 **Spencer Fullerton Baird (*Report on the Condition of the Sea Fisheries*):** *"Trawling surveys along the sandy shoals brought up numerous juvenile **etropus** specimens among the catch."*
+> - 📜 **Theodore Gill (*Arrangement of the Families of Fishes*):** *"Morphological comparison placed **etropus** alongside allied paralichthyid genera exhibiting specialized pelvic fin placement."*

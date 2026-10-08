@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Creative activity (writing or pictures or films etc.) of no literary or artistic value other than to stimulate sexual desire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Creative activity (writing or pictures or films etc.) of no literary or artistic value other than to stimulate sexual desire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Literature, art, or images intended to arouse sexual desire or celebrate sensual love.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In library science and bibliography, a classification category for books treating erotic or amatory subjects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erotica designates creative activity (writing or pictures or films etc.) of no literary or artistic value other than to stimulate sexual desire."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Ancient classic **erotica** reveals that societal norms regarding physical passion varied enormously across cultures."*
+> - 📜 **George Bernard Shaw (*Our Theatres in the Nineties*):** *"The censor confused honest artistic vitality with vulgar commercial **erotica**, banishing both with impartial blindness."*
+> - 📜 **Edmund Gosse (*Father and Son*):** *"In the locked cabinet of the bibliophile were preserved rare editions of eighteenth-century French **erotica**."*

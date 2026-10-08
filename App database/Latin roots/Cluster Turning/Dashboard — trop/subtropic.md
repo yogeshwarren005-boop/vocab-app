@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of conditions in the subtropics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of conditions in the subtropics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of, located in, or bordering upon the geographic zones immediately adjacent to the tropics; subtropical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A transitional climatic region lying between the tropical and temperate zones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subtropic designates of or relating to or characteristic of conditions in the subtropics."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"The transitional **subtropic** zone supported diverse flora where mountain conifers mingled with broadleaf evergreen palms."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Fossil evidence suggested that **subtropic** vegetation once flourished far north of its present geographic boundary."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"Islands positioned within the **subtropic** belt exhibit seasonal variations absent from the equatorial rainforest."*

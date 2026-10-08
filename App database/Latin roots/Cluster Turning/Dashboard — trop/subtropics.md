@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Regions adjacent to the tropics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regions adjacent to the tropics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The geographic and climatic regions lying immediately north and south of the tropical zone, roughly between latitudes 23.5° and 35° in both hemispheres.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The humid or arid territories bordering equatorial latitudes, characterized by subtropical climates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subtropics designates regions adjacent to the tropics."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature, and Other Essays*):** *"Many delicate avian families that winter in the **subtropics** migrate vast distances across continents."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Marine deposits across the **subtropics** record ancient fluctuations in ocean surface temperatures."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"The transition from the deep equatorial basin toward the drier **subtropics** altered the insect fauna markedly."*

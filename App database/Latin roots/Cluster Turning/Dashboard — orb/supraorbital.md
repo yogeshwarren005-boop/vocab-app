@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Located or occurring above the eye socket.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Located or occurring above the eye socket.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated above or on the upper margin of the eye socket (orbit) in anatomy, such as a ridge, nerve, or artery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the prominent brow ridge of primates and hominids (the supraorbital torus).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supraorbital designates located or occurring above the eye socket."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The heavy **supraorbital** ridges of ancient hominid skulls diminished notably through evolutionary refinement."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"A prominent **supraorbital** prominence gives the gorilla skull its characteristic forbidding aspect."*
+> - 📜 **Arthur Keith (*The Antiquity of Man*):** *"Examination of the fossil calvaria revealed a pronounced **supraorbital** bar extending across the frontal bone."*

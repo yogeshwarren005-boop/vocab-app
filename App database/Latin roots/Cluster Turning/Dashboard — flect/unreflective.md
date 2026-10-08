@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not exhibiting or characterized by careful thought.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not exhibiting or characterized by careful thought.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not given to introspection, careful deliberation, or analytical thought; impulsive or uncritical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking the optical property of reflecting light or waves; nonreflective.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unreflective designates not exhibiting or characterized by careful thought."*
+> - 📜 **William James (*The Principles of Psychology*):** *"An **unreflective** person accepts sensory appearances at face value without questioning underlying realities."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"A purely **unreflective** life leaves moral character vulnerable to the arbitrary winds of external custom."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"His **unreflective** temper often hurried him into impetuous acts that later repentance could not undo."*

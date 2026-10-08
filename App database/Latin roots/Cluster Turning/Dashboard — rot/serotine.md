@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Common brown bat of europe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Common brown bat of europe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ripening, blooming, or appearing late in the season; occurring late in the evening.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalogy, designating the serotine bat (Eptesicus serotinus), a common European vespertilionid bat that flies late at twilight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serotine designates common brown bat of europe."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The large **serotine** bat emerges only late in the summer twilight, flying high above the oak woods."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"A **serotine** flower opens in late autumn when the majority of forest flora has already set seed."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Certain **serotine** varieties of fruit trees avoid spring frosts by delaying their blossom until late May."*

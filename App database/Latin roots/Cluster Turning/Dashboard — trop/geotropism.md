@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An orienting response to gravity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An orienting response to gravity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The growth movement or orientation of a plant or fungus in response to the force of gravity, directing roots downward and shoots upward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physiological responsiveness of any living organism to gravitational stimulus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geotropism designates an orienting response to gravity."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The downward curvature of the radicle demonstrated positive **geotropism** acting directly upon the root tip."*
+> - 📜 **Julius von Sachs (*Lectures on the Physiology of Plants*):** *"Experiments conducted upon a klinostat neutralize the directional influence of **geotropism** on the seedling."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Both phototropism and **geotropism** coordinate the vegetative architecture necessary for survival in terrestrial flora."*

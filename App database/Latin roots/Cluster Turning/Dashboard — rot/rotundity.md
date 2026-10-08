@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The roundness of a 3-dimensional object.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fullness of a tone of voice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fullness or roundness of a bodily shape, spherical object, or curved surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sonorous fullness and impressive resonance in vocal speech or literary prose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And thou, all-shaking thunder, Strike flat the thick rotundity o’ the world!"*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"There was, moreover, a boldness and rotundity of speech among these matrons, as most of them seemed to be, that would startle us at the present day, whether in respect to its purport or its volume of tone."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"Then, in a flash, I perceived that all had the same form of costume, the same soft hairless visage, and the same girlish rotundity of limb."*
+> - 📜 **William Shakespeare (*King Lear*):** *"And thou, all-shaking thunder, strike flat the thick **rotundity** o' the world!"*
+> - 📜 **James Joyce (*Dubliners*):** *"His figure fell into **rotundity** at the waist, his hair was scant and grey and his face had a ravaged look."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"There was a boldness and **rotundity** of speech among these matrons that would startle us at the present day."*

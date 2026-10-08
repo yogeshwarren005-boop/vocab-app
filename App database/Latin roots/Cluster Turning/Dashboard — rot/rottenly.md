@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a terrible manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a terrible manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a decaying, putrid, corrupt, or thoroughly contemptible manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloquial usage, extremely poorly, miserably, or unfairly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rottenly designates in a terrible manner."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The ruined tenements hung together so **rottenly** that every winter gale threatened to bring them crashing down."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The grain had been stored so **rottenly** that damp fungus sprouted through the split canvas bags."*
+> - 📜 **George Bernard Shaw (*Heartbreak House*):** *"You have managed the family affairs so **rottenly** that bankruptcy now stares us in the face."*

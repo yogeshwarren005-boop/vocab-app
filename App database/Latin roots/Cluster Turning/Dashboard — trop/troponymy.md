@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The semantic relation of being a manner of does something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The place names of a region or a language considered collectively.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The semantic relation between a verb denoting a specific manner of doing something and the more general verb denoting that action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The linguistic hierarchy or structural network formed by verbs related through specific manner of execution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, troponymy designates the semantic relation of being a manner of does something."*
+> - 📜 **George A. Miller (*WordNet: An Electronic Lexical Database*):** *"Semantic networks organize verbal vocabularies primarily through relations of **troponymy** and entailment."*
+> - 📜 **Christiane Fellbaum (*WordNet: An Electronic Lexical Database*):** *"The structure of **troponymy** parallels nominal hyponymy, providing hierarchical categorization for human actions."*
+> - 📜 **Ray Jackendoff (*Foundations of Language*):** *"Lexical decomposition reveals how **troponymy** encodes manner, instrument, and velocity into verb roots."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deeply or seriously thoughtful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of physically reflecting light or sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of reflecting light, heat, or sound; functioning like a mirror.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by or given to serious, contemplative thought; meditative.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They mounted in front of the waggon, and Abraham grew reflective."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I have watched him every day, and have found it out.” There was a reflective silence."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her one desire, so long resisted, to make herself his, to call him her lord, her own—then, if necessary, to die—had at last lifted her up from her plodding reflective pathway."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"They mounted in front of the waggon, and Abraham grew **reflective**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"There were many crass minds in Middlemarch whose **reflective** scales could only weigh things in the lump."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The boy is a Greek; the youth, romantic; the adult, **reflective**."*

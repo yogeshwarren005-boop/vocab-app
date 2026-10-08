@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With flexibility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With flexibility.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a supple, pliable, and bending manner; with physical resilience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an adaptable, accommodating, or non-rigid way.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He carried close to his leg a narrow unsheathed sword (small, curved, and not like a real weapon) and looked now at the superior officers and now back at the men without losing step, his whole powerful body turning flexibly."*
+> - 📜 **George Eliot (*Silas Marner*):** *"He had made for them two thick leather bags, which wasted no room, but lent themselves **flexibly** to every corner."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"Eyes full of sparkling wickedness, ears finely cut, **flexibly** moving."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The young tendril curves **flexibly** around the wire until its adhesive discs take firm hold."*

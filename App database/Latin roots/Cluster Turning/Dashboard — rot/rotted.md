@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Break down.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become physically weaker.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Decomposed or decayed naturally through bacterial, fungal, or environmental action; putrefied.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Corrupted or deteriorated morally, socially, or institutionally.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The ox hath therefore stretch’d his yoke in vain, The ploughman lost his sweat, and the green corn Hath rotted ere his youth attain’d a beard."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If that be made a theme for disputation, The branches of another root are rotted, And undeserved reproach to him allotted That is as clear from this attaint of mine As I, ere this, was pure to Collatine."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"They look, in colour and in substance, like a bundle of rank leaves of swampy growth that rotted long ago."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"The ploughman lost his sweat, and the green corn hath **rotted** ere his youth attained a beard."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode had been a partner in trading concerns, as in the case of the dyes which **rotted** Mr. Vincy's silk."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The city would have died out, **rotted**, and exploded, long ago, but that it was reinforced from the fields."*

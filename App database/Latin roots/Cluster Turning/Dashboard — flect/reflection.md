@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A calm, lengthy, intent consideration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The phenomenon of a propagating wave (light or sound) being thrown back from a surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The throwing back by a body or surface of light, heat, or sound without absorbing it; a reflected image in a mirror.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serious thought, deep mental deliberation, or retrospective consideration over a subject.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, as I told you always, her beauty and her brain go not together; she’s a good sign, but I have seen small reflection of her wit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SECOND LORD. [_Aside._] She shines not upon fools, lest the reflection should hurt her."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, Cassius, for the eye sees not itself But by reflection, by some other thing."*
+> - 📜 **William Shakespeare (*Cymbeline*):** *"She's a good sign, but I have seen small **reflection** of her wit."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She blushed at herself, and seeing her **reflection** blush, blushed the more."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"A little **reflection** will explain why along the rising coast no extensive formations with tertiary remains can be found."*

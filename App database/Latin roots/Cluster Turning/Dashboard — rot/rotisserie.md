@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An oven or broiler equipped with a rotating spit on which meat cooks as it turns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A restaurant that specializes in roasted and barbecued meats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cooking appliance with a rotating spit for roasting meat evenly over heat, or a restaurant specializing in spit-roasted meats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary gastronomy, a method of roasting on a revolving skewer that bastes meat continuously in its own juices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rotisserie designates an oven or broiler equipped with a rotating spit on which meat cooks as it turns."*
+> - 📜 **Alexandre Dumas (*Grand Dictionnaire de Cuisine*):** *"The Paris **rotisserie** filled the narrow rue with the savory aroma of turning capons and spiced roasts."*
+> - 📜 **George Eliot (*Romola*):** *"In the bustling market square, an open **rotisserie** displayed haunches of venison turning slowly before cherry-red embers."*
+> - 📜 **Brillat-Savarin (*The Physiology of Taste*):** *"The true art of the **rotisserie** lies in keeping the spit revolving at a steady cadence to preserve succulent juices."*

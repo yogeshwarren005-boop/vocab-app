@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A change in the form of a word (usually by adding a suffix) to indicate a change in its grammatical function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The patterns of stress and intonation in a language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A change in the form of a word (typically the ending) to express a grammatical function or attribute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A change in the pitch, tone, or modulation of the human voice in speaking.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He spoke to her in low tones, and she instinctively modulated her own to the same pitch, and her voice ultimately even caught the inflection of his."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Nonsense; wou’st never be so ungrateful, Joseph—never!” said Coggan, expressing hurt feelings by an inflection of voice."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Holding the scroll low so that his listeners could see his face, he read from the scroll without hesitation or inflection."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The subtle **inflection** of her voice betrayed a tenderness she vainly strove to conceal."*
+> - 📜 **James Joyce (*Dubliners*):** *"His speech had that peculiar flat **inflection** characteristic of the Dublin suburbs."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The decay of grammatical **inflection** in modern English led to a stricter reliance on word order."*

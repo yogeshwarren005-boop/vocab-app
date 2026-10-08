@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inflexible manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an inflexible manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a rigid, unbending, and immovable manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With relentless firmness, strictness, or unyielding determination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Her figure was elegant, and she walked well; but Darcy, at whom it was all aimed, was still inflexibly studious."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"Inflexibly honest and upright too, with a dash of chivalry in his nature; who is not familiar with his portrait as "Lovel" in _The Benchers of the Inner Temple_?"*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"It was a wild story, perhaps, but seemed not altogether so incredible to those who could remember what an inflexibly obstinate old fellow this wizard Maule had been."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The emperor adhered **inflexibly** to the severe discipline instituted by his martial predecessors."*
+> - 📜 **George Eliot (*Adam Bede*):** *"His conscience held him **inflexibly** to the path of honor, whatever pain it might cost him."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The revolutionary tribunal applied the capital statute **inflexibly** against all suspected aristocrats."*

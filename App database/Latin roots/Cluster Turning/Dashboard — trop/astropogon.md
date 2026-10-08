@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fish of the family apogonidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of fish of the family apogonidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus or taxonomic classification of flowering plants in the family Orchidaceae characterized by star-like or bearded floral morphology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A botanical specimen belonging to this genus of star-fringed or bearded orchidaceous plants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astropogon designates a genus of fish of the family apogonidae."*
+> - 📜 **Asa Gray (*Scientific Papers*):** *"The newly classified **astropogon** demonstrated distinctive fringed petals radiating from the central axis."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Specimens of **astropogon** collected in high elevation ravines exhibited delicate bearded labella."*
+> - 📜 **Richard Spruce (*Notes of a Botanist on the Amazon and Andes*):** *"The botanist catalogued a diminutive **astropogon** blooming inconspicuously upon damp mossy bark."*

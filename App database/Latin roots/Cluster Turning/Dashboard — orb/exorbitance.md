@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive excess.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive excess.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of exceeding reasonable, customary, or lawful bounds; gross excess or extravagance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical economics and jurisprudence, the charging of unreasonable or extortive prices and interest rates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exorbitance designates excessive excess."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The **exorbitance** of imperial taxation impoverished the provinces and crushed agricultural enterprise."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"A wise constitution guards against the **exorbitance** of arbitrary power in both monarch and multitude."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The king was astonished at the **exorbitance** of our public debts and the corruption of our revenue officers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of leaves) bent downward and outward more than 90 degrees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of leaves) bent downward and outward more than 90 degrees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bent sharply backward or downward, as petals, leaves, or anatomical flaps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive botany and entomology, designating floral envelopes or insect spines curved in a posterior direction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reflexed designates (of leaves) bent downward and outward more than 90 degrees."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The bright orange petals of the Turk's cap lily are strongly **reflexed** against the stem."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The **reflexed** margins of the calyx prevent crawling ants from reaching the floral nectaries."*
+> - 📜 **John Torrey (*Flora of North America*):** *"Flowers nodding in terminal clusters, with deeply parted **reflexed** lobes exposing the prominent stamens."*

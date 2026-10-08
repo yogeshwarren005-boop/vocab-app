@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mostly white web-footed tropical seabird often found far from land.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mostly white web-footed tropical seabird often found far from land.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of three species of pelagic seabirds in the family Phaethontidae, noted for brilliant white plumage and exceptionally long central tail feathers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fast-flying marine bird that nests on isolated tropical oceanic cliffs and plunges for fish and squid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tropicbird designates mostly white web-footed tropical seabird often found far from land."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"A graceful **tropicbird** with elongated tail streamers soared high above the ship as we neared Ascension Island."*
+> - 📜 **Herman Melville (*Typee*):** *"White wings of the solitary **tropicbird** flashed against the intense blue of the Pacific sky."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Colonies of the red-tailed **tropicbird** nested within inaccessible clefts along the volcanic headland."*

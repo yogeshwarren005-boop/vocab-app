@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (especially of incident sound or light) not turned back by physical reflection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (especially of incident sound or light) not turned back by physical reflection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not thrown back or deflected by a mirror or boundary surface; directly transmitted or absorbed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not subjected to critical contemplation or conscious thought; spontaneous, impulsive, or unexamined.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unreflected designates (especially of incident sound or light) not turned back by physical reflection."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Simple sensory impressions enter the understanding in an **unreflected** condition before internal deliberation occurs."*
+> - 📜 **John Tyndall (*Light: Six Lectures Delivered in America*):** *"The **unreflected** rays pass through the transparent medium until they meet a denser boundary."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Many everyday motor reactions remain completely **unreflected**, flowing automatically along established neural channels."*

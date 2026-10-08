@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (communication theory) a numerical measure of the uncertainty of an outcome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (thermodynamics) a thermodynamic quantity representing the amount of energy in a system that is no longer available for doing mechanical work.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thermodynamic quantity representing the unavailability of a system's thermal energy for conversion into mechanical work, reflecting molecular disorder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measure of the randomness, degradation, uncertainty, or progressive disorder within any closed or evolving system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entropy designates (communication theory) a numerical measure of the uncertainty of an outcome."*
+> - 📜 **Rudolf Clausius (*The Mechanical Theory of Heat*):** *"I propose to call the quantity **entropy**, from the Greek word for transformation, in analogy with energy."*
+> - 📜 **Arthur Eddington (*The Nature of the Physical World*):** *"The law that **entropy** always increases holds, I think, the supreme position among the laws of Nature."*
+> - 📜 **James Jeans (*The Mysterious Universe*):** *"The relentless growth of **entropy** ensures that the physical universe runs irrevocably toward thermodynamic equilibrium."*

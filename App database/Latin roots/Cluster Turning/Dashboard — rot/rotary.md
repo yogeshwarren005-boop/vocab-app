@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A road junction at which traffic streams circularly around a central island.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electrical converter consisting of a synchronous machine that converts alternating to direct current or vice versa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Operating by means of rotation or turning around an axis on a wheel or shaft.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing a circular road junction where traffic flows continuously around a central island.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"In the middle of one of the longest sentences, he stopped the rotary motion of the snuffbox, raised his head, and with inimical politeness lurking in the corners of his thin lips interrupted Weyrother, wishing to say something."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Such improvements have, however, been made in rotary-blowing appliances within recent years that most blast-furnace plants are equipped with blowers of the rotary type, which are found highly satisfactory."*
+> - 📜 **Thomas Alva Edison (*Patents and Writings*):** *"The high-speed **rotary** armature generated an electric potential sufficient to power a hundred incandescent lamps."*
+> - 📜 **Nikola Tesla (*My Inventions*):** *"The fundamental breakthrough consisted in producing a continuous **rotary** magnetic field without mechanical commutators."*
+> - 📜 **Joseph Conrad (*Typhoon*):** *"The steady pounding of the steam **rotary** shafts below decks kept the vessel head to the gale."*

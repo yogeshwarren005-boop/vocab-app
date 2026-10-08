@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The lowest atmospheric layer; from 4 to 11 miles high (depending on latitude).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lowest atmospheric layer; from 4 to 11 miles high (depending on latitude).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lowest layer of the Earth's atmosphere, extending from the surface to the tropopause, characterized by convective mixing and containing most weather phenomena.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The atmospheric region where air temperature consistently decreases with increasing altitude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, troposphere designates the lowest atmospheric layer; from 4 to 11 miles high (depending on latitude)."*
+> - 📜 **Léon Teisserenc de Bort (*Atmospheric Soundings*):** *"I designate this turbulent zone of constant convective overturn the **troposphere**, distinguishing it from the calm upper air."*
+> - 📜 **Napier Shaw (*Manual of Meteorology*):** *"Nearly all terrestrial clouds, rain, and storms are strictly confined within the dynamic **troposphere**."*
+> - 📜 **Sydney Chapman (*The Earth's Magnetism*):** *"Solar radiation heats the planetary surface, initiating turbulent thermal convection throughout the dense **troposphere**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of physical reflection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of physical reflection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking the property of reflecting light or radiant waves; having a dull, matte finish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not given to introspection, critical thinking, or deep contemplative analysis; thoughtless.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonreflective designates not capable of physical reflection."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A purely instinctive habit proceeds in a **nonreflective** manner without conscious deliberation."*
+> - 📜 **John Stuart Mill (*Autobiography*):** *"He led a hurried, **nonreflective** existence dominated by immediate administrative emergencies."*
+> - 📜 **John Tyndall (*Fragments of Science*):** *"The apparatus was lined with a **nonreflective** black velvet to extinguish spurious reflections."*

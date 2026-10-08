@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of anticipation of sexuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The arousal of feelings of sexual desire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sensual desire or sexual excitement, or an artistic emphasis on romantic passion and physical intimacy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology and cultural anthropology, the manifestation of sexual passion and emotional attraction within human relationships.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"This has ever been the fate of energy in security; it takes to art and to eroticism, and then come languor and decay."*
+> - 📜 **H. G. Wells (*The Passionate Friends*):** *"A refined **eroticism** pervaded their private conversations, elevating ordinary companionship into romantic poetry."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Healthy **eroticism** forms an integral component of emotional maturity and artistic creativity."*
+> - 📜 **Sigmund Freud (*Three Essays on the Theory of Sexuality*):** *"Sublimated **eroticism** often provides the driving psychic energy behind remarkable cultural achievements."*

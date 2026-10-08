@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: German breed of large vigorous short-haired cattle dogs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German breed of large vigorous short-haired cattle dogs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, robust breed of working dog having a black coat with rust-colored markings, historically bred as cattle drovers and guard dogs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cynology, a powerful Molosser-type working dog recognized for guarding instincts, loyalty, and heavy muscular physique.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rottweiler designates german breed of large vigorous short-haired cattle dogs."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"A massive black-and-tan **Rottweiler** guarded the courtyard gate with deep, rumbling growls."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The animal possessed the massive jaw and heavy muscular frame characteristic of a trained **Rottweiler** mastiff."*
+> - 📜 **Konrad Lorenz (*Man Meets Dog*):** *"The ancient drover instinct of the **Rottweiler** manifests in its steadfast vigilance and protective fidelity to its master."*

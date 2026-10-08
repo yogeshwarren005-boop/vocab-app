@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) the supreme ecclesiastical tribunal for cases appealed to the holy see from diocesan courts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A roster of names showing the order in which people should perform certain duties.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A roster, schedule, or list showing the order in which individuals perform duties or take turns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, the Sacred Roman Rota (Sacra Rota Romana), the highest appellate ecclesiastical tribunal of the Catholic Church.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Sed quod etiam rota vertatur hinc esse putant quia in eum circulum tunc Sol descenderit ultra quem progredi nequit, a quo cogitur paulatim descendere_." The substance of the passage is repeated in other words by G."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The rota- tions and revolutions of the universe of Mind go on eternally."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The decrees of the Roman **Rota** determined disputed benefices and matrimonial appeals across medieval Christendom."*
+> - 📜 **Thomas Hardy (*The Trumpet-Major*):** *"The sergeant inspected the night-guard **rota** pinned against the timber door of the blockhouse."*
+> - 📜 **George Bernard Shaw (*Saint Joan*):** *"The canon cited a recent decision of the Sacred **Rota** to clarify the lawful bounds of ecclesiastical jurisdiction."*

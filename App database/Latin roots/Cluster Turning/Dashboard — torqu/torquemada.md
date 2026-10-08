@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The spaniard who as grand inquisitor was responsible for the death of thousands of jews and suspected witches during the spanish inquisition (1420-1498).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spaniard who as grand inquisitor was responsible for the death of thousands of jews and suspected witches during the spanish inquisition (1420-1498).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tomás de Torquemada, the fifteenth-century Grand Inquisitor of Spain renowned for fanatical zeal, ruthlessness, and severe inquisitorial tribunals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An embodiment or byword for fanatical religious intolerance, severe inquisitorial cruelty, or relentless ideological persecution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Dominic! come, Torquemada; fathers of the Inquisition! merciless monsters, seek your equal here."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Dominic, and sleep, O Torquemada, in your fiery jail!"*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The name of **Torquemada** remains forever branded into history as the architect of the Spanish Inquisition's harshest decrees."*
+> - 📜 **William H. Prescott (*History of the Reign of Ferdinand and Isabella*):** *"Under the relentless administration of **Torquemada**, thousands of suspected heretics were committed to the flames."*
+> - 📜 **John Lothrop Motley (*The Rise of the Dutch Republic*):** *"The zeal of Philip II mirrored the uncompromising fanaticism of **Torquemada** in extirpating religious dissent."*

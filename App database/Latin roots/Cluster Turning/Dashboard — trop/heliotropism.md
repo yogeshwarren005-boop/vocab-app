@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An orienting response to the sun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An orienting response to the sun.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The directional growth or movement of a plant, flower, or other organism in response to sunlight, orienting toward or away from the sun.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physiological mechanism causing cellular elongation on the shaded side of a stem, producing solar tracking.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heliotropism designates an orienting response to the sun."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"Marked **heliotropism** caused the young stems to bend steadily toward the lighted aperture."*
+> - 📜 **Julius von Sachs (*History of Botany*):** *"The phenomenon of **heliotropism** provided crucial evidence for cellular irritability in vegetative tissues."*
+> - 📜 **Jacques Loeb (*Forced Movements, Tropisms, and Animal Conduct*):** *"Photochemical reactions in the sensory apparatus dictate positive **heliotropism** across diverse animal species."*

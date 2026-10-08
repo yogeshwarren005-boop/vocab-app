@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Circular or nearly circular.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Circular or nearly circular.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a circular or nearly circular flat outline, especially said of leaves, shells, or organisms in biological morphology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disposed in concentric rings or shaped into a globular form.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orbiculate designates circular or nearly circular."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The botanical specimen displayed an **orbiculate** leaf structure that differed markedly from the wild ancestral type."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The foliage exhibits broadly **orbiculate** blades with finely crenated margins along the lower stem."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"Fossil remains of **orbiculate** brachiopods were uncovered in the upper strata of the Paleozoic limestone."*

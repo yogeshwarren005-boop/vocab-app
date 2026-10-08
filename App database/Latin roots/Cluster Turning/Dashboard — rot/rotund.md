@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spherical in shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of sounds) full and rich.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Round or plump in shape; possessing a full, curving contour or silhouette.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In speech, sonorous, deep, and rich in vocal resonance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Behind the city swept the rotund upland of St Catherine’s Hill; further off, landscape beyond landscape, till the horizon was lost in the radiance of the sun hanging above it."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In shape, he differs in some degree from the Huzza Porpoise, being of a less rotund and jolly girth; indeed, he is of quite a neat and gentlemanlike figure."*
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"A queer little pumpkin, a jolly fat fellow, Stood close to his mother so rotund and yellow."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Behind the city swept the **rotund** upland of St Catherine's Hill; further off, landscape beyond landscape."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The Golden Hind returned with her **rotund** flanks full of treasure, to be visited by the Queen's Highness."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"In shape, he differs in some degree from the Huzza Porpoise, being of a less **rotund** and jolly girth."*

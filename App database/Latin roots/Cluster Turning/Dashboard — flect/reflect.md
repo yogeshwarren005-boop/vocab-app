@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Manifest or bring back.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reflect deeply on a subject.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To throw back heat, light, or sound without absorbing it; to cast back an image from a shiny surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To think deeply, meditate, or carefully deliberate upon a subject or past experience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Reflect upon him accordingly, as you value your trust."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tribunes, I thank you; and this suit I make, That you create your emperor’s eldest son, Lord Saturnine; whose virtues will, I hope, Reflect on Rome as Titan’s rays on earth, And ripen justice in this commonweal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, alas, Being a natural sister of our sex, Your sorrow beats so ardently upon me That it shall make a counter-reflect ’gainst My brother’s heart and warm it to some pity, Though it were made of stone."*
+> - 📜 **William Shakespeare (*Henry VI, Part 1*):** *"**Reflect** upon him accordingly, as you value your trust."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"As the looking-glass was only large enough to **reflect** a very small portion of Tess's person, Mrs Durbeyfield hung a black cloak outside."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"When we **reflect** on this struggle, we may console ourselves with the full belief that the war of nature is not incessant."*

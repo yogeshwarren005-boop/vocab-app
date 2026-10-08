@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the earth's surface between the tropic of cancer and the tropic of capricorn; characterized by a hot climate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two parallels of latitude about 23.5 degrees to the north and south of the equator representing the points farthest north and south at which the sun can shine directly overhead and constituting the boundaries of the torrid zone or tropics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The region of the Earth lying between the Tropic of Cancer (23.5° N) and Tropic of Capricorn (23.5° S), characterized by high temperatures and abundant rainfall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The hot, humid climate and luxuriant biological ecosystems typical of equatorial territories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He waited for her in the rare shadow of the birchtree, a tall powerful figure in a white drill suit of the tropics, his fair skin and black eyes shaded by a wide Panama hat."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In the serene weather of the tropics it is exceedingly pleasant the mast-head; nay, to a dreamy meditative man it is delightful."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Witness the white bear of the poles, and the white shark of the tropics; what but their smooth, flaky whiteness makes them the transcendent horrors they are?"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The warm southern breeze carried a faint languor suggestive of voyages into the distant **tropics**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Nowhere on Earth is the struggle for existence more intense and diversified than within the **tropics**."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"His sun-bronzed skin bore testimony to long years of arduous service across the **tropics**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An erotic person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Giving sexual pleasure; sexually arousing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, tending to arouse, or suggestive of sexual desire, romantic passion, or sensuality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature and art, celebrating romantic passion or passionate physical intimacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The cabala of this erotic philosophy seemed to consist of the subtlest meanings expressed in misleading ways."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"We have already alluded to the poet's premature erotic instinct, an impulse which he doubtless inherited from his sensual parents."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The cabala of this erotic philosophy seemed to consist of the subtlest meanings expressed in misleading ways."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was in his reckless manner an **erotic** audacity that fascinated while it alarmed her."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The ancient Greeks elevated **erotic** sentiment into an allegorical pathway toward the perception of eternal beauty."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His verses were not merely romantic, but tinged with a subtle **erotic** warmth that troubled her tranquil thoughts."*

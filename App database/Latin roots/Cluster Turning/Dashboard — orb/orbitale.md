@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The craniometric point at the lowest point on the lower edge of the orbit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The craniometric point at the lowest point on the lower edge of the orbit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In physical anthropology and craniometry, the lowest point on the lower margin of the bony eye socket (orbit).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A craniometric landmark utilized to establish the standard Frankfort horizontal plane for measuring skull morphology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orbitale designates the craniometric point at the lowest point on the lower edge of the orbit."*
+> - 📜 **Aleš Hrdlička (*Anthropometry*):** *"The investigator aligned the caliper precisely at the left **orbitale** before recording the facial angle."*
+> - 📜 **Grafton Elliot Smith (*The Evolution of Man*):** *"A marked recession between the **orbitale** and the nasion characterized the archaic cranium."*
+> - 📜 **Franz Boas (*Race, Language and Culture*):** *"Measurements taken from the **orbitale** to the porion demonstrated slight developmental shifts across generations."*

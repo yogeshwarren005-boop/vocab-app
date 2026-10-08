@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn on or around an axis or a center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exchange on a regular basis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Turned around a central pivot or axis; alternated in a systematic cyclical sequence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometric optics and botany, positioned in a wheel-like or radial arrangement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Climbing in and closing up, he stepped under a helmet rack, drew it down, rotated mating surfaces, closed and locked the seals."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The well is closed with a plug as thick as the armor, and it's rotated into place."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"This apparatus consists of a horizontal wheel which can be rotated slowly, carrying a series of arms at the end of which the moulds are supported, so that they form a broken ring."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The apex of the shoot **rotated** slowly toward the light, tracing an elliptical circuit in the air."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"When the arm is **rotated** outward, the supinator longus muscle is brought into sharp relief."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The instrument was **rotated** through a complete circle to eliminate magnetic mounting errors."*

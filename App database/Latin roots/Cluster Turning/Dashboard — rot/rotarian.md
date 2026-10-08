@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a rotary club.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a rotary club.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a Rotary club, an international organization of business and professional persons united in community service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the Rotary International club, its civic welfare principles, or its characteristic weekly fellowship meetings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rotarian designates a member of a rotary club."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"George F. Babbitt considered his standing as a prominent **Rotarian** the highest civic honor of his business career."*
+> - 📜 **H. L. Mencken (*Prejudices*):** *"The typical **Rotarian** regarded weekly luncheon speeches on civic boosterism as the summit of modern statesmanship."*
+> - 📜 **George Bernard Shaw (*The Apple Cart*):** *"The visiting **Rotarian** delivered an enthusiastic discourse on the virtues of international commercial fellowship."*

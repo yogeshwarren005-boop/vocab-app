@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of physical flexibility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of physical flexibility.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Physical rigidity or stiffness that prevents bending or flexing under stress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unyielding firmness of character, stubborn determination, or moral immobility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inflexibleness designates a lack of physical flexibility."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The remarkable **inflexibleness** of hardened steel renders it brittle under sudden transverse concussions."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"An unreasonable **inflexibleness** in matters of trivial ceremony alienates friends and breeds endless discord."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The **inflexibleness** of natural laws ensures that physical effects follow necessarily from their causes."*

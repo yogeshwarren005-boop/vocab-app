@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bend or turn backward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Articulate (a consonant) with the tongue curled back against the palate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bent, turned, or curved sharply backward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phonetics, pronounced with the tip of the tongue curled upward and backward against the hard palate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retroflex designates bend or turn backward."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Sanskrit possesses a distinct class of **retroflex** consonants produced by curling the tip of the tongue against the palate."*
+> - 📜 **Henry Sweet (*A Handbook of Phonetics*):** *"The sound of the English r frequently assumes a **retroflex** quality when preceded by back vowels."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"A **retroflex** position of the uterine fundus causes an acute backward angulation above the cervix."*

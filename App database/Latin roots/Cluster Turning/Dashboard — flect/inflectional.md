@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by inflections indicating grammatical distinctions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by inflections indicating grammatical distinctions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by the modification of words to express grammatical relationships.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics, describing synthetic morphological systems that mark syntax via affixes rather than prepositions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inflectional designates characterized by inflections indicating grammatical distinctions."*
+> - 📜 **Max Müller (*The Science of Language*):** *"The loss of ancient **inflectional** endings simplified the surface morphology of Germanic tongues."*
+> - 📜 **William Dwight Whitney (*Language and the Study of Language*):** *"An **inflectional** paradigm displays the systematic variation of a noun across case and number."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Latin relies on an elaborate **inflectional** apparatus to govern sentence structure."*

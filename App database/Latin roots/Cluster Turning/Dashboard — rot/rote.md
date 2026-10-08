@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Memorization by repetition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Memorization by repetition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mechanical or habitual repetition of something to be learned; memorization without deep understanding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sound of surf breaking rhythmically upon a rocky shore.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First rehearse your song by rote, To each word a warbling note; Hand in hand, with fairy grace, Will we sing, and bless this place. [_Song and Dance._] OBERON."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, she knew well Thy love did read by rote, that could not spell."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And as he looked at the unpracticed mouth and lips, he thought that such a daughter of the soil could only have caught up the sentiment by rote."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"All his faults observed, set in a note-book, learned and conned by **rote**, to cast into my teeth."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"He thought that such a daughter of the soil could only have caught up the sentiment by **rote**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"If a person be interrupted in a song, or in repeating anything by **rote**, he is generally forced to go back."*

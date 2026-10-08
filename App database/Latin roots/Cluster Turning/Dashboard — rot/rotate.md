@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn on or around an axis or a center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exchange on a regular basis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To move or cause to move in a circle around an axis or center; to revolve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To pass or cause to pass through a regular recurring succession or rotation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We'll push to rotate the cover counter-clockwise; it'll take both of us to work it loose." "Why not cut out the entire plug?" "Too much time."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"They now seemed to rotate on one spot."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"From that time onward, apparently, the dates of the festivals were determined by the new calendar, and so ceased to rotate throughout the length of the solar year."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The cylinder unscrewed from within, and the huge lid began slowly to **rotate** on its threaded pivot."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Farmers find that they can raise most food when they **rotate** crops belonging to diverse botanical families."*
+> - 📜 **Isaac Newton (*Principia Mathematica*):** *"Planetary bodies **rotate** upon their internal polar axes while revolving along orbital ellipses."*

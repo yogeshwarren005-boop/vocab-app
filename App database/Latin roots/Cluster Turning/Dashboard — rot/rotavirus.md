@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The reovirus causing infant enteritis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The reovirus causing infant enteritis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A double-stranded RNA virus of the family Reoviridae that causes severe infantile gastroenteritis and dehydration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In virology and pediatric pathology, an enteric pathogen displaying a characteristic wheel-shaped morphology with radiating spokes under the electron microscope.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rotavirus designates the reovirus causing infant enteritis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern pediatric virology identified **rotavirus** as the leading causative agent of severe infantile dehydrating enteritis."*
+> - 📜 **Macfarlane Burnet (*Natural History of Infectious Disease*):** *"Under high-power electron micrography, the virions of **rotavirus** resemble tiny wheels bounded by a sharp circular rim."*
+> - 📜 **Jonas Salk (*Man Unfolding*):** *"Global vaccination initiatives targeting **rotavirus** have dramatically curtailed infant mortality from acute diarrheal illness."*

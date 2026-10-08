@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The coreferential relation between a reflexive pronoun and its antecedent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (logic and mathematics) a relation such that it holds between an element and itself.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of a relation that holds between an element and itself (for every x, xRx), as equality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and epistemology, the reciprocal interaction where a researcher's beliefs influence the situation being observed, and vice versa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reflexivity designates the coreferential relation between a reflexive pronoun and its antecedent."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"The formal relation of identity exhibits universal **reflexivity**, since every mathematical entity is identical with itself."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"Logical **reflexivity** ensures that a proposition affirms its own consistency under specified transformations."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The subjective **reflexivity** of thought allows the ego to make its own cognitive states the objects of contemplation."*

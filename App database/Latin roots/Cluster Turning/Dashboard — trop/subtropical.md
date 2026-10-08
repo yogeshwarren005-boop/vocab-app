@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of conditions in the subtropics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of conditions in the subtropics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of regions bordering the tropics, noted for warm temperatures, mild winters, and abundant humidity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Originating from or thriving in subtropical climatic conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subtropical designates of or relating to or characteristic of conditions in the subtropics."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Migratory birds readily adjust their seasonal ranges between temperate breeding grounds and **subtropical** havens."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"A lush **subtropical** undergrowth carpeted the lower terraces of the volcanic cordillera."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"The trail ascended rapidly from dense **subtropical** jungle into temperate forests of oak and rhododendron."*

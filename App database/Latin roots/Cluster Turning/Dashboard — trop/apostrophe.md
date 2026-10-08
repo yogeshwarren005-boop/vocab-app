@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Address to an absent or imaginary person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mark (') used to indicate the omission of one or more letters from a printed word.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhetorical figure of speech in which a speaker or writer suddenly breaks off to address directly a personified abstraction, deceased individual, or absent entity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A punctuation mark (’) used to denote the omission of letters or figures, or to mark the possessive case.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sit down!” This little apostrophe to Mrs."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"He then explained this affectionate apostrophe, by touching his brooch representing the lady and the weeping willow at the tomb with the urn upon it, and saying, “Had it made for me, express!” “Is the lady anybody?” said I."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers and Wemmick did after this apostrophe."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"With a sudden **apostrophe** to the unseen heavens, he poured forth his bitter sorrow into the night."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The speaker paused in his discourse to utter a solemn **apostrophe** to the raging sea."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Poetic passion frequently justifies an impassioned **apostrophe** addressed to inanimate nature."*

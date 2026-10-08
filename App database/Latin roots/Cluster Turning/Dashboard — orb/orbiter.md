@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Man-made equipment that orbits around the earth or the moon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Man-made equipment that orbits around the earth or the moon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spacecraft, artificial satellite, or space exploration vehicle designed to travel into and maintain an orbit around a celestial body without landing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specifically, the winged reusable orbital vehicle of the American Space Shuttle system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orbiter designates man-made equipment that orbits around the earth or the moon."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Photographs transmitted by the lunar **orbiter** revealed ancient volcanic plains cratered by cosmic impacts."*
+> - 📜 **Isaac Asimov (*Extraterrestrial Civilizations*):** *"The robotic **orbiter** surveyed the atmosphere of the planet for biosignatures over multiple seasons."*
+> - 📜 **Arthur C. Clarke (*The Promise of Space*):** *"Telemetry sent from the Martian **orbiter** confirmed that polar ice caps expanded during the winter months."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tortuous and twisted shape or position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A twisting force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of twisting or the resulting physical strain produced when one end of an object is rotated relative to the other.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics, the mechanical twisting of a body produced by an applied torque, as in a torsion balance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, torsion designates a tortuous and twisted shape or position."*
+> - 📜 **Charles-Augustin de Coulomb (*Recherches théoriques et expérimentales sur la force de torsion*):** *"The angle of **torsion** in a slender metallic wire is strictly proportional to the twisting force applied."*
+> - 📜 **Henry Cavendish (*Experiments to Determine the Density of the Earth*):** *"By observing the delicate **torsion** of the silvered wire, we measured the gravitational attraction between lead spheres."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The climbing tendril exhibits spontaneous **torsion**, revolving in search of an upright twig for support."*

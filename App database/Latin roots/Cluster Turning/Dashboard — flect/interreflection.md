@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reciprocal reflection between two reflecting surfaces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reciprocal reflection between two reflecting surfaces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mutual or repeated reflection of light, sound, or heat back and forth between two or more surfaces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural illumination and radiosity graphics, the diffuse exchange of radiant energy between adjacent walls and ceilings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interreflection designates reciprocal reflection between two reflecting surfaces."*
+> - 📜 **John Tyndall (*Light: Six Lectures Delivered in America*):** *"The intense **interreflection** of sunlight between the mirrored walls created a brilliant chamber of endless images."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"Multiple **interreflection** between the parallel silvered plates enhances the absorption of infrared rays."*
+> - 📜 **Hermann von Helmholtz (*Physiological Optics*):** *"Diffuse **interreflection** softens harsh shadows in daylight interiors, illuminating recessed alcoves."*

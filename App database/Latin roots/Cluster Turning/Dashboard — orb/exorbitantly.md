@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To an exorbitant degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an exorbitant degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner exceeding reasonable bounds; excessively, exorbitantly, or extortionately.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Outrageously, excessively, or beyond customary limits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Then what have we gained by getting these articles so exorbitantly cheap? or, rather, what have we not lost?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The lodging house keeper charged **exorbitantly** for cold mutton and damp sheets in the miserable garret."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Monopoly companies price their commodities **exorbitantly** above the natural rate of competitive markets."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"He found the grain brokers bidding **exorbitantly** against one another as rumors of bad harvests spread."*

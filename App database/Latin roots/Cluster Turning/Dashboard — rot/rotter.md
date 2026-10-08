@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is deemed to be despicable or contemptible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is deemed to be despicable or contemptible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A worthless, thoroughly objectionable, or dishonorable person; an unprincipled scoundrel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In late 19th- and early 20th-century British slang, an individual guilty of cad-like, cowardly, or deceitful conduct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"You ought to be ducked in the horsepond, you rotter! _(To the court.)_ Why, look at the man’s private life!"*
-> - 📜 **James Joyce (*Ulysses*):** *"ZOE: _(In sudden sulks.)_ I hate a rotter that’s insincere."*
+> - 📜 **P. G. Wodehouse (*The Inimitable Jeeves*):** *"The fellow proved an absolute **rotter**, borrowing five quid and vanishing before the bill arrived."*
+> - 📜 **Arthur Conan Doyle (*The Poison Belt*):** *"He had always considered Challenger an impossible egotist, but never an unpatriotic **rotter**."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"Freddy may be somewhat simple, but he is certainly no deceitful **rotter** in his treatment of ladies."*

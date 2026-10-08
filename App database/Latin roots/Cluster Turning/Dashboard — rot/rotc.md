@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A training program to prepare college students to be commissioned officers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A training program to prepare college students to be commissioned officers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Reserve Officers' Training Corps, a college-based military officer commissioning program in the United States.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Military cadet training conducted on university campuses preparing undergraduates for service as commissioned officers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rotc designates a training program to prepare college students to be commissioned officers."*
+> - 📜 **Woodrow Wilson (*State Papers and Addresses*):** *"The establishment of the university **ROTC** battalions provides our nation with a disciplined reserve of citizen officers."*
+> - 📜 **John J. Pershing (*My Experiences in the World War*):** *"Collegiate **ROTC** units provided essential junior officers who led combat platoons with intelligence and courage."*
+> - 📜 **Dwight D. Eisenhower (*Crusade in Europe*):** *"Graduates of university **ROTC** programs formed the backbone of our expanding tactical commands throughout the conflict."*

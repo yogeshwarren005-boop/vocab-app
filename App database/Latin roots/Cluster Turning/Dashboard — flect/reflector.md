@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Device that reflects radiation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Optical telescope consisting of a large concave mirror that produces an image that is magnified by the eyepiece.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polished surface, mirror, or concave sheet designed for reflecting light, heat, or sound in a required direction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reflecting telescope that uses a curved mirror rather than lenses to focus light from celestial objects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"This dazzling carpet, really a reflector, repelled the rays of the sun with wonderful intensity, which accounted for the vibration which penetrated every atom of liquid."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The earliest attempt at this was to use a reflector of bright polished metal."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"At any distance the beam from the parabolic reflector will be more intense than that from the spherical one, since the rays will be closer together."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Mrs Durbeyfield hung a black cloak outside the casement, and so made a large **reflector** of the panes."*
+> - 📜 **Isaac Newton (*Opticks*):** *"I constructed a small **reflector** telescope using a concave speculum metal mirror to avoid chromatic aberration."*
+> - 📜 **William Herschel (*Astronomical Observations*):** *"The great forty-foot **reflector** brought distant nebulae and faint stellar clusters into sharp view."*

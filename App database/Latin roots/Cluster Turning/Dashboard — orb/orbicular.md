@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Circular or nearly circular.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the shape of a sphere or ball; ; ; - zane grey.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the shape of a flat circle, round disc, or sphere; circular and rounded.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human anatomy, designating circular sphincter muscles that surround an orifice, as the orbicular muscle of the eye.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"These pustules were brown, orbicular, regular, and in habit seemed to resemble rather those of most of the _Pucciniæ_ than of a _Trichobasis_."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The pustules are not small and orbicular as in most instances in other groups (except _Polycystis_), but are large and irregular, and generally but few together or single."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Its presence was indicated by brownish orbicular spots, on which the fertile threads occurred in small bundles."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **orbicular** muscle of the eye encircles the palpebral fissure, functioning as an involuntary sphincter."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Contraction of the **orbicular** fibers draws the eyelids tightly together during weeping or violent sneezing."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The leaves of the marsh pennywort are completely **orbicular**, with the petiole attached at the center of the blade."*

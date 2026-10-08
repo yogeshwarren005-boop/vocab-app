@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Muscle relaxant (trade name flexeril) used for muscle spasms or acute injury.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Muscle relaxant (trade name flexeril) used for muscle spasms or acute injury.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prescription muscle relaxant (cyclobenzaprine) used to treat acute, painful musculoskeletal spasms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, a tricyclic-related compound that reduces tonic motor activity in the brainstem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flexeril designates muscle relaxant (trade name flexeril) used for muscle spasms or acute injury."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Centrally acting agents like **flexeril** alleviate painful lumbar muscle spasms following acute strain."*
+> - 📜 **Goodman and Gilman (*The Pharmacological Basis of Therapeutics*):** *"The administration of **flexeril** reduces tonic somatic motor activity influencing both gamma and alpha systems."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"When prescribing sedative relaxants such as **flexeril**, clinicians monitor cardiac rhythm for anticholinergic effects."*

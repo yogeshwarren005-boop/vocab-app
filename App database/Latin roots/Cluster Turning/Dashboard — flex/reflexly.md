@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a reflex manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a reflex manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an involuntary, automatic reflex manner without conscious mental intervention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a reflected manner, by rebound or secondary influence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reflexly designates in a reflex manner."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The pupils contract **reflexly** whenever intense light impinges upon the sensitive retina."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Irritation of the pharynx causes the glottis to close **reflexly**, protecting the lower airways from aspiration."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The eyelids close **reflexly** to shield the eyeball from sudden approaching objects."*

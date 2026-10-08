@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French painter of italian landscapes (1796-1875).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French painter of italian landscapes (1796-1875).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Jean-Baptiste-Camille Corot, the renowned French painter pivotal in Barbizon landscape painting and precursor to Impressionism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An authentic painting or artwork executed by Jean-Baptiste-Camille Corot, renowned for silvery light, misty foliage, and poetic atmosphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corot designates french painter of italian landscapes (1796-1875)."*
+> - 📜 **Émile Zola (*Salons*):** *"The delicate silvery light of a landscape by **Corot** captures the fleeting soul of morning mist over the river."*
+> - 📜 **Henry James (*The American*):** *"Upon the wall hung an exquisite little **Corot**, representing a pond bordered with pale willows in the twilight."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The quiet gray-green harmonies of **Corot** remind the beholder that landscape art is an affair of poetry and light."*

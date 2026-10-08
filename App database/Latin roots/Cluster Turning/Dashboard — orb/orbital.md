@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an orbit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the eye socket.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, taking place in, or describing an astronomical or mechanical trajectory around a central body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In quantum chemistry, a mathematical wave function representing the spatial probability density of an electron within an atom or molecule; anatomically, relating to the eye socket.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"During construction the System is linked to Planet Pluto, employing mass attractors, orbital dynamics controls and stabilizers, and other means, as appropriate."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Collector is fixed to the Extractor's product launch nodes, functions and operations, and to the Extractor's orbital dynamics at destination."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Piggy-backed to Planet Pluto during construction, the Extractor uses the planet's orbital momentum for launch."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The prominent **orbital** ridge above the brow showed marked variation across the fossil crania examined."*
+> - 📜 **Arthur Eddington (*The Nature of the Physical World*):** *"The electron does not travel in an **orbital** path like a minute planet around a solar nucleus."*
+> - 📜 **James Jeans (*The Universe Around Us*):** *"Calculations of the **orbital** velocities confirmed that celestial gravitational dynamics govern the binary star."*

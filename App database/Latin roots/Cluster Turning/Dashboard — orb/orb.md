@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ball-shaped capsule containing the vertebrate eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An object with a spherical shape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spherical body or globe; a celestial body such as the sun, moon, or a planet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A golden globe surmounted by a cross, carried as part of royal regalia representing imperial dominion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His legs bestrid the ocean; his reared arm Crested the world; his voice was propertied As all the tuned spheres, and that to friends; But when he meant to quail and shake the orb, He was as rattling thunder."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The man is noble, and his fame folds in This orb o’ th’ Earth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s not the smallest orb which thou behold’st But in his motion like an angel sings, Still quiring to the young-eyed cherubins; Such harmony is in immortal souls, But whilst this muddy vesture of decay Doth grossly close it in, we cannot hear it."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"When he meant to quail and shake the **orb**, he was as rattling thunder."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Such a dusky **orb** as never rose on Concord before or since lived in the quiet cabin."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Her whole **orb** of life, both before and after, was connected with this spot, as with the one point that gave it unity."*

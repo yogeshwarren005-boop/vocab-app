@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being rotated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being rotated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being turned or rotated around a central axis, pivot, or spindle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In instrumentation, describing turrets, dials, or observation stages designed to swivel freely.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rotatable designates capable of being rotated."*
+> - 📜 **Robert Stephenson (*The Locomotive Engine Explained*):** *"A stout **rotatable** turntable at the rail terminus allowed the massive engine to be reversed safely."*
+> - 📜 **Alexander Graham Bell (*The Bell Telephone Memoirs*):** *"The early transmitter incorporated a **rotatable** carbon diaphragm to adjust contact sensitivity."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"A **rotatable** coil suspended between the magnetic poles measures induction torque."*

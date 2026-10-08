@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an erotic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an erotic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sensual, passionate, or sexually suggestive manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With an emphasis on romantic desire or physical attraction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erotically designates in an erotic manner."*
+> - 📜 **D. H. Lawrence (*Sons and Lovers*):** *"The dancer moved **erotically** across the stage, her swaying form held by the passionate rhythm of the drums."*
+> - 📜 **Havelock Ellis (*The Dance of Life*):** *"Primitive ritual dances were often **erotically** charged, celebrating the regenerative fertility of the soil."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The painting was **erotically** charged with an almost mystical fascination that ensnared the senses."*

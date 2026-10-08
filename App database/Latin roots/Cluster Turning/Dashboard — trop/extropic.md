@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to extropy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to extropy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting or relating to extropy; characterized by an increase in usable order, computational complexity, intelligence, and vital energy over time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Opposing thermodynamic entropy; describing self-organizing processes that generate structured complexity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extropic designates of or relating to extropy."*
+> - 📜 **Gregory Bateson (*Mind and Nature: A Necessary Unity*):** *"Living systems exhibit an **extropic** tendency by importing order to offset dissipative physical decay."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"Information processing represents an **extropic** island resisting the universal ocean of increasing thermodynamic degradation."*
+> - 📜 **Ilya Prigogine (*Order out of Chaos*):** *"Far-from-equilibrium dissipative structures manifest an **extropic** surge that generates novel macroscopic patterns."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being changed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to flex; able to bend easily.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of bending easily without breaking; pliant, supple, and yielding to force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Readily adaptable to different environments, schedules, or evolving conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Women are soft, mild, pitiful, and flexible; Thou stern, obdurate, flinty, rough, remorseless."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The river slid along noiselessly as a shade, the swelling reeds and sedge forming a flexible palisade upon its moist brink."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Mobile and flexible, it was never intended to be compressed in the eternal silence of solitude: it is a mouth which should speak much and smile often, and have human affection for its interlocutor."*
+> - 📜 **William Shakespeare (*Henry VI, Part 3*):** *"Women are soft, mild, pitiful, and **flexible**; thou stern, obdurate, flinty, rough, remorseless."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The river slid along noiselessly, the swelling reeds and sedge forming a **flexible** palisade upon its moist brink."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Considering how **flexible** thin wax is, I do not see that there is any difficulty in the bees perceiving when they have gnawed it away."*

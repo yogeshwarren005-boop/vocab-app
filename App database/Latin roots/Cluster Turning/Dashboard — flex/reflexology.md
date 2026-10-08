@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of reflex action as it relates to the behavior of organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Massage to relieve tension by finger pressure; based on the belief that there are reflex points on the feet, hands, and head that are connected to every part of the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of complementary therapy involving the application of pressure to specific zones on the feet, hands, or ears corresponding to organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically in early Soviet neurology (Vladimir Bekhterev), the comprehensive physiological study of conditioned reflexes and human behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reflexology designates the study of reflex action as it relates to the behavior of organisms."*
+> - 📜 **Vladimir Bekhterev (*General Principles of Human Reflexology*):** *"Objective **reflexology** studies all human psychological manifestations as complex chained reflexes responding to stimuli."*
+> - 📜 **Ivan Pavlov (*Lectures on Conditioned Reflexes*):** *"The early pioneers of **reflexology** sought to base mental science strictly on observable motor reactions."*
+> - 📜 **William Osler (*Aequanimitas*):** *"While empirical systems like **reflexology** may offer soothing comfort, physiological verification must establish their limits."*

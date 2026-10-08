@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Outward features.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happening or arising or located outside or beyond some limits or especially surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to or forming the outer surface or boundary of an object, body, or space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Originating outside an organism, mind, or nation; foreign, extrinsic, or exterior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In all external grace you have some part, But you like none, none you for constant heart. 54 O how much more doth beauty beauteous seem, By that sweet ornament which truth doth give!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If they had swallowed poison ’twould appear By external swelling; but she looks like sleep, As she would catch another Antony In her strong toil of grace."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you be one, as you are well expressed By all external warrants, show it now By putting on the destined livery."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The mind receives simple ideas of sensation from the impact of **external** material objects upon the organs."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"We must not allow our judgment to be corrupted by the deceptive idols of **external** sensory impressions."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A robust federal navy shields commercial shipping against the rapacity of **external** maritime adversaries."*

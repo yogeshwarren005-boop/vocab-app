@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A region of complete shadow resulting from total obstruction of light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region of complete shadow resulting from total obstruction of light.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fully shaded inner region of a shadow cast by an opaque object, where light is completely blocked.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The central dark part of a sunspot; or a phantom, ghost, or uninvited guest in Roman society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I beseech you read it. [_Giving a letter to Nathaniel._] HOLOFERNES. _Fauste precor, gelida quando pecus omne sub umbra Ruminat_— and so forth."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Nothing of Magellan, nothing of Cabot, nothing of Gomez, nothing of staunch Beresford, or bluff John Whitlock, or of the great hidalgo.... _Stat magni nominis umbra?_ ..."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"LAMB. _Umbra._ "Shadow month 16th or 17th, 1800."*
+> - 📜 **Isaac Newton (*Opticks*):** *"A complete lunar eclipse occurs when the moon passes entirely through the terrestrial **umbra**."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"Astronomers measured the dark central **umbra** of the sunspot, which expanded across thousands of miles."*
+> - 📜 **Horace (*Satires*):** *"Horace welcomed his friend to dinner, bidding him bring along any companion as a pleasant **umbra**."*

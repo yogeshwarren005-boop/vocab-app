@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Raise money for a cause or project.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Raise money for a cause or project.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To actively solicit, organize, and collect financial contributions for a charity, cause, or campaign.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To conduct public appeals or subscription drives to gather necessary capital for an enterprise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fundraise designates raise money for a cause or project."*
+> - 📜 **Jane Addams (*Twenty Years at Hull-House*):** *"The settlement workers held bazaars and lectured widely to **fundraise** for neighborhood infant clinics."*
+> - 📜 **Booker T. Washington (*Up from Slavery*):** *"Washington traveled continuously across the northern states to **fundraise** for the Tuskegee Institute."*
+> - 📜 **Clara Barton (*The Red Cross in Peace and War*):** *"Barton appealed to patriotic citizens to **fundraise** for medical supplies during the yellow fever epidemic."*

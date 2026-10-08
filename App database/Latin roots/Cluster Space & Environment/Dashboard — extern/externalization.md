@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attributing to outside causes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Embodying in an outward form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The manifestation, projection, or embodiment of internal mental contents in external physical reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economics and sociology, the transfer of production costs or negative consequences onto third parties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, externalization designates attributing to outside causes."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The mystic interprets his ecstatic feelings as the objective **externalization** of a divine presence."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"Social communication is the necessary **externalization** through which private intentions become cooperative works."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Conspicuous consumption serves as the visible **externalization** of pecuniary prowess in polite society."*

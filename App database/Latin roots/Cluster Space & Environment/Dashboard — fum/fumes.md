@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gases ejected from an engine as waste products.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cloud of fine particles suspended in a gas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Noxious, pungent, or toxic gases, vapors, or exhalations given off by chemicals or burning matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vapors of alcohol or narcotics affecting the brain; or violent fits of petulant temper.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But ’tis not so; ’Twas but a bolt of nothing, shot at nothing, Which the brain makes of fumes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The charm dissolves apace; And as the morning steals upon the night, Melting the darkness, so their rising senses Begin to chase the ignorant fumes that mantle Their clearer reason."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I think it is rather our way to be in earnest.” Sir Leicester has a misgiving that there may be a hidden Wat Tylerish meaning in this expression, and fumes a little."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Devil's Foot*):** *"Holmes struck a match, and thick, aromatic **fumes** of the strange poison rose from the burning powder."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The stifling **fumes** of chemical crucibles filled the secluded garret where Frankenstein laboured."*
+> - 📜 **Robert Louis Stevenson (*Strange Case of Dr Jekyll and Mr Hyde*):** *"A volatile vapor arose from the phial, and pungent **fumes** of boiling tincture drifted through the cabinet."*

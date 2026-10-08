@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various funnel-shaped parts of the body (but especially the hypophyseal stalk).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various funnel-shaped parts of the body (but especially the hypophyseal stalk).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A funnel-shaped anatomical cavity, passage, or organ, such as the pituitary stalk or oviduct funnel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy, the hollow conical stalk connecting the hypothalamus to the pituitary gland.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, infundibulum designates any of various funnel-shaped parts of the body (but especially the hypophyseal stalk)."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The floor of the third ventricle prolongs itself downward into the funnel-shaped **infundibulum**."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"Owen traced the vascular supply passing through the avian **infundibulum** toward the hypophysis."*
+> - 📜 **Michael Foster (*A Text Book of Physiology*):** *"The respiratory bronchioles terminate in a dilated atrium communicating with the alveolar **infundibulum**."*

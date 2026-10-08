@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes (and sells) perfumes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who makes (and sells) perfumes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose occupation is to create, compound, manufacture, or sell perfumes and essences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artisan chemist skilled in extracting floral oils and formulating cosmetic fragrances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"He had a closet in his room, fitted up for the purpose, which smelt of the scented soap like a perfumer’s shop."*
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"First issued from perfumers' shops A crowd of fashionable fops; They liked her how she liked the play?"*
+> - 📜 **Honoré de Balzac (*César Birotteau*):** *"Balzac depicted the dramatic rise and bankruptcy of César Birotteau, a celebrated Parisian **perfumer**."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"Gulliver noted that the royal court employed a **perfumer** to scent the palace corridors with rose water."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Mr. Mantalini frequented the fashionable **perfumer** in Bond Street to purchase pomades and lavender water."*

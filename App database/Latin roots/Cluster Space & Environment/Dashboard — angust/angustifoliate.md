@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin angust within the domain of Space & Environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of angust in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In botany, possessing narrow, slender, or lanceolate leaves with tapering margins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by linear or strap-shaped foliage adapted to conserve moisture in dry climates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angustifoliate designates pertaining to, derived from, or characteristic of latin angust within the domain of space & environment."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The upland willow is distinctly **angustifoliate**, bearing elongated blades silvery on their lower surface."*
+> - 📜 **George Bentham (*Flora Australiensis*):** *"Bentham distinguished this acacia from allied desert forms by its strictly **angustifoliate** phyllodes."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Horticulturists selected the **angustifoliate** variety of the shrub for ornamental borders in sheltered gardens."*

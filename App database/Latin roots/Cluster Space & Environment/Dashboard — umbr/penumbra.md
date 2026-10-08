@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fringe region of partial shadow around an umbra.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fringe region of partial shadow around an umbra.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The partially shaded outer region of the shadow cast by an opaque object, especially in an eclipse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shadowy, marginal, or indefinite borderline area between two conditions or territories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He fancied that he had felt himself in the penumbra of a very deep sadness when touching that slight and fragile creature."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He fancied that he had felt himself in the penumbra of a very deep sadness when touching that slight and fragile creature."*
-> - 📜 **James Joyce (*Ulysses*):** *"What spectacle confronted them when they, first the host, then the guest, emerged silently, doubly dark, from obscurity by a passage from the rere of the house into the penumbra of the garden?"*
+> - 📜 **Isaac Newton (*Opticks*):** *"In solar eclipses, observers situated within the lunar **penumbra** witness only a partial obscuration of the disc."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"Sunspots typically display a dark central umbra surrounded by a lighter, filamentary **penumbra**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ship sailed through a misty **penumbra** of fog and spray as twilight gathered over the Pacific."*

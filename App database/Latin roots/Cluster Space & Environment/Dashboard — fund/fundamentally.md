@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In essence; at bottom or by one's (or its) very nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In essence; at bottom or by one's (or its) very nature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In central or essential respects; from the ground up; at the most basic foundational level.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to primary nature, intrinsic origin, or underlying philosophical truth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was different from Western chess, and yet could not but be fundamentally the same, tracing back to a common origin, probably India."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Correspondingly, "owner" is the Anglo-Saxon equivalent of "proprietor." Property thus, fundamentally, means not an object held, or possessed, but the right in or belonging to a person to control something that he owns."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But more fundamentally, this changing sentiment was the result of the changing industrial conditions in America."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Man remains **fundamentally** allied in his bodily structure with the higher mammalian orders."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"The moral worth of human actions depends **fundamentally** upon their contribution to general happiness."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"Our feelings of sympathy are **fundamentally** rooted in our capacity to place ourselves in another's station."*

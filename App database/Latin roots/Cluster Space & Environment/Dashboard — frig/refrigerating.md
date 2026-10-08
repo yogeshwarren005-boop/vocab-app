@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preserve by chilling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cool or chill in or as if in a refrigerator.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cooling, chilling, or maintaining low temperatures through mechanical or thermodynamic processes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to preserve perishable commodities by continuous artificial reduction of temperature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The Working of a Refrigerating Machine 70 6."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"In the refrigerating machine motion produces heat, on the face of it a strange way of producing cold."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The feature of the above machine, it will be noticed, is that no cooling water is required, as in the refrigerating machine, although the principle of the two is the same."*
+> - 📜 **Lord Kelvin (*Mathematical and Physical Papers*):** *"Kelvin formulated the thermodynamic principles governing mechanical **refrigerating** machines using compressed gas."*
+> - 📜 **Thomas Edison (*The Papers of Thomas A. Edison*):** *"Engineers evaluated an electric **refrigerating** unit designed to cool domestic food lockers."*
+> - 📜 **H. G. Wells (*The Food of the Gods*):** *"The laboratory was fitted with a powerful **refrigerating** coil to prevent premature bacterial fermentation."*

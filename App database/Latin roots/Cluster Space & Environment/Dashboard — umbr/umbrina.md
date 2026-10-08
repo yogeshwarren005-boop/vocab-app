@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Croakers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Croakers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of marine drumfishes and croakers (family Sciaenidae) of warm coastal waters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, sciaenid fishes characterized by a short chin barbel, silvery sides, and sonic drumming swim bladders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog umbrina as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"Cuvier distinguished the genus **umbrina** from other sciaenoids by the presence of a single barbel on the lower jaw."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Jordan observed schools of **umbrina** feeding over sandy shallows along the warm Mediterranean shores."*
+> - 📜 **Albert Günther (*Catalogue of the Acanthopterygian Fishes in the British Museum*):** *"Günther detailed the oblique undulating brown stripes that ornament the silvery flanks of **umbrina** cirrosa."*

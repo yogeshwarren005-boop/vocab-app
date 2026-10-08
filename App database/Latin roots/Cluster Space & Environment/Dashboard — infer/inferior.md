@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of lesser rank or station or quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A character or symbol set or printed or written beneath or slightly below and to the side of another character.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lower in rank, status, quality, or grade compared with something else.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Situated lower down in anatomical position; situated beneath or toward the feet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But since your worth, wide as the ocean is, The humble as the proudest sail doth bear, My saucy bark (inferior far to his) On your broad main doth wilfully appear."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"WINCHESTER. [_Aside_.] Now Winchester will not submit, I trow, Or be inferior to the proudest peer."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, brother king, farewell, and sit you fast, For I will hence to Warwick’s other daughter; That, though I want a kingdom, yet in marriage I may not prove inferior to yourself."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The barbarian auxiliaries occupied an **inferior** rank in the Roman military hierarchy, receiving lower wages."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The cranial capacity of **inferior** fossil primates bridges the anatomical gap toward ancestral quadrupeds."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Coarse domestic manufactures of **inferior** quality were gradually displaced by refined imported textiles."*

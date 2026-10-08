@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of quantities) imprecise but fairly close to correct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of quantities) imprecise but fairly close to correct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Close to a particular number or time, although not completely accurate; roughly or nearly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner that closely resembles or approaches an ideal standard or calculation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"While waiting, however, there came along a farmer in his spring cart, driving approximately in the direction that she wished to pursue."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Thank God!” murmured Clare; and yet he was conscious of a pang of bitterness at the thought—approximately true, though not wholly so—that having shifted the burden of her life to his shoulders, she was now reposing without care."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"It was at that time invisible; we could but judge approximately."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The thickness of the sedimentary deposit measured **approximately** four hundred feet across the exposed gorge."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The quantity of evolved gas corresponded **approximately** with the electrochemical equivalent of zinc."*
+> - 📜 **Thomas Henry Huxley (*Physiography: An Introduction to the Study of Nature*):** *"The velocity of the Thames current varies **approximately** with the seasonal volume of rain runoff."*

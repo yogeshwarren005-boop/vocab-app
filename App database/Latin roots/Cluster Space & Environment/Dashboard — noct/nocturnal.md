@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to or active during the night.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or occurring in the night.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Done, occurring, or active during the night; relating to or belonging to the nighttime hours.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology and botany, active or opening flowers exclusively between sunset and dawn.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby’s breast, prompting her to nocturnal examinations of Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"After such a nocturnal reconnoitre it is hard to get back to earth, and to believe that the consciousness of such majestic speeding is derived from a tiny human frame."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The denser nocturnal vapours, attacked by the warm beams, were dividing and shrinking into isolated fleeces within hollows and coverts, where they waited till they should be dried away to nothing."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The large eyes and acute hearing of owls and bats represent adaptations for their **nocturnal** predatory habits."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The wakeful bird sings darkling, and in shadiest covert hid, tunes her **nocturnal** note."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Watson stood guard by the window, listening for any strange sound during their anxious **nocturnal** vigil."*

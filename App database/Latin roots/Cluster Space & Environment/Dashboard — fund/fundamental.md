@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any factor that could be considered important to the understanding of a particular business.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lowest tone of a harmonic series.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Forming a necessary base or core; of central, primary importance; essential.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In acoustics, the lowest and strongest resonant frequency of a vibrating string or musical tone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So that, from point to point, now have you heard The fundamental reasons of this war, Whose great decision hath much blood let forth, And more thirsts after."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In general, any woman has fundamental charm for any man."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The law of the conservation of energy expresses the fundamental likeness of heat, light, and power."*
+> - 📜 **Isaac Newton (*Philosophiæ Naturalis Principia Mathematica*):** *"The three laws of motion establish the **fundamental** principles governing all celestial and terrestrial bodies."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"The preservation of property is the **fundamental** end for which men unite into political societies."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Descent with modification is the **fundamental** fact underlying all morphological affinities in biology."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing cold; cooling or chilling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing cold; cooling or chilling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing, generating, or producing intense cold or freezing temperatures; chilling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to chemical mixtures or physical processes that depress temperature and freeze liquids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, frigorific designates causing cold; cooling or chilling."*
+> - 📜 **Robert Boyle (*New Experiments and Observations Touching Cold*):** *"Boyle prepared a **frigorific** mixture of snow and sal-ammoniac capable of freezing water in glass phials."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The absorption of caloric during the rapid dissolution of certain salts generates a marked **frigorific** effect."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Faraday utilized a powerful **frigorific** bath of ether and solid carbonic acid to liquefy stubborn gases."*

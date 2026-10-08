@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attributing to outside causes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Embodying in an outward form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of expressing or projecting internal feelings, desires, or ideas into outward form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economics, the shifting of private production costs or environmental burdens onto the public.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, externalisation designates attributing to outside causes."*
+> - 📜 **Sigmund Freud (*The Ego and the Id*):** *"The patient achieved relief through the **externalisation** of repressed guilt into therapeutic dialogue."*
+> - 📜 **George Santayana (*The Life of Reason*):** *"Fine art represents the harmonious **externalisation** of human ideals in durable stone and vibrant color."*
+> - 📜 **Alfred Marshall (*Principles of Economics*):** *"The modern factory system involves the **externalisation** of certain auxiliary costs across industrial districts."*

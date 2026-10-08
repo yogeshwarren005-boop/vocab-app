@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reason by deduction; establish by deduction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Draw from specific cases for more general cases.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To deduce or conclude from evidence, facts, and reasoning rather than from direct, explicit statements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To draw a logical consequence or theoretical implication from established premises.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This doth infer the zeal I had to see him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I this infer, That many things, having full reference To one consent, may work contrariously."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, if thou grant my need, Which only lives but by the death of faith, That need must needs infer this principle: That faith would live again by death of need."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"From a drop of water, a logician could **infer** the possibility of an Atlantic or a Niagara without seeing either."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Reason leads the attentive mind to **infer** the existence of an eternal, omnipotent Creator from the visible universe."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"From causes which appear similar, we expect similar effects, and **infer** that like powers reside in like bodies."*

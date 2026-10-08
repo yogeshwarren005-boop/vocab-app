@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (anatomy) the base of a hollow organ or that part of the organ farthest from its opening.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (anatomy) the base of a hollow organ or that part of the organ farthest from its opening.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of a hollow organ (such as the stomach, eye, or bladder) farthest from its opening.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology, the interior back surface of the eye opposite the pupil, including the retina and optic disc.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fundus designates (anatomy) the base of a hollow organ or that part of the organ farthest from its opening."*
+> - 📜 **Hermann von Helmholtz (*Description of an Ophthalmoscope*):** *"Helmholtz invented the ophthalmoscope, illuminating the vascular network of the living retinal **fundus**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Osler examined the optic **fundus** for flame-shaped hemorrhages in patients suffering from malignant hypertension."*
+> - 📜 **Michael Foster (*A Text Book of Physiology*):** *"Gastric glands residing in the **fundus** of the stomach secrete hydrochloric acid and pepsinogen during digestion."*

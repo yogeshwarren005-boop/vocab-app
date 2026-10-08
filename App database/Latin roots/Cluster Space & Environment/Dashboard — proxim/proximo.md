@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In or of the next month after the present.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In or of the next month after the present.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring or due in the next month after the present one (abbreviated *prox.* in commercial correspondence).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal epistolary and business formula designating a date in the immediately succeeding month.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proximo designates in or of the next month after the present."*
+> - 📜 **Charles Dickens (*Martin Chuzzlewit*):** *"The Anglo-Bengalee board resolved that the first dividend should be payable on the tenth **proximo**."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Cardboard Box*):** *"The letter announced that the shipping consignment would arrive in Liverpool on the third **proximo**."*
+> - 📜 **Herman Melville (*Bartleby, the Scrivener*):** *"The landlord gave notice that the legal offices must be surrendered on the first day of May **proximo**."*

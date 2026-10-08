@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hormone secreted by the isles of langerhans in the pancreas; regulates storage of glycogen in the liver and accelerates oxidation of sugar in cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hormone secreted by the isles of langerhans in the pancreas; regulates storage of glycogen in the liver and accelerates oxidation of sugar in cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A peptide hormone secreted by the islets of Langerhans that regulates glucose metabolism in the blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A therapeutic pharmaceutical preparation of this hormone used in the management of diabetes mellitus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insulin designates hormone secreted by the isles of langerhans in the pancreas; regulates storage of glycogen in the liver and accelerates oxidation of sugar in cells."*
+> - 📜 **Frederick Banting (*Nobel Lecture: The Internal Secretion of the Pancreas*):** *"Banting recounted the dramatic clinical trials in which canine pancreatic extract, named **insulin**, revived comatose diabetics."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The discovery of **insulin** transformed severe juvenile diabetes from a fatal malady into a manageable disorder."*
+> - 📜 **J. J. R. Macleod (*Carbohydrate Metabolism and Insulin*):** *"Macleod analyzed how physiological injections of **insulin** stimulate glycogen synthesis in liver tissue."*

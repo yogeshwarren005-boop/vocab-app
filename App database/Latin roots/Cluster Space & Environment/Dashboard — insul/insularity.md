@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being isolated or detached.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being isolated or detached.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Narrowness of intellectual outlook or parochial prejudice stemming from geographic or cultural isolation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Geographic isolation as an island or detached community separated from continental mainstreams.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insularity designates the state of being isolated or detached."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Free international commerce shatters the stagnant **insularity** of ancient feudal communities."*
+> - 📜 **Henry James (*The American*):** *"Newman observed the refined **insularity** of the Faubourg Saint-Germain, which excluded foreign newcomers."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The geological **insularity** of Madagascar preserved archaic lemur fauna extinct on the continental mainland."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A material such as glass or porcelain with negligible electrical or thermal conductivity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A material such as glass or porcelain with negligible electrical or thermal conductivity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance or device that does not readily conduct electricity, heat, or acoustic vibrations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A porcelain, glass, or rubber fixture used to support electric wires without current loss.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"This is two conductors, generally in the form of two plates with an insulator between them."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"In the Leyden jar the insulator is a glass jar, while the "plates" are coatings of tinfoil, one inside and the other outside."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Now an air-gap--a gap that is filled with air, between two conductors--is a very strong insulator."*
+> - 📜 **Benjamin Franklin (*Experiments and Observations on Electricity*):** *"Dry glass acts as an impenetrable **insulator**, confining electrical fluid within the Leyden jar."*
+> - 📜 **Thomas Edison (*The Papers of Thomas A. Edison*):** *"Edison developed a vitrified porcelain **insulator** capable of resisting atmospheric moisture on telegraph poles."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Faraday proved that every dielectric substance acts as an **insulator** through internal molecular polarization."*

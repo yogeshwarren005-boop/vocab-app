@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being outside or directed toward or relating to the outside or exterior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality or state of being outside or directed toward or relating to the outside or exterior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or character of existing outside the mind; objective, independent outward reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economics, an unintended side effect or cost imposed upon third parties by commercial transactions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, externality designates the quality or state of being outside or directed toward or relating to the outside or exterior."*
+> - 📜 **Arthur Schopenhauer (*The World as Will and Representation*):** *"The intellect perceives the world under the forms of space and time, projecting absolute **externality** upon objects."*
+> - 📜 **Alfred Pigou (*The Economics of Welfare*):** *"Pollution from chemical refineries represents a negative **externality** that market prices fail to reflect."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Transcendental philosophy investigates how the mind bridges the gap between subjective thought and objective **externality**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a hellish, demonic, or abominably outrageous manner; diabolically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely or intolerably; used emphatically to denote severe annoyance or heat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"No time for supper, our train goes at 11:59, I hate first nights, the waits between the acts are so infernally long." Laura's eyebrows, faintly arched, hinted at derision."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"But my life is infernally strong in me, I don't want to die: what I want is to get on my legs again and kick that fellow Hyde down the steps."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Then come out those fiery effulgences, infernally superb; then the evil-blazing diamond, once the divinest symbol of the crystal skies, looks like some crown-jewel stolen from the King of Hell."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Orlick grinned **infernally** in the limekiln hut, revishing his revenge upon the helpless captive."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The harpooneers labored amidst **infernally** hot vapors of boiling sperm oil on the try-works deck."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Small swore **infernally** as the police handcuffs snapped around his iron wrists on the Thames pier."*

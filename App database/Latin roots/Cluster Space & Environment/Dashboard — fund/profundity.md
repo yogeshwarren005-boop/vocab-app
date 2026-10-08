@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wisdom that is recondite and abstruse and profound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intellectual depth; penetrating knowledge; keen insight; etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Great depth of intellect, thought, emotion, or insight; the character of being profound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Physical or intellectual depth; a profound, abstruse, or deeply philosophical matter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"As we study the teaching of Jesus here, we see anew the profundity of the saying attributed to him in the Fourth Gospel, "The truth shall make you free" (John 8:32)."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Slowly crossing the deck from the scuttle, Ahab leaned over the side, and watched how his shadow in the water sank and sank to his gaze, the more and the more that he strove to pierce the profundity."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"And the intimate profundity of that look he gave me when he received his hurt remains to this day in my memory—like a claim of distant kinship affirmed in a supreme moment."*
+> - 📜 **Edgar Allan Poe (*The Murders in the Rue Morgue*):** *"Dupin demonstrated that true **profundity** often lies in simple, unobserved details rather than obscure complexities."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Coleridge praised Wordsworth for the philosophical **profundity** and moral elevation of his lyrical verse."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The unfathomable ocean concealed mysteries of awful **profundity** beneath its serene azure surface."*

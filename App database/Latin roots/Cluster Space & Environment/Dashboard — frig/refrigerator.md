@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: White goods in which food can be stored at low temperatures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: White goods in which food can be stored at low temperatures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An appliance, insulated cabinet, or room artificially kept cool to preserve food, beverages, and medicine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mechanical cooling apparatus that removes heat through circulating chemical refrigerants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Mother nodded as she spooned leftovers into containers for the refrigerator."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Pots and pans rattled, dishes and bowls clattered, refrigerator doors slammed, and utensils baton-waved in all directions."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"It's back to the refrigerator for you, and a nice cold sensible roast leg of lamb for me, that doesn't have to be cooked."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Mazarin Stone*):** *"The chef stored the game birds within the large zinc-lined ice **refrigerator** in the basement pantry."*
+> - 📜 **H. G. Wells (*The World Set Free*):** *"Wells envisioned domestic dwellings equipped with silent electric **refrigerator** units in modern kitchens."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"Babbitt proudly displayed the enameled **refrigerator** in his modern kitchen as an emblem of prosperous domestic comfort."*

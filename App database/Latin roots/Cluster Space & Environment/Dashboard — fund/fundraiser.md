@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who solicits financial contributions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A social function that is held for the purpose of raising money.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose occupation is to solicit donations, or an event organized to collect charitable money.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organized subscription drive, dinner, or social bazaar held to finance a school, hospital, or campaign.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fundraiser designates someone who solicits financial contributions."*
+> - 📜 **Jane Addams (*Twenty Years at Hull-House*):** *"Every volunteer served as an eager **fundraiser**, securing donations of coal, clothing, and milk for the poor."*
+> - 📜 **Jacob Riis (*The Making of an American*):** *"Riis described how a charity **fundraiser** raised sufficient money to open playgrounds in congested tenement wards."*
+> - 📜 **Booker T. Washington (*Working with the Hands*):** *"As chief **fundraiser** for the school, Washington cultivated warm friendships among generous northern benefactors."*

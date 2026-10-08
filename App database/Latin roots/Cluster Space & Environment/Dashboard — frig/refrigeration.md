@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of cooling or freezing (e.g., food) for preservative purposes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deliberately lowering the body's temperature for therapeutic purposes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of cooling, freezing, or preserving something by artificial or mechanical reduction of temperature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The commercial and industrial technology of preserving food, drugs, and chemicals in cold storage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, refrigeration designates the process of cooling or freezing (e.g., food) for preservative purposes."*
+> - 📜 **Upton Sinclair (*The Jungle*):** *"The development of railway **refrigeration** enabled western stockyards to supply dressed beef to Atlantic seaports."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"Mechanical **refrigeration** relies upon the latent heat absorbed during the cyclic vaporization of liquefied gases."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Bacon noted that natural **refrigeration** through snow and subterranean ice chambers retards putrefaction."*

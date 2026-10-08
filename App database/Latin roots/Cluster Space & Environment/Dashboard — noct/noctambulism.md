@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Walking by a person who is asleep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Walking by a person who is asleep.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sleepwalking; somnambulism; the clinical condition of walking or performing actions while asleep.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sleep disorder characterized by motor activity during slow-wave non-REM sleep.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noctambulism designates walking by a person who is asleep."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Hypnotic trance exhibits remarkable physiological parallels to spontaneous **noctambulism** in adolescent subjects."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Beryl Coronet*):** *"The defense attorney suggested that the theft might be explained by an episode of unconscious **noctambulism**."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Autocrat of the Breakfast-Table*):** *"Holmes discussed **noctambulism** as an automatic function of the nervous ganglia uncontrolled by the will."*

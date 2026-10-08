@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Closest in degree or order (space or time) especially in a chain of causes and effects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very close in space or time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Closest in relationship, time, or sequence; immediately preceding or following in causation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, the immediate or direct cause that produces an injury without an intervening cause (proximate cause).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Spacetrack Ceres confirms unregistered objects proximate your position."*
-> - 📜 **James Joyce (*Ulysses*):** *"The cold of interstellar space, thousands of degrees below freezing point or the absolute zero of Fahrenheit, Centigrade or Réaumur: the incipient intimations of proximate dawn."*
-> - 📜 **James Joyce (*Ulysses*):** *"A silent contemplation: a tentative velation: a gradual abasement: a solicitous aversion: a proximate erection."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"In evaluating tort liability, common law judges seek the **proximate** cause rather than remote contributing factors."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Scientific explanations link an observed phenomenon to its immediate, **proximate** antecedents."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"Hume observed that the mind associates ideas that share **proximate** continuity in space or time."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Regard as objective.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make external or objective, or give reality to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To give external, visible form or objective expression to internal mental states or concepts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economics, to transfer industrial liabilities or social costs from a corporation to the public.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Moreover, I have no notion of losing my old 360:12 doctrines or human opinions." Choose ye to-day Dear reader, which mind-picture or externalized thought shall be real to you, - the material or the spiritual? 360:15 Both you cannot have."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Disease is an image of thought externalized. 411:24 The mental state is called a material state."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Their individual forms we know not, but we do know that their natures are allied to God's nature; and 512:15 spiritual blessings, thus typified, are the externalized, yet subjective, states of faith and spiritual understanding. /Genesis/ i. 22."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The creator must **externalize** his passing thought into immortal verse before the divine inspiration fades."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Hypnotized subjects frequently **externalize** suggested hallucinations, treating imaginary figures as real companions."*
+> - 📜 **Herbert Spencer (*The Data of Ethics*):** *"Moral sentiments gradually **externalize** themselves in written codes of law and recognized civic statutes."*

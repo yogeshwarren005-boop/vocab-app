@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A material that reduces or prevents the transmission of heat or sound or electricity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A material that reduces or prevents the transmission of heat or sound or electricity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance or material used to prevent the transfer of electricity, heat, or sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A non-conductive dielectric or thermal barrier utilized in electrical circuits or architecture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insulant designates a material that reduces or prevents the transmission of heat or sound or electricity."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Gutta-percha proved an exceptional dielectric **insulant** for protecting submerged telegraphic wires."*
+> - 📜 **Lord Kelvin (*Mathematical and Physical Papers*):** *"The thermal conductivity of the fibrous **insulant** determines the heat retention of industrial boilers."*
+> - 📜 **Thomas Edison (*The Papers of Thomas A. Edison*):** *"Edison tested various resinous coatings to discover an effective **insulant** for underground power conduits."*

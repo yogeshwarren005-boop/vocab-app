@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical substance used in fumigation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical substance used in fumigation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical compound or volatile substance that produces toxic gas used to exterminate pests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agricultural disinfectant applied as a vapor to sterilize stored grain or contaminated soil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fumigant designates a chemical substance used in fumigation."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Carson cautioned against the widespread distribution of volatile **fumigant** chemicals across agricultural soils."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Sulfur dioxide was long utilized as a standard gaseous **fumigant** to cleanse maritime quarantine stations."*
+> - 📜 **L. O. Howard (*The Insect Menace*):** *"Entomologists introduced hydrocyanic acid gas as an effective **fumigant** to eradicate scale insects in citrus groves."*

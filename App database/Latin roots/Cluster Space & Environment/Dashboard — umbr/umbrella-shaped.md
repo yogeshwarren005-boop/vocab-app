@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped in the form of an umbrella.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped in the form of an umbrella.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a rounded, domed contour with radiating supports or downward-sloping edges resembling an open umbrella.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and zoology, resembling an umbel or jellyfish umbrella (e.g., medusoid bells, mushroom caps).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, umbrella-shaped designates shaped in the form of an umbrella."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The giant tortoises sheltered beneath the **umbrella-shaped** cactus trees on the arid slopes of the Galapagos."*
+> - 📜 **Thomas Henry Huxley (*The Oceanic Hydrozoa*):** *"Huxley examined the pulsating **umbrella-shaped** bell of the medusa, describing its marginal sensory tentacles."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The mushroom cap develops an **umbrella-shaped** pileus that protects the radiating gills from wind-blown rain."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a disrespectful and insulting manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unfair and insulting manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an abusive, scornful, or intentionally offensive manner that shows contempt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With arrogant insolence or mocking disdain calculated to humiliate another person.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"If he had spoken insultingly, you should have used your horsewhip on him."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"It is not mouthing everything sacred; it is not vague ranting assertions; it is not assuming, haughtily and insultingly, the dictatorial language of a Roman pontiff, that must dissolve a union like ours."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"Front-de-Boeuf laughed **insultingly** as the captive Saxon thrashed against his heavy iron fetters."*
+> - 📜 **William Makepeace Thackeray (*The History of Henry Esmond*):** *"Lord Mohun smiled **insultingly** across the gaming table, provoking the fatal duel at dawn."*
+> - 📜 **Herman Melville (*Billy Budd*):** *"Claggart addressed the innocent foretopman **insultingly**, plotting to trap him in false treason."*

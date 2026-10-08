@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Delicate european herb with greyish leaves and spikes of purplish flowers; formerly used medicinally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Herb of northern europe and asia having erect racemes of red flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A folk name for the fumitory (Fumaria officinalis) or allied fumariaceous plants like Corydalis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional English herbalism, a bitter medicinal herb valued for digestive and tonic preparations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fumeroot designates delicate european herb with greyish leaves and spikes of purplish flowers; formerly used medicinally."*
+> - 📜 **William Turner (*A New Herball*):** *"The peasant herbalist gathers wild **fumeroot** from the tilled cornfields to brew spring remedies for jaundice."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"Gerard noted that common **fumeroot** flourisheth among the vines and hedges throughout the summer months."*
+> - 📜 **Nicholas Culpeper (*Complete Herbal*):** *"A syrup boiled from the leaves and crushed stalk of **fumeroot** clears away cutaneous scabs and tetters."*

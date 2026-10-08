@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: At night.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At night.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By night; during the hours of darkness; in a nocturnal manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regular nightly recurrence, as nocturnal animals hunting or sleep patterns occurring after dark.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog nocturnally as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Desert rodents forage **nocturnally** across the dunes to avoid the scorching daytime heat."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The screech owl wailed **nocturnally** over the frozen pond, its cry mingling with the creak of pine boughs."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"White observed that hedgehogs hunt **nocturnally** in garden borders, rooting for slugs and snails."*

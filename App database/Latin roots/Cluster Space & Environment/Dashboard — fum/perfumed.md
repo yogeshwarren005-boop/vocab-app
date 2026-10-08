@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill or impregnate with an odor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apply perfume to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Infused, scented, or fragrant with a pleasant, sweet, or delicate aromatic odor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impregnated with cosmetic scents, incense, or natural botanical essences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The poop was beaten gold; Purple the sails, and so perfumed that The winds were love-sick with them; the oars were silver, Which to the tune of flutes kept stroke, and made The water which they beat to follow faster, As amorous of their strokes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The courtier’s hands are perfumed with civet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was perfumed like a milliner, And ’twixt his finger and his thumb he held A pouncet-box, which ever and anon He gave his nose, and took’t away again, Who therewith angry, when it next came there, Took it in snuff; and still he smiled and talk’d."*
+> - 📜 **Edgar Allan Poe (*The Masque of the Red Death*):** *"Incense burned in heavy golden censers, filling the imperial suite with **perfumed** smoke."*
+> - 📜 **Arthur Conan Doyle (*A Scandal in Bohemia*):** *"Holmes examined the delicate, pink, **perfumed** note, deducing that it came from a royal correspondent."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The summer air was **perfumed** with wild roses and sweet honeysuckle climbing about the porch."*

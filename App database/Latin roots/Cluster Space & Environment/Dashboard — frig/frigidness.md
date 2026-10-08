@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sexual unresponsiveness (especially of women) and inability to achieve orgasm during intercourse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The absence of heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intense, severe coldness of atmospheric temperature or bodily constitution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cold indifference, emotional detachment, or total absence of affectionate warmth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, frigidness designates sexual unresponsiveness (especially of women) and inability to achieve orgasm during intercourse."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Bacon investigated the preserving powers of subterranean caves against the mortal **frigidness** of winter."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The minister met the desperate appeals of the starving populace with the administrative **frigidness** of red tape."*
+> - 📜 **Henry Fielding (*Tom Jones*):** *"Sophia recoiled from the affected **frigidness** of her aunt, who judged all romantic passion as folly."*

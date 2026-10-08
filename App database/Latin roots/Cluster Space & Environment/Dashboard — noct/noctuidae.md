@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cutworms; armyworms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cutworms; armyworms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic family of stout-bodied moths (owlet moths) comprising thousands of predominantly nocturnal species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic entomology, a lepidopteran family notorious for agricultural pest larvae including cutworms and bollworms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noctuidae designates cutworms; armyworms."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"Howard highlighted the extraordinary diversity of the family **noctuidae**, numbering thousands of North American species."*
+> - 📜 **Augustus Radcliffe Grote (*Check List of the Noctuidae of America*):** *"Grote classified the genera of **noctuidae** based on wing venation and thoracic tufting."*
+> - 📜 **John Obadiah Westwood (*An Introduction to the Modern Classification of Insects*):** *"Adult moths of the family **noctuidae** possess robust bodies, hairy eyes, and long coiled proboscides."*

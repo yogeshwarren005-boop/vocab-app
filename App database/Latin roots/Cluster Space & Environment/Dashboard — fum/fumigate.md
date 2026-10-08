@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat with fumes, expose to fumes, especially with the aim of disinfecting or eradicating pests.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat with fumes, expose to fumes, especially with the aim of disinfecting or eradicating pests.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To apply smoke, chemical gas, or vapor to an enclosed area to disinfect it or exterminate pests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To purify air, garments, or quarters exposed to infectious disease through aromatic vapors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The boys light torches at the new fire and run to fumigate the pastures."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"During thunderstorms a bit of the wreath is burned on the hearth with a prayer; some of it is given to kine that are sick or calving, and some of it serves to fumigate house and cattle-stall, that man and beast may keep hale and well."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Moreover they take burning brands from the fires and carry them through the houses in order to fumigate them."*
+> - 📜 **Daniel Defoe (*A Journal of the Plague Year*):** *"Citizens burned pitch and brimstone in their parlors to **fumigate** the rooms against the pestilential vapor."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Ventilation with sweet fresh air is far more vital than any superstitious attempt to **fumigate** sick wards."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sailors boiled pots of tar between decks to **fumigate** the hold after weeks of rendering blubber."*

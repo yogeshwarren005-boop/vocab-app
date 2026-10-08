@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling an umbrella.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling an umbrella.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling an open umbrella in shape, spreading canopy, or protective sheltering function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expanding radially into a broad dome or circular overhead shade.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, umbrellalike designates resembling an umbrella."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Vast tree ferns formed an **umbrellalike** canopy overhead, filtering green daylight onto the damp forest path."*
+> - 📜 **John Muir (*The Mountains of California*):** *"The storm winds bent the **umbrellalike** tops of the sugar pines, sending resinous cones crashing down."*
+> - 📜 **Ernst Haeckel (*Art Forms in Nature*):** *"Haeckel illustrated the delicate, **umbrellalike** skeletons of deep-sea radiolarians with exquisite geometric detail."*

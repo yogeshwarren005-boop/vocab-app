@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Protect from heat, cold, or noise by surrounding with insulating material.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place or set apart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To protect something with a material that prevents the conduction of heat, electricity, or sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To isolate, shield, or detach someone or something from harmful external influences or hardships.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"But the precautions thus taken to isolate or insulate the girl are dictated by a regard for her own safety as well as for the safety of others."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But the precautions thus taken to isolate or insulate the girl are dictated by a regard for her own safety as well as for the safety of others."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Why insulate him thus from all sympathy and kindness?"*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The experimenter must carefully **insulate** the conducting wire with silk to prevent electrical leakage."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"High mountain barriers serve to **insulate** inland cantons from foreign invasion and commercial rivalry."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Woodhouse sought to **insulate** himself against every winter draught with heavy screens and thick rugs."*

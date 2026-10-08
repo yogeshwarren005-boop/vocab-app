@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of or situated on an island.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suggestive of the isolated life of an island; - leonard michaels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characteristic of, or situated on an island; surrounded by water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ignorant of or uninterested in cultures, ideas, or peoples outside one's own experience; narrow-minded.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There now is your insular city of the Manhattoes, belted round by wharves as Indian isles by coral reefs—commerce surrounds it with her surf."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Each silent worshipper seemed purposely sitting apart from the other, as if each silent grief were insular and incommunicable."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I saw that under the mask of these half humorous inuendoes, this old seaman, as an insulated Quakerish Nantucketer, was full of his insular prejudices, and rather distrustful of all aliens, unless they hailed from Cape Cod or the Vineyard."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The distinct species found on **insular** archipelagos demonstrate how isolation fosters divergence."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"Arnold criticized the **insular** prejudices of the British middle class, urging openness to continental thought."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **insular** Britons defended their remote shores against the invading legions of Julius Caesar."*

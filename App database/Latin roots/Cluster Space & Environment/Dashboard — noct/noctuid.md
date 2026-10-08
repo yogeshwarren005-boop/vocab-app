@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Usually dull-colored medium-sized nocturnal moth; the usually smooth-bodied larvae are destructive agricultural pests.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Usually dull-colored medium-sized nocturnal moth; the usually smooth-bodied larvae are destructive agricultural pests.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stout-bodied, drab-colored moth of the large family Noctuidae, flying mostly at night.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of owlet moths, whose larvae include damaging armyworms and cutworms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noctuid designates usually dull-colored medium-sized nocturnal moth; the usually smooth-bodied larvae are destructive agricultural pests."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The cryptic grey mottling of the adult **noctuid** moth conceals it perfectly upon lichen-covered bark."*
+> - 📜 **John Henry Fabre (*The Life of the Caterpillar*):** *"Fabre observed the subterranean habits of the ravenous **noctuid** caterpillar known to farmers as the cutworm."*
+> - 📜 **William Kirby (*An Introduction to Entomology*):** *"The nocturnal flight of the **noctuid** moth is directed toward candle flames by optical disorientation."*

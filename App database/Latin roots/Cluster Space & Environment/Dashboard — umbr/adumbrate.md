@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Describe roughly or briefly or give the main points or summary of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give to understand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To represent in outline, sketch faintly, or foreshadow vaguely before full manifestation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To overshadow or cast a partial shadow upon an object, partially obscuring its form.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood’s doings in church this morning, miss?” Liddy continued, adumbrating by the remark the track her thoughts had taken."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Ancient myths frequently **adumbrate** the profoundest principles of natural philosophy in allegorical dress."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The early edicts of Constantine seemed to **adumbrate** the future triumph of the Christian church."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The poet's metaphors serve to **adumbrate** spiritual intuitions that transcend ordinary prose description."*

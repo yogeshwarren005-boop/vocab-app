@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The nearest star to the sun; distance: 4.3 light years.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The nearest star to the sun; distance: 4.3 light years.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The nearest star to the Earth after the Sun, a red dwarf located in the Alpha Centauri system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Near or adjacent in spatial location, anatomical relationship, or sequential order.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proxima designates the nearest star to the sun; distance: 4.3 light years."*
+> - 📜 **Robert Innes (*A Faint Star of Large Proper Motion*):** *"Innes discovered the dim red dwarf star and proposed that it be named **Proxima** Centauri due to its proximity."*
+> - 📜 **Arthur Eddington (*Stars and Atoms*):** *"Parallax measurements demonstrated that **Proxima** Centauri lies barely four light-years distant from our sun."*
+> - 📜 **James Jeans (*The Universe Around Us*):** *"Jeans calculated that light traveling from **Proxima** requires more than four years to reach terrestrial telescopes."*

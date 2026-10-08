@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being close together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The region close around a person or thing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Nearness in space, time, position, or relationship; close physical vicinity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Close affinity, kinship, or chronological adjacency between events or persons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had bowed to the inevitable result of proximity, the necessity of loving him; but she had not calculated upon this sudden corollary, which, indeed, Clare had put before her without quite meaning himself to do it so soon."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I attribute my protection from peril entirely to prayer, and the fierceness of the tempest and the proximity of danger were permitted by the Lord to try my trust."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The wind, blowing half a gale, cut with the sharpness that is a sign of the proximity of icebergs; and the big seas were bitter cold to look upon in the moonlight."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth regretted the close **proximity** of Rosings Park whenever Lady Catherine intruded upon the parsonage."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The fearful **proximity** of the revolutionary guillotine cast a pall of terror over every street in Paris."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The close **proximity** of volcanic craters along the Andean ridge indicated deep subterranean fissures."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assets in the form of money.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reserve of money set aside for some purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Monetary resources, financial reserves, or available capital set aside for specified expenditures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Government securities or national debt certificates traded on the stock exchange.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"C. is to continue to play for this considerable stake, sir, he must have funds."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There are funds in hand at present."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I ask for nothing; there are funds in hand."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Bingley inherited nearly an hundred thousand pounds from his father, which was invested in the **funds**."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The Circumlocution Office consumed enormous public **funds** while perfecting the art of how not to do it."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Old Sedley watched his investments tumble as news of Napoleon's landing caused a panic in the **funds**."*

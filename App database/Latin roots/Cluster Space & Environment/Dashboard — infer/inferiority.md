@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being inferior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inferior quality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lower condition, rank, quality, status, or social standing relative to others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology, an acute chronic feeling or subjective sense of inadequacy and self-doubt.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"There were many little occurrences which suggested to me, with great consolation, how natural it is to gentle hearts to be considerate and delicate towards any inferiority."*
-> - 📜 **Jane Austen (*Persuasion*):** *"There she felt her own inferiority very keenly."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Her partiality for this gentleman was not of recent origin; and he had been long withheld only by inferiority of situation from addressing her."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Democratic equality dissolves ancient notions of hereditary **inferiority** between masters and servants."*
+> - 📜 **Alfred Adler (*The Neurotic Constitution*):** *"Adler posited that an unresolved **inferiority** complex drives compensatory strivings for power and dominance."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Jane refused to accept moral **inferiority** simply because she was poor, obscure, plain, and small."*

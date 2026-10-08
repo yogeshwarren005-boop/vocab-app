@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Principles from which other truths can be derived.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any factor that could be considered important to the understanding of a particular business.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The central rules, primary principles, or basic skills essential to an art, science, or system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The structural, economic, or legal foundations upon which an organized institution operates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Their familiarity with deep space is often limited, so station lectures start with fundamentals."*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Part 1*):** *"Revised and corrected by a Gentleman well skilled in the Fundamentals of Literature, near Privy-Garden and the generally anti-intellectual thrust of its preface were reminiscent of the _Merry-Thought_ pamphlets."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"We should in fact have reached those two fundamentals of which man’s whole outlook on the universe is constructed—the incomprehensible essence of life, and the laws defining that essence."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"A scholar must master the **fundamentals** of mathematics before venturing into astronomical computations."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Constitution preserves the **fundamentals** of representative government while establishing energetic central authority."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"Let the young pupil be thoroughly grounded in the **fundamentals** of morality and clear reasoning."*

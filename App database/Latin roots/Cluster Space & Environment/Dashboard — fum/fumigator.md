@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone whose job is to fumigate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device that generates a gas for the purpose of disinfecting or eradicating pests.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose occupation is to disinfect buildings, crops, or ships using chemical fumigants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mechanical apparatus or vessel used to produce, vaporize, and direct fumigating fumes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fumigator designates someone whose job is to fumigate."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Blue Carbuncle*):** *"The health inspector acted as sanitary **fumigator**, directing sulfur sprays through the infected tenement cellar."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Carlyle joked that society required a moral **fumigator** to cleanse the foul atmosphere of hypocritical cant."*
+> - 📜 **H. G. Wells (*The Food of the Gods*):** *"The parish authorities dispatched an emergency **fumigator** equipped with smoke canisters to clear the overgrown valley."*

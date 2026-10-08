@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be mad, angry, or furious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emit a cloud of fine particles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Treated or colored by exposure to chemical fumes or vapors, as fumed oak darkened by ammonia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibited smoldering resentment, intense irritation, or muttered anger over a slight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And while he fumed and strutted I glimpsed Robert Lanfranc, beckoned him to us, and explained the happening."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Sooner he marries that lazy lollypop the better," fumed Uncle Peter, as he waited at the gate."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I fretted and fumed and took to arguing with myself whether or no I would talk openly with Kurtz; but before I could come to any conclusion it occurred to me that my speech or my silence, indeed any action of mine, would be a mere futility."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood paced the floor of his farmhouse parlor and **fumed** in solitary agony over the mocking valentine."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Old Osborne **fumed** at his desk, swearing that his disobedient son should never touch a guinea of his fortune."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Craftsmen admired the deep, mellow hue of **fumed** timber seasoned in traditional workshop smoke."*

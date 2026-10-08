@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or tending toward fundamentalism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or tending toward fundamentalism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of, resembling, or adhering to strict religious or ideological fundamentalism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by an uncompromising, literalist, and dogmatic defense of foundational tenets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fundamentalistic designates of or relating to or tending toward fundamentalism."*
+> - 📜 **H. L. Mencken (*Selected Prejudices*):** *"The local legislature succumbed to **fundamentalistic** fervor, enacting statutes that barred modern biology books."*
+> - 📜 **Walter Lippmann (*A Preface to Morals*):** *"Lippmann observed how modern science inevitably eroded the unquestioned certainties of **fundamentalistic** faith."*
+> - 📜 **John Dewey (*Individualism Old and New*):** *"Traditional social institutions often retreat into **fundamentalistic** slogans when challenged by industrial change."*

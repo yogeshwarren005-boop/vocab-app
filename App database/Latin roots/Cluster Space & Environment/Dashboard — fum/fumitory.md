@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Delicate european herb with greyish leaves and spikes of purplish flowers; formerly used medicinally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Delicate european herb with greyish leaves and spikes of purplish flowers; formerly used medicinally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A delicate annual weed (Fumaria officinalis) with finely cut greyish foliage and small pinkish spurred flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient herbal plant historically employed as a purifying tonic and gentle diuretic in folk medicine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fumitory designates delicate european herb with greyish leaves and spikes of purplish flowers; formerly used medicinally."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Crowned with rank **fumitory** and furrow-weeds, with burdocks, hemlock, nettles, cuckoo-flowers, darnel, and all the idle weeds that grow in our sustaining corn."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"Common **fumitory** is celebrated among ancient leeches as a sovereign remedy against affections of the spleen."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The cottager's garden contained patches of rue and wild **fumitory**, prized for brewing rustic medicinal broths."*

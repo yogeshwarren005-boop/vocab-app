@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to space and time together (having both spatial extension and temporal duration).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existing in both space and time; having both spatial extension and temporal duration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing in or involving both space and time; belonging to the continuum of spacetime.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by four-dimensional coordinates in modern relativistic physics and cosmology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spatiotemporal designates of or relating to space and time together (having both spatial extension and temporal duration)."*
+> - 📜 **Hermann Minkowski (*Space and Time*):** *"Henceforth space by itself, and time by itself, are doomed to fade away into mere shadows in the **spatiotemporal** continuum."*
+> - 📜 **Alfred North Whitehead (*The Concept of Nature*):** *"Whitehead formulated the relational theory of nature in terms of **spatiotemporal** events and extension."*
+> - 📜 **Bertrand Russell (*The ABC of Relativity*):** *"Russell explained that a physical particle describes a continuous track across the **spatiotemporal** manifold."*

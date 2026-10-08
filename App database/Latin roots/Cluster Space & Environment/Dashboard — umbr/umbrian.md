@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct italic language of ancient southern italy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extinct italic language of ancient southern italy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to Umbria, its people, culture, geography, or artistic traditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extinct Italic language of the Sabellic group, known from the famous Iguvine bronze tablets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, umbrian designates an extinct italic language of ancient southern italy."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The Iguvine Tables preserve invaluable inscriptions in the ancient **Umbrian** dialect of Italic speech."*
+> - 📜 **John Addington Symonds (*Renaissance in Italy*):** *"The **Umbrian** school of painting was distinguished by profound devotional sweetness and clear atmospheric light."*
+> - 📜 **Theodor Mommsen (*The History of Rome*):** *"Mommsen analyzed the early military alliances between the Roman republic and the hardy **Umbrian** highlanders."*

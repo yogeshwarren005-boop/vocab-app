@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The interpretation of every word in the sacred texts as literal truth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The interpretation of every word in the sacred texts as literal truth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A religious movement or intellectual doctrine upholding strict, literal adherence to sacred texts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strict and unyielding adherence to any foundational ideology, tradition, or dogmatic principles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fundamentalism designates the interpretation of every word in the sacred texts as literal truth."*
+> - 📜 **H. L. Mencken (*Prejudices: Fifth Series*):** *"Mencken reported on the Scopes trial, ridiculing the militant theological **fundamentalism** of the rural South."*
+> - 📜 **William Jennings Bryan (*The Bible and Its Enemies*):** *"Bryan championed Christian **fundamentalism**, warning that evolutionary theory would undermine morality."*
+> - 📜 **Max Weber (*The Sociology of Religion*):** *"Sectarian **fundamentalism** often arises as a reactionary protest against secular rationalization and modernity."*

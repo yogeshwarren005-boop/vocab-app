@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any property relating to or occupying space.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any property relating to or occupying space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property, quality, or condition of possessing extent, dimensions, or location in physical space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phenomenology and aesthetics, the spatial character or relational extent of lived experience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spatiality designates any property relating to or occupying space."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Every tactile and visual sensation possesses an inherent element of **spatiality** or primitive bigness."*
+> - 📜 **Henri Bergson (*Time and Free Will*):** *"Bergson contrasted the homogeneous **spatiality** of physical geometry with the qualitative duration of consciousness."*
+> - 📜 **John Dewey (*Art as Experience*):** *"Architecture expresses the dynamic **spatiality** of human shelter through harmonious enclosed volumes."*

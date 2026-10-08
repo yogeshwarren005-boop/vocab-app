@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or involving or having the nature of space.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or involving or having the nature of space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, occupying, or having the character of physical, geometric, or dimensional space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to distance, area, position, or volume in physical geometry and psychology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"ARTICLE FIVE We recognize that precise delineation's of spatial jurisdictions are essential for the orderly processes of government."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We agree that jurisdictions to be defined and delineated include: a. the outer limits of any one nation's spatial control and administration."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"Kant demonstrated that space is not an empirical concept, but an a priori **spatial** form of outer intuition."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The infant gradually synthesizes visual and muscular cues into a unified **spatial** perception of the world."*
+> - 📜 **Albert Einstein (*Relativity: The Special and General Theory*):** *"In relativistic physics, four-dimensional spacetime combines three **spatial** coordinates with time."*

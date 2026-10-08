@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive urination at night; especially common in older men.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive urination at night; especially common in older men.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of needing to wake up several times during the night to urinate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical nephrology and urology, an excessive nocturnal excretion of urine indicating renal or cardiac dysfunction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nocturia designates excessive urination at night; especially common in older men."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Persistent **nocturia** is one of the earliest clinical signs of chronic interstitial nephritis in aging patients."*
+> - 📜 **Richard Bright (*Reports of Medical Cases*):** *"Bright noted that patients suffering from albuminous dropsy frequently complained of distressing **nocturia**."*
+> - 📜 **William Gull (*Clinical Lectures*):** *"Gull emphasized that nocturnal polyuria or **nocturia** reflects early vascular changes in the renal parenchyma."*

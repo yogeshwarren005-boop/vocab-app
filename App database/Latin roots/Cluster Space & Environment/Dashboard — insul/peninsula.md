@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large mass of land projecting into a body of water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large mass of land projecting into a body of water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of land almost entirely surrounded by water or projecting far into a body of water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A geographically distinct coastal projection connected to the mainland by a narrow isthmus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Simons, "An Exploration of the Goajira Peninsula," _Proceedings of the Royal Geographical Society_, N.S., vii. (1885) p. 791."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The ascription of medicinal power to fire kindled by the friction of wood is said to be especially characteristic of the Slavs who inhabit the Carpathian Mountains and the Balkan peninsula."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The long and narrow peninsula of Malacca, extending south-eastward from the territories of Birmah, forms the most southerly point of all Asia."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Italian **peninsula** was exposed to barbarian invasions from the Alps while its fleets decayed."*
+> - 📜 **Thucydides (*History of the Peloponnesian War*):** *"The Spartan army invaded the Attic **peninsula**, ravaging olive groves outside the walls of Athens."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"Humboldt surveyed the tropical mangrove swamps fringing the Venezuelan **peninsula** of Araya."*

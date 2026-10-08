@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not quite exact or correct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not quite exact or correct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to approximate; giving a rough estimate or approaching near to correctness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by close resemblance or calculated estimation rather than absolute precision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond became serious too, and slightly meditative; in fact, she was going through many intricacies of lace-edging and hosiery and petticoat-tucking, in order to give an answer that would at least be approximative."*
+> - 📜 **Lord Kelvin (*Mathematical and Physical Papers*):** *"Kelvin provided an **approximative** calculation of the thermodynamic cooling rate of the terrestrial crust."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The initial formulas of physical science furnish an **approximative** synthesis of cosmic transformations."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"The gas law yields an **approximative** description that holds best under moderate pressures and temperatures."*

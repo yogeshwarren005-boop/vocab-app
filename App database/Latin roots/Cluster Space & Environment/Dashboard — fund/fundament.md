@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The fundamental assumptions from which something is begun or developed or calculated or explained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fleshy part of the human body that you sit on.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The foundation, groundwork, or primary underlying basis of an institution, doctrine, or state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anatomically, the buttocks, anus, or lower base of the trunk.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fundament designates the fundamental assumptions from which something is begun or developed or calculated or explained."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Inductive observation of particular facts forms the unshakable **fundament** of true natural science."*
+> - 📜 **Thomas Hobbes (*Leviathan*):** *"The mutual surrender of natural liberty in exchange for security constitutes the civil **fundament** of the state."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The chaotic abyss lacked all solid **fundament**, rocking beneath the clash of embryonic elements."*

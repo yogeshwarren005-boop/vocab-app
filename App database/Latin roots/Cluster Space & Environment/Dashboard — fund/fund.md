@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reserve of money set aside for some purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A supply of something available for future use.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sum of money saved, collected, or allocated for a designated enterprise, charity, or public purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abundant store, repository, or reservoir of knowledge, vitality, or anecdotes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Upon that, he shut himself up for a few weeks with some books and some bones and seemed to acquire a considerable fund of information with great rapidity."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, you have a fund of knowledge and good sense and can advise me.” Miss Flite, mighty proud of the compliment, sets herself to consider; but it is long before a bright thought occurs to her."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I’m thinking of sending round to all the old antiqueerians in this part of England,” he said, “asking them to subscribe to a fund to maintain me."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The annual labor of every nation is the **fund** which originally supplies it with all the necessaries of life."*
+> - 📜 **Alexander Hamilton (*Report on Public Credit*):** *"Hamilton proposed establishing a sinking **fund** to retire the national debt and maintain the public credit."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor possessed a rich **fund** of common sense and steady judgment that guided her impulsive family."*

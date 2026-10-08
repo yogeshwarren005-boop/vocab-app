@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preserve by chilling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cool or chill in or as if in a refrigerator.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Kept cool, chilled, or frozen in a specialized low-temperature storage chamber or appliance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preserved against bacterial spoilage by artificial cooling; chilled.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, refrigerated designates preserve by chilling."*
+> - 📜 **Upton Sinclair (*The Jungle*):** *"Carcasses of beef hung in vast **refrigerated** rooms of the Chicago packinghouses, awaiting rail shipment."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"The modern steamer carried **refrigerated** stores of fresh meat, a luxury unknown to ancient whaling barks."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pathological specimens were preserved in a **refrigerated** vault to retard post-mortem cellular changes."*

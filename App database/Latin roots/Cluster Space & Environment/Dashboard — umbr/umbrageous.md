@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Filled with shade.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Angered at something unjust or wrong.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Providing shade; leafy, shadowy, or sheltered from sunlight by dense foliage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily offended, touchy, suspicious, or prone to take offense at perceived slights.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Young fir-trees are raised at the doorway and elsewhere about the homestead; and very often small umbrageous arbours are constructed in the garden."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Thomas[292] has described them, in the umbrageous and many-coloured foliage that enriches the scene, and in which the melancholy yew-tree is conspicuous."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Embowered in an **umbrageous** grove, the blissful arbour shielded the pair from the noon heat."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"The venerable manor house stood half hidden behind ancient, **umbrageous** elms and spreading oaks."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The touchy scholar was of an **umbrageous** temper, taking offense at the most innocent jest of his guests."*

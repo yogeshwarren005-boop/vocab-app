@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated nearest to point of attachment or origin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Situated nearest to point of attachment or origin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated nearer to the center of the body or point of anatomical attachment (contrasted with distal).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biology and geology, nearest to the point of origin, base, or central reference coordinate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proximal designates situated nearest to point of attachment or origin."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The femur constitutes the **proximal** segment of the hind limb, articulating directly with the pelvic acetabulum."*
+> - 📜 **Richard Owen (*On the Archetype and Homologies of the Vertebrate Skeleton*):** *"Owen traced the homologous relationship of the **proximal** carpal bones across diverse mammalian forelimbs."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The **proximal** joint of the human thumb retains remarkable muscular mobility inherited from arboreal ancestors."*

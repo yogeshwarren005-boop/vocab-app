@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Regard as objective.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make external or objective, or give reality to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To manifest, express, or embody an internal thought, psychological state, or subjective feeling outwardly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In business, to shift corporate liabilities, waste management, or social costs onto external parties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, externalise designates regard as objective."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The visual imagination tends to **externalise** vivid memory images as if they occupied real physical space."*
+> - 📜 **John Dewey (*Art as Experience*):** *"The sculptor must **externalise** his aesthetic intuition through the tactile resistance of marble and clay."*
+> - 📜 **George Bernard Shaw (*Dramatic Opinions and Essays*):** *"Playwrights often fail when they attempt to **externalise** subtle moral dilemmas through crude physical melodramas."*

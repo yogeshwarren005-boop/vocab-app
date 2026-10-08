@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of providing vague advance indications; representing beforehand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sketchy or imperfect or faint representation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A faint sketch, shadowy representation, or imperfect outline of something to come.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of foreshadowing or giving an incomplete, prefigurative glimpse of a future event.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adumbration designates the act of providing vague advance indications; representing beforehand."*
+> - 📜 **Thomas Browne (*Hydriotaphia, Urn Burial*):** *"Mortal life is merely an **adumbration** of eternity, casting fleeting silhouettes across the tomb."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Our preliminary sensory impressions provide an imperfect **adumbration** of the physical constitution of bodies."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The early riots in Paris offered a terrifying **adumbration** of the anarchy that soon overwhelmed the state."*

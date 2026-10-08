@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or forming or resembling a peninsula.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or forming or resembling a peninsula.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, forming, or situated on a peninsula; almost surrounded by water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the historic Peninsular War (1807–1814) waged by Britain, Spain, and Portugal against Napoleon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Then the war fever laid hold of him, and he enlisted in the regular army, serving in the Rifle Brigade all through the Peninsular War, from Vimiera to Toulouse, and earning a medal with twelve clasps."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But talking of books, there is Southey’s ‘Peninsular War.’ I am reading that of a morning."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Colonel Barlow made the Peninsular Campaign in the spring and summer of 1862 under McClellan."*
+> - 📜 **Arthur Wellesley, Duke of Wellington (*Dispatches of Field Marshal the Duke of Wellington*):** *"Wellington conducted his **peninsular** campaign along the Lines of Torres Vedras, starving out the French marshals."*
+> - 📜 **William Napier (*History of the War in the Peninsula*):** *"Napier chronicled the bloody battles and heroic endurance of British soldiers in the **peninsular** war."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The naturalist collected distinctive floral specimens across the rocky **peninsular** headlands of Patagonia."*

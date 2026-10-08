@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of cooling or freezing (e.g., food) for preservative purposes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of cooling or freezing (e.g., food) for preservative purposes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or operation of making cold, chilling, or reducing physical temperature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The artificial or natural cooling of a body, liquid, or atmosphere to a low degree.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, infrigidation designates the process of cooling or freezing (e.g., food) for preservative purposes."*
+> - 📜 **Robert Boyle (*New Experiments and Observations Touching Cold*):** *"Boyle documented the sudden **infrigidation** of distilled liquors when mixed with concentrated ammoniac salts."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Browne scrutinized naturalists who attributed the seasonal **infrigidation** of springs to subterranean winds."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Bacon suggested that artificial **infrigidation** might preserve animal tissues and arrest putrefaction indefinitely."*

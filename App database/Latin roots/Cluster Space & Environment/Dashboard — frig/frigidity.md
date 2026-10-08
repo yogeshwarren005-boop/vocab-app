@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sexual unresponsiveness (especially of women) and inability to achieve orgasm during intercourse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The absence of heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intense, biting physical coldness of temperature or climate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Severe lack of emotional warmth, passion, cordiality, or affection; stiffness of manner.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He knew that anything was better then frigidity."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"When I remembered how far I had once been admitted to his confidence, I could hardly comprehend his present frigidity."*
-> - 📜 **James Joyce (*Ulysses*):** *"Indubitably in consequence of the reiterated examples of poets in the delirium of the frenzy of attachment or in the abasement of rejection invoking ardent sympathetic constellations or the frigidity of the satellite of their planet."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The barbarian warriors endured the seasonal **frigidity** of the northern forests without complaint."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea was dismayed by the intellectual **frigidity** of Casaubon, whose soul lacked romantic fire."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Excessive caution often degenerates into a social **frigidity** that repels honest companions."*

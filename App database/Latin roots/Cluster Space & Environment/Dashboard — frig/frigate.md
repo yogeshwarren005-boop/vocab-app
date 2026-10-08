@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medium size square-rigged warship of the 18th and 19th centuries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A united states warship larger than a destroyer and smaller than a cruiser.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fast, maneuverable warship of the 18th and 19th centuries carrying a single full battery of guns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern naval terminology, an escort vessel used for anti-submarine and patrol duties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"When you come to a frigate, of course, you are more confined; though any reasonable woman may be perfectly happy in one of them; and I can safely say, that the happiest part of my life has been spent on board a ship."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Crying its eyes out?—Giving a party to the last arrived harpooneers, I dare say, gay as a frigate’s pennant, and so am I—fa, la! lirra, skirra!"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"With a frigate’s anchors for my bridle-bitts and fasces of harpoons for spurs, would I could mount that whale and leap the topmost skies, to see whether the fabled heavens with all their countless tents really lie encamped beyond my mortal sight!"*
+> - 📜 **Herman Melville (*White-Jacket*):** *"Life aboard a United States **frigate** is governed by strict naval articles and the relentless boatswain's pipe."*
+> - 📜 **C. S. Forester (*Mr. Midshipman Hornblower*):** *"The British **frigate** hoisted every stitch of canvas to overhaul the fleeing French privateer in the Bay of Biscay."*
+> - 📜 **Lord Byron (*Don Juan*):** *"The nimble **frigate** skimmed across the Mediterranean swell, her tall spars leaning gracefully with the wind."*

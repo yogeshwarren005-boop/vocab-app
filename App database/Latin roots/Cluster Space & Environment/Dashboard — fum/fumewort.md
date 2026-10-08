@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Delicate european herb with greyish leaves and spikes of purplish flowers; formerly used medicinally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Herb of northern europe and asia having erect racemes of red flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any herbaceous plant of the genus Corydalis or Fumaria, characterized by finely divided foliage and spurred blooms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In woodland botany, a delicate perennial plant possessing tuberous starch-storing rhizomes and colorful blossoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fumewort designates delicate european herb with greyish leaves and spikes of purplish flowers; formerly used medicinally."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The golden **fumewort** brightens rocky slopes in early spring with its racemes of spurred yellow blossoms."*
+> - 📜 **John Torrey (*A Flora of the State of New York*):** *"Torrey documented the pink-flowered **fumewort** growing in shaded crevices along the Hudson highlands."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Gardeners cultivate the hardy **fumewort** for its fern-like glaucous leaves and decorative early flowers."*

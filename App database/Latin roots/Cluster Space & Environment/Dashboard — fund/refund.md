@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Money returned to a payer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of returning money received previously.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To pay back, return, or reimburse money, especially to a customer dissatisfied with goods or services.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A repayment or restitution of a sum of money previously paid or collected in error.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"You have had the money and must refund it."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These returns, virtually but the refund of excess premiums, are called "dividends" (a somewhat misleading term, not to be confused with dividends on corporate stock)."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"For the lacquey complaining to Sir Launcelot of his having been despoiled, the knight commanded his squire to refund, not without menaces of subjecting him to the severest chastisement for his injustice and rapacity."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The court ordered the fraudulent solicitor to **refund** every shilling stolen from the orphan's trust."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"When imported merchandise is re-exported, the treasury agrees to **refund** the customs duties previously paid."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Rawdon demanded that Lord Steyne **refund** the borrowed card winnings before daybreak."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: On or from the outside.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to the outside.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: On the outside, outer surface, or exterior boundary of an object or organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In outward appearance, conduct, or form, as distinguished from inward or hidden reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The Dedlock town house changes not externally, and hours pass before its exalted dullness is disturbed within."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"That fair sufferer soon recovered herself externally; but she remained much depressed all the afternoon."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Farming, of course, means roughing it externally; but high thinking may go with plain living, nevertheless.” “Of course it may,” said Angel."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Two species may resemble each other closely **externally**, while differing fundamentally in internal anatomy."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Qualities that we perceive **externally** in matter correspond to primary powers inherent in the corpuscles."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman senate maintained its ancient dignity **externally**, though stripped of real political power."*

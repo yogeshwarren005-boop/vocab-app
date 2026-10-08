@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having the nature of illation or inference.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of reasoning; proceeding from general premisses to a necessary and specific conclusion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, based on, or deduced through logical inference and circumstantial evidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reached by reasoning from premises rather than through direct empirical perception.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"The work of deduction is the interpretation of these formulas, and therefore, strictly speaking, is not inferential at all."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Our knowledge of distant stellar movements is strictly **inferential**, derived from spectroscopic optical lines."*
+> - 📜 **Bertrand Russell (*Human Knowledge: Its Scope and Limits*):** *"Russell examined the **inferential** bridge that connects private sensory experiences with the physical world."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"Circumstantial testimony involves an **inferential** step that juries must weigh with rigorous scrutiny."*

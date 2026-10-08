@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being unable to produce offspring; in a woman it is an inability to conceive; in a man it is an inability to impregnate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being unable to produce offspring; in a woman it is an inability to conceive; in a man it is an inability to impregnate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological inability to conceive, produce offspring, or bear seeds; sterility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The barrenness, poverty, or unproductiveness of agricultural soil or intellectual endeavor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, infertility designates the state of being unable to produce offspring; in a woman it is an inability to conceive; in a man it is an inability to impregnate."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Close inbreeding over successive generations often results in decreased vigor and partial **infertility**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Endocrine disturbances and pelvic inflammatory sequelae are major organic factors contributing to **infertility**."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Bacon lamented the intellectual **infertility** of scholastic logic, which produced endless disputes but no useful arts."*

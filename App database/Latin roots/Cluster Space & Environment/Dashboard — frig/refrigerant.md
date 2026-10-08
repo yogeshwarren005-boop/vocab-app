@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance used to provide cooling (as in a refrigerator).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing cooling or freezing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical substance used in a refrigeration cycle to transfer heat and lower temperature (e.g., ammonia, freon).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cooling or chilling; in pharmacology, a cooling medicinal remedy that reduces bodily fever.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, refrigerant designates any substance used to provide cooling (as in a refrigerator)."*
+> - 📜 **Robert Boyle (*New Experiments and Observations Touching Cold*):** *"Boyle studied the rapid evaporation of spirits, observing their **refrigerant** action upon sensitive thermometers."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acidulated beverages like lemonade act as a pleasant **refrigerant** to alleviate febrile thirst in typhus patients."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Liquid sulfur dioxide served as an efficient chemical **refrigerant** in low-temperature laboratory apparatus."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preserve by chilling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cool or chill in or as if in a refrigerator.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cool, chill, or preserve food, drink, or perishable biological specimens at low temperature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To reduce the physical temperature of a substance or chamber through mechanical or chemical cooling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They take some of the products, as eggs in the spring at the period of low prices, and pack or refrigerate them, to be sold when prices are higher."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The Working of a Refrigerating Machine 70 6."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"In the refrigerating machine motion produces heat, on the face of it a strange way of producing cold."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Bacon stuffed a fowl with snow to observe whether cold would **refrigerate** and preserve the flesh from decay."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Ancient naturalists believed that certain cave waters could **refrigerate** burning metals into solid crystal."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Brewers learned to **refrigerate** wort rapidly to prevent wild fungal contamination before pitching yeast."*

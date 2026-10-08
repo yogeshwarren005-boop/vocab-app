@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not spatial.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not spatial.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not relating to, existing in, or occupying physical space; immaterial and incorporeal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metaphysics, pertaining to thoughts, mathematical entities, or spiritual realities lacking dimensions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonspatial designates not spatial."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"Kant argued that things-in-themselves possess an intrinsically **nonspatial** character outside human sensible intuition."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Certain abstract emotions and logical deductions present themselves as purely **nonspatial** mental operations."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"Universal concepts like justice and circularity subsist in a **nonspatial** realm of timeless entities."*

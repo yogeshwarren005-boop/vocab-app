@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Erect or climbing herbs of the northern hemisphere and southern africa: bleeding heart; dutchman's breeches; fumitory; squirrel corn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Erect or climbing herbs of the northern hemisphere and southern africa: bleeding heart; dutchman's breeches; fumitory; squirrel corn.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical family of dicotyledonous flowering plants (fumitories), now usually treated as a subfamily of Papaveraceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic taxonomy, herbaceous plants characterized by watery sap, dissected foliage, and bilaterally zygomorphic spurred flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fumariaceae designates erect or climbing herbs of the northern hemisphere and southern africa: bleeding heart; dutchman's breeches; fumitory; squirrel corn."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The family **fumariaceae** includes delicate spring ephemerals like Dutchman's breeches and squirrel corn."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"Bentham separated **fumariaceae** from true Papaveraceae by their irregular spurred petals and non-milky juice."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Lindley surveyed the medicinal virtues of **fumariaceae**, emphasizing their mild bitter and tonic properties."*

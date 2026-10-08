@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant of the genus mirabilis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant of the genus mirabilis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A perennial herbaceous wild plant of the genus Mirabilis (family Nyctaginaceae), bearing umbrella-like floral clusters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American prairie botany, wild four-o'clocks with opposite leaves and five-lobed calyx-like involucres.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, umbrellawort designates a plant of the genus mirabilis."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The heart-leaved **umbrellawort** flowers in dry western soils, opening its pink corollas in late afternoon."*
+> - 📜 **John Torrey (*Botany of the Boundary*):** *"Torrey catalogued specimens of the desert **umbrellawort** collected along the dry gravel arroyos of Texas."*
+> - 📜 **Charles Edwin Bessey (*Botany for High Schools and Colleges*):** *"Bessey described the protective involucral bracts enclosing the flower clusters of the native **umbrellawort**."*

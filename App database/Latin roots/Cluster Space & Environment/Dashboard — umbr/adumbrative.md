@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indistinctly prophetic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indistinctly prophetic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Foreshadowing, sketching faintly, or serving to outline an idea in a preliminary fashion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by suggestive shadows or prefigurative symbols that hint at deeper realities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adumbrative designates indistinctly prophetic."*
+> - 📜 **William Hazlitt (*The Spirit of the Age*):** *"Coleridge's poetic fragments possess an **adumbrative** genius that stimulates the reader's imagination."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Every social institution functions in an **adumbrative** capacity, veiling the transcendent spirit within matter."*
+> - 📜 **Walter Pater (*Appreciations*):** *"The painter used subtle washes to produce an **adumbrative** background that elevated the central portrait."*

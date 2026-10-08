@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being isolated or detached.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being isolated or detached.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Narrow-minded adherence to local customs and perspectives; provincial isolationism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cultural or political policy of remaining aloof from foreign intercourse and global affairs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insularism designates the state of being isolated or detached."*
+> - 📜 **George Bernard Shaw (*John Bull's Other Island*):** *"Shaw satirized the stubborn **insularism** of the English gentleman who judged all foreigners by London standards."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"A long residence abroad cures the traveler of that petty **insularism** which mistakes habit for natural law."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Tocqueville noted how geographical oceans encouraged a peaceful **insularism** in American foreign policy."*

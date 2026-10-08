@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Killifish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Killifish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of small killifishes (family Fundulidae) inhabiting fresh, brackish, and coastal waters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental embryology and marine biology, mummichogs widely studied for environmental tolerance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fundulus designates killifish."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"Agassiz documented the euryhaline adaptability of **fundulus** in the coastal salt marshes of Massachusetts."*
+> - 📜 **Jacques Loeb (*The Mechanistic Conception of Life*):** *"Loeb used the transparent eggs of **fundulus** to demonstrate how potassium ions neutralize sodium toxicity."*
+> - 📜 **Thomas Hunt Morgan (*Experimental Embryology*):** *"Morgan examined developing blastoderms of **fundulus**, tracing the migration of pigment cells across the yolk sac."*

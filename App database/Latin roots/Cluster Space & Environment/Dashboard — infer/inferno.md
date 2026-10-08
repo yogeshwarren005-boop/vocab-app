@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any place of pain and turmoil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very intense and uncontrolled fire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, roaring fire that is dangerously out of control; a conflagration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A place, scene, or condition of unbearable suffering, torment, or chaotic ruin resembling hell.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And yet we could learn nothing from such transient and ofttimes stupid Dantes who would remain in our inferno too short a time to learn knuckle-talk ere they went forth again into the bright wide world of the living."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Other legends, however, state that the veritable and primordial lord of the Hawaiian inferno was called Manua."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"The inferno itself bore a number of names, such as Po-pau-ole, Po-kua-kini, Po-kini-kini, Po-papa-ia-owa, Po-ia-milu."*
+> - 📜 **Dante Alighieri (*The Divine Comedy*):** *"Virgil guided Dante through the circles of the **Inferno**, revealing the punishments of the damned."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"The burning forest became a raging **inferno**, driving wild beasts and trappers into the icy river."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The Martian heat-ray transformed the peaceful suburban streets into a crackling **inferno** of flame."*

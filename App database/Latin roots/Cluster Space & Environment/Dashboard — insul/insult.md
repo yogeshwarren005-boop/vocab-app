@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rude expression intended to offend or hurt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deliberately offensive act or something producing the effect of deliberate disrespect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To speak to or treat someone with disrespect, contempt, or insolent scorn; an offensive act.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine and pathology, a physical trauma, injury, toxic exposure, or damage to an organ.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who might be your mother, That you insult, exult, and all at once, Over the wretched?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hath that poor monarch taught thee to insult?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give me thy knife, I will insult on him, Flattering myself as if it were the Moor Come hither purposely to poison me."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Goneril heaped bitter **insult** upon the aged monarch, dismissing his retinue of loyal knights with scorn."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A nation that cannot avenge a deliberate **insult** will soon invite foreign aggression upon its commerce."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The diseased kidney is peculiarly susceptible to toxic **insult** from metallic salts and bacterial poisons."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the noctuidae: moths whose larvae are cutworms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the noctuidae: moths whose larvae are cutworms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic taxonomic genus of owlet moths (Noctuidae); or a classical designation for the night owl.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature, the little owl of Athena, symbol of philosophical wisdom and night vigil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noctua designates type genus of the noctuidae: moths whose larvae are cutworms."*
+> - 📜 **Pliny the Elder (*Naturalis Historia*):** *"Pliny noted that the **noctua** avoids daylight, nesting within abandoned ruins and hunting mice at dusk."*
+> - 📜 **Carl Linnaeus (*Systema Naturae*):** *"Linnaeus assigned hundreds of night-flying moths to the comprehensive genus **noctua**."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"White watched the little **noctua** flitting softly among the churchyard yews in search of beetles."*

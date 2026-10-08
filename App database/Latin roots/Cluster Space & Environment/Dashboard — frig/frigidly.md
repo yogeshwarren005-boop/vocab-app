@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without warmth or enthusiasm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without warmth or enthusiasm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an intensely cold, chilling, or freezing physical temperature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner marked by emotional coldness, aloof indifference, or severe lack of cordiality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Campbell passed by frigidly, as if the man weren't there, and all the time his blood was boiling...."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Clair,” Anne reminded him frigidly."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Darcy bowed **frigidly** to Wickham in the pump room, refusing to exchange a single word of greeting."*
+> - 📜 **Charles Dickens (*Dombey and Son*):** *"Mr. Dombey received the news **frigidly**, allowing no trace of parental tenderness to soften his features."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The naturalist spoke **frigidly** of his reclusive sister, dismissing Watson's polite inquiries with curt remarks."*

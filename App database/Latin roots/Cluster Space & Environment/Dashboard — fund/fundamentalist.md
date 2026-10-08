@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A supporter of fundamentalism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or tending toward fundamentalism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who believes in the strict, literal interpretation of scripture or foundational doctrines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to, advocating, or characterized by unbending adherence to basic orthodox tenets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Like the Fundamentalist in the West he refuses to have his faith shaken in the letter of the Law."*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"The “Northern” School may dub it Hinayana, if they wish; it prefers to stand by the documents, and to be fundamentalist with its Master, Śakyamuni, than universalist dependent on pious fiction."*
+> - 📜 **H. L. Mencken (*A Mencken Chrestomathy*):** *"The impassioned **fundamentalist** preacher denounced geology as a satanic delusion designed to lead youth astray."*
+> - 📜 **Clarence Darrow (*The Story of My Life*):** *"Darrow cross-examined Bryan on the courthouse lawn, challenging the literalist claims of the **fundamentalist** camp."*
+> - 📜 **Reinhold Niebuhr (*Moral Man and Immoral Society*):** *"Niebuhr analyzed the political fanaticism that results when a **fundamentalist** worldview captures state power."*

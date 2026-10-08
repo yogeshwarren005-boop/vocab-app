@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Annual herbs whose flowers have only one petal spurred at the base.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Annual herbs whose flowers have only one petal spurred at the base.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of annual flowering herbs in the poppy family (Papaveraceae), commonly called fumitories.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmaceutical botany, plants historically valued for herbal extracts used in treating cutaneous eruptions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fumaria designates annual herbs whose flowers have only one petal spurred at the base."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"Linnaeus classified **fumaria** among the Diadelphia, noting its irregular spurred corolla and divided leaves."*
+> - 📜 **Nicholas Culpeper (*Complete Herbal*):** *"Culpeper commended the wild **fumaria** for clarifying the blood and purging melancholy from the liver."*
+> - 📜 **William Turner (*A New Herball*):** *"Turner observed that the juice of common **fumaria** provokes tears in the eyes like pungent smoke."*

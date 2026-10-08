@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perfumes in general.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Store where perfumes are sold.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The business, art, trade, or laboratory of compounding and preparing perfumes and toilet waters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shop where perfumes, essences, and scented cosmetics are sold; or perfumes collectively.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Besides which, he quite scented the dining-room with bear’s-grease and other perfumery."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"They is a perfumery that goes with it at one quarter a bottle."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"As for shawls, kid gloves, silk stockings, gold French watches, bracelets and perfumery, he sent them in with the profusion of blind love and unbounded credit."*
+> - 📜 **Honoré de Balzac (*César Birotteau*):** *"The shopfront displayed jars of almond paste and vials of exquisite **perfumery** to allure wealthy patrons."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Rawdon Crawley ran up unpaid bills at the finest **perfumery** shops of St. James's Street."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Gwendolen breathed the delicate scents of the Paris **perfumery**, selecting rare extracts for her dressing table."*

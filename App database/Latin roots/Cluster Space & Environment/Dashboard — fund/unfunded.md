@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not furnished with funds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not furnished with funds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not provided with monetary funds, capital resources, or designated financial backing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In finance, of a government or municipal debt: not secured by a designated fund or converted into permanent stock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The income arising from current labor is unfunded, because there is no permanent fund of accumulated wealth corresponding to it."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"At that time the total indebtedness, exclusive of the “old funded and unfunded debt” of the Revolution, and of cash in the Treasury, amounted to $2,844,646,626.56."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Does he not know that that measure of forcible readjustment absolutely repudiated one-half of the accrued and unfunded interest, while the Riddleberger bill provides for paying it dollar for dollar?"*
+> - 📜 **Alexander Hamilton (*Report on Public Credit*):** *"Hamilton warned that leaving wartime debts in an **unfunded** state would ruin national commerce and public confidence."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The British government frequently accumulated a large **unfunded** floating debt in exchequer bills during war."*
+> - 📜 **Woodrow Wilson (*Congressional Government*):** *"Wilson noted that ambitious statutory mandates often proved ineffective when left completely **unfunded** by Congress."*

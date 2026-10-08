@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With regard to space.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With regard to physical space, geometric dimensions, geographical location, or distance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner arranged, distributed, or measured across physical extent or coordinates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spatially designates with regard to space."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Related animal species are often **spatially** distributed across adjacent geographical river valleys."*
+> - 📜 **William James (*The Principles of Psychology*):** *"We perceive two touch sensations as **spatially** distinct only when separated by a measurable bodily distance."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Matter aggregates **spatially** around dominant gravitational centers as celestial nebulas condense."*

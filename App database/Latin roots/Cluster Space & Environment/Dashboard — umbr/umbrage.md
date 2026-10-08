@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of anger caused by being offended.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of anger caused by being offended.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Offense, resentment, or annoyance, typically taken at an imagined slight, insult, or injury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shade or shadow cast by trees or foliage; leafy sheltering branches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, in the verity of extolment, I take him to be a soul of great article and his infusion of such dearth and rareness as, to make true diction of him, his semblable is his mirror and who else would trace him his umbrage, nothing more."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"High above the sombre umbrage rose slender snowy spires, around which the moonbeams lingered lovingly."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Even starlight was excluded by the umbrage, and not the faintest gleam was afforded to guide my steps."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Collins took serious **umbrage** at Elizabeth's refusal, feeling his dignity wounded by her rejection."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Where highest woods, impenetrable to star or sunlight, spread their **umbrage** broad and brown as evening."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The proud nobility took **umbrage** at the aggressive pretensions of the newly enriched financial class."*

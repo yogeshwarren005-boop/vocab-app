@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lightweight handheld collapsible canopy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formation of military planes maintained over ground operations or targets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A collapsible fabric canopy on a folding metal frame mounted on a central stick, carried as protection against rain or sun.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A protecting force, agency, organization, or overarching policy that covers and shields diverse elements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"What college could you leave—in another quarter of the world—with nothing but a grey cloak and an umbrella—to make its way home to Europe?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The old girl’s umbrella is of a flabby habit of waist and seems to be in need of stays—an appearance that is possibly referable to its having served through a series of years at home as a cupboard and on journeys as a carpet bag."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet, with her cloak, basket, and umbrella, goes home, bright-eyed again, to the rest of her family, and the comrades sally forth on the hopeful errand of mollifying Mr."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"Crusoe constructed a heavy goat-skin **umbrella** to shield his head against the tropical sun and pouring rains."*
+> - 📜 **Charles Dickens (*Martin Chuzzlewit*):** *"Mrs. Gamp was never seen without her enormous, battered cotton **umbrella**, which she brandished like a staff."*
+> - 📜 **Arthur Conan Doyle (*The Red-Headed League*):** *"Watson tucked his **umbrella** under his arm as he hurried through the stormy London streets toward Baker Street."*

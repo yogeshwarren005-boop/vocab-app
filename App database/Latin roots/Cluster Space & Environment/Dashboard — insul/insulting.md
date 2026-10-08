@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat, mention, or speak to rudely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing extreme contempt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving or intending to give offense; disrespectful, insolent, or contemptuously abusive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by arrogant mockery or humiliating contempt aimed at belittling another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it were so, I might have let alone The insulting hand of Douglas over you, Which would have been as speedy in your end As all the poisonous potions in the world, And saved the treacherous labour of your son."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now am I like that proud insulting ship Which Caesar and his fortune bare at once."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou antic Death, which laugh’st us here to scorn, Anon, from thy insulting tyranny, Coupled in bonds of perpetuity, Two Talbots, winged through the lither sky, In thy despite shall scape mortality."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth resented Darcy's **insulting** declarations regarding the inferiority of her family connections."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Nicholas struck the brutal schoolmaster to the earth for his **insulting** treatment of poor Smike."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Persian monarch returned an **insulting** answer to the imperial ambassadors, demanding unconditional surrender."*

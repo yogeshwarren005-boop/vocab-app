@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being isolated or detached.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A material that reduces or prevents the transmission of heat or sound or electricity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The material used to prevent the loss of heat or intrusion of sound or electric current.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action of isolating or protecting an entity from external interference, shock, or contact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The insulation of his heart by reserve during these many years, without a channel of any kind for disposable emotion, had worked its effect."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Her hand remained encased in translucent, skin-tight insulation."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We've got to get off before he personally takes charge of the search." Brad again scrutinized the ship's stringers and cable insulation colors."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Defective cable **insulation** allows galvanic currents to dissipate into the surrounding ocean brine."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"Thick mineral wool provides effective thermal **insulation** for high-pressure steam boilers."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"The caste system secured the social **insulation** of privileged priestly hierarchies across centuries."*

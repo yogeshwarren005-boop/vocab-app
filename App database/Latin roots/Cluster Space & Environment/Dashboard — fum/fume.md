@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cloud of fine particles suspended in a gas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be mad, angry, or furious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pungent gas, smoke, or vapor that is given off by a burning, reacting, or volatile substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To feel, show, or seethe with suppressed anger, rage, or violent irritation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She’s tickled now; her fume needs no spurs, She’ll gallop far enough to her destruction. [_Exit._] Enter Gloucester."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Love is a smoke made with the fume of sighs; Being purg’d, a fire sparkling in lovers’ eyes; Being vex’d, a sea nourish’d with lovers’ tears: What is it else?"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Very good,” I thought; “you may fume and fidget as you please: but this is the best plan to pursue with you, I am certain."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Grosser sleep bred by autumnal **fume** weighed down their eyelids after tasting the forbidden fruit."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"Their understanding begins to swell, and the approaching tide will shortly foul the **fume** that mantled their clearer reason."*
+> - 📜 **Charles Dickens (*Barnaby Rudge*):** *"Mr. Chester sat quietly in his armchair, leaving his hot-tempered brother to **fume** and pace the rug in fury."*

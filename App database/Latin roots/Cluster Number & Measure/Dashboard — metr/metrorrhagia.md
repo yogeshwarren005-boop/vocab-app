@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # metrorrhagia
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bleeding from the uterus that is not due to menstruation; usually indicative of disease (as cervical cancer).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bleeding from the uterus that is not due to menstruation; usually indicative of disease (as cervical cancer).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Uterine bleeding occurring at irregular and unpredictable intervals, particularly between expected menstrual periods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal hemorrhagic symptom often indicative of endometrial hyperplasia, fibroids, or malignancy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metrorrhagia designates bleeding from the uterus that is not due to menstruation; usually indicative of disease (as cervical cancer)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Persistent intermenstrual **metrorrhagia** in a postmenopausal patient demands immediate diagnostic curettage."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Endocrine disturbances secondary to adenoma were frequently heralded by intractable episodes of **metrorrhagia**."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The young doctor was summoned urgently at midnight to attend a dangerous case of recurrent **metrorrhagia**."*

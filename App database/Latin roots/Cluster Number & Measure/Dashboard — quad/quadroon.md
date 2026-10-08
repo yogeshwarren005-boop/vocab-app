@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quad]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quadroon
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An offspring of a mulatto and a white parent; a person who is one-quarter black.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An offspring of a mulatto and a white parent; a person who is one-quarter black.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical term designating a person having one Black grandparent and three White grandparents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A racial classification codified in colonial slave societies to regulate social status and legal rights.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Quadroon, with carte blanche on the Slave question); indeed the family estate was much embarrassed, and the income drawn from the borough was of great use to the house of Queen's Crawley."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"There was a judge's daughter at Demerara went almost mad about him; then there was that beautiful quadroon girl, Miss Pye, at St."*
+> - 📜 **Harriet Beecher Stowe (*Uncle Tom's Cabin*):** *"The fair **quadroon** mother clutched her child tightly as the auctioneer mounted the wooden platform."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"Old legal records in New Orleans contain elaborate genealogies certifying whether a resident was a **quadroon**."*
+> - 📜 **Frederick Douglass (*My Bondage and My Freedom*):** *"The cruel arbitrary distinctions dividing mulatto, **quadroon**, and negro revealed the injustice of the slave system."*

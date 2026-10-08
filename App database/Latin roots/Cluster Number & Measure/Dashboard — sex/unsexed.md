@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sex]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # unsexed
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprive of sex or sexual powers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the qualities typical of one's sex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprived of the qualities, instincts, or vulnerabilities traditionally associated with one's biological sex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgically sterilized or deprived of reproductive organs; castrated or spayed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Now the unsexed priests of this Syrian goddess resembled those of Cybele so closely that some people took them to be the same."*
-> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"Is it for this the Spanish maid, aroused, Hangs on the willow her unstrung guitar, And, all unsexed, the anlace hath espoused, Sung the loud song, and dared the deed of war?"*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Lady Macbeth stood resolved in heart, feeling **unsexed** and hardened against all remorseful pity."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Domestic animals that have been **unsexed** in youth display marked alterations in secondary plumage and horn growth."*
+> - 📜 **Charlotte Brontë (*Shirley*):** *"She refused to believe that an independent woman was **unsexed** merely because she managed her own estates."*

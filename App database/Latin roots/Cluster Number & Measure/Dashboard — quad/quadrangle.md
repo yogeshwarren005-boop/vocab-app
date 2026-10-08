@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quad]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quadrangle
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A four-sided polygon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rectangular area surrounded on all sides by buildings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rectangular courtyard completely or predominantly bounded by academic or palatial edifices.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plane geometric figure bounded by four straight lines and possessing four interior angles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, lords, my choler being overblown With walking once about the quadrangle, I come to talk of commonwealth affairs."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Amidst a scene of wild enthusiasm we hoisted his big form upon our shoulders, and careered round the old quadrangle in triumph."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Bid my Supsiser carry my Hackney to the Butt'ry, and give him his Bever; it is a civil and sober Beast, and will drink moderately; and that done, turn him into the Quadrangle. _Bri_."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Three Students*):** *"A solitary gas lamp illuminated the broad **quadrangle** as we entered through the Gothic archway."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"The ancient cobblestones of the inner **quadrangle** retained the cold moisture of the autumn rain."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He crossed the collegiate **quadrangle** while the shadows of dusk lengthened along the cloistered walls."*

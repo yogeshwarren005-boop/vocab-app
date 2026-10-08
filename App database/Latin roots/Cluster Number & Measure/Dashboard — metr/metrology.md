@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # metrology
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of measurement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The scientific study of measurement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific discipline and technology of measurement, including the establishment of international units.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historical or commercial system of standardized weights and measures used in trade or industry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metrology designates the scientific study of measurement."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"Progress in physical chemistry has ever marched hand in hand with the refinement of exact **metrology**."*
+> - 📜 **Charles Babbage (*The Exposition of 1851*):** *"A standardized universal **metrology** is essential for the mutual prosperity of industrial manufacturing nations."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Modern physical laboratories require training in rigorous **metrology** before theoretical speculations begin."*

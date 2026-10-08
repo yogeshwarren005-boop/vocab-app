@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quad]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quadripartite
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving four parties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving four parties.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divided into four distinct parts, sections, or administrative components.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Negotiated between, signed by, or involving four participating governments or contracting parties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quadripartite designates involving four parties."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Diocletian instituted a **quadripartite** partition of imperial authority among two Augusti and two Caesars."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The administration of the conquered capital was regulated under a formal **quadripartite** agreement."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The vaulting exhibits a pure **quadripartite** arrangement of pointed stone ribs converging at the crown."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sex]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # transsexual
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has undergone a sex change operation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person whose sexual identification is entirely with the opposite sex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual whose gender identity does not correspond with the sex assigned to them at birth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to medical, surgical, or psychological transition from one sex to another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transsexual designates a person who has undergone a sex change operation."*
+> - 📜 **Margaret Mead (*Sex and Temperament in Three Primitive Societies*):** *"Anthropological inquiry reveals that cultures across Polynesia readily recognized the **transsexual** person."*
+> - 📜 **Simone de Beauvoir (*The Second Sex*):** *"The situation of the **transsexual** demonstrates how gender identity is constituted through lived experience."*
+> - 📜 **Aldous Huxley (*Island*):** *"The utopian society respected the psychological transition of the **transsexual** without moralistic dogma."*

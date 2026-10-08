@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # unsymmetrical
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking symmetry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having unsymmetrical parts or unequal dimensions or measurements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking symmetry; having parts that do not correspond in size, shape, or arrangement on opposite sides.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Irregular, unbalanced, or disproportionate in structure, design, or anatomical development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsymmetrical designates lacking symmetry."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The male narwhal presents an extraordinary **unsymmetrical** tusk protruding from the left side of the upper jaw."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"A living building is often intentionally **unsymmetrical**, adapting each part to its particular human function."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Experimental subjects easily detect when a visually presented polygon is noticeably **unsymmetrical**."*

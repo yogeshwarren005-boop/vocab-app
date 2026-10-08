@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quad]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quadruped
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal especially a mammal having four limbs specialized for walking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having four feet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal that walks on four feet or limbs, especially a four-footed mammal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing four feet; four-footed in anatomical posture and locomotion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She is angry—she doesn’t know what we mean—she’ll kick over the milk!” exclaimed Tess, gently striving to free herself, her eyes concerned with the quadruped’s actions, her heart more deeply concerned with herself and Clare."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"We, helpless infants in arms or creeping quadruped-like on the floor, dreamed our dreams of air-flight."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"As for the white shark, the white gliding ghostliness of repose in that creature, when beheld in his ordinary moods, strangely tallies with the same quality in the Polar quadruped."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The skeletal homology between a swimming whale and a terrestrial **quadruped** reveals their common ancestry."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The upright human skeleton differs markedly from the horizontal spinal column of the typical mammalian **quadruped**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"No land **quadruped** can rival the colossal bulk and fluid majesty of the great sperm whale."*

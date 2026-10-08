@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quad]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quadrillion
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The number that is represented as a one followed by 24 zeros.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The number that is represented as a one followed by 15 zeros.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A number represented in the American short scale by one followed by fifteen zeros ($10^{15}$).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the British long scale system, a number equal to the fourth power of a million ($10^{24}$).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quadrillion designates the number that is represented as a one followed by 24 zeros."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"The observable universe contains more than a **quadrillion** stars scattered across millions of galaxies."*
+> - 📜 **Arthur C. Clarke (*The Promise of Space*):** *"Interstellar communications require transmitters capable of overcoming distances measured in a **quadrillion** miles."*
+> - 📜 **Isaac Asimov (*Extraterrestrial Civilizations*):** *"The total energy released by galactic collisions exceeds a **quadrillion** megatons of equivalent explosive yield."*

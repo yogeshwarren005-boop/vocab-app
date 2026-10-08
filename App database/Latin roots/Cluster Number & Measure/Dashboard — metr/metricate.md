@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # metricate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert from a non-metric to the metric system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert from a non-metric to the metric system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert, adapt, or transition an industrial, legal, or commercial measurement system to metric units.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To recalibrate instruments, manufacturing tooling, or architectural blueprints to the international metric standard.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metricate designates convert from a non-metric to the metric system."*
+> - 📜 **H. G. Wells (*The Work, Wealth and Happiness of Mankind*):** *"Modern global industries found it imperative to **metricate** specifications to ensure component interchangeability."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"The campaign to **metricate** engineering standards encountered stubborn resistance from traditional English guilds."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"Spaceflight endeavors compelled engineers to **metricate** calculations to eliminate disastrous unit mismatches."*

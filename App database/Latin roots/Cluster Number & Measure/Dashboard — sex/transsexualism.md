@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sex]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # transsexualism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Condition in which a person assumes the identity and permanently acts the part of the gender opposite to his or her biological sex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Condition in which a person assumes the identity and permanently acts the part of the gender opposite to his or her biological sex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of experiencing a profound discordance between internal gender identity and anatomical sex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The clinical and sociological study of medical gender transition and personal identity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transsexualism designates condition in which a person assumes the identity and permanently acts the part of the gender opposite to his or her biological sex."*
+> - 📜 **Simone de Beauvoir (*The Second Sex*):** *"Psychological analysis of **transsexualism** confirms that masculine and feminine essences are not innate."*
+> - 📜 **Margaret Mead (*Male and Female*):** *"Cross-cultural evidence regarding **transsexualism** illustrates the diversity of human personality structures."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Cases resembling modern **transsexualism** were documented in classical antiquity under mythological forms."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # metro
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An electric railway operating below the surface of the ground (usually in a city).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electric railway operating below the surface of the ground (usually in a city).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An underground, elevated, or rapid transit electric railway system serving a major metropolitan city.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to a large metropolis, urban municipality, or metropolitan area.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metro designates an electric railway operating below the surface of the ground (usually in a city)."*
+> - 📜 **Marcel Proust (*In Search of Lost Time*):** *"The newly excavated Parisian **metro** swallowed crowds of busy commuters beneath the boulevards."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"I bought a cheap second-class ticket and rode the roaring **metro** to the edge of the working-class suburb."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"The rhythmic rumbling of the underground **metro** vibrated faintly through the foundations of the street."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quad]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quadriceps
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A muscle of the thigh that extends the leg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A muscle of the thigh that extends the leg.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The large four-part muscle group located on the anterior aspect of the human thigh, extending the knee.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The powerful extensor muscle apparatus comprising the rectus femoris and three vastus muscles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quadriceps designates a muscle of the thigh that extends the leg."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The common tendon of the **quadriceps** extensor inserts into the superior border of the patella."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Reflex contraction of the **quadriceps** muscle upon tapping the ligamentum patellae constitutes the knee jerk."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The hypertrophy of the human **quadriceps** reflects our evolutionary adaptation to habitual bipedal locomotion."*

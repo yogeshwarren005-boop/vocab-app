@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # symmetrise
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make symmetric.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make symmetric.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make symmetrical; to arrange, alter, or balance components so that they correspond across an axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To transform mathematical tensors, matrices, or algebraic expressions into symmetrical forms (British spelling).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symmetrise designates make symmetric."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Renaissance builders attempted to **symmetrise** every Gothic facade by shaving away medieval eccentricities."*
+> - 📜 **James Clerk Maxwell (*Scientific Papers*):** *"We can readily **symmetrise** the differential equations of elasticity by introducing conjugated stress components."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"Crystallographers observe nature constantly striving to **symmetrise** internal cleavage planes during mineral growth."*

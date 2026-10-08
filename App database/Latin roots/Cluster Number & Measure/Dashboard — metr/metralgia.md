@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # metralgia
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain in the uterus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pain in the uterus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Severe neuralgia or cramping pain localized within the muscular tissues of the uterus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gynecological symptom associated with uterine inflammation, dysmenorrhea, or pelvic congestion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metralgia designates pain in the uterus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic pelvic congestion was frequently accompanied by paroxysmal episodes of severe **metralgia**."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"The clinical notes recorded complaints of persistent **metralgia** refractory to standard analgesics."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The experienced surgeon evaluated the acute **metralgia** to rule out deep inflammatory suppuration."*

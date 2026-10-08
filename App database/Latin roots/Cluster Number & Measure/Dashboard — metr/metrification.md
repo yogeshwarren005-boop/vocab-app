@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # metrification
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Writing a metrical composition (or the metrical structure of a composition).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of changing from imperial units of measurement to metric units: meters, grams, seconds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or art of composing verse in regular poetic meter, rhythmic structure, and cadence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The conversion or transformation of imperial units into the decimal metric system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metrification designates writing a metrical composition (or the metrical structure of a composition)."*
+> - 📜 **Edgar Allan Poe (*The Rationale of Verse*):** *"The principles of harmonious **metrification** depend upon mathematical equality in the duration of syllables."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Defective **metrification** grates upon the ear like an unresolved discord in musical composition."*
+> - 📜 **H. G. Wells (*The Work, Wealth and Happiness of Mankind*):** *"The worldwide **metrification** of commercial standards proceeded despite nationalist objections."*

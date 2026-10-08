@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quad]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # squad
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A smallest army unit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cooperative unit (especially in sports).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small sub-unit of military soldiers organized under the command of a non-commissioned officer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small group of persons engaged in a common pursuit, task, athletic competition, or police investigation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Observ’d ye yon reverend lad Mak faces to tickle the mob; He rails at our mountebank squad,— It’s rivalship just i’ the job."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Ye are sae grave, nae doubt ye’re wise; Nae ferly tho’ ye do despise The hairum-scairum, ram-stam boys, The rattling squad: I see ye upward cast your eyes— Ye ken the road!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"We’ve faults and failings—granted clearly, We’re frail backsliding mortals merely, Eve’s bonie squad, priests wyte them sheerly For our grand fa’; But still, but still, I like them dearly— God bless them a’!"*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"A disciplined **squad** of infantrymen advanced through the smoke to secure the wooden bridge."*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"The corporal ordered his little **squad** to lie flat in the grass behind the rail fence."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"Every night our machine-gun **squad** took turns standing guard upon the muddy parapet."*

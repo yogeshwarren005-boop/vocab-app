@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sex]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # desexualize
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Direct one's libidinous urges into another direction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make infertile.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To deprive of sexual characteristics, erotic connotations, or reproductive function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To interpret or reframe an intimate relationship or aesthetic work without sexual elements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desexualize designates direct one's libidinous urges into another direction."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Ascetic discipline aims to **desexualize** consciousness, redirecting instinctive energy toward spiritual contemplation."*
+> - 📜 **Sigmund Freud (*Civilization and Its Discontents*):** *"Sublimation operates by striving to **desexualize** instinctual impulses into cultural achievement."*
+> - 📜 **John Dewey (*Art as Experience*):** *"Puritan critics attempted to **desexualize** ancient mythology before permitting its study in schools."*

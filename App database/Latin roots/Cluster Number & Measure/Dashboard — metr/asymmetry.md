@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # asymmetry
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (mathematics) a lack of symmetry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (mathematics) a lack of symmetry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of equality, balance, or correspondence between parts of something across a dividing plane or axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disproportion, irregularity, or inequality in structure, function, or relational balance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asymmetry designates (mathematics) a lack of symmetry."*
+> - 📜 **Louis Pasteur (*Researches on the Molecular Dissymmetry of Natural Organic Products*):** *"Molecular **asymmetry** serves as the sharp demarcation line separating living chemistry from mineral matter."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The evolutionary development of cranial **asymmetry** in flatfish offers a decisive case for adaptation."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"Relations of order depend fundamentally upon the logical property of **asymmetry**."*

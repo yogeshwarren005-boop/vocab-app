@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sex]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # unsexy
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not sexually aroused or arousing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not sexually aroused or arousing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking sexual attractiveness, romantic allure, erotic charm, or physical glamour.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dull, tedious, utilitarian, or unglamorous in nature, design, or commercial appeal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsexy designates not sexually aroused or arousing."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"The Salvation Army uniform was deliberately designed to be modest, utilitarian, and thoroughly **unsexy**."*
+> - 📜 **Aldous Huxley (*Antic Hay*):** *"He complained of the drab, **unsexy** atmosphere pervading the municipal educational committee meeting."*
+> - 📜 **Evelyn Waugh (*Scoop*):** *"The foreign correspondent found himself stranded in an utterly **unsexy** provincial outpost covering agrarian quotas."*

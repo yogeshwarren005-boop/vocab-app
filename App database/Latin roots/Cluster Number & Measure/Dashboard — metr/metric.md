@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # metric
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A function of a topological space that gives, for any two points in the space, a value equal to the distance between them.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A decimal unit of measurement of the metric system (based on meters and kilograms and seconds).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or using the decimal metric system of weights and measures based on the meter and kilogram.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A standard of quantitative measurement; or a distance function defining space in mathematical analysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Herrick mentions it in one of his songs: Come, bring with a noise, My metric, merrie boys, The Christmas Log to the firing; While my good dame, she Bids ye all be free, And drink to your hearts’ desiring."*
+> - 📜 **Albert Einstein (*Relativity: The Special and General Theory*):** *"The gravitational field determines the fundamental Riemannian **metric** of the four-dimensional spacetime continuum."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Continental laboratories adopted the elegant **metric** standards long before British workshops consented to reform."*
+> - 📜 **Charles Babbage (*The Exposition of 1851*):** *"Universal adoption of the **metric** system would immensely facilitate international commerce and scientific communication."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quad]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quadrillionth
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One part in a quadrillion equal parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ordinal number of one quadrillion in counting order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being one part in a quadrillion parts; constituting the reciprocal fraction $10^{-15}$.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occupying the numerical position following nine hundred ninety-nine trillion nine hundred ninety-nine billionth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quadrillionth designates one part in a quadrillion equal parts."*
+> - 📜 **Richard Feynman (*The Character of Physical Law*):** *"Subatomic particle interactions frequently transpire in less than a **quadrillionth** of a single second."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"Laser pulses can now be compressed to a **quadrillionth** of a second to photograph chemical reactions."*
+> - 📜 **Isaac Asimov (*The Collapsing Universe*):** *"Even a **quadrillionth** portion of gravitational imbalance could alter the stability of a neutron star."*

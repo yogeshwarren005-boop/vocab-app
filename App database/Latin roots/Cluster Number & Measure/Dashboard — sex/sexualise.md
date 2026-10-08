@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sex]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # sexualise
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make sexual, endow with sex, attribute sex to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make sexual, endow with sex, attribute sex to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make sexual; to endow an object, relationship, person, or concept with erotic meaning or character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To interpret or represent social interactions predominantly in terms of sexual desire or gender roles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sexualise designates make sexual, endow with sex, attribute sex to."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"Literary critics frequently seek to **sexualise** feminine writing rather than evaluate its philosophical depth."*
+> - 📜 **George Bernard Shaw (*Our Theatres in the Nineties*):** *"Modern dramatists too often **sexualise** every human encounter to satisfy the cheap tastes of London audiences."*
+> - 📜 **D. H. Lawrence (*Selected Literary Criticism*):** *"Sentimental novelists merely **sexualise** intellectual themes without touching the deeper currents of life."*

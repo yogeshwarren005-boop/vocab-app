@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quad]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quadrennium
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A period of four years.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A period of four years.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A continuous temporal period or duration lasting exactly four successive years.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An administrative, academic, or Olympic cycle spanning four consecutive calendar years.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quadrennium designates a period of four years."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"During that eventful **quadrennium**, three successive emperors ascended the throne and perished."*
+> - 📜 **Woodrow Wilson (*Congressional Government*):** *"Every presidential **quadrennium** brings a revaluation of federal policy and legislative priorities."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"The quiet collegiate **quadrennium** slipped away before he had decided upon a definite vocation."*

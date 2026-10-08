@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quad]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quadruplet
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of three and one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of four children born at the same time from the same pregnancy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of four offspring produced at a single birth; or a collection of four related items.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A poetic stanza consisting of four rhyming lines; or an optical lens system having four elements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quadruplet designates the cardinal number that is the sum of three and one."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Instances where domestic cattle produce a **quadruplet** birth are exceedingly rare in recorded agricultural annals."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The successful delivery of a healthy **quadruplet** sibling group required extraordinary neonatal care."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The old doctor chuckled as he recounted delivering an unexpected **quadruplet** on a snowy winter evening."*

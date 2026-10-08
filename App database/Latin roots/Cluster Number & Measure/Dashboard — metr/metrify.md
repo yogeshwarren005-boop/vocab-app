@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # metrify
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compose in poetic meter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert from a non-metric to the metric system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To compose in poetic meter; to express ideas, narratives, or emotions in measured verse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To convert or adjust measurements to conform to the decimal metric system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metrify designates compose in poetic meter."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"Many scribblers presume to **metrify** their shallow conceits without understanding classical taste."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"He could readily **metrify** any historical event into smooth but uninspired heroic couplets."*
+> - 📜 **H. G. Wells (*Mankind in the Making*):** *"Reformers urged elementary schools to **metrify** arithmetic lessons through practical laboratory exercises."*

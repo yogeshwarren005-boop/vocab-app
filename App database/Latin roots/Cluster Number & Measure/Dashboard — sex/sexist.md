@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sex]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # sexist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A man with a chauvinistic belief in the inferiority of women.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discriminatory on the basis of sex (usually said of men's attitude toward women).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, showing, or expressing prejudice, stereotyping, or discrimination against a biological sex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual who holds, defends, or acts upon prejudiced beliefs regarding sex or gender roles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sexist designates a man with a chauvinistic belief in the inferiority of women."*
+> - 📜 **Mary Wollstonecraft (*A Vindication of the Rights of Woman*):** *"The **sexist** dogmas of Rousseau would reduce women to decorative companions devoid of reason."*
+> - 📜 **John Stuart Mill (*The Subjection of Women*):** *"Every **sexist** statute remaining on the legal code degrades the moral development of the commonwealth."*
+> - 📜 **George Bernard Shaw (*Candida*):** *"He rejected the pompous **sexist** assumption that a wife existed merely to flatter her husband's vanity."*

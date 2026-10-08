@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quad]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quadrumvirate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of four men.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of four men.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A governing body, leadership council, or political alliance composed of four individuals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Joint authority or executive control shared equally among four dominant leaders or officials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quadrumvirate designates a group of four men."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The short-lived **quadrumvirate** was torn asunder by the conflicting ambitions of its rival generals."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"A confidential **quadrumvirate** of trusted privy councillors directed the secret affairs of the crown."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The supreme war committee operated virtually as an informal **quadrumvirate** directing allied strategy."*

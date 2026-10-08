@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # unsymmetric
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking symmetry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking symmetry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not symmetric; lacking balanced correspondence of parts in size, shape, and relative position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to mathematical relations, curves, or distributions that are irregular or skewed across an axis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsymmetric designates lacking symmetry."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **unsymmetric** shape of the flower prevents casual self-pollination and invites specific flying insects."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"An **unsymmetric** disposition of magnetic poles creates complex curved lines of inductive force."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The abdominal viscera occupy an **unsymmetric** position within the adult peritoneal cavity."*

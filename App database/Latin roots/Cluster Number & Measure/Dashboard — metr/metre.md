@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # metre
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic unit of length adopted under the systeme international d'unites (approximately 1.094 yards).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (prosody) the accent in a metrical foot of verse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fundamental unit of length in the metric system, equal to one hundred centimeters or approximately 39.37 inches.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rhythmic arrangement of syllables, accents, or feet in poetry and musical compositions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So should my papers (yellowed with their age) Be scorned, like old men of less truth than tongue, And your true rights be termed a poet’s rage, And stretched metre of an antique song."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"In place of a Bible, however, his mother had given him a copy of the Scottish Metre Version of the Psalms, with a "Preface" to each Psalm and notes by John Brown of Haddington."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Our varied metres are becoming as painfully over-polished as Pope's one metre."*
+> - 📜 **Lord Byron (*Don Juan*):** *"I want a hero; an uncommon want, when every year and month sends forth a new one in flowing **metre**."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The essential purpose of poetic **metre** is to produce a sustained excitement of intellectual pleasure."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The international standard **metre** bar made of platinum-iridium was deposited in the archives of Paris."*

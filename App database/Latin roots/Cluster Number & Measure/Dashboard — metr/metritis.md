@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # metritis
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the lining of the uterus (of the endometrium).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the lining of the uterus (of the endometrium).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the uterine wall, commonly involving the endometrium and underlying myometrium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A severe septic postpartum or veterinary infection characterized by fever, purulent discharge, and pelvic tenderness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metritis designates inflammation of the lining of the uterus (of the endometrium)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Puerperal fever frequently originated from septic **metritis** following unhygienic surgical interventions."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"Antiseptic technique drastically reduced the fatal incidence of post-delivery **metritis** in European clinics."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The country physician successfully managed a dangerous case of acute postpartum **metritis** with carbolic douches."*

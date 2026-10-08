@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sex]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # sexually
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to sexuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By sexual means.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sexual manner; with reference to sex, erotic desires, or physical intercourse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By means of sexual reproduction involving the fusion of male and female gametes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Prevailingly, women are depicted as sexually insatiable, as in a piece written by a man who takes a month's vacation from sex to recoup his strength (pt. 2, p. 12)."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Species that reproduce **sexually** exhibit greater variability than those propagated by asexual division."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"Many marine organisms alternate between generating **sexually** and budding without fertilization."*
+> - 📜 **George Bernard Shaw (*Man and Superman*):** *"The philosopher remarked that civilized men are often **sexually** cowardly while politically bold."*

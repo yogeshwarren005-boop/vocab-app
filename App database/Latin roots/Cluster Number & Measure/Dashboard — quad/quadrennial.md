@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quad]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quadrennial
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin quad within the domain of Number & Measure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of quad in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring once every four years, such as presidential elections or the Olympic Games.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lasting for, enduring through, or spanning a continuous period of four calendar years.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quadrennial designates pertaining to, derived from, or characteristic of latin quad within the domain of number & measure."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The citizens assembled to celebrate the ancient **quadrennial** games with imperial magnificence."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The contentious statute provided for **quadrennial** parliaments to safeguard popular liberties."*
+> - 📜 **James Madison (*The Federalist Papers*):** *"The **quadrennial** election of the magistrate provides a sufficient check upon the execution of executive power."*

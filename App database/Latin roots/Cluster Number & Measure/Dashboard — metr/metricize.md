@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # metricize
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Express in the metric system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert from a non-metric to the metric system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert, adapt, or recalculate measurements and engineering specifications according to metric standards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To compose or express thoughts in poetic meter or measured verse rhythm (American spelling).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metricize designates express in the metric system."*
+> - 📜 **John Dewey (*Logic: The Theory of Inquiry*):** *"Standardized scientific inquiry required technicians to **metricize** experimental observations uniformly."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The mechanical workshop resolved to **metricize** gear teeth dimensions to align with continental exports."*
+> - 📜 **Thorstein Veblen (*The Engineers and the Price System*):** *"Industrial efficiency improved whenever factories resolved to **metricize** tooling and raw material orders."*

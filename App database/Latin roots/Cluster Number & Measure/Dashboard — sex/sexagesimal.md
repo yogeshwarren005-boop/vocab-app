@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sex]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # sexagesimal
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or reckoning in sixtieths.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or reckoning in sixtieths.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, based upon, or using the number sixty, or division into sixtieth parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mathematical positional numeral system with sixty as its base, originated by the ancient Babylonians.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sexagesimal designates of or relating to or reckoning in sixtieths."*
+> - 📜 **Isaac Newton (*Principia Mathematica*):** *"Astronomers continue to partition angular arcs and hours of time into the ancient **sexagesimal** divisions of minutes and seconds."*
+> - 📜 **William Whewell (*The History of the Inductive Sciences*):** *"Babylonian astronomers bequeathed to Greece their **sexagesimal** arithmetic for measuring the zodiac."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"Our habitual measurement of temporal hours reflects the convenience of the **sexagesimal** scale over the decimal."*

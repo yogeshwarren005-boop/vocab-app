@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quad]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quadraphonic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to quadraphony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to quadraphony.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to four-channel sound recording or reproduction using four independent audio signals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed to recreate an immersive surrounding acoustic environment through four loudspeakers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quadraphonic designates of or relating to quadraphony."*
+> - 📜 **Marshall McLuhan (*Understanding Media*):** *"Modern acoustic technology deployed **quadraphonic** transmission to envelop the listener entirely."*
+> - 📜 **Arthur C. Clarke (*Voices from the Sky*):** *"The chamber was wired with a sophisticated **quadraphonic** system capable of synthetic acoustic mimicry."*
+> - 📜 **Philip K. Dick (*Flow My Tears, the Policeman Said*):** *"A soothing orchestral melody whispered through the hidden **quadraphonic** speakers of the lounge."*

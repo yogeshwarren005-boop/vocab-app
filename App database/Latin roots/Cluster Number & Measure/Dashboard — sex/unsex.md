@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sex]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # unsex
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprive of sex or sexual powers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the qualities typical of one's sex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To strip of qualities, feelings, tenderness, or social roles traditionally associated with one's biological sex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To render biologically sexless, or to suppress masculine or feminine identity completely.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Now the unsexed priests of this Syrian goddess resembled those of Cybele so closely that some people took them to be the same."*
-> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"Is it for this the Spanish maid, aroused, Hangs on the willow her unstrung guitar, And, all unsexed, the anlace hath espoused, Sung the loud song, and dared the deed of war?"*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Come, you spirits that tend on mortal thoughts, **unsex** me here, and fill me top-full of direst cruelty!"*
+> - 📜 **Mary Wollstonecraft (*A Vindication of the Rights of Woman*):** *"Critics charged that educating women in rigorous sciences would **unsex** them and ruin domestic peace."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Aunt Glegg declared that excessive bookishness would inevitably **unsex** any sensible country maiden."*

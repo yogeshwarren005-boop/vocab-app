@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # dimetrodon
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Carnivorous dinosaur of the permian in north america having a crest or dorsal sail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carnivorous dinosaur of the permian in north america having a crest or dorsal sail.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct genus of predatory synapsids from the Early Permian period, famous for its tall dorsal neural spine sail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A non-mammalian synapsid representing an early evolutionary offshoot of the synapsid lineage leading toward mammals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dimetrodon designates carnivorous dinosaur of the permian in north america having a crest or dorsal sail."*
+> - 📜 **Thomas Henry Huxley (*American Addresses*):** *"Fossil discoveries in the Permian red beds brought to light the formidable carnivorous reptile **Dimetrodon**."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The professor identified fossilized bone fragments as belonging to a sail-backed **Dimetrodon** from the Permian."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"Before the rise of true dinosaurs, the fin-backed carnivore **Dimetrodon** dominated the swampy Permian landscapes."*

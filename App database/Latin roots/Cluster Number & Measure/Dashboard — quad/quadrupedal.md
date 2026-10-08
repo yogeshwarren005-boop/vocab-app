@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quad]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quadrupedal
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having four feet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having four feet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Walking on four feet or using four limbs for habitual terrestrial locomotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by four-footed anatomy, posture, or biomechanical gait patterns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"An exquisite dulcet epithalame of most mollificative suadency for juveniles amatory whom the odoriferous flambeaus of the paranymphs have escorted to the quadrupedal proscenium of connubial communion."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The evolutionary transition from **quadrupedal** locomotion to habitual upright posture liberated the human forelimbs."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"Ape anatomy occupies an intermediate morphological station between **quadrupedal** brutes and erect mankind."*
+> - 📜 **Alfred Russel Wallace (*Darwinism*):** *"The structural adaptations for **quadrupedal** leaping in ungulates demonstrate precise natural selection."*

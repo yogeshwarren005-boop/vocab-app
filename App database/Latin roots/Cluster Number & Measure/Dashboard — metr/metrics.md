@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # metrics
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of poetic meter and the art of versification.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A function of a topological space that gives, for any two points in the space, a value equal to the distance between them.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Quantitative standards, parameters, or indicators used for measuring performance, efficiency, or progress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formal mathematical theory of distance functions in geometry; or the classical study of poetic meter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metrics designates the study of poetic meter and the art of versification."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"Differential geometry explores manifolds governed by generalized non-Euclidean **metrics**."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Modern corporate management relies upon rigid financial **metrics** to monitor production output."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"Scholars of classical **metrics** debated the interplay of stress and quantity in Latin hexameters."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sex]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # desex
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make infertile.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make infertile.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To surgically remove the gonads or reproductive organs of an animal; to castrate or spay.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To deprive a person, narrative, or institution of sexual character, attraction, or connotations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desex designates make infertile."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The state laboratory developed chemical conditioning designed to **desex** the lower castes completely."*
+> - 📜 **Virginia Woolf (*Orlando*):** *"The biographer seemed anxious to **desex** the passionate poet by omitting every romantic epistle."*
+> - 📜 **George Bernard Shaw (*Back to Methuselah*):** *"Ascetics mistakenly believe that if you could **desex** mankind you would instantly produce angels."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sex]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # nonsexual
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having or involving sex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having or involving sex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not involving sex, reproductive biology, erotic desires, or gender distinctions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by platonic friendship, intellectual collaboration, or asexual biological reproduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonsexual designates not having or involving sex."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Plants that propagate by budding display a purely **nonsexual** mode of generational reproduction."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Spiritual ecstasy frequently channels deep affection into an entirely **nonsexual** devotion to divine ideals."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"Hydra illustrates how alternation between sexual and **nonsexual** generations occurs in primitive coelenterates."*

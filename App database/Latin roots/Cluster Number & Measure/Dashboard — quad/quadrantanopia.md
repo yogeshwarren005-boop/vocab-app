@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quad]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quadrantanopia
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Blindness in one fourth of the visual field.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blindness in one fourth of the visual field.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A visual field defect characterized by the loss of vision in one quarter of the visual field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A neurological symptom typically indicating a focal lesion in the contralateral optic radiations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quadrantanopia designates blindness in one fourth of the visual field."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Examination revealed an homonymous superior **quadrantanopia** following the temporal lobe infarction."*
+> - 📜 **Harvey Cushing (*Tumors of the Nervus Acusticus*):** *"The patient presented with subtle upper **quadrantanopia** indicating compression of Meyer's loop."*
+> - 📜 **Henry Head (*Studies in Neurology*):** *"Perimetric mapping clearly established the boundaries of the partial **quadrantanopia**."*

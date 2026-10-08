@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sex]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # sexuality
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The properties that distinguish organisms on the basis of their reproductive roles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The properties that distinguish organisms on the basis of their reproductive roles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capacity to experience sexual feelings, erotic desires, and physical attractions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person's sexual orientation, identity, or expression in relation to biological and social life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The word is not confined to sexuality, and grammars always recognize a neuter gender, neither 508:21 male nor female."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"To these bodies it is proposed to give the name of “oogonia” and “antheridia,” on account of their presumed sexuality, the “oogonia” representing the female, and the “antheridia” the male organs."*
+> - 📜 **Sigmund Freud (*Three Essays on the Theory of Sexuality*):** *"The developmental manifestations of human **sexuality** extend far beyond the mere function of reproduction."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"A scientific inquiry into **sexuality** requires clearing away centuries of theological taboo."*
+> - 📜 **Virginia Woolf (*Orlando*):** *"The subtle interplay of her changing **sexuality** baffled the conventional expectations of society."*

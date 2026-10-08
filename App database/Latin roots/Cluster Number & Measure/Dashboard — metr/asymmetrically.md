@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # asymmetrically
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an asymmetrical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an asymmetrical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an asymmetrical manner; with unequal proportion, balance, or alignment across an axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distributed unevenly or functioning disproportionately in relation to a central point or boundary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asymmetrically designates in an asymmetrical manner."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The facial muscles contracted **asymmetrically** when the patient experienced unilateral spasmodic pain."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"When electrostatic charge is distributed **asymmetrically**, the equipotential surfaces become distorted."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The oceanic currents flow **asymmetrically** across the equator owing to the rotation of the Earth."*

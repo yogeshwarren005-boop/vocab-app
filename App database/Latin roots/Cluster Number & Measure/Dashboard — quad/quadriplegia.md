@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quad]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quadriplegia
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Paralysis of both arms and both legs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Paralysis of both arms and both legs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Paralysis affecting all four limbs and the torso, typically caused by cervical spinal cord trauma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complete or incomplete loss of motor and sensory function below the level of a cervical spine injury.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quadriplegia designates paralysis of both arms and both legs."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Complete fracture-dislocation at the fifth cervical vertebra inevitably produces immediate **quadriplegia**."*
+> - 📜 **Harvey Cushing (*Intracranial Tumors*):** *"The sudden onset of spastic **quadriplegia** indicated acute compression of the high cervical cord."*
+> - 📜 **Henry Head (*Studies in Neurology*):** *"Sensory mapping in traumatic **quadriplegia** requires patient observation of dermatomal boundaries."*

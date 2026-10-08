@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quad]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quadriphonic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to quadraphony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to quadraphony.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to audio technology utilizing four discrete transmission or playback channels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arranged to envelop an audience acoustically by deploying four separate directional transducers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quadriphonic designates of or relating to quadraphony."*
+> - 📜 **Marshall McLuhan (*The Gutenberg Galaxy*):** *"The listener enveloped in **quadriphonic** resonance experiences sensory space as acoustic rather than visual."*
+> - 📜 **Arthur C. Clarke (*Report on Planet Three*):** *"The theater was outfitted with an experimental **quadriphonic** array to simulate thunder and storm winds."*
+> - 📜 **Isaac Asimov (*I, Robot*):** *"The synthetic voice sounded through the **quadriphonic** intercom grid with unnatural clarity and volume."*

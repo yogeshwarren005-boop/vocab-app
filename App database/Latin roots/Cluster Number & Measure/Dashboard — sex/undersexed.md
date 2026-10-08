@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sex]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # undersexed
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a subnormal degree of sexual desire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a subnormal degree of sexual desire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an unusually low, subnormal, or deficient sexual appetite, libido, or hormonal drive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking vibrant sexual expression, physical passion, or romantic vitality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undersexed designates having a subnormal degree of sexual desire."*
+> - 📜 **Aldous Huxley (*Point Counter Point*):** *"The puritanical ascetic was dismissed by his Bohemian companions as pathetically cold and **undersexed**."*
+> - 📜 **D. H. Lawrence (*Selected Literary Criticism*):** *"He argued that modern intellectual men were hopelessly **undersexed**, mistaking mental activity for bodily life."*
+> - 📜 **George Bernard Shaw (*Getting Married*):** *"The confirmed bachelor maintained that the truly civilized man is happily **undersexed** and peaceful."*

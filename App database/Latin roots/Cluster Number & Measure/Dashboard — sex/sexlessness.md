@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sex]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # sexlessness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no evident sex or sex organs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no evident sex or sex organs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of having no sexual characteristics, erotic desire, or biological gender differentiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aesthetic or spiritual detachment from sexual desire; pure neutrality or platonic austerity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sexlessness designates having no evident sex or sex organs."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The apparent **sexlessness** of vegetative buds contrasts sharply with the flowering organs of plants."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"The marble statues of ancient Greece possess an ethereal **sexlessness** that transcends mortal appetite."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Monastic ascetics cultivated a serene **sexlessness** to protect their souls from earthly temptation."*

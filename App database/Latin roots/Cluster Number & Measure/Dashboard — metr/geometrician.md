@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # geometrician
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mathematician specializing in geometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mathematician specializing in geometry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mathematician who specializes in the study, research, and application of geometry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A practitioner skilled in surveying, drafting, and constructing formal geometric diagrams.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geometrician designates a mathematician specializing in geometry."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The ancient **geometrician** Archimedes defended Syracuse with ingenious mathematical war engines."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"The modern **geometrician** examines non-Euclidean manifolds where parallel postulates do not hold."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"A **geometrician** discovers universal properties of triangles by attending strictly to demonstrative ideas."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quad]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quadripara
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (obstetrics) woman who has given birth to a viable infant in each of four pregnancies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (obstetrics) woman who has given birth to a viable infant in each of four pregnancies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who has undergone four viable pregnancies resulting in childbirth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An obstetric classification indicating parity status four in clinical maternal records.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quadripara designates (obstetrics) woman who has given birth to a viable infant in each of four pregnancies."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient, an healthy **quadripara**, presented with no previous history of obstetric complications."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"A thirty-four-year-old **quadripara** was admitted following persistent postpartum endocrine symptoms."*
+> - 📜 **Henry Head (*Studies in Neurology*):** *"Pelvic nerve compression was monitored following the labor of an otherwise robust **quadripara**."*

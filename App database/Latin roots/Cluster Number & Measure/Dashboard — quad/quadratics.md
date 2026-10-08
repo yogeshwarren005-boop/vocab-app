@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quad]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quadratics
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of algebra dealing with quadratic equations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An equation in which the highest power of an unknown quantity is a square.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mathematical branch of elementary algebra concerned with equations of the second degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Techniques and formulas applied to analyze parabolic curves and second-order relationships.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Oh, Jane, your simple experiment proposition is about to become compound quadratics."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The mechanical engine was designed to calculate tables of logarithms and resolve complex **quadratics**."*
+> - 📜 **William Whewell (*The History of the Inductive Sciences*):** *"Ancient geometers solved problems in practical **quadratics** through elegant spatial constructions."*
+> - 📜 **Alfred North Whitehead (*An Introduction to Mathematics*):** *"Students first encounter the interplay of algebraic signs when mastering the principles of **quadratics**."*

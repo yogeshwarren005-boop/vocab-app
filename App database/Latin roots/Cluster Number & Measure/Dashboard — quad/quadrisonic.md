@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quad]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quadrisonic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to quadraphony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to quadraphony.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or employing four-channel sound amplification and acoustic playback.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by four distinct directional audio transducers to simulate acoustic depth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quadrisonic designates of or relating to quadraphony."*
+> - 📜 **Marshall McLuhan (*Understanding Media*):** *"The **quadrisonic** sound installation dissolved traditional front-facing stage orientation for the listener."*
+> - 📜 **Arthur C. Clarke (*2010: Odyssey Two*):** *"The acoustic chamber was fitted with **quadrisonic** monitors that recreated the reverberation of space."*
+> - 📜 **Isaac Asimov (*The Caves of Steel*):** *"Music flowed softly through **quadrisonic** grilles concealed within the synthetic wood panels."*

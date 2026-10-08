@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # demetrius
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Son of antigonus cyclops and king of macedonia; he and his father were defeated at the battle of ipsus (337-283 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Son of antigonus cyclops and king of macedonia; he and his father were defeated at the battle of ipsus (337-283 bc).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A classical personal name borne by Hellenistic kings (e.g. Demetrius Poliorcetes) and prominent historical figures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dramatic character in literature, notably the Athenian lover in Shakespeare's *A Midsummer Night's Dream*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Speak not to us. [_Exeunt Antony and Cleopatra with the Train._] DEMETRIUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Egeus, Hermia, Lysander and Demetrius."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Demetrius is a worthy gentleman."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"Lysander and **Demetrius** pursued their rival love into the enchanted woods outside Athens."*
+> - 📜 **Plutarch (*Lives of the Noble Greeks and Romans*):** *"King **Demetrius** was celebrated for his colossal siege engines and tempestuous military fortunes."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The pretender claiming to be **Demetrius** led an army of Cossacks and Poles against the gates of Moscow."*

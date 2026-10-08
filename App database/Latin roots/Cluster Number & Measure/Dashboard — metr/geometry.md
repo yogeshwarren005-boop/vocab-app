@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # geometry
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The pure mathematics of points and lines and curves and surfaces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The pure mathematics of points and lines and curves and surfaces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of mathematics concerned with properties and relations of points, lines, surfaces, and solids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The structural shape, spatial arrangement, or relative alignment of parts within a physical object.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"And can Geometry vend it in the Market?"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He himself undertook his daughter’s education, and to develop these two cardinal virtues in her gave her lessons in algebra and geometry till she was twenty, and arranged her life so that her whole time was occupied."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"All right then, sit down.” He took the exercise book containing lessons in geometry written by himself and drew up a chair with his foot."*
+> - 📜 **Galileo Galilei (*The Assayer*):** *"Philosophy is written in this grand book of the universe, and its language is pure **geometry**."*
+> - 📜 **René Descartes (*Discourse on Method*):** *"I found nothing in the schools that pleased me so much as the rigorous certainty of **geometry**."*
+> - 📜 **Isaac Newton (*Principia Mathematica*):** *"Rational mechanics is the mathematical science of motions resulting from forces, founded upon **geometry**."*

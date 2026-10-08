@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sex]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # sexualize
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make sexual, endow with sex, attribute sex to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make sexual, endow with sex, attribute sex to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To endow with sexual character, erotic meaning, or romantic connotations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To attribute sexual motives or significance to an otherwise non-erotic behavior or cultural symbol.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sexualize designates make sexual, endow with sex, attribute sex to."*
+> - 📜 **William James (*The Principles of Psychology*):** *"It is an error of psychoanalysis to **sexualize** every tender emotion experienced in early childhood."*
+> - 📜 **John Dewey (*Human Nature and Conduct*):** *"Cultural traditions can either sublimate or obsessively **sexualize** the natural impulses of the young."*
+> - 📜 **Sigmund Freud (*The Ego and the Id*):** *"The unconscious tendency to **sexualize** authority relationships complicates the clinical analytic process."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sex]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # desexualise
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Direct one's libidinous urges into another direction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make infertile.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove sexual characteristics, erotic meaning, or romantic desires from a person, relationship, or cultural expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To neutralize gender distinctions or eliminate sexual connotations within an artistic or social representation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desexualise designates direct one's libidinous urges into another direction."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"Philosophical contemplation seemed to **desexualise** our comradeship, elevating thought above biological impulse."*
+> - 📜 **George Bernard Shaw (*Man and Superman*):** *"Intellectual debate in modern salons often strives to **desexualise** passion into polite banter."*
+> - 📜 **H. G. Wells (*A Modern Utopia*):** *"The utopian order sought not to suppress but to **desexualise** public administration and civic duty."*

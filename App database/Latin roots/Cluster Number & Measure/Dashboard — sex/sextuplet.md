@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sex]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # sextuplet
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of five and one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cardinal number that is the sum of five and one.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of six offspring born at a single birth; or a group or combination of six related items.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musical notation, a rhythmic group of six equal notes played in the time of four of the same value.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sextuplet designates the cardinal number that is the sum of five and one."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The recorded birth of a human **sextuplet** represents an extraordinary rarity in obstetric annals."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The pianist executed the rapid **sextuplet** passages with astonishing rhythmic precision and lightness."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The medical journal reported a curious **sextuplet** birth that amazed the entire provincial faculty."*

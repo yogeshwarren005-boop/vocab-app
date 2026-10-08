@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # metrical
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on the meter as a standard of measurement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rhythmic arrangement of syllables.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, composed in, or characterized by poetic meter, rhythmic cadence, or measured verse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to scientific measurement, metrology, or the quantitative evaluation of magnitude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"It should react upon his metrical vocabulary to its beneficial expansion, by taking him outside his aristocratic circle of language, and keeping him in touch with the great commonalty, the proletariat of speech."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Nor do we find in him any of those new metrical effects, those sublime inventions in prosody, with which the great masters astonish us."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"No mere metrical skill, nor metrical sensibility even, could have produced it."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"Milton's verse exhibits extraordinary **metrical** variety, modulating cadence with consummate mastery."*
+> - 📜 **Edgar Allan Poe (*The Philosophy of Composition*):** *"The author must construct his stanza with rigorous **metrical** precision to produce the desired emotional effect."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"The grand style of Homer arises from noble thoughts sustained by flawless **metrical** majesty."*

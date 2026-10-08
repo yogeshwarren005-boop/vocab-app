@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sex]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # sextet
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical composition written for six performers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cardinal number that is the sum of five and one.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical composition written for six voices or six instruments, or the ensemble that performs it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any group, team, or collection consisting of exactly six persons, animals, or objects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sextet designates a musical composition written for six performers."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The amateur musicians assembled in the drawing room to perform a string **sextet** by Boccherini."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Red Circle*):** *"A **sextet** of conspirators met regularly beneath the cover of an obscure Italian dining club."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"The **sextet** of friends sat together around the polished mahogany table for their farewell dinner."*

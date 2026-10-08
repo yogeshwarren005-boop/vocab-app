@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quad]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quadrate
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cubelike object.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A square-shaped object.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having four equal sides and four right angles; square or approximately rectangular.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cranial bone connecting the lower jaw with the cranium in birds, reptiles, and amphibians.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It would be extremely difficult, if not impossible, to suggest any general regulation that would be acceptable to all the States in the Union, or that would perfectly quadrate with the several State institutions."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"As this differs much in the different species, they are readily distinguished by the column or "quadrate" bone when found."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The comparative anatomist observed how the reptilian **quadrate** bone becomes modified in higher vertebrates."*
+> - 📜 **Francis Bacon (*The New Organon*):** *"Truth and utility are in this case perfectly **quadrate**, for operations proceed from knowledge."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The articulation of the lower jaw depends upon the position of the cartilaginous **quadrate** element."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sex]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # sexton
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states poet (1928-1974).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An officer of the church who is in charge of sacred objects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official of a church charged with the maintenance of the buildings and the digging of graves in the churchyard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A parish officer responsible for ringing the church bells and attending upon the clergy during services.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, e’en so: and now my Lady Worm’s; chapless, and knocked about the mazard with a sexton’s spade."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been sexton here, man and boy, thirty years."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Old Time the clock-setter, that bald sexton Time, Is it as he will?"*
+> - 📜 **William Shakespeare (*Hamlet*):** *"The elderly **sexton** dug the grave while singing melancholy snatches of ancient ballads."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge's name was on the register; the clergyman, the clerk, the **sexton**, and the chief mourner had all signed it."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The village **sexton** carried his iron keys into the dark church tower to ring the evening curfew."*

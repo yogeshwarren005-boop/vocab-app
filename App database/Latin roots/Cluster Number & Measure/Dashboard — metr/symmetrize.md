@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # symmetrize
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make symmetric.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make symmetric.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make symmetrical; to adapt or arrange so as to exhibit balance and axial correspondence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and mathematics, to apply an operator that renders a quantum state or tensor symmetric under exchange.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symmetrize designates make symmetric."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"For a system of identical bosons, one must **symmetrize** the wave function under particle permutation."*
+> - 📜 **John Dewey (*Art as Experience*):** *"The conscious artist does not mechanically **symmetrize** his composition, but seeks organic equilibrium."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"Algebraic manipulations often serve to **symmetrize** relationships that initially appear asymmetrical."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # metropolis
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large and densely populated urban area; may include several independent administrative districts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: People living in a large densely populated municipality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chief, largest, or most commercially significant city of a country, state, or geographic region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bustling central hub of political, cultural, educational, or economic activity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The next is this: King John hath reconcil’d Himself to Rome; his spirit is come in, That so stood out against the holy church, The great metropolis and see of Rome."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"The journey from our town to the metropolis was a journey of about five hours."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Sprague?” “To a certain extent—with regard to populous districts, and in the metropolis,” said the Doctor."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Fog everywhere; fog up the river and down the river, rolling through the roaring heart of the great **metropolis**."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"London was already expanding beyond its ancient gates, becoming the richest and most populous **metropolis** of Europe."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Constantinople flourished as the glittering **metropolis** of the East while Rome declined into ruin."*

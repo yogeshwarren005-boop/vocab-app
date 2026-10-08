@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sex]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # sexcapade
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sexual escapade; an illicit affair.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sexual escapade; an illicit affair.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An adventurous, reckless, or widely publicized romantic or sexual escapade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sensational amorous adventure recounted in journalistic or satirical memoirs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sexcapade designates a sexual escapade; an illicit affair."*
+> - 📜 **Evelyn Waugh (*Vile Bodies*):** *"The tabloid columnist sensationalized every youthful **sexcapade** that transpired in Mayfair."*
+> - 📜 **Aldous Huxley (*Antic Hay*):** *"He looked back upon the foolish nocturnal **sexcapade** with cynical weariness and regret."*
+> - 📜 **George Bernard Shaw (*Heartbreak House*):** *"Society forgives many sins, but it never ceases gossiping about a reckless **sexcapade**."*

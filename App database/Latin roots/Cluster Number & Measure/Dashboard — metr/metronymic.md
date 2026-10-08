@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # metronymic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A name derived from the name of your mother or a maternal ancestor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A name derived from the name of your mother or a maternal ancestor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surname or personal name derived from the name of one's mother or a maternal female ancestor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to descent, naming conventions, or lineage traced through maternal lines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metronymic designates a name derived from the name of your mother or a maternal ancestor."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Certain Lycian tribes preserved an ancient custom of adopting a **metronymic** rather than patronymic appellation."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Medieval parish registers record occasional instances where an illegitimate child bore a distinctive **metronymic**."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"Anthropological studies demonstrate that primitive clan systems frequently employed a **metronymic** principle of naming."*

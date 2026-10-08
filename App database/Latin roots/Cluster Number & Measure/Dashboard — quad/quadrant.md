@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quad]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quadrant
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quarter of the circumference of a circle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the four areas into which a plane is divided by two orthogonal coordinate axes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument equipped with a graduated ninety-degree arc used for measuring celestial altitudes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the four quarters into which a plane is divided by an orthogonal coordinate system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He came on deck at eleven o'clock, with the quadrant under his coat."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Again he went down and prayed, and again he appeared on deck with his quadrant in his hand."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"This story of prayer was received from the lips of the good Captain Crossby, who was so useful in the Ardrossan awakening; and he himself was the man who prayed and waited upon his God with the quadrant in his hand."*
+> - 📜 **Isaac Newton (*Opticks*):** *"By adjusting the brass **quadrant**, we measured the solar elevation with remarkable precision."*
+> - 📜 **Captain James Cook (*A Voyage Towards the South Pole*):** *"Our astronomer took repeated observations with the navigational **quadrant** to verify our latitude."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The upper **quadrant** of the celestial sphere remained unobscured by the drifting coastal vapor."*

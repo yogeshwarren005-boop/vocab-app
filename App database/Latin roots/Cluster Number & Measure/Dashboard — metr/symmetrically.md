@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # symmetrically
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a symmetrical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a symmetrical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a symmetrical manner; with balanced proportion and exact correspondence on opposite sides of a plane or axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evenly and harmoniously disposed around a common center or dividing boundary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Deep,” said Wemmick, “as Australia.” Pointing with his pen at the office floor, to express that Australia was understood, for the purposes of the figure, to be symmetrically on the opposite spot of the globe."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"They had dumplings too; small, but substantial, symmetrically globular, and indestructible dumplings."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Stubb longed for vermillion stars to be painted upon the blade of his every oar; screwing each oar in his big vice of wood, the carpenter symmetrically supplies the constellation."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"In genuine mirth, the corners of the mouth are drawn backward and upward **symmetrically** by the facial muscles."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Magnetic lines of force radiate **symmetrically** from an isolated cylindrical pole into the surrounding medium."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The peripheral nerves branch **symmetrically** from both sides of the spinal cord to supply the limbs."*

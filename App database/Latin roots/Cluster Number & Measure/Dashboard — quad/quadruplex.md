@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quad]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quadruplex
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having four units or components.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having four units or components.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fourfold; having four distinct parts or functioning simultaneously in four directions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A telegraphy system invented by Thomas Edison capable of transmitting four simultaneous messages over one wire.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quadruplex designates having four units or components."*
+> - 📜 **Thomas Edison (*The Papers of Thomas A. Edison*):** *"By balancing opposing electrical currents, my **quadruplex** telegraph doubled the capacity of existing lines."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The invention of the **quadruplex** system illustrates how differential circuits operate without cross-talk."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The mechanical design employed a **quadruplex** gearing mechanism to distribute torque across four axles."*

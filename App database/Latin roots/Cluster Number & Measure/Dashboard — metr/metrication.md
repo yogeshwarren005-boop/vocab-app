@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # metrication
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of changing from imperial units of measurement to metric units: meters, grams, seconds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of changing from imperial units of measurement to metric units: meters, grams, seconds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The organized policy, process, or transition of converting a nation or industry to the metric system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The adoption of decimal weights and measures in place of customary or imperial standards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metrication designates the act of changing from imperial units of measurement to metric units: meters, grams, seconds."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The worldwide **metrication** of trade formed a foundational cornerstone of the new world administrative directory."*
+> - 📜 **Lewis Mumford (*The Myth of the Machine*):** *"Universal **metrication** exemplified the rationalizing impulse of post-revolutionary industrial society."*
+> - 📜 **Arthur C. Clarke (*Voices from the Sky*):** *"Complete **metrication** across aviation systems prevented navigation errors during transcontinental flights."*

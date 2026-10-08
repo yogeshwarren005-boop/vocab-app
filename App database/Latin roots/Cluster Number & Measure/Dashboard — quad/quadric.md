@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quad]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quadric
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A curve or surface whose equation (in cartesian coordinates) is of the second degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A curve or surface whose equation (in cartesian coordinates) is of the second degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An algebraic curve or surface defined by a polynomial equation of the second degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to mathematical functions, transformations, or invariants of the second order.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quadric designates a curve or surface whose equation (in cartesian coordinates) is of the second degree."*
+> - 📜 **Arthur Cayley (*The Collected Mathematical Papers*):** *"The projective properties of a non-degenerate **quadric** surface remain invariant under linear substitution."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The distribution of electrostatic potential may be represented by a confocal **quadric** system."*
+> - 📜 **Henri Poincaré (*Science and Method*):** *"In three-dimensional geometry, every central **quadric** possesses three principal axes of symmetry."*

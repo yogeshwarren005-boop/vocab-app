@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # metroxylon
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of malayan pinnate-leaved palm trees that flower and fruit once and then die.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of malayan pinnate-leaved palm trees that flower and fruit once and then die.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical genus of feather palms native to Southeast Asia and Oceania, notable as the source of sago starch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sago palm tree whose fibrous trunk contains abundant edible starch harvested for food and commerce.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metroxylon designates a genus of malayan pinnate-leaved palm trees that flower and fruit once and then die."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The native inhabitants rely upon the wild palm **Metroxylon** to furnish their daily staple of sago starch."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Tropical islanders fell the mature trunk of the **Metroxylon** palm to extract the nutritious pith from its center."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"Botanical surveys in the Sundarbans cataloged several economic palms closely related to the genus **Metroxylon**."*

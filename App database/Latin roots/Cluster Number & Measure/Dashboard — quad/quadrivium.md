@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quad]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quadrivium
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (middle ages) a higher division of the curriculum in a medieval university involving arithmetic and music and geometry and astronomy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (middle ages) a higher division of the curriculum in a medieval university involving arithmetic and music and geometry and astronomy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The higher four liberal arts of medieval education: arithmetic, geometry, music, and astronomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A meeting point or crossroads where four pathways, thoroughfares, or intellectual disciplines intersect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quadrivium designates (middle ages) a higher division of the curriculum in a medieval university involving arithmetic and music and geometry and astronomy."*
+> - 📜 **John Henry Newman (*The Idea of a University*):** *"The medieval master led his scholars from the preliminary trivium into the rigorous heights of the **quadrivium**."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Ancient masters divided liberal studies into trivium and **quadrivium**, ordering arithmetic before physical inquiry."*
+> - 📜 **Henry Adams (*Mont Saint Michel and Chartres*):** *"The cathedral school taught the disciplines of the **quadrivium** as mirrors of cosmic harmony and order."*

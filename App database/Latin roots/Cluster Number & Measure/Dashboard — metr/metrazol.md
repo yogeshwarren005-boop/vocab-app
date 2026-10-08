@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # metrazol
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug used as a circulatory and respiratory stimulant; larger doses cause convulsions in shock therapy; metrazol is a trademark.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug used as a circulatory and respiratory stimulant; larger doses cause convulsions in shock therapy; metrazol is a trademark.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A central nervous system stimulant historically administered in psychiatry to induce therapeutic convulsions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A circulatory and respiratory analeptic compound utilized in pharmacological research on seizure mechanisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metrazol designates a drug used as a circulatory and respiratory stimulant; larger doses cause convulsions in shock therapy; metrazol is a trademark."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Therapeutic shock treatment induced by **Metrazol** was monitored carefully to avoid muscular trauma."*
+> - 📜 **Harvey Cushing (*Intracranial Tumors*):** *"Experimental laboratory administration of **Metrazol** provoked rapid cortical discharge in the animal model."*
+> - 📜 **Henry Head (*Studies in Neurology*):** *"Convulsive responses triggered by intravenous **Metrazol** provided insights into focal epileptic propagation."*

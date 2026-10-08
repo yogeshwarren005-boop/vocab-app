@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quad]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quadrupling
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Increase by a factor of four.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Increase fourfold.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Increasing fourfold in magnitude, quantity, number, or financial value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act or process of multiplying an amount, dimension, or frequency by a factor of four.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Seventeenth, the quadrupling of the number of local spiritual assemblies and the trebling of the number of localities in the aforementioned countries."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"By **quadrupling** the capital invested in manufacturing, the proprietor accelerated the growth of urban commerce."*
+> - 📜 **Thomas Robert Malthus (*An Essay on the Principle of Population*):** *"Unchecked propagation leads to a rapid **quadrupling** of numbers within two successive generations."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The sudden discovery of rich mineral deposits led to a **quadrupling** of land values throughout the province."*

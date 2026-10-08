@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # emmetropic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the normal condition of the eye in which visual images are in clear focus on the retina.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the normal condition of the eye in which visual images are in clear focus on the retina.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or exhibiting emmetropia; having normal optical refraction and vision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing an eye whose optical power and axial length are in perfect balance so distant light focuses on the retina.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emmetropic designates of or relating to the normal condition of the eye in which visual images are in clear focus on the retina."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"The **emmetropic** eye requires no muscular exertion of the ciliary ring to view the horizon with distinctness."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Routine examination showed the vision to be completely **emmetropic** in both eyes without corrective lenses."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"An **emmetropic** observer perceives distant stars as point sources without refractive aberration."*

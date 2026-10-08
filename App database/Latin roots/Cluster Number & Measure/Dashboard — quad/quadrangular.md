@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quad]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quadrangular
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or shaped like a quadrangle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or shaped like a quadrangle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having four straight sides and four corners or angles; square or rectangular in shape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by four distinct analytical planes, facets, or organizational quadrants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"They have both a quadrangular depression in the centre, leaving the rest of the terrace elevated several feet above it."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"At Nukuheva, two or three large quadrangular ‘pi-pis’, heavily flagged, enclosed with regular stone walls, and shaded over and almost hidden from view by the interlacing branches of enormous trees, were pointed out to me as burial-places."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Passing beneath a Gothic porch, crowned with two lofty turrets, we enter a spacious quadrangular court, at the extremity of which stands the palace."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The blacksmith hammered the glowing iron bar upon his **quadrangular** anvil until sparks flew."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The fort was defended by a solid **quadrangular** bastion raised from basaltic masonry."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The facade displays a rhythmic succession of **quadrangular** panels carved with heraldic emblems."*

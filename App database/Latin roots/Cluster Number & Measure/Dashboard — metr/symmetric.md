@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # symmetric
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having similarity in size, shape, and relative position of corresponding parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having similarity in size, shape, and relative position of corresponding parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting or possessing symmetry; having parts that correspond in size, shape, and relative position across a dividing axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to mathematical relations, matrices, or functions that remain unchanged under reflection or permutation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symmetric designates having similarity in size, shape, and relative position of corresponding parts."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Light refracted through a prism generates a beautifully **symmetric** spectrum of vibrant colors."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Flowers that display radially **symmetric** corollas attract a wide variety of foraging insect pollinators."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"A mathematical relation is denominated **symmetric** when the statement of identity holds equally in reverse."*

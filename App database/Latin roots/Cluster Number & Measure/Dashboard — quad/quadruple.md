@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quad]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quadruple
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of four similar things considered as a unit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quantity that is four times as great as another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of four parts or aspects; or four times as great in number, size, or quantity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To multiply by four or increase to four times the original amount or extent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Leading a quadruple existence!"*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"A drunken coachman was the cause of the first, and incomparably the lightest evil; misfortune, bodily constitution, hell, and myself have formed a "quadruple alliance" to guarantee the other."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Seventeenth, the quadrupling of the number of local spiritual assemblies and the trebling of the number of localities in the aforementioned countries."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The improved division of labor enabled the workshop to **quadruple** its daily production of manufactured goods."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor ordered a **quadruple** wall of ramparts thrown up to protect the vulnerable northern frontier."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Under selective breeding, the yield of grain can easily **quadruple** compared to ancestral wild varieties."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sex]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # sexism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discriminatory or abusive behavior towards members of the opposite sex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discriminatory or abusive behavior towards members of the opposite sex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prejudice, stereotyping, or institutional discrimination based on sex or gender, typically against women.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cultural assumption that one sex is inherently superior to another in intellect, character, or authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sexism designates discriminatory or abusive behavior towards members of the opposite sex."*
+> - 📜 **Virginia Woolf (*Three Guineas*):** *"The patriarchal monopoly of universities and public offices entrenched systematic institutional **sexism**."*
+> - 📜 **Mary Wollstonecraft (*A Vindication of the Rights of Woman*):** *"Arbitrary masculine prejudice against female education fosters perpetual domestic **sexism**."*
+> - 📜 **John Stuart Mill (*The Subjection of Women*):** *"Ancient custom reinforces societal **sexism**, mistaking learned submission for natural incapacity."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quad]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quadrasonic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to quadraphony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to quadraphony.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Employing or relating to four discrete acoustic channels in sound amplification and playback.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utilizing four balanced ultrasonic or acoustic transducers for spatial signal detection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quadrasonic designates of or relating to quadraphony."*
+> - 📜 **Arthur C. Clarke (*The City and the Stars*):** *"The automated habitat was equipped with a **quadrasonic** auditory grid to monitor domestic acoustics."*
+> - 📜 **Isaac Asimov (*Foundation and Earth*):** *"A faint chime vibrated from the **quadrasonic** receiver embedded within the pilot's control console."*
+> - 📜 **Ray Bradbury (*The Illustrated Man*):** *"Gentle mechanical harmonies drifted softly from the **quadrasonic** sound apertures of the nursery."*

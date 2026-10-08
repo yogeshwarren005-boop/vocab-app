@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sex]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # oversexed
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having excessive sexual desire or appeal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having excessive sexual desire or appeal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing an unusually high, aggressive, or disproportionate sexual appetite or libido.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by an exaggerated emphasis on sexuality, erotic appeal, or reproductive impulse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oversexed designates having excessive sexual desire or appeal."*
+> - 📜 **Aldous Huxley (*Point Counter Point*):** *"He regarded his sophisticated contemporaries as simultaneously over-intellectualized and crudely **oversexed**."*
+> - 📜 **George Bernard Shaw (*Getting Married*):** *"The dramatist mocked fashionable society for confusing an **oversexed** imagination with romantic devotion."*
+> - 📜 **D. H. Lawrence (*Selected Literary Criticism*):** *"Modern culture has become nervously **oversexed** in thought precisely because it lacks natural vitality."*

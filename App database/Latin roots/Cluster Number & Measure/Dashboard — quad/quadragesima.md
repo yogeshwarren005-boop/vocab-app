@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quad]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quadragesima
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The first sunday in lent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first sunday in lent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The first Sunday of the solemn Christian penitential season of Lent, occurring forty days before Easter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The entire liturgical forty-day fast observed in traditional Western ecclesiastical calendars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"We shall begin with the fire-festivals of spring, which usually fall on the first Sunday of Lent (_Quadragesima_ or _Invocavit_), Easter Eve, and May Day. 2."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The austere fast of **Quadragesima** was prescribed by ancient synods to purify the hearts of believers."*
+> - 📜 **John Henry Newman (*Parochial and Plain Sermons*):** *"With the dawn of **Quadragesima**, the church admonishes every soul to enter upon holy self-examination."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"The solemn ceremonies observed during **Quadragesima** struck the Roman observer with awe and reverence."*

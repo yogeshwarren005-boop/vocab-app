@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # symmetricalness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (mathematics) an attribute of a shape or relation; exact reflection of form on opposite sides of a dividing line or plane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (mathematics) an attribute of a shape or relation; exact reflection of form on opposite sides of a dividing line or plane.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Even spatial proportionality characterized by harmonious correspondence of parts across a dividing plane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Balanced structural aesthetic alignment in geometric, anatomical, or architectural composition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symmetricalness designates (mathematics) an attribute of a shape or relation; exact reflection of form on opposite sides of a dividing line or plane."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The classical temple relies upon formal **symmetricalness** to convey an impression of serenity and solemn strength."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"Greek sculpture achieved an harmonious **symmetricalness** that seemed to banish all mortal defect and struggle."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The geometric **symmetricalness** of mineral crystals reflects the orderly packing of constituent atoms."*

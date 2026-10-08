@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quad]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quadrature
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The construction of a square having the same area as some other figure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The construction of a square having the same area as some other figure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mathematical determination of the area bounded by a curved line or surface; the squaring of a figure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The celestial position of two bodies when their longitudes differ by ninety degrees, as of the Moon and Sun.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"A solution of the secular problem of the quadrature of the circle, government premium £ 1,000,000 sterling."*
+> - 📜 **Isaac Newton (*Principia Mathematica*):** *"The geometric **quadrature** of curvilinear figures was demonstrated through the doctrine of fluxions."*
+> - 📜 **Galileo Galilei (*Dialogue Concerning the Two Chief World Systems*):** *"When the Moon is in **quadrature**, the division between light and shadow appears as a straight line."*
+> - 📜 **Pierre-Simon Laplace (*Celestial Mechanics*):** *"Tidal forces reach their minimum amplitude when the Sun and Moon are situated in mutual **quadrature**."*

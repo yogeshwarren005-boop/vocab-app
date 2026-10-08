@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quad]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quadraphony
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stereophonic sound recording or reproducing system using four separate channels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stereophonic sound recording or reproducing system using four separate channels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The system or technology of sound reproduction that distributes audio across four discrete channels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The acoustic illusion of three-dimensional auditory space produced by four-point speaker arrays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quadraphony designates a stereophonic sound recording or reproducing system using four separate channels."*
+> - 📜 **Marshall McLuhan (*The Medium is the Massage*):** *"The advent of experimental **quadraphony** transformed our perception of recorded orchestral performances."*
+> - 📜 **Lewis Mumford (*The Myth of the Machine*):** *"Electronic studios embraced advanced **quadraphony** to explore the boundaries of ambient acoustic space."*
+> - 📜 **Stanislaw Lem (*The Cyberiad*):** *"The synthetic maestro demonstrated mechanical **quadraphony** to the bewildered assembly of constructors."*

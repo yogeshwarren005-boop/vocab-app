@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quad]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quadrilateral
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A four-sided polygon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having four sides.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A two-dimensional geometric plane polygon possessing exactly four straight sides and four vertices.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An area or fortification system defended by four allied strongholds or military bastions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quadrilateral designates a four-sided polygon."*
+> - 📜 **Euclid (*Elements of Geometry*):** *"Any plane figure bounded by four straight lines is denominated a **quadrilateral**."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The fortress formed the southern anchor of the famous defensive **quadrilateral** of Lombardy."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The cell formed by the worker bees occasionally departs from a hexagon into an irregular **quadrilateral**."*

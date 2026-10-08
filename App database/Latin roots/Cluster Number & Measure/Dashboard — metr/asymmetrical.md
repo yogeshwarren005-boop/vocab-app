@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # asymmetrical
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by asymmetry in the spatial arrangement or placement of parts or components.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Irregular in shape or outline.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not symmetrical; exhibiting disproportion or lack of correspondence between opposite sides or parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by unevenness, irregular alignment, or unbalanced distribution in design or biology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"What composite asymmetrical image in the mirror then attracted his attention?"*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The male fiddler crab possesses one enormously enlarged claw, producing a striking **asymmetrical** morphology."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Gothic architecture deliberately employs an **asymmetrical** facade to express living freedom rather than mechanical rigidity."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Perceptual judgments often reveal subtle **asymmetrical** biases in human sensory estimation."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sex]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # sex
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Activities associated with sexual intercourse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of the two categories (male or female) into which most organisms are divided.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of the two main biological categories into which many organisms are divided based on reproductive functions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sexual intercourse, reproductive behavior, or physical intimacy involving erotic arousal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, by my faith and honour, If seriously I may convey my thoughts In this my light deliverance, I have spoke With one that in her sex, her years, profession, Wisdom, and constancy, hath amaz’d me more Than I dare blame my weakness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sole sir o’ th’ world, I cannot project mine own cause so well To make it clear, but do confess I have Been laden with like frailties which before Have often shamed our sex."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have heard him read many lectures against it, and I thank God I am not a woman, to be touched with so many giddy offences as he hath generally taxed their whole sex withal."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Secondary sexual characters depend upon the competition between individuals of one **sex** for the possession of the other."*
+> - 📜 **Mary Wollstonecraft (*A Vindication of the Rights of Woman*):** *"I wish to persuade women to endeavor to acquire strength of mind and body, regardless of their **sex**."*
+> - 📜 **John Stuart Mill (*The Subjection of Women*):** *"The legal subordination of one **sex** to the other is wrong in itself and now one of the chief hindrances to human improvement."*

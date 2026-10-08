@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # metricise
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Express in the metric system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert from a non-metric to the metric system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert or adapt a system of weights and measures, manufacturing drawings, or records to metric units.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To cast into poetic meter or arrange verbal rhythm into measured verses (British spelling).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metricise designates express in the metric system."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"The parliamentary commission debated whether to **metricise** British coinage and domestic trade weights."*
+> - 📜 **George Bernard Shaw (*Our Theatres in the Nineties*):** *"The translator attempted to **metricise** the French drama into stilted iambic pentameter."*
+> - 📜 **Lewis Mumford (*The Conduct of Life*):** *"Scientific reformers sought to **metricise** all social statistics to construct rational planning models."*

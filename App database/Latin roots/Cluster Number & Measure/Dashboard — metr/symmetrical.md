@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # symmetrical
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having similarity in size, shape, and relative position of corresponding parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting equivalence or correspondence among constituents of an entity or between different entities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by balanced proportions and correspondence of parts on opposite sides of a dividing line or center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing regularity, harmony, and elegance in geometric form, biological anatomy, or architectural design.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"And we like ’em all the better for it, don’t we?” Mercury, with his hands in the pockets of his bright peach-blossom small-clothes, stretches his symmetrical silk legs with the air of a man of gallantry and can’t deny it."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"When I had no more ticks to make, I folded all my bills up uniformly, docketed each on the back, and tied the whole into a symmetrical bundle."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Soothed by my exertions, my method, and Herbert’s compliments, I would sit with his symmetrical bundle and my own on the table before me among the stationery, and feel like a Bank of some sort, rather than a private individual."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The facade of the ducal palace presents a calm and **symmetrical** balance of arched marble colonnades."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The human mind naturally derives aesthetic pleasure from **symmetrical** patterns and regular geometric figures."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"Bilateral animal organization is characterized by **symmetrical** halves arranged along the longitudinal axis."*

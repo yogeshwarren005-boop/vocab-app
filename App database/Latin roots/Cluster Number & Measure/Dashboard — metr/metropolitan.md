@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # metropolitan
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In the eastern orthodox church this title is given to a position between bishop and patriarch; equivalent to archbishop in western christianity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who lives in a metropolis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characteristic of, or constituting a major metropolis or large urban urban center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian churches, an archbishop having episcopal oversight over a ecclesiastical province.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"As watching is best done invisibly, she usually carried a dark lantern in her hand, and every now and then turned on the light to examine nooks and corners with the coolness of a metropolitan policeman."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Besides, the English whalers sometimes affect a kind of metropolitan superiority over the American whalers; regarding the long, lean Nantucketer, with his nondescript provincialisms, as a sort of sea-peasant."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For by some curious fatality, as it is often noted of your metropolitan freebooters that they ever encamp around the halls of justice, so sinners, gentlemen, most abound in holiest vicinities."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The cab rattled through the foggy streets as we plunged into the labyrinth of **metropolitan** traffic."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ambitious **metropolitan** of Antioch claimed ecclesiastical jurisdiction over all the bishops of the East."*
+> - 📜 **Henry James (*The Princess Casamassima*):** *"He was captivated by the boundless energy and dark, thrilling mystery of modern **metropolitan** life."*

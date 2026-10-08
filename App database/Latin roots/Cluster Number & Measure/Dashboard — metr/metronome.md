@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # metronome
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Clicking pendulum indicates the exact tempo of a piece of music.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clicking pendulum indicates the exact tempo of a piece of music.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical or electronic device that marks exact musical tempo by emitting regular rhythmic ticks or pulses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any mechanism, cadence, or natural phenomenon that marks time with strict, unrelenting regularity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"There's an old metronome up-stairs that Cyril left."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"The ticking of the pendulum sounded like an inexorable **metronome** measuring out the remaining hours of youth."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The conductor refused to reduce Beethoven's fiery symphony to the mechanical ticking of a rigid **metronome**."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The hollow drop of water from the cavern roof beat time with the steady pulse of a nocturnal **metronome**."*

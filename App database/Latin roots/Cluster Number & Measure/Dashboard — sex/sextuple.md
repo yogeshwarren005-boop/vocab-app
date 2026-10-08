@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sex]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # sextuple
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having six units or components.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having six units or components.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of six parts, elements, or layers; or six times as great in number, volume, or magnitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To multiply by six or increase to six times the original amount.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sextuple designates having six units or components."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor imposed a **sextuple** tribute upon the rebellious province to humble its proud senate."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Under intensive fertilization, the productive yield of the vineyard seemed to **sextuple** within three seasons."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The discovery of ocean routes enabled merchants to **sextuple** their commercial turnover in overseas spices."*

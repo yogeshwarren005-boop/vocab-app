@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quad]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quadriplegic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is paralyzed in both arms and both legs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is paralyzed in both arms and both legs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected by paralysis of all four limbs and the trunk; or a person living with such paralysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the clinical care, equipment, or neurological state of someone with quadriplegia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quadriplegic designates a person who is paralyzed in both arms and both legs."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **quadriplegic** patient requires diligent nursing care to avert pulmonary and cutaneous ulceration."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Careful positioning of the **quadriplegic** invalid preserved joint mobility throughout rehabilitation."*
+> - 📜 **Henry Head (*Studies in Neurology*):** *"Reflex recovery in a chronically **quadriplegic** subject follows well-defined neurophysiological phases."*

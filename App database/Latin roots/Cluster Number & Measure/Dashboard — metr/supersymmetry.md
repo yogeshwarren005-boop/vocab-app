@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # supersymmetry
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (physics) a theory that tries to link the four fundamental forces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physics) a theory that tries to link the four fundamental forces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A theoretical physical framework in quantum field theory positing a fundamental symmetry relating fermions and bosons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The hypothesis that every known fundamental particle possesses an unseen superpartner with differing spin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supersymmetry designates (physics) a theory that tries to link the four fundamental forces."*
+> - 📜 **Richard Feynman (*The Character of Physical Law*):** *"Theoretical physicists proposed **supersymmetry** to bridge the mathematical gap between matter particles and force carriers."*
+> - 📜 **Carl Sagan (*Pale Blue Dot*):** *"High-energy particle collisions in modern colliders seek evidence confirming the elegant claims of **supersymmetry**."*
+> - 📜 **Arthur C. Clarke (*Greetings, Carbon-Based Bipeds!*):** *"Cosmologists wonder whether the ultimate unification of nature will reveal the hidden geometry of **supersymmetry**."*

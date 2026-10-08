@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sex]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # sextette
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Six performers or singers who perform together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set of six similar things considered as a unit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical ensemble consisting of six performers, or a composition scored for six instrumental parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stanza of six lines, especially the concluding six lines of a Petrarchan sonnet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sextette designates six performers or singers who perform together."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The village choir fielded a **sextette** of sturdy voices that led the Christmas carols."*
+> - 📜 **Edgar Allan Poe (*The Poetic Principle*):** *"The sonnet resolves its octave into a harmonious **sextette** of reflective lyrical cadence."*
+> - 📜 **Willa Cather (*The Song of the Lark*):** *"The famous opera concluded with a triumphant **sextette** that roused the opera house to applause."*

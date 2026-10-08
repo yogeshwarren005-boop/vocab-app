@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # metrically
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With regard to meter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to meter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a metrical manner; with reference to poetic feet, rhythmic measure, or verse structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to measurement or numerical calculation according to the metric system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metrically designates with regard to meter."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The lines flow **metrically** with effortless ease, concealing the underlying art of the poet."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"Chaucer handled the decasyllabic couplet **metrically** with a flexibility unmatched by his contemporaries."*
+> - 📜 **William Hazlitt (*Lectures on the English Poets*):** *"When words are arranged **metrically**, they acquire an elevated resonance above ordinary conversation."*

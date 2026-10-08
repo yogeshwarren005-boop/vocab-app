@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # metrestick
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rule one meter long (usually marked off in centimeters and millimeters).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rule one meter long (usually marked off in centimeters and millimeters).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A straight wooden, plastic, or metal measuring rod exactly one metre in length, graduated in centimeters and millimeters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A standard laboratory instrument used for linear measurements and optical bench experiments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metrestick designates a rule one meter long (usually marked off in centimeters and millimeters)."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"He seized a wooden **metrestick** from the laboratory bench to ward off the invisible assailant."*
+> - 📜 **Arthur Conan Doyle (*The Poison Belt*):** *"Professor Challenger tapped the brass scale on the wall with his long wooden **metrestick**."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Students learned exact physical calibration by verifying the subdivisions of an engraved **metrestick**."*

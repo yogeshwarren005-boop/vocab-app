@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # emmetropia
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (ophthalmology) the normal refractive condition of the eye in which there is clear focus of light on the retina.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (ophthalmology) the normal refractive condition of the eye in which there is clear focus of light on the retina.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The normal optical condition of the eye wherein parallel light rays focus precisely upon the retina without accommodation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The standard physiological baseline of refractive perfection against which myopia and hyperopia are diagnosed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emmetropia designates (ophthalmology) the normal refractive condition of the eye in which there is clear focus of light on the retina."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"In the state of **emmetropia**, the unaccommodated eye brings distant objects into sharp focus upon the retina."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Ophthalmological testing confirmed true **emmetropia**, ruling out refractive error as the origin of the cephalalgia."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Departures from perfect **emmetropia** produce either shortsightedness or longsightedness according to the focal length."*

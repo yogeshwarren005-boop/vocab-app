@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # metronidazole
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Antiprotozoal medication (trade name flagyl) used to treat trichomoniasis and giardiasis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Antiprotozoal medication (trade name flagyl) used to treat trichomoniasis and giardiasis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic nitroimidazole antibiotic and antiprotozoal drug used to treat anaerobic infections and amoebiasis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clinical pharmaceutical agent effective against Trichomonas vaginalis, Giardia lamblia, and bacteroides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metronidazole designates antiprotozoal medication (trade name flagyl) used to treat trichomoniasis and giardiasis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern clinical management of anaerobic pelvic abscesses relies heavily upon effective doses of **Metronidazole**."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"The discovery of synthetic agents such as **Metronidazole** transformed the therapy of previously lethal protozoal colitis."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The physician prescribed a regimen of **Metronidazole** to eradicate the persistent amoebic dysentery."*

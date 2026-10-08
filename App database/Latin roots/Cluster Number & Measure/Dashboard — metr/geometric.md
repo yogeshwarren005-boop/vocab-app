@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # geometric
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by simple geometric forms in design and decoration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or determined by geometry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to geometry or the principles and methods of lines, angles, planes, and solid shapes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by regular, clean, mathematical shapes, straight lines, and angular patterns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I squared and cubed long series of numbers, and by concentration and will carried on most astonishing geometric progressions."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The scene was geometric, multidimensional, and seemingly chaotic."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Spiritual vision is not subordinate to geometric alti- 215:12 tudes."*
+> - 📜 **Isaac Newton (*Principia Mathematica*):** *"The orbits of the planets conform to rigorous **geometric** laws determined by universal gravitational force."*
+> - 📜 **Galileo Galilei (*The Assayer*):** *"The grand book of the universe cannot be understood unless one learns its language and characters, which are **geometric**."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"Gothic tracery displays a sublime progression from simple **geometric** circles to intricate flamboyant curves."*

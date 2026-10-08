@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sex]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # sexed
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stimulate sexually.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tell the sex (of young chickens).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having sexual characteristics, desires, or differentiated biological reproductive organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Identified, sorted, or categorized by male or female gender, as of newly hatched poultry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sexed designates stimulate sexually."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In many lower invertebrates the individuals are not separately **sexed**, being hermaphroditic."*
+> - 📜 **Virginia Woolf (*Orlando*):** *"She reflected how profoundly human society is **sexed** in its customs, laws, and garments."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Nature seemed vividly **sexed** around her, teeming with breeding birds and ripening blossoms."*

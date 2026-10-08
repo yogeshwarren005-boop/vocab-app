@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # geometrical
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or determined by geometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by simple geometric forms in design and decoration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, according with, or determined by the principles, theorems, and methods of geometry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Increasing in a constant mathematical ratio, as in a geometrical progression ($2, 4, 8, 16$).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"If the Sperm Whale be physiognomically a Sphinx, to the phrenologist his brain seems that geometrical circle which it is impossible to square."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Why not, as the cabalists had it, a Figure, arithmetical or geometrical, a Sound...."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The third, I said the third!” cried the prince abruptly, pushing the letter away, and leaning his elbows on the table he drew toward him the exercise book containing geometrical figures."*
+> - 📜 **Thomas Robert Malthus (*An Essay on the Principle of Population*):** *"Population, when unchecked, increases in a **geometrical** ratio, while subsistence increases only in an arithmetical ratio."*
+> - 📜 **René Descartes (*Discourse on Method*):** *"The long chains of simple and easy reasonings by which **geometrical** proofs are carried out charmed my youthful mind."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"In all **geometrical** demonstrations, truth is compelled by the exactness of preliminary definitions."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quad]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quadratic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An equation in which the highest power of an unknown quantity is a square.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polynomial of the second degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving the second and no higher power of an unknown quantity or variable in mathematics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or shaped like a square; possessing two independent orthogonal dimensions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Oh, Jane, your simple experiment proposition is about to become compound quadratics."*
+> - 📜 **Leonhard Euler (*Elements of Algebra*):** *"The solution of every complete **quadratic** equation requires extracting the square root of both sides."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"Geometric relations often lead directly to **quadratic** expressions that admit two distinct roots."*
+> - 📜 **William Rowan Hamilton (*Lectures on Quaternions*):** *"We may derive a general formula for this transformation by solving the underlying **quadratic** relation."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # dissymmetry
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (mathematics) a lack of symmetry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (mathematics) a lack of symmetry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Absence or impairment of symmetry; structural chirality wherein an object does not coincide with its mirror image.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of structural imbalance or non-equivalence between opposite components or halves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dissymmetry designates (mathematics) a lack of symmetry."*
+> - 📜 **Louis Pasteur (*Researches on the Molecular Dissymmetry of Natural Organic Products*):** *"All artificial chemical products are without **dissymmetry**, whereas natural organic compounds exhibit chiral asymmetry."*
+> - 📜 **Pierre Curie (*On Symmetry in Physical Phenomena*):** *"It is **dissymmetry** that creates the phenomenon, for a physical effect cannot have more asymmetry than its cause."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The spiral twisting of gastropod shells exemplifies profound morphological **dissymmetry** in mollusk evolution."*

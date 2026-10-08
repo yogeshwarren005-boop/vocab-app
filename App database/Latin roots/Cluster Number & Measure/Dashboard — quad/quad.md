@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quad]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quad
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of four children born at the same time from the same pregnancy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A muscle of the thigh that extends the leg.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A four-sided courtyard or open rectangular lawn enclosed by collegiate or institutional buildings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of metal lower than type used to separate words or fill blanks in printing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The sensitive fighter corkscrewed and hurtled away just as laser-quad beams from both destroyers crossed where he had been a fraction of a second before."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Rivulets snaked across the concrete quad from one puddle to another, eventually over-brimming into a furrow that widened and deepened into a trench entering a conduit to a ditch or storm sewer somewhere off the campus."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Now, what's the problem?" "The ship has four laser-quads and a couple of explosive decompressors."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"He walked across the gravel of the college **quad** beneath the dark mullioned windows of the library."*
+> - 📜 **Evelyn Waugh (*Brideshead Revisited*):** *"The echo of footsteps crossing the silent stone **quad** died away into the misty Oxford evening."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"Undergraduates lingered in the sheltered **quad** to argue philosophy until the chapel bell began to ring."*

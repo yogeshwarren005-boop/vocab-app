@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # asymmetric
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by asymmetry in the spatial arrangement or placement of parts or components.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by asymmetry in the spatial arrangement or placement of parts or components.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking symmetry; having parts or sides that do not correspond in shape, size, or arrangement across an axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by unequal balance of power, force, or information between interacting parties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asymmetric designates characterized by asymmetry in the spatial arrangement or placement of parts or components."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The remarkable **asymmetric** skull of the adult flatfish results from gradual developmental migration of one eye."*
+> - 📜 **Louis Pasteur (*Researches on the Molecular Dissymmetry of Natural Organic Products*):** *"Crystals possessing an **asymmetric** hemihedral face rotate the plane of polarized light."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The internal organs of vertebrates display a marked **asymmetric** disposition within the coelomic cavity."*

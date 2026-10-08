@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # emetrol
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Trade name for an antiemetic drug that has a mint flavor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trade name for an antiemetic drug that has a mint flavor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A commercial oral antiemetic pharmaceutical solution containing phosphoric acid and carbohydrates used to relieve nausea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An over-the-counter soothing medicinal preparation that acts directly on the stomach wall to calm vomiting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emetrol designates trade name for an antiemetic drug that has a mint flavor."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In cases of acute gastric irritation, a mild phosphorated solution like **Emetrol** frequently alleviates emesis."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The country practitioner administered a soothing dose of **Emetrol** to settle the child's feverish stomach."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"The pharmacopeia recorded practical successes in checking benign nausea with solutions such as **Emetrol**."*

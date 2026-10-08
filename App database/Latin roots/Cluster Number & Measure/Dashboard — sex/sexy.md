@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sex]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # sexy
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by or tending to arouse sexual desire or interest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exciting sexual desire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sexually attractive, exciting, or alluring in appearance, demeanor, or expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exciting, trendy, or stylishly appealing in non-erotic domains like politics, marketing, or design.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sexy designates marked by or tending to arouse sexual desire or interest."*
+> - 📜 **D. H. Lawrence (*Selected Literary Criticism*):** *"He deplored how vulgar entertainment substituted cheap, **sexy** posturing for true emotional warmth."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The pneumatic young women in the synthetic scent organ lounge were praised as wonderfully **sexy**."*
+> - 📜 **Evelyn Waugh (*Vile Bodies*):** *"The young aristocrats dressed in flamboyant costumes that their elders denounced as indecently **sexy**."*

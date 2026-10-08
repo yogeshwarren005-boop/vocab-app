@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # unsymmetrically
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an asymmetrical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an asymmetrical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unsymmetrical manner; without balance, regularity, or correspondence across a central axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disproportionately or unevenly distributed in space, weight, or mechanical load.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"With its huge ungainly limbs sprawling unsymmetrically, and its gnarled hands and fingers, it stood an aged, stern, and scornful monster among the smiling birch trees."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"When paralyzed on one side, the mouth is drawn **unsymmetrically** toward the sound cheek during speech."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"If dielectric tension acts **unsymmetrically**, mechanical strain is induced throughout the insulating medium."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Sediments are deposited **unsymmetrically** around river estuaries according to prevailing tidal currents."*

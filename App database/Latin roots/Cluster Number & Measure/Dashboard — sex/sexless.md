@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sex]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # sexless
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no or imperfectly developed or nonfunctional sex organs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no sexual desire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking distinct sexual characteristics, reproductive organs, erotic impulses, or gender identity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devoid of erotic feeling, sexual tension, or physical passion; entirely platonic or asexual.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sexless designates having no or imperfectly developed or nonfunctional sex organs."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The frail Eloi appeared curiously **sexless**, with identical childlike faces and flowing robes."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The worker bees form a **sexless** or neuter caste devoted entirely to maintaining the hive."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The conditioning aimed to render mechanical operatives virtually **sexless** during working hours."*

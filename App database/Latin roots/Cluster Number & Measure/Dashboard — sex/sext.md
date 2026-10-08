@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sex]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # sext
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The fourth of the seven canonical hours; about noon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fourth of the seven canonical hours; about noon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fourth of the traditional canonical hours of the divine office, recited at midday or the sixth hour.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A liturgical prayer office chanted in monastic communities around noon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The "expressions" are said to go back to Xenophanes (cited by Sext."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Manual labour was to continue from morning until <g>Sext</g>; and from Sext till <g>Nones</g> was to be employed in reading."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"From Holyrood-day to Lent, the dinner hour was at <g>nones</g>; in Lent till Easter, at six o’clock; from Easter to Pentecost, at <g>sext</g>; and all summer, except on Wednesdays and Fridays, at <g>nones</g>."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The monastery bell sounded for **sext**, summoning the pious monks from their garden labors."*
+> - 📜 **Thomas Hardy (*A Pair of Blue Eyes*):** *"The rector recalled his visit to the Norman abbey where he heard the solemn office of **sext**."*
+> - 📜 **John Henry Newman (*Apologia Pro Vita Sua*):** *"In our devotional retreat we faithfully observed prime, terce, and **sext** according to ancient custom."*

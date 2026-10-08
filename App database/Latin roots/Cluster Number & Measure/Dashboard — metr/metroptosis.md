@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # metroptosis
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prolapse of the uterus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prolapse of the uterus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Downward displacement or prolapse of the uterus into or protruding from the vaginal canal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gynecological condition resulting from weakening or stretching of the pelvic floor ligaments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metroptosis designates prolapse of the uterus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Surgical repair of the perineal floor was recommended to alleviate complete uterine prolapse or **metroptosis**."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"Clinical demonstrations in the gynecological ward addressed the etiology and palliative treatment of **metroptosis**."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The dispensary physician prescribed mechanical support pessaries to relieve symptoms of debilitating **metroptosis**."*

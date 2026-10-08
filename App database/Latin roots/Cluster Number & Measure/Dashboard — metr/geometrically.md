@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — metr]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # geometrically
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to geometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a geometric fashion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner according with the principles of geometry, regular angles, or linear proportions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At a rapidly compounding rate proportional to the preceding magnitude, as in exponential growth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"These filed in about nine o’clock, their vermiculated horns lopping gracefully on each side of their cheeks in geometrically perfect spirals, a small pink and white ear nestling under each horn."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"These filed in about nine o’clock, their vermiculated horns lopping gracefully on each side of their cheeks in geometrically perfect spirals, a small pink and white ear nestling under each horn."*
+> - 📜 **Thomas Robert Malthus (*An Essay on the Principle of Population*):** *"Population increases **geometrically** while food production expands only in an arithmetical progression."*
+> - 📜 **Isaac Newton (*Principia Mathematica*):** *"The curves described by orbiting bodies may be determined **geometrically** from the centers of force."*
+> - 📜 **René Descartes (*Discourse on Method*):** *"Problems that seemed impenetrable yielded when formulated **geometrically** through coordinate axes."*

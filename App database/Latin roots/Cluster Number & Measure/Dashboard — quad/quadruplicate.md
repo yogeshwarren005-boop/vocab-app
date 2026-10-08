@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quad]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quadruplicate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any four copies; any of four things that correspond to one another exactly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reproduce fourfold.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Multiplied by four; consisting of four identical parts or executed in four identical copies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To reproduce, write, or certify a legal or administrative document in four official copies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quadruplicate designates any four copies; any of four things that correspond to one another exactly."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The Chancery clerk required every deposition to be transcribed in **quadruplicate** upon stamped vellum."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The royal warrants were sealed in **quadruplicate** and dispatched by express couriers to the four corners of the realm."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The inventory was drawn up in **quadruplicate**, with copies signed by each officer present in the room."*

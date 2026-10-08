@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sex]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # sexiness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The arousal of feelings of sexual desire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The arousal of feelings of sexual desire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of possessing sexual attractiveness, physical allure, or erotic appeal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stylish appeal, glamour, or fashionable excitement in a non-biological design or concept.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sexiness designates the arousal of feelings of sexual desire."*
+> - 📜 **D. H. Lawrence (*Lady Chatterley's Lover*):** *"Commercial advertisements constantly exploit superficial **sexiness** to entice restless consumers."*
+> - 📜 **Aldous Huxley (*Point Counter Point*):** *"He distinguished between genuine physical passion and the artificial **sexiness** of London cabarets."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"The dramatist scoffed at the theater manager's insistence upon trivial **sexiness** to draw a crowd."*

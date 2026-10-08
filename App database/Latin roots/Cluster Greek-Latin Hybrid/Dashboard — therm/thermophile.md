@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermophile
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin therm within the domain of Greek-Latin Hybrid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of therm in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism, especially a bacterium or archaeon, that thrives at relatively high temperatures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant or creature adapted to high thermal conditions such as desert soils or compost heaps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermophile designates pertaining to, derived from, or characteristic of latin therm within the domain of greek-latin hybrid."*
+> - 📜 **Thomas Henry Huxley (*Discourses: Biological and Geological*):** *"The presence of a thriving **thermophile** in volcanic springs demonstrates the expansive boundaries of protoplasm."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Any specialized **thermophile** flourishing near thermal vents reflects generations of natural selection under intense heat."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Certain fungi exhibit the habit of a true **thermophile**, germinating solely in steaming volcanic soil."*

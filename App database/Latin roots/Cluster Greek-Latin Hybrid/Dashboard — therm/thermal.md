@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermal
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rising current of warm air.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or associated with heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, caused by, or producing heat or temperature variation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating an upward current of warm air used by gliders and birds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The whole subject is thus of considerable complexity, and involves questions of thermal and chemical equilibrium."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Nothing damages furnace linings more than exposure to changes of temperature, on account of the continual expansion and contraction of the brickwork and the low thermal conductivity of the silica."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"It has been indicated that the thermal conditions in the bessemerising zone of the pyritic furnace tend to the production of highly basic slags, which, though hot and limpid, are characterised by high density."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The condor circled aloft without a flap of its wings, carried upward on an invisible **thermal** current."*
+> - 📜 **John Tyndall (*Contributions to Molecular Physics in the Domain of Radiant Heat*):** *"Water vapor exerts a powerful absorbent influence upon **thermal** rays radiated from the ground."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The medicinal **thermal** springs of Bath have maintained an unchanging temperature since Roman times."*

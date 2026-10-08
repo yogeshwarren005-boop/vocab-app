@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermosetting
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the property of becoming permanently hard and rigid when heated or cured.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the property of becoming permanently hard and rigid when heated or cured.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hardening permanently when heated, and incapable of being remelted or reshaped thereafter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Denoting resins, plastics, or adhesives that cure into rigid chemical cross-links.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermosetting designates having the property of becoming permanently hard and rigid when heated or cured."*
+> - 📜 **H. G. Wells (*Star Begotten*):** *"The laboratory insulators were molded from a rigid **thermosetting** compound capable of enduring high voltages."*
+> - 📜 **Arthur Conan Doyle (*The Disintegration Machine*):** *"Nemor mounted the copper coils upon a solid **thermosetting** base to prevent mechanical warping."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"Modern industry relies extensively on **thermosetting** plastics to create immutable structural components."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biological
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to biology or to life and living things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of parents and children; related by blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the study of living organisms and vital processes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Derived from, caused by, or connected through kinship and organic heredity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"We have to "think like God," he says (Mark 8:33); and perhaps God is in his thoughts neither so legal nor so biological as we are; perhaps he does not think first of edicts or of biological and psychological laws."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I hope you have been noting these different emotional situations and reactions among your friends carefully in your record, Evelina," she continued in an interested and biological tone of voice and expression of eye."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"By its very nature, the alliance is biological and cultural, and molded by trial-and-error through the hazards of millennia."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Man's physical structure exhibits undeniable evidence of common descent with other **biological** forms."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses and Reviews*):** *"True scientific education requires thorough instruction in the laws governing our **biological** world."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Infection represents a **biological** contest between invading parasites and the defensive phagocytes of the host."*

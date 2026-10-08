@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # bioterrorism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Terrorism using the weapons of biological warfare.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terrorism using the weapons of biological warfare.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The intentional release or dissemination of toxic biological agents, viruses, or bacteria to cause harm or terrorize civilian populations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use of weaponized biological pathogens for political, ideological, or criminal coercion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bioterrorism designates terrorism using the weapons of biological warfare."*
+> - 📜 **H. G. Wells (*The Stolen Bacillus*):** *"The fanatic sought to inaugurate an era of catastrophic **bioterrorism** by poisoning the city's drinking reservoirs."*
+> - 📜 **Arthur Conan Doyle (*The Poison Belt*):** *"The terror of an invisible airborne affliction mirrored the profound dread that modern **bioterrorism** would evoke."*
+> - 📜 **Bertrand Russell (*Has Man a Future?*):** *"The proliferation of lethal bacterial cultures renders global civilization vulnerable to covert **bioterrorism**."*

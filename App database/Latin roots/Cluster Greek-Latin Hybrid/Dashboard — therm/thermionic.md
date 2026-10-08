@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermionic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of thermions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of thermions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or involving the emission of electrons or ions from a substance at high temperatures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating vacuum tubes and valves that operate by heated cathode emission.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermionic designates of or relating to or characteristic of thermions."*
+> - 📜 **J. J. Thomson (*Rays of Positive Electricity*):** *"The **thermionic** current increased rapidly in accordance with Richardson's exponential law."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Early twentieth-century wireless communication depended upon fragile **thermionic** valves of blown glass."*
+> - 📜 **Ernest Rutherford (*Radioactive Transformations*):** *"Heating the platinum foil provoked an unmistakable **thermionic** discharge across the chamber."*

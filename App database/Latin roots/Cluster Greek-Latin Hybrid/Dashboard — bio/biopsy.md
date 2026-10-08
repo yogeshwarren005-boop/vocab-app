@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biopsy
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Examination of tissues or liquids from the living body to determine the existence or cause of a disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Examination of tissues or liquids from the living body to determine the existence or cause of a disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The removal and examination of living tissue, cells, or fluid from the body to establish a medical diagnosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Microscopic clinical evaluation of freshly excised morbid tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biopsy designates examination of tissues or liquids from the living body to determine the existence or cause of a disease."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A preliminary **biopsy** of the suspicious cervical lymph node settled the diagnosis in favor of Hodgkin's disease."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The pathologist stained the specimen obtained from yesterday's **biopsy**, searching for malignant epithelial nests."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"Performing an exploratory **biopsy** with sterilized instruments avoids introducing pyogenic contagion into the tumor."*

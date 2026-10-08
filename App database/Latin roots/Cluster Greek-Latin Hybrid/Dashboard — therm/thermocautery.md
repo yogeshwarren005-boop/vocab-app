@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermocautery
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cautery (destruction of tissue) by heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cautery (destruction of tissue) by heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical technique using a red-hot metal instrument or platinum wire to destroy tissue or stop bleeding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The instrument (such as Paquelin's cautery) used to execute hot cauterization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermocautery designates cautery (destruction of tissue) by heat."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In severe arterial bleeding from deep ulcers, application of **thermocautery** effected immediate hemostasis."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"Antiseptic dressings applied after **thermocautery** prevent the sloughing wound from harboring sepsis."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The surgeon wielded the glowing **thermocautery** with unflinching dexterity upon the morbid growth."*

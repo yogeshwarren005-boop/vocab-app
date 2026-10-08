@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # microbiologist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in microbiology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in microbiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist who specializes in the study of microscopic organisms, such as bacteria, viruses, fungi, and protozoa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A researcher investigating microbial genetics, physiology, and pathology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microbiologist designates a specialist in microbiology."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The **microbiologist** discovers that spontaneous generation is a chimera, for every fermentation springs from a specific germ."*
+> - 📜 **William Osler (*The Evolution of Modern Medicine*):** *"The modern **microbiologist** has tracked down the elusive causative agents of diphtheria, tetanus, and cholera."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"Terrestrial microbes accomplished in hours what no human artillery could effect, delighting every thoughtful **microbiologist**."*

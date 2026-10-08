@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biosystematic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to biosystematics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to biosystematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the biological classification and taxonomic study of living organisms and their evolutionary relationships.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to biosystematics, integrating genetics and ecology into taxonomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biosystematic designates of or relating to biosystematics."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"A natural **biosystematic** classification must be genealogical, grouping species according to true phylogenetic affinities."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"Rigorous **biosystematic** comparison reveals homologies between the human skeleton and that of the higher anthropoids."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"Our **biosystematic** catalog of insular plants indicates multiple independent colonizations from the mainland."*

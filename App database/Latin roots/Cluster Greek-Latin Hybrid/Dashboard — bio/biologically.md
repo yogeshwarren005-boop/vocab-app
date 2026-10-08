@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biologically
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to biology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to biology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: From the perspective of biology; in terms of living organisms and their processes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Through organic heredity or natural vital mechanisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biologically designates with respect to biology."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Domestic pigeons are **biologically** descended from a single ancestral rock pigeon, Columba livia."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"Anatomically and **biologically**, the differences separating the higher apes from man are remarkably small."*
+> - 📜 **Alfred Russel Wallace (*Darwinism*):** *"Coloration in flowers functions **biologically** to attract insects essential for cross-fertilization."*

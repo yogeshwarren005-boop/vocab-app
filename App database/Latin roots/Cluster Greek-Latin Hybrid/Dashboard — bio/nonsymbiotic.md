@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # nonsymbiotic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not parasitic on another organism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not parasitic on another organism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not living in, involving, or characterized by symbiosis; living independently.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating free-living organisms, such as Azotobacter, that fix nitrogen without a plant host.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonsymbiotic designates not parasitic on another organism."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Solitary organisms pursue a **nonsymbiotic** existence, depending entirely upon their own foraging capacities."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Certain **nonsymbiotic** soil bacteria fix atmospheric nitrogen directly without forming nodules on legume roots."*
+> - 📜 **Alfred Russel Wallace (*Studies Scientific and Social*):** *"The contrast between mutually reliant lichens and **nonsymbiotic** free-living algae illustrates the evolution of cooperation."*

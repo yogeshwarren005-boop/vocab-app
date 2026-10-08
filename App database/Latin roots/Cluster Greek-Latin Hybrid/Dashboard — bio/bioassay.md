@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # bioassay
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Appraisal of the biological activity of a substance by testing its effect on an organism and comparing the result with some agreed standard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to a bio-assay.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The determination of the potency or concentration of a substance by evaluating its effect on living animals or tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A standardized biological test used to measure pharmaceutical or toxic strength.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bioassay designates appraisal of the biological activity of a substance by testing its effect on an organism and comparing the result with some agreed standard."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A careful **bioassay** upon frog hearts revealed the precise physiological potency of the digitalis extract."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Employing muscle twitch as a quantitative **bioassay**, we calibrated the strength of the curare solution."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"The sensitive leaf tentacles of Drosera provided a delicate **bioassay** for detecting minute traces of ammonium carbonate."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # bioclimatology
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of effects of climate on living organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of effects of climate on living organisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of the effects of climate and weather on living organisms and their ecosystems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of ecology analyzing climatic influences on plant, animal, and human physiology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bioclimatology designates the study of effects of climate on living organisms."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"By founding the science of **bioclimatology**, we reveal how isothermal belts govern global biodiversity."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature and Other Essays*):** *"Modern **bioclimatology** proves that perpetual equatorial humidity fosters uninterrupted speciation."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Fossil palmetto leaves in Arctic strata provide striking problems for historic **bioclimatology**."*

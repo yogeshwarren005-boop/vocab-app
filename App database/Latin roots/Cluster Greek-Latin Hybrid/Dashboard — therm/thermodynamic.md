@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermodynamic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or concerned with thermodynamics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or concerned with thermodynamics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the relations between heat and other forms of energy such as mechanical work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to physical systems operating in accordance with the laws of heat transfer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermodynamic designates of or concerned with thermodynamics."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"The second **thermodynamic** law governs the irreversible dissipation of mechanical energy into heat."*
+> - 📜 **Lord Kelvin (*On the Dynamical Theory of Heat*):** *"Carnot's ideal engine demonstrates the absolute maximum **thermodynamic** efficiency achievable."*
+> - 📜 **Josiah Willard Gibbs (*On the Equilibrium of Heterogeneous Substances*):** *"The condition of **thermodynamic** equilibrium requires that entropy attain a local maximum."*

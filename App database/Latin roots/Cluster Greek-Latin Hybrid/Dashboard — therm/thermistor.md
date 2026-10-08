@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermistor
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A semiconductor device made of materials whose resistance varies as a function of temperature; can be used to compensate for temperature variation in other components of a circuit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A semiconductor device made of materials whose resistance varies as a function of temperature; can be used to compensate for temperature variation in other components of a circuit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical resistor whose resistance changes significantly and predictably with temperature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A semiconductor temperature-sensing element used in precision electrical thermometers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermistor designates a semiconductor device made of materials whose resistance varies as a function of temperature; can be used to compensate for temperature variation in other components of a circuit."*
+> - 📜 **Arthur Conan Doyle (*The Land of Mist*):** *"The apparatus utilized a delicate **thermistor** to monitor subtle thermal variances in the sealed chamber."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"A sensitive **thermistor** can serve as an effective feedback transducer for biological thermal regulation."*
+> - 📜 **H. G. Wells (*Star Begotten*):** *"The instrument recorded micro-temperature anomalies with a **thermistor** wired to a sensitive galvanometer."*

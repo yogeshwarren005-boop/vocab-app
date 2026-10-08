@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermosphere
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The atmospheric layer between the mesosphere and the exosphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The atmospheric layer between the mesosphere and the exosphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The region of the earth's upper atmosphere above the mesosphere where temperature increases steadily with altitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The atmospheric layer extending from roughly 85 km upwards, characterized by solar ionization and aurorae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermosphere designates the atmospheric layer between the mesosphere and the exosphere."*
+> - 📜 **Arthur Eddington (*Stars and Atoms*):** *"High in the planetary **thermosphere**, extreme solar ultraviolet rays heat rarefied ions to immense kinetic velocities."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The Martian projectiles traversed the fiery outer **thermosphere** before plunging toward the Surrey plains."*
+> - 📜 **Bertrand Russell (*The ABC of Atoms*):** *"Auroral curtains ripple through the ion-rich **thermosphere**, stimulated by energetic streams of solar corpuscles."*

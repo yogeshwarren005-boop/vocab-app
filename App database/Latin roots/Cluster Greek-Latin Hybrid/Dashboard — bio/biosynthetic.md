@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biosynthetic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to biosynthesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to biosynthesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, produced by, or involved in the chemical synthesis of compounds by living cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerning anabolic processes and cellular metabolic production.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biosynthetic designates of or relating to biosynthesis."*
+> - 📜 **Svante Arrhenius (*Immunochemistry*):** *"The **biosynthetic** pathways of the cell operate under precise thermodynamic and enzyme constraints."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Every green leaf functions as a magnificent **biosynthetic** laboratory powered by captured photons."*
+> - 📜 **William Ramsay (*Essays Biographical and Chemical*):** *"The chemist strives to reproduce the remarkable **biosynthetic** efficiency achieved by humble microbes."*

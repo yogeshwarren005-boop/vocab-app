@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermoelectrical
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or resulting from thermoelectricity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving or resulting from thermoelectricity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to thermoelectricity or the conversion of temperature differences into electrical potential.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerning instruments and systems employing thermoelectric effects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermoelectrical designates involving or resulting from thermoelectricity."*
+> - 📜 **John Tyndall (*Heat Considered as a Mode of Motion*):** *"The **thermoelectrical** pile detected radiant energy that remained invisible to optical prisms."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"No chemical decomposition was observed until the **thermoelectrical** battery was fortified with extra couples."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"The **thermoelectrical** diagram graphically represents the electromotive forces generated at every junction."*

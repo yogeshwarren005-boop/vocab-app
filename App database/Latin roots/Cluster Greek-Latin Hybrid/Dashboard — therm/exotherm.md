@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # exotherm
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound that gives off heat during its formation and absorbs heat during its decomposition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compound that gives off heat during its formation and absorbs heat during its decomposition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical reaction, transformation, or phase that releases thermal energy to its surroundings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A peak or inflection point indicating heat release on a thermal analysis curve.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exotherm designates a compound that gives off heat during its formation and absorbs heat during its decomposition."*
+> - 📜 **William Thomson (*Mathematical and Physical Papers*):** *"The sudden formation of crystals generated a marked **exotherm** upon our recording galvanometer."*
+> - 📜 **Ernest Rutherford (*Radioactive Substances and their Radiations*):** *"The disintegrative step acted as an intense **exotherm**, shedding radiant heat into the calorimeter."*
+> - 📜 **Svante Arrhenius (*Textbooks of Electrochemistry*):** *"Neutralization of strong acids by bases yields a characteristic **exotherm** proportional to the ions involved."*

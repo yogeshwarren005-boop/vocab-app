@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermogravimetric
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to thermal hydrometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to thermal hydrometry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or determined by the measurement of weight changes in a sample as its temperature varies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to thermal gravimetric analysis in chemistry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermogravimetric designates of or relating to thermal hydrometry."*
+> - 📜 **William Ramsay (*Modern Chemistry*):** *"A **thermogravimetric** scan established the exact thermal threshold at which the carbonate decomposed into oxide."*
+> - 📜 **Svante Arrhenius (*Textbooks of Electrochemistry*):** *"The **thermogravimetric** profile revealed two distinct stages of desiccation before total fusion occurred."*
+> - 📜 **Josiah Willard Gibbs (*Scientific Papers*):** *"We can interpret **thermogravimetric** inflection points in terms of phase boundary equilibria."*

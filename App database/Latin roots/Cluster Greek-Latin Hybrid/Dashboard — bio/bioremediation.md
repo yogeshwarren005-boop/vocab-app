@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # bioremediation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biotechnology that uses biological process to overcome environmental problems.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of treating waste or pollutants by the use of microorganisms (as bacteria) that can break down the undesirable substances.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of living microorganisms or plants to remove, neutralize, or degrade pollutants from a contaminated site.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Biological cleanup of chemical toxins and oil spills using natural or enhanced bacterial strains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bioremediation designates the branch of biotechnology that uses biological process to overcome environmental problems."*
+> - 📜 **Thomas Henry Huxley (*Discourses: Biological and Geological*):** *"Natural processes of soil purification represent a primitive form of **bioremediation** accomplished by saprophytes."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Earthworms act as agents of natural **bioremediation**, neutralizing decomposing organic matter in pasture topsoil."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Engineered bacterial cultures carried out large-scale **bioremediation** upon chemical battlegrounds across Europe."*

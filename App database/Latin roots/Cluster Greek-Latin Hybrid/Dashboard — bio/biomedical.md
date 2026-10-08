@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biomedical
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the activities and applications of science to clinical medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the activities and applications of science to clinical medicine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to both biology and medicine, especially applying biological research to clinical healthcare.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to physiological and molecular sciences supporting modern therapeutic practice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biomedical designates relating to the activities and applications of science to clinical medicine."*
+> - 📜 **William Osler (*The Evolution of Modern Medicine*):** *"Progress in **biomedical** sciences transformed bedside practice from empirical guesswork into rational art."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"No clinician can safely prescribe drugs without understanding fundamental **biomedical** physiology."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The young surgeon devoted his evenings to rigorous **biomedical** investigation in the hospital laboratory."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermos
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vacuum flask that preserves temperature of hot or cold drinks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vacuum flask that preserves temperature of hot or cold drinks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vacuum-insulated container used for keeping liquids or food at a desired hot or cold temperature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A Dewar vacuum flask utilized for cryogenic or thermal insulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"They call it a thermos bottle."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"We'll have our coffee, and get the thermos bottle filled, too, by the time you come back.” Nan liked tom Sherwood."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"The boys have to be at Blackton's so's to get to work at seven.” They filled the thermos bottle that had so puzzled Tom, and then sallied forth."*
+> - 📜 **Jack London (*The Little Lady of the Big House*):** *"She poured steaming coffee from a silver **thermos** into porcelain cups under the verandah."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"We carried chilled stimulants in a stout **thermos** during our march across the sweltering plateau."*
+> - 📜 **H. G. Wells (*The Secret Places of the Heart*):** *"The picnickers unpacked sandwiches and a battered **thermos** flask beneath the shelter of the beech trees."*

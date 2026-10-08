@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermionics
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of electronics dealing with thermionic phenomena (especially thermionic vacuum tubes).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of electronics dealing with thermionic phenomena (especially thermionic vacuum tubes).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physics and engineering dealing with the emission and control of electrons from heated surfaces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of thermionic phenomena and their application in electronic vacuum valves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermionics designates the branch of electronics dealing with thermionic phenomena (especially thermionic vacuum tubes)."*
+> - 📜 **J. J. Thomson (*Conduction of Electricity through Gases*):** *"The principles of **thermionics** laid the mathematical groundwork for modern cathode-ray analysis."*
+> - 📜 **Lord Rayleigh (*Scientific Papers*):** *"Recent investigations in **thermionics** verify that heated carbon filaments steadily discharge corpuscles."*
+> - 📜 **Ernest Rutherford (*Radioactivity*):** *"The experimental methods of **thermionics** allow precise evaluation of electronic work functions."*

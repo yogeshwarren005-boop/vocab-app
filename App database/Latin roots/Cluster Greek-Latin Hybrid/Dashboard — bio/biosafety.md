@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biosafety
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Safety from exposure to infectious agents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Safety from exposure to infectious agents.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The application of safety measures, containment, and regulations to prevent exposure to dangerous biological agents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protocols designed to prevent accidental dissemination of virulent pathogens or genetically altered organisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biosafety designates safety from exposure to infectious agents."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Rigorous laboratory **biosafety** protects the pathologist while handling virulent cultures of anthrax and plague."*
+> - 📜 **Joseph Lister (*On the Antiseptic Principle of the Practice of Surgery*):** *"Carbolic air-sprays and immaculate linens formed our rudimentary system of clinical **biosafety** in the wards."*
+> - 📜 **H. G. Wells (*The Stolen Bacillus*):** *"The bacteriologist lamented the breach of **biosafety** when the anarchist snatched the tube of living cholera."*

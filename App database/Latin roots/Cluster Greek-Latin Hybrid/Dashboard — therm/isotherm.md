@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # isotherm
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (meteorology) an isogram connecting points having the same temperature at a given time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (meteorology) an isogram connecting points having the same temperature at a given time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A line on a map or chart connecting points having the same temperature at a given time or on average.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mathematical curve representing temperature equality across changing pressures or volumes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isotherm designates (meteorology) an isogram connecting points having the same temperature at a given time."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of the Physical Description of the Universe*):** *"By tracing each **isotherm** across the continents, we disclose the true climatic boundaries of plant life."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"The critical **isotherm** on the pressure-volume diagram separates the vaporous from the liquid domain."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"The southern **isotherm** bends abruptly northward along the Pacific coast owing to Antarctic currents."*

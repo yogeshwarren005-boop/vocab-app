@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # autobiographical
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of an autobiographer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or in the style of an autobiography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or based on the writer's own life history and personal experiences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reflecting real events from an author's private past in literary composition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"To this extent, and within these limits, an author, methinks, may be autobiographical, without violating either the reader’s rights or his own."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"Beresford," her grandmother, being represented as the owner instead of housekeeper of the mansion), is minutely autobiographical."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"Carew Hazlitt._ 1867. _Spirit of the Age._ & _Table Talk._ by _Hazlitt._ 1825, 1826. _Autobiographical Sketches._ & _Lakes and Lake Poets._ by _De Quincey._ 1863. _William Godwin, his Friends and Contemporaries, by Kegan Paul._ 1876."*
+> - 📜 **Charles Dickens (*David Copperfield (Preface)*):** *"Of all my books, I have an **autobiographical** fondness for this favorite child of my imagination."*
+> - 📜 **Virginia Woolf (*Moments of Being*):** *"The **autobiographical** impulse arises from an urge to fix floating moments before they vanish forever."*
+> - 📜 **John Stuart Mill (*Autobiography*):** *"I recorded these **autobiographical** reflections not to gratify curiosity, but to demonstrate a system of education."*

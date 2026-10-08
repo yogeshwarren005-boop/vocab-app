@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermobia
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of lepismatidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of lepismatidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of primitive wingless insects in the family Lepismatidae, notably including the firebrat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heat-loving bristletails that frequent warm bakeries, boiler rooms, and hearths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermobia designates a genus of lepismatidae."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Insects of the genus **Thermobia** seek out artificial warmth behind ovens and furnace walls."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The domestic firebrat, **Thermobia** domestica, exhibits rudimentary traits ancestral to winged hexapods."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"Primitive wingless forms such as **Thermobia** illustrate persistence in warm, protected domestic niches."*

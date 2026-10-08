@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biotype
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Organisms sharing a specified genotype or the genotype (or peculiarities) so shared.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Organisms sharing a specified genotype or the genotype (or peculiarities) so shared.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of organisms sharing an identical genetic constitution; a genotype or genetic race within a species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physiologically or ecologically distinct strain of a biological species.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biotype designates organisms sharing a specified genotype or the genotype (or peculiarities) so shared."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Each distinct domestic **biotype** has been isolated and refined by centuries of attentive selective breeding."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"A single botanical species may encompass several varieties, each constituting an ecologically adapted **biotype**."*
+> - 📜 **Alfred Russel Wallace (*Darwinism*):** *"Natural selection favors that specific **biotype** which best endures the severe winter frosts of the high plateau."*

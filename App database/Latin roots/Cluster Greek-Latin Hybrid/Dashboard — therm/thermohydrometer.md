@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermohydrometer
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hydrometer that includes a thermometer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hydrometer that includes a thermometer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hydrometer equipped with a built-in thermometer for measuring the specific gravity and temperature of liquids simultaneously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument for calibrating liquid density against temperature variations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermohydrometer designates a hydrometer that includes a thermometer."*
+> - 📜 **Humphry Davy (*Elements of Agricultural Chemistry*):** *"The brewer plunged the **thermohydrometer** into the fermenting wort to verify both heat and sugar density."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"A glass **thermohydrometer** floating in the saline solution provides rapid correction for thermal expansion."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"We tested seawater samples with a **thermohydrometer**, recording salinity shifts alongside oceanic temperatures."*

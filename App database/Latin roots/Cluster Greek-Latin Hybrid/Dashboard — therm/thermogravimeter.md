@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermogravimeter
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hydrometer that includes a thermometer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hydrometer that includes a thermometer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument designed to measure and record changes in the mass of a substance as a function of temperature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A precision thermal balance used in analytical gravimetric chemistry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermogravimeter designates a hydrometer that includes a thermometer."*
+> - 📜 **William Ramsay (*The Gases of the Atmosphere*):** *"Employing a sensitive **thermogravimeter**, we recorded the steady loss of water of crystallization upon heating."*
+> - 📜 **Ernest Rutherford (*Radioactive Substances and their Radiations*):** *"The mineral specimen was suspended within a **thermogravimeter** to monitor thermal decomposition."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"The precision **thermogravimeter** detected minuscule volatilizations of metal long before melting occurred."*

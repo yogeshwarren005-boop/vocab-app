@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermalgesia
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain caused by heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pain caused by heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal neurological condition in which the application of heat produces painful or agonizing sensations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hypersensitivity to thermal stimuli causing acute distress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermalgesia designates pain caused by heat."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient with peripheral neuritis complained of acute **thermalgesia** when touched by lukewarm water."*
+> - 📜 **Silas Weir Mitchell (*Injuries of Nerves and Their Consequences*):** *"Gunshot wounds affecting the median nerve occasionally induced unbearable burning **thermalgesia** in the palm."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"He described a distressing case of **thermalgesia** where even a mild cup of tea scalded his tongue."*

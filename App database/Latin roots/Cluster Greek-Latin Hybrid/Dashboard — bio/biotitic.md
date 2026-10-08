@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biotitic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or involving biotite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or involving biotite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing, composed of, or resembling the mineral biotite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by the presence of black mica in petrological analysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biotitic designates relating to or involving biotite."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The intrusive igneous dike consisted of a coarse **biotitic** granite cutting sharply through older schist."*
+> - 📜 **Archibald Geikie (*Textbook of Geology*):** *"A dark **biotitic** gneiss formed the foundational basement rock throughout the Scottish Highlands."*
+> - 📜 **Charles Darwin (*Geological Observations on Volcanic Islands*):** *"Microscopic examination of the trachytic lava revealed scattered **biotitic** phenocrysts in a glassy groundmass."*

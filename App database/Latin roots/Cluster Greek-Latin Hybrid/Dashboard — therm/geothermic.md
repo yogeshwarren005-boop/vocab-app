@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # geothermic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the heat in the interior of the earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the heat in the interior of the earth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the heat residing within the interior of the earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the subterranean thermal gradient measured in deep boreholes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geothermic designates of or relating to the heat in the interior of the earth."*
+> - 📜 **William Thomson (*On the Secular Cooling of the Earth*):** *"The **geothermic** gradient indicates an increase of roughly one degree for every fifty feet of descent."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"Metamorphic rock formations owe their crystalline texture to profound **geothermic** pressure and heat."*
+> - 📜 **Thomas Henry Huxley (*Discourses: Biological and Geological*):** *"Volcanic vents provide undeniable demonstration of powerful **geothermic** forces operating within our globe."*

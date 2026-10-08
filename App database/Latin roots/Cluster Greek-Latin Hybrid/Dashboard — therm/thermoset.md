@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermoset
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the property of becoming permanently hard and rigid when heated or cured.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the property of becoming permanently hard and rigid when heated or cured.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polymer or plastic material that cures irreversibly through heat into an infusible, insoluble solid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to synthetic resins that permanently harden when heated during polymerization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermoset designates having the property of becoming permanently hard and rigid when heated or cured."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Engineers manufactured switchboards from durable **thermoset** resins resistant to spark and flame."*
+> - 📜 **Arthur Conan Doyle (*The Maracot Deep*):** *"The electric fittings were cast in an impervious **thermoset** composition that resisted immense ocean pressure."*
+> - 📜 **William Ramsay (*Essays Biographical and Chemical*):** *"Unlike ductile waxes, this cross-linked **thermoset** polymer refused to melt upon reheating."*

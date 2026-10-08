@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermally
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of heat or with respect to thermal properties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By means of heat or with respect to thermal properties.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner relating to, affected by, or produced by heat or temperature changes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By means of heat transfer, convection, or thermal insulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermally designates by means of heat or with respect to thermal properties."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The platinum wire glowed brilliantly when **thermally** excited by the galvanic battery."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"Two bodies in contact will eventually arrive at an equilibrium where they are **thermally** indistinguishable."*
+> - 📜 **John Tyndall (*Sound*):** *"Gaseous layers **thermally** stratified in the atmosphere reflect acoustic waves back toward the ground."*

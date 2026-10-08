@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # endothermic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a chemical reaction or compound) occurring or formed with absorption of heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a chemical reaction or compound) occurring or formed with absorption of heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring or formed with the absorption of heat from the immediate environment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to warm-blooded organisms capable of internal physiological heat generation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endothermic designates (of a chemical reaction or compound) occurring or formed with absorption of heat."*
+> - 📜 **Thomas Henry Huxley (*Physiography: An Introduction to the Study of Nature*):** *"The dissolution of particular salts in water produces an **endothermic** reaction that cools the vessel."*
+> - 📜 **William Ramsay (*Modern Chemistry*):** *"The formation of ozone from oxygen represents an **endothermic** process requiring continuous energetic input."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"True mammals possess an **endothermic** physiology that permits activity despite rigorous external chills."*

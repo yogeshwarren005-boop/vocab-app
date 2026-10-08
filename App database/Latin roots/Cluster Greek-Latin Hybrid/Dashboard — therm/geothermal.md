@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # geothermal
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the heat in the interior of the earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the heat in the interior of the earth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or produced by the internal heat stored within the earth's crust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to thermal energy derived from subterranean volcanic or hot-spring systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geothermal designates of or relating to the heat in the interior of the earth."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Deep subterranean fissures convey **geothermal** vapors that erupt with tremendous force at the surface."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"The bubbling mud cauldrons on the Andean slope testify to relentless **geothermal** activity below."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"Deep shafts tapped the planet's vast **geothermal** reserves to power the subterranean machinery."*

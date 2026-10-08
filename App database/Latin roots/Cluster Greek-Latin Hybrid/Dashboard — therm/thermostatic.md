@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermostatic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a thermostat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a thermostat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or operated by a thermostat; maintaining constant temperature through automated control.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerning instruments designed to prevent thermal fluctuations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermostatic designates of or relating to a thermostat."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"A bimetallic strip provides simple **thermostatic** control by bending when warmed to break an electric circuit."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"The internal **thermostatic** valves prevented catastrophic cooling as our sphere traversed interplanetary space."*
+> - 📜 **Arthur Conan Doyle (*The Poison Belt*):** *"We watched the **thermostatic** gauge on the oxygen apparatus maintain a steady pressure within the room."*

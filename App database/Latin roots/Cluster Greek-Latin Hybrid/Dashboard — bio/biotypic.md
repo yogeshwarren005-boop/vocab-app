@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biotypic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a biotype.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a biotype.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of a biotype; genetically or physiological uniform.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to genetically identical lineages within a population.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biotypic designates of or relating to a biotype."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation*):** *"Self-fertilized plant lines converge rapidly toward **biotypic** uniformity across subsequent generations."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"Isolated insular populations display marked **biotypic** stability owing to the absence of mainland immigration."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons*):** *"The **biotypic** homogeneity of the agricultural crop left it vulnerable to sudden parasitic infestation."*

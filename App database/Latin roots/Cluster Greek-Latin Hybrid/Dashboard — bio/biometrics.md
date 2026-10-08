@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biometrics
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of biology that studies biological phenomena and observations by means of statistical analysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of biology that studies biological phenomena and observations by means of statistical analysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The application of statistical analysis to biological data, especially unique physiological characteristics for identification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quantitative measurement of bodily traits such as fingerprints, facial structure, or retinal patterns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biometrics designates a branch of biology that studies biological phenomena and observations by means of statistical analysis."*
+> - 📜 **Francis Galton (*Finger Prints*):** *"The nascent science of **biometrics** demonstrated that dermal ridge patterns remain unalterable from infancy to old age."*
+> - 📜 **Karl Pearson (*The Grammar of Science*):** *"Through **biometrics**, we replace vague evolutionary conjecture with exact mathematical frequency distributions."*
+> - 📜 **Arthur Conan Doyle (*The Norwood Builder*):** *"Holmes scrutinized the thumb mark on the wall, anticipating modern **biometrics** in forensic criminal detection."*

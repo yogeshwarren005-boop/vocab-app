@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hypothermia
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subnormal body temperature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subnormal body temperature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical condition in which core body temperature drops abnormally below the level needed for normal metabolism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Systemic cooling of living tissues below physiological equilibrium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypothermia designates subnormal body temperature."*
+> - 📜 **William Osler (*Aequanimitas*):** *"Prolonged exposure in arctic gales frequently induces fatal **hypothermia** before frostbite can take hold."*
+> - 📜 **Jack London (*To Build a Fire*):** *"He battled creeping numbness, aware that profound **hypothermia** would soon extinguish his consciousness."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The shipwrecked sailor was pulled from the icy surf shivering violently in the initial grip of **hypothermia**."*

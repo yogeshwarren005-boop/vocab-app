@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # nonthermal
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not involving heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not involving heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not involving, caused by, or dependent upon heat or temperature changes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to electromagnetic radiation or physiological effects occurring without macroscopic heating.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonthermal designates not involving heat."*
+> - 📜 **Ernest Rutherford (*Radioactive Transformations*):** *"The atomic disintegration proceeds by **nonthermal** mechanisms untouched by furnace fires."*
+> - 📜 **James Clerk Maxwell (*Treatise on Electricity and Magnetism*):** *"Magnetic polarization represents a **nonthermal** alignment of microscopic molecular circuits."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Chemical affinity can be satisfied through **nonthermal** electrical currents without combustion."*

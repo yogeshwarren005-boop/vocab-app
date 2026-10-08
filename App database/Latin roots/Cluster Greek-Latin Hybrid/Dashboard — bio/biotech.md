@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biotech
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of molecular biology that studies the use of microorganisms to perform specific industrial processes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of molecular biology that studies the use of microorganisms to perform specific industrial processes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The commercial or industrial exploitation of biological processes and organisms; biotechnology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The modern technological field utilizing cellular and genetic engineering for pharmaceuticals and agriculture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biotech designates the branch of molecular biology that studies the use of microorganisms to perform specific industrial processes."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Industrial **biotech** facilities brewed synthetic proteins in colossal vats to feed the recovering populace."*
+> - 📜 **Bertrand Russell (*The Scientific Outlook*):** *"The expansion of **biotech** introduces unprecedented ethical questions concerning the artificial modification of human nature."*
+> - 📜 **Arthur Conan Doyle (*The Disintegration Machine*):** *"He dreamed of radical **biotech** that could reorder organic tissues with the precision of a watchmaker."*

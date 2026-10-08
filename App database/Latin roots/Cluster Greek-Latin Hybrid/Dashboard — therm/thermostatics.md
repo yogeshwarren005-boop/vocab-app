@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermostatics
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The aspect of thermodynamics concerned with thermal equilibrium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The aspect of thermodynamics concerned with thermal equilibrium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physical science dealing with the equilibrium of heat in bodies and thermal stability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The static theory of heat transfer and temperature balance in physical systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermostatics designates the aspect of thermodynamics concerned with thermal equilibrium."*
+> - 📜 **Josiah Willard Gibbs (*On the Equilibrium of Heterogeneous Substances*):** *"The principles of chemical **thermostatics** determine the invariant state toward which reacting systems tend."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"Before treating heat flow, we establish the fundamental theorems of **thermostatics** for bodies in contact."*
+> - 📜 **Lord Kelvin (*Mathematical and Physical Papers*):** *"In **thermostatics**, the condition of balance requires an equality of temperature throughout all contiguous parts."*

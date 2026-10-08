@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermohydrometric
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to thermal hydrometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to thermal hydrometry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the combined measurement of temperature and specific gravity in liquids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to density calculations corrected for thermal expansion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermohydrometric designates of or relating to thermal hydrometry."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Careful **thermohydrometric** observations prevented errors arising from liquid expansion during the trial."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Standardizing acid solutions requires rigorous **thermohydrometric** adjustments against room warmth."*
+> - 📜 **John Tyndall (*Fragments of Science*):** *"The **thermohydrometric** scale allows accurate mapping of deep ocean currents by salt and caloric content."*

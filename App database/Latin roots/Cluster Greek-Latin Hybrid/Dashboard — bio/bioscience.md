@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # bioscience
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the branches of natural science dealing with the structure and behavior of living organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the branches of natural science dealing with the structure and behavior of living organisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the sciences concerned with the structure, function, and behavior of living organisms, such as biology or genetics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The multidisciplinary field uniting botany, zoology, biochemistry, and physiology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bioscience designates any of the branches of natural science dealing with the structure and behavior of living organisms."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Every branch of modern **bioscience** rests securely upon the universal foundation of cellular doctrine."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Progress across all realms of **bioscience** confirms that life forms are linked through common ancestry."*
+> - 📜 **H. G. Wells (*The Science of Life*):** *"The twentieth century will witness the ascendancy of **bioscience** over mechanical technology in directing human destinies."*

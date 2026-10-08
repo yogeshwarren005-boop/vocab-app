@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermometry
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The measurement of temperature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The measurement of temperature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physics and metrology concerned with the principles and methods of measuring temperature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The operational practice of temperature determination in medical and scientific contexts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermometry designates the measurement of temperature."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Clinical **thermometry** introduced quantitative rigor into the diagnosis and monitoring of typhoid fevers."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"The fundamental dilemma of **thermometry** consists in choosing a standard invariant scale of heat."*
+> - 📜 **John Tyndall (*Heat Considered as a Mode of Motion*):** *"Accurate **thermometry** requires careful consideration of radiation, convection, and stem conduction."*

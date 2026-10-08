@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biosystematy
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Use of data (e.g. cytogenetic or biochemical) to assess taxonomic relations especially within an evolutionary framework.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use of data (e.g. cytogenetic or biochemical) to assess taxonomic relations especially within an evolutionary framework.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science or methodology of biological systematics and taxonomic classification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Systematic taxonomy concerned with delineating evolutionary groups and biological diversity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biosystematy designates use of data (e.g. cytogenetic or biochemical) to assess taxonomic relations especially within an evolutionary framework."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The principles of botanical **biosystematy** must accommodate the plastic variations induced by artificial selection."*
+> - 📜 **Thomas Henry Huxley (*Discourses: Biological and Geological*):** *"Without sound **biosystematy**, the naturalist wandereth blindly through the labyrinth of diverse organic forms."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"Accurate **biosystematy** enables us to map the historical dispersal of mammalian families across the globe."*

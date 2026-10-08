@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermoplastic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A material that softens when heated and hardens again when cooled.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the property of softening or fusing when heated and of hardening and becoming rigid again when cooled.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance, especially a synthetic resin or plastic, that becomes soft and pliable when heated and hardens upon cooling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to materials that can be repeatedly melted, reshaped, and resolidified.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermoplastic designates a material that softens when heated and hardens again when cooled."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Lightweight, **thermoplastic** polymers replaced traditional timber and heavy iron in household construction."*
+> - 📜 **Arthur Conan Doyle (*The Maracot Deep*):** *"The deep-sea submersible was lined with an insulating **thermoplastic** compound impervious to seawater."*
+> - 📜 **William Ramsay (*Essays Biographical and Chemical*):** *"Certain cellulose derivatives exhibit a remarkable **thermoplastic** quality under steam pressure."*

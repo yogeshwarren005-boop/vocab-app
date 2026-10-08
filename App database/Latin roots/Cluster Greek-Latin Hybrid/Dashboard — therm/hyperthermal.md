@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hyperthermal
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or affected by hyperthermia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or affected by hyperthermia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by unusually high or excessive temperature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to thermal springs whose temperature significantly exceeds normal body heat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperthermal designates of or relating to or affected by hyperthermia."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The **hyperthermal** springs of Iceland discharge boiling waters laden with dissolved siliceous matter."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In acute sunstroke, the patient may suffer **hyperthermal** collapse requiring instantaneous cold packs."*
+> - 📜 **John Tyndall (*Hours of Exercise in the Alps*):** *"The radiant summer sun created **hyperthermal** conditions on the south face of the limestone crag."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermocoagulation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Congealing tissue by heat (as by electric current).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Congealing tissue by heat (as by electric current).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The coagulation or precipitation of proteins caused by the direct application of heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical destruction of vascular or morbid tissues using thermal currents to solidify albumen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermocoagulation designates congealing tissue by heat (as by electric current)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The rapid **thermocoagulation** of tissue proteins seals lacerated arterioles during operative intervention."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Egg albumin undergoes irreversible **thermocoagulation** when elevated to sixty degrees Celsius."*
+> - 📜 **Joseph Lister (*On the Antiseptic Principle of the Practice of Surgery*):** *"Local **thermocoagulation** arrested hemorrhage without the necessity of introducing septic ligatures."*

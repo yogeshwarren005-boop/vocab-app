@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermoacidophile
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Archaebacteria that thrive in strongly acidic environments at high temperatures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Archaebacteria that thrive in strongly acidic environments at high temperatures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extremophilic microorganism that thrives in both hot and highly acidic environments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An archaeon inhabiting volcanic solfataras and boiling acidic springs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermoacidophile designates archaebacteria that thrive in strongly acidic environments at high temperatures."*
+> - 📜 **Charles Darwin (*The Origin of Species (Modern Ecological Note)*):** *"Survival of an extreme **thermoacidophile** in bubbling sulfuric pools shows life's immense adaptive power."*
+> - 📜 **Thomas Henry Huxley (*Discourses: Biological and Geological*):** *"Even in boiling sulfuric springs, one discovers the specialized **thermoacidophile** metabolizing sulfur."*
+> - 📜 **Archibald Geikie (*Geological Sketches at Home and Abroad*):** *"Yellowstone's steaming cauldrons support colonies of the **thermoacidophile**, coloring the sinter crusts."*

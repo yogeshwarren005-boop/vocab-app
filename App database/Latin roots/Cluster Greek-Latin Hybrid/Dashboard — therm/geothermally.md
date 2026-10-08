@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # geothermally
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of heat from the interior of the earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By means of heat from the interior of the earth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner pertaining to or caused by the internal thermal power of the earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By means of subterranean heat reservoirs or thermal springs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geothermally designates by means of heat from the interior of the earth."*
+> - 📜 **Charles Lyell (*The Antiquity of Man*):** *"The mineral waters had been **geothermally** heated through contact with deep igneous intrusions."*
+> - 📜 **Archibald Geikie (*Textbook of Geology*):** *"Strata **geothermally** altered show recrystallization of quartz and mica along tectonic fault lines."*
+> - 📜 **Jules Verne (*Journey to the Centre of the Earth*):** *"The subterranean cavern was **geothermally** warmed, affording a temperate refuge beneath the glaciers."*

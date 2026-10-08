@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biocatalyst
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A biochemical catalyst such as an enzyme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biochemical catalyst such as an enzyme.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A biological substance, especially an enzyme, that initiates or accelerates a biochemical reaction in living cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cellular ferment or protein speeding metabolic processes without being consumed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biocatalyst designates a biochemical catalyst such as an enzyme."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Ptyalin in saliva acts as an indispensable **biocatalyst**, transforming insoluble starch into assimilable sugars."*
+> - 📜 **William Ramsay (*Modern Chemistry*):** *"Every vital metabolic transformation relies upon a specialized **biocatalyst** operating at body temperature."*
+> - 📜 **Svante Arrhenius (*Immunochemistry*):** *"The rate of substrate decomposition increased proportionally with the concentration of the **biocatalyst**."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # autobiographic
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of an autobiographer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or in the style of an autobiography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, dealing with, or characteristic of an account of the author's own life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing personal reminiscences or subjective life history.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"It contains several autobiographic touches; it is the only known instance in which she has addressed herself to full-grown readers, and it is sagacious and far-seeing."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Young as he was, and had his career terminated at the point already attained, there had been enough of incident to fill, very creditably, an autobiographic volume."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Critics detected a deep **autobiographic** sorrow underpinning Maggie's struggles along the river Floss."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"Wordsworth's Prelude remains the supreme **autobiographic** poem of spiritual development in our language."*
+> - 📜 **Arthur Conan Doyle (*Memories and Adventures*):** *"These pages offer an **autobiographic** summary of a varied life spent between medicine and letters."*

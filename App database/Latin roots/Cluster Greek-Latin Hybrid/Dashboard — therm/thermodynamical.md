@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermodynamical
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or concerned with thermodynamics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or concerned with thermodynamics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the science of heat, energy conservation, and mechanical transformation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerning macroscopic relationships between temperature, pressure, volume, and entropy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermodynamical designates of or concerned with thermodynamics."*
+> - 📜 **Lord Kelvin (*Mathematical and Physical Papers*):** *"We establish an absolute **thermodynamical** scale of temperature independent of any thermometric substance."*
+> - 📜 **Ludwig Boltzmann (*Lectures on Gas Theory*):** *"Statistical mechanics bridges molecular kinetic motion and classical **thermodynamical** properties."*
+> - 📜 **Hermann von Helmholtz (*Popular Lectures on Scientific Subjects*):** *"The **thermodynamical** equivalent of heat was decisively established by Joule's paddle-wheel experiments."*

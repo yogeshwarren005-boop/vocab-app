@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermostatically
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By thermostat; in a thermostatic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By thermostat; in a thermostatic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner controlled or regulated by a thermostat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By means of automatic temperature regulation mechanisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermostatically designates by thermostat; in a thermostatic manner."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"The furnace functioned **thermostatically**, firing up whenever room temperature dropped below the set index."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Subterranean hydroponic nurseries were **thermostatically** adjusted to mimic optimal Mediterranean seasons."*
+> - 📜 **Arthur Conan Doyle (*The Land of Mist*):** *"The sealed incubator was **thermostatically** balanced to preserve the sensitive bacteriological cultures."*

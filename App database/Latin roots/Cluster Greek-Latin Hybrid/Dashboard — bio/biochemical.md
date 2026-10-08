@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biochemical
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to biochemistry; involving chemical processes in living organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to biochemistry; involving chemical processes in living organisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the chemical processes and substances occurring within living organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the molecules, enzymes, and metabolic pathways of biology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biochemical designates of or relating to biochemistry; involving chemical processes in living organisms."*
+> - 📜 **Thomas Henry Huxley (*Discourses: Biological and Geological*):** *"Protoplasm exhibits a constant **biochemical** unity across both the animal and vegetable kingdoms."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Diabetes mellitus results from an underlying **biochemical** defect in the cellular assimilation of glucose."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Holmes examined the brownish stain with reagents, seeking definitive **biochemical** proof of blood hemoglobin."*

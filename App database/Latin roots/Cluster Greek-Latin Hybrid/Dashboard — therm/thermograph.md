@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermograph
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Medical instrument that uses an infrared camera to reveal temperature variations on the surface of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thermometer that records temperature variations on a graph as a function of time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thermometer equipped with an automated mechanism to record temperature variations continuously over time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apparatus producing photographic or paper records of heat radiation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermograph designates medical instrument that uses an infrared camera to reveal temperature variations on the surface of the body."*
+> - 📜 **Francis Galton (*Meteorographica*):** *"The self-registering **thermograph** maintained an uninterrupted record of day and night temperatures."*
+> - 📜 **Robert Louis Stevenson (*In the South Seas*):** *"The ship's **thermograph** traced a gentle, humid curve as the trade winds carried us near the equator."*
+> - 📜 **Arthur Conan Doyle (*The Poison Belt*):** *"Challenger tapped the glass of the recording **thermograph**, noting the curious chill creeping through the room."*

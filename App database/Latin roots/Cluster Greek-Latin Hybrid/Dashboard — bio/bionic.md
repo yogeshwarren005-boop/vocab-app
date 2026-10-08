@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # bionic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to bionics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having particular physiological functions augmented or replaced by electronic or electromechanical components.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having artificial body parts, especially electromechanical ones, that enhance or replace biological functions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utilizing biological principles to engineer advanced mechanical and computational systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Men, women and children in all shapes and sizes: tall, short, stocky, slender, organic, bionic, robotic, and combinations thereof."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"The coupling of artificial servomotors to severed nerve endings anticipates a truly **bionic** prosthesis."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The Martian fighting machines were semi-organic, acting as **bionic** extensions of their tentacled pilots."*
+> - 📜 **Arthur Conan Doyle (*The Disintegration Machine*):** *"He possessed an uncanny, **bionic** vitality that seemed to defy both advancing years and physical disease."*

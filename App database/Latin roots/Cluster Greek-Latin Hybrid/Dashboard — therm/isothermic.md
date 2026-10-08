@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # isothermic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an isotherm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an isotherm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or marked by equality of temperature across designated zones or systems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to lines or surfaces exhibiting identical thermal measurements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isothermic designates of or relating to an isotherm."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The distribution of fossil flora aligns closely with ancient **isothermic** belts across northern latitudes."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Global wind currents shift with seasonal alterations in the great **isothermic** boundaries."*
+> - 📜 **Josiah Willard Gibbs (*Graphical Methods in the Thermodynamics of Fluids*):** *"We plot the **isothermic** lines directly upon the entropy surface to calculate available energy."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biologism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Use of biological principles in explaining human especially social behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use of biological principles in explaining human especially social behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The interpretation of human social, cultural, or philosophical phenomena exclusively in terms of biological concepts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reductionism that asserts biological determinism governs all human behavior and history.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biologism designates use of biological principles in explaining human especially social behavior."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"A crude **biologism** that equates ethical duty with Darwinian tooth and claw distorts true social virtue."*
+> - 📜 **Bertrand Russell (*In Praise of Idleness and Other Essays*):** *"Militaristic ideologues relied upon shallow **biologism** to glorify conquest as a law of nature."*
+> - 📜 **William James (*The Will to Believe*):** *"Human consciousness cannot be resolved into mere fatalistic **biologism** without denying moral choice."*

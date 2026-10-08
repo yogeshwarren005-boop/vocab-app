@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermotropism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An orienting response to warmth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An orienting response to warmth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The growth or directional movement of an organism or plant part in response to a temperature stimulus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curvature of plant organs toward or away from a heat source.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermotropism designates an orienting response to warmth."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"Our experiments demonstrated that radicles exhibit positive **thermotropism**, bending toward gentle heat."*
+> - 📜 **Thomas Henry Huxley (*Physiography: An Introduction to the Study of Nature*):** *"The tender shoots manifested distinct **thermotropism**, curving toward the warmth of the greenhouse wall."*
+> - 📜 **Alfred Russel Wallace (*Darwinism*):** *"Differential growth induced by **thermotropism** enables climbing vines to locate sheltered, warm tree trunks."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermoelectric
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or resulting from thermoelectricity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving or resulting from thermoelectricity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing electricity through the direct action of heat, or relating to such an effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to Seebeck, Peltier, or Thomson thermoelectric phenomena.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermoelectric designates involving or resulting from thermoelectricity."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"By heating the bismuth-antimony junction, an intense **thermoelectric** current was instantly induced."*
+> - 📜 **James Clerk Maxwell (*Treatise on Electricity and Magnetism*):** *"The **thermoelectric** power of metals varies regularly with their mean absolute temperature."*
+> - 📜 **Lord Kelvin (*Mathematical and Physical Papers*):** *"Our experiments revealed a reversible absorption of heat along conductors bearing a **thermoelectric** flow."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermometrograph
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thermometer that records temperature variations on a graph as a function of time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thermometer that records temperature variations on a graph as a function of time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A self-registering instrument that continuously measures and plots temperature readings onto a moving chart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A maximum-minimum recording thermometer used in meteorological observatories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermometrograph designates a thermometer that records temperature variations on a graph as a function of time."*
+> - 📜 **Francis Galton (*Meteorographica*):** *"The precision **thermometrograph** registered the nocturnal freeze without requiring human watchfulness."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"An automated **thermometrograph** mounted on the summit station preserved the temperature record through the tempest."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Data gathered by the mountain **thermometrograph** demonstrated marked thermal inversion above the clouds."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermodynamically
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to thermodynamics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to thermodynamics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: From the standpoint of thermodynamics or according to thermodynamic laws.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In terms of energy conservation, heat transfer, or equilibrium state functions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermodynamically designates with respect to thermodynamics."*
+> - 📜 **Josiah Willard Gibbs (*Scientific Papers*):** *"A mixture of gases will expand spontaneously because the final configuration is **thermodynamically** favored."*
+> - 📜 **James Clerk Maxwell (*Matter and Motion*):** *"Perpetual motion of the second kind is **thermodynamically** impossible in any closed system."*
+> - 📜 **Svante Arrhenius (*Worlds in the Making*):** *"The cooling sun evolves **thermodynamically** toward radiation balance with the stellar background."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermometer
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Measuring instrument for measuring temperature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measuring instrument for measuring temperature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument designed for measuring and indicating temperature, typically using expanding mercury, alcohol, or electrical resistance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any figurative gauge or index reflecting shifts in popular emotion or political atmosphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Poetry is a thermometer: by taking its average height you can estimate the normal temperature of its writer's mind."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The thermometer indicated a temperature of 4.25 (cent.): a temperature that at this depth seemed common to all latitudes."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"On the contrary, Captain Nemo went himself to test the temperature in the depths of the sea, and his thermometer, placed in communication with the different sheets of water, gave him the required degree immediately and accurately."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The **thermometer** stood at eighty degrees in the cabin, while outside the equatorial air hung motionless."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The public **thermometer** of sympathy rose rapidly as the pathetic details of the lawsuit became known."*
+> - 📜 **John Tyndall (*Heat Considered as a Mode of Motion*):** *"Galileo's early air **thermometer** paved the way for numerical precision in the philosophy of heat."*

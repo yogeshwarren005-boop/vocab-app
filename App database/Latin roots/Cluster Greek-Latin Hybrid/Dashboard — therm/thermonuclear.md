@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermonuclear
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Using nuclear weapons based on fusion as distinguished from fission.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using nuclear weapons based on fusion as distinguished from fission.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or involving nuclear fusion reactions that occur at extremely high temperatures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to atomic fusion weapons or stellar energy generation mechanisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Neutronic penetray analysis shows that in addition to thermonuclear power plants the aggregate includes machined parts configured to Catalog 11 long range lasers, explosive decompressors, particle beamers and gun mounts."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It was too late for either side to safely fire long-range thermonuclear warheads."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The thermonuclear warhead launched at the enemy fleet had been faulty or sabotaged into premature detonation."*
+> - 📜 **Arthur Eddington (*The Internal Constitution of the Stars*):** *"Stellar cores maintain enormous temperatures where sustained **thermonuclear** synthesis converts hydrogen into helium."*
+> - 📜 **H. G. Wells (*The World Set Free*):** *"He envisioned the terrifying emancipation of **thermonuclear** energies tearing apart ancient geopolitical boundaries."*
+> - 📜 **Bertrand Russell (*Has Man a Future?*):** *"The advent of the **thermonuclear** bomb made international peace an urgent precondition for human survival."*

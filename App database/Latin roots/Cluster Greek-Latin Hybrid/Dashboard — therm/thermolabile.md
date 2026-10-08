@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermolabile
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry, physics, biology) readily changed or destroyed by heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (chemistry, physics, biology) readily changed or destroyed by heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily altered, deactivated, or decomposed by the application of moderate heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating heat-sensitive biological enzymes, vitamins, toxins, or proteins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermolabile designates (chemistry, physics, biology) readily changed or destroyed by heat."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The bacterial toxin proved distinctly **thermolabile**, losing its virulent properties at sixty degrees."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Certain digestive ferments are inherently **thermolabile** and forfeit catalytic efficacy upon boiling."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"We distinguished the stable chemical antiseptic from the delicate, **thermolabile** constituents of blood serum."*

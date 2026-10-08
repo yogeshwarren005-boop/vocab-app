@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biont
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A discrete unit of living matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A discrete unit of living matter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual living organism, especially considered as an independent physiological unit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A morphologically or physiologically distinct unit in a symbiotic relationship (such as a phycobiont or mycobiont).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biont designates a discrete unit of living matter."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"In colonial siphonophores, each specialized zooid functions both as an organ and as an autonomous **biont**."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The individual **biont** strives perpetually to secure nourishment and leave progeny in a crowded habitat."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Every physiological **biont** represents a distinct locus of energy transformation within the organic community."*

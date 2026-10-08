@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermotherapy
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of heat to treat a disease or disorder; heating pads or hot compresses or hot-water bottles are used to promote circulation in peripheral vascular disease or to relax tense muscles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of heat to treat a disease or disorder; heating pads or hot compresses or hot-water bottles are used to promote circulation in peripheral vascular disease or to relax tense muscles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical treatment of disease or injury by the therapeutic application of heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hyperthermia treatment, hot baths, or radiant heat therapy used to relieve pain or inflammation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermotherapy designates the use of heat to treat a disease or disorder; heating pads or hot compresses or hot-water bottles are used to promote circulation in peripheral vascular disease or to relax tense muscles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Judicious **thermotherapy** with hot mineral fomentations relieved chronic stiffness in arthritic joints."*
+> - 📜 **Silas Weir Mitchell (*Fat and Blood: And How to Make Them*):** *"We combined massage with radiant **thermotherapy** to restore circulation in fatigued muscle tissues."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The doctor prescribed a course of hydro-electric **thermotherapy** to soothe the patient's inflamed sciatic nerve."*

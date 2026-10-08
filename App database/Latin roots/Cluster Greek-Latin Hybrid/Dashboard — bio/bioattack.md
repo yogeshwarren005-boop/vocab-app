@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # bioattack
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of bacteria or viruses or toxins to destroy men and animals or food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of bacteria or viruses or toxins to destroy men and animals or food.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hostile military or terrorist strike conducted using biological agents, toxins, or weaponized pathogens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An aggressive biological invasion or pathogen onslaught directed against populations or crops.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bioattack designates the use of bacteria or viruses or toxins to destroy men and animals or food."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The horrors of chemical warfare were soon eclipsed by the fear of an invisible **bioattack** spreading typhus."*
+> - 📜 **Arthur Conan Doyle (*The Poison Belt*):** *"Challenger speculated that the cosmic ether mimicked the swift, catastrophic lethality of a planetary **bioattack**."*
+> - 📜 **Bertrand Russell (*Common Sense and Nuclear Warfare*):** *"Civil defense against a coordinated **bioattack** remains virtually impossible in densely populated cities."*

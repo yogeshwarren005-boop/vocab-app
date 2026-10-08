@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biosynthesis
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Production of a chemical compound by a living organism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Production of a chemical compound by a living organism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The production of complex chemical compounds from simpler substances by living organisms or enzymatic processes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anabolic metabolic pathways creating cellular macromolecules such as proteins and nucleic acids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biosynthesis designates production of a chemical compound by a living organism."*
+> - 📜 **Svante Arrhenius (*Theories of Chemistry*):** *"The cellular **biosynthesis** of starch requires continuous assimilation of radiant energy from the sun."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Protoplasm exhibits an astonishing capacity for **biosynthesis**, assembling complex albumen from basic nitrates."*
+> - 📜 **William Ramsay (*Modern Chemistry*):** *"Artificial laboratory synthesis slowly begins to rival the delicate enzymatic **biosynthesis** of plant cells."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # probiotic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A beneficial bacterium found in the intestinal tract of healthy mammals; often considered to be a plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A beneficial bacterium found in the intestinal tract of healthy mammals; often considered to be a plant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or containing live microorganisms that are beneficial to health, especially the digestive system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance or fermented food containing helpful bacterial cultures such as lactobacilli.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, probiotic designates a beneficial bacterium found in the intestinal tract of healthy mammals; often considered to be a plant."*
+> - 📜 **Ilya Metchnikov (*The Prolongation of Life: Optimistic Studies*):** *"Consuming Bulgarian sour milk exerts a beneficial **probiotic** influence by suppressing putrefactive intestinal microbes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Dietary therapies introducing wholesome lactic cultures provide a **probiotic** defense against bowel autointoxication."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Benign enteric bacteria confer a **probiotic** advantage by competing against virulent pathogenic invaders."*

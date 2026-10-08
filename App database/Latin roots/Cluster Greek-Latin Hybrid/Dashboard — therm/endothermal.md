@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # endothermal
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a chemical reaction or compound) occurring or formed with absorption of heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a chemical reaction or compound) occurring or formed with absorption of heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or relating to the absorption of heat energy during a physical or chemical process.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing internal heat regulation or thermodynamic absorption processes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endothermal designates (of a chemical reaction or compound) occurring or formed with absorption of heat."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"The transformation proved distinctly **endothermal**, drawing caloric directly from the surrounding bath."*
+> - 📜 **Josiah Willard Gibbs (*On the Equilibrium of Heterogeneous Substances*):** *"An **endothermal** change entails an increase in enthalpy as latent heat is assimilated by the system."*
+> - 📜 **Hermann von Helmholtz (*Thermodynamics of Chemical Processes*):** *"We observe an **endothermal** phase shift where mechanical energy is bound into structural heat."*

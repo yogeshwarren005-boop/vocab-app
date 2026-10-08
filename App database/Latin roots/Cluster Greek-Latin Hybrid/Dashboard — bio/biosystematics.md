@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biosystematics
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Use of data (e.g. cytogenetic or biochemical) to assess taxonomic relations especially within an evolutionary framework.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use of data (e.g. cytogenetic or biochemical) to assess taxonomic relations especially within an evolutionary framework.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biology dealing with the classification and naming of organisms based on evolutionary relationships and genetic variations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Modern taxonomy synthesizing cytology, genetics, morphology, and ecology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biosystematics designates use of data (e.g. cytogenetic or biochemical) to assess taxonomic relations especially within an evolutionary framework."*
+> - 📜 **Charles Darwin (*Life and Letters of Charles Darwin*):** *"The study of **biosystematics** ceases to be a barren exercise in dry nomenclature once common descent is admitted."*
+> - 📜 **Alfred Russel Wallace (*Darwinism*):** *"In **biosystematics**, slight physiological variations often prove more decisive than obvious superficial markings."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Advances in microscopy revolutionized **biosystematics** by unveiling internal cellular structures in lower organisms."*

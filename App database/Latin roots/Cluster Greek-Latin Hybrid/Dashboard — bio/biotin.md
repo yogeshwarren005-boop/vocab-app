@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biotin
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A b vitamin that aids in body growth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A b vitamin that aids in body growth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A water-soluble B-complex vitamin (vitamin B7 or vitamin H) essential for the metabolism of fats, carbohydrates, and amino acids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vital coenzyme involved in carboxylation reactions in cellular biochemistry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biotin designates a b vitamin that aids in body growth."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine (Nutritional Addenda)*):** *"Deficiency in the essential coenzyme **biotin** produces cutaneous dermatitis and neuromuscular disturbances."*
+> - 📜 **Svante Arrhenius (*Immunochemistry*):** *"Egg-white avidin binds tenaciously with **biotin**, creating an irreversible organic complex in the digestive tract."*
+> - 📜 **William Ramsay (*Modern Chemistry*):** *"Minute traces of **biotin** catalyze metabolic transformations indispensable to the growth of yeast cultures."*

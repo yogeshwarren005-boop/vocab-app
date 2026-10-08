@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermocouple
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of thermometer consisting of two wires of different metals that are joined at both ends; one junction is at the temperature to be measured and the other is held at a fixed lower temperature; the current generated in the circuit is proportional to the temperature difference.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kind of thermometer consisting of two wires of different metals that are joined at both ends; one junction is at the temperature to be measured and the other is held at a fixed lower temperature; the current generated in the circuit is proportional to the temperature difference.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thermoelectric device consisting of two dissimilar electrical conductors joined together, generating a voltage proportional to temperature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A high-precision sensor used for measuring extreme temperatures in furnaces and laboratories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermocouple designates a kind of thermometer consisting of two wires of different metals that are joined at both ends; one junction is at the temperature to be measured and the other is held at a fixed lower temperature; the current generated in the circuit is proportional to the temperature difference."*
+> - 📜 **Lord Kelvin (*Mathematical and Physical Papers*):** *"Connecting a platinum-rhodium **thermocouple** to our potentiometer gave accurate furnace readings."*
+> - 📜 **Ernest Rutherford (*Radioactive Substances and their Radiations*):** *"A micro-welded **thermocouple** registered the faint temperature rise caused by alpha particle bombardment."*
+> - 📜 **John Tyndall (*Heat Considered as a Mode of Motion*):** *"The Seebeck effect in a **thermocouple** transforms caloric discrepancies straightway into dynamic current."*

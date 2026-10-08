@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # bionomical
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the science of ecology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the science of ecology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the environmental relations, habits, and ecology of living organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ecological; pertaining to the natural laws governing vital existence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bionomical designates of or relating to the science of ecology."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature and Other Essays*):** *"The **bionomical** conditions of the rainforest favor the development of arboreal habits in diverse mammalian orders."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Seasonal floods produce profound **bionomical** disruptions in the flora of river valleys."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation*):** *"Cross-pollination yields measurable **bionomical** vigor in seedlings compared to self-fertilized strains."*

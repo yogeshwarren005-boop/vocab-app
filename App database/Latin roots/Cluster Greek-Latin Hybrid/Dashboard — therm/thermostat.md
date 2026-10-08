@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermostat
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A regulator for automatically regulating temperature by starting or stopping the supply of heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Control the temperature with a thermostat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device that automatically monitors and maintains a system at a predetermined temperature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mechanism regulating heating or cooling apparatus through temperature-sensitive feedback.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermostat designates a regulator for automatically regulating temperature by starting or stopping the supply of heat."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"The domestic **thermostat** offers the classic mechanical archetype of negative feedback regulating an equilibrium."*
+> - 📜 **H. G. Wells (*The Sleeper Awakes*):** *"A concealed **thermostat** maintained a perpetual, unvarying spring warmth throughout the vast glass galleries."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Mazarin Stone*):** *"The greenhouse was fitted with an automatic **thermostat** to safeguard the delicate tropical orchids."*

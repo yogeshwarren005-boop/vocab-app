@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biotic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to living organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to living organisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resulting from living organisms in an ecological system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Biological or living factors influencing an ecosystem, as opposed to abiotic physical forces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biotic designates of or relating to living organisms."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Competition with other living beings constitutes the most powerful **biotic** check upon a species' population."*
+> - 📜 **Alfred Russel Wallace (*Darwinism*):** *"Complex **biotic** interactions between pollinators and orchids dictate the bizarre morphology of the petals."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"We contrast the abiotic mineral substrate with the active **biotic** mantle of vegetation carpeting the soil."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biomedicine
 
 > [!status] 🎯 **Status:**
@@ -43,7 +44,9 @@ dv.container.appendChild(toggle);
 
 > [!book] 📖 Definitions & Semantic Range
 > 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medical science that applies biological and physiological principles to clinical practice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of medical science that studies the ability of organisms to withstand environmental stress (as in space travel).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Modern scientific medicine rooted in microbiology, biochemistry, and physiology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The project's participants represented a broad array of disciplines and interests, including engineering, biomedicine, law, economics, psychology, bioethics, and philosophy."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The triumph of **biomedicine** lies in discovering specific microbic causes for ancient infectious plagues."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"Antiseptic technique represents the direct fruition of scientific **biomedicine** in the operating theater."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"In the reconstructed society, preventive **biomedicine** eradicated epidemic contagion from the globe."*

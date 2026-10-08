@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # bioengineering
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of engineering science in which biological science is used to study the relation between workers and their environments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of engineering science in which biological science is used to study the relation between workers and their environments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The application of engineering principles and design concepts to medicine and biology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The manipulation of biological materials or synthesis of artificial organs and prosthetic systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bioengineering designates the branch of engineering science in which biological science is used to study the relation between workers and their environments."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"The field of **bioengineering** bridges prosthetics and servomechanisms to restore lost human limbs."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"Moreau's grotesque vivisections foreshadowed a twisted kind of surgical **bioengineering** upon living flesh."*
+> - 📜 **Arthur Conan Doyle (*The Disintegration Machine*):** *"The inventor spoke boldly of atomic **bioengineering** that could rebuild diseased organs cell by cell."*

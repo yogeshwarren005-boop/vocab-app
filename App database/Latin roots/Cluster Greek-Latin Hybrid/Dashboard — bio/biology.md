@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biology
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science that studies living organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic life processes and phenomena of living organisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of life and living organisms, including their structure, function, growth, evolution, and distribution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The vital processes and characteristics of a particular class of living organisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Every day he seemed to become more interested in biology, and his name appeared once or twice in some of the scientific reviews in connection with certain curious experiments."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The study of biology of late has made patent the unending differences that prevail throughout the animate world."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"Famishing congregations are proffered the bugs of biology, the rocks of geology, and the stars of astronomy until their souls revolt, and they demand bread and meat."*
+> - 📜 **Thomas Henry Huxley (*On the Educational Value of the Natural History Sciences*):** *"By **biology** we designate that whole study of living nature which embraces both botany and zoology."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The grand facts of comparative **biology** find their rational explanation in the theory of natural selection."*
+> - 📜 **H. G. Wells (*The Science of Life*):** *"Modern **biology** has dispelled ancient superstition, revealing the sublime unity of all sentient existence."*

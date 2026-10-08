@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermogram
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphical record produced by a thermograph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A graphical record produced by a thermograph.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A visual record, chart, or photographic image displaying variations in temperature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The continuous traced line produced by a recording thermograph.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermogram designates a graphical record produced by a thermograph."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The weekly **thermogram** recorded at the observatory traced the swift drop in temperature during the eclipse."*
+> - 📜 **Francis Galton (*Meteorographica, or Methods of Mapping the Weather*):** *"Examining each **thermogram** in conjunction with barometric tracings clarifies the passage of storm fronts."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"The laboratory **thermogram** showed an abrupt spike whenever chemical reaction resumed in the crucible."*

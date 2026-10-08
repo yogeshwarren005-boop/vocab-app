@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biochemically
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to biochemistry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to biochemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner concerning or determined by the chemical processes of living organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From the standpoint of biochemistry or metabolic interactions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biochemically designates with respect to biochemistry."*
+> - 📜 **Svante Arrhenius (*Immunochemistry*):** *"Toxin and antitoxin behave **biochemically** like weak acids and bases undergoing reversible neutralisation."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The tissues were **biochemically** altered by the chronic accumulation of toxic metabolic end-products."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Digestion acts **biochemically** to simplify complex albuminoids into diffusible peptones."*

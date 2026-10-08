@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermodynamics
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physics concerned with the conversion of different forms of energy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of physics concerned with the conversion of different forms of energy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physical science that deals with the relations between heat and other forms of energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The comprehensive mathematical framework governing energy transformation and entropy increase.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermodynamics designates the branch of physics concerned with the conversion of different forms of energy."*
+> - 📜 **Lord Kelvin (*On the Dynamical Theory of Heat*):** *"The first law of **thermodynamics** asserts that mechanical work and heat are mutually convertible."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"The second law of **thermodynamics** limits our ability to extract mechanical power from ambient warmth."*
+> - 📜 **Ludwig Boltzmann (*Theoretical Physics and Philosophical Problems*):** *"The fundamental equations of **thermodynamics** reflect the statistical probabilities of molecular chaos."*

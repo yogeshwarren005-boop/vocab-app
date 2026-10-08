@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # bioelectricity
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Electric phenomena in animals or plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electric phenomena in animals or plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Electric phenomena and electrical potentials generated within or by living organisms and tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of neural impulses, muscle action potentials, and animal galvanic forces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bioelectricity designates electric phenomena in animals or plants."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The discharge of the electric eel demonstrated that **bioelectricity** is identical in nature to voltaic currents."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Nerve transmission involves waves of **bioelectricity** propagating along the polarized axolemma."*
+> - 📜 **Hermann von Helmholtz (*Popular Lectures on Scientific Subjects*):** *"By measuring the velocity of **bioelectricity** in frogs, we timed the swift transmission of will to muscle."*

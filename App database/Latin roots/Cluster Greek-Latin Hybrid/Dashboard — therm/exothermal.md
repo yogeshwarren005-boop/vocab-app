@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # exothermal
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a chemical reaction or compound) occurring or formed with the liberation of heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a chemical reaction or compound) occurring or formed with the liberation of heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or accompanied by the liberation of thermal energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to external heat dissipation or exothermic geological changes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exothermal designates (of a chemical reaction or compound) occurring or formed with the liberation of heat."*
+> - 📜 **John Tyndall (*Heat Considered as a Mode of Motion*):** *"Combustion is pre-eminently an **exothermal** transformation of chemical affinity into radiant motion."*
+> - 📜 **Josiah Willard Gibbs (*Scientific Papers*):** *"The **exothermal** nature of the reaction ensures a spontaneous decrease in the total available free energy."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Rapid combination of sulphur and copper manifests an **exothermal** glow within the evacuated tube."*

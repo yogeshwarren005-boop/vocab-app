@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermojunction
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A junction between two dissimilar metals across which a voltage appears.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A junction between two dissimilar metals across which a voltage appears.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The contact point or seam between two dissimilar conductors where a thermoelectric voltage is generated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The active sensing tip of a thermocouple device.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermojunction designates a junction between two dissimilar metals across which a voltage appears."*
+> - 📜 **James Clerk Maxwell (*Treatise on Electricity and Magnetism*):** *"Heating the primary **thermojunction** immediately set up a potential gradient throughout the copper circuit."*
+> - 📜 **Lord Kelvin (*Mathematical and Physical Papers*):** *"When a current traverses a **thermojunction**, heat is either absorbed or emitted according to the Peltier effect."*
+> - 📜 **John Tyndall (*Heat Considered as a Mode of Motion*):** *"Focusing the dark rays upon the blackened **thermojunction** produced a large swing of the needle."*

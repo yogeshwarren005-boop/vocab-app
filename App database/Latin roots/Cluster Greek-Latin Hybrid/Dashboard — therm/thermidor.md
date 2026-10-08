@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermidor
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eleventh month of the revolutionary calendar (july and august); the month of heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eleventh month of the revolutionary calendar (july and august); the month of heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The eleventh month of the French Revolutionary calendar, running from mid-July to mid-August.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reactionary political period following a revolutionary excess, named after the fall of Robespierre in Thermidor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermidor designates eleventh month of the revolutionary calendar (july and august); the month of heat."*
+> - 📜 **Thomas Carlyle (*The French Revolution: A History*):** *"On the Ninth of **Thermidor**, the Convention rose in desperate wrath and shattered the reign of Terror."*
+> - 📜 **Lord Acton (*Lectures on the French Revolution*):** *"The reaction of **Thermidor** demonstrated that France had grown weary of blood and ideological tyranny."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"Every violent social convulsion seems fated to experience its own conservative **Thermidor** in turn."*

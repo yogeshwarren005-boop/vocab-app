@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # bionomics
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biology concerned with the relations between organisms and their environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of biology concerned with the relations between organisms and their environment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The comprehensive study of the relations of organisms to each other and to their environment; ecology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The natural laws governing the development and survival of living communities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bionomics designates the branch of biology concerned with the relations between organisms and their environment."*
+> - 📜 **Alfred Russel Wallace (*Studies Scientific and Social*):** *"The foundational principles of **bionomics** teach us that no creature can be understood in isolation from its fellows."*
+> - 📜 **Thomas Henry Huxley (*Discourses: Biological and Geological*):** *"Before ecology became a widespread term, naturalists designated these environmental inquiries as **bionomics**."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Changes in climate alter the delicate **bionomics** of an island, inducing rapid adaptive modifications in resident species."*

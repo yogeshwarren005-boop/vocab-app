@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermel
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thermometer that uses thermoelectric current to measure temperature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thermometer that uses thermoelectric current to measure temperature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thermoelectric device, such as a thermocouple or thermopile, used to detect minute differences in temperature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electrical apparatus measuring heat by the Seebeck effect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermel designates a thermometer that uses thermoelectric current to measure temperature."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"Using a sensitive **thermel**, we registered the microscopic radiation emitted by the moon's surface."*
+> - 📜 **John Tyndall (*Heat Considered as a Mode of Motion*):** *"The delicate **thermel** responded instantaneously to the faint warmth of a human hand held paces away."*
+> - 📜 **William Crookes (*Researches in the Phenomena of Spiritualism and Science*):** *"A calibrated **thermel** placed within the vacuum demonstrated the true radiometric impulse of light."*

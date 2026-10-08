@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermography
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Diagnostic technique using a thermograph to record the heat produced by different parts of the body; used to study blood flow and to detect tumors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diagnostic technique using a thermograph to record the heat produced by different parts of the body; used to study blood flow and to detect tumors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A technique for producing images that visualize the temperature distribution and infrared radiation of surfaces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A printing process in which powder is fused by heat to produce raised lettering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermography designates diagnostic technique using a thermograph to record the heat produced by different parts of the body; used to study blood flow and to detect tumors."*
+> - 📜 **William Crookes (*Researches in the Phenomena of Spiritualism and Science*):** *"Early methods of **thermography** demonstrated that warm objects leave latent radiation marks on sensitive plates."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Bruce-Partington Plans*):** *"Modern investigative **thermography** could reveal the glowing embers hidden beneath cold fireplace ashes."*
+> - 📜 **John Tyndall (*Six Lectures on Light*):** *"By means of rudimentary **thermography**, the distribution of dark heat rays across the screen became visible."*

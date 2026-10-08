@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biota
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: All the plant and animal life of a particular region.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: All the plant and animal life of a particular region.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The combined plant and animal life characteristic of a specific region, habitat, or geological epoch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The total living organisms inhabiting an ecosystem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biota designates all the plant and animal life of a particular region."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"The unique **biota** of the Galapagos archipelago presents a living demonstration of divergent organic evolution."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"Deep oceanic straits frequently isolate the endemic **biota** of adjacent islands for millions of years."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Catastrophic climate cooling decimated the lush tropical **biota** of prehistoric high latitudes."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biosphere
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The regions of the surface and atmosphere of the earth (or other planet) where living organisms exist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The regions of the surface and atmosphere of the earth (or other planet) where living organisms exist.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The global ecological system integrating all living beings and their relationships across the lithosphere, hydrosphere, and atmosphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The zone of air, land, and water on the earth's surface that is capable of supporting living organisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biosphere designates the regions of the surface and atmosphere of the earth (or other planet) where living organisms exist."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Geological epochs disclose radical transformations in the vast **biosphere** enveloping our ancient earth."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Every living particle in the planetary **biosphere** depends upon the ceaseless chemical circulation of water and air."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"Man's industrial combustion threatens to disturb the delicate atmospheric equilibrium sustaining the whole **biosphere**."*

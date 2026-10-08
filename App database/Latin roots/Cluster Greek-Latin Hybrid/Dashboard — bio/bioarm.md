@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # bioarm
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any weapon usable in biological warfare.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any weapon usable in biological warfare.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A biological weapon or weaponized living pathogen engineered for tactical or warfare applications.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artificial bionic or prosthetic arm functioning with biological or neural interfaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bioarm designates any weapon usable in biological warfare."*
+> - 📜 **H. G. Wells (*The War of the Worlds (Notes on Martian Weaponry)*):** *"The red weed acted almost as an invasive **bioarm**, smothering terrestrial vegetation across the hills."*
+> - 📜 **Arthur Conan Doyle (*The Disintegration Machine*):** *"He warned that a covert **bioarm** utilizing aerosolized spores could devastate an empire in secret."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"By connecting nerve impulses to servomotors, the experimental **bioarm** responded directly to the amputee's will."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # autobiographer
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who writes their own biography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who writes their own biography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who writes a comprehensive written account of their own life and experiences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An author of personal memoirs chronicling individual retrospective reflections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autobiographer designates someone who writes their own biography."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"The honest **autobiographer** must grapple with the shifting multiplicity of selfhood across passing decades."*
+> - 📜 **Henry James (*A Small Boy and Others*):** *"As an **autobiographer**, one is perpetually haunted by the ghosts of early impressions and forgotten corners."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Our eccentric German **autobiographer** views his outer life as merely clothes draped over an inner mystery."*

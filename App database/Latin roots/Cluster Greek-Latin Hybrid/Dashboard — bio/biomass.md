@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biomass
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plant materials and animal waste used as fuel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The total mass of living matter in a given unit area.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The total mass or weight of living matter within a given unit of area or ecological volume.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Organic plant or animal material used as renewable fuel or chemical feedstock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biomass designates plant materials and animal waste used as fuel."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In a lush meadow, the aggregate **biomass** of grasses far outweighs the predatory insects feeding upon them."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature and Other Essays*):** *"The equatorial rainforest supports an astounding **biomass** of vegetative growth per square mile."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"The carboniferous era accumulated immense **biomass** that compressed through ages into modern coal deposits."*

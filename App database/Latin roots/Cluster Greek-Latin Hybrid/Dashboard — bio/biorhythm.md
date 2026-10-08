@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biorhythm
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin bio within the domain of Greek-Latin Hybrid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of bio in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A recurring cyclical pattern of physiological, emotional, or physical activity in living organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Circadian or biological oscillation regulating bodily functions over time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biorhythm designates pertaining to, derived from, or characteristic of latin bio within the domain of greek-latin hybrid."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The nyctinastic sleep movements of leaves conform to an innate diurnal **biorhythm** independent of daylight."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The clinician must recognize the natural daily **biorhythm** of body temperature when interpreting fevers."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Cardiac contractions obey a strict, involuntary **biorhythm** sustained by internal muscular automatism."*

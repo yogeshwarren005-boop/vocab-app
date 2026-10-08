@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # isothermal
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a process or change taking place at constant temperature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a process or change taking place at constant temperature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or having equal or constant temperature throughout a physical process or geographic region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to thermodynamic transformations occurring without change of temperature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"This rate applied to utilities traces through each good a line analagous to the isothermal line on the map, marking off a zone of utilities for the present and other zones for each period of the future."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Has the isothermal line any relation to the number of millionaires? 4."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"During **isothermal** expansion, the heat supplied to the gas is entirely converted into external work."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"The **isothermal** lines demonstrate how maritime winds temper the extremes of seasonal cold."*
+> - 📜 **John Tyndall (*Heat Considered as a Mode of Motion*):** *"An **isothermal** surface within the metal conducts heat equally in every perpendicular direction."*

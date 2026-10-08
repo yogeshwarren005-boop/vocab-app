@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biologist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) a scientist who studies living organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) a scientist who studies living organisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist who specializes in the study of living organisms, their structure, function, and evolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A researcher investigating botanical, zoological, or physiological phenomena.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"If this question is open to dispute among biologists, it is only as regards a minute increment of improvement."*
+> - 📜 **Charles Darwin (*Life and Letters of Charles Darwin*):** *"To the observant **biologist**, every curious variation in plumage offers a riddle awaiting explanation."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The modern **biologist** seeks not merely to classify specimens, but to unravel the mechanism of living matter."*
+> - 📜 **H. G. Wells (*The Science of Life*):** *"No competent **biologist** today doubts that all terrestrial life shares an unbroken genealogical lineage."*

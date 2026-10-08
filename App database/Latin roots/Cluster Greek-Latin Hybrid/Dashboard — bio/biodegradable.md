@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biodegradable
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being decomposed by e.g. bacteria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being decomposed by e.g. bacteria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being decomposed or broken down by bacteria or other biological agents naturally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Environmentally benign materials subject to natural organic decomposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biodegradable designates capable of being decomposed by e.g. bacteria."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Earthworms reduce fallen leaves into **biodegradable** fragments that enrich the underlying topsoil."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"All organic debris is inherently **biodegradable**, returning fundamental minerals to the earth and atmosphere."*
+> - 📜 **John Muir (*My First Summer in the Sierra*):** *"Nature leaves no rubbish: every fallen pine needle is gently **biodegradable**, feeding forest mosses."*

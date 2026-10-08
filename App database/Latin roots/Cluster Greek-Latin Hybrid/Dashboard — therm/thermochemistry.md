@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermochemistry
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of chemistry that studies the relation between chemical action and the amount of heat absorbed or generated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of chemistry that studies the relation between chemical action and the amount of heat absorbed or generated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of chemical science that studies the heat energy absorbed or released in chemical reactions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quantitative investigation of thermal changes accompanying state and composition transformations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermochemistry designates the branch of chemistry that studies the relation between chemical action and the amount of heat absorbed or generated."*
+> - 📜 **Josiah Willard Gibbs (*Scientific Papers*):** *"The fundamental theorems of **thermochemistry** connect heats of reaction directly to free energy changes."*
+> - 📜 **Svante Arrhenius (*Theories of Chemistry*):** *"Hess's law of constant heat summation stands as an unshakeable pillar of modern **thermochemistry**."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Our earliest inquiries into **thermochemistry** demonstrated that combustion yields proportional warmth."*

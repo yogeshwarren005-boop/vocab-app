@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermion
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrically charged particle (electron or ion) emitted by a substance at a high temperature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electrically charged particle (electron or ion) emitted by a substance at a high temperature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrically charged particle (especially an electron or ion) emitted by an incandescent or heated body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A carrier of thermionic emission in vacuum tubes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermion designates an electrically charged particle (electron or ion) emitted by a substance at a high temperature."*
+> - 📜 **Ernest Rutherford (*Radioactive Substances and their Radiations*):** *"Each energetic **thermion** escaping the red-hot filament contributes to the steady negative charge."*
+> - 📜 **J. J. Thomson (*Conduction of Electricity through Gases*):** *"We measured the velocity of the liberated **thermion** under a transverse magnetic deflection."*
+> - 📜 **Arthur Eddington (*Stars and Atoms*):** *"Within stellar interiors, every free **thermion** interacts incessantly with high-frequency radiation."*

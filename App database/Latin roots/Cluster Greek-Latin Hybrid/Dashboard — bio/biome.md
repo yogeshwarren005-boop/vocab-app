@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biome
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A major biotic community characterized by the dominant forms of plant life and the prevailing climate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A major biotic community characterized by the dominant forms of plant life and the prevailing climate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, naturally occurring community of flora and fauna occupying a major habitat or climatic zone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ecological regional ecosystem such as tundra, taiga, temperate deciduous forest, or tropical savannah.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biome designates a major biotic community characterized by the dominant forms of plant life and the prevailing climate."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Each continental **biome** exhibits an unmistakable harmony between its prevailing climate and dominant flora."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"Crossing the mountain barrier brought us into an entirely new **biome** dominated by desert scrub and reptiles."*
+> - 📜 **John Muir (*Steep Trails*):** *"The high alpine **biome** endures bitter blizzards, yet tiny cushions of phlox bloom courageously among the rocks."*

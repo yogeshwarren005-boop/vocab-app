@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # hypothermic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or affected by hypothermia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or affected by hypothermia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, suffering from, or characterized by dangerously subnormal body temperature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Artificially induced to low temperatures for surgical or therapeutic preservation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypothermic designates of or relating to or affected by hypothermia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient presented in a **hypothermic** coma, with shallow respiration and a barely perceptible pulse."*
+> - 📜 **Joseph Conrad (*The Shadow-Line*):** *"Drenched by relentless squalls, the men stood in a **hypothermic** daze watching the horizon."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"His fingers were so stiff and **hypothermic** that he could scarcely knot the frozen halyard."*

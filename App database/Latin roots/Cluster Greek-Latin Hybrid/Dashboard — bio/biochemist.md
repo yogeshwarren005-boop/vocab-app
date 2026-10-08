@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biochemist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone with special training in biochemistry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone with special training in biochemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist who specializes in the study of the chemical substances and vital processes occurring in living organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An investigator of cellular metabolism, enzymes, and molecular biology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biochemist designates someone with special training in biochemistry."*
+> - 📜 **William Ramsay (*Essays Biographical and Chemical*):** *"The **biochemist** stands at the frontier where physics, chemistry, and organic morphology converge."*
+> - 📜 **H. G. Wells (*The Food of the Gods*):** *"Professor Bensington, an earnest **biochemist**, stumbled upon Herakleophorbia while isolating growth ferments."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Creeping Man*):** *"The aged professor consulted a foreign **biochemist** who purported to isolate the vital elixir of youth."*

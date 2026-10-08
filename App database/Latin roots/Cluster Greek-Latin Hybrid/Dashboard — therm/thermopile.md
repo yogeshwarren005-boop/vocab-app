@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermopile
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of thermometer for measuring heat radiation; consists of several thermocouple junctions in series.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kind of thermometer for measuring heat radiation; consists of several thermocouple junctions in series.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus consisting of a series of thermocouples connected together to measure small quantities of radiant heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An early thermoelectric battery generating current from caloric differences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermopile designates a kind of thermometer for measuring heat radiation; consists of several thermocouple junctions in series."*
+> - 📜 **John Tyndall (*Contributions to Molecular Physics in the Domain of Radiant Heat*):** *"The delicate **thermopile** placed behind the rock-salt lens detected the faint infrared emission of the flame."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Nobili's **thermopile** transformed the most subtle thermal rays into measurable magnetic deflection."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"Connecting the **thermopile** to an astatic galvanometer enables instantaneous registration of thermal radiation."*

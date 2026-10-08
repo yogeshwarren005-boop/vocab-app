@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # bioclimatic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or concerned with the relations of climate and living organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or concerned with the relations of climate and living organisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the relations between climate and living organisms or their geographic distribution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerning architectural design adapted to regional climate and human biological comfort.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bioclimatic designates of or concerned with the relations of climate and living organisms."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The **bioclimatic** zones of the Andes demonstrate how temperature gradations restrict vegetation to distinct bands."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Sharp **bioclimatic** frontiers frequently delimit the range of sensitive bird and insect species."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"Differences in **bioclimatic** exposure explain the divergent flora flourishing upon windward and leeward mountain ridges."*

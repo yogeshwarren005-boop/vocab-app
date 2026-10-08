@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # autobiography
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A biography of yourself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biography of yourself.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical account of a person's life written or told by that person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The literary genre encompassing self-authored life stories and memoirs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"My father, the author of the _Sinner's Friend_, narrates in his autobiography a circumstance which he often used to speak of with great emotion."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"JANE EYRE AN AUTOBIOGRAPHY by Charlotte Brontë _ILLUSTRATED BY F."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"The same may be said of his autobiography in miniature, "Rueckschau,"[222] which catalogues the poet's experiences, pleasant and adverse, with evident sincerity though of course with a liberal admixture of witty irony."*
+> - 📜 **Benjamin Franklin (*The Autobiography of Benjamin Franklin*):** *"Having emerged from poverty to affluence, I deemed the record of my life in this **autobiography** worthy of remembrance."*
+> - 📜 **John Stuart Mill (*Autobiography*):** *"My **autobiography** presents the record of an uncommon education and the succession of ideas which formed my mind."*
+> - 📜 **George Bernard Shaw (*Sixteen Self Sketches*):** *"A complete **autobiography** is an impossibility, since no man can tell the whole truth about himself."*

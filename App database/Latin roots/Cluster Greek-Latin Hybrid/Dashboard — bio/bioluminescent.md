@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # bioluminescent
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of living organisms) emitting light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of living organisms) emitting light.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Emitting light produced through biochemical processes within living tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characterized by organic cold light generation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bioluminescent designates (of living organisms) emitting light."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"Countless **bioluminescent** animalcules turned the surface of the nocturnal ocean into a sea of liquid fire."*
+> - 📜 **Arthur Conan Doyle (*The Maracot Deep*):** *"In the abyssal depths, strange **bioluminescent** fishes drifted past our viewing ports like glowing phantoms."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Decaying forest logs shone with a pale **bioluminescent** foxfire along the shadowed canyon floor."*

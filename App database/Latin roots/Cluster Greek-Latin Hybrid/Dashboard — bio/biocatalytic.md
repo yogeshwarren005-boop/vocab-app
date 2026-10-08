@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biocatalytic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to biocatalysts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to biocatalysts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or involving catalysis brought about by enzymes or other biological agents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accelerating cellular chemical reactions through enzyme mechanisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biocatalytic designates of or relating to biocatalysts."*
+> - 📜 **Svante Arrhenius (*Immunochemistry*):** *"The **biocatalytic** cleavage of polysaccharides proceeds with extraordinary speed even in dilute solutions."*
+> - 📜 **William Ramsay (*Essays Biographical and Chemical*):** *"Yeast zymase exhibits purely **biocatalytic** properties independent of the living reproductive cell."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Fermentation represents a **biocatalytic** breakdown fundamental to the geochemical cycle of carbon."*

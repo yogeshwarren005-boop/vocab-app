@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # microbiology
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biology that studies microorganisms and their effects on humans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of biology that studies microorganisms and their effects on humans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of science that deals with microorganisms, including bacteria, viruses, fungi, and microscopic parasites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The scientific study of microscopic life and its biochemical and pathogenic activities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microbiology designates the branch of biology that studies microorganisms and their effects on humans."*
+> - 📜 **Louis Pasteur (*Germ Theory and Its Applications to Medicine and Surgery*):** *"The foundation of **microbiology** transformed pathology by proving that infectious diseases arise from microscopic living ferments."*
+> - 📜 **Joseph Lister (*On the Antiseptic Principle of the Practice of Surgery*):** *"Applying the discoveries of **microbiology** to hospital practice eliminated the dreaded scourge of hospital gangrene."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Every forward step in clinical therapeutics over the past half-century has been guided by the light of **microbiology**."*

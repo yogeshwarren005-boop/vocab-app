@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # symbiotic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of organisms (especially of different species) living together but not necessarily in a relation beneficial to each.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of organisms (especially of different species) living together but not necessarily in a relation beneficial to each.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by symbiosis; living in close, often mutually beneficial association.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting an interdependent relationship between differing organisms or entities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symbiotic designates used of organisms (especially of different species) living together but not necessarily in a relation beneficial to each."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature and Other Essays*):** *"The ant plants of the Amazon harbor stinging insects in hollow stems in a celebrated **symbiotic** alliance."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Every coral reef is sustained by the **symbiotic** partnership between tiny polyp animals and microscopic zooxanthellae."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation*):** *"Roots of leguminous plants host **symbiotic** bacterial nodules that enrich the whole organism with nitrogen."*

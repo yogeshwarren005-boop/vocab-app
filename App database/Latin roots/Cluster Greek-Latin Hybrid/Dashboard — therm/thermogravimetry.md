@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermogravimetry
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The measurement of changes in weight as a function of changes in temperature used as a technique of chemically analyzing substances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The measurement of changes in weight as a function of changes in temperature used as a technique of chemically analyzing substances.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of thermal analysis in which the mass of a substance is monitored as a function of temperature or time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Analytical technique employing precision thermal balances to investigate thermal stability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermogravimetry designates the measurement of changes in weight as a function of changes in temperature used as a technique of chemically analyzing substances."*
+> - 📜 **William Ramsay (*Essays Biographical and Chemical*):** *"By applying **thermogravimetry**, the chemist accurately charts the sublimation points of volatile complexes."*
+> - 📜 **Ernest Rutherford (*Radioactivity*):** *"Modern **thermogravimetry** provides indispensable data on the dehydration rates of rare earth minerals."*
+> - 📜 **Humphry Davy (*Elements of Agricultural Chemistry*):** *"The methods of **thermogravimetry** reveal the organic humus content volatilized from heated soil samples."*

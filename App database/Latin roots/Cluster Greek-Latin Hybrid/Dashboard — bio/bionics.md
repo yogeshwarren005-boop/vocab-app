@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # bionics
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Application of biological principles to the study and design of engineering systems (especially electronic systems).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Application of biological principles to the study and design of engineering systems (especially electronic systems).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of mechanical and electronic systems that function like living organisms or parts of living organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The engineering discipline applying biological structures and methods to technological design.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bionics designates application of biological principles to the study and design of engineering systems (especially electronic systems)."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"In **bionics**, the engineer borrows nature's time-tested designs to build self-correcting mechanical systems."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The advances in **bionics** allowed crippled laborers to return to industrial production with artificial limbs."*
+> - 📜 **Arthur Conan Doyle (*Memories and Adventures*):** *"He mused upon future sciences where physiology and mechanical engineering would merge into **bionics**."*

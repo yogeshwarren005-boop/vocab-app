@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biotechnology
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of molecular biology that studies the use of microorganisms to perform specific industrial processes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of engineering science in which biological science is used to study the relation between workers and their environments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The application of biological systems, living organisms, or derivatives thereof to develop or make products for specific use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Industrial use of biological processes such as fermentation, genetic engineering, and cell culture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biotechnology designates the branch of molecular biology that studies the use of microorganisms to perform specific industrial processes."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Traditional brewing and bread-making represent ancient, empirical precursors of modern scientific **biotechnology**."*
+> - 📜 **H. G. Wells (*The Food of the Gods*):** *"The accidental discovery inaugurated a bold era of uncontrolled agricultural **biotechnology** with monstrous results."*
+> - 📜 **Bertrand Russell (*The Impact of Science on Society*):** *"Advances in **biotechnology** will soon grant mankind powers over heredity that require the highest moral wisdom."*

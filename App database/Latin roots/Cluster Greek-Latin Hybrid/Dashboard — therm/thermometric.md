@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermometric
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to thermometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to thermometry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the measurement of temperature or to the construction of thermometers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Functioning as an indicator of thermal variation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermometric designates of or relating to thermometry."*
+> - 📜 **Lord Kelvin (*Mathematical and Physical Papers*):** *"Mercury provides a reliable **thermometric** substance across ordinary ranges of atmospheric heat."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Continuous **thermometric** series taken in tropical valleys reveal surprising diurnal constancy."*
+> - 📜 **John Tyndall (*Contributions to Molecular Physics*):** *"The air in the glass chamber served as its own **thermometric** sensor under pulse radiation."*

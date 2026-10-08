@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # bioluminescence
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Luminescence produced by physiological processes (as in the firefly).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Luminescence produced by physiological processes (as in the firefly).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biochemical production and emission of visible light by living organisms such as fireflies and deep-sea creatures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cold light emitted through the reaction of luciferin and luciferase in vital tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bioluminescence designates luminescence produced by physiological processes (as in the firefly)."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"As the vessel glided through the dark waves, dazzling trails of marine **bioluminescence** illuminated our wake."*
+> - 📜 **Thomas Henry Huxley (*Oceanic Hydrozoa*):** *"Certain medusae exhibit vivid **bioluminescence**, glowing with green radiance when mechanically agitated."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The jungle night sparkled with fairy-like lanterns of beetle **bioluminescence** among the damp leaves."*

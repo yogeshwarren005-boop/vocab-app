@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # antibiotic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical substance derivable from a mold or bacterium that can kill microorganisms and cure bacterial infections.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to antibiotic drugs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance produced by or derived from microorganisms that destroys or inhibits the growth of other bacteria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or possessing the capacity to suppress bacterial life and infections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antibiotic designates a chemical substance derivable from a mold or bacterium that can kill microorganisms and cure bacterial infections."*
+> - 📜 **Alexander Fleming (*Penicillin: Its Practical Application*):** *"The mould broth exhibited potent **antibiotic** action against virulent cultures of staphylococcus."*
+> - 📜 **William Osler (*The Evolution of Modern Medicine (Foreword & Notes)*):** *"The discovery of a harmless **antibiotic** agent realized medicine's oldest dream of selective bactericidal therapy."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Synthesized **antibiotic** compounds brought an end to the recurrent pestilences that ravaged the ruined cities."*

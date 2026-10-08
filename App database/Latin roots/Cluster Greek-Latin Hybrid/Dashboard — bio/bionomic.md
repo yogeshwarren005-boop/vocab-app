@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # bionomic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the science of ecology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the science of ecology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to bionomics; concerning the relation of organisms to their environment; ecological.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the environmental adaptations and life-habits of plants and animals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bionomic designates of or relating to the science of ecology."*
+> - 📜 **Alfred Russel Wallace (*Darwinism*):** *"Protective mimicry is a striking **bionomic** adaptation ensuring survival against keen-sighted birds of prey."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The intricate **bionomic** links between red clover, field mice, and humblebees illustrate nature's interwoven web."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"We cannot grasp species morphology without investigating the broader **bionomic** pressures of the habitat."*

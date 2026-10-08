@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermoregulator
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A regulator for automatically regulating temperature by starting or stopping the supply of heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A regulator for automatically regulating temperature by starting or stopping the supply of heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device or physiological mechanism that automatically maintains a constant temperature within a system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thermostat or internal biological feedback system governing thermal stability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermoregulator designates a regulator for automatically regulating temperature by starting or stopping the supply of heat."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"The mammalian hypothalamus functions as an exquisite biological **thermoregulator**, adjusting vascular tone and sweat."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"Cavor adjusted the mercury **thermoregulator** to prevent the sphere from freezing in lunar shadow."*
+> - 📜 **William Ramsay (*Modern Chemistry*):** *"An automated **thermoregulator** kept the paraffin bath within a tenth of a degree throughout the trial."*

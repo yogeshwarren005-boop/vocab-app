@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biotite
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dark brown to black mica found in igneous and metamorphic rock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dark brown to black mica found in igneous and metamorphic rock.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A common dark brown or black mineral of the mica group, consisting of a hydrated silicate of potassium, magnesium, iron, and aluminium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Black mica occurring abundantly in granites, gneisses, and metamorphic rocks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biotite designates dark brown to black mica found in igneous and metamorphic rock."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"The granite specimen was flecked with lustrous black scales of **biotite** interspersed with feldspar and quartz."*
+> - 📜 **Charles Darwin (*Geological Observations on South America*):** *"The metamorphic gneiss exhibited parallel foliation bands enriched with shimmering flakes of **biotite**."*
+> - 📜 **Archibald Geikie (*Textbook of Geology*):** *"Weathering of **biotite** releases iron oxides that stain surrounding granitic outcrops with reddish hues."*

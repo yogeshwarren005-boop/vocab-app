@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biochemistry
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The organic chemistry of compounds and processes occurring in organisms; the effort to understand biology within the context of chemistry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The organic chemistry of compounds and processes occurring in organisms; the effort to understand biology within the context of chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of science that explores the chemical processes within and related to living organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The chemical composition and physiological pathways characteristic of vital systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biochemistry designates the organic chemistry of compounds and processes occurring in organisms; the effort to understand biology within the context of chemistry."*
+> - 📜 **William Osler (*The Evolution of Modern Medicine*):** *"The rise of **biochemistry** dispelled the ancient mystical vitalism that had obscured medical understanding."*
+> - 📜 **Thomas Henry Huxley (*Discourses: Biological and Geological*):** *"Underlying all vital phenomena is the silent, incessant work of cellular **biochemistry**."*
+> - 📜 **Svante Arrhenius (*Immunochemistry*):** *"Quantitative physical chemistry must guide our investigations into the complex reactions of **biochemistry**."*

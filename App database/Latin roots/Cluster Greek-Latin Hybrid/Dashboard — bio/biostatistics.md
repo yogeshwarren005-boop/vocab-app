@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biostatistics
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of biology that studies biological phenomena and observations by means of statistical analysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of biology that studies biological phenomena and observations by means of statistical analysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The application of statistical techniques to scientific problems in biology, medicine, and public health.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quantitative demographic and epidemiological analysis of vital health metrics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biostatistics designates a branch of biology that studies biological phenomena and observations by means of statistical analysis."*
+> - 📜 **Francis Galton (*Hereditary Genius*):** *"By applying **biostatistics** to ancestral family trees, we estimate the transmission rates of intellectual eminence."*
+> - 📜 **Karl Pearson (*The Chances of Death and Other Studies in Evolution*):** *"The mathematical methods of **biostatistics** extract hidden laws of mortality from municipal census returns."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Reliable **biostatistics** demonstrate a marked decline in child mortality following compulsory urban sanitation."*

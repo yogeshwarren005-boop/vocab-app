@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biochip
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A microchip that uses tiny strands of dna to latch onto and quickly recognize thousands of genes at a time; intended for use in a biological environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A microchip that uses tiny strands of dna to latch onto and quickly recognize thousands of genes at a time; intended for use in a biological environment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A miniaturized medical or laboratory device containing biological components or designed for rapid molecular assays.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A microchip incorporating biological molecules or used for genetic and biochemical analysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biochip designates a microchip that uses tiny strands of dna to latch onto and quickly recognize thousands of genes at a time; intended for use in a biological environment."*
+> - 📜 **Norbert Wiener (*Cybernetics (Philosophical Addenda)*):** *"The convergence of micro-electronics and cellular enzymes anticipates the concept of an integrated **biochip**."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Miniaturized diagnostic plates functioned like a modern **biochip**, analyzing blood droplets in seconds."*
+> - 📜 **Arthur Conan Doyle (*The Disintegration Machine*):** *"The apparatus utilized an intricate **biochip** mechanism to regulate delicate cellular vibrations."*

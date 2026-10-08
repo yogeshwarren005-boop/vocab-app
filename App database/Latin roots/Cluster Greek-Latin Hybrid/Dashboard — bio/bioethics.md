@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # bioethics
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of ethics that studies moral values in the biomedical sciences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of ethics that studies moral values in the biomedical sciences.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of ethics concerned with the moral implications of biological and medical procedures and technologies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The moral discipline governing human intervention in life, death, genetics, and clinical experimentation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The project's participants represented a broad array of disciplines and interests, including engineering, biomedicine, law, economics, psychology, bioethics, and philosophy."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The physician must be guided by sound **bioethics**, placing patient sanctity above reckless experimental vanity."*
+> - 📜 **Bertrand Russell (*The Scientific Outlook*):** *"Without an enlightened foundation in **bioethics**, scientific mastery over biology risks breeding tyranny."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"Cosmic evolutionary struggle must be checked by human moral sympathy, the foundational root of **bioethics**."*

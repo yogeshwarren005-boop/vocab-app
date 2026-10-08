@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biometry
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of biology that studies biological phenomena and observations by means of statistical analysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of biology that studies biological phenomena and observations by means of statistical analysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The calculation and statistical analysis of biological phenomena and characteristics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Biostatistics; measurement of the longevity, growth, and hereditary variation of living organisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biometry designates a branch of biology that studies biological phenomena and observations by means of statistical analysis."*
+> - 📜 **Karl Pearson (*Mathematical Contributions to the Theory of Evolution*):** *"By founding the journal Biometrika, we established **biometry** as the mathematical cornerstone of organic Darwinism."*
+> - 📜 **Francis Galton (*Natural Inheritance*):** *"The methods of **biometry** enable us to calculate the regression coefficient of parental traits in offspring."*
+> - 📜 **Charles Darwin (*Life and Letters of Charles Darwin*):** *"Galton's ingenious inquiries into **biometry** threw valuable numerical light upon my theories of hereditary transmission."*

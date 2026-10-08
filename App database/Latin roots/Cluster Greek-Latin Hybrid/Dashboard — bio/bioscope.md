@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # bioscope
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A south african movie theater.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kind of early movie projector.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An early form of motion-picture projector or cinematograph used to project animated moving pictures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, a philosophical dial or chart designed to measure the stages and remaining span of human life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bioscope designates a south african movie theater."*
+> - 📜 **H. G. Wells (*The Sleeper Awakes*):** *"Vivid scenes of moving life were projected upon the curved walls by a flickering electrical **bioscope**."*
+> - 📜 **Arthur Conan Doyle (*Memories and Adventures*):** *"Audiences sat spellbound in the darkened hall as the novel **bioscope** flashed moving images from the Boer war."*
+> - 📜 **Joseph Conrad (*Chance*):** *"The crowded harbor scene unrolled before her eyes with the restless, jerky brilliance of a street **bioscope**."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # symbiosis
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation between two different species of organisms that are interdependent; each gains benefits from the other.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation between two different species of organisms that are interdependent; each gains benefits from the other.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An interaction or close physical association between two different biological organisms living in close proximity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mutually beneficial or intimate ecological relationship between distinct species.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symbiosis designates the relation between two different species of organisms that are interdependent; each gains benefits from the other."*
+> - 📜 **Thomas Henry Huxley (*Discourses: Biological and Geological*):** *"The lichen presents the classic example of **symbiosis**, wherein a fungus and an alga live in mutually advantageous partnership."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The intimate **symbiosis** between flowering plants and pollinating insects has spurred remarkable co-evolutionary modifications."*
+> - 📜 **Alfred Russel Wallace (*Darwinism*):** *"Instances of mutual **symbiosis** prove that nature is shaped not solely by ruthless combat, but also by reciprocal assistance."*

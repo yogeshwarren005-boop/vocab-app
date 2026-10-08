@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # exothermic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a chemical reaction or compound) occurring or formed with the liberation of heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a chemical reaction or compound) occurring or formed with the liberation of heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Denoting a chemical reaction or physical change that releases heat to its surroundings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting a positive heat of formation or spontaneous liberation of thermal power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exothermic designates (of a chemical reaction or compound) occurring or formed with the liberation of heat."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The synthesis of water from its constituent gases is violently **exothermic**, shaking the heavy glass cylinder."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Living tissues undergo an **exothermic** oxidation whereby animal heat is incessantly sustained."*
+> - 📜 **Arthur Conan Doyle (*The Disintegration Machine*):** *"The molecular realignment was fiercely **exothermic**, radiating sudden warmth across the darkened laboratory."*

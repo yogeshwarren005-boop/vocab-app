@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bio]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # biologistic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to biologism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to biologism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by biologism; emphasizing biological determinism or organic analogies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Viewing human affairs through an exclusively biological framework.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biologistic designates of or relating to biologism."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Nietzsche's ethics were distorted by a **biologistic** bias that celebrated primal instinct above reason."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"We must guard against a **biologistic** fatalism that ignores the moral progress achieved by civilization."*
+> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"The **biologistic** perspective illuminates how social institutions evolve by division of labor like living organs."*

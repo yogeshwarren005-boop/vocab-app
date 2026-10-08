@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermopsis
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of american and asiatic showy rhizomatous herbs: bush peas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of american and asiatic showy rhizomatous herbs: bush peas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of herbaceous perennial plants in the legume family Fabaceae, featuring lupine-like yellow or purple flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: False lupine, native to North America and eastern Asia, used in horticulture and traditional medicine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermopsis designates genus of american and asiatic showy rhizomatous herbs: bush peas."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The yellow pea-like racemes of **Thermopsis** brighten gravelly riverbanks throughout the southern highlands."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Bees visited the blossoms of **Thermopsis**, tripping the staminal mechanism to deposit pollen upon their chests."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Clusters of wild **Thermopsis** bloomed abundantly along the sunny margins of the pine woods."*

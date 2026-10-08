@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — therm]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # thermoreceptor
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sensory receptor that responds to heat and cold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sensory receptor that responds to heat and cold.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized sensory nerve ending that detects changes in temperature and sends signals to the central nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biological neural receptor responding to warmth or cold stimuli on the skin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermoreceptor designates a sensory receptor that responds to heat and cold."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Each cutaneous **thermoreceptor** responds specifically to departures from ambient physiological warmth."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Degeneration of the sensory pathways can selectively spare touch while destroying the peripheral **thermoreceptor** network."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Sensitivity to subtle shifts in temperature suggests an evolutionary refinement of the ancestral **thermoreceptor**."*

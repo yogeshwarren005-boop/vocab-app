@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # concentrated
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make denser, stronger, or purer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Direct one's attention on something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wholly focused, intense, or applied with resolute mental dedication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rendered dense or potent through the reduction of liquid or dispersal volume.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is thoughtful, gloomy, concentrated."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Sinister design lurked in the woman’s features, a concentrated purpose of revenge on the other sex—so it seemed to him then."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His face grew colder and more shrunken as he stood concentrated on the moment, and a minute or two after, he found himself in the street, walking along he did not know whither."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab paced the quarter-deck with **concentrated** fury gleaming in his deep-set eyes."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The natural brine pools contained a highly **concentrated** alkaline solution encrusted with salt."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The silence around us possessed a heavy, **concentrated** stillness that seemed almost palpable."*

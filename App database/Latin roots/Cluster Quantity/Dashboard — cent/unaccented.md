@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unaccented
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of syllables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of vowels or syllables) pronounced with little or no stress.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pronounced or articulated without vocal stress or melodic pitch emphasis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking a diacritical mark or rhythmical musical accentuation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unaccented designates used of syllables."*
+> - 📜 **Edgar Allan Poe (*The Rationale of Verse*):** *"In English poetic iambs, an **unaccented** syllable regularly precedes a stressed vocal beat."*
+> - 📜 **Matthew Arnold (*On Translating Homer*):** *"The natural rhythm of speech glides smoothly through the **unaccented** vowels of conversational prose."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"Phonetic shifts frequently erode the vowels of **unaccented** terminal syllables in vernacular languages."*

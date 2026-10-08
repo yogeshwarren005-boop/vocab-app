@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centrifuge
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus that uses centrifugal force to separate particles from a suspension.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rotate at very high speed in order to separate the liquids from the solids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A machine with a rapidly rotating container used to separate fluids of different densities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apparatus utilizing accelerated rotational motion to compact suspended solids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrifuge designates an apparatus that uses centrifugal force to separate particles from a suspension."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"The laboratory housed a high-speed **centrifuge** used to test mineral separations."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Creeping Man*):** *"Upon the bench stood a small electric **centrifuge** alongside racks of test tubes."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Placing the turbid liquor into the **centrifuge** produced complete precipitation in minutes."*

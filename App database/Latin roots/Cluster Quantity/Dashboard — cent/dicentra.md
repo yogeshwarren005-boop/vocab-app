@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # dicentra
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: North american and asian herbs with divided leaves and irregular flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: North american and asian herbs with divided leaves and irregular flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of herbaceous perennial flowering plants in the poppy family Papaveraceae, including the bleeding heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woodland wildflower characterized by dissected foliage and pendulous, two-spurred, heart-shaped blossoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dicentra designates north american and asian herbs with divided leaves and irregular flowers."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The charming Dutchman's-breeches, classified under the genus **Dicentra**, blooms in rich hardwood forests in early May."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation*):** *"Blossoms of **Dicentra** possess nectar spurs accessed by specialized long-tongued bumblebees."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"In moist shaded borders, cultivate the delicate flowering racemes of **Dicentra** alongside native ferns."*

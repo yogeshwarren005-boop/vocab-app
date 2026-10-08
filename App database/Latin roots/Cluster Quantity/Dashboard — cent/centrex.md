@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centrex
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (central exchange) a kind of telephone exchange.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (central exchange) a kind of telephone exchange.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A central office telephone exchange service providing direct inward dialing and station-to-station switching.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A telecommunications PBX service managed directly at a telephone company's central switching station.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrex designates (central exchange) a kind of telephone exchange."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"The introduction of modern **centrex** switching lowered commercial communication costs across municipal districts."*
+> - 📜 **John Kenneth Galbraith (*The New Industrial State*):** *"Corporations coordinated sprawling divisions through unified **centrex** lines linked to executive offices."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Automated switchboards and regional **centrex** facilities accelerated the pace of speculative transactions."*

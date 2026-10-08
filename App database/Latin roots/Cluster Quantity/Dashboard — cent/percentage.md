@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # percentage
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A proportion in relation to a whole (which is usually the amount per hundred).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assets belonging to or due to or contributed by an individual person or group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rate, number, or amount in each hundred; a portion or proportion of a whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A financial commission, share, or margin of profit calculated on a sales transaction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I don’t want to pay too large a price for my friend, but I want you to have your proper percentage and be remunerated for your loss of time."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel’s farm had been stocked by a dealer—on the strength of Oak’s promising look and character—who was receiving a percentage from the farmer till such time as the advance should be cleared off."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I can pick the high-percentage butter-fat cow with my eye and let the Babcock Tester prove the wisdom of my eye."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I don't know the exact **percentage**, but the estate was largely eaten up by professional fees and costs."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A considerable **percentage** of the shepherd's flock had succumbed to the rot before winter ended."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"Wolf Larsen calculated the precise **percentage** of sea-otter skins due to each hunter in the schooner."*

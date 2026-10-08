@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centromere
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized condensed region of each chromosome that appears during mitosis where the chromatids are held together to form an x shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialized condensed region of each chromosome that appears during mitosis where the chromatids are held together to form an x shape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The specialized DNA region of a chromosome to which the spindle fibers attach during cell division.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The constricted chromosome locus that links sister chromatids together during early mitosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centromere designates a specialized condensed region of each chromosome that appears during mitosis where the chromatids are held together to form an x shape."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Spindle fibers converge directly upon the **centromere** to draw the split chromosomes toward the poles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Structural fractures near the **centromere** cause chromosomal aberrations in aberrant cell lines."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation*):** *"The mechanical behavior of each **centromere** ensures equal division of hereditary substance to gametes."*

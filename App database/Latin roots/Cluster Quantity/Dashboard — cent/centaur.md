@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centaur
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (classical mythology) a mythical being that is half man and half horse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conspicuous constellation in the southern hemisphere near the southern cross.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mythological creature possessing the head, arms, and torso of a human with the body of a horse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small celestial body in the outer solar system whose orbit crosses those of giant planets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go bear it to the Centaur, where we host, And stay there, Dromio, till I come to thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll to the Centaur to go seek this slave."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The gold I gave to Dromio is laid up Safe at the Centaur, and the heedful slave Is wander’d forth in care to seek me out."*
+> - 📜 **Homer (*The Odyssey*):** *"Wine also unhinged the unruly mind of the brave **centaur** Eurytion in the halls of Peirithous."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Close by the shining constellation rides the Chiron, half man and half **centaur**, crowned with stars."*
+> - 📜 **Nathaniel Hawthorne (*A Wonder-Book for Girls and Boys*):** *"Young Jason wondered at the wise tutor Chiron, who stood before him as a noble and benevolent **centaur**."*

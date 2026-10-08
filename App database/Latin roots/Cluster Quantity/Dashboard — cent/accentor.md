@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # accentor
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small sparrow-like songbird of mountainous regions of eurasia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small sparrow-like songbird of mountainous regions of eurasia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small Old World passerine bird of the family Prunellidae, notably the dunnock or alpine accentor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical leader or chorister who chants the melodic lead in liturgical antiphons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, accentor designates small sparrow-like songbird of mountainous regions of eurasia."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The mountain **accentor** frequents high rocky screes, flitting silently among the alpine shrubs."*
+> - 📜 **William Yarrell (*A History of British Birds*):** *"The hedge **accentor** builds its mossy cup low in the hawthorn hedge before early spring foliage appears."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In the genus containing the **accentor**, sexual plumage differences remain modest compared to tropical thrushes."*

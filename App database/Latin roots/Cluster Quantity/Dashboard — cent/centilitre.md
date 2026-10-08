@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centilitre
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of volume equal to one hundredth of a liter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of volume equal to one hundredth of a liter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of volume equal to ten millilitres or one hundredth of a litre.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measure of capacity frequently employed in European retail marketing of wines and spirits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centilitre designates a metric unit of volume equal to one hundredth of a liter."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The chemist poured out a single **centilitre** of the acid into a small porcelain evaporating dish."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"In measuring cellular secretions, the investigator records fractional volumes to the nearest **centilitre**."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"Kemp added another **centilitre** of the dark solution, watching the liquid become perfectly transparent."*

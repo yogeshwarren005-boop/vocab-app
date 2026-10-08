@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # recentness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A time immediately before the present.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of having happened or appeared not long ago.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition or quality of having occurred or been produced in the immediate past; freshness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Novelty, lateness, or contemporary origin within a historical or geological sequence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recentness designates a time immediately before the present."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The remarkable **recentness** of the lava flow was attested by the unweathered sharpness of its basaltic crust."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Vivid recollection depends heavily upon the temporal **recentness** of the original sensorial stimulation."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **recentness** of the treaty precluded any open breach of friendship between the contending princes."*

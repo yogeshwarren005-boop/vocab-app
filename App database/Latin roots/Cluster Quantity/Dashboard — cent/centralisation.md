@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centralisation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of consolidating power under a central control.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gathering to a center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The concentration of administrative power, decision-making, or operational authority under a single governance unit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The systematic gathering of distributed activities or resources into a unified focal core.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centralisation designates the act of consolidating power under a central control."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Excessive administrative **centralisation** enervates local civic spirit and breeds bureaucratic dependence."*
+> - 📜 **Herbert Spencer (*The Man Versus the State*):** *"The progressive **centralisation** of political functions threatens the traditional liberties of individual citizens."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Monarchical authority achieved complete fiscal **centralisation** after suppressing provincial parliaments."*

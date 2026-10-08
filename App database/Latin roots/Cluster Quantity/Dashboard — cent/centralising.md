@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centralising
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make central.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to draw to a central point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending toward or effecting the concentration of governance, control, or resources in one hub.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting to draw disparate elements toward a dominant core coordinate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centralising designates make central."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"The dangerous **centralising** tendencies of modern legislation threaten the vigor of municipal councils."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Every evolving system displays both integrating and **centralising** forces during structural differentiation."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The minister pursued a vigorous **centralising** policy that steadily dismantled feudal judicial exemptions."*

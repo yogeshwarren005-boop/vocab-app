@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centaurus
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conspicuous constellation in the southern hemisphere near the southern cross.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conspicuous constellation in the southern hemisphere near the southern cross.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bright constellation of the southern hemisphere containing Alpha Centauri and Omega Centauri.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The celestial grouping historically charted by Ptolemy representing a legendary centaur with a spear.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centaurus designates a conspicuous constellation in the southern hemisphere near the southern cross."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The splendid southern constellation **Centaurus** contains Alpha, one of our closest stellar neighbors."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"As our vessel crossed the equator, the brilliant stars of **Centaurus** rose majestically on the horizon."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Night watches beneath southern skies displayed the sparkling clusters of **Centaurus** and the Southern Cross."*

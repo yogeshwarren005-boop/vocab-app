@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # century
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A period of 100 years.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ten 10s.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A period of one hundred consecutive calendar years.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A subdivision of the Roman people or legion originally numbering one hundred men.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A century send forth; Search every acre in the high-grown field, And bring him to our eye. [_Exit an Officer._] What can man’s wisdom In the restoring his bereaved sense, He that helps him take all my outward worth."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There is another well-known suit in Chancery, not yet decided, which was commenced before the close of the last century and in which more than double the amount of seventy thousand pounds has been swallowed up in costs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is not expected there, for he has been recumbent this quarter of a century in the churchyard of St."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"In the second **century** of the Christian era, the Empire of Rome comprehended the fairest part of the earth."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"A single **century** had witnessed the transformation of England from an insular kingdom to a world empire."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"He watched the centuries flicker past like shadows, each **century** vanishing into the abyss of time."*

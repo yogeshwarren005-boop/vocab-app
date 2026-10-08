@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centerfold
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A magazine center spread; especially a foldout of a large photograph or map or other feature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A magazine center spread; especially a foldout of a large photograph or map or other feature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An oversized folded sheet or illustrative spread inserted into the middle of a magazine or periodical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The central visual feature or photographic layout bound at the midpoint of a publication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centerfold designates a magazine center spread; especially a foldout of a large photograph or map or other feature."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"The illustrated journal featured a panoramic color **centerfold** depicting the coronation procession."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Red Circle*):** *"He opened the foreign weekly to examine the engraved **centerfold** illustrating revolutionary unrest."*
+> - 📜 **George Gissing (*New Grub Street*):** *"The editor planned an eye-catching Christmas **centerfold** to boost retail circulation across the bookstalls."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centipede
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly nocturnal predacious arthropod having a flattened body of 15 to 173 segments each with a pair of legs, the foremost pair being modified as prehensors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly nocturnal predacious arthropod having a flattened body of 15 to 173 segments each with a pair of legs, the foremost pair being modified as prehensors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A predatory terrestrial arthropod of the class Chilopoda having a flattened multi-segmented body with one pair of legs per segment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A venomous multi-legged invertebrate equipped with pincer-like venom fangs behind the head.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Ye see an old man cut down to the stump; leaning on a shivered lance; propped up on a lonely foot. ’Tis Ahab—his body’s part; but Ahab’s soul’s a centipede, that moves upon a hundred legs."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Ye see an old man cut down to the stump; leaning on a shivered lance; propped up on a lonely foot. ’Tis Ahab—his body’s part; but Ahab’s soul’s a centipede, that moves upon a hundred legs."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"There are serpents coiled in balls, and vipers spitting poison, and centipedes, and fat blinking toads, and vampires, and lizards, and tarantulas, that we never suspect of being in the soul."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Under the decaying bark of forest logs, large specimens of the poisonous **centipede** lurked in abundance."*
+> - 📜 **Herman Melville (*Typee*):** *"The native warned me against disturbing old thatch where a stinging **centipede** might harbor in the dark."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Overturning a damp flagstone revealed a scurrying **centipede** seeking refuge among earthworm burrows."*

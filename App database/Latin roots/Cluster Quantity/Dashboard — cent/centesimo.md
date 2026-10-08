@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centesimo
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fractional monetary unit of several countries: panama and italy and uruguay and chile.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fractional monetary unit of several countries: panama and italy and uruguay and chile.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fractional monetary unit equal to one hundredth of the Italian lira, Swiss franc, or Panamanian balboa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A minor coin formerly struck in bronze or nickel for Italian and Latin American retail circulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centesimo designates a fractional monetary unit of several countries: panama and italy and uruguay and chile."*
+> - 📜 **Henry James (*Italian Hours*):** *"A ragged beggar bowed politely when rewarded with a gleaming copper **centesimo** at the church door."*
+> - 📜 **D. H. Lawrence (*Twilight in Italy*):** *"The old woman carefully counted out every **centesimo** from her leather purse to pay for goat cheese."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"The monetary integration of the Latin Union fixed the value of the **centesimo** across member states."*

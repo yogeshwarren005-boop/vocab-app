@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # accented
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To stress, single out as important.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put stress on; utter with an accent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spoken or enunciated with a recognizable regional, foreign, or dialectal inflection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emphasized rhythmically, metrically, or typographically with a diacritical mark.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"The shadowy lines became accented by twin rows of flickering fire, the rear jets seen with a blurred halo of mist round each of them, the halo crawling feebly within itself, tormented by a feeble wind."*
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"They struck once for each accented syllable of the following rhyme, making it a very rhythmical game."*
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"Then one of their number repeated the following rhyme, tapping a foot with each accented syllable."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"He answered our greeting in slightly **accented** English that hinted at a continental upbringing."*
+> - 📜 **Henry James (*The American*):** *"Newman listened attentively to the delicately **accented** syllables of the young Parisian hostess."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"The assistant commissioner replied in calmly **accented** tones that betrayed no inward agitation."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centrosomic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a centrosome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a centrosome.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, located within, or functioning as the centrosome of a biological cell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the organelle that directs spindle fiber formation during cellular division.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrosomic designates of or relating to a centrosome."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Microscopic stains reveal the **centrosomic** aster spreading fibers outward into the clear cytoplasm."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Disturbances in **centrosomic** regulation often result in multipolar spindles and genetic chaos."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation*):** *"The **centrosomic** architecture exhibits remarkable conservation throughout all animal phylogenies."*

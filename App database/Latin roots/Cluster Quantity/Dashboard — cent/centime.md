@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centime
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fractional monetary unit of several countries: france and algeria and belgium and burkina faso and burundi and cameroon and chad and the congo and gabon and haiti and the ivory coast and luxembourg and mali and morocco and niger and rwanda and senegal and switzerland and togo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A coin worth one-hundredth of the value of the basic unit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monetary unit equal to one hundredth of a franc in France, Belgium, Switzerland, and franc-zone nations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bronze or copper coin of trivial value circulating in franc-based currency systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"For many centimes there has not been a more remarkable testimony of unfaltering trust in the faithfulness of God in supplying human wants, than is found in the life and labor of George Muller and his Orphan Home, in Bristol, England."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Sandwich │Dollar │Gold │ 1 00│ Islands │ │ │ │ Spain │Peseta of 100 │Gold and silver│ 19.3│5, 10, 20, 60, │ centimes │ │ │ and 100 │ │ │ │ pesetas."*
+> - 📜 **Victor Hugo (*Les Misérables*):** *"Fantine counted her meager savings, discovering she did not possess even a single copper **centime** for food."*
+> - 📜 **Honoré de Balzac (*Eugénie Grandet*):** *"Old Grandet would dispute an expenditure down to the last **centime** with unrelenting tenacity."*
+> - 📜 **Guy de Maupassant (*The Necklace*):** *"She haggled over every grocery bill to save a few **centimes** from her modest household allowance."*

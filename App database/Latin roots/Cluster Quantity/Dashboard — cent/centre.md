@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centre
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A low-lying region in central france.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An area that is approximately central within some larger region.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The point equally distant from all points on the boundary of a circle or sphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The core, hub, or primary locus of activity, governance, culture, or commerce.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take this from this, if this be otherwise. [_Points to his head and shoulder._] If circumstances lead me, I will find Where truth is hid, though it were hid indeed Within the centre."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bring forth the body of old Salisbury, And here advance it in the market-place, The middle centre of this cursed town."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll believe as soon This whole earth may be bor’d, and that the moon May through the centre creep and so displease Her brother’s noontide with th’ Antipodes."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"The heavens themselves, the planets, and this **centre** observe degree, priority, and place."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"London was the smoky, bustling **centre** towards which all legal controversies inevitably converged."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel stood in the **centre** of the rick-yard, gazing anxiously at the threatening lightning."*

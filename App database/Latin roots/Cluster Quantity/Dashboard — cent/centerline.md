@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centerline
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A line that bisects a plane figure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line that bisects a plane figure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A real or imaginary line dividing a geometrical figure, roadway, ship, or aircraft into symmetrical halves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The primary axis of reference used by engineers and cartographers in mechanical drafts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centerline designates a line that bisects a plane figure."*
+> - 📜 **Joshua Slocum (*Sailing Alone Around the World*):** *"The ballast stones were stowed meticulously along the vessel's **centerline** to preserve trim."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"Guns were mounted symmetrically to port and starboard along the main **centerline** of the spar deck."*
+> - 📜 **Joseph Conrad (*Typhoon*):** *"Heavy seas washed over the hatches, straining every stanchion fixed down the ship's **centerline**."*

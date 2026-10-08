@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centaury
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the genus centaurium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the genus centaurea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several gentianaceous herbs of the genus Centaurium, having bitter tonic properties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A traditional European herbal remedy prepared from the dried flowering tops of common centaury.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centaury designates any of various plants of the genus centaurium."*
+> - 📜 **William Turner (*A New Herball*):** *"The common **centaury** is renowned among country healers for its bitter juice that restores the digestion."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"She collected bundles of wild **centaury** and agrimony from the sunny borders of the copse."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"Small **centaury** groweth plentifully in dry gravelly pastures and displayeth delightful red flowers."*

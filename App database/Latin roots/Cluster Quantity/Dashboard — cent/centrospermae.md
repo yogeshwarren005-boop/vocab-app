@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centrospermae
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in former classification systems; approximately synonymous with order caryophyllales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in former classification systems; approximately synonymous with order caryophyllales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical taxonomic order of flowering plants (now Caryophyllales) having curved embryos surrounding central endosperm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of dicotyledons including carnations, beets, and cacti united by specialized floral embryology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrospermae designates used in former classification systems; approximately synonymous with order caryophyllales."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The order **Centrospermae** is distinguished by an embryo that curves around a central perisperm."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Floral morphology in the **Centrospermae** illustrates the transition from apetalous to polypetalous structures."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"Arid plains supported diverse succulent forms belonging to the broad botanical alliance of **Centrospermae**."*

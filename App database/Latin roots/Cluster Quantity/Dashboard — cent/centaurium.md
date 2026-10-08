@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centaurium
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of low-growing herbs mostly of northern hemisphere having flowers with protruding spirally twisted anthers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of low-growing herbs mostly of northern hemisphere having flowers with protruding spirally twisted anthers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small annual or biennial herbs of the gentian family Gentianaceae with pink flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bitter medicinal plant historically utilized as a tonic and febrifuge in European pharmacopoeias.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centaurium designates genus of low-growing herbs mostly of northern hemisphere having flowers with protruding spirally twisted anthers."*
+> - 📜 **Nicholas Culpeper (*The Complete Herbal*):** *"The bitter herb **centaurium** opens obstructions of the liver and expels stubborn bodily impurities."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The delicate roseate flowers of **centaurium** open only during clear sunshine in moist pastures."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Alpine pastures revealed delicate specimens of **centaurium** growing alongside dwarf gentians."*

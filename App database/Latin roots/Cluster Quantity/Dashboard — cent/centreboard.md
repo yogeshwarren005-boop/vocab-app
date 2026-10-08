@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centreboard
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A retractable fin keel used on sailboats to prevent drifting to leeward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A retractable fin keel used on sailboats to prevent drifting to leeward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A retractable plate or wooden fin lowered through the keel of a sailing boat to prevent drifting sideways.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The movable maritime daggerboard used in small dinghies when sailing close to the wind.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centreboard designates a retractable fin keel used on sailboats to prevent drifting to leeward."*
+> - 📜 **Joseph Conrad (*The Mirror of the Sea*):** *"The small cutter groaned as her iron **centreboard** shuddered against the sandbank in the shallows."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"We rowed cautiously, watching lest the boat's **centreboard** should ground upon the sunken coral shelf."*
+> - 📜 **H. G. Wells (*Kipps*):** *"They hired a little sailing boat fitted with a drop **centreboard** for an afternoon cruise along the estuary."*

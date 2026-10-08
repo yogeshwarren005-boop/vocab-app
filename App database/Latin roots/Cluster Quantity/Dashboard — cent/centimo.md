@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centimo
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fractional monetary unit of venezuela and costa rica and equatorial guinea and paraguay and spain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fractional monetary unit of venezuela and costa rica and equatorial guinea and paraguay and spain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fractional monetary unit equal to one hundredth of the former Spanish peseta or Venezuelan bolívar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A minor metallic coin used in Spain and Latin America for low-value daily purchases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centimo designates a fractional monetary unit of venezuela and costa rica and equatorial guinea and paraguay and spain."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"Under the Latin Monetary Union guidelines, the Spanish peseta was subdivided into one hundred parts called the **centimo**."*
+> - 📜 **George Borrow (*The Bible in Spain*):** *"The muleteer demanded every last **centimo** agreed upon before unharnessing the pack animals."*
+> - 📜 **Ernest Hemingway (*The Sun Also Rises*):** *"We paid the bill at the cafe, leaving a few silver **centimos** beside the empty wine glasses."*

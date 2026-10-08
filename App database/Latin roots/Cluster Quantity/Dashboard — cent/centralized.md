@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centralized
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make central.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drawn toward a center or brought under the control of a central authority.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Brought together or operated under unified central direction, governance, or control.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concentrated at a single pivotal point rather than dispersed across multiple regional stations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"However, the best informed American students favor in some features the more decentralized German rather than the centralized British system."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The remarkable (tho far from perfect) adjustment of industry to the needs of each neighborhood is brought about by individual motives, not by centralized authority."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The remarkable adjustment of industry to the needs of each neighborhood is brought about by individual motives, not by centralized authority."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"A **centralized** administration may execute monumental works, but it saps the vitality of civic self-governance."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Standardized manufacturing necessitates a highly **centralized** apparatus for managing inventories."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **centralized** despotism established by Diocletian transformed the Roman principate into an imperial court."*

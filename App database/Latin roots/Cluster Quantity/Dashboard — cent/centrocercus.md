@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centrocercus
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sage grouse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sage grouse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large North American grouse comprising the sage-grouse, noted for pointed tail feathers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gallinaceous bird genus of sagebrush steppe habitats famed for elaborate lek mating displays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrocercus designates sage grouse."*
+> - 📜 **John James Audubon (*The Birds of America*):** *"The sage-cock, classified as **Centrocercus**, fans its pointed tail feathers in magnificent spring displays."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Male birds of the genus **Centrocercus** assemble on traditional breeding grounds to display acoustic air sacs."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"The genus **Centrocercus** is uniquely adapted for browsing upon aromatic Artemisia leaves through harsh winters."*

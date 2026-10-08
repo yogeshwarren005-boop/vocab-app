@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # decentralize
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make less central.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less central.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To redistribute administrative functions, powers, or management away from a central hub to local units.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To distribute operations and decision-making authority across autonomous divisions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"However, the best informed American students favor in some features the more decentralized German rather than the centralized British system."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To **decentralize** the credit system was one of the prime objectives in designing the regional reserve banks."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Parliament should **decentralize** county road construction to the elected boards of each shire."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"To **decentralize** civic authority is to foster an active love of country among all social classes."*

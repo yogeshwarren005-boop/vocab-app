@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # accentuate
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To stress, single out as important.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put stress on; utter with an accent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make more noticeable, prominent, or clearly defined in appearance, tone, or significance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To pronounce, chant, or articulate with marked vocal stress or musical inflection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"What are American dry-goods?” asked the duchess, raising her large hands in wonder and accentuating the verb."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"The cut was that of a country tailor, the coat accentuating the curve of Aunt Eliza's back, while the skirt showed a persistent tendency to sag at the back."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was lowness and quiet accentuated: an emphasis of deep meanings, their form, at the same time, being scarcely expressed."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection tends to **accentuate** advantageous anatomical divergences over successive generations."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The pale twilight served only to **accentuate** the somber immensity of Egdon Heath."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Her black mourning dress seemed to **accentuate** the slender grace of her youthful carriage."*

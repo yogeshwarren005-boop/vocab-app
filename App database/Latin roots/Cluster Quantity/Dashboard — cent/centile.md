@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centile
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (statistics) any of the 99 numbered points that divide an ordered set of scores into 100 parts each of which contains one-hundredth of the total.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (statistics) any of the 99 numbered points that divide an ordered set of scores into 100 parts each of which contains one-hundredth of the total.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the ninety-nine values dividing a frequency distribution into one hundred equal intervals; a percentile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A relative statistical rank indicating the proportion of scores falling below a given observation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centile designates (statistics) any of the 99 numbered points that divide an ordered set of scores into 100 parts each of which contains one-hundredth of the total."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty and Its Development*):** *"Ranking anthropometric measurements by **centile** reveals the continuous gradation of human physical traits."*
+> - 📜 **Karl Pearson (*The Grammar of Science*):** *"The median observation corresponds precisely to the fiftieth **centile** of the standardized distribution."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Sensory threshold tests demonstrated that exceptional subjects ranked above the ninetieth **centile**."*

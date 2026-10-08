@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centaurea
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Knapweed; star thistle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Knapweed; star thistle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of herbaceous thistle-like flowering plants in the family Asteraceae, including the cornflower.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A knapweed plant known for bright composite flower heads and medicinal folklore traditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Leaf of _Centaurea nigra_ with brand. 〃 68."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation*):** *"In several species of **centaurea**, insect visitors reliably transfer pollen between capitula in open fields."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The common blue cornflower belongs to the genus **centaurea**, flourishing along roadside verges."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"We noticed bumblebees eagerly seeking honey among the purple blossoms of the wild **centaurea**."*

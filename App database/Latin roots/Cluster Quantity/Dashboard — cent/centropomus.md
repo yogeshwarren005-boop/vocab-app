@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centropomus
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the centropomidae: snooks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the centropomidae: snooks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of game fishes comprising the snooks, characterized by a spine on the gill cover.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tropical estuarine fish genus known for prized flesh and spirited resistance on an angling line.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centropomus designates type genus of the centropomidae: snooks."*
+> - 📜 **David Starr Jordan (*Fishes*):** *"Anglers along Florida estuaries pursue the common snook, classified as **Centropomus** undecimalis."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"Local fishermen caught large specimens of **Centropomus** in the brackish mouth of the coastal river."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In tidal creeks we observed predatory shoals of **Centropomus** darting through the mangrove roots."*

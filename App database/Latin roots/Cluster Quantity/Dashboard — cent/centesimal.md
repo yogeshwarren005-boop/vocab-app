@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centesimal
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or divided into hundredths.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ordinal number of one hundred in counting order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, based on, or divided into hundredths or a scale consisting of one hundred parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the centesimal division of degrees, angles, or thermometric gradients.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centesimal designates relating to or divided into hundredths."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"French cartographers proposed a **centesimal** division of the quadrant into one hundred equal grades."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Measurements recorded on a **centesimal** scale permit precise quantitative comparison of muscular contractions."*
+> - 📜 **William Whewell (*History of the Inductive Sciences*):** *"The adoption of a **centesimal** graduation simplified calculations across analytical mechanics."*

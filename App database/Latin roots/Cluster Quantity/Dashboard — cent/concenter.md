@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # concenter
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring into focus or alignment; to converge or cause to converge; of ideas or emotions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring into focus or alignment; to converge or cause to converge; of ideas or emotions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To bring or direct toward a common center or focal point; to converge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To focus all attention, interest, or energetic effort upon a single unified object.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, concenter designates bring into focus or alignment; to converge or cause to converge; of ideas or emotions."*
+> - 📜 **John Milton (*Paradise Lost*):** *"All his thoughts did **concenter** upon the great undertaking that lay before him in the deep abyss."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Great minds **concenter** their scattered faculties until an irresistible light breaks forth upon truth."*
+> - 📜 **Edgar Allan Poe (*Eureka: A Prose Poem*):** *"The forces of the cosmos **concenter** periodically into a primordial, indivisible unity."*

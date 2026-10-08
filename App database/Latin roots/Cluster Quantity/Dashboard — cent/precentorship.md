@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # precentorship
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of precentor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of precentor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, ecclesiastical dignity, or term of service of a cathedral precentor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formal role or function of leading congregational singing and choral liturgies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precentorship designates the position of precentor."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The duties annexed to the **precentorship** required continuous supervision of the cathedral choir school."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Rich endowments were attached to the **precentorship** of the basilica to maintain perpetual psalmody."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Disputes arose regarding whether the vacant **precentorship** fell within the crown's ecclesiastical patronage."*

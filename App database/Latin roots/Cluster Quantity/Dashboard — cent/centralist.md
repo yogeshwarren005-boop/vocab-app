@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centralist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Advocating centralization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Advocating centralization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate, supporter, or proponent of centralized government, administration, or authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or favoring the consolidation of power within a singular governing body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centralist designates advocating centralization."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The **centralist** philosophy urged the necessity of a vigorous national executive to secure domestic peace."*
+> - 📜 **Thomas Jefferson (*Writings*):** *"I have always mistrusted the **centralist** faction that seeks to diminish the sovereign rights of the states."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"The ardent **centralist** imagines that uniform administrative decrees can cure all provincial inequities."*

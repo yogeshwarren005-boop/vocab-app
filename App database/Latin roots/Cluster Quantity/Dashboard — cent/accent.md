@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # accent
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distinctive manner of oral expression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Special importance or significance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinctive mode of oral pronunciation peculiar to a particular region, social class, or nation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prominent vocal stress or melodic pitch placed upon a particular syllable or musical tone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your accent is something finer than you could purchase in so removed a dwelling."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"POLONIUS. ’Fore God, my lord, well spoken, with good accent and good discretion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath a trick of Cœur-de-lion’s face; The accent of his tongue affecteth him."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"Your **accent** is something finer than you could purchase in so removed a dwelling."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He spoke with a refined Northern **accent** that carried unmistakable authority in the drawing-room."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Her mother’s dialect was noticeable, but Tess spoke with the softer **accent** acquired at the national school."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centromeric
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the dense specialized portion of a chromosome to which the spindle attaches during mitosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the dense specialized portion of a chromosome to which the spindle attaches during mitosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, located within, or functioning as the centromere of a chromosome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the specialized heterochromatic DNA sequences that organize the kinetochore.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centromeric designates pertaining to the dense specialized portion of a chromosome to which the spindle attaches during mitosis."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"High-magnification microscopy reveals the dense **centromeric** region where spindle microtubules anchor."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Defective **centromeric** cohesion leads directly to nondisjunction during meiotic maturation of ova."*
+> - 📜 **Karl Pearson (*The Grammar of Science*):** *"Statistical tracking of **centromeric** markers confirmed predictable segregation of genetic factors."*

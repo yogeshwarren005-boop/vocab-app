@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # percentile
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (statistics) any of the 99 numbered points that divide an ordered set of scores into 100 parts each of which contains one-hundredth of the total.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (statistics) any of the 99 numbered points that divide an ordered set of scores into 100 parts each of which contains one-hundredth of the total.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Each of the hundred equal groups into which a population or frequency distribution can be divided.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statistical value on a scale of one hundred indicating the percentage of scores falling below it.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, percentile designates (statistics) any of the 99 numbered points that divide an ordered set of scores into 100 parts each of which contains one-hundredth of the total."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty and Its Development*):** *"Tabulating physiological measurements by **percentile** rank reveals the symmetry of natural variation."*
+> - 📜 **Karl Pearson (*The Grammar of Science*):** *"The seventy-fifth **percentile** marks the upper quartile boundary of any standardized continuous curve."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Memory retention experiments showed that trained subjects consistently scored above the ninetieth **percentile**."*

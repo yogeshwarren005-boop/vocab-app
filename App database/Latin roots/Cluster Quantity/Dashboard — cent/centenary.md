@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centenary
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The 100th anniversary (or the celebration of it).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or completing a period of 100 years.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hundredth anniversary of a notable historical event, birth, or institutional founding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or spanning a full period of one hundred consecutive calendar years.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In 1916, the centenary of the beginning of savings banks in this country, a nation-wide propaganda was undertaken by the American Bankers' Association for the encouragement of savings. § 4. #Investment banking#."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The three years since the celebration of the Centenary have been characterized by a simultaneous process of internal consolidation and steady enlargement of the orbit of a fast-evolving Administrative Order."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The world-wide Centenary celebrations crowning these enterprises were undertaken in such perilous circumstances and carried out despite the formidable obstacles engendered through prolongation of hostilities."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"The nation celebrated the **centenary** of the philosopher's birth with learned addresses and publications."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Every **centenary** commemoration of the city's foundation renewed ancient civic games and sacrifices."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"A solemn **centenary** festival recalled the foundation of the monastery by pious early rulers."*

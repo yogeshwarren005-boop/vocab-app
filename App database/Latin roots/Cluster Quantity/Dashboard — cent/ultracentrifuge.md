@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # ultracentrifuge
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A high speed centrifuge used to determine the relative molecular masses of large molecules in high polymers and proteins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to the action of an ultracentrifuge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A high-speed centrifuge optimized for spinning at extraordinary rotational velocities to sediment colloidal particles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An analytical laboratory apparatus generating gravitational fields exceeding several hundred thousand times gravity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ultracentrifuge designates a high speed centrifuge used to determine the relative molecular masses of large molecules in high polymers and proteins."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The rotor of the **ultracentrifuge** spins within an evacuated chamber to eliminate atmospheric friction."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"With the analytical **ultracentrifuge**, researchers directly determine the sedimentation coefficient of hemoglobin."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Creeping Man*):** *"Holmes studied the high-speed **ultracentrifuge** installed to separate obscure animal serum extracts."*

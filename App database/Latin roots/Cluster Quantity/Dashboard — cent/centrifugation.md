@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centrifugation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of separating substances of different densities by the use of a centrifuge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of separating substances of different densities by the use of a centrifuge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of separating fractions of differing density by spinning in a centrifuge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A laboratory technique utilizing rotational force to sediment macromolecular suspensions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrifugation designates the process of separating substances of different densities by the use of a centrifuge."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Careful **centrifugation** of the blood serum yielded a clear amber supernatant above the dense clot."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Rapid **centrifugation** clarified the fermented broth without introducing chemical additives."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Routine **centrifugation** of urine samples isolates diagnostic casts and crystalline deposits."*

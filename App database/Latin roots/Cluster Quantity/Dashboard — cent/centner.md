@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centner
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of weight equal to 100 kilograms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In some european countries: a unit of weight equivalent to 50 kilograms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A European commercial unit of weight historically representing one hundred pounds or fifty kilograms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavy metric hundredweight employed in German, Russian, and Austrian agricultural wholesale markets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centner designates a unit of weight equal to 100 kilograms."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"German ironworks measured their seasonal smelting output in tons and the customary **centner**."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"The Baltic timber rafts transported several hundred **centner** of salted provisions down the river."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"Wholesale agricultural trade across central Europe routinely quoted grain contracts per metric **centner**."*

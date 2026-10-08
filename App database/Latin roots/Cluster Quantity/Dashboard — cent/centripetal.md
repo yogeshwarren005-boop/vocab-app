@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centripetal
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to move toward a center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to unify.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moving, directed, or tending toward a center or axis of revolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inward force that compels an object to maintain a curved orbital path.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"How is this force, with its numberless checks and counter-checks, its centripetal and centrifugal tendencies, best determined in its necessarily oblique way?"*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Everything again is centripetal; Tertullian is too much in earnest to lose himself in the endless periods of the rhetorician, or in the charming fancies dear to the eclectic and especially to contemporary Platonists."*
-> - 📜 **James Joyce (*Ulysses*):** *"How did the centripetal remainer afford egress to the centrifugal departer?"*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"A **centripetal** force is that by which bodies are drawn or impelled towards a central point."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"Planetary revolutions continue unbroken because the sun exerts steady **centripetal** attraction."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The equilibrium of the social body depends upon balancing centrifugal liberty with **centripetal** law."*

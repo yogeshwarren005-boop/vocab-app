@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # accenting
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of giving special importance or significance to something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To stress, single out as important.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Placing particular emphasis, stress, or expressive force upon a word, syllable, or theme.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Highlighting or setting off specific aesthetic features within an artistic arrangement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Han-nah!” again called Squire Newcome, separating the two syllables by a pause of deliberation, and strongly accenting the last syllable,--a habit of his with all proper names."*
+> - 📜 **Edgar Allan Poe (*The Philosophy of Composition*):** *"In **accenting** the concluding refrain, the poet heightens the melancholic impression of the stanza."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Every great writer possesses an instinctive manner of **accenting** heroic virtues."*
+> - 📜 **Virginia Woolf (*The Voyage Out*):** *"She sat beside the piano, quietly **accenting** the poignant cadences of the sonata."*

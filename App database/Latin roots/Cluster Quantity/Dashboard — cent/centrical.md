@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centrical
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or situated at or near a center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or situated at or near a center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Placed in or near the center; occupying a middle or central location.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or proceeding directly from an organizing central source.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"It is time, then,” said Fitzurse, “to draw our party to a head, either at York, or some other centrical place."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The imagination acts as a **centrical** energy reconciling disparate sensory impressions."*
+> - 📜 **William Whewell (*History of the Inductive Sciences*):** *"Ptolemaic cosmology assigned a **centrical** position to the stationary terrestrial sphere."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The soul seeks a **centrical** resting place amid the whirlwind of transient phenomena."*

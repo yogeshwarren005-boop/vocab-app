@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # indecent
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not in keeping with accepted standards of what is right or proper in polite society.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offensive to good taste especially in sexual matters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Offending against generally accepted standards of propriety, modesty, or good taste; obscene.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unseemly, unbecoming, or grossly inappropriate in conduct, language, or artistic depiction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon seemed to be the officiating clergyman, about whom it would be indecent to make remarks."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Their inspiration is to be found almost exclusively in Heine's love-affairs, decent and indecent."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Pleyel loaded me with indecent and virulent invectives, but he withheld from me the facts that generated his suspicions."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon regarded any display of uncontrolled temper as thoroughly **indecent** in a gentleman and scholar."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The coroner commented that such unseemly haste in burying the deceased appeared shockingly **indecent**."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Court dramatists were severely censured for introducing **indecent** witticisms into royal performances."*

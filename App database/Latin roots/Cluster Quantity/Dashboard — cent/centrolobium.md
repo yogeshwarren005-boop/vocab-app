@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centrolobium
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of centrolobium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of centrolobium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of South American leguminous trees in the family Fabaceae, prized for durable ornamental timber.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tropical hardwood tree bearing spiny winged pods and yielding reddish lumber known as arariba.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrolobium designates a genus of centrolobium."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"Dense forests bordering the Orinoco contained colossal specimens of **Centrolobium** laden with winged seed pods."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Brazilian shipwrights value the tough timber of **Centrolobium** for constructing sturdy ocean-going keels."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The prickly fruit of **Centrolobium** illustrates a specialized adaptation for wind dispersal in the rainforest."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # cental
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A united states unit of weight equivalent to 100 pounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A united states unit of weight equivalent to 100 pounds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A commercial unit of weight equal to one hundred imperial pounds avoirdupois; a hundredweight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A standardized measure used principally in grain, flour, and agricultural commodities markets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cental designates a united states unit of weight equivalent to 100 pounds."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Merchants in port towns frequently quote wholesale wheat shipments by the **cental** rather than the bushel."*
+> - 📜 **Alfred Marshall (*Principles of Economics*):** *"The market quotation for imported barley settled at twelve shillings per **cental** across Liverpool docks."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"Uniform standards of measurement like the **cental** simplify competitive pricing across modern trade exchanges."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centralization
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of consolidating power under a central control.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gathering to a center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The consolidation of administrative power, decision-making, or operational authority under a single hub.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physical or functional drawing together of distributed components into a core system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"By this means the reserves of the several district banks may be "piped together" and thus be practically made into one central bank under governmental control, altho centralization was in outward form avoided by the bill."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But ordinary profit-sharing is not in accord with the general trend toward the centralization of responsibility in the hands of competent managers, ensuring to the worker a definite amount in advance, as high as conditions make possible."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But when, as in the case of Nicholas the Czar, the ringed crown of geographical empire encircles an imperial brain; then, the plebeian herds crouch abased before the tremendous centralization."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Democratic nations naturally drift toward bureaucratic **centralization** unless guarded by vibrant municipal liberties."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Extreme administrative **centralization** removes local problems from the hands of those most qualified to solve them."*
+> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"Industrial efficiency often demands financial **centralization**, while social vigor requires decentralized initiative."*

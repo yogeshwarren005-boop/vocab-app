@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centavo
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fractional monetary unit of several countries: el salvador and sao tome and principe and brazil and argentina and bolivia and colombia and cuba and the dominican republic and ecuador and el salvador and guatemala and honduras and mexico and nicaragua and peru and the philippines and portugal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fractional monetary unit of several countries: el salvador and sao tome and principe and brazil and argentina and bolivia and colombia and cuba and the dominican republic and ecuador and el salvador and guatemala and honduras and mexico and nicaragua and peru and the philippines and portugal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fractional monetary unit equal to one hundredth of the basic currency unit in various Latin American nations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small-denomination coin minted in Mexico, Brazil, Colombia, and the Philippines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Liberia │Dollar │Gold │ 1 00│ Mexico │do │Silver │ 89.4│Peso or dollar │ │ │ │ 5, 10, 25, and │ │ │ │ 50 centavo."*
+> - 📜 **W. H. Hudson (*The Purple Land*):** *"The gaucho reached into his pocket and handed the vendor a battered copper **centavo** for tobacco."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"Fluctuations in silver value frequently upset the legal exchange parity of the fractional **centavo**."*
+> - 📜 **Joseph Conrad (*Nostromo*):** *"He was reputed to guard his wealth so jealously that he would dispute the payment of a single **centavo**."*

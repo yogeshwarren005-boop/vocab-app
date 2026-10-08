@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centralize
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make central.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make central.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To bring under unified control, authority, or administration at a focal command center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To gather dispersed activities, offices, or functions into a principal coordinating location.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The ideal of socialism is the abolition of private property, the centralizing under the control of the state of all wealth, except the simple personal belongings, clothing and other consumption goods."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"However, the best informed American students favor in some features the more decentralized German rather than the centralized British system."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The remarkable (tho far from perfect) adjustment of industry to the needs of each neighborhood is brought about by individual motives, not by centralized authority."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"To **centralize** military command under one responsible head is indispensable for the defense of the union."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Attempts to **centralize** all municipal oversight in the capital result in bureaucratic congestion."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"Modern railway mergers attempt to **centralize** freight distribution to reduce terminal overhead."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centerpiece
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The central or most important feature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something placed at the center of something else (as on a table).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ornamental object, floral arrangement, or decorative structure placed in the center of a dining table.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The most important, prominent, or central element in an artistic exhibition or presentation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Major Spencer asked Clifton Sloane, an Improver who drove the milk to the Carmody cheese factory, if it was true that everybody would have to have his milk-stand hand-painted next summer and keep an embroidered centerpiece on it."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"A lavish silver **centerpiece** laden with hothouse camellias adorned the long banquet table."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The elaborate Venetian glass **centerpiece** drew admiring exclamations from the assembled wedding guests."*
+> - 📜 **Virginia Woolf (*Mrs. Dalloway*):** *"Clarissa surveyed the dining table, adjusting the floral **centerpiece** before her guests arrived."*

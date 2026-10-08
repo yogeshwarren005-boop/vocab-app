@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centralised
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make central.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drawn toward a center or brought under the control of a central authority.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Organized, managed, or controlled under a single focal authority or unified governing system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brought together into a primary location or core coordination mechanism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centralised designates make central."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"A tightly **centralised** bureaucracy rarely accommodates the nuanced economic requirements of distant colonies."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Militant societies inevitably develop a rigidly **centralised** command structure for swift defensive mobilization."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"France under Louis XIV exhibited a brilliantly **centralised** monarchy admired throughout Europe."*

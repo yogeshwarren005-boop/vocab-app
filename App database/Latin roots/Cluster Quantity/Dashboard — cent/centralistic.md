@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centralistic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Advocating centralization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Advocating centralization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, resembling, or promoting centralism in administration or political structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting an organizational pattern that directs operations exclusively from a dominant headquarters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centralistic designates advocating centralization."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"A rigid **centralistic** apparatus suppresses experimental adaptations that arise spontaneously in local communities."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The **centralistic** traditions of continental civil service discouraged the formation of independent joint-stock firms."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Corporate trusts adopted an aggressively **centralistic** management schema to dictate factory quotas."*

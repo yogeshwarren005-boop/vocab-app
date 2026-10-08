@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # accentual
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to accent or stress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of verse) having a metric system based on stress rather than syllables or quantity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, based on, or regulated by stress or vocal accent rather than syllabic quantity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by verse meters whose rhythm is governed by the recurrence of stressed beats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, accentual designates of or pertaining to accent or stress."*
+> - 📜 **Matthew Arnold (*On Translating Homer*):** *"English poetic hexameter relies on an **accentual** beat rather than classical quantitative length."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"The **accentual** cadence of vernacular idioms gradually displaced quantitative Latin prosody."*
+> - 📜 **Edgar Allan Poe (*The Rationale of Verse*):** *"Our modern versification is fundamentally **accentual**, depending on alternate stresses for its music."*

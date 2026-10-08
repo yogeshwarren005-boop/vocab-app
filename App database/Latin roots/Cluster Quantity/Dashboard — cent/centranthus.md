@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centranthus
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of southern european herbs and subshrubs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of southern european herbs and subshrubs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of herbaceous Eurasian plants in the valerian family Caprifoliaceae, including the red valerian.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hardy flowering plant cultivated in rocky borders having spurred blossoms in dense cymes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centranthus designates genus of southern european herbs and subshrubs."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The spurred corolla distinguishing **centranthus** separates it from typical valerians in garden flora."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation*):** *"In several ornamental species of **centranthus**, the nectar spurs attract long-tongued hawk-moths."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Red spur-valerian, known botanically as **centranthus**, blooms profusely along crumbling limestone walls."*

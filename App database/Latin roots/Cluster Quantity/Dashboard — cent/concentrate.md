@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # concentrate
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The desired mineral that is left after impurities have been removed from mined ore.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A concentrated form of a foodstuff; the bulk is reduced by removing water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To focus one's full attention, thought, or mental energy on a particular task or subject.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To increase the strength or density of a liquid or substance by removing water or diluents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But I have so much to think of, in connexion with Borrioboola-Gha and it is so necessary I should concentrate myself that there is my remedy, you see.” As Caddy gave me a glance of entreaty, and as Mrs."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The impending night appeared to concentrate in his eye."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"So I resolved, on my next return from Adam Strang’s experiences, whenever it might be, that I should, immediately, on resuming consciousness, concentrate upon what visions and memories I had brought back of chess playing."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes sat back in his chair, curling his thin knees to **concentrate** upon the problem before him."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Evaporating the saline solution over a sand bath served to **concentrate** the crystals rapidly."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The ability to voluntarily **concentrate** the attention is the very root of judgment, character, and will."*

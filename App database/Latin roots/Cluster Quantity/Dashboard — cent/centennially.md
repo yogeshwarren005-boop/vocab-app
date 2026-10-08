@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centennially
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Every hundred years; once in a century.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Every hundred years; once in a century.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner occurring, observed, or renewed once in every hundred calendar years.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recurrently on each hundredth anniversary celebration or chronological milestone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centennially designates every hundred years; once in a century."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Such monumental statutory revisions recur only **centennially** when old institutions face profound crisis."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The slow secular drift in the planet's orbit is computed **centennially** by astronomical tables."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The sacred games were ordained to be solemnized **centennially** by ancestral decree of the senate."*

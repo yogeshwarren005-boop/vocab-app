@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centriole
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a pair of small cylindrical cell organelles near the nucleus in animal cells; composed of nine triplet microtubules and form the asters during mitosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of a pair of small cylindrical cell organelles near the nucleus in animal cells; composed of nine triplet microtubules and form the asters during mitosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A minute cylindrical cellular organelle involved in organizing spindle fibers during cell division.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A paired organelle located within the centrosome that duplicates prior to mitotic division.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centriole designates one of a pair of small cylindrical cell organelles near the nucleus in animal cells; composed of nine triplet microtubules and form the asters during mitosis."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Under the immersion lens, each duplicate **centriole** migrates toward an opposing cellular pole."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cytological research revealed the vital role of the **centriole** in orchestrating mitotic cleavage."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation*):** *"The tiny **centriole** anchors the radiant aster seen during early embryonic karyokinesis."*

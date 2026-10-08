@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # incentive
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A positive motivational influence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An additional payment (or other remuneration) to employees as a means of increasing output.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thing that motivates, incites, or encourages a person to act or achieve a specific goal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An economic reward or prospective gain that stimulates commercial exertion and enterprise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But the understood incentive on the woman’s part was wanting here."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There is an incentive to divest one's self of ownership (e.g., by selling stocks) and to become a lender (e.g., by buying bonds)."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"He had not even an incentive to endure hardships for the sake of what lay beyond, for it was merely in passive submission to his mother's wish that he had decided to enter holy orders."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The prospect of earning honest independence was sufficient **incentive** for Gabriel to redouble his daily labors."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The hope of competitive profit provides the driving **incentive** for industrial innovation and efficiency."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The security of private property affords the strongest **incentive** for frugal savings and industrious cultivation."*

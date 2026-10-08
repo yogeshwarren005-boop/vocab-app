@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centralise
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make central.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make central.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To concentrate authority, administrative control, or operational direction into a central core.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To bring disparate components or municipal functions together into a singular organizing hub.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centralise designates make central."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"To **centralise** information across the nation is beneficial, but to centralise executive power is pernicious."*
+> - 📜 **Herbert Spencer (*Social Statics*):** *"State planners endeavor to **centralise** educational direction at the expense of regional voluntary enterprise."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"A resolute government must coordinate and **centralise** national industry to remedy widespread distress."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centerboard
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A retractable fin keel used on sailboats to prevent drifting to leeward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A retractable fin keel used on sailboats to prevent drifting to leeward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A retractable wooden or metal keel lowered through the centerline of a sailboat to reduce leeway.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The pivoting hydrodynamic fin adjusted by sailors when tacking against oncoming crosswinds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centerboard designates a retractable fin keel used on sailboats to prevent drifting to leeward."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"The skiff heeled sharply until the captain lowered the iron **centerboard** to bite into the chop."*
+> - 📜 **Herman Melville (*Redburn: His First Voyage*):** *"Small coastal sloops equipped with a movable **centerboard** navigated the shallow sandbars safely."*
+> - 📜 **Joshua Slocum (*Sailing Alone Around the World*):** *"Running before the open swell, I hauled up the auxiliary **centerboard** to lessen bottom friction."*

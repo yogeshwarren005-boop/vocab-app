@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centas
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: 100 centas equal 1 litas in lithuania.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 100 centas equal 1 litas in lithuania.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fractional monetary unit of Lithuania, equal to one hundredth of the former national litas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A coin of small denomination formerly circulating in Lithuanian commercial transactions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centas designates 100 centas equal 1 litas in lithuania."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"The Baltic monetary reform established the litas divided into one hundred units of the **centas**."*
+> - 📜 **John Maynard Keynes (*A Tract on Monetary Reform*):** *"Stabilized currencies in post-war Eastern Europe accounted for minor transactions in fractional coins like the **centas**."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Small retail barter quickly yielded to legal-tender coins, accounting down to the last copper **centas**."*

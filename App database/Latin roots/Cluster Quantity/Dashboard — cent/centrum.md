@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centrum
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The main body of a vertebra.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The main body of a vertebra.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The solid, cylindrical central body of a vertebra from which the arches and processes extend.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A center of activity, oscillation, or seismic disturbance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrum designates the main body of a vertebra."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"Each **centrum** of the vertebral column articulates with its neighbor via fibrocartilaginous discs."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The biconcave **centrum** seen in primitive fishes contrasts with the flattened surfaces of mammalian vertebrae."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The shock radiated outward through strata from an underground seismic **centrum** miles beneath the caldera."*

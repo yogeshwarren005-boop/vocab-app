@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centrarchid
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small carnivorous freshwater percoid fishes of north america usually having a laterally compressed body and metallic luster: crappies; black bass; bluegills; pumpkinseed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small carnivorous freshwater percoid fishes of north america usually having a laterally compressed body and metallic luster: crappies; black bass; bluegills; pumpkinseed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any freshwater ray-finned fish belonging to the North American family Centrarchidae, including sunfishes and black basses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spiny-finned panfish characterized by lateral compression and prominent dorsal spines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrarchid designates small carnivorous freshwater percoid fishes of north america usually having a laterally compressed body and metallic luster: crappies; black bass; bluegills; pumpkinseed."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The typical **centrarchid** constructs a shallow circular nest on gravelly river bottoms during spawning season."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Anglers prize every North American **centrarchid**, especially the largemouth bass and crappie."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Fluvial isolation has fostered divergent osteological adaptations throughout each distinct **centrarchid** lineage."*

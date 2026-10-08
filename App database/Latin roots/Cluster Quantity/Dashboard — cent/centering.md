@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centering
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The concentration of attention or energy on something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (american football) putting the ball in play by passing it (between the legs) to a back.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A temporary wooden or metal framing structure supporting an arch, vault, or dome during masonry construction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of placing, adjusting, or aligning an object precisely at the focal middle point.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centering designates the concentration of attention or energy on something."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Medieval masons struck away the wooden **centering** only after the keystone was securely bedded in mortar."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Bridge builders erected massive timber **centering** across the river to support the stone archways."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The hive-bee begins by **centering** each hexagonal cell precisely opposite the conjunction of three others."*

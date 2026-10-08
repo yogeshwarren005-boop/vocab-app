@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # bicentennial
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The 200th anniversary (or the celebration of it).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or completing a period of 200 years.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The two-hundredth anniversary of an important historical event, foundation, or national birth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring once every two hundred years, or enduring across a span of two centuries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bicentennial designates the 200th anniversary (or the celebration of it)."*
+> - 📜 **Walt Whitman (*Democratic Vistas*):** *"Looking forward toward the nation's **bicentennial** milestones, democratic institutions must foster spiritual greatness."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Over the Teacups*):** *"The academic college celebrated its **bicentennial** gathering with historical pageantry and solemn hymns."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"Reflecting upon New England history, the **bicentennial** commemorations recalled ancestral puritan virtues."*

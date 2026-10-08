@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centered
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Center upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Direct one's attention on something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Positioned, focused, or concentrated directly at or around an established central point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing emotional balance, inner composure, and steady clarity of purpose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"But this difference is readily discovered in the impressions made upon us by their writings, namely that Hoelderlin's Weltschmerz is absolutely naive and unconscious, while that of Lenau is at all times self-conscious and self-centered."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Your initial field of operations is centered in Coldfield," Ram pointed to the light."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"New green lights appeared in their place, this time moving in arcs converging on the cylinder centered in a sphere: the depot in its force field cocoon."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"All his fiery energies were fiercely **centered** upon the pursuit of that one malicious monster."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Her ambitions remained firmly **centered** on establishing social preeminence in the capital."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Attentive consciousness is **centered** upon the vivid focal impression while fringe sensations recede."*

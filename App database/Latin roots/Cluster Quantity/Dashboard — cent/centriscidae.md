@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centriscidae
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shrimpfishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shrimpfishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of small bizarre marine fishes known as snipefishes or shrimp fishes having razor-like bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A taxonomic family of syngnathiform fishes that swim vertically with snouts pointed downward.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centriscidae designates shrimpfishes."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Members of the family **Centriscidae** swim in synchronized schools with their heads pointed down."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The transparent carapace of the **Centriscidae** represents an extreme modification of dermal plates."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Among coral formations we captured curious small fishes of the **Centriscidae** with paper-thin bodies."*

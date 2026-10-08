@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # central
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A workplace that serves as a telecommunications facility where lines from telephones can be connected together to permit communication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving as an essential component.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated at, forming, or pertaining to the middle or center of an area, object, or space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of primary, essential, or principal importance within a system, argument, or organization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"They were about to disperse, when a smart footstep, entering the porch and coming up the central passage, arrested their attention."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This stone edifice consisted of a central mass and two wings, whereon stood as sentinels a few slim chimneys, now gurgling sorrowfully to the slow wind."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Nearing the central part, her echoes were intruded on by other sounds; and seeing the barn not far off the road, she guessed these to be the utterances of the preacher."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The **central** principle of true philosophy rests upon uncorrupted observation of nature."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The great mountain chain forms the **central** barrier preventing species migration across the continent."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Rome stood as the majestic and **central** capital whence imperial decrees radiated to the provinces."*

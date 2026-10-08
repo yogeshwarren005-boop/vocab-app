@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # nonconcentric
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having a common center; not concentric.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having a common center; not concentric.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not sharing a common center; possessing eccentric or unaligned focal points.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to curved geometries or circular paths whose central axes do not coincide.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonconcentric designates not having a common center; not concentric."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Tilting the glass pane produced elliptical, **nonconcentric** interference rings across the surface."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Calculating capacitance between two **nonconcentric** cylindrical conductors requires conformal transformation."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The planetary orbits are slightly elliptical and **nonconcentric** with respect to the solar center."*

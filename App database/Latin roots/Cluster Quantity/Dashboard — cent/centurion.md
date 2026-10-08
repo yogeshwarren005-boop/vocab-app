@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centurion
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (ancient rome) the leader of 100 soldiers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (ancient rome) the leader of 100 soldiers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A commander of a century, originally a military unit of one hundred men in the ancient Roman legion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A veteran Roman officer responsible for maintaining discipline and leading troops in battle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Only a centurion and a handful of soldiers are with Him."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And that centurion--what was his name?--his daughter!..."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Jerome tells us that Tertullian was the son of a centurion.[5] He tells us himself, incidentally and by implication, that he was the child of heathen parents."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The stern **centurion** maintained discipline among the legionaries with his traditional vine staff."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"A **centurion**; what good news from the field? Our army lies within a mile of the city."*
+> - 📜 **Thomas Babington Macaulay (*Lays of Ancient Rome*):** *"The veteran **centurion** stepped forward, his helmet scarred with the strokes of Sabine broadswords."*

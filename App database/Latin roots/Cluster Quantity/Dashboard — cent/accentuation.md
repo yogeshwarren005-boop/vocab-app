@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # accentuation
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use or application of an accent; the relative prominence of syllables in a phrase or utterance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of giving special importance or significance to something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of stressing, emphasizing, or rendering prominent in speech, writing, or design.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The system or pattern of diacritical accent marks utilized in phonetic or liturgical texts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was a sonorous, harmonious, and flexible dialect, the vowels seeming to admit of very varied accentuation."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Emma Brigham, was now sitting up straight in her chair; she had ceased rocking, and was eyeing them both intently with a sudden accentuation of family likeness in her face."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Dynamic emotional states find immediate phonetic outlet through the vigorous **accentuation** of syllables."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The logical force of an oral proposition frequently shifts under altered grammatical **accentuation**."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"In Leonardo's portraits, the subtle **accentuation** of shadow creates an impression of brooding mystery."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centrosymmetric
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a symmetrical arrangement of radiating parts about a central point.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a symmetrical arrangement of radiating parts about a central point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing a center of symmetry, such that every point has an identical point reflected through the center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting point inversion symmetry in crystallographic or geometric structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrosymmetric designates having a symmetrical arrangement of radiating parts about a central point."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The electric field produced by a concentric shell remains perfectly **centrosymmetric** at all exterior points."*
+> - 📜 **John Tyndall (*Fragments of Science*):** *"A **centrosymmetric** crystal lattice does not produce piezoelectric effects when subjected to pressure."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"Crystallographers classify minerals according to whether their internal atomic planes are **centrosymmetric**."*

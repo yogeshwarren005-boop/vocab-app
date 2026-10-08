@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centennial
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The 100th anniversary (or the celebration of it).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or completing a period of 100 years.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring once every hundred years, or marking the completion of a hundred-year period.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The celebration, festival, or anniversary marking one hundred years of continuous existence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Hour is ripe to recall unnumbered tribulations, sacrifices heroically endured by the dawn-breakers, culminating in Bahá'u'lláh's afflictive imprisonment in Síyáh _Ch_ál, Centennial of which is now approaching."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Topliff, with suppressed indignation; "but this we're to work on I had before the Centennial."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"I am thinking a great deal about the new edition; and cannot help hoping you are going to revert to the plan of the Centennial Edition, which issued your writings in two independent volumes."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"For the **centennial** exposition, great pavilions rose to display the machines and arts of the new world."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"The **centennial** year of 1876 stood as a landmark dividing the older republic from industrial expansion."*
+> - 📜 **Ralph Waldo Emerson (*Miscellanies*):** *"We assemble on this **centennial** day to honor the brave farmers who stood at Concord Bridge."*

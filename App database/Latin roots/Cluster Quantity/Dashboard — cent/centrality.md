@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centrality
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being central.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being central.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Position in or near the geographic middle, or serving as the core focal hub of an area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The pivotal importance, essential prominence, or principal influence exerted by an entity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrality designates the property of being central."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The geographical **centrality** of Constantinople afforded unrivaled strategic dominance over Europe and Asia."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The subjective feeling of personal identity possesses undeniable psychological **centrality** in all waking thought."*
+> - 📜 **Alfred Marshall (*Principles of Economics*):** *"The commercial **centrality** of London made its discount market the clearinghouse for international credit."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # decent
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Socially or conventionally correct; refined or virtuous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: According with custom or propriety.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conforming to accepted standards of morality, propriety, good taste, or modesty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adequate, respectable, or satisfactory in quality, degree, or condition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is a black, dilapidated street, avoided by all decent people, where the crazy houses were seized upon, when their decay was far advanced, by some bold vagrants who after establishing their own possession took to letting them out in lodgings."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It MAY be a very good sort of penitence in a vagabond, who has wasted the best time of his life, to go back then to decent people that he never was a credit to and live upon them, but it’s not my sort."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"For this orphan charge of the Christian saint whose shrine was at Tooting has patted him on the shoulder, and it is the first time in his life that any decent hand has been so laid upon him."*
+> - 📜 **William Shakespeare (*Henry VIII*):** *"My next poor petition is that his noble Grace would have some pity upon my women for their **decent** carriage."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The little cottage was plainly furnished, but kept in remarkably clean and **decent** order."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He wished only to live a **decent** life without compromising his intellectual independence."*

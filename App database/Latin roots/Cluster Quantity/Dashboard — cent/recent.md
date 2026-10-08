@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # recent
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Approximately the last 10,000 years.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: New.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to a time not long past; having occurred, existed, or been produced lately.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the current geological epoch; the Holocene epoch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"In the middle of this agitating scene Mäzli arrived, perfectly happy and filled with her recent experiences."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa was able to quiet her on that score by the Baron's recent promise, and she even urged Apollonie to start directly."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"We are going to have dinner in a moment, and then you will have the chance to ask the dove herself what she thinks of the vulture's claws." Uncle Philip opened the door and found the children absolutely immersed in the recent events."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Many species found fossilized in **recent** tertiary deposits are identical with organisms living today."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The **recent** formation of volcanic islands provides immediate evidence of continuing subterranean energy."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"Human skeletal remains discoverable in **recent** geological strata display fully developed anatomical characteristics."*

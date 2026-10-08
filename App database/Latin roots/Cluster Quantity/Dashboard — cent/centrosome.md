@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centrosome
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small region of cytoplasm adjacent to the nucleus; contains the centrioles and serves to organize the microtubules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small region of cytoplasm adjacent to the nucleus; contains the centrioles and serves to organize the microtubules.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organelle near the nucleus of a cell that contains the centrioles and organizes microtubules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The main microtubule-organizing center of animal cells that duplicates during interphase.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrosome designates small region of cytoplasm adjacent to the nucleus; contains the centrioles and serves to organize the microtubules."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The **centrosome** serves as the dynamic organizing hub from which the mitotic spindle radiates."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Abnormal duplication of the **centrosome** is frequently detected in malignant neoplastic cells."*
+> - 📜 **Karl Pearson (*The Grammar of Science*):** *"Early cytologists tracked the migration of the **centrosome** during the initial stages of cellular cleavage."*

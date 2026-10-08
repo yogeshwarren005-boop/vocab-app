@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centimetre
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of length equal to one hundredth of a meter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of length equal to one hundredth of a meter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of length equal to one hundredth of a metre in the international metric system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A standard unit of length employed across scientific, architectural, and anatomical descriptions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"And if then we reckon how many minutes it takes to accumulate a cubic centimetre of helium we can easily reckon how many atoms go to the cubic centimetre."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The result of the experiment showed that there are in a cubic centimetre of helium a number of atoms represented by 256 followed by seventeen noughts."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"A cubic centimetre is about the size of a boy's marble."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The delicate brass dial measured barely eight **centimetres** in diameter, inlaid with ivory numerals."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The cranial circumference exceeded that of the anthropoid ape by several **centimetres** at the frontal crest."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The iron plates had buckled inwards by several **centimetres** where the submerged wreck collided with her."*

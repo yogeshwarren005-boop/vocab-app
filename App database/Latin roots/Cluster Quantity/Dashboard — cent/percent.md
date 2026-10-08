@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # percent
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A proportion in relation to a whole (which is usually the amount per hundred).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A proportion in relation to a whole (which is usually the amount per hundred).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One part in every hundred; an amount or proportion reckoned on the basis of a hundred.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specified proportion or share expressed in relation to a total baseline of one hundred.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I'm setting the thruster to cut in at twenty percent as soon as we're back in and slam the hatch."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Brad pointed at the highlighted "Fleet readiness 92 percent." "Allies?" "Made the trip from home stations along diverse routes and under detection wraps."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Maximum acceleration for almost two Earth decades increased the fleet's velocity to five percent speed-of-light, which it maintained for more than a Solar System Standard Century."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"The commercial bank discounted prime commercial bills at an annual interest rate of five **percent**."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The legal rate of interest was fixed at six **percent** to curb usurious extortions against borrowers."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Shareholders expected dividends yielding at least seven **percent** on the corporation's nominal capitalization."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centesis
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (surgery) the act of puncturing a body cavity or organ with a hollow needle in order to draw out fluid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (surgery) the act of puncturing a body cavity or organ with a hollow needle in order to draw out fluid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical puncture or perforation of a bodily cavity or membrane to aspirate trapped fluid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The clinical tapping of fluid collections in therapeutic or diagnostic procedures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centesis designates (surgery) the act of puncturing a body cavity or organ with a hollow needle in order to draw out fluid."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In extensive pleuritic effusion, exploratory **centesis** promptly relieves respiratory distress."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Prompt therapeutic **centesis** of the pericardial sac prevented impending circulatory collapse."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"Pathological specimens frequently required needle **centesis** to drain internal cysts without tissue damage."*

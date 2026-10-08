@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centenarian
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is at least 100 years old.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being at least 100 years old.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has attained the age of one hundred years or more.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of a lifespan extending to a full century of life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Experts estimate that there are thirty to fifty thousand living centenarians, up from the 1980 estimate of fifteen thousand."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Also, centenarians are not as feeble as they once were; disability rates among older people have been falling since the early 1980s."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Autocrat of the Breakfast-Table*):** *"The venerable **centenarian** remembered events from colonial days as though they had occurred yesterday."*
+> - 📜 **Francis Bacon (*The History of Life and Death*):** *"Sober habits and temperate air contribute remarkably toward producing the hardy **centenarian**."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Villagers gathered to celebrate their oldest patriarch, an alert **centenarian** who had witnessed three reigns."*

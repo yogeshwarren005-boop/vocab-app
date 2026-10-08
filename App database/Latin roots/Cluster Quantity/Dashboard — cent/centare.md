@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centare
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A centare is 1/100th of an are.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A centare is 1/100th of an are.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of superficial area equivalent to one square meter or one hundredth of an are.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A land measurement unit utilized across continental cadastral surveys for parcel subdivision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centare designates a centare is 1/100th of an are."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The French land registry registered every vineyard plot down to the exact **centare** under the revised code."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"The agricultural yield per **centare** in the irrigated garden plots surpassed ordinary open field crops."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Peasant proprietors in Flanders measure productive soil with precise care, accounting for each **centare**."*

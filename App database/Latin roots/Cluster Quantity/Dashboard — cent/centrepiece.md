@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centrepiece
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The central or most important feature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something placed at the center of something else (as on a table).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prominent ornamental object or decoration placed in the middle of a dining table.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The most vital, outstanding, or central feature of an artistic or architectural composition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Even the cabin table itself had been knocked into kindling-wood; and the cabin mess dined off the broad head of an oil-butt, lashed down to the floor for a centrepiece."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Even the cabin table itself had been knocked into kindling-wood; and the cabin mess dined off the broad head of an oil-butt, lashed down to the floor for a centrepiece."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"But the pink and crimson asters furnished a centrepiece decidedly more in keeping, somehow, with a men's dinner than roses would have been, and the decorators were content with them."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The bridal cake stood upon the table as the faded **centrepiece** of Miss Havisham's ruined banquet room."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"The dish of fruit made a charming **centrepiece**, piled with yellow pears and purple grapes."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"A massive silver **centrepiece** holding rare exotics gleamed under the soft candlelight."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # center
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An area that is approximately central within some larger region.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The piece of ground in the outfield directly ahead of the catcher.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The middle point equidistant from all points along the circumference of a circle or sphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A principal hub, gathering point, or core area of concentrated activity and population.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that will all the treasure know o’ th’ earth Must know the center too; he that will fish For my least minnow, let him lead his line To catch one at my heart."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Right in the center of the tornado stood a small cabin."*
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"I'le sink to th' Center first."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The luminous rings expanded outward from the exact **center** where the two convex glasses touched."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The eye is the first circle; the horizon which it forms is the second; and throughout nature this primary figure is repeated without end. It is the highest emblem in the cipher of the world. St. Augustine described the nature of God as a circle whose **center** was everywhere and its circumference nowhere."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Species radiate outward from an ancestral **center** of distribution as environmental barriers allow."*

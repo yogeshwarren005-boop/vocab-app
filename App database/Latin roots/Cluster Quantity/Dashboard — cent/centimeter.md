@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centimeter
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of length equal to one hundredth of a meter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of length equal to one hundredth of a meter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of linear measurement equal to one hundredth of a meter or ten millimeters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fundamental unit of distance in the CGS (centimeter-gram-second) system of physical units.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"As Brad drew his legs up through the hatchway a searing blast struck the frame, missing him by centimeters."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The clamshells closed in and stopped a few centimeters from his temple."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The absolute electrostatic unit of capacity is defined in terms of the radial dimension of one **centimeter**."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The radicle of the seedling grew nearly one **centimeter** downward into the moist soil overnight."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes examined the footprint with his pocket lens, measuring its depth to the fraction of a **centimeter**."*

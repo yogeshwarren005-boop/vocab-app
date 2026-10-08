@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # recently
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In the recent past.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the recent past.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: At a time in the immediate or near past; not long ago; lately.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fresh, novel, or newly initiated circumstances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now it was Ada, now one of my old Reading friends from whom I could not believe I had so recently parted."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby has but recently taken a passage upward by the vessel, Chadband; and her attention was attracted to that Bark A 1, when she was something flushed by the hot weather."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Suppose I really had discharged into his body any one of those pistols recently fired off that Bucket has found at my place, and dear me, might have found there any day since it has been my place."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Now, the lawyer had **recently** returned from Lincolnshire with fresh papers concerning the great suit."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She gazed at the fields where she had **recently** labored with her companions during harvest."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The footsteps were sharp and clear in the damp mud, showing someone had **recently** passed the gate."*

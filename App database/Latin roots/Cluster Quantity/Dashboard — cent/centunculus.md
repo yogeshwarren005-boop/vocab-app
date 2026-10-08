@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centunculus
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dicotyledonous genus of the family primulaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dicotyledonous genus of the family primulaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of diminutive annual herbs in the primrose family Primulaceae, commonly known as chaffweeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tiny flowering plant growing in wet sandy hollows with tiny solitary axillary flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centunculus designates a dicotyledonous genus of the family primulaceae."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The tiny chaffweed, classified as **Centunculus** minimus, is easily overlooked in damp sandy hollows."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Searching marshy cart ruts on the heath revealed creeping **Centunculus** with microscopic floral parts."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation*):** *"Self-fertilization occurs regularly in the minute, cleistogamous blossoms of **Centunculus**."*

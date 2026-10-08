@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # deconcentrate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make less central.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less central.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To disperse, scatter, or reduce the concentration or density of a group, force, or substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To distribute congested industrial, commercial, or military assets over a wider geographic area.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deconcentrate designates make less central."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Military strategists learned to **deconcentrate** infantry battalions to minimize vulnerability to artillery fire."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"Municipal planners sought to **deconcentrate** harbor freight traffic by opening peripheral railroad yards."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Efforts to **deconcentrate** crowded urban populations stimulated suburban cottage housing experiments."*

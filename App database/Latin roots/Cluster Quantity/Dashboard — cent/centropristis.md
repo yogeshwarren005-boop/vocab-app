@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centropristis
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sea basses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sea basses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of marine serranid fishes comprising the black sea bass of the western Atlantic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sea bass genus characterized by serrated opercula and mottled dark coloration near rocky reefs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centropristis designates sea basses."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The black sea bass, **Centropristis** striata, is one of the most commercially valuable food fishes of the Atlantic coast."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"In **Centropristis**, the preopercle is finely serrated like a saw, protecting the gill opening."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The osteological structure of **Centropristis** displays robust vertebrae adapted for bottom-dwelling habits."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # ascent
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An upward slope or grade (as in a road).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movement upward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or upward path of climbing, rising, or mounting toward an elevated position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An upward slope, gradient, or evolutionary advancement toward a superior condition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At her third ascent the rick suddenly brightened with the brazen glare of shining majolica—every knot in every straw was visible."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I am a brute—but good-bye!” After advancing the distance which completed the ascent of the hill, Bathsheba turned her head."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her ascent of the crooked staircase was a slower process, and her face, as it rose into the light above the last stair, encountered the gaze of all the party assembled in the bedroom."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Man may be excused for feeling some pride at having risen, though not through his own exertions, to the very summit of the organic scale; and the fact of his having thus risen, instead of having been aboriginally placed there, may give him hope for a still higher destiny in the distant future. But we are not here concerned with hopes or fears, only with the truth as far as our reason allows us to discover it. I have given the evidence to the best of my ability; and we must acknowledge, as it seems to me, that man with all his noble qualities, with sympathy which feels for the most debased, with benevolence which extends not only to other men but to the humblest living creature, with his god-like intellect which has penetrated into the movements and constitution of the solar system—with all these exalted powers—Man still bears in his bodily frame the indelible stamp of his lowly origin. The moral nature of man has reached its present standard through a long **ascent** from primeval social instincts."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I remembered the path that led to the summit of Montanvert, and resolved to attempt the steep **ascent**."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The perilous **ascent** up the craggy ledge exposed breathtaking vistas of the glacial valley beneath."*

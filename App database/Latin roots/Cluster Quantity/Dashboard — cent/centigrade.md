@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centigrade
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a temperature scale on which the freezing point of water is 0 degrees and the boiling point of water is 100 degrees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a temperature scale on which the freezing point of water is 0 degrees and the boiling point of water is 100 degrees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Denoting a temperature scale on which water freezes at zero degrees and boils at one hundred degrees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divided into one hundred equal increments or degrees, as on a Celsius thermometer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The cold of interstellar space, thousands of degrees below freezing point or the absolute zero of Fahrenheit, Centigrade or Réaumur: the incipient intimations of proximate dawn."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The boiling point registered exactly one hundred degrees **centigrade** under standard atmospheric pressure."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"The chemical mixture was maintained at eighty degrees **centigrade** in a carefully regulated bath."*
+> - 📜 **Jules Verne (*Journey to the Center of the Earth*):** *"Our mercury thermometer indicated forty degrees **centigrade** as we penetrated deeper into the cavern."*

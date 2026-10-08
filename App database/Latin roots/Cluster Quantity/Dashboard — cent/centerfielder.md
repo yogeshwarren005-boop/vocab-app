@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centerfielder
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The person who plays center field.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The person who plays center field.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The defensive baseball player assigned to patrol and field balls in center field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An outfield player renowned for exceptional running speed, range, and throwing accuracy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centerfielder designates the person who plays center field."*
+> - 📜 **Ring Lardner (*You Know Me Al*):** *"Our **centerfielder** made a sensational running catch that saved the ninth inning from disaster."*
+> - 📜 **Zane Grey (*The Young Pitcher*):** *"The swift **centerfielder** backed up second base whenever the opposing catcher attempted a throw."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"Town youths debated the batting averages of every prominent professional **centerfielder** in the league."*

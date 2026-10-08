@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centrosema
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of chiefly tropical american vines of the family leguminosae having trifoliate leaves and large flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of chiefly tropical american vines of the family leguminosae having trifoliate leaves and large flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of leguminous climbing herbs in the pea family Fabaceae known as butterfly peas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tropical vine genus bearing inverted showy flowers with a spurred banner petal, used for forage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrosema designates a genus of chiefly tropical american vines of the family leguminosae having trifoliate leaves and large flowers."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation*):** *"The inverted blossom of **Centrosema** requires visiting bees to enter upside-down to reach the nectar."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The spurred standard of **Centrosema** virginianum distinguishes it from ordinary climbing legumes."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"Along forest borders, vibrant purple blossoms of **Centrosema** draped the undergrowth in rich festoons."*

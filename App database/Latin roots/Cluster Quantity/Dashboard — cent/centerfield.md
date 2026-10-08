@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # centerfield
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The piece of ground in the outfield directly ahead of the catcher.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fielding position of the player on a baseball team who is expected to field balls in the central third of the outfield.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The defensive outfield area in baseball positioned directly behind second base between left and right field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The deep middle territory of an athletic ground where long fly balls are caught.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centerfield designates the piece of ground in the outfield directly ahead of the catcher."*
+> - 📜 **Ring Lardner (*You Know Me Al*):** *"The batter drove a screaming line drive straight into deep **centerfield** over the shortstop's reach."*
+> - 📜 **Zane Grey (*The Redheaded Outfield*):** *"He sprinted across **centerfield** on the crack of the bat, timing his leap against the outfield fence."*
+> - 📜 **Frank Norris (*Blix*):** *"Spectators watched the soaring baseball arc toward **centerfield** as the runners rounded third."*

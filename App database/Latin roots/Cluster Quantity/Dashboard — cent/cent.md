@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # cent
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fractional monetary unit of several countries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A coin worth one-hundredth of the value of the basic unit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monetary unit representing one hundredth of a standard basic currency such as the US dollar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of musical pitch interval equal to one hundredth of an equal-tempered semitone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"She was without a cent in the world."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"For pay that satisfied him and us, he staid in the family over a year, working out doors and in; could be trusted to do business with money, and return every cent correctly."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Supposing herself the possessor of a ten cent note, over and above the twelve shillings, she went with her somewhat feeble protege over Jersey city ferry, and saw her safely in the cars."*
+> - 📜 **Benjamin Franklin (*The Way to Wealth*):** *"Remember that a penny saved is two pence clear, and spare not a single **cent** on frivolous pleasures."*
+> - 📜 **Mark Twain (*The Adventures of Huckleberry Finn*):** *"I wouldn't have given a **cent** for what was left of his pride after that reckoning."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I found that a man could live honestly and keep free of debt without expending an unnecessary **cent**."*

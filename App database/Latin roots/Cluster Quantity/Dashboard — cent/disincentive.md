@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cent]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # disincentive
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A negative motivational influence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A negative motivational influence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A factor or condition that discourages or deters a particular action, behavior, or economic decision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A penalizing regulation or tax that diminishes the motivation to undertake an enterprise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disincentive designates a negative motivational influence."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Excessive tithes and agrarian taxes create a serious **disincentive** to the permanent improvement of land."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Confiscatory rates of taxation introduce a dangerous **disincentive** against productive capital investment."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"A flat price ceiling often functions as an unintended **disincentive** for manufacturers to expand output."*

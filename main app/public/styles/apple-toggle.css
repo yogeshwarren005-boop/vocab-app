@@ -84,19 +84,22 @@
   box-shadow: 0 0 3px #ffffff;
 }
 
-.apple-c .halo-c.p0 {
+.apple-c .halo-c.p0,
+.apple-c .halo-c.pos-0 {
   transform: translateX(0px);
   background: var(--apple-red);
   box-shadow: 0 0 8px var(--apple-red-glow);
 }
 
-.apple-c .halo-c.p1 {
+.apple-c .halo-c.p1,
+.apple-c .halo-c.pos-1 {
   transform: translateX(14px);
   background: var(--apple-amber);
   box-shadow: 0 0 8px var(--apple-amber-glow);
 }
 
-.apple-c .halo-c.p2 {
+.apple-c .halo-c.p2,
+.apple-c .halo-c.pos-2 {
   transform: translateX(28px);
   background: var(--apple-green);
   box-shadow: 0 0 8px var(--apple-green-glow);

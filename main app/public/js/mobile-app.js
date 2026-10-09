@@ -1544,7 +1544,9 @@ class MobileVocabApp {
           const clean = line.replace(/^>\s*-\s*(?:📜|📚|🔬|🌐|🗣️|💬)?\s*/, '').replace(/^>\s*/, '').trim();
           if (!clean) continue;
 
-          const m = clean.match(/^\*\*([^*]+?)(?:\s*\(([^)]+)\))?:?\*\*:?\s*\*?["“]([^"”]+)["”]\*?/);
+          // Match: **Author (*Work*):** *"Quote text..."* or **Author (Work):** "Quote text..."
+          const m = clean.match(/^\*\*([^*]+?)\s*\(\*?([^*)]+?)\*?\):?\*\*:?\s*\*?["“]([^"”]+)["”]\*?/) ||
+                    clean.match(/^\*\*([^*]+?)(?:\s*\(([^)]+)\))?:?\*\*:?\s*\*?["“]([^"”]+)["”]\*?/);
           if (m) {
             const author = (m[1] || '').replace(/[:*]/g, '').trim();
             const work = (m[2] || '').replace(/[:*]/g, '').trim();

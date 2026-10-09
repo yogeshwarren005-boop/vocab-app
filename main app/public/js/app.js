@@ -5,33 +5,23 @@ import { renderNotesStudio, renderQuickScratchpad } from './vault-apps.js';
 
 const DEFAULT_BOOKMARKS = [
   { path: '00 Language Hub.md', title: '🏛️ 00 Language Hub' },
-  { path: 'Basic English/Basic English Progress.md', title: '🧱 Basic English Progress HUD' },
-  { path: 'Advanced english/Advanced English Progress.md', title: '🖋️ Advanced English Progress HUD' },
-  { path: 'English vocabulary master/Vocabulary Learning Progress.md', title: '👑 Vocabulary Master Progress HUD' },
-  { path: 'Greek roots/Greek Learning Progress.md', title: '🏛️ Greek Roots Progress HUD' },
   { path: 'Latin roots/Latin Learning Progress.md', title: '📜 Latin Roots Progress HUD' },
-  { path: 'Philosophy/Philosophy Progress.md', title: '🦉 Philosophy Progress HUD' }
+  { path: 'Greek roots/Greek Learning Progress.md', title: '🏛️ Greek Roots Progress HUD' },
+  { path: 'English vocabulary master/Vocabulary Learning Progress.md', title: '👑 Vocabulary Master Progress HUD' },
+  { path: 'Latin roots/Master Table — Latin Roots.md', title: '📋 Master Table of Latin Roots' },
+  { path: 'Greek roots/01_Root_Dashboards/Dashboard — Greek Roots.md', title: '🏛️ Greek Roots Master Dashboard' },
+  { path: 'English vocabulary master/000_Vocabulary_Master_MOC.md', title: '🗺️ Vocabulary Master MOC' }
 ];
 
 const NEST_SECTIONS = [
   {
     id: 'language',
-    title: '🏛️ LANGUAGE',
+    title: '🏛️ LANGUAGE & MORPHOLOGY',
     color: '#D4A359',
     folders: [
-      'Basic English',
-      'Advanced english',
-      'English vocabulary master',
+      'Latin roots',
       'Greek roots',
-      'Latin roots'
-    ]
-  },
-  {
-    id: 'knowledge',
-    title: '🧠 KNOWLEDGE',
-    color: '#3E6B99',
-    folders: [
-      'Philosophy'
+      'English vocabulary master'
     ]
   }
 ];
@@ -98,6 +88,16 @@ class ObsidianWebAppController {
       right: {
         tabs: [
           {
+            id: 'tab-r-act',
+            type: 'markdown',
+            path: 'Latin roots/Cluster Action/Dashboard — act/act.md',
+            title: 'act',
+            mode: 'preview',
+            pinned: false,
+            history: ['Latin roots/Cluster Action/Dashboard — act/act.md'],
+            historyIdx: 0
+          },
+          {
             id: 'tab-r-actin',
             type: 'markdown',
             path: 'Greek roots/Cluster Action/Dashboard — actin/actin.md',
@@ -108,27 +108,17 @@ class ObsidianWebAppController {
             historyIdx: 0
           },
           {
-            id: 'tab-r-philo',
+            id: 'tab-r-bonny',
             type: 'markdown',
-            path: 'Philosophy/1. Epistemology/Justified True Belief and Gettier.md',
-            title: 'Justified True Belief and Gettier',
+            path: 'English vocabulary master/Cluster Beauty and Ugliness/bonny.md',
+            title: 'bonny',
             mode: 'preview',
             pinned: false,
-            history: ['Philosophy/1. Epistemology/Justified True Belief and Gettier.md'],
-            historyIdx: 0
-          },
-          {
-            id: 'tab-r-adv',
-            type: 'markdown',
-            path: 'Basic English/1. Word Classes/Modifiers/Adverbs.md',
-            title: 'Adverbs',
-            mode: 'preview',
-            pinned: false,
-            history: ['Basic English/1. Word Classes/Modifiers/Adverbs.md'],
+            history: ['English vocabulary master/Cluster Beauty and Ugliness/bonny.md'],
             historyIdx: 0
           }
         ],
-        activeTabId: 'tab-r-actin',
+        activeTabId: 'tab-r-act',
         headings: [],
         outgoing: [],
         frontmatter: {},
@@ -141,7 +131,7 @@ class ObsidianWebAppController {
     this.leftCollapsed = window.innerWidth <= 900;
     this.rightCollapsed = true;
 
-    this.expandedFolders = new Set(['Basic English', 'Philosophy']);
+    this.expandedFolders = new Set(['Latin roots', 'Greek roots', 'English vocabulary master']);
     this.collapsedNestSections = new Set();
     this.folderTree = null;
     this.hoverTimeout = null;
@@ -151,7 +141,7 @@ class ObsidianWebAppController {
     this.flashcardMode = { left: false, right: false };
     this.paneHistory = {
       left: ['00 Language Hub.md', 'Greek roots/01_Root_Dashboards/Dashboard — Greek Roots.md'],
-      right: ['Greek roots/Cluster Action/Dashboard — actin/actin.md', 'Philosophy/1. Epistemology/Justified True Belief and Gettier.md']
+      right: ['Latin roots/Cluster Action/Dashboard — act/act.md', 'Greek roots/Cluster Action/Dashboard — actin/actin.md']
     };
     this.explorerFilter = '';
     this.zenMode = false;

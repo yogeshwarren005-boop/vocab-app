@@ -1104,17 +1104,20 @@ html, body {
   background: #fff;
   box-shadow: 0 0 4px #fff;
 }
-.apple-c .halo-c.p0 {
+.apple-c .halo-c.p0,
+.apple-c .halo-c.pos-0 {
   transform: translateX(0);
   background: var(--apple-red);
   box-shadow: 0 0 12px var(--apple-red), 0 0 20px var(--apple-red-glow);
 }
-.apple-c .halo-c.p1 {
+.apple-c .halo-c.p1,
+.apple-c .halo-c.pos-1 {
   transform: translateX(15px);
   background: var(--apple-amber);
   box-shadow: 0 0 12px var(--apple-amber), 0 0 20px var(--apple-amber-glow);
 }
-.apple-c .halo-c.p2 {
+.apple-c .halo-c.p2,
+.apple-c .halo-c.pos-2 {
   transform: translateX(30px);
   background: var(--apple-green);
   box-shadow: 0 0 12px var(--apple-green), 0 0 20px var(--apple-green-glow);

@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node \"main app/server.mjs\"",
     "build": "node \"main app/build-static.mjs\"",
+    "test": "node scripts/test-end-to-end.mjs",
     "cap:sync": "npx cap sync android",
     "cap:open": "npx cap open android",
     "broadcast": "node scripts/sync-and-broadcast.mjs"

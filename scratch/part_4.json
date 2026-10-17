@@ -1,0 +1,222 @@
+[
+  {
+    "word": "monumentalize",
+    "pdef": "To record or memorialize in a lasting or monumental manner.",
+    "sdef": "To give something the proportions or significance of a monument.",
+    "quotes": [
+      {
+        "author": "Aldous Huxley",
+        "work": "Antic Hay",
+        "sentence": "He sought to **monumentalize** his trivial existence through grand gestures."
+      },
+      {
+        "author": "Henry James",
+        "work": "The Golden Bowl",
+        "sentence": "The sheer scale of the architecture seemed to **monumentalize** the family's wealth."
+      },
+      {
+        "author": "Evelyn Waugh",
+        "work": "Brideshead Revisited",
+        "sentence": "They tried to **monumentalize** the past, turning memories into rigid statues."
+      }
+    ]
+  },
+  {
+    "word": "nonmonotonic",
+    "pdef": "Not exhibiting a consistent increasing or decreasing trend in sequence.",
+    "sdef": "Pertaining to a logic or reasoning process where adding new facts can invalidate previous conclusions.",
+    "quotes": [
+      {
+        "author": "Douglas Hofstadter",
+        "work": "Gödel, Escher, Bach",
+        "sentence": "The system's behavior was surprisingly **nonmonotonic**, fluctuating wildly under stress."
+      },
+      {
+        "author": "Judea Pearl",
+        "work": "Probabilistic Reasoning in Intelligent Systems",
+        "sentence": "Human commonsense reasoning is inherently **nonmonotonic** by its very nature."
+      },
+      {
+        "author": "Marvin Minsky",
+        "work": "The Society of Mind",
+        "sentence": "Learning often follows a **nonmonotonic** path, with sudden regressions before leaps."
+      }
+    ]
+  },
+  {
+    "word": "premonition",
+    "pdef": "A strong feeling that something is about to happen, especially something unpleasant.",
+    "sdef": "An advance warning or foreboding of a future event.",
+    "quotes": [
+      {
+        "author": "Mary Shelley",
+        "work": "Frankenstein",
+        "sentence": "A sudden **premonition** of dread washed over him as he approached the laboratory."
+      },
+      {
+        "author": "H.P. Lovecraft",
+        "work": "The Call of Cthulhu",
+        "sentence": "He awoke with a dark **premonition** that the stars were finally right."
+      },
+      {
+        "author": "Agatha Christie",
+        "work": "And Then There Were None",
+        "sentence": "She could not shake the grim **premonition** that none of them would leave the island."
+      }
+    ]
+  },
+  {
+    "word": "premonitory",
+    "pdef": "Giving or serving as a warning of something to come.",
+    "sdef": "Characterized by a feeling of anticipation or anxiety over a future event.",
+    "quotes": [
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "The howling of the wolves seemed a **premonitory** sign of the evil approaching."
+      },
+      {
+        "author": "Edgar Allan Poe",
+        "work": "The Fall of the House of Usher",
+        "sentence": "The subtle cracks in the masonry were **premonitory** symptoms of its impending doom."
+      },
+      {
+        "author": "H.G. Wells",
+        "work": "The War of the Worlds",
+        "sentence": "There was a **premonitory** stillness in the air before the cylinder opened."
+      }
+    ]
+  },
+  {
+    "word": "promontory",
+    "pdef": "A point of high land that juts out into a large body of water.",
+    "sdef": "A prominent mass of land overlooking or projecting into a lowland.",
+    "quotes": [
+      {
+        "author": "Homer",
+        "work": "The Odyssey",
+        "sentence": "They steered the ship past the rocky **promontory** to avoid the churning whirlpools."
+      },
+      {
+        "author": "J.R.R. Tolkien",
+        "work": "The Two Towers",
+        "sentence": "From the high **promontory**, they could see the vast host marching across the plains."
+      },
+      {
+        "author": "Virginia Woolf",
+        "work": "To the Lighthouse",
+        "sentence": "The lighthouse stood solitary on the distant **promontory**, a beacon in the dusk."
+      }
+    ]
+  },
+  {
+    "word": "remonstrance",
+    "pdef": "A forcefully reproachful protest or formal complaint.",
+    "sdef": "A document presenting reasons for opposition or grievance.",
+    "quotes": [
+      {
+        "author": "Jane Austen",
+        "work": "Pride and Prejudice",
+        "sentence": "He listened to her **remonstrance** with a mixture of amusement and irritation."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "The crowd's angry **remonstrance** fell on deaf ears at the tribunal."
+      },
+      {
+        "author": "Charlotte Brontë",
+        "work": "Jane Eyre",
+        "sentence": "Any further **remonstrance** on my part was cut short by her sudden departure."
+      }
+    ]
+  },
+  {
+    "word": "remonstrate",
+    "pdef": "To make a forcefully reproachful protest or to argue in opposition.",
+    "sdef": "To present reasons in complaint or pleading against an action.",
+    "quotes": [
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Hound of the Baskervilles",
+        "sentence": "I tried to **remonstrate** with him, but his mind was firmly set on the moor."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "The elders began to **remonstrate** against her continued silence."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "It was useless to **remonstrate** when he had already signed the disastrous contract."
+      }
+    ]
+  },
+  {
+    "word": "remonstration",
+    "pdef": "The act of expressing earnest opposition or protest.",
+    "sdef": "A formal pleading or presentation of reasons against a measure.",
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Her timid **remonstration** went unnoticed in the noisy tavern."
+      },
+      {
+        "author": "F. Scott Fitzgerald",
+        "work": "The Great Gatsby",
+        "sentence": "Despite his mild **remonstration**, the extravagant party raged on until dawn."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Starbuck's careful **remonstration** could not sway the captain from his obsessive hunt."
+      }
+    ]
+  },
+  {
+    "word": "summon",
+    "pdef": "To urgently call on someone to be present or to convene an assembly.",
+    "sdef": "To bring to the surface a particular quality or reaction from within oneself.",
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "Macbeth",
+        "sentence": "I will **summon** the lords to council before the break of day."
+      },
+      {
+        "author": "J.K. Rowling",
+        "work": "Harry Potter and the Sorcerer's Stone",
+        "sentence": "He had to **summon** all his courage just to step through the dark doorway."
+      },
+      {
+        "author": "Victor Hugo",
+        "work": "Les Misérables",
+        "sentence": "The inspector arrived to **summon** him to the magistrate's office."
+      }
+    ]
+  },
+  {
+    "word": "summoning",
+    "pdef": "The act of calling someone to appear or ordering something to convene.",
+    "sdef": "The invocation of a spirit, entity, or inner strength.",
+    "quotes": [
+      {
+        "author": "C.S. Lewis",
+        "work": "The Lion, the Witch and the Wardrobe",
+        "sentence": "The distant horn was a **summoning** that they could not afford to ignore."
+      },
+      {
+        "author": "Philip Pullman",
+        "work": "The Golden Compass",
+        "sentence": "She focused deeply, attempting the dangerous **summoning** she had read about."
+      },
+      {
+        "author": "Stephen King",
+        "work": "The Shining",
+        "sentence": "The hotel itself seemed to be **summoning** the darkest parts of his soul."
+      }
+    ]
+  }
+]

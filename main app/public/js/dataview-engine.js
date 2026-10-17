@@ -6,9 +6,14 @@
 
 export class DataviewLink {
   constructor(path, display, resolvedPath) {
-    const cleanRaw = String(path || '').replace(/^\[\[|\]\]$/g, '');
-    const [targetPart, aliasPart] = cleanRaw.split('|');
-    const cleanTarget = (targetPart || '').trim();
+    const rawStr = String(path || '').replace(/^\[\[|\]\]$/g, '').trim();
+    // Normalize escaped pipes `\|` -> `|`
+    const cleanRaw = rawStr.replace(/\\\|/g, '|');
+    const pipeIdx = cleanRaw.indexOf('|');
+    const targetPart = pipeIdx !== -1 ? cleanRaw.slice(0, pipeIdx) : cleanRaw;
+    const aliasPart = pipeIdx !== -1 ? cleanRaw.slice(pipeIdx + 1) : '';
+
+    const cleanTarget = targetPart.split('#')[0].replace(/\\+$/, '').trim().replace(/\\/g, '/');
     const fileName = cleanTarget.split('/').pop().replace(/\.md$/i, '');
 
     this.path = resolvedPath || (cleanTarget.endsWith('.md') ? cleanTarget : `${cleanTarget}.md`);
@@ -31,8 +36,10 @@ export class DataviewLink {
 export class DataArray extends Array {
   static fromArray(arr) {
     const da = new DataArray();
-    for (let i = 0; i < arr.length; i++) {
-      da.push(arr[i]);
+    if (arr && (Array.isArray(arr) || typeof arr[Symbol.iterator] === 'function')) {
+      for (const item of arr) {
+        da.push(item);
+      }
     }
     return da;
   }
@@ -56,9 +63,45 @@ export class DataArray extends Array {
   map(fn) {
     const out = new DataArray();
     for (let i = 0; i < this.length; i++) {
-      out.push(fn(this[i], i, this));
+      try {
+        out.push(fn(this[i], i, this));
+      } catch {
+        out.push(undefined);
+      }
     }
     return out;
+  }
+
+  first() {
+    return this[0];
+  }
+
+  last() {
+    return this[this.length - 1];
+  }
+
+  distinct() {
+    return DataArray.fromArray(Array.from(new Set(this)));
+  }
+
+  groupBy(keyFn) {
+    const map = new Map();
+    for (let i = 0; i < this.length; i++) {
+      const item = this[i];
+      let key;
+      try {
+        key = typeof keyFn === 'function' ? keyFn(item) : item[keyFn];
+      } catch {
+        key = undefined;
+      }
+      if (!map.has(key)) map.set(key, new DataArray());
+      map.get(key).push(item);
+    }
+    const result = new DataArray();
+    for (const [key, rows] of map.entries()) {
+      result.push({ key, rows });
+    }
+    return result;
   }
 
   sort(keyOrComparator, direction = 'asc') {
@@ -68,15 +111,28 @@ export class DataArray extends Array {
     }
     const copy = DataArray.fromArray(this);
     const dir = String(direction).toLowerCase() === 'desc' ? -1 : 1;
-    if (typeof keyOrComparator === 'function') {
-      Array.prototype.sort.call(copy, (a, b) => {
-        const va = keyOrComparator(a);
-        const vb = keyOrComparator(b);
+    const extractVal = typeof keyOrComparator === 'function'
+      ? keyOrComparator
+      : (item) => {
+          if (!keyOrComparator) return item;
+          const parts = String(keyOrComparator).split('.');
+          let v = item;
+          for (const p of parts) {
+            if (v == null) return undefined;
+            v = v[p];
+          }
+          return v;
+        };
+
+    Array.prototype.sort.call(copy, (a, b) => {
+      try {
+        const va = extractVal(a);
+        const vb = extractVal(b);
         return String(va ?? '').localeCompare(String(vb ?? ''), undefined, { numeric: true }) * dir;
-      });
-    } else {
-      Array.prototype.sort.call(copy);
-    }
+      } catch {
+        return 0;
+      }
+    });
     return copy;
   }
 
@@ -208,8 +264,8 @@ export class VaultRuntime {
 
   parseFrontmatterLink(rawVal, contextFolder = '') {
     const str = String(rawVal || '').trim();
-    const match = str.match(/^\[\[([^\]|]+)(?:\|([^\]]+))?\]\]$/);
-    const targetName = match ? match[1].trim() : str;
+    const match = str.match(/^\[\[([^\]|]+)(?:\\?\|([^\]]+))?\]\]$/);
+    const targetName = match ? match[1].replace(/\\+$/, '').trim() : str;
     const display = match && match[2] ? match[2].trim() : targetName.split('/').pop().replace(/\.md$/i, '');
 
     // Resolve path in the same folder or globally
@@ -221,16 +277,20 @@ export class VaultRuntime {
     if (!linkText) return '00 Language Hub.md';
     let clean = String(linkText)
       .replace(/^\[\[|\]\]$/g, '')
+      .replace(/\\\|/g, '|')
       .split('|')[0]
       .split('#')[0]
       .trim()
-      .replace(/\\/g, '/');
+      .replace(/\\+$/, '')
+      .replace(/\\/g, '/')
+      .replace(/^\/+|\/+$/g, '');
 
     if (!clean) return sourcePath || '00 Language Hub.md';
 
     // 1. Direct path match with or without .md
     const withMd = clean.endsWith('.md') ? clean : `${clean}.md`;
     if (this.pagesByPath.has(withMd)) return withMd;
+    if (this.pagesByPath.has(clean)) return clean;
 
     // 2. Relative to source folder
     if (sourcePath) {
@@ -267,59 +327,82 @@ export class VaultRuntime {
   executeDataviewJS(code, containerEl, currentFilePath) {
     containerEl.innerHTML = '';
     const self = this;
-    const currentPage = this.pagesByPath.get(currentFilePath) || {
+    const safePath = String(currentFilePath || '00 Language Hub.md').replace(/\\/g, '/');
+    const currentPage = this.pagesByPath.get(safePath) || {
       file: {
-        name: currentFilePath.split('/').pop().replace(/\.md$/i, ''),
-        path: currentFilePath,
-        folder: currentFilePath.includes('/') ? currentFilePath.slice(0, currentFilePath.lastIndexOf('/')) : '',
-        link: new DataviewLink(currentFilePath, '', currentFilePath)
+        name: safePath.split('/').pop().replace(/\.md$/i, ''),
+        path: safePath,
+        folder: safePath.includes('/') ? safePath.slice(0, safePath.lastIndexOf('/')) : '',
+        link: new DataviewLink(safePath, '', safePath)
       },
       status: 'unread'
     };
 
     const dv = {
       container: containerEl,
-      currentFilePath: currentFilePath,
+      currentFilePath: safePath,
       current() {
         return currentPage;
       },
       pages(query = '') {
-        const q = String(query || '').trim().replace(/^['"]|['"]$/g, '').replace(/\\/g, '/');
+        const q = String(query || '').trim().replace(/^['"]|['"]$/g, '').replace(/\\/g, '/').replace(/^\/+|\/+$/g, '');
         if (!q) return self.allHydratedPages;
         if (q.startsWith('#')) {
           const tag = q.slice(1).toLowerCase();
           return self.allHydratedPages.where(p => Array.isArray(p.tags) && p.tags.some(t => String(t).toLowerCase() === tag));
         }
-        // Fast path if querying a top-level discipline folder
-        if (!q.includes('/') && self.pagesByFolder.has(q)) {
-          return self.pagesByFolder.get(q);
+        // Fast path if querying a top-level discipline folder (case-insensitive check)
+        if (!q.includes('/')) {
+          if (self.pagesByFolder.has(q)) {
+            return self.pagesByFolder.get(q);
+          }
+          const lowerQ = q.toLowerCase();
+          for (const [folderName, folderPages] of self.pagesByFolder.entries()) {
+            if (folderName.toLowerCase() === lowerQ) return folderPages;
+          }
         }
-        // Subfolder prefix match
+        // Subfolder prefix match (defensive with optional chaining)
         const prefix = `${q}/`;
         const topFolder = q.split('/')[0];
-        const pool = self.pagesByFolder.get(topFolder) || self.allHydratedPages;
-        return pool.where(p => p.file.folder === q || p.file.folder.startsWith(prefix));
+        let pool = self.pagesByFolder.get(topFolder);
+        if (!pool) {
+          const lowerTop = topFolder.toLowerCase();
+          for (const [folderName, folderPages] of self.pagesByFolder.entries()) {
+            if (folderName.toLowerCase() === lowerTop) {
+              pool = folderPages;
+              break;
+            }
+          }
+        }
+        if (!pool) pool = self.allHydratedPages;
+        const lowerQ = q.toLowerCase();
+        const lowerPrefix = prefix.toLowerCase();
+        return pool.where(p => {
+          const f = p?.file?.folder;
+          if (!f) return false;
+          return f === q || f.startsWith(prefix) || f.toLowerCase() === lowerQ || f.toLowerCase().startsWith(lowerPrefix);
+        });
       },
       fileLink(path, embed = false, display = '') {
-        const resolved = self.resolveLinkPath(path, currentFilePath);
+        const resolved = self.resolveLinkPath(path, safePath);
         return new DataviewLink(path, display, resolved);
       },
       paragraph(content) {
         const div = document.createElement('div');
         div.className = 'dv-paragraph';
-        appendCellContent(div, content, self, currentFilePath);
+        appendCellContent(div, content, self, safePath);
         containerEl.appendChild(div);
         return div;
       },
       span(content) {
         const sp = document.createElement('span');
-        appendCellContent(sp, content, self, currentFilePath);
+        appendCellContent(sp, content, self, safePath);
         containerEl.appendChild(sp);
         return sp;
       },
       header(level, content) {
         const h = document.createElement(`h${Math.min(Math.max(Number(level) || 2, 1), 6)}`);
-        appendCellContent(h, content, self, currentFilePath);
+        appendCellContent(h, content, self, safePath);
         containerEl.appendChild(h);
         return h;
       },
@@ -329,19 +412,20 @@ export class VaultRuntime {
         if (attrs.attr) {
           for (const [k, v] of Object.entries(attrs.attr)) el.setAttribute(k, v);
         }
-        appendCellContent(el, content, self, currentFilePath);
+        appendCellContent(el, content, self, safePath);
         containerEl.appendChild(el);
         return el;
       },
       list(items) {
         const ul = document.createElement('ul');
         ul.className = 'dataview list-view-ul';
-        if (items) {
-          for (const item of items) {
-            const li = document.createElement('li');
-            appendCellContent(li, item, self, currentFilePath);
-            ul.appendChild(li);
-          }
+        const listItems = Array.isArray(items) || (items && typeof items[Symbol.iterator] === 'function')
+          ? Array.from(items)
+          : (items !== null && items !== undefined ? [items] : []);
+        for (const item of listItems) {
+          const li = document.createElement('li');
+          appendCellContent(li, item, self, safePath);
+          ul.appendChild(li);
         }
         containerEl.appendChild(ul);
         return ul;
@@ -352,12 +436,12 @@ export class VaultRuntime {
         const table = document.createElement('table');
         table.className = 'dataview table-view-table';
 
-        if (headers && headers.length) {
+        if (headers && (Array.isArray(headers) || typeof headers[Symbol.iterator] === 'function')) {
           const thead = document.createElement('thead');
           const tr = document.createElement('tr');
           for (const h of headers) {
             const th = document.createElement('th');
-            appendCellContent(th, h, self, currentFilePath);
+            appendCellContent(th, h, self, safePath);
             tr.appendChild(th);
           }
           thead.appendChild(tr);
@@ -365,16 +449,21 @@ export class VaultRuntime {
         }
 
         const tbody = document.createElement('tbody');
-        if (rows) {
-          for (const row of rows) {
-            const tr = document.createElement('tr');
-            for (const cell of row) {
-              const td = document.createElement('td');
-              appendCellContent(td, cell, self, currentFilePath);
-              tr.appendChild(td);
-            }
-            tbody.appendChild(tr);
+        const rowList = Array.isArray(rows) || (rows && typeof rows[Symbol.iterator] === 'function')
+          ? Array.from(rows)
+          : [];
+        for (const row of rowList) {
+          if (!row) continue;
+          const tr = document.createElement('tr');
+          const cellList = Array.isArray(row) || (row && typeof row[Symbol.iterator] === 'function')
+            ? Array.from(row)
+            : [row];
+          for (const cell of cellList) {
+            const td = document.createElement('td');
+            appendCellContent(td, cell, self, safePath);
+            tr.appendChild(td);
           }
+          tbody.appendChild(tr);
         }
         table.appendChild(tbody);
         wrapper.appendChild(table);
@@ -387,7 +476,7 @@ export class VaultRuntime {
     const app = {
       vault: {
         getAbstractFileByPath(filePath) {
-          const resolved = self.resolveLinkPath(filePath, currentFilePath);
+          const resolved = self.resolveLinkPath(filePath, safePath);
           return { path: resolved, name: resolved.split('/').pop() };
         }
       },
@@ -397,20 +486,43 @@ export class VaultRuntime {
           const page = self.pagesByPath.get(file.path);
           const fmProxy = { status: page ? page.status || 'unread' : 'unread' };
           mutatorFn(fmProxy);
-          await self.controller.updateNoteFrontmatter(file.path, fmProxy, false);
+          if (page && fmProxy.status !== undefined) {
+            page.status = fmProxy.status;
+          }
+          if (self.controller) {
+            if (typeof self.controller.updateNoteFrontmatter === 'function') {
+              await self.controller.updateNoteFrontmatter(file.path, fmProxy, false);
+            } else if (typeof self.controller.setStatus === 'function' && fmProxy.status) {
+              self.controller.setStatus(file.path, fmProxy.status);
+            }
+          }
         }
       },
       workspace: {
         openLinkText(linkText, sourcePath, newLeaf = false) {
-          const resolved = self.resolveLinkPath(linkText, sourcePath || currentFilePath);
-          self.controller.openNote(resolved, { newTab: Boolean(newLeaf) });
+          const resolved = self.resolveLinkPath(linkText, sourcePath || safePath);
+          if (self.controller) {
+            if (typeof self.controller.openNote === 'function') {
+              self.controller.openNote(resolved, { newTab: Boolean(newLeaf) });
+            } else if (typeof self.controller.openOriginalNoteView === 'function') {
+              self.controller.openOriginalNoteView(resolved);
+            } else if (typeof self.controller.openHomeSection === 'function') {
+              self.controller.openHomeSection(resolved);
+            }
+          }
         }
       }
     };
 
     class Notice {
       constructor(message, duration = 2600) {
-        self.controller.showNotice(message, duration);
+        if (self.controller) {
+          if (typeof self.controller.showNotice === 'function') {
+            self.controller.showNotice(message, duration);
+          } else if (typeof self.controller.showToast === 'function') {
+            self.controller.showToast(message);
+          }
+        }
       }
     }
 
@@ -420,7 +532,8 @@ export class VaultRuntime {
         { key: 'learning', label: 'learning', cls: 'learning', p: 'p1' },
         { key: 'learned', label: 'learned', cls: 'learned', p: 'p2' }
       ];
-      let curIdx = states.findIndex(s => s.key === rawStatus);
+      const normalized = String(rawStatus || '').toLowerCase().trim();
+      let curIdx = states.findIndex(s => s.key === normalized);
       if (curIdx === -1) curIdx = 0;
 
       const toggle = document.createElement('div');
@@ -464,8 +577,15 @@ export class VaultRuntime {
       const safeCode = code
         .replace(/font-family:\s*'Cormorant Garamond'/g, 'font-family:"Cormorant Garamond"')
         .replace(/dv\.paragraph\('\r?\n([\s\S]*?)\r?\n'\);/g, (_, inner) => `dv.paragraph('${inner.replace(/\r?\n/g, ' ')}');`);
-      const fn = new Function('dv', 'app', 'Notice', 'makeAppleToggle', safeCode);
-      fn(dv, app, Notice, defaultMakeAppleToggle);
+      
+      const AsyncFunction = Object.getPrototypeOf(async function(){}).constructor;
+      const fn = new AsyncFunction('dv', 'app', 'Notice', 'makeAppleToggle', safeCode);
+      const res = fn(dv, app, Notice, defaultMakeAppleToggle);
+      if (res && typeof res.catch === 'function') {
+        res.catch(err => {
+          console.error(`DataviewJS async execution error in ${safePath}:`, err);
+        });
+      }
 
       // Post-process any injected #apple-toggle-css so it never overrides light/dark theme variables
       const injectedStyle = document.getElementById('apple-toggle-css');
@@ -473,11 +593,11 @@ export class VaultRuntime {
         injectedStyle.remove();
       }
     } catch (err) {
-      console.error(`DataviewJS execution error in ${currentFilePath}:`, err);
+      console.error(`DataviewJS execution error in ${safePath}:`, err);
       const errBox = document.createElement('div');
       errBox.className = 'callout';
       errBox.setAttribute('data-callout', 'warning');
-      errBox.innerHTML = `<div class="callout-title">DataviewJS Notice</div><div class="callout-content">${escapeHtml(err.message)}</div>`;
+      errBox.innerHTML = `<div class="callout-title"><span class="callout-icon">⚠️</span><span class="callout-title-inner">DataviewJS Notice</span></div><div class="callout-content"><p>${escapeHtml(err.message)}</p></div>`;
       containerEl.appendChild(errBox);
     }
   }
@@ -494,11 +614,13 @@ function appendCellContent(targetEl, content, runtime, sourcePath) {
     return;
   }
   const str = String(content);
-  // Also convert any inline [[wikilinks]] inside Dataview strings
-  const withLinks = str.replace(/\[\[([^\]|#]+)(?:#([^\]|]+))?(?:\|([^\]]+))?\]\]/g, (_, target, hash, alias) => {
-    const resolved = runtime.resolveLinkPath(target, sourcePath);
-    const label = alias || target.split('/').pop().replace(/\.md$/i, '');
-    return `<a class="internal-link" data-href="${escapeAttr(resolved)}" ${hash ? `data-heading="${escapeAttr(hash)}"` : ''} href="/?note=${encodeURIComponent(resolved)}">${escapeHtml(label)}</a>`;
+  // Also convert any inline [[wikilinks]] inside Dataview strings (handling escaped pipes \|)
+  const withLinks = str.replace(/\[\[([^\]|#\\]+)\\?(?:#([^\]|\\]+)\\?)?(?:\\?\|([^\]]+))?\]\]/g, (_, target, hash, alias) => {
+    const cleanTarget = target.replace(/\\+$/, '').trim();
+    const cleanHash = hash ? hash.replace(/\\+$/, '').trim() : '';
+    const resolved = runtime ? runtime.resolveLinkPath(cleanTarget, sourcePath) : cleanTarget;
+    const label = alias ? alias.trim() : cleanTarget.split('/').pop().replace(/\.md$/i, '');
+    return `<a class="internal-link" data-href="${escapeAttr(resolved)}" ${cleanHash ? `data-heading="${escapeAttr(cleanHash)}"` : ''} href="/?note=${encodeURIComponent(resolved)}">${escapeHtml(label)}</a>`;
   });
   targetEl.innerHTML = withLinks;
 }

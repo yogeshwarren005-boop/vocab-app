@@ -13,6 +13,15 @@
 
 import { renderObsidianMarkdown, extractFrontmatterAndBody, createAppleStatusToggle } from './markdown-engine.js';
 import { VaultRuntime } from './dataview-engine.js';
+import { MobileUpdateManager } from './mobile-updater.js';
+import { initFirebase } from './core/firebase.js';
+import { authService } from './services/auth-service.js';
+import { trackingService } from './services/tracking-service.js';
+import { avatarService } from './services/avatar-service.js';
+import { topBar } from './components/top-bar.js';
+import { profileHUD } from './components/profile-hud.js';
+import { authModal } from './components/auth-modal.js';
+import { eventBus } from './core/event-bus.js';
 
 class MobileVocabApp {
   constructor() {
@@ -39,6 +48,10 @@ class MobileVocabApp {
     this.cardsViewMode = 'feed';      // 'feed' | 'list'
     this.pendingCardPath = null;
 
+    // List View Pagination & Virtual Chunking (Batches of 50 items)
+    this.cardListRenderedCount = 0;
+    this.cardListObserver = null;
+
     // Daily Word State (Random word drawn from pure vocabulary pool)
     this.dailyCurrentCard = null;
     this.dailyRevealed = false;
@@ -48,24 +61,60 @@ class MobileVocabApp {
     this.theme = localStorage.getItem('vocab_theme') || 'dark';
     this.typography = JSON.parse(localStorage.getItem('vocab_typography') || '{"font":"sans","size":16,"lineHeight":1.6}');
 
-    // Touch gesture tracking
+    // Touch gesture tracking & physics
     this.touchStartX = 0;
     this.touchStartY = 0;
     this.touchStartTime = 0;
+    this.touchLastY = 0;
+    this.touchLastTime = 0;
+    this.touchMoved = false;
+    this._renderFeedSeq = 0;
+    this.isSlideTransitioning = false;
 
     // Dataview + Markdown Runtime
     this.runtime = new VaultRuntime(this);
+
+    // Audio Speech Pronunciation Engine State
+    this.speechVoices = [];
+    this.activeSpeechButton = null;
+    this.currentUtterance = null;
+    this.isSpeaking = false;
+
+    // In-App APK Updater
+    this.updateManager = new MobileUpdateManager(this);
   }
 
   async init() {
     this.applyTheme(this.theme);
     this.applyTypography();
+
+    // 0. Initialize Firebase, Multi-Provider Auth, and UI HUDs
+    try {
+      await initFirebase();
+      await authService.init();
+      topBar.mount();
+      profileHUD.mount();
+
+      eventBus.on('tracking:synced', ({ statusDb }) => {
+        if (statusDb) {
+          this.statusDb = { ...this.statusDb, ...statusDb };
+          this.prepareWordCards();
+          this.updateTrackingHUD();
+          if (this.cardsViewMode === 'feed') this.renderFeedCard('none');
+          else this.renderCardList();
+        }
+      });
+    } catch (authErr) {
+      console.warn('Firebase / Auth setup note:', authErr);
+    }
+
     this.loadStatusDb();
     this.loadDailyStats();
 
     this.bindDOMEvents();
     this.bindTouchGestures();
     this.bindHardwareBack();
+    this.initSpeechEngine();
 
     // Render Home Root
     this.renderHomeRoot();
@@ -81,20 +130,95 @@ class MobileVocabApp {
     // Initialize Card Views & Telemetry
     this.prepareWordCards();
     this.renderFeedCard('none');
+    if (window.innerWidth >= 900) {
+      this.renderCardList();
+      this.syncCardListHighlight();
+    }
     this.renderDailyCard(true);
     this.updateTrackingHUD();
+
+    // Initialize In-App APK Update Manager
+    if (this.updateManager) {
+      await this.updateManager.init();
+    }
+
+    // Register Service Worker for PWA Offline Support
+    this.registerServiceWorker();
+
+    // Check PWA URL parameters (e.g. ?tab=cards from manifest shortcuts)
+    const urlParams = new URLSearchParams(window.location.search);
+    const initialTab = urlParams.get('tab');
+    if (initialTab && ['home', 'cards', 'daily', 'settings'].includes(initialTab)) {
+      this.switchTab(initialTab);
+    }
+  }
+
+  registerServiceWorker() {
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('/sw.js')
+          .then(reg => {
+            console.log('[SW] Service worker registered with scope:', reg.scope);
+          })
+          .catch(err => {
+            console.warn('[SW] Service worker registration failed:', err);
+          });
+      });
+    }
+  }
+
+  getCoreNote(notePath) {
+    if (!notePath || !this.coreNotes) return '';
+    if (this.coreNotes[notePath]) return this.coreNotes[notePath];
+    const baseName = notePath.slice(notePath.lastIndexOf('/') + 1);
+    if (this.coreNotes[baseName]) return this.coreNotes[baseName];
+    const clean = notePath.replace(/\\/g, '/').replace(/^\.?\//, '');
+    if (this.coreNotes[clean]) return this.coreNotes[clean];
+    const matchKey = Object.keys(this.coreNotes).find(k => k.endsWith('/' + baseName));
+    if (matchKey && this.coreNotes[matchKey]) return this.coreNotes[matchKey];
+    return '';
+  }
+
+  async fetchNoteWithFallback(notePath) {
+    // 1. Check pre-bundled in-memory core notes first
+    let rawContent = this.getCoreNote(notePath);
+    if (rawContent) return rawContent;
+
+    // 2. Fetch from /api/note (routed through Service Worker RUNTIME_CACHE)
+    try {
+      const res = await fetch(`/api/note?path=${encodeURIComponent(notePath)}`);
+      if (res.ok) {
+        const data = await res.json();
+        rawContent = data.content || '';
+        if (rawContent) {
+          this.coreNotes[notePath] = rawContent;
+          return rawContent;
+        }
+      }
+    } catch (e) {
+      console.warn('Network fetch failed for note, checking pre-bundled core notes:', e);
+    }
+
+    // 3. Final fallback to core notes (e.g. if loaded after initial failure)
+    return this.getCoreNote(notePath) || '';
   }
 
   bindHardwareBack() {
-    try {
-      if (window.Capacitor && window.Capacitor.Plugins && window.Capacitor.Plugins.App) {
-        window.Capacitor.Plugins.App.addListener('backButton', () => {
-          this.handleHardwareBack();
-        });
+    const registerBackButton = () => {
+      try {
+        if (window.Capacitor && window.Capacitor.Plugins && window.Capacitor.Plugins.App && !this._backButtonBound) {
+          this._backButtonBound = true;
+          window.Capacitor.Plugins.App.addListener('backButton', () => {
+            this.handleHardwareBack();
+          });
+        }
+      } catch (e) {
+        console.warn('Capacitor App listener unavailable', e);
       }
-    } catch (e) {
-      console.warn('Capacitor App listener unavailable', e);
-    }
+    };
+
+    registerBackButton();
+    setTimeout(registerBackButton, 500);
 
     window.addEventListener('popstate', (e) => {
       if (this.activeTab === 'home' && this.homeStack.length > 0) {
@@ -104,24 +228,84 @@ class MobileVocabApp {
   }
 
   handleHardwareBack() {
+    // 1. Close any open modal dialogs first
+    if (this.updateManager && typeof this.updateManager.hideUpdateModal === 'function') {
+      const updateModal = document.getElementById('update-modal');
+      if (updateModal && updateModal.style.display !== 'none' && window.getComputedStyle(updateModal).display !== 'none') {
+        this.updateManager.hideUpdateModal();
+        return;
+      }
+    }
+    const openModal = Array.from(document.querySelectorAll('.modal-backdrop, .modal, [role="dialog"], .prompt-modal, #update-modal')).find(el => {
+      return el.style.display !== 'none' && window.getComputedStyle(el).display !== 'none';
+    });
+    if (openModal) {
+      openModal.style.display = 'none';
+      return;
+    }
+
+    // 2. Home Tab: Pop Home navigation stack first before exiting
     if (this.activeTab === 'home') {
       if (this.homeStack.length > 0) {
         this.goBackHome(true);
-      } else {
-        try {
-          window.Capacitor?.Plugins?.App?.exitApp();
-        } catch {}
+        return;
       }
-    } else if (this.activeTab === 'cards') {
+      // Only exit app when at Home root
+      try {
+        window.Capacitor?.Plugins?.App?.exitApp();
+      } catch (e) {
+        console.warn('exitApp failed', e);
+      }
+      return;
+    }
+
+    // 3. Word Cards Tab: close search, revert List to Feed, or return to Home
+    if (this.activeTab === 'cards') {
+      const searchInput = document.getElementById('cards-search-input');
+      const clearBtn = document.getElementById('cards-search-clear');
+
+      // Closes active search if query entered or focused
+      if (this.cardsSearchQuery || (searchInput && searchInput.value)) {
+        this.cardsSearchQuery = '';
+        if (searchInput) {
+          searchInput.value = '';
+          searchInput.blur();
+        }
+        if (clearBtn) clearBtn.style.display = 'none';
+        this.feedWordIndex = 0;
+        this.applyCardsFilter();
+        if (this.cardsViewMode === 'feed') this.renderFeedCard('none');
+        else this.renderCardList();
+        return;
+      }
+
+      if (searchInput && document.activeElement === searchInput) {
+        searchInput.blur();
+        return;
+      }
+
+      // Revert List mode to Feed mode
       if (this.cardsViewMode === 'list') {
         this.cardsViewMode = 'feed';
         this.updateCardsViewMode();
-      } else {
-        this.switchTab('home');
+        return;
       }
-    } else if (this.activeTab === 'daily' || this.activeTab === 'settings') {
+
+      // Revert to Home tab
       this.switchTab('home');
+      return;
     }
+
+    // 4. Daily Word and Settings tabs: Revert to Home tab
+    if (this.activeTab === 'daily' || this.activeTab === 'settings') {
+      this.switchTab('home');
+      return;
+    }
+
+    // Fallback: exit app only when at root
+    try {
+      window.Capacitor?.Plugins?.App?.exitApp();
+    } catch {}
   }
 
   /* ========================================================================
@@ -277,16 +461,55 @@ class MobileVocabApp {
 
   getCategoryFromPath(path) {
     if (path.startsWith('Greek roots')) return 'greek';
-    if (path.startsWith('Latin roots')) return 'latin';
+    if (path.startsWith('Latin roots')) {
+      // Check for misplaced Greek roots in Latin folders
+      if (path.includes('Cluster Greek-Latin Hybrid')) return 'greek';
+      const GREEK_IN_LATIN = [
+        'psych', 'phil', 'phon', 'path', 'arch', 'zo', 'crani', 'chir',
+        'xyl', 'arct', 'crypt', 'tele', 'bio', 'chron', 'cosm', 'cycl',
+        'dem', 'hier', 'hydr', 'morph', 'nom_law', 'scop', 'theo', 'therm',
+        'top', 'petr', 'phor', 'trop', 'taur', 'brachi', 'phys', 'soph'
+      ];
+      for (const r of GREEK_IN_LATIN) {
+        if (path.includes(`Dashboard — ${r}`) || path.includes(`Dashboard - ${r}`)) {
+          return 'greek';
+        }
+      }
+      return 'latin';
+    }
     if (path.startsWith('English vocabulary master')) return 'vocab';
     return 'other';
+  }
+
+  getCardCategoryBadge(card) {
+    if (!card) return '👑 VOCAB MASTER';
+    const isRootDash = card.rawPage?.t === 'root_dashboard' || /^Dashboard\s*[—–-]/i.test(card.name);
+    if (card.category === 'greek') {
+      return isRootDash ? '🏛️ GREEK ROOT' : '🏛️ GREEK DERIVATIVE';
+    }
+    if (card.category === 'latin') {
+      return isRootDash ? '📜 LATIN ROOT' : '📜 LATIN DERIVATIVE';
+    }
+    return '👑 VOCAB MASTER';
+  }
+
+  getCardCategoryLabel(card) {
+    if (!card) return 'Vocab Master';
+    const isRootDash = card.rawPage?.t === 'root_dashboard' || /^Dashboard\s*[—–-]/i.test(card.name);
+    if (card.category === 'greek') {
+      return isRootDash ? 'Greek Root' : 'Greek Derivative';
+    }
+    if (card.category === 'latin') {
+      return isRootDash ? 'Latin Root' : 'Latin Derivative';
+    }
+    return 'Vocab Master';
   }
 
   getClusterFromPath(path) {
     const parts = path.split('/');
     for (const part of parts) {
-      if (part.startsWith('Cluster ') || part.startsWith('Dashboard — ')) {
-        return part.replace(/^Cluster\s+/, '').replace(/^Dashboard\s+—\s+/, '');
+      if (/^Cluster\s+/i.test(part) || /^Dashboard\s*[—–-]\s*/i.test(part)) {
+        return part.replace(/^Cluster\s+/i, '').replace(/^Dashboard\s*[—–-]\s*/i, '');
       }
     }
     return parts[1] || '';
@@ -294,14 +517,20 @@ class MobileVocabApp {
 
   findRootDashboardForWord(wordPath) {
     const parts = wordPath.split('/');
-    if (parts.length >= 4) {
-      const folderPath = parts.slice(0, 3).join('/');
-      const rootFolder = parts[2];
-      const dashName = rootFolder.startsWith('Dashboard — ') ? rootFolder : `Dashboard — ${rootFolder}`;
-      const candidate = `${folderPath}/${dashName}.md`;
-      const match = (this.vaultIndex.pages || []).find(p => p.p === candidate || p.p.toLowerCase() === candidate.toLowerCase());
+    const dashPart = parts.find(p => /^Dashboard\s*[—–-]/i.test(p));
+    if (dashPart) {
+      const cleanRoot = dashPart.replace(/^Dashboard\s*[—–-]\s*/i, '').trim();
+      // Match candidate root dashboard note in vault index
+      const match = (this.vaultIndex.pages || []).find(p => {
+        if (p.t === 'root_dashboard' || /^Dashboard\s*[—–-]/i.test(p.p.split('/').pop())) {
+          const pFn = p.p.split('/').pop().replace(/\.md$/i, '');
+          const pRoot = pFn.replace(/^Dashboard\s*[—–-]\s*/i, '').trim();
+          return pRoot.toLowerCase() === cleanRoot.toLowerCase();
+        }
+        return false;
+      });
       if (match) {
-        return { path: match.p, title: dashName };
+        return { path: match.p, title: match.p.split('/').pop().replace(/\.md$/i, '') };
       }
     }
     return null;
@@ -314,7 +543,7 @@ class MobileVocabApp {
     if (!scopePath || !this.allWordCards || this.allWordCards.length === 0) return [];
     const parts = scopePath.split('/');
     const fileName = parts[parts.length - 1];
-    const isDash = fileName.startsWith('Dashboard —');
+    const isDash = /^Dashboard\s*[—–-]/i.test(fileName) || parts.some(p => /^Dashboard\s*[—–-]/i.test(p));
     const isCluster = fileName.startsWith('Cluster ') || parts.some(p => p.startsWith('Cluster '));
     const isVocabSection = scopePath.startsWith('English vocabulary master') && (
       fileName === 'English vocabulary master.md' ||
@@ -324,14 +553,14 @@ class MobileVocabApp {
     );
     const isGreekSection = scopePath.startsWith('Greek roots') && (
       fileName === 'Greek roots.md' ||
-      fileName === 'Dashboard — Greek Roots.md' ||
-      fileName === 'Master Table — Greek Roots.md' ||
+      /^Dashboard\s*[—–-]\s*Greek Roots\.md$/i.test(fileName) ||
+      /^Master Table\s*[—–-]\s*Greek Roots\.md$/i.test(fileName) ||
       parts.length <= 2
     );
     const isLatinSection = scopePath.startsWith('Latin roots') && (
       fileName === 'Latin roots.md' ||
-      fileName === 'Dashboard — Latin Roots.md' ||
-      fileName === 'Master Table — Latin Roots.md' ||
+      /^Dashboard\s*[—–-]\s*Latin Roots\.md$/i.test(fileName) ||
+      /^Master Table\s*[—–-]\s*Latin Roots\.md$/i.test(fileName) ||
       parts.length <= 2
     );
 
@@ -347,23 +576,44 @@ class MobileVocabApp {
     }
 
     // 2. Classical Root Dashboard (Latin / Greek individual root)
-    if (isDash && !fileName.includes('Roots')) {
-      const folder = parts.slice(0, -1).join('/');
-      const dashName = fileName.replace(/\.md$/, '').trim();
-      const rootName = dashName.replace(/^Dashboard\s+—\s+/, '').trim();
+    if (isDash && !fileName.toLowerCase().includes('roots')) {
+      const dashMatch = fileName.match(/^Dashboard\s*[—–-]\s*(.+?)(?:\.md)?$/i) ||
+                        (parts.find(p => /^Dashboard\s*[—–-]/i.test(p)) || '').match(/^Dashboard\s*[—–-]\s*(.+?)$/i);
+      const rootName = dashMatch ? dashMatch[1].trim() : '';
+      const rootFolder = scopePath.endsWith('.md') ? parts.slice(0, -1).join('/') : scopePath;
+
+      const ROOT_ALIASES = {
+        'aev': ['ev'],
+        'ev': ['aev']
+      };
+      const aliases = ROOT_ALIASES[rootName.toLowerCase()] || [];
 
       return this.allWordCards.filter(c => {
-        if (c.path === scopePath) return false;
+        if (c.path === scopePath || (c.path.endsWith('.md') && /^Dashboard\s*[—–-]/i.test(c.path.split('/').pop()))) return false;
         // Direct folder matching: Latin roots/.../Dashboard — root/<word>.md
-        if (folder && c.path.startsWith(folder + '/')) {
+        if (rootFolder && c.path.startsWith(rootFolder + '/')) {
           const fn = c.path.split('/').pop();
-          if (!fn.startsWith('Dashboard') && !fn.startsWith('Cluster') && !fn.startsWith('Word Triage')) return true;
+          if (!/^Dashboard\s*[—–-]/i.test(fn) && !fn.startsWith('Cluster') && !fn.startsWith('Word Triage')) return true;
+        }
+        for (const a of aliases) {
+          if (c.path.includes('/Dashboard — ' + a + '/') || c.path.includes('/Dashboard - ' + a + '/')) return true;
         }
         // Frontmatter metadata link matching
         const p = c.rawPage;
         if (p) {
-          if (p.lr && (p.lr === `[[${rootName}]]` || p.lr === `[[${dashName}]]` || p.lr === `[[Dashboard — ${rootName}]]`)) return true;
-          if (p.gr && (p.gr === `[[${rootName}]]` || p.gr === `[[${dashName}]]` || p.gr === `[[Dashboard — ${rootName}]]`)) return true;
+          const cleanLr = p.lr ? p.lr.replace(/[\u2013\u2014]/g, '-').replace(/^\[\[/, '').replace(/\]\]$/, '').trim() : '';
+          const cleanGr = p.gr ? p.gr.replace(/[\u2013\u2014]/g, '-').replace(/^\[\[/, '').replace(/\]\]$/, '').trim() : '';
+          const checkTarget = (val, target) => {
+            const v = val.toLowerCase();
+            const t = target.toLowerCase();
+            return v === t || v === 'dashboard - ' + t || v === 'dashboard — ' + t;
+          };
+          if (cleanLr && checkTarget(cleanLr, rootName)) return true;
+          if (cleanGr && checkTarget(cleanGr, rootName)) return true;
+          for (const a of aliases) {
+            if (cleanLr && checkTarget(cleanLr, a)) return true;
+            if (cleanGr && checkTarget(cleanGr, a)) return true;
+          }
         }
         return false;
       });
@@ -395,7 +645,7 @@ class MobileVocabApp {
    */
   openScopeInFeed(scope) {
     if (!scope || !scope.words || scope.words.length === 0) return;
-    this.activeScope = scope;
+    this.activeScope = { ...scope, isLocked: true };
     this.cardsFilterCategory = 'all';
     this.cardsFilterStatus = 'all';
     this.cardsSearchQuery = '';
@@ -411,7 +661,7 @@ class MobileVocabApp {
     this.updateCardsViewMode();
     this.applyCardsFilter();
     this.renderFeedCard('none');
-    this.showToast(`Linked: ${scope.title} (${this.filteredCards.length} exhaustive words)`);
+    this.showToast(`🔒 Locked to: ${scope.title} (${this.filteredCards.length} derived words)`);
   }
 
   /**
@@ -468,6 +718,11 @@ class MobileVocabApp {
     this.statusDb[notePath] = newStatus;
     this.saveStatusDb();
 
+    // Sync with Firebase Cloud Tracking Engine
+    try {
+      trackingService.setStatus(notePath, newStatus);
+    } catch {}
+
     // Haptic touch feedback if supported
     if (navigator.vibrate) navigator.vibrate(15);
 
@@ -518,6 +773,7 @@ class MobileVocabApp {
   switchTab(tabName) {
     if (this.activeTab === tabName) return;
 
+    this.cancelSpeech();
     this.activeTab = tabName;
 
     // Update Bottom Nav Buttons
@@ -637,7 +893,7 @@ class MobileVocabApp {
     container.innerHTML = '';
 
     const rootCard = document.createElement('div');
-    rootCard.className = 'home-page-card-stack';
+    rootCard.className = 'home-page-card-stack home-root-pane';
 
     // Calculate quick counts for pure vocabulary
     let totalLearned = 0;
@@ -800,6 +1056,24 @@ class MobileVocabApp {
 
     // It's a Study Page or Direct Original Note View -> Open in Home Stack!
     const title = noteTitle || notePath.slice(notePath.lastIndexOf('/') + 1).replace(/\.md$/i, '');
+
+    // Highlight category card in root navigation pane
+    document.querySelectorAll('.home-root-pane [data-open-path]').forEach(el => {
+      const isMatch = el.dataset.openPath === notePath;
+      el.classList.toggle('is-active', isMatch);
+    });
+
+    const container = document.getElementById('home-page-container');
+
+    // On wide screens (desktop monitors >= 900px), if navigating from root list, replace existing reader pane
+    if (window.innerWidth >= 900 && container) {
+      const isFromRoot = Array.from(container.querySelectorAll('.home-root-pane [data-open-path]')).some(el => el.dataset.openPath === notePath);
+      if (isFromRoot && !isDirectOriginalView) {
+        container.querySelectorAll('.home-reader-pane').forEach(r => r.remove());
+        this.homeStack = [];
+      }
+    }
+
     this.homeStack.push({ path: notePath, title, isHomeRoot: false, isOriginalNoteView: isDirectOriginalView });
     this.updateTopBar();
 
@@ -807,11 +1081,9 @@ class MobileVocabApp {
       window.history.pushState({ notePath, depth: this.homeStack.length }, '');
     } catch {}
 
-    const container = document.getElementById('home-page-container');
-
-    // Create new page element
+    // Create new page element with reader pane class
     const pageEl = document.createElement('div');
-    pageEl.className = 'home-page-card-stack page-enter-right';
+    pageEl.className = 'home-page-card-stack page-enter-right home-reader-pane';
 
     pageEl.innerHTML = `
       <div class="note-page-reader">
@@ -829,20 +1101,8 @@ class MobileVocabApp {
 
     container.appendChild(pageEl);
 
-    // Fetch note content
-    let rawContent = this.coreNotes[notePath] || '';
-    if (!rawContent) {
-      try {
-        const res = await fetch(`/api/note?path=${encodeURIComponent(notePath)}`);
-        if (res.ok) {
-          const data = await res.json();
-          rawContent = data.content || '';
-          this.coreNotes[notePath] = rawContent;
-        }
-      } catch (e) {
-        console.warn('Could not fetch note', e);
-      }
-    }
+    // Fetch note content with robust pre-bundled core notes fallback
+    const rawContent = await this.fetchNoteWithFallback(notePath);
 
     const bodyContainer = pageEl.querySelector('.note-body-content');
     if (rawContent) {
@@ -868,7 +1128,7 @@ class MobileVocabApp {
       if (!isDirectOriginalView) {
         const scopeWords = this.getWordsForScope(notePath);
         if (scopeWords.length > 0) {
-          const isDash = notePath.includes('Dashboard —') || (notePath.endsWith('.md') && notePath.split('/').pop().startsWith('Dashboard —'));
+          const isDash = /^Dashboard\s*[—–-]/i.test(notePath.split('/').pop()) || notePath.includes('Dashboard —') || notePath.includes('Dashboard -');
           const isVocab = notePath.startsWith('English vocabulary master');
           const isCluster = notePath.includes('Cluster ') || notePath.includes('Semantic Field');
           const scopeType = isDash ? 'root' : isCluster ? 'cluster' : 'discipline';
@@ -877,25 +1137,31 @@ class MobileVocabApp {
             type: scopeType,
             title: title,
             path: notePath,
-            words: scopeWords
+            words: scopeWords,
+            isLocked: true
           };
+          this.feedWordIndex = 0;
+          this.cardsFilterCategory = 'all';
+          this.cardsFilterStatus = 'all';
+          this.cardsSearchQuery = '';
+          this.applyCardsFilter();
 
           const ctaEl = document.createElement('div');
           ctaEl.className = 'home-study-feed-cta';
           ctaEl.innerHTML = `
             <div class="cta-left">
-              <div class="cta-title">⚡ Study All ${scopeWords.length} ${isDash ? 'Exhaustive Derivatives' : 'Words'} in Feed (Tab 2)</div>
-              <div class="cta-sub">${escapeHtml(title)} scoped directly into TikTok Word Feed</div>
+              <div class="cta-title">🔒 Locked to Word Cards: ${scopeWords.length} ${isDash ? 'Derived Words' : 'Words'}</div>
+              <div class="cta-sub">${escapeHtml(title)} scoped into Tab 2 Word Cards feed</div>
             </div>
-            <div class="cta-btn-pill">Study in Feed ›</div>
+            <div class="cta-btn-pill">Study Word Cards ›</div>
           `;
           ctaEl.addEventListener('click', () => {
             this.openScopeInFeed(this.activeScope);
           });
           bodyContainer.prepend(ctaEl);
         } else {
-          // If viewing general reference rules or files without vocabulary words, clear activeScope
-          if (!notePath.includes('00 Language Hub') && !notePath.includes('Progress')) {
+          // If viewing general reference rules or files without vocabulary words, clear activeScope only if not locked to a dashboard
+          if (!notePath.includes('00 Language Hub') && !notePath.includes('Progress') && !this.activeScope?.isLocked) {
             this.activeScope = null;
           }
         }
@@ -1070,7 +1336,7 @@ class MobileVocabApp {
       if (scopeBanner) {
         scopeBanner.style.display = 'flex';
         if (scopeText) {
-          scopeText.textContent = `Scoped: ${this.activeScope.title} (${pool.length} words)`;
+          scopeText.innerHTML = `🔒 <strong>Locked:</strong> ${escapeHtml(this.activeScope.title)} <span style="opacity:0.85;">(${pool.length} derived words)</span>`;
         }
       }
       // Highlight category chip to match scoped category
@@ -1106,11 +1372,18 @@ class MobileVocabApp {
     if (this.feedWordIndex >= this.filteredCards.length) {
       this.feedWordIndex = Math.max(0, this.filteredCards.length - 1);
     }
+    if (this.cardsViewMode === 'list' || window.innerWidth >= 900) {
+      this.renderCardList();
+    }
   }
 
   async renderFeedCard(direction = 'none') {
+    this.cancelSpeech();
     const container = document.getElementById('tiktok-feed-wrapper');
     if (!container) return;
+
+    this._renderFeedSeq = (this._renderFeedSeq || 0) + 1;
+    const currentSeq = this._renderFeedSeq;
 
     if (this.filteredCards.length === 0) {
       container.innerHTML = `
@@ -1152,21 +1425,13 @@ class MobileVocabApp {
       posPill.textContent = `${(this.feedWordIndex + 1).toLocaleString()} / ${this.filteredCards.length.toLocaleString()}`;
     }
 
-    // Fetch card content if not cached
-    let rawContent = this.coreNotes[card.path] || '';
-    if (!rawContent) {
-      try {
-        const res = await fetch(`/api/note?path=${encodeURIComponent(card.path)}`);
-        if (res.ok) {
-          const data = await res.json();
-          rawContent = data.content || '';
-          this.coreNotes[card.path] = rawContent;
-        }
-      } catch (e) {}
-    }
+    // Fetch card content with robust pre-bundled core notes fallback
+    const rawContent = await this.fetchNoteWithFallback(card.path);
+
+    if (currentSeq !== this._renderFeedSeq) return;
 
     const { defText, secondaryDef, quotes, quoteText, quoteAuthor, quoteWork, pos } = this.extractCardDetails(card, rawContent);
-    const catLabel = card.category === 'greek' ? '🏛️ GREEK ROOT' : card.category === 'latin' ? '📜 LATIN ROOT' : '👑 VOCAB MASTER';
+    const catLabel = this.getCardCategoryBadge(card);
 
     // Find parent root dashboard if available
     const rootDash = this.findRootDashboardForWord(card.path);
@@ -1186,7 +1451,7 @@ class MobileVocabApp {
           <span class="tiktok-cat-badge">${escapeHtml(catLabel)}</span>
           <div class="tiktok-action-group">
             <button class="tiktok-pronounce-btn" id="btn-pronounce-word" title="Pronounce Word">
-              <span>🔊</span> <span>Listen</span>
+              <span class="pronounce-icon">🔊</span> <span class="pronounce-label">Listen</span>
             </button>
             <button class="tiktok-original-btn" id="btn-open-original-note" data-original-path="${escapeAttr(card.path)}" title="View Full Original Markdown Note">
               <span>📄</span> <span>Original Note</span>
@@ -1209,7 +1474,7 @@ class MobileVocabApp {
             <span>🌿 ${escapeHtml(card.cluster || 'Classical Cluster')}</span>
             ${rootDash ? `
               <span class="tiktok-keystone-link" id="link-open-root-dashboard" data-root-path="${escapeAttr(rootDash.path)}">
-                🏛️ ${escapeHtml(rootDash.title)} ›
+                ${card.category === 'greek' ? '🏛️' : '📜'} ${escapeHtml(rootDash.title)} ›
               </span>
             ` : ''}
           </div>
@@ -1281,9 +1546,10 @@ class MobileVocabApp {
     }
 
     // Audio Speech Pronunciation
-    slideEl.querySelector('#btn-pronounce-word')?.addEventListener('click', (e) => {
+    const pronounceBtn = slideEl.querySelector('#btn-pronounce-word');
+    pronounceBtn?.addEventListener('click', (e) => {
       e.stopPropagation();
-      this.speakWord(card.name);
+      this.playPronunciation(card.name, pronounceBtn);
     });
 
     // Mobile-Optimized "Original" Button: opens full original markdown note in reader view
@@ -1329,26 +1595,38 @@ class MobileVocabApp {
       });
     });
 
-    const existingSlides = container.querySelectorAll('.tiktok-slide');
+    const existingSlides = Array.from(container.querySelectorAll('.tiktok-slide'));
     if (existingSlides.length > 0 && direction !== 'none') {
-      existingSlides.forEach((slide, idx) => {
-        if (idx < existingSlides.length - 1) {
-          slide.remove();
-        }
-      });
+      for (let i = 0; i < existingSlides.length - 1; i++) {
+        existingSlides[i].remove();
+      }
       const activeOldSlide = existingSlides[existingSlides.length - 1];
+      activeOldSlide.classList.remove('slide-up-in', 'slide-down-in');
       activeOldSlide.classList.add(direction === 'up' ? 'slide-up-out' : 'slide-down-out');
+      slideEl.scrollTop = 0;
       container.appendChild(slideEl);
-      setTimeout(() => {
-        activeOldSlide.remove();
-      }, 260);
+      this.isSlideTransitioning = true;
+
+      const cleanup = () => {
+        if (activeOldSlide.parentNode === container) {
+          activeOldSlide.remove();
+        }
+        this.isSlideTransitioning = false;
+      };
+      activeOldSlide.addEventListener('animationend', cleanup, { once: true });
+      setTimeout(cleanup, 280);
     } else {
       container.innerHTML = '';
+      slideEl.scrollTop = 0;
       container.appendChild(slideEl);
+      this.isSlideTransitioning = false;
     }
+    this.syncCardListHighlight();
   }
 
   nextFeedWord() {
+    this.cancelSpeech();
+    if (this.isSlideTransitioning) return;
     if (this.feedWordIndex < this.filteredCards.length - 1) {
       this.feedWordIndex++;
       this.renderFeedCard('up');
@@ -1358,6 +1636,8 @@ class MobileVocabApp {
   }
 
   prevFeedWord() {
+    this.cancelSpeech();
+    if (this.isSlideTransitioning) return;
     if (this.feedWordIndex > 0) {
       this.feedWordIndex--;
       this.renderFeedCard('down');
@@ -1366,18 +1646,241 @@ class MobileVocabApp {
     }
   }
 
-  speakWord(text) {
-    if ('speechSynthesis' in window) {
-      window.speechSynthesis.cancel();
-      const utter = new SpeechSynthesisUtterance(text);
-      utter.rate = 0.9;
-      utter.lang = 'en-US';
-      window.speechSynthesis.speak(utter);
+  /* ========================================================================
+     AUDIO SPEECH SYNTHESIS ENGINE (WEB SPEECH API)
+     ======================================================================== */
+
+  initSpeechEngine() {
+    if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
+      const loadVoices = () => {
+        try {
+          const list = window.speechSynthesis.getVoices();
+          if (list && list.length > 0) {
+            this.speechVoices = list;
+          }
+        } catch (e) {
+          console.warn('Error loading speech voices:', e);
+        }
+      };
+
+      loadVoices();
+      try {
+        if ('onvoiceschanged' in window.speechSynthesis) {
+          window.speechSynthesis.onvoiceschanged = loadVoices;
+        }
+        window.speechSynthesis.addEventListener?.('voiceschanged', loadVoices);
+      } catch (e) {
+        window.speechSynthesis.onvoiceschanged = loadVoices;
+      }
     }
+  }
+
+  getOptimalVoice() {
+    if (!this.speechVoices || this.speechVoices.length === 0) {
+      if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
+        try {
+          this.speechVoices = window.speechSynthesis.getVoices() || [];
+        } catch {}
+      }
+    }
+    const voices = this.speechVoices || [];
+    if (voices.length === 0) return null;
+
+    // Filter English voices (en-US, en-GB, en-AU, etc.)
+    const enVoices = voices.filter(v => v.lang && /^en[-_]/i.test(v.lang));
+    if (enVoices.length === 0) return voices[0];
+
+    const qualityKeywords = [
+      'natural', 'neural', 'premium', 'enhanced', 'google',
+      'samantha', 'daniel', 'karen', 'oliver', 'serena', 'moira', 'alex', 'ava', 'allison'
+    ];
+
+    // Priority 1: High-quality / Neural en-US voice
+    const premiumEnUs = enVoices.find(v => {
+      const normLang = (v.lang || '').replace('_', '-').toLowerCase();
+      const name = (v.name || '').toLowerCase();
+      return normLang === 'en-us' && qualityKeywords.some(kw => name.includes(kw));
+    });
+    if (premiumEnUs) return premiumEnUs;
+
+    // Priority 2: High-quality / Neural en-GB voice
+    const premiumEnGb = enVoices.find(v => {
+      const normLang = (v.lang || '').replace('_', '-').toLowerCase();
+      const name = (v.name || '').toLowerCase();
+      return normLang === 'en-gb' && qualityKeywords.some(kw => name.includes(kw));
+    });
+    if (premiumEnGb) return premiumEnGb;
+
+    // Priority 3: Default system en-US voice
+    const defaultEnUs = enVoices.find(v => {
+      const normLang = (v.lang || '').replace('_', '-').toLowerCase();
+      return normLang === 'en-us' && v.default;
+    });
+    if (defaultEnUs) return defaultEnUs;
+
+    // Priority 4: Any standard en-US voice
+    const standardEnUs = enVoices.find(v => {
+      const normLang = (v.lang || '').replace('_', '-').toLowerCase();
+      return normLang === 'en-us';
+    });
+    if (standardEnUs) return standardEnUs;
+
+    // Priority 5: Any standard en-GB voice
+    const standardEnGb = enVoices.find(v => {
+      const normLang = (v.lang || '').replace('_', '-').toLowerCase();
+      return normLang === 'en-gb';
+    });
+    if (standardEnGb) return standardEnGb;
+
+    // Priority 6: Fallback to first available English voice
+    return enVoices[0];
+  }
+
+  playPronunciation(word, buttonEl = null) {
+    if (typeof window === 'undefined' || !('speechSynthesis' in window) || typeof SpeechSynthesisUtterance === 'undefined') {
+      this.showToast('Speech pronunciation is unsupported on this browser');
+      return;
+    }
+
+    const cleanWord = (word || '').replace(/[\[\]*_`#]/g, '').trim();
+    if (!cleanWord) {
+      this.showToast('No word available for pronunciation');
+      return;
+    }
+
+    // Toggle off if currently speaking from the same button
+    if (this.isSpeaking && buttonEl && this.activeSpeechButton === buttonEl) {
+      this.cancelSpeech();
+      return;
+    }
+
+    // Identify target button if not explicitly passed
+    const targetBtn = buttonEl || (
+      this.activeTab === 'cards'
+        ? document.getElementById('btn-pronounce-word')
+        : (this.activeTab === 'daily' ? document.getElementById('btn-daily-pronounce') : null)
+    );
+
+    // Cancel any previous stuck utterance queues (crucial for iOS & Android WebView)
+    try {
+      if (window.speechSynthesis.paused) {
+        window.speechSynthesis.resume();
+      }
+      window.speechSynthesis.cancel();
+    } catch (e) {
+      console.warn('speechSynthesis cancel error:', e);
+    }
+
+    this.clearSpeechVisualFeedback();
+
+    const utter = new SpeechSynthesisUtterance(cleanWord);
+    utter.rate = 0.9;
+    utter.pitch = 1.0;
+    utter.volume = 1.0;
+
+    const voice = this.getOptimalVoice();
+    if (voice) {
+      utter.voice = voice;
+      utter.lang = voice.lang || 'en-US';
+    } else {
+      utter.lang = 'en-US';
+    }
+
+    // Retain global reference to protect against garbage collection prematurely cutting speech
+    this.currentUtterance = utter;
+    this.isSpeaking = true;
+
+    utter.onstart = () => {
+      this.isSpeaking = true;
+      if (targetBtn) {
+        this.setSpeechVisualFeedback(targetBtn);
+      }
+    };
+
+    utter.onend = () => {
+      this.isSpeaking = false;
+      this.currentUtterance = null;
+      this.clearSpeechVisualFeedback();
+    };
+
+    utter.onerror = (event) => {
+      this.isSpeaking = false;
+      this.currentUtterance = null;
+      this.clearSpeechVisualFeedback();
+      if (event && event.error && event.error !== 'canceled' && event.error !== 'interrupted') {
+        console.warn('SpeechSynthesis error:', event);
+        this.showToast('Pronunciation playback failed');
+      }
+    };
+
+    try {
+      window.speechSynthesis.speak(utter);
+      if (targetBtn) {
+        this.setSpeechVisualFeedback(targetBtn);
+      }
+    } catch (err) {
+      console.error('SpeechSynthesis speak failed:', err);
+      this.showToast('Pronunciation playback failed');
+      this.clearSpeechVisualFeedback();
+    }
+  }
+
+  speakWord(text, buttonEl = null) {
+    return this.playPronunciation(text, buttonEl);
+  }
+
+  stopPronunciation() {
+    this.cancelSpeech();
+  }
+
+  cancelSpeech() {
+    if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
+      try {
+        window.speechSynthesis.cancel();
+      } catch (e) {
+        console.warn('Speech cancellation error:', e);
+      }
+    }
+    this.isSpeaking = false;
+    this.currentUtterance = null;
+    this.clearSpeechVisualFeedback();
+  }
+
+  setSpeechVisualFeedback(buttonEl) {
+    if (!buttonEl) return;
+    this.clearSpeechVisualFeedback();
+    this.activeSpeechButton = buttonEl;
+    buttonEl.classList.add('speaking');
+    const label = buttonEl.querySelector('.pronounce-label') || buttonEl.querySelectorAll('span')[1];
+    if (label && !label.dataset.originalLabel) {
+      label.dataset.originalLabel = label.textContent;
+      label.textContent = 'Playing...';
+    }
+  }
+
+  clearSpeechVisualFeedback() {
+    if (this.activeSpeechButton) {
+      this.activeSpeechButton.classList.remove('speaking');
+      const label = this.activeSpeechButton.querySelector('.pronounce-label') || this.activeSpeechButton.querySelectorAll('span')[1];
+      if (label && label.dataset.originalLabel) {
+        label.textContent = label.dataset.originalLabel;
+        delete label.dataset.originalLabel;
+      }
+      this.activeSpeechButton = null;
+    }
+    document.querySelectorAll('.tiktok-pronounce-btn.speaking').forEach(btn => {
+      btn.classList.remove('speaking');
+      const lbl = btn.querySelector('.pronounce-label') || btn.querySelectorAll('span')[1];
+      if (lbl && lbl.dataset.originalLabel) {
+        lbl.textContent = lbl.dataset.originalLabel;
+        delete lbl.dataset.originalLabel;
+      }
+    });
   }
 
   openWordCardByPath(notePath) {
     if (!notePath) return;
+    this.cancelSpeech();
 
     // If activeScope doesn't contain this word, clear activeScope so target word is visible
     if (this.activeScope && this.activeScope.words) {
@@ -1422,7 +1925,23 @@ class MobileVocabApp {
     const btnFeed = document.getElementById('btn-mode-feed');
     const btnList = document.getElementById('btn-mode-list');
 
+    // On wide screens (desktop monitors >= 900px), display side-by-side layout
+    if (window.innerWidth >= 900) {
+      if (feedEl) feedEl.style.display = 'flex';
+      if (listEl) listEl.style.display = 'block';
+      this.renderFeedCard('none');
+      if (!listEl?.querySelector('.cards-list-items-container')) {
+        this.renderCardList();
+      }
+      this.syncCardListHighlight();
+      return;
+    }
+
     if (this.cardsViewMode === 'feed') {
+      if (this.cardListObserver) {
+        this.cardListObserver.disconnect();
+        this.cardListObserver = null;
+      }
       if (feedEl) feedEl.style.display = 'flex';
       if (listEl) listEl.style.display = 'none';
       if (btnFeed) btnFeed.classList.add('active');
@@ -1437,36 +1956,147 @@ class MobileVocabApp {
     }
   }
 
+  syncCardListHighlight() {
+    const listEl = document.getElementById('cards-list-view');
+    if (!listEl) return;
+    const activeItem = listEl.querySelector(`.card-list-item[data-card-index="${this.feedWordIndex}"]`);
+    listEl.querySelectorAll('.card-list-item').forEach(el => el.classList.remove('is-active'));
+    if (activeItem) {
+      activeItem.classList.add('is-active');
+      if (window.innerWidth >= 900) {
+        activeItem.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+      }
+    }
+  }
+
   renderCardList() {
     const listEl = document.getElementById('cards-list-view');
     if (!listEl) return;
 
-    listEl.innerHTML = '';
-    const slice = this.filteredCards.slice(0, 150);
+    if (this.cardListObserver) {
+      this.cardListObserver.disconnect();
+      this.cardListObserver = null;
+    }
 
-    for (let i = 0; i < slice.length; i++) {
-      const card = slice[i];
+    listEl.innerHTML = '';
+    this.cardListRenderedCount = 0;
+
+    if (!this.filteredCards || this.filteredCards.length === 0) {
+      listEl.innerHTML = `
+        <div style="text-align: center; padding: 40px 20px; color: var(--web-text-muted);">
+          <div style="font-size: 32px; margin-bottom: 8px;">🔍</div>
+          <div style="font-size: 15px; font-weight: 700; color: var(--web-text-primary);">No Vocabulary Words Found</div>
+          <div style="font-size: 12px; margin-top: 4px;">Try adjusting your search query or filter chips.</div>
+        </div>
+      `;
+      return;
+    }
+
+    const itemsContainer = document.createElement('div');
+    itemsContainer.className = 'cards-list-items-container';
+    listEl.appendChild(itemsContainer);
+
+    const footerEl = document.createElement('div');
+    footerEl.className = 'cards-list-footer';
+    listEl.appendChild(footerEl);
+
+    // Initial batch of 50
+    this.loadMoreCardListChunk(itemsContainer, footerEl);
+
+    // Progressive virtual loading sentinel
+    if ('IntersectionObserver' in window) {
+      this.cardListObserver = new IntersectionObserver((entries) => {
+        if (entries[0] && entries[0].isIntersecting) {
+          if (this.cardListRenderedCount < this.filteredCards.length) {
+            this.loadMoreCardListChunk(itemsContainer, footerEl);
+          }
+        }
+      }, {
+        root: listEl,
+        rootMargin: '250px 0px',
+        threshold: 0.05
+      });
+
+      this.cardListObserver.observe(footerEl);
+    }
+  }
+
+  loadMoreCardListChunk(itemsContainer, footerEl) {
+    const CHUNK_SIZE = 50;
+    const total = this.filteredCards.length;
+    const startIndex = this.cardListRenderedCount;
+    if (startIndex >= total) return;
+
+    const endIndex = Math.min(startIndex + CHUNK_SIZE, total);
+    const chunk = this.filteredCards.slice(startIndex, endIndex);
+
+    const fragment = document.createDocumentFragment();
+
+    for (let i = 0; i < chunk.length; i++) {
+      const card = chunk[i];
+      const cardIndex = startIndex + i;
       const st = this.getStatus(card.path);
       const badge = st === 'learned' ? '🟢' : st === 'learning' ? '🟡' : '🔴';
 
+      const isActive = cardIndex === this.feedWordIndex;
       const item = document.createElement('div');
-      item.className = 'card-list-item';
+      item.className = 'card-list-item' + (isActive ? ' is-active' : '');
+      item.setAttribute('data-card-index', cardIndex);
       item.innerHTML = `
-        <div>
+        <div style="min-width: 0; flex: 1; padding-right: 12px;">
           <div class="card-list-item-title">${escapeHtml(card.name)}</div>
-          <div class="card-list-item-cluster">${escapeHtml(card.cluster)} · ${escapeHtml(card.category)}</div>
+          <div class="card-list-item-cluster">${escapeHtml(card.cluster || 'Cluster')} · ${escapeHtml(this.getCardCategoryLabel(card))}</div>
         </div>
-        <div style="font-size:16px;">${badge}</div>
+        <div style="font-size: 16px; flex-shrink: 0;">${badge}</div>
       `;
 
       item.addEventListener('click', () => {
-        this.feedWordIndex = this.filteredCards.indexOf(card);
-        this.cardsViewMode = 'feed';
-        this.updateCardsViewMode();
+        this.feedWordIndex = cardIndex;
+        if (window.innerWidth < 900) {
+          this.cardsViewMode = 'feed';
+          this.updateCardsViewMode();
+        }
         this.renderFeedCard('none');
+        this.syncCardListHighlight();
       });
 
-      listEl.appendChild(item);
+      fragment.appendChild(item);
+    }
+
+    itemsContainer.appendChild(fragment);
+    this.cardListRenderedCount = endIndex;
+
+    if (footerEl) {
+      if (this.cardListRenderedCount < total) {
+        const remaining = total - this.cardListRenderedCount;
+        const nextBatch = Math.min(remaining, CHUNK_SIZE);
+        footerEl.innerHTML = `
+          <div style="display: flex; flex-direction: column; align-items: center; gap: 8px; padding: 14px 0;">
+            <div style="font-size: 12px; color: var(--web-text-muted);">
+              Showing ${this.cardListRenderedCount.toLocaleString()} of ${total.toLocaleString()} words
+            </div>
+            <button class="settings-action-btn card-list-load-more-btn" style="max-width: 220px; padding: 8px 14px; font-size: 12.5px;">
+              <span>⬇️ Load More (+${nextBatch})</span>
+            </button>
+          </div>
+        `;
+        const btn = footerEl.querySelector('.card-list-load-more-btn');
+        if (btn) {
+          btn.addEventListener('click', () => {
+            this.loadMoreCardListChunk(itemsContainer, footerEl);
+          });
+        }
+      } else {
+        footerEl.innerHTML = `
+          <div style="text-align: center; padding: 18px 0; font-size: 12px; color: var(--web-text-muted);">
+            ✨ Showing all ${total.toLocaleString()} vocabulary words
+          </div>
+        `;
+        if (this.cardListObserver) {
+          this.cardListObserver.disconnect();
+          this.cardListObserver = null;
+        }
+      }
     }
   }
 
@@ -1527,30 +2157,42 @@ class MobileVocabApp {
           const clean = line.replace(/^>\s*(?:-\s*)?/, '').trim();
           if (!clean) continue;
 
-          const pMatch = clean.match(/(?:1\.\s*)?\*\*(?:1\.\s*)?(?:Primary|Concise)[^*]*\*\*:\s*(.*)/i);
+          const pMatch = clean.match(/(?:1\.\s*)?\*\*(?:1\.\s*)?(?:Primary|Concise|Definition|Meaning|Core)[^*]*\*\*:\s*(.*)/i);
           if (pMatch && !primaryDef) {
             primaryDef = this.cleanDefinitionText(pMatch[1]);
           }
 
-          const sMatch = clean.match(/(?:2\.\s*)?\*\*(?:2\.\s*)?(?:Secondary|Nuanced|Nuance)[^*]*\*\*:\s*(.*)/i);
+          const sMatch = clean.match(/(?:2\.\s*)?\*\*(?:2\.\s*)?(?:Secondary|Nuanced|Nuance|Extended|Specialized)[^*]*\*\*:\s*(.*)/i);
           if (sMatch && !secondaryDef) {
             secondaryDef = this.cleanDefinitionText(sMatch[1]);
           }
 
           if (!primaryDef && clean.startsWith('1.')) {
-            primaryDef = this.cleanDefinitionText(clean.replace(/^1\.\s*/, '').replace(/\*\*[^*]+\*\*:\s*/, ''));
+            primaryDef = this.cleanDefinitionText(clean.replace(/^1\.\s*/, '').replace(/^\*\*[^*]+\*\*:\s*/, ''));
           }
         } else if (currentSection === 'quote') {
           const clean = line.replace(/^>\s*-\s*(?:📜|📚|🔬|🌐|🗣️|💬)?\s*/, '').replace(/^>\s*/, '').trim();
           if (!clean) continue;
 
-          // Match: **Author (*Work*):** *"Quote text..."* or **Author (Work):** "Quote text..."
-          const m = clean.match(/^\*\*([^*]+?)\s*\(\*?([^*)]+?)\*?\):?\*\*:?\s*\*?["“]([^"”]+)["”]\*?/) ||
-                    clean.match(/^\*\*([^*]+?)(?:\s*\(([^)]+)\))?:?\*\*:?\s*\*?["“]([^"”]+)["”]\*?/);
-          if (m) {
-            const author = (m[1] || '').replace(/[:*]/g, '').trim();
-            const work = (m[2] || '').replace(/[:*]/g, '').trim();
-            quotes.push({ author, work, quote: m[3].trim() });
+          // Match: **Author (*Work*):** *"Quote text..."* or **Author (*Work (Subtitle)*):** *"Quote..."*
+          const headerQuoteMatch = clean.match(/^\*\*([\s\S]+?)\*\*:?\s*\*?["“]([\s\S]+?)["”]\*?$/) ||
+                                   clean.match(/^\*\*([\s\S]+?)\*\*:?\s*\*?["“]([\s\S]+)$/) ||
+                                   clean.match(/^\*\*([^*]+?)\s*\(\*?([\s\S]+?)\*?\):?\*\*:?\s*\*?["“]([\s\S]+?)["”]\*?/);
+
+          if (headerQuoteMatch) {
+            let rawHeader = headerQuoteMatch[1].trim();
+            rawHeader = rawHeader.replace(/[:*]+$/, '').trim();
+            const quoteText = (headerQuoteMatch[2] || '').replace(/["”*]+$/g, '').trim();
+
+            const parenMatch = rawHeader.match(/^(.+?)\s*\(\*?([\s\S]+?)\*?\)$/);
+            if (parenMatch) {
+              const author = parenMatch[1].replace(/[:*]/g, '').trim();
+              const work = parenMatch[2].replace(/[:*]/g, '').trim();
+              quotes.push({ author, work, quote: quoteText });
+            } else {
+              const author = rawHeader.replace(/[:*]/g, '').trim();
+              quotes.push({ author, work: '', quote: quoteText });
+            }
           } else {
             const qm = clean.match(/["“]([^"”]+)["”]/);
             if (qm) {
@@ -1589,6 +2231,7 @@ class MobileVocabApp {
      ======================================================================== */
 
   async renderDailyCard(pickNew = false) {
+    this.cancelSpeech();
     const contentEl = document.getElementById('daily-card-content');
 
     if (this.allWordCards.length === 0) {
@@ -1614,18 +2257,8 @@ class MobileVocabApp {
 
     const status = this.getStatus(card.path);
 
-    // Fetch content if not cached
-    let rawContent = this.coreNotes[card.path] || '';
-    if (!rawContent) {
-      try {
-        const res = await fetch(`/api/note?path=${encodeURIComponent(card.path)}`);
-        if (res.ok) {
-          const data = await res.json();
-          rawContent = data.content || '';
-          this.coreNotes[card.path] = rawContent;
-        }
-      } catch (e) {}
-    }
+    // Fetch content with robust pre-bundled core notes fallback
+    const rawContent = await this.fetchNoteWithFallback(card.path);
 
     const { defText, secondaryDef, quotes, quoteText, quoteAuthor, quoteWork, pos } = this.extractCardDetails(card, rawContent);
     const quoteList = quotes && quotes.length > 0
@@ -1635,10 +2268,10 @@ class MobileVocabApp {
     contentEl.innerHTML = `
       <div>
         <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px; gap:8px;">
-          <span class="card-category-pill">${escapeHtml(card.category.toUpperCase())}</span>
+          <span class="card-category-pill">${escapeHtml(this.getCardCategoryBadge(card))}</span>
           <div style="display:flex; align-items:center; gap:6px;">
             <button class="tiktok-pronounce-btn" id="btn-daily-pronounce" title="Pronounce Word" style="padding:3px 9px; font-size:11px;">
-              <span>🔊</span> <span>Listen</span>
+              <span class="pronounce-icon">🔊</span> <span class="pronounce-label">Listen</span>
             </button>
             <button class="tiktok-original-btn" id="btn-daily-original" title="View Full Original Markdown Note" style="padding:3px 9px; font-size:11px;">
               <span>📄</span> <span>Original</span>
@@ -1725,9 +2358,10 @@ class MobileVocabApp {
     }
 
     // Pronounce audio
-    contentEl.querySelector('#btn-daily-pronounce')?.addEventListener('click', (e) => {
+    const dailyPronounceBtn = contentEl.querySelector('#btn-daily-pronounce');
+    dailyPronounceBtn?.addEventListener('click', (e) => {
       e.stopPropagation();
-      this.speakWord(card.name);
+      this.playPronunciation(card.name, dailyPronounceBtn);
     });
 
     // Original note button
@@ -1898,66 +2532,194 @@ class MobileVocabApp {
 
   bindTouchGestures() {
     let ignoreSwipe = false;
+    let touchStartX = 0;
+    let touchStartY = 0;
+    let touchStartTime = 0;
+    let lastTouchY = 0;
+    let lastTouchTime = 0;
+    let touchMoved = false;
 
+    // 1. TouchStart — passive listener for optimal scrolling initiation
     document.addEventListener('touchstart', (e) => {
-      if (e.touches.length === 1) {
-        if (e.target.closest('input, button, .filter-chips-scroll, .table-scroll-wrapper, pre, code')) {
-          ignoreSwipe = true;
-          return;
-        }
-        ignoreSwipe = false;
-        this.touchStartX = e.touches[0].clientX;
-        this.touchStartY = e.touches[0].clientY;
-        this.touchStartTime = Date.now();
+      if (e.touches.length !== 1) {
+        ignoreSwipe = true;
+        return;
       }
+
+      // Ignore gesture initiation if touching interactive elements or text selection areas
+      if (e.target.closest('input, textarea, select, button, a, .apple-c, .card-status-btn, .tiktok-pronounce-btn, .tiktok-original-btn, .filter-chip, .filter-chips-scroll, .table-scroll-wrapper, pre, code')) {
+        ignoreSwipe = true;
+        return;
+      }
+
+      ignoreSwipe = false;
+      touchStartX = e.touches[0].clientX;
+      touchStartY = e.touches[0].clientY;
+      touchStartTime = performance.now();
+      lastTouchY = touchStartY;
+      lastTouchTime = touchStartTime;
+      touchMoved = false;
     }, { passive: true });
 
-    document.addEventListener('touchend', (e) => {
-      if (ignoreSwipe) return;
-      if (e.changedTouches.length === 1) {
-        const deltaX = e.changedTouches[0].clientX - this.touchStartX;
-        const deltaY = e.changedTouches[0].clientY - this.touchStartY;
-        const elapsed = Date.now() - this.touchStartTime;
+    // 2. TouchMove — non-passive listener to prevent scroll bouncing, rubber-banding, and pull-to-refresh jitter
+    document.addEventListener('touchmove', (e) => {
+      if (ignoreSwipe || e.touches.length !== 1) return;
 
-        // 1. Horizontal swipe on Home Tab -> toggle between pages in navigation stack
-        if (this.activeTab === 'home') {
-          if (Math.abs(deltaX) > 55 && Math.abs(deltaY) < 65 && elapsed < 500) {
-            if (deltaX > 0) {
-              // Swipe Left-to-Right -> Go back
-              this.goBackHome(true);
-            } else if (deltaX < 0) {
-              // Swipe Right-to-Left -> Advance to next page / section
-              this.advanceHomeNext();
+      const currentX = e.touches[0].clientX;
+      const currentY = e.touches[0].clientY;
+      const now = performance.now();
+
+      const deltaX = currentX - touchStartX;
+      const deltaY = currentY - touchStartY;
+      const absX = Math.abs(deltaX);
+      const absY = Math.abs(deltaY);
+
+      lastTouchY = currentY;
+      lastTouchTime = now;
+      touchMoved = true;
+
+      // Text selection guard: don't preventDefault or swipe if user is selecting text
+      if (window.getSelection && window.getSelection().toString().trim().length > 0) {
+        ignoreSwipe = true;
+        return;
+      }
+
+      // Vertical swipe on TikTok Feed
+      if (this.activeTab === 'cards' && this.cardsViewMode === 'feed') {
+        const isVertical = absY > absX && absY > 6;
+        if (isVertical) {
+          const activeSlide = document.querySelector('#tiktok-feed-wrapper .tiktok-slide');
+          if (activeSlide) {
+            const isScrollable = activeSlide.scrollHeight - activeSlide.clientHeight > 10;
+            const isAtTop = activeSlide.scrollTop <= 4;
+            const isAtBottom = activeSlide.scrollTop + activeSlide.clientHeight >= activeSlide.scrollHeight - 6;
+
+            // When card does not scroll internally, or has reached boundary limits,
+            // intercepting default scroll eliminates iOS/Android rubber-band bounce and jitter
+            if (!isScrollable) {
+              if (e.cancelable) e.preventDefault();
+            } else if (isAtTop && deltaY > 0) {
+              if (e.cancelable) e.preventDefault();
+            } else if (isAtBottom && deltaY < 0) {
+              if (e.cancelable) e.preventDefault();
             }
+            // If inside scrollable quotes/text, allow native momentum scroll
           }
         }
-        // 2. Vertical swipe on Word Cards Feed -> TikTok-style swipe up/down
-        else if (this.activeTab === 'cards' && this.cardsViewMode === 'feed') {
-          if (Math.abs(deltaY) > 40 && Math.abs(deltaY) > Math.abs(deltaX) && elapsed < 600) {
-            if (deltaY < 0) {
-              // Swipe Bottom-to-Up -> Next Word!
+      }
+      // Horizontal swipe on Home or Daily Tab: lock vertical wobble during page swipe
+      else if ((this.activeTab === 'home' || this.activeTab === 'daily') && absX > absY && absX > 10) {
+        if (e.cancelable) e.preventDefault();
+      }
+    }, { passive: false });
+
+    // 3. TouchEnd — passive listener with robust velocity calculation, flick detection & scroll collision guards
+    document.addEventListener('touchend', (e) => {
+      if (ignoreSwipe || !touchMoved) return;
+      if (e.changedTouches.length !== 1) return;
+
+      // Do NOT trigger slide change if user has selected text
+      if (window.getSelection && window.getSelection().toString().trim().length > 0) {
+        return;
+      }
+
+      const endX = e.changedTouches[0].clientX;
+      const endY = e.changedTouches[0].clientY;
+      const totalDeltaX = endX - touchStartX;
+      const totalDeltaY = endY - touchStartY;
+      const absX = Math.abs(totalDeltaX);
+      const absY = Math.abs(totalDeltaY);
+      const totalElapsed = Math.max(1, performance.now() - touchStartTime);
+
+      // Instantaneous flick velocity & overall swipe velocity (px/ms)
+      const overallVelocityY = absY / totalElapsed;
+      const recentElapsed = Math.max(1, performance.now() - lastTouchTime);
+      const recentDeltaY = Math.abs(endY - lastTouchY);
+      const recentVelocityY = recentDeltaY / recentElapsed;
+      const velocityY = Math.max(overallVelocityY, recentVelocityY);
+
+      // (1) Horizontal swipe on Home Tab -> navigate subpage stack
+      if (this.activeTab === 'home') {
+        const isHorizontal = absX > 60 && absX > absY * 1.3 && totalElapsed < 600;
+        if (isHorizontal) {
+          if (totalDeltaX > 0) {
+            this.goBackHome(true);
+          } else {
+            this.advanceHomeNext();
+          }
+        }
+      }
+      // (2) Vertical swipe on Word Cards Feed -> TikTok snap transition
+      else if (this.activeTab === 'cards' && this.cardsViewMode === 'feed') {
+        const isVerticalDominant = absY > absX * 1.25;
+        if (!isVerticalDominant) return;
+
+        const activeSlide = document.querySelector('#tiktok-feed-wrapper .tiktok-slide');
+        const isScrollable = activeSlide ? (activeSlide.scrollHeight - activeSlide.clientHeight > 10) : false;
+        const isAtTop = activeSlide ? (activeSlide.scrollTop <= 6) : true;
+        const isAtBottom = activeSlide ? (activeSlide.scrollTop + activeSlide.clientHeight >= activeSlide.scrollHeight - 8) : true;
+
+        // High velocity flick detection: quick flick with high velocity
+        const isFlick = velocityY >= 0.55 && absY >= 40 && totalElapsed < 380;
+        // Standard swipe threshold: clear intentional displacement
+        const isSwipeThreshold = absY >= 70 && totalElapsed < 700;
+
+        if (totalDeltaY < 0) {
+          // SWIPE UP -> Advance to Next Word
+          if (isScrollable) {
+            // Guard: don't skip quotes if user is just reading through them, unless they are at bottom or do an intentional high-speed flick
+            if (isAtBottom && (isSwipeThreshold || isFlick)) {
               this.nextFeedWord();
-            } else {
-              // Swipe Top-to-Bottom -> Previous Word!
+            } else if (isFlick && velocityY >= 0.85 && absY >= 60) {
+              this.nextFeedWord();
+            }
+          } else {
+            if (isFlick || isSwipeThreshold) {
+              this.nextFeedWord();
+            }
+          }
+        } else if (totalDeltaY > 0) {
+          // SWIPE DOWN -> Return to Previous Word
+          if (isScrollable) {
+            // Guard: only flip back if user is already at the top of the card (prevents flipping while scrolling quotes back up)
+            if (isAtTop && (isSwipeThreshold || isFlick)) {
+              this.prevFeedWord();
+            }
+          } else {
+            if (isFlick || isSwipeThreshold) {
               this.prevFeedWord();
             }
           }
         }
-        // 3. Horizontal swipe on Daily Word -> draw next random
-        else if (this.activeTab === 'daily') {
-          if (deltaX < -55 && Math.abs(deltaY) < 65 && elapsed < 500) {
-            this.renderDailyCard(true);
-          }
+      }
+      // (3) Horizontal swipe on Daily Word -> draw next random word
+      else if (this.activeTab === 'daily') {
+        const isHorizontal = absX > 60 && absX > absY * 1.3 && totalElapsed < 600;
+        if (isHorizontal && totalDeltaX < 0) {
+          this.renderDailyCard(true);
         }
       }
     }, { passive: true });
 
-    // Mouse wheel / trackpad scroll on TikTok Feed
+    // 4. Mouse wheel / trackpad scroll on TikTok Feed
     const feedContainer = document.getElementById('cards-feed-view');
     let lastWheelTime = 0;
     feedContainer?.addEventListener('wheel', (e) => {
       if (this.activeTab !== 'cards' || this.cardsViewMode !== 'feed') return;
       if (Math.abs(e.deltaY) < 25) return;
+
+      const activeSlide = feedContainer.querySelector('.tiktok-slide');
+      if (activeSlide) {
+        const isScrollable = activeSlide.scrollHeight - activeSlide.clientHeight > 8;
+        if (isScrollable) {
+          const isAtTop = activeSlide.scrollTop <= 4;
+          const isAtBottom = activeSlide.scrollTop + activeSlide.clientHeight >= activeSlide.scrollHeight - 6;
+          // Allow native wheel scrolling inside long quotes / citations
+          if (e.deltaY > 0 && !isAtBottom) return;
+          if (e.deltaY < 0 && !isAtTop) return;
+        }
+      }
+
       const now = Date.now();
       if (now - lastWheelTime < 320) return;
       lastWheelTime = now;
@@ -2024,12 +2786,29 @@ class MobileVocabApp {
     // Category chips
     document.querySelectorAll('#cards-category-chips .filter-chip').forEach(chip => {
       chip.addEventListener('click', () => {
+        // If locked to a dashboard, do not destroy the lock when clicking category chips!
+        if (this.activeScope && this.activeScope.isLocked) {
+          const scopeCat = this.activeScope.words && this.activeScope.words[0] ? this.activeScope.words[0].category : null;
+          if (chip.dataset.cat !== 'all' && scopeCat && scopeCat !== chip.dataset.cat) {
+            this.showToast(`🔒 Cards are locked to ${this.activeScope.title}. Tap 'Unlock' on the banner to switch categories.`);
+            return;
+          }
+          if (chip.dataset.cat === 'all') {
+            document.querySelectorAll('#cards-category-chips .filter-chip').forEach(c => c.classList.toggle('active', c === chip));
+            this.cardsFilterCategory = 'all';
+            this.applyCardsFilter();
+            if (this.cardsViewMode === 'feed') this.renderFeedCard('none');
+            else this.renderCardList();
+            return;
+          }
+        }
+
         document.querySelectorAll('#cards-category-chips .filter-chip').forEach(c => c.classList.remove('active'));
         chip.classList.add('active');
         this.cardsFilterCategory = chip.dataset.cat;
 
-        // If clicking a category chip, clear conflicting scope so selected category words show
-        if (this.activeScope) {
+        // If clicking a category chip and not locked, clear conflicting scope so selected category words show
+        if (this.activeScope && !this.activeScope.isLocked) {
           const scopeCat = this.activeScope.words && this.activeScope.words[0] ? this.activeScope.words[0].category : null;
           if (chip.dataset.cat === 'all' || (scopeCat && scopeCat !== chip.dataset.cat)) {
             this.activeScope = null;
@@ -2064,7 +2843,7 @@ class MobileVocabApp {
       this.updateCardsViewMode();
     });
 
-    // Clear Scope Button (Restores full vocabulary deck from active root scope)
+    // Clear Scope Button (Unlocks and restores full vocabulary deck from active root scope)
     document.getElementById('btn-clear-scope')?.addEventListener('click', () => {
       this.activeScope = null;
       this.cardsFilterCategory = 'all';
@@ -2076,7 +2855,7 @@ class MobileVocabApp {
       this.applyCardsFilter();
       if (this.cardsViewMode === 'feed') this.renderFeedCard('none');
       else this.renderCardList();
-      this.showToast('Showing all vocabulary words');
+      this.showToast('🔓 Scope unlocked: Showing all vocabulary words');
     });
 
     // TikTok Feed Tactile Controls
@@ -2171,21 +2950,54 @@ class MobileVocabApp {
       reader.readAsText(file);
     });
 
-    // Keyboard Shortcuts
+    // Keyboard Shortcuts (ArrowDown, ArrowUp, Space, PageDown/Up, Status Keys)
     window.addEventListener('keydown', (e) => {
-      if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+      if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA' || e.target.isContentEditable) return;
 
       if (this.activeTab === 'cards' && this.cardsViewMode === 'feed') {
-        if (e.key === 'ArrowDown' || e.key === ' ') {
+        if (e.key === 'ArrowDown' || e.key === 'PageDown' || (e.key === ' ' && !e.shiftKey) || e.key === 'j') {
           e.preventDefault();
           this.nextFeedWord();
-        } else if (e.key === 'ArrowUp') {
+        } else if (e.key === 'ArrowUp' || e.key === 'PageUp' || (e.key === ' ' && e.shiftKey) || e.key === 'k') {
           e.preventDefault();
           this.prevFeedWord();
+        } else if (e.key === '1') {
+          e.preventDefault();
+          const card = this.filteredCards[this.feedWordIndex];
+          if (card) {
+            this.setStatus(card.path, 'unread');
+            this.renderFeedCard('none');
+          }
+        } else if (e.key === '2') {
+          e.preventDefault();
+          const card = this.filteredCards[this.feedWordIndex];
+          if (card) {
+            this.setStatus(card.path, 'learning');
+            this.renderFeedCard('none');
+          }
+        } else if (e.key === '3') {
+          e.preventDefault();
+          const card = this.filteredCards[this.feedWordIndex];
+          if (card) {
+            this.setStatus(card.path, 'learned');
+            this.renderFeedCard('none');
+          }
+        } else if (e.key.toLowerCase() === 'p') {
+          e.preventDefault();
+          const card = this.filteredCards[this.feedWordIndex];
+          if (card) this.speakWord(card.name);
+        } else if (e.key.toLowerCase() === 'o') {
+          e.preventDefault();
+          const card = this.filteredCards[this.feedWordIndex];
+          if (card) this.openOriginalNoteView(card.path);
         }
       } else if (this.activeTab === 'daily') {
-        if (e.key === 'ArrowRight' || e.key === ' ') {
+        if (e.key === 'ArrowRight' || e.key === 'ArrowDown' || e.key === ' ' || e.key === 'Enter') {
+          e.preventDefault();
           this.renderDailyCard(true);
+        } else if (e.key.toLowerCase() === 'p') {
+          e.preventDefault();
+          if (this.dailyCurrentCard) this.speakWord(this.dailyCurrentCard.name);
         }
       }
     });
@@ -2196,6 +3008,13 @@ class MobileVocabApp {
         this.saveStatusDb();
         this.updateTrackingHUD();
         this.showToast('Progress reset');
+      }
+    });
+
+    // Responsive Desktop Window Resize Handler
+    window.addEventListener('resize', () => {
+      if (this.activeTab === 'cards') {
+        this.updateCardsViewMode();
       }
     });
   }

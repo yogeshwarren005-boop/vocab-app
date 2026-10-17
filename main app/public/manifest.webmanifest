@@ -1,7 +1,7 @@
 {
-  "name": "Obsidian Studio — Language & Philosophy Vault",
-  "short_name": "Obsidian Studio",
-  "description": "Read, study and edit your Obsidian vault in a fast, native-app-like web interface — online or offline.",
+  "name": "Obsidian Vocab — Classical Roots & English Mastery",
+  "short_name": "Obsidian Vocab",
+  "description": "Master 51,000+ classical Greek roots, Latin roots, and English vocabulary words in a fast native-feel interface — online or offline.",
   "id": "/",
   "start_url": "/",
   "scope": "/",
@@ -15,8 +15,8 @@
     { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
   ],
   "shortcuts": [
-    { "name": "Knowledge Graph", "url": "/?view=graph" },
-    { "name": "Notes Studio", "url": "/?view=studio" },
-    { "name": "Quick Scratchpad", "url": "/?view=scratchpad" }
+    { "name": "Word Cards", "url": "/?tab=cards" },
+    { "name": "Daily Word", "url": "/?tab=daily" },
+    { "name": "Language Hub", "url": "/?tab=home" }
   ]
 }

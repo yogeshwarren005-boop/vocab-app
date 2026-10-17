@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "versionCode": 1,
+  "name": "Obsidian Vocab",
+  "releaseDate": "2026-10-02",
+  "minAndroidSdk": 24,
+  "targetAndroidSdk": 34,
+  "githubRepo": "yorren005/vocab-app"
+}

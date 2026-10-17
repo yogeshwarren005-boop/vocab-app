@@ -320,23 +320,23 @@ html, body {
 }
 
 @keyframes pageSlideInRight {
-  from { transform: translateX(100%); opacity: 0.5; }
-  to { transform: translateX(0); opacity: 1; }
+  from { transform: translate3d(100%, 0, 0); opacity: 0.5; }
+  to { transform: translate3d(0, 0, 0); opacity: 1; }
 }
 
 @keyframes pageSlideOutLeft {
-  from { transform: translateX(0); opacity: 1; }
-  to { transform: translateX(-30%); opacity: 0; }
+  from { transform: translate3d(0, 0, 0); opacity: 1; }
+  to { transform: translate3d(-30%, 0, 0); opacity: 0; }
 }
 
 @keyframes pageSlideInLeft {
-  from { transform: translateX(-30%); opacity: 0; }
-  to { transform: translateX(0); opacity: 1; }
+  from { transform: translate3d(-30%, 0, 0); opacity: 0; }
+  to { transform: translate3d(0, 0, 0); opacity: 1; }
 }
 
 @keyframes pageSlideOutRight {
-  from { transform: translateX(0); opacity: 1; }
-  to { transform: translateX(100%); opacity: 0; }
+  from { transform: translate3d(0, 0, 0); opacity: 1; }
+  to { transform: translate3d(100%, 0, 0); opacity: 0; }
 }
 
 /* Hero Header on Home */
@@ -783,6 +783,8 @@ html, body {
   background-color: var(--web-surface-0);
   touch-action: pan-y;
   user-select: text;
+  overscroll-behavior: none;
+  overscroll-behavior-y: none;
 }
 
 .tiktok-feed-wrapper {
@@ -791,6 +793,9 @@ html, body {
   overflow: hidden;
   width: 100%;
   height: 100%;
+  contain: strict;
+  transform: translate3d(0, 0, 0);
+  overscroll-behavior: none;
 }
 
 .tiktok-slide {
@@ -802,40 +807,70 @@ html, body {
   overflow-y: auto;
   overflow-x: hidden;
   -webkit-overflow-scrolling: touch;
+  overscroll-behavior: contain;
   overscroll-behavior-y: contain;
   background-color: var(--web-surface-0);
   box-sizing: border-box;
+  transform: translate3d(0, 0, 0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  will-change: transform, opacity;
+  contain: layout paint;
 }
 
-/* Vertical Snap Animations */
+/* Vertical Snap Animations — 60fps Hardware-Accelerated Transforms */
 .tiktok-slide.slide-up-in {
-  animation: tiktokSlideUpIn 0.26s cubic-bezier(0.2, 0.9, 0.3, 1) forwards;
+  animation: tiktokSlideUpIn 0.26s cubic-bezier(0.16, 1, 0.3, 1) forwards;
 }
 .tiktok-slide.slide-up-out {
-  animation: tiktokSlideUpOut 0.26s cubic-bezier(0.2, 0.9, 0.3, 1) forwards;
+  animation: tiktokSlideUpOut 0.26s cubic-bezier(0.16, 1, 0.3, 1) forwards;
 }
 .tiktok-slide.slide-down-in {
-  animation: tiktokSlideDownIn 0.26s cubic-bezier(0.2, 0.9, 0.3, 1) forwards;
+  animation: tiktokSlideDownIn 0.26s cubic-bezier(0.16, 1, 0.3, 1) forwards;
 }
 .tiktok-slide.slide-down-out {
-  animation: tiktokSlideDownOut 0.26s cubic-bezier(0.2, 0.9, 0.3, 1) forwards;
+  animation: tiktokSlideDownOut 0.26s cubic-bezier(0.16, 1, 0.3, 1) forwards;
 }
 
 @keyframes tiktokSlideUpIn {
-  from { transform: translateY(100%); opacity: 0.6; }
-  to { transform: translateY(0); opacity: 1; }
+  from {
+    transform: translate3d(0, 100%, 0);
+    opacity: 0.7;
+  }
+  to {
+    transform: translate3d(0, 0, 0);
+    opacity: 1;
+  }
 }
 @keyframes tiktokSlideUpOut {
-  from { transform: translateY(0); opacity: 1; }
-  to { transform: translateY(-100%); opacity: 0.6; }
+  from {
+    transform: translate3d(0, 0, 0);
+    opacity: 1;
+  }
+  to {
+    transform: translate3d(0, -100%, 0);
+    opacity: 0.7;
+  }
 }
 @keyframes tiktokSlideDownIn {
-  from { transform: translateY(-100%); opacity: 0.6; }
-  to { transform: translateY(0); opacity: 1; }
+  from {
+    transform: translate3d(0, -100%, 0);
+    opacity: 0.7;
+  }
+  to {
+    transform: translate3d(0, 0, 0);
+    opacity: 1;
+  }
 }
 @keyframes tiktokSlideDownOut {
-  from { transform: translateY(0); opacity: 1; }
-  to { transform: translateY(100%); opacity: 0.6; }
+  from {
+    transform: translate3d(0, 0, 0);
+    opacity: 1;
+  }
+  to {
+    transform: translate3d(0, 100%, 0);
+    opacity: 0.7;
+  }
 }
 
 /* TikTok Word Card Presentation (Clean, Uncluttered, High-Readability) */
@@ -898,6 +933,45 @@ html, body {
   transform: scale(0.92);
   background: var(--web-accent);
   color: #fff;
+}
+
+/* Pronounce Button Active Speaking Animation & Pulse */
+.tiktok-pronounce-btn.speaking {
+  background: rgba(10, 132, 255, 0.16) !important;
+  border-color: var(--web-accent, #0a84ff) !important;
+  color: var(--web-accent, #0a84ff) !important;
+  box-shadow: 0 0 14px rgba(10, 132, 255, 0.45);
+  animation: pronounce-pulse 1.1s infinite ease-in-out;
+}
+
+.tiktok-pronounce-btn.speaking .pronounce-icon,
+.tiktok-pronounce-btn.speaking > span:first-child {
+  display: inline-block;
+  animation: pronounce-speaker-bounce 0.55s infinite alternate ease-in-out;
+}
+
+@keyframes pronounce-pulse {
+  0% {
+    transform: scale(1);
+    box-shadow: 0 0 0 0 rgba(10, 132, 255, 0.55);
+  }
+  50% {
+    transform: scale(1.05);
+    box-shadow: 0 0 14px 4px rgba(10, 132, 255, 0.35);
+  }
+  100% {
+    transform: scale(1);
+    box-shadow: 0 0 0 0 rgba(10, 132, 255, 0);
+  }
+}
+
+@keyframes pronounce-speaker-bounce {
+  0% {
+    transform: scale(1) rotate(0deg);
+  }
+  100% {
+    transform: scale(1.22) rotate(-8deg);
+  }
 }
 
 /* Word Hero & Morphology Block */
@@ -1679,3 +1753,861 @@ html, body {
   opacity: 1;
   transform: translateX(-50%) translateY(0);
 }
+
+/* ==========================================================================
+   IN-APP APK UPDATER & RELEASE MANAGEMENT
+   ========================================================================== */
+.update-badge {
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 0.5px;
+  padding: 2px 7px;
+  border-radius: var(--app-radius-full);
+  background: var(--web-accent, #E06C75);
+  color: #FFFFFF;
+  margin-left: auto;
+}
+
+.update-banner {
+  background: linear-gradient(135deg, rgba(224, 108, 117, 0.12), rgba(97, 175, 239, 0.1));
+  border: 1px solid var(--web-accent, #E06C75);
+  border-radius: var(--app-radius-md);
+  padding: 12px 14px;
+  margin-bottom: 12px;
+}
+
+.update-banner-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 13.5px;
+  font-weight: 700;
+  color: var(--web-text-primary);
+  margin-bottom: 4px;
+}
+
+.update-banner-size {
+  font-size: 11px;
+  font-weight: 600;
+  padding: 2px 6px;
+  border-radius: var(--app-radius-sm);
+  background: var(--web-surface-3);
+  color: var(--web-text-secondary);
+}
+
+.update-banner-notes {
+  font-size: 12px;
+  color: var(--web-text-secondary);
+  line-height: 1.4;
+  margin-bottom: 6px;
+}
+
+.update-btn-primary {
+  background: var(--web-accent, #E06C75) !important;
+  color: #FFFFFF !important;
+  border-color: var(--web-accent, #E06C75) !important;
+  box-shadow: 0 2px 8px rgba(224, 108, 117, 0.3);
+}
+
+.update-meta-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+  margin-bottom: 4px;
+}
+
+.update-meta-cell {
+  background: var(--web-surface-1);
+  border: 1px solid var(--web-border);
+  border-radius: var(--app-radius-md);
+  padding: 9px 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.update-meta-label {
+  font-size: 10.5px;
+  font-weight: 600;
+  color: var(--web-text-muted);
+}
+
+.update-meta-val {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--web-text-primary);
+}
+
+/* ==========================================================================
+   UPDATE MODAL & DIALOG
+   ========================================================================== */
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 2000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.modal-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.65);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+}
+
+.update-modal-dialog {
+  position: relative;
+  width: 100%;
+  max-width: 440px;
+  max-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  background: var(--web-surface-1);
+  border: 1px solid var(--web-border);
+  border-radius: var(--app-radius-lg);
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.45);
+  overflow: hidden;
+  z-index: 1;
+  animation: modal-pop-in 0.22s var(--ease-spring);
+}
+
+@keyframes modal-pop-in {
+  0% {
+    opacity: 0;
+    transform: scale(0.92) translateY(8px);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+.update-modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 18px;
+  border-bottom: 1px solid var(--web-border);
+  background: var(--web-surface-2);
+}
+
+.update-modal-title-group {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.update-modal-icon {
+  font-size: 26px;
+}
+
+.update-modal-title {
+  font-size: 16px;
+  font-weight: 800;
+  color: var(--web-text-primary);
+  line-height: 1.2;
+}
+
+.update-modal-sub {
+  font-size: 11.5px;
+  font-weight: 600;
+  color: var(--web-text-muted);
+  margin-top: 2px;
+}
+
+.update-modal-body {
+  padding: 16px 18px;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  flex: 1;
+  max-height: 280px;
+}
+
+.update-modal-notes-label {
+  font-size: 11.5px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--web-text-secondary);
+  margin-bottom: 8px;
+}
+
+.update-modal-notes {
+  font-size: 13px;
+  line-height: 1.55;
+  color: var(--web-text-primary);
+  white-space: pre-wrap;
+  word-break: break-word;
+  background: var(--web-surface-0);
+  border: 1px solid var(--web-border);
+  border-radius: var(--app-radius-sm);
+  padding: 12px;
+  font-family: inherit;
+}
+
+.update-modal-footer {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 14px 18px;
+  border-top: 1px solid var(--web-border);
+  background: var(--web-surface-2);
+}
+
+/* ==========================================================================
+   PROGRESSIVE CHUNK LOADING LIST VIEW
+   ========================================================================== */
+.cards-list-items-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.cards-list-footer {
+  margin-top: 6px;
+  margin-bottom: 12px;
+}
+
+/* ==========================================================================
+   RESPONSIVE MULTI-COLUMN LAYOUT SYSTEM FOR WIDE SCREENS (DESKTOP MONITORS)
+   Breakpoints: @media (min-width: 900px) & @media (min-width: 1200px)
+   Features:
+   - Home Tab: Dual-pane / multi-column layout with navigation hierarchy alongside active reader
+   - Word Cards Tab: Side-by-side layout with left sidebar (filters + search + list) & prominent right TikTok feed
+   - Daily Word Tab: Perfectly centered high-res study card with refined margins
+   - Settings Tab: Multi-column responsive grid for telemetry, themes, typography & sync
+   - Stunning high-contrast aesthetic in Scandinavian Birch & Volcanic Obsidian
+   ========================================================================== */
+
+@media (min-width: 900px) {
+  /* Desktop Root Container Scaling */
+  #mobile-app-root {
+    max-width: 100% !important;
+    width: 100vw !important;
+    height: 100vh !important;
+    box-shadow: none !important;
+    border-radius: 0 !important;
+    margin: 0 !important;
+  }
+
+  /* Desktop Top Navigation Bar */
+  .mobile-top-bar {
+    height: 60px !important;
+    padding-left: 28px !important;
+    padding-right: 28px !important;
+    border-bottom: 1px solid var(--web-border) !important;
+    background: var(--web-surface-1) !important;
+  }
+
+  .top-bar-breadcrumbs {
+    font-size: 14px !important;
+    gap: 8px !important;
+  }
+
+  /* Desktop Bottom Navigation Toolbar / Dock */
+  .mobile-bottom-bar {
+    height: 60px !important;
+    padding: 0 32px !important;
+    justify-content: center !important;
+    gap: 20px !important;
+    background: var(--web-surface-1) !important;
+    border-top: 1px solid var(--web-border) !important;
+  }
+
+  .mobile-tab-btn {
+    flex: 0 1 170px !important;
+    max-width: 190px !important;
+    height: 42px !important;
+    flex-direction: row !important;
+    gap: 10px !important;
+    padding: 8px 18px !important;
+    border-radius: var(--app-radius-full) !important;
+    transition: all 0.2s ease !important;
+  }
+
+  .mobile-tab-btn svg {
+    width: 20px !important;
+    height: 20px !important;
+  }
+
+  .mobile-tab-btn span {
+    font-size: 13px !important;
+    font-weight: 700 !important;
+  }
+
+  .mobile-tab-btn:hover {
+    background: var(--web-surface-2) !important;
+    color: var(--web-text-primary) !important;
+  }
+
+  .mobile-tab-btn.is-active {
+    background: var(--web-accent-muted) !important;
+    color: var(--web-accent) !important;
+    box-shadow: 0 0 0 1px var(--web-accent) !important;
+  }
+
+  .mobile-tab-btn.is-active svg {
+    transform: none !important;
+  }
+
+  /* Desktop Screen Visibility */
+  .mobile-view-screen:not(.is-active-tab) {
+    display: none !important;
+  }
+
+  /* ========================================================================
+     HOME TAB: DUAL-PANE & MULTI-COLUMN LAYOUT
+     ======================================================================== */
+  #view-home.is-active-tab {
+    display: flex !important;
+    height: 100% !important;
+    overflow: hidden !important;
+  }
+
+  .home-page-container {
+    display: flex !important;
+    flex-direction: row !important;
+    height: 100% !important;
+    width: 100% !important;
+    position: relative !important;
+    overflow: hidden !important;
+  }
+
+  /* When only Root Pane is open: expansive multi-column dashboard */
+  .home-root-pane:only-child {
+    width: 100% !important;
+    max-width: 1280px !important;
+    margin: 0 auto !important;
+    border-right: none !important;
+    background-color: var(--web-surface-0) !important;
+    padding: 32px 36px 90px 36px !important;
+    position: static !important;
+    animation: none !important;
+    transform: none !important;
+    overflow-y: auto !important;
+  }
+
+  .home-root-pane:only-child .home-hero-card {
+    padding: 26px 32px !important;
+    margin-bottom: 24px !important;
+  }
+
+  .home-root-pane:only-child .home-hero-title {
+    font-size: 30px !important;
+    font-weight: 900 !important;
+  }
+
+  .home-root-pane:only-child .home-quick-stats-row {
+    grid-template-columns: repeat(3, minmax(160px, 240px)) !important;
+    justify-content: flex-start !important;
+    gap: 16px !important;
+  }
+
+  .home-root-pane:only-child .category-card-list {
+    display: grid !important;
+    grid-template-columns: repeat(3, 1fr) !important;
+    gap: 16px !important;
+  }
+
+  /* Dual-Pane Mode: Navigation hierarchy on left, active reading dashboard on right */
+  .home-page-container:has(.home-reader-pane) .home-root-pane,
+  .home-root-pane:not(:only-child) {
+    width: 380px !important;
+    min-width: 340px !important;
+    max-width: 440px !important;
+    flex-shrink: 0 !important;
+    border-right: 1px solid var(--web-border) !important;
+    background-color: var(--web-surface-1) !important;
+    height: 100% !important;
+    overflow-y: auto !important;
+    padding: 20px 16px 80px 16px !important;
+    position: static !important;
+    animation: none !important;
+    transform: none !important;
+    display: block !important;
+  }
+
+  .home-page-container:has(.home-reader-pane) .home-hero-card {
+    padding: 16px !important;
+    margin-bottom: 14px !important;
+  }
+
+  .home-page-container:has(.home-reader-pane) .home-hero-title {
+    font-size: 18px !important;
+  }
+
+  .home-page-container:has(.home-reader-pane) .home-hero-subtitle {
+    display: none !important;
+  }
+
+  .home-page-container:has(.home-reader-pane) .home-quick-stats-row {
+    grid-template-columns: repeat(3, 1fr) !important;
+    gap: 6px !important;
+    margin-top: 10px !important;
+  }
+
+  .home-page-container:has(.home-reader-pane) .quick-stat-box {
+    padding: 6px 4px !important;
+  }
+
+  .home-page-container:has(.home-reader-pane) .quick-stat-num {
+    font-size: 15px !important;
+  }
+
+  .home-page-container:has(.home-reader-pane) .quick-stat-lbl {
+    font-size: 9px !important;
+  }
+
+  .home-page-container:has(.home-reader-pane) .category-card-list {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 10px !important;
+  }
+
+  .category-card.is-active {
+    border-color: var(--web-accent) !important;
+    background: var(--web-accent-muted) !important;
+    box-shadow: 0 0 0 1px var(--web-accent) !important;
+  }
+
+  /* Right Pane: Active Reading Dashboard */
+  .home-reader-pane:last-child {
+    flex: 1 !important;
+    height: 100% !important;
+    position: static !important;
+    overflow-y: auto !important;
+    background-color: var(--web-surface-0) !important;
+    padding: 32px 48px 100px 48px !important;
+    animation: none !important;
+    transform: none !important;
+    display: block !important;
+  }
+
+  .home-reader-pane:not(:last-child) {
+    display: none !important;
+  }
+
+  .note-page-reader {
+    max-width: 1000px !important;
+    margin: 0 auto !important;
+    font-size: 16px !important;
+    line-height: 1.7 !important;
+  }
+
+  .note-page-title {
+    font-size: 32px !important;
+    font-weight: 900 !important;
+  }
+
+  .home-study-feed-cta {
+    max-width: 1000px !important;
+    margin: 16px auto 24px auto !important;
+  }
+
+  /* ========================================================================
+     WORD CARDS TAB: SIDE-BY-SIDE LIST & TIKTOK FEED
+     ======================================================================== */
+  #view-cards.is-active-tab {
+    display: grid !important;
+    grid-template-columns: 380px 1fr !important;
+    grid-template-rows: auto 1fr !important;
+    grid-template-areas:
+      "card-nav  card-main"
+      "card-list card-main" !important;
+    height: 100% !important;
+    width: 100% !important;
+    overflow: hidden !important;
+  }
+
+  .cards-view-header {
+    grid-area: card-nav !important;
+    border-right: 1px solid var(--web-border) !important;
+    border-bottom: 1px solid var(--web-border) !important;
+    background: var(--web-surface-1) !important;
+    padding: 16px 18px 12px 18px !important;
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 10px !important;
+    z-index: 20 !important;
+  }
+
+  /* On desktop, feed and list are unified side by side */
+  .mode-toggle-group {
+    display: none !important;
+  }
+
+  .filter-chips-scroll {
+    flex-wrap: wrap !important;
+    overflow-x: visible !important;
+    gap: 6px !important;
+    padding-bottom: 0 !important;
+  }
+
+  /* Left Sidebar: Word Cards List */
+  #cards-list-view {
+    grid-area: card-list !important;
+    display: block !important;
+    border-right: 1px solid var(--web-border) !important;
+    background: var(--web-surface-1) !important;
+    overflow-y: auto !important;
+    padding: 10px 14px 80px 14px !important;
+    height: 100% !important;
+  }
+
+  .card-list-item {
+    background: var(--web-surface-2) !important;
+    border: 1px solid var(--web-border) !important;
+    border-radius: var(--app-radius-md) !important;
+    padding: 10px 12px !important;
+    margin-bottom: 6px !important;
+    cursor: pointer !important;
+    transition: all 0.15s ease !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+  }
+
+  .card-list-item:hover {
+    border-color: var(--web-accent) !important;
+    background: var(--web-surface-3) !important;
+    transform: translateX(2px) !important;
+  }
+
+  .card-list-item.is-active {
+    border-color: var(--web-accent) !important;
+    background: var(--web-accent-muted) !important;
+    box-shadow: 0 0 0 1px var(--web-accent) !important;
+  }
+
+  /* Right Pane: Prominent TikTok Word Card Presentation */
+  #cards-feed-view {
+    grid-area: card-main !important;
+    display: flex !important;
+    height: 100% !important;
+    width: 100% !important;
+    overflow: hidden !important;
+    background: var(--web-surface-0) !important;
+    position: relative !important;
+  }
+
+  .tiktok-slide {
+    height: 100% !important;
+    overflow-y: auto !important;
+    padding: 32px 48px 100px 48px !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+  }
+
+  .tiktok-card-surface {
+    width: 100% !important;
+    max-width: 860px !important;
+    background: var(--web-surface-1) !important;
+    border: 1px solid var(--web-border) !important;
+    border-radius: var(--app-radius-lg) !important;
+    padding: 28px 32px !important;
+    box-shadow: var(--web-shadow-md) !important;
+    margin-bottom: 16px !important;
+  }
+
+  .tiktok-word-hero {
+    font-size: 44px !important;
+    font-weight: 900 !important;
+    letter-spacing: -0.6px !important;
+  }
+
+  .tiktok-morph-row {
+    gap: 10px !important;
+    margin-top: 6px !important;
+  }
+
+  .tiktok-def-box {
+    padding: 22px 26px !important;
+    border-radius: var(--app-radius-lg) !important;
+  }
+
+  .tiktok-def-text {
+    font-size: 18px !important;
+    line-height: 1.65 !important;
+  }
+
+  .tiktok-def-secondary {
+    margin-top: 10px !important;
+    padding-top: 10px !important;
+  }
+
+  .tiktok-def-secondary-text {
+    font-size: 15px !important;
+    line-height: 1.55 !important;
+  }
+
+  .tiktok-quotes-stack {
+    gap: 12px !important;
+  }
+
+  .tiktok-quote-box {
+    padding: 14px 18px !important;
+  }
+
+  .tiktok-quote-text {
+    font-size: 15px !important;
+    line-height: 1.6 !important;
+  }
+
+  .card-tracking-footer {
+    width: 100% !important;
+    max-width: 860px !important;
+    margin: 0 auto !important;
+    padding: 14px 22px !important;
+    background: var(--web-surface-1) !important;
+    border: 1px solid var(--web-border) !important;
+    border-radius: var(--app-radius-md) !important;
+  }
+
+  .card-status-btn {
+    padding: 10px 14px !important;
+    font-size: 13.5px !important;
+    gap: 8px !important;
+  }
+
+  .tiktok-feed-controls {
+    right: 28px !important;
+    bottom: 84px !important;
+  }
+
+  .feed-ctrl-btn {
+    width: 46px !important;
+    height: 46px !important;
+    box-shadow: var(--web-shadow-lg) !important;
+  }
+
+  /* ========================================================================
+     DAILY WORD TAB: CENTERED HIGH-RES DISCOVERY CARD
+     ======================================================================== */
+  #view-daily.is-active-tab {
+    height: 100% !important;
+    overflow-y: auto !important;
+  }
+
+  .daily-container {
+    max-width: 860px !important;
+    margin: 0 auto !important;
+    padding: 40px 24px 80px 24px !important;
+    justify-content: center !important;
+    gap: 18px !important;
+  }
+
+  .daily-header-card {
+    max-width: 720px !important;
+    padding: 14px 22px !important;
+    border-radius: var(--app-radius-lg) !important;
+  }
+
+  .daily-flip-card-wrapper {
+    max-width: 720px !important;
+    min-height: 460px !important;
+    max-height: 640px !important;
+  }
+
+  .daily-card {
+    padding: 32px 36px !important;
+    border-radius: var(--app-radius-lg) !important;
+    box-shadow: var(--web-shadow-lg) !important;
+  }
+
+  .daily-word-prominent {
+    font-size: 44px !important;
+    font-weight: 900 !important;
+    letter-spacing: -0.5px !important;
+    margin-bottom: 10px !important;
+  }
+
+  .daily-actions-row {
+    max-width: 720px !important;
+    margin-top: 14px !important;
+  }
+
+  .shuffle-cta-btn {
+    padding: 15px 26px !important;
+    font-size: 15.5px !important;
+    border-radius: var(--app-radius-md) !important;
+  }
+
+  /* ========================================================================
+     SETTINGS TAB: MULTI-COLUMN GRID FOR HUD, THEMES, TYPOGRAPHY & DATA
+     ======================================================================== */
+  #view-settings.is-active-tab {
+    height: 100% !important;
+    overflow-y: auto !important;
+  }
+
+  .settings-content-pane {
+    max-width: 1160px !important;
+    margin: 0 auto !important;
+    padding: 36px 32px 90px 32px !important;
+    display: grid !important;
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 22px !important;
+    align-items: start !important;
+  }
+
+  /* Mastery HUD Card spans full width across columns */
+  .settings-content-pane > .settings-card:first-child {
+    grid-column: 1 / -1 !important;
+  }
+
+  /* About section footer spans full width */
+  .settings-content-pane > div:last-child {
+    grid-column: 1 / -1 !important;
+  }
+
+  /* Desktop Scrollbars */
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: var(--web-border) transparent;
+  }
+
+  ::-webkit-scrollbar {
+    width: 7px;
+    height: 7px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: var(--web-border);
+    border-radius: 999px;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: var(--web-text-muted);
+  }
+
+  /* High-Contrast Theme Elevators for Large Monitors */
+  .theme-light {
+    --web-shadow-sm: 0 2px 8px rgba(70, 58, 42, 0.07), 0 1px 2px rgba(70, 58, 42, 0.04);
+    --web-shadow-md: 0 8px 24px -3px rgba(70, 58, 42, 0.09), 0 2px 6px -1px rgba(70, 58, 42, 0.05);
+    --web-shadow-lg: 0 16px 36px -4px rgba(70, 58, 42, 0.12), 0 6px 14px -2px rgba(70, 58, 42, 0.06);
+  }
+
+  .theme-dark {
+    --web-shadow-sm: 0 2px 10px rgba(0, 0, 0, 0.8), 0 0 1px rgba(255, 255, 255, 0.08);
+    --web-shadow-md: 0 10px 28px -3px rgba(0, 0, 0, 0.88), 0 0 1px rgba(239, 68, 68, 0.22);
+    --web-shadow-lg: 0 18px 44px -4px rgba(0, 0, 0, 0.95), 0 0 22px -2px rgba(239, 68, 68, 0.18);
+  }
+}
+
+/* ==========================================================================
+   BREAKPOINT 1200px+ (EXPANSIVE DESKTOP MONITORS)
+   ========================================================================== */
+@media (min-width: 1200px) {
+  .mobile-top-bar {
+    padding-left: 36px !important;
+    padding-right: 36px !important;
+  }
+
+  .mobile-bottom-bar {
+    gap: 36px !important;
+  }
+
+  .mobile-tab-btn {
+    flex: 0 1 190px !important;
+    max-width: 210px !important;
+    height: 44px !important;
+  }
+
+  /* Home Tab at 1200px+ */
+  .home-page-container:has(.home-reader-pane) .home-root-pane,
+  .home-root-pane:not(:only-child) {
+    width: 420px !important;
+  }
+
+  .home-reader-pane:last-child {
+    padding: 36px 60px 100px 60px !important;
+  }
+
+  .note-page-reader {
+    max-width: 1160px !important;
+  }
+
+  .home-study-feed-cta {
+    max-width: 1160px !important;
+  }
+
+  /* Word Cards Tab at 1200px+ */
+  #view-cards.is-active-tab {
+    grid-template-columns: 420px 1fr !important;
+  }
+
+  .tiktok-card-surface,
+  .card-tracking-footer {
+    max-width: 980px !important;
+  }
+
+  .tiktok-card-surface {
+    padding: 34px 40px !important;
+  }
+
+  .tiktok-word-hero {
+    font-size: 48px !important;
+  }
+
+  .tiktok-def-text {
+    font-size: 19px !important;
+  }
+
+  /* Daily Word Tab at 1200px+ */
+  .daily-container {
+    max-width: 960px !important;
+    padding: 50px 32px 90px 32px !important;
+  }
+
+  .daily-header-card,
+  .daily-flip-card-wrapper,
+  .daily-actions-row {
+    max-width: 800px !important;
+  }
+
+  .daily-card {
+    padding: 38px 44px !important;
+  }
+
+  .daily-word-prominent {
+    font-size: 48px !important;
+  }
+
+  /* Settings Tab at 1200px+: 3-Column Bento Grid */
+  .settings-content-pane {
+    max-width: 1360px !important;
+    grid-template-columns: repeat(3, 1fr) !important;
+    gap: 26px !important;
+  }
+
+  .settings-content-pane > .settings-card:first-child {
+    grid-column: 1 / -1 !important;
+  }
+
+  .settings-content-pane > .settings-card:nth-child(2) {
+    grid-column: 1 !important;
+  }
+
+  .settings-content-pane > .settings-card:nth-child(3) {
+    grid-column: 2 !important;
+  }
+
+  .settings-content-pane > .settings-card:nth-child(4) {
+    grid-column: 3 !important;
+  }
+
+  .settings-content-pane > div:last-child {
+    grid-column: 1 / -1 !important;
+  }
+}
+
+

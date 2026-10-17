@@ -16,8 +16,24 @@ android {
             ignoreAssetsPattern = '!.svn:!.git:!.ds_store:!*.scc:.*:!CVS:!thumbs.db:!picasa.ini:!*~'
         }
     }
+    signingConfigs {
+        release {
+            def keystoreFile = System.getenv("KEYSTORE_FILE") ?: (project.hasProperty('android.injected.signing.store.file') ? project.property('android.injected.signing.store.file') : "release.jks")
+            def keystorePassword = System.getenv("KEYSTORE_PASSWORD") ?: (project.hasProperty('android.injected.signing.store.password') ? project.property('android.injected.signing.store.password') : "")
+            def keyAliasVal = System.getenv("KEY_ALIAS") ?: (project.hasProperty('android.injected.signing.key.alias') ? project.property('android.injected.signing.key.alias') : "")
+            def keyPasswordVal = System.getenv("KEY_PASSWORD") ?: (project.hasProperty('android.injected.signing.key.password') ? project.property('android.injected.signing.key.password') : "")
+
+            if (file(keystoreFile).exists() && keystorePassword) {
+                storeFile file(keystoreFile)
+                storePassword keystorePassword
+                keyAlias keyAliasVal
+                keyPassword keyPasswordVal
+            }
+        }
+    }
     buildTypes {
         release {
+            signingConfig signingConfigs.release
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
@@ -55,11 +71,4 @@ try {
     }
 } catch(Exception e) {
     logger.info("google-services.json not found, google-services plugin not applied. Push Notifications won't work")
-}
-
-android {
-    compileOptions {
-        sourceCompatibility JavaVersion.VERSION_17
-        targetCompatibility JavaVersion.VERSION_17
-    }
 }

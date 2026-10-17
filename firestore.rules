@@ -1,0 +1,41 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // 1. User Profiles, Settings, and Private Subcollections (tracking, stats, future features)
+    match /users/{userId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+
+      // Automatically secures ALL future feature subcollections (quizzes, srs, bookmarks, notes, etc.)
+      match /{allSubcollections=**} {
+        allow read, write: if request.auth != null && request.auth.uid == userId;
+      }
+    }
+
+    // 2. Global Username Registry (Ensures Nicknames are Unique across all users)
+    match /usernames/{nickname} {
+      // Any client can check if a nickname is taken
+      allow read: if true;
+
+      // Only the authenticated owner can claim an unoccupied nickname
+      allow create: if request.auth != null 
+                    && request.resource.data.uid == request.auth.uid
+                    && request.resource.data.nickname is string;
+
+      // Only the owner can release or update their nickname
+      allow update, delete: if request.auth != null 
+                            && resource.data.uid == request.auth.uid;
+    }
+
+    // 3. Mobile App Release Metadata (Real-Time Self-Updater Broadcast)
+    match /app_meta/{document=**} {
+      allow read: if true;
+      allow write: if false; // Only Admin SDK can write via CI/CD broadcaster
+    }
+
+    // Default deny for all other paths
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

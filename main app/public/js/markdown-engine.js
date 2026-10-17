@@ -18,18 +18,31 @@ const CALLOUT_ICONS = {
   note: '📝',
   tip: '💡',
   hint: '💡',
+  important: '🔥',
   success: '✅',
   check: '✅',
+  done: '✅',
   question: '❓',
+  help: '❓',
+  faq: '❓',
   warning: '⚠️',
   caution: '⚠️',
+  attention: '⚠️',
   danger: '🚨',
   error: '🚨',
+  bug: '🪲',
   example: '🔬',
   quote: '💬',
   cite: '💬',
   book: '📖',
-  status: '🎯'
+  status: '🎯',
+  columns: '📑',
+  'multi-column': '📑',
+  definition: '📖',
+  etymology: '🌱',
+  history: '🏛️',
+  'core-keystone': '🏛️',
+  'math-concept': '📐'
 };
 
 const BANNER_MAP = {
@@ -195,7 +208,11 @@ export function renderObsidianMarkdown(rawMarkdown, notePath, runtime) {
       const level = hMatch[1].length;
       const rawTitle = hMatch[2].trim();
       const slug = slugifyHeading(rawTitle);
-      headings.push({ level, text: rawTitle.replace(/\[\[([^\]|]+\|)?([^\]]+)\]\]/g, '$2').replace(/[*_`]/g, ''), id: slug });
+      headings.push({
+        level,
+        text: rawTitle.replace(/\[\[([^\]|#\\]+)\\?(?:#([^\]|\\]+)\\?)?(?:\\?\|([^\]]+))?\]\]/g, (_, target, _hash, alias) => alias ? alias.trim() : target.replace(/\\+$/, '').split('/').pop().replace(/\.md$/i, '')).replace(/[*_`]/g, ''),
+        id: slug
+      });
       htmlOut.push(`<h${level} id="${escapeAttr(slug)}">${ renderInline(rawTitle, notePath, runtime, outgoingLinks) }</h${level}>`);
       i++;
       continue;
@@ -208,10 +225,16 @@ export function renderObsidianMarkdown(rawMarkdown, notePath, runtime) {
         quoteLines.push(lines[i].replace(/^\s*>\s?/, ''));
         i++;
       }
-      // Check if next line is an immediate dataviewjs slot belonging to a callout (like in Dashboard — punct.md line 258!)
-      if (i < lines.length && /^@@DVJS_SLOT_\d+@@$/.test(lines[i].trim())) {
-        quoteLines.push(lines[i].trim());
-        i++;
+      // Check if next non-empty line is an immediate dataviewjs slot belonging to a callout (like in status callouts)
+      let peek = i;
+      while (peek < lines.length && lines[peek].trim() === '') {
+        peek++;
+      }
+      if (peek < lines.length && /^@@DVJS_SLOT_\d+@@$/.test(lines[peek].trim())) {
+        if (quoteLines.length === 1 || peek === i) {
+          quoteLines.push(lines[peek].trim());
+          i = peek + 1;
+        }
       }
       htmlOut.push(renderCalloutOrBlockquote(quoteLines, notePath, runtime, outgoingLinks));
       continue;
@@ -317,7 +340,7 @@ function renderCalloutOrBlockquote(quoteLines, notePath, runtime, outgoingLinks)
   const calloutMatch = firstLine.match(/^\[!([a-zA-Z0-9_-]+)\]([+-])?\s*(.*)$/);
 
   if (!calloutMatch) {
-    const innerHtml = quoteLines.map(l => renderInline(l, notePath, runtime, outgoingLinks)).join('<br>');
+    const innerHtml = renderCalloutInnerLines(quoteLines, notePath, runtime, outgoingLinks);
     return `<blockquote>${innerHtml}</blockquote>`;
   }
 
@@ -329,28 +352,7 @@ function renderCalloutOrBlockquote(quoteLines, notePath, runtime, outgoingLinks)
   const isCollapsed = foldFlag === '-';
 
   const contentLines = quoteLines.slice(1);
-  let bodyHtml = '';
-
-  // Support multi-column nested callouts
-  if ((type === 'multi-column' || type === 'columns') && contentLines.some(l => l.trim().startsWith('>'))) {
-    const subBlocks = [];
-    let currentSub = [];
-    for (const cl of contentLines) {
-      if (cl.trim().startsWith('>')) {
-        const stripped = cl.replace(/^\s*>\s?/, '');
-        if (stripped.match(/^\[![a-zA-Z0-9_-]+\]/) && currentSub.length > 0) {
-          subBlocks.push(currentSub);
-          currentSub = [stripped];
-        } else {
-          currentSub.push(stripped);
-        }
-      }
-    }
-    if (currentSub.length) subBlocks.push(currentSub);
-    bodyHtml = subBlocks.map(sb => renderCalloutOrBlockquote(sb, notePath, runtime, outgoingLinks)).join('\n');
-  } else {
-    bodyHtml = renderCalloutInnerLines(contentLines, notePath, runtime, outgoingLinks);
-  }
+  const bodyHtml = renderCalloutInnerLines(contentLines, notePath, runtime, outgoingLinks);
 
   const titleRendered = renderInline(rawTitle, notePath, runtime, outgoingLinks);
 
@@ -370,6 +372,8 @@ function renderCalloutInnerLines(lines, notePath, runtime, outgoingLinks) {
   if (!lines.length) return '';
   const chunks = [];
   let listBuf = [];
+  let paraBuf = [];
+  let i = 0;
 
   const flushList = () => {
     if (listBuf.length) {
@@ -378,26 +382,108 @@ function renderCalloutInnerLines(lines, notePath, runtime, outgoingLinks) {
     }
   };
 
-  for (const l of lines) {
+  const flushPara = () => {
+    if (paraBuf.length) {
+      chunks.push(`<p>${paraBuf.map(l => renderInline(l, notePath, runtime, outgoingLinks)).join('<br>')}</p>`);
+      paraBuf = [];
+    }
+  };
+
+  const flushAll = () => {
+    flushList();
+    flushPara();
+  };
+
+  while (i < lines.length) {
+    const l = lines[i];
     const t = l.trim();
+
     if (!t) {
-      flushList();
+      flushAll();
+      i++;
       continue;
     }
+
+    // 1. Dataview slot
     const dvMatch = t.match(/^@@DVJS_SLOT_(\d+)@@$/);
     if (dvMatch) {
-      flushList();
+      flushAll();
       chunks.push(`<div class="dataviewjs-container" data-dv-index="${dvMatch[1]}"></div>`);
+      i++;
       continue;
     }
+
+    // 2. Nested callouts or blockquotes (`> ...`)
+    if (t.startsWith('>')) {
+      flushAll();
+      const rawNested = [];
+      while (
+        i < lines.length &&
+        (lines[i].trim().startsWith('>') ||
+          (rawNested.length > 0 && lines[i].trim() === '' && i + 1 < lines.length && lines[i + 1].trim().startsWith('>')))
+      ) {
+        if (lines[i].trim() === '') {
+          rawNested.push('');
+        } else {
+          rawNested.push(lines[i].replace(/^\s*>\s?/, ''));
+        }
+        i++;
+      }
+
+      // Split rawNested into distinct sub-callouts if there are multiple `[!type]`
+      const subBlocks = [];
+      let currentSub = [];
+      for (const nl of rawNested) {
+        if (nl.match(/^\[![a-zA-Z0-9_-]+\]/) && currentSub.length > 0) {
+          subBlocks.push(currentSub);
+          currentSub = [nl];
+        } else {
+          currentSub.push(nl);
+        }
+      }
+      if (currentSub.length) subBlocks.push(currentSub);
+
+      for (const sb of subBlocks) {
+        chunks.push(renderCalloutOrBlockquote(sb, notePath, runtime, outgoingLinks));
+      }
+      continue;
+    }
+
+    // 3. Markdown Pipe Tables inside callouts
+    if (t.startsWith('|') && i + 1 < lines.length && /^\s*\|?[\s:|-]+\|[\s:|-]*$/.test(lines[i + 1])) {
+      flushAll();
+      const tableLines = [];
+      while (i < lines.length && lines[i].trim().startsWith('|')) {
+        tableLines.push(lines[i].trim());
+        i++;
+      }
+      chunks.push(renderTable(tableLines, notePath, runtime, outgoingLinks));
+      continue;
+    }
+
+    // 4. Quote attribution styling (e.g. `— Author`, `-- Author`, `&mdash; Author`)
+    if (/^(?:—|--|–|&mdash;)\s*(.+)$/.test(t)) {
+      flushAll();
+      chunks.push(`<div class="quote-attribution">${renderInline(t, notePath, runtime, outgoingLinks)}</div>`);
+      i++;
+      continue;
+    }
+
+    // 5. Lists
     if (/^(\s*)([-*+]|\d+\.)\s+/.test(l)) {
+      flushPara();
       listBuf.push(l);
+      i++;
       continue;
     }
+
+    // 6. Regular paragraph text
     flushList();
-    chunks.push(`<p>${renderInline(l, notePath, runtime, outgoingLinks)}</p>`);
+    paraBuf.push(l);
+    i++;
   }
-  flushList();
+
+  flushAll();
   return chunks.join('\n');
 }
 
@@ -410,7 +496,7 @@ function renderTable(tableLines, notePath, runtime, outgoingLinks) {
     const trimmed = safe.replace(/^\||\|$/g, '');
     return trimmed.split('|').map(c =>
       c.trim()
-        .replace(/@@ESCAPED_PIPE@@/g, '|')
+        .replace(/@@ESCAPED_PIPE@@/g, '\\|')
         .replace(/@@WIKI_PIPE@@/g, '|')
     );
   };
@@ -458,12 +544,13 @@ function unresolvedClass(runtime, resolvedPath) {
 }
 
 function processLinksInRawHtml(rawHtml, notePath, runtime, outgoingLinks) {
-  return rawHtml.replace(/\[\[([^\]|#]+)(?:#([^\]|]+))?(?:\|([^\]]+))?\]\]/g, (_, target, hash, alias) => {
-    const cleanTarget = target.replace(/\\$/g, '').trim();
-    const resolved = runtime.resolveLinkPath(cleanTarget, notePath);
-    outgoingLinks.add(resolved);
+  return rawHtml.replace(/\[\[([^\]|#\\]+)\\?(?:#([^\]|\\]+)\\?)?(?:\\?\|([^\]]+))?\]\]/g, (_, target, hash, alias) => {
+    const cleanTarget = target.replace(/\\+$/, '').trim();
+    const cleanHash = hash ? hash.replace(/\\+$/, '').trim() : '';
+    const resolved = runtime ? runtime.resolveLinkPath(cleanTarget, notePath) : cleanTarget;
+    if (outgoingLinks) outgoingLinks.add(resolved);
     const label = alias ? alias.trim() : cleanTarget.split('/').pop().replace(/\.md$/i, '');
-    return `<a class="internal-link${unresolvedClass(runtime, resolved)}" data-href="${escapeAttr(resolved)}" ${hash ? `data-heading="${escapeAttr(hash)}"` : ''} href="/?note=${encodeURIComponent(resolved)}">${escapeHtml(label)}</a>`;
+    return `<a class="internal-link${unresolvedClass(runtime, resolved)}" data-href="${escapeAttr(resolved)}" ${cleanHash ? `data-heading="${escapeAttr(cleanHash)}"` : ''} href="/?note=${encodeURIComponent(resolved)}">${escapeHtml(label)}</a>`;
   });
 }
 
@@ -495,12 +582,13 @@ export function renderInline(text, notePath, runtime, outgoingLinks) {
   });
 
   // 3. Wikilinks `[[target#heading|alias]]` (also handling escaped `\|`)
-  str = str.replace(/\[\[([^\]|#\\]+)\\?(?:#([^\]|\\]+)\\?)?(?:\|([^\]]+))?\]\]/g, (_, target, hash, alias) => {
-    const cleanTarget = target.trim();
-    const resolved = runtime.resolveLinkPath(cleanTarget, notePath);
+  str = str.replace(/\[\[([^\]|#\\]+)\\?(?:#([^\]|\\]+)\\?)?(?:\\?\|([^\]]+))?\]\]/g, (_, target, hash, alias) => {
+    const cleanTarget = target.replace(/\\+$/, '').trim();
+    const cleanHash = hash ? hash.replace(/\\+$/, '').trim() : '';
+    const resolved = runtime ? runtime.resolveLinkPath(cleanTarget, notePath) : cleanTarget;
     if (outgoingLinks) outgoingLinks.add(resolved);
     const label = alias ? alias.trim() : cleanTarget.split('/').pop().replace(/\.md$/i, '');
-    return `<a class="internal-link${unresolvedClass(runtime, resolved)}" data-href="${escapeAttr(resolved)}" ${hash ? `data-heading="${escapeAttr(hash)}"` : ''} href="/?note=${encodeURIComponent(resolved)}">${escapeHtml(label)}</a>`;
+    return `<a class="internal-link${unresolvedClass(runtime, resolved)}" data-href="${escapeAttr(resolved)}" ${cleanHash ? `data-heading="${escapeAttr(cleanHash)}"` : ''} href="/?note=${encodeURIComponent(resolved)}">${escapeHtml(label)}</a>`;
   });
 
   // 4. External Markdown links `[label](url)`
@@ -546,7 +634,8 @@ export function createAppleStatusToggle(currentStatus, onCycleStatus) {
     { key: 'learning', label: 'learning', cls: 'learning', p: 'p1' },
     { key: 'learned', label: 'learned', cls: 'learned', p: 'p2' }
   ];
-  let curIdx = states.findIndex(s => s.key === currentStatus);
+  const normalized = String(currentStatus || '').toLowerCase().trim();
+  let curIdx = states.findIndex(s => s.key === normalized);
   if (curIdx === -1) curIdx = 0;
 
   const toggle = document.createElement('div');
@@ -573,7 +662,11 @@ export function createAppleStatusToggle(currentStatus, onCycleStatus) {
     label.className = `label ${nxt.cls}`;
     label.textContent = nxt.label;
     if (onCycleStatus) {
-      await onCycleStatus(nxt.key);
+      try {
+        await onCycleStatus(nxt.key);
+      } catch (err) {
+        console.error('Failed to cycle status:', err);
+      }
     }
   });
 

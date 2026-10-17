@@ -1,7 +1,7 @@
 {
-  "name": "obsidian-language-vault-webapp",
+  "name": "vocab-app",
   "version": "1.0.0",
-  "description": "Full-featured Obsidian Web App (Desktop & Mobile) for the Unified Language & Philology Vault with Custom Scandinavian Birch (Light) & Volcanic Obsidian (Dark) UI",
+  "description": "Mobile-First Vocab App with Multi-Provider Firebase Auth, Animated Vector Avatars, and Real-Time Cloud Firestore Tracking",
   "type": "module",
   "scripts": {
     "start": "node server.mjs",
@@ -16,9 +16,15 @@
     "cap:build": "npm run cap:sync && cd ../android && gradlew.bat assembleDebug"
   },
   "dependencies": {
+    "@capacitor-community/file-opener": "^8.0.1",
     "@capacitor/android": "^8.5.2",
     "@capacitor/app": "^8.1.1",
     "@capacitor/cli": "^8.5.2",
-    "@capacitor/core": "^8.5.2"
+    "@capacitor/core": "^8.5.2",
+    "@capacitor/filesystem": "^8.1.5",
+    "firebase": "^13.0.0"
+  },
+  "devDependencies": {
+    "firebase-admin": "^14.5.0"
   }
 }

@@ -1,9 +1,9 @@
-import { execFile, exec } from 'node:child_process';
+import { execFile } from 'node:child_process';
 import { promisify } from 'node:util';
 import fs from 'node:fs';
 import path from 'node:path';
 
-const execAsync = promisify(exec);
+const execFileAsync = promisify(execFile);
 
 /**
  * Robust Bi-directional Git Synchronization Engine for Obsidian Studio
@@ -33,11 +33,25 @@ export class GitSyncEngine {
     this.onNewCommitsCallback = null;
   }
 
+  parseArgs(args) {
+    if (Array.isArray(args)) return args;
+    if (typeof args !== 'string') return [];
+    const matches = args.match(/(?:[^\s"']+|"[^"]*"|'[^']*')+/g);
+    if (!matches) return [];
+    return matches.map(m => {
+      if ((m.startsWith('"') && m.endsWith('"')) || (m.startsWith("'") && m.endsWith("'"))) {
+        return m.slice(1, -1);
+      }
+      return m;
+    });
+  }
+
   async runGit(args, cwd = this.vaultRoot) {
     try {
-      const cmd = `git ${args}`;
-      const { stdout, stderr } = await execAsync(cmd, {
-        cwd,
+      const argsArray = this.parseArgs(args);
+      const { stdout, stderr } = await execFileAsync('git', argsArray, {
+        cwd: cwd || this.vaultRoot || process.cwd(),
+        windowsHide: true,
         env: {
           ...process.env,
           GIT_TERMINAL_PROMPT: '0',
@@ -48,81 +62,93 @@ export class GitSyncEngine {
         },
         maxBuffer: 10 * 1024 * 1024
       });
-      return { ok: true, stdout: stdout.trim(), stderr: stderr.trim() };
+      return { ok: true, stdout: (stdout || '').trim(), stderr: (stderr || '').trim() };
     } catch (err) {
-      return { ok: false, error: err.message, stderr: (err.stderr || '').trim() };
+      return {
+        ok: false,
+        error: err.message,
+        stderr: (err.stderr || '').trim(),
+        stdout: (err.stdout || '').trim()
+      };
     }
   }
 
   async init(vaultRoot, { onNewCommits = null } = {}) {
-    this.vaultRoot = path.resolve(vaultRoot);
-    this.onNewCommitsCallback = onNewCommits;
+    try {
+      this.vaultRoot = path.resolve(vaultRoot);
+      this.onNewCommitsCallback = onNewCommits;
 
-    // Check if git executable exists
-    const gitCheck = await this.runGit('--version', process.cwd());
-    if (!gitCheck.ok) {
-      console.log('ℹ️  Git CLI not found on system PATH. Git Auto-Sync is disabled.');
-      this.lastSyncStatus = 'disabled';
-      return;
-    }
+      // Check if git executable exists
+      const gitCheck = await this.runGit(['--version'], process.cwd());
+      if (!gitCheck.ok) {
+        console.log('ℹ️  Git CLI not found on system PATH. Git Auto-Sync is disabled.');
+        this.lastSyncStatus = 'disabled';
+        return;
+      }
 
-    const dotGit = path.join(this.vaultRoot, '.git');
-    this.isRepo = fs.existsSync(dotGit);
+      const dotGit = path.join(this.vaultRoot, '.git');
+      this.isRepo = fs.existsSync(dotGit);
 
-    if (!this.isRepo) {
-      console.log(`ℹ️  Vault at "${this.vaultRoot}" is not a Git repository. Git Auto-Sync is disabled.`);
-      this.lastSyncStatus = 'disabled';
-      return;
-    }
+      if (!this.isRepo) {
+        console.log(`ℹ️  Vault at "${this.vaultRoot}" is not a Git repository. Git Auto-Sync is disabled.`);
+        this.lastSyncStatus = 'disabled';
+        return;
+      }
 
-    this.enabled = true;
-    this.lastSyncStatus = 'synced';
+      this.enabled = true;
+      this.lastSyncStatus = 'synced';
 
-    // Detect current branch
-    const branchRes = await this.runGit('rev-parse --abbrev-ref HEAD');
-    if (branchRes.ok && branchRes.stdout) {
-      this.branch = branchRes.stdout;
-    }
+      // Detect current branch
+      const branchRes = await this.runGit(['rev-parse', '--abbrev-ref', 'HEAD']);
+      if (branchRes.ok && branchRes.stdout) {
+        this.branch = branchRes.stdout;
+      }
 
-    // Detect remote URL
-    const remoteRes = await this.runGit('remote get-url origin');
-    if (remoteRes.ok && remoteRes.stdout) {
-      this.remoteUrl = remoteRes.stdout;
-      // Configure credentials if GITHUB_TOKEN is supplied and remote is HTTPS
-      if (this.githubToken && this.remoteUrl.startsWith('https://')) {
-        try {
-          const u = new URL(this.remoteUrl);
-          u.username = 'x-access-token';
-          u.password = this.githubToken;
-          await this.runGit(`remote set-url origin "${u.toString()}"`);
-          console.log('🔒 Configured Git remote credentials via GITHUB_TOKEN.');
-        } catch {
-          // ignore url parse error
+      // Detect remote URL
+      const remoteRes = await this.runGit(['remote', 'get-url', 'origin']);
+      if (remoteRes.ok && remoteRes.stdout) {
+        this.remoteUrl = remoteRes.stdout;
+        // Configure credentials if GITHUB_TOKEN is supplied and remote is HTTPS
+        if (this.githubToken && this.remoteUrl.startsWith('https://')) {
+          try {
+            const u = new URL(this.remoteUrl);
+            u.username = 'x-access-token';
+            u.password = this.githubToken;
+            await this.runGit(['remote', 'set-url', 'origin', u.toString()]);
+            console.log('🔒 Configured Git remote credentials via GITHUB_TOKEN.');
+          } catch {
+            // ignore url parse error
+          }
         }
       }
-    }
 
-    // Configure local repository author
-    await this.runGit(`config user.name "${this.authorName}"`);
-    await this.runGit(`config user.email "${this.authorEmail}"`);
+      // Configure local repository author
+      await this.runGit(['config', 'user.name', this.authorName]);
+      await this.runGit(['config', 'user.email', this.authorEmail]);
 
-    console.log(`\n🐙 Git Auto-Sync Engine Active:`);
-    console.log(`   ➜ Vault Repo: ${this.vaultRoot}`);
-    console.log(`   ➜ Branch:     ${this.branch}`);
-    console.log(`   ➜ Remote:     ${this.remoteUrl ? this.remoteUrl.replace(/\/\/.*@/, '//***@') : '(none)'}`);
-    console.log(`   ➜ Auto-Pull:  every ${this.autoPullIntervalMs / 1000}s\n`);
+      console.log(`\n🐙 Git Auto-Sync Engine Active:`);
+      console.log(`   ➜ Vault Repo: ${this.vaultRoot}`);
+      console.log(`   ➜ Branch:     ${this.branch}`);
+      console.log(`   ➜ Remote:     ${this.remoteUrl ? this.remoteUrl.replace(/\/\/.*@/, '//***@') : '(none)'}`);
+      console.log(`   ➜ Auto-Pull:  every ${this.autoPullIntervalMs / 1000}s\n`);
 
-    // Start background auto-pull interval
-    if (this.remoteUrl) {
-      this.startAutoPull();
+      // Start background auto-pull interval
+      if (this.remoteUrl) {
+        this.startAutoPull();
+      }
+    } catch (err) {
+      console.warn('⚠️ Git Auto-Sync init notice:', err.message);
+      this.lastSyncStatus = 'disabled';
     }
   }
 
   startAutoPull() {
     if (this.autoPullTimer) clearInterval(this.autoPullTimer);
-    this.autoPullTimer = setInterval(async () => {
+    this.autoPullTimer = setInterval(() => {
       if (this.isSyncing) return;
-      await this.pull();
+      this.pull().catch(err => {
+        console.warn('⚠️ Git auto-pull error in interval:', err.message);
+      });
     }, this.autoPullIntervalMs);
   }
 
@@ -131,8 +157,10 @@ export class GitSyncEngine {
     this.pendingChanges.set(relPath, action);
 
     clearTimeout(this.debounceTimer);
-    this.debounceTimer = setTimeout(async () => {
-      await this.commitAndPush();
+    this.debounceTimer = setTimeout(() => {
+      this.commitAndPush().catch(err => {
+        console.warn('⚠️ Git commitAndPush error in debounce timer:', err.message);
+      });
     }, this.debounceMs);
   }
 
@@ -143,11 +171,11 @@ export class GitSyncEngine {
 
     try {
       // 1. Stage all changes
-      await this.runGit('add -A');
+      await this.runGit(['add', '-A']);
 
       // 2. Check if there are changes to commit
-      const statusRes = await this.runGit('status --porcelain');
-      if (!statusRes.ok) throw new Error(statusRes.error);
+      const statusRes = await this.runGit(['status', '--porcelain']);
+      if (!statusRes.ok) throw new Error(statusRes.error || statusRes.stderr);
 
       if (statusRes.stdout.length > 0) {
         let msg = customMessage;
@@ -159,7 +187,7 @@ export class GitSyncEngine {
           msg = `sync: update ${sampleList}${more} [Obsidian Web App]`;
         }
 
-        const commitRes = await this.runGit(`commit -m "${msg.replace(/"/g, '\\"')}"`);
+        const commitRes = await this.runGit(['commit', '-m', msg]);
         if (!commitRes.ok) {
           console.warn('Git commit warning:', commitRes.stderr || commitRes.error);
         } else {
@@ -172,13 +200,13 @@ export class GitSyncEngine {
       // 3. Push to remote if remote exists
       if (this.remoteUrl) {
         console.log(`🚀 Pushing changes to origin/${this.branch}...`);
-        const pushRes = await this.runGit(`push origin ${this.branch}`);
+        const pushRes = await this.runGit(['push', 'origin', this.branch]);
         if (!pushRes.ok) {
           // If rejected due to upstream changes, pull with rebase then retry push
           if (pushRes.stderr && pushRes.stderr.includes('fetch first')) {
             console.log('🔄 Upstream changes detected, rebasing...');
             await this.pull();
-            const retryPush = await this.runGit(`push origin ${this.branch}`);
+            const retryPush = await this.runGit(['push', 'origin', this.branch]);
             if (!retryPush.ok) throw new Error(retryPush.stderr || retryPush.error);
           } else {
             throw new Error(pushRes.stderr || pushRes.error);
@@ -206,29 +234,35 @@ export class GitSyncEngine {
 
     try {
       // Get current HEAD sha
-      const beforeSha = (await this.runGit('rev-parse HEAD')).stdout;
+      const beforeRes = await this.runGit(['rev-parse', 'HEAD']);
+      const beforeSha = beforeRes.stdout || '';
 
       // Fetch origin
-      const fetchRes = await this.runGit(`fetch origin ${this.branch}`);
+      const fetchRes = await this.runGit(['fetch', 'origin', this.branch]);
       if (!fetchRes.ok) throw new Error(fetchRes.stderr || fetchRes.error);
 
       // Check if upstream has new commits
-      const countRes = await this.runGit(`rev-list HEAD..origin/${this.branch} --count`);
+      const countRes = await this.runGit(['rev-list', `HEAD..origin/${this.branch}`, '--count']);
       const newCommitsCount = Number(countRes.stdout || 0);
 
       if (newCommitsCount > 0) {
         console.log(`📥 Found ${newCommitsCount} new remote commits. Rebasing local vault...`);
         // Pull with rebase or autostash
-        const pullRes = await this.runGit(`pull --rebase --autostash origin ${this.branch}`);
+        const pullRes = await this.runGit(['pull', '--rebase', '--autostash', 'origin', this.branch]);
         if (!pullRes.ok) throw new Error(pullRes.stderr || pullRes.error);
 
-        const afterSha = (await this.runGit('rev-parse HEAD')).stdout;
+        const afterRes = await this.runGit(['rev-parse', 'HEAD']);
+        const afterSha = afterRes.stdout || '';
         console.log(`✅ Rebased successfully: ${beforeSha.slice(0, 7)} ➔ ${afterSha.slice(0, 7)}`);
 
         // Trigger index rebuild so new notes / status updates reflect immediately
         if (typeof this.onNewCommitsCallback === 'function') {
-          console.log('🔄 Triggering vault index rebuild from new Git commits...');
-          this.onNewCommitsCallback();
+          try {
+            console.log('🔄 Triggering vault index rebuild from new Git commits...');
+            this.onNewCommitsCallback();
+          } catch (cbErr) {
+            console.warn('⚠️ Error in onNewCommitsCallback:', cbErr.message);
+          }
         }
 
         this.lastSyncedAt = new Date().toISOString();
@@ -253,13 +287,21 @@ export class GitSyncEngine {
 
   async manualSync() {
     if (!this.enabled) return { ok: false, error: 'Git sync is not enabled for this vault' };
-    const pullResult = await this.pull();
-    await this.commitAndPush('sync: manual sync triggered from web app');
-    return {
-      ok: this.lastSyncStatus !== 'error',
-      status: this.getStatus(),
-      pull: pullResult
-    };
+    try {
+      const pullResult = await this.pull();
+      await this.commitAndPush('sync: manual sync triggered from web app');
+      return {
+        ok: this.lastSyncStatus !== 'error',
+        status: this.getStatus(),
+        pull: pullResult
+      };
+    } catch (err) {
+      return {
+        ok: false,
+        error: err.message,
+        status: this.getStatus()
+      };
+    }
   }
 
   getStatus() {

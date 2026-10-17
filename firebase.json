@@ -1,0 +1,24 @@
+{
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "storage": {
+    "rules": "storage.rules"
+  },
+  "auth": {
+    "providers": {
+      "anonymous": true,
+      "emailPassword": true,
+      "googleSignIn": {
+        "oAuthBrandDisplayName": "Vocab App",
+        "supportEmail": "yogeshwarren005@gmail.com",
+        "authorizedRedirectUris": [
+          "https://vocabapp-fdf4f.firebaseapp.com/__/auth/handler",
+          "http://localhost:3080",
+          "http://localhost"
+        ]
+      }
+    }
+  }
+}

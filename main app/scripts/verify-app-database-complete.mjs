@@ -138,12 +138,25 @@ function extractCardDetails(rawContent) {
         const clean = line.replace(/^>\s*-\s*(?:📜|📚|🔬|🌐|🗣️|💬)?\s*/, '').replace(/^>\s*/, '').trim();
         if (!clean) continue;
 
-        const m = clean.match(/^\*\*([^*]+?)\s*\(\*?([^*)]+?)\*?\):?\*\*:?\s*\*?["“]([^"”]+)["”]\*?/) ||
-                  clean.match(/^\*\*([^*]+?)(?:\s*\(([^)]+)\))?:?\*\*:?\s*\*?["“]([^"”]+)["”]\*?/);
-        if (m) {
-          const author = (m[1] || '').replace(/[:*]/g, '').trim();
-          const work = (m[2] || '').replace(/[:*]/g, '').trim();
-          quotes.push({ author, work, quote: m[3].trim() });
+        // Match: **Author (*Work*):** *"Quote text..."* or **Author (*Work (Subtitle)*):** *"Quote..."*
+        const headerQuoteMatch = clean.match(/^\*\*([\s\S]+?)\*\*:?\s*\*?["“]([\s\S]+?)["”]\*?$/) ||
+                                 clean.match(/^\*\*([\s\S]+?)\*\*:?\s*\*?["“]([\s\S]+)$/) ||
+                                 clean.match(/^\*\*([^*]+?)\s*\(\*?([\s\S]+?)\*?\):?\*\*:?\s*\*?["“]([\s\S]+?)["”]\*?/);
+
+        if (headerQuoteMatch) {
+          let rawHeader = headerQuoteMatch[1].trim();
+          rawHeader = rawHeader.replace(/[:*]+$/, '').trim();
+          const quoteText = (headerQuoteMatch[2] || '').replace(/["”*]+$/g, '').trim();
+
+          const parenMatch = rawHeader.match(/^(.+?)\s*\(\*?([\s\S]+?)\*?\)$/);
+          if (parenMatch) {
+            const author = parenMatch[1].replace(/[:*]/g, '').trim();
+            const work = parenMatch[2].replace(/[:*]/g, '').trim();
+            quotes.push({ author, work, quote: quoteText });
+          } else {
+            const author = rawHeader.replace(/[:*]/g, '').trim();
+            quotes.push({ author, work: '', quote: quoteText });
+          }
         } else {
           const qm = clean.match(/["“]([^"”]+)["”]/);
           if (qm) {
@@ -211,6 +224,11 @@ for (const c of [...latinWords, ...greekWords, ...evmWords]) {
   }
 }
 
+const ROOT_ALIASES = {
+  'aev': ['ev', 'Dashboard — ev'],
+  'ev': ['aev', 'Dashboard — aev']
+};
+
 let populatedDashes = 0;
 for (const d of dashboards) {
   const parts = d.p.split('/');
@@ -219,9 +237,22 @@ for (const d of dashboards) {
   const dashName = fileName.replace(/\.md$/, '').trim();
   const rootName = dashName.replace(/^Dashboard\s+—\s+/, '').trim();
 
+  const aliases = ROOT_ALIASES[rootName] || [];
+  const aliasFolders = aliases.map(a => folder.replace(`Dashboard — ${rootName}`, `Dashboard — ${a}`));
+
   const folderWords = (wordsByFolder.get(folder) || []).filter(c => c.p !== d.p);
   const matchSet = new Set(folderWords.map(c => c.p));
+
+  for (const af of aliasFolders) {
+    const afWords = (wordsByFolder.get(af) || []).filter(c => c.p !== d.p);
+    for (const afw of afWords) matchSet.add(afw.p);
+  }
+
   const linkKeys = ['[[' + rootName + ']]', '[[' + dashName + ']]', '[[Dashboard — ' + rootName + ']]'];
+  for (const a of aliases) {
+    linkKeys.push('[[' + a + ']]', '[[Dashboard — ' + a + ']]');
+  }
+
   for (const k of linkKeys) {
     const matched = wordsByRootLink.get(k) || [];
     for (const m of matched) {

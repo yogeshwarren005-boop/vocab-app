@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "65485068665",
+    "project_id": "vocabapp-fdf4f",
+    "storage_bucket": "vocabapp-fdf4f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65485068665:android:0430b9e707398471c637a8",
+        "android_client_info": {
+          "package_name": "com.vocabapp.obsidianstudio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4nbLh0ZVsTtoXWtee5tng5CyTwlnkmhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

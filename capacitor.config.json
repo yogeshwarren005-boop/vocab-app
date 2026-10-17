@@ -1,0 +1,8 @@
+{
+  "appId": "com.vocabapp.obsidianstudio",
+  "appName": "Vocab App",
+  "webDir": "main app/public",
+  "android": {
+    "path": "android"
+  }
+}

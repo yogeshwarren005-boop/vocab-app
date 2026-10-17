@@ -1,0 +1,25 @@
+{
+  "name": "vocab-app",
+  "version": "1.0.0",
+  "description": "Mobile-First Vocab App with Multi-Provider Firebase Auth, Animated Vector Avatars, and Real-Time Cloud Firestore Tracking",
+  "type": "module",
+  "scripts": {
+    "start": "node \"main app/server.mjs\"",
+    "build": "node \"main app/build-static.mjs\"",
+    "cap:sync": "npx cap sync android",
+    "cap:open": "npx cap open android",
+    "broadcast": "node scripts/sync-and-broadcast.mjs"
+  },
+  "dependencies": {
+    "@capacitor-community/file-opener": "^8.0.1",
+    "@capacitor/android": "^8.5.2",
+    "@capacitor/app": "^8.1.1",
+    "@capacitor/cli": "^8.5.2",
+    "@capacitor/core": "^8.5.2",
+    "@capacitor/filesystem": "^8.1.5",
+    "firebase": "^13.0.0"
+  },
+  "devDependencies": {
+    "firebase-admin": "^14.5.0"
+  }
+}

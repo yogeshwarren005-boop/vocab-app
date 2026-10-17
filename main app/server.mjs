@@ -47,14 +47,86 @@ const PROTECTED_ROOT_FOLDERS = new Set([
   'Latin roots'
 ]);
 
+// Case-insensitive lookups for Windows filesystem security
+const EXCLUDED_ROOT_DIRS_LOWER = new Set(
+  Array.from(EXCLUDED_ROOT_DIRS).map(d => d.toLowerCase())
+);
+const EXCLUDED_ROOT_FILES_LOWER = new Set(
+  Array.from(EXCLUDED_ROOT_FILES).map(f => f.toLowerCase())
+);
+const PROTECTED_ROOT_FOLDERS_LOWER = new Set(
+  Array.from(PROTECTED_ROOT_FOLDERS).map(f => f.toLowerCase())
+);
+
+// Reserved Windows DOS device names
+const DOS_DEVICE_REGEX = /^(CON|PRN|AUX|NUL|COM[1-9]|LPT[1-9])(\..*)?$/i;
+
+// Top-level safety handlers to prevent unhandled rejections from crashing the server
+process.on('uncaughtException', (err) => {
+  console.error('💥 Uncaught Exception caught by server safety handler:', err);
+});
+process.on('unhandledRejection', (reason) => {
+  console.error('💥 Unhandled Rejection caught by server safety handler:', reason);
+});
+
+/**
+ * Safe URI decoder that handles single and double-encoded URIs,
+ * Unicode/Greek/Latin characters, spaces, and catches URIError safely.
+ */
+function safeUriDecode(str) {
+  if (!str || typeof str !== 'string') return '';
+  let decoded = str;
+  for (let i = 0; i < 2; i++) {
+    if (!decoded.includes('%')) break;
+    try {
+      const next = decodeURIComponent(decoded);
+      if (next === decoded) break;
+      decoded = next;
+    } catch {
+      // String contains literal '%' not representing valid escape sequence
+      break;
+    }
+  }
+  return decoded;
+}
+
+/**
+ * Robust CORS headers accommodating Capacitor Android (capacitor://localhost, http://localhost)
+ * and web/desktop origins.
+ */
+function getCorsHeaders(req) {
+  const origin = req?.headers?.origin;
+  const isSpecificOrigin = Boolean(origin && origin !== 'null');
+  const headers = {
+    'Access-Control-Allow-Origin': isSpecificOrigin ? origin : '*',
+    'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE, PATCH, OPTIONS',
+    'Access-Control-Allow-Headers': 'Content-Type, Authorization, X-Requested-With, Accept, Origin',
+    'Access-Control-Max-Age': '86400',
+    'Vary': 'Origin, Accept-Encoding'
+  };
+  if (isSpecificOrigin) {
+    headers['Access-Control-Allow-Credentials'] = 'true';
+  }
+  return headers;
+}
+
+// Pre-compiled regexes for maximum frontmatter & link extraction throughput
+const LIST_ITEM_REGEX = /^\s+-\s+(.*)$/;
+const KEY_VAL_REGEX = /^([A-Za-z0-9_.-]+)\s*:\s*(.*)$/;
+const NUMERIC_REGEX = /^[\d.]+$/;
+const WIKILINK_REGEX = /\[\[([^\]|#]+)(?:#[^\]|]+)?(?:\|[^\]]+)?\]\]/g;
+
 /**
  * Fast frontmatter parser reading only the header block of a markdown string
  */
 function parseFrontmatter(rawHeader) {
-  if (!rawHeader.startsWith('---')) return {};
-  const endIdx = rawHeader.indexOf('\n---', 3);
+  if (!rawHeader) return {};
+  let h = rawHeader;
+  if (h.charCodeAt(0) === 0xFEFF) h = h.slice(1);
+  if (!h.startsWith('---')) return {};
+  const endIdx = h.indexOf('\n---', 3);
   if (endIdx === -1) return {};
-  const yamlBlock = rawHeader.slice(3, endIdx).replace(/\r/g, '');
+  const yamlBlock = h.slice(3, endIdx).replace(/\r/g, '');
   const lines = yamlBlock.split('\n');
   const fm = {};
   let currentKey = null;
@@ -62,9 +134,10 @@ function parseFrontmatter(rawHeader) {
 
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i];
-    if (!line.trim() || line.trim().startsWith('#')) continue;
+    const trimmed = line.trim();
+    if (!trimmed || trimmed.startsWith('#')) continue;
 
-    const listMatch = line.match(/^\s+-\s+(.*)$/);
+    const listMatch = line.match(LIST_ITEM_REGEX);
     if (listMatch && currentKey) {
       if (!currentList) {
         currentList = [];
@@ -74,7 +147,7 @@ function parseFrontmatter(rawHeader) {
       continue;
     }
 
-    const kvMatch = line.match(/^([A-Za-z0-9_-]+)\s*:\s*(.*)$/);
+    const kvMatch = line.match(KEY_VAL_REGEX);
     if (kvMatch) {
       currentKey = kvMatch[1];
       const val = kvMatch[2].trim();
@@ -97,7 +170,7 @@ function cleanYamlVal(val) {
   }
   if (v === 'true') return true;
   if (v === 'false') return false;
-  if (v !== '' && !Number.isNaN(Number(v)) && /^[\d.]+$/.test(v)) return Number(v);
+  if (v !== '' && !Number.isNaN(Number(v)) && NUMERIC_REGEX.test(v)) return Number(v);
   return v;
 }
 
@@ -199,31 +272,88 @@ let vaultIndex = {
 };
 let pageMapByPath = new Map();
 
-async function loadStatusDb() {
-  if (fs.existsSync(STATUS_DB_PATH)) {
+/**
+ * Safely writes a file atomically via a temporary file in the same directory,
+ * followed by an atomic rename with retries for Windows file lock tolerance.
+ */
+async function writeFileAtomic(targetPath, data, encoding = 'utf8') {
+  const dir = path.dirname(targetPath);
+  await fsp.mkdir(dir, { recursive: true });
+  const tempPath = path.join(dir, `.${path.basename(targetPath)}.${Date.now()}.${Math.random().toString(36).slice(2, 8)}.tmp`);
+
+  await fsp.writeFile(tempPath, data, encoding);
+
+  let retries = 5;
+  while (retries > 0) {
     try {
-      statusDb = JSON.parse(await fsp.readFile(STATUS_DB_PATH, 'utf8'));
-    } catch {
-      statusDb = {};
+      await fsp.rename(tempPath, targetPath);
+      return;
+    } catch (err) {
+      retries--;
+      if (retries === 0) {
+        try {
+          await fsp.copyFile(tempPath, targetPath);
+          await fsp.unlink(tempPath).catch(() => {});
+          return;
+        } catch {
+          await fsp.unlink(tempPath).catch(() => {});
+          throw err;
+        }
+      }
+      await new Promise(r => setTimeout(r, 25));
     }
   }
 }
 
-async function saveStatusDb() {
+async function loadStatusDb() {
+  if (fs.existsSync(STATUS_DB_PATH)) {
+    try {
+      const diskData = JSON.parse(await fsp.readFile(STATUS_DB_PATH, 'utf8'));
+      // Merge disk data with in-memory overrides so active session updates are preserved
+      statusDb = { ...diskData, ...statusDb };
+    } catch (e) {
+      console.warn('Status DB load notice:', e.message);
+    }
+  }
+}
+
+let statusDbSaveQueue = Promise.resolve();
+
+function saveStatusDb() {
+  statusDbSaveQueue = statusDbSaveQueue.then(async () => {
+    try {
+      await writeFileAtomic(STATUS_DB_PATH, JSON.stringify(statusDb, null, 2), 'utf8');
+    } catch (err) {
+      console.warn('Failed to save status-db:', err.message);
+    }
+  });
+  return statusDbSaveQueue;
+}
+
+let activeIndexBuildPromise = null;
+
+/**
+ * Mutex-protected vault indexer entrypoint: ensures multiple concurrent rebuild requests
+ * (e.g. from watcher + API) share a single in-flight build rather than overlapping.
+ */
+async function buildVaultIndex(forceRebuild = false) {
+  if (activeIndexBuildPromise) {
+    return activeIndexBuildPromise;
+  }
+  activeIndexBuildPromise = _executeVaultIndex(forceRebuild);
   try {
-    await fsp.writeFile(STATUS_DB_PATH, JSON.stringify(statusDb, null, 2), 'utf8');
-  } catch {
-    // ignore
+    return await activeIndexBuildPromise;
+  } finally {
+    activeIndexBuildPromise = null;
   }
 }
 
 /**
  * Ultra-fast Vault Indexer:
- * Reads full content & frontmatter of all ~1,150 core/hub/lesson/cluster/vocab notes,
- * and infers deterministic root/cluster metadata for the ~50,000 Greek/Latin root sub-files
- * directly from directory structure in < 1.5 seconds!
+ * Scans vault hierarchy with hoisted directory checks, infers deterministic metadata
+ * for ~50,000 classical root files, and reads ~1,480 core notes with a concurrent I/O pool.
  */
-async function buildVaultIndex(forceRebuild = false) {
+async function _executeVaultIndex(forceRebuild = false) {
   await loadStatusDb();
   const indexCachePath = path.join(DATA_DIR, 'vault-index.json');
   const coreNotesCachePath = path.join(DATA_DIR, 'core-notes.json');
@@ -253,14 +383,23 @@ async function buildVaultIndex(forceRebuild = false) {
   const pages = [];
   const coreNotes = {};
   const rawLinks = [];
+  const coreNotesToRead = [];
 
-  function walkDir(absDir, relDir) {
+  function walkDir(absDir, relDir, dirParts = null) {
     let entries;
     try {
       entries = fs.readdirSync(absDir, { withFileTypes: true });
     } catch {
       return;
     }
+
+    const parts = dirParts !== null ? dirParts : (relDir ? relDir.split('/') : []);
+    const topFolder = parts[0] || '';
+    const isClassicalRoot = topFolder === 'Greek roots' || topFolder === 'Latin roots';
+    const isDeepClassical = isClassicalRoot && parts.length >= 2 && parts[1].startsWith('Cluster ');
+    const clusterName = isDeepClassical ? parts[1] : '';
+    const rootFolderName = isDeepClassical ? (parts[2] || '') : '';
+    const isClusterMocDir = isDeepClassical && parts.length === 2;
 
     for (const entry of entries) {
       const name = entry.name;
@@ -269,49 +408,31 @@ async function buildVaultIndex(forceRebuild = false) {
       const absPath = path.join(absDir, name);
 
       if (entry.isDirectory()) {
-        if ((!relDir && EXCLUDED_ROOT_DIRS.has(name)) || name === 'scripts') continue;
-        walkDir(absPath, relPath);
+        if ((!relDir && (EXCLUDED_ROOT_DIRS.has(name) || EXCLUDED_ROOT_DIRS_LOWER.has(name.toLowerCase()))) || name === 'scripts') continue;
+        const nextParts = parts.length === 0 ? [name] : [...parts, name];
+        walkDir(absPath, relPath, nextParts);
       } else if (entry.isFile() && name.endsWith('.md')) {
-        if (!relDir && EXCLUDED_ROOT_FILES.has(name)) continue;
+        if (!relDir && (EXCLUDED_ROOT_FILES.has(name) || EXCLUDED_ROOT_FILES_LOWER.has(name.toLowerCase()))) continue;
 
-        const dirParts = relDir ? relDir.split('/') : [];
-        const topFolder = dirParts[0] || '';
-        const isDeepClassicalRootFile =
-          (topFolder === 'Greek roots' || topFolder === 'Latin roots') &&
-          dirParts.length >= 2 &&
-          dirParts[1].startsWith('Cluster ');
-
-        if (isDeepClassicalRootFile) {
-          // Fast deterministic metadata from folder hierarchy:
-          // <Greek roots | Latin roots>/<Cluster Name>/<Dashboard — root>/<word>.md
-          const clusterName = dirParts[1] || '';
-          const rootFolderName = dirParts[2] || '';
+        if (isDeepClassical) {
           const baseName = name.slice(0, -3);
           const pageObj = {
             p: relPath,
             s: statusDb[relPath] || 'unread'
           };
 
-          if (dirParts.length === 2 && baseName.startsWith('Cluster ')) {
-            // Cluster MOC note (read full content so it's preloaded!)
-            try {
-              const fullText = fs.readFileSync(absPath, 'utf8');
-              const fm = parseFrontmatter(fullText.slice(0, 800));
-              if (fm.status) pageObj.s = statusDb[relPath] || String(fm.status);
-              if (fm.type) pageObj.t = String(fm.type);
-              coreNotes[relPath] = fullText;
-            } catch {
-              // ignore
-            }
+          if (isClusterMocDir && baseName.startsWith('Cluster ')) {
+            coreNotesToRead.push({ absPath, relPath, pageObj, isClusterMoc: true, parts });
           } else if (baseName.startsWith('Dashboard')) {
             pageObj.t = 'root_dashboard';
             pageObj.c = `[[${clusterName}]]`;
             rawLinks.push([`${topFolder}/${clusterName}/${clusterName}.md`, relPath]);
+            pages.push(pageObj);
           } else if (baseName.startsWith('Word Triage')) {
             pageObj.t = 'word_triage';
             pageObj.c = `[[${clusterName}]]`;
+            pages.push(pageObj);
           } else {
-            // Derived vocabulary word card
             pageObj.c = `[[${clusterName}]]`;
             const rootLink = `[[${rootFolderName || baseName}]]`;
             if (topFolder === 'Latin roots') {
@@ -319,65 +440,96 @@ async function buildVaultIndex(forceRebuild = false) {
             } else {
               pageObj.gr = rootLink;
             }
+            pages.push(pageObj);
           }
-
-          pages.push(pageObj);
           continue;
         }
 
-        // For all other notes (~1,150 files: Hub, Basic English, Advanced english, Vocabulary Master, Philosophy, Root MOCs), read full content!
-        try {
-          const fullText = fs.readFileSync(absPath, 'utf8');
-          const fm = parseFrontmatter(fullText.slice(0, 1200));
-
-          coreNotes[relPath] = sanitizeNoteContent(relPath, fullText);
-
-          const linkRegex = /\[\[([^\]|#]+)(?:#[^\]|]+)?(?:\|[^\]]+)?\]\]/g;
-          let m;
-          let count = 0;
-          while ((m = linkRegex.exec(fullText)) !== null && count < 45) {
-            const target = m[1].trim();
-            if (target && !target.startsWith('Content') && !target.endsWith('.jpg') && !target.endsWith('.png')) {
-              rawLinks.push([relPath, target]);
-              count++;
-            }
-          }
-
-          const pageObj = { p: relPath };
-          if (statusDb[relPath]) {
-            pageObj.s = statusDb[relPath];
-          } else if (fm.status !== undefined) {
-            pageObj.s = String(fm.status);
-          }
-          if (fm.type) pageObj.t = String(fm.type);
-          if (fm.cluster) {
-            pageObj.c = String(fm.cluster);
-          } else if (dirParts.length >= 2 && dirParts[1].startsWith('Cluster ')) {
-            pageObj.c = `[[${dirParts[1]}]]`;
-          }
-          if (fm.latin_root) pageObj.lr = String(fm.latin_root);
-          if (fm.greek_root) pageObj.gr = String(fm.greek_root);
-          if (fm.section) pageObj.sec = String(fm.section);
-          if (fm.tags) pageObj.tg = Array.isArray(fm.tags) ? fm.tags : [String(fm.tags)];
-          if (fm.aliases) pageObj.al = Array.isArray(fm.aliases) ? fm.aliases : [String(fm.aliases)];
-          if (fm.cssclasses) pageObj.css = Array.isArray(fm.cssclasses) ? fm.cssclasses : [String(fm.cssclasses)];
-          if (fm.banner) pageObj.b = String(fm.banner);
-          if (fm.banner_icon) pageObj.bi = String(fm.banner_icon);
-          if (fm.banner_y !== undefined) pageObj.by = fm.banner_y;
-
-          pages.push(pageObj);
-        } catch {
-          // ignore
-        }
+        const pageObj = { p: relPath };
+        coreNotesToRead.push({ absPath, relPath, pageObj, isClusterMoc: false, parts });
       }
     }
   }
 
   walkDir(VAULT_ROOT, '');
 
+  // Concurrency pool for reading core notes
+  const CONCURRENCY = 48;
+  let idx = 0;
+  async function worker() {
+    while (idx < coreNotesToRead.length) {
+      const item = coreNotesToRead[idx++];
+      try {
+        const fullText = await fsp.readFile(item.absPath, 'utf8');
+        if (item.isClusterMoc) {
+          const fm = parseFrontmatter(fullText.slice(0, 800));
+          if (fm.status) item.pageObj.s = statusDb[item.relPath] || String(fm.status);
+          if (fm.type) item.pageObj.t = String(fm.type);
+          item.coreText = fullText;
+        } else {
+          const fm = parseFrontmatter(fullText.slice(0, 1200));
+          item.coreText = sanitizeNoteContent(item.relPath, fullText);
+
+          const linkRegex = new RegExp(WIKILINK_REGEX.source, 'g');
+          let m;
+          let count = 0;
+          const noteLinks = [];
+          while ((m = linkRegex.exec(fullText)) !== null && count < 45) {
+            const target = m[1].trim();
+            if (target && !target.startsWith('Content') && !target.endsWith('.jpg') && !target.endsWith('.png')) {
+              noteLinks.push([item.relPath, target]);
+              count++;
+            }
+          }
+          item.noteLinks = noteLinks;
+
+          if (statusDb[item.relPath]) {
+            item.pageObj.s = statusDb[item.relPath];
+          } else if (fm.status !== undefined) {
+            item.pageObj.s = String(fm.status);
+          }
+          if (fm.type) item.pageObj.t = String(fm.type);
+          if (fm.cluster) {
+            item.pageObj.c = String(fm.cluster);
+          } else if (item.parts.length >= 2 && item.parts[1].startsWith('Cluster ')) {
+            item.pageObj.c = `[[${item.parts[1]}]]`;
+          }
+          if (fm.latin_root) item.pageObj.lr = String(fm.latin_root);
+          if (fm.greek_root) item.pageObj.gr = String(fm.greek_root);
+          if (fm.section) item.pageObj.sec = String(fm.section);
+          if (fm.tags) item.pageObj.tg = Array.isArray(fm.tags) ? fm.tags : [String(fm.tags)];
+          if (fm.aliases) item.pageObj.al = Array.isArray(fm.aliases) ? fm.aliases : [String(fm.aliases)];
+          if (fm.cssclasses) item.pageObj.css = Array.isArray(fm.cssclasses) ? fm.cssclasses : [String(fm.cssclasses)];
+          if (fm.banner) item.pageObj.b = String(fm.banner);
+          if (fm.banner_icon) item.pageObj.bi = String(fm.banner_icon);
+          if (fm.banner_y !== undefined) item.pageObj.by = fm.banner_y;
+        }
+      } catch {
+        // ignore read errors on locked or unreadable files
+      }
+    }
+  }
+
+  const workers = Array.from({ length: CONCURRENCY }, () => worker());
+  await Promise.all(workers);
+
+  // Deterministically append collected core notes
+  for (const item of coreNotesToRead) {
+    pages.push(item.pageObj);
+    if (item.coreText !== undefined) {
+      coreNotes[item.relPath] = item.coreText;
+    }
+    if (item.noteLinks) {
+      for (let i = 0; i < item.noteLinks.length; i++) {
+        rawLinks.push(item.noteLinks[i]);
+      }
+    }
+  }
+
   pages.sort((a, b) => a.p.localeCompare(b.p));
   pageMapByPath.clear();
   for (const p of pages) {
+    if (statusDb[p.p]) p.s = statusDb[p.p];
     pageMapByPath.set(p.p, p);
   }
 
@@ -390,8 +542,8 @@ async function buildVaultIndex(forceRebuild = false) {
 
   vaultIndex = { ...indexPayload, coreNotes };
 
-  await fsp.writeFile(indexCachePath, JSON.stringify(indexPayload), 'utf8');
-  await fsp.writeFile(coreNotesCachePath, JSON.stringify(coreNotes), 'utf8');
+  await writeFileAtomic(indexCachePath, JSON.stringify(indexPayload), 'utf8');
+  await writeFileAtomic(coreNotesCachePath, JSON.stringify(coreNotes), 'utf8');
 
   const elapsed = ((Date.now() - t0) / 1000).toFixed(2);
   console.log(`✅ Indexed ${pages.length.toLocaleString()} notes & ${Object.keys(coreNotes).length} preloaded core notes in ${elapsed}s.`);
@@ -407,30 +559,64 @@ const MIME_TYPES = {
   '.jpeg': 'image/jpeg',
   '.png': 'image/png',
   '.webp': 'image/webp',
+  '.gif': 'image/gif',
   '.svg': 'image/svg+xml',
   '.ico': 'image/x-icon',
+  '.woff': 'font/woff',
+  '.woff2': 'font/woff2',
+  '.ttf': 'font/ttf',
+  '.otf': 'font/otf',
+  '.mp3': 'audio/mpeg',
+  '.wav': 'audio/wav',
+  '.ogg': 'audio/ogg',
+  '.mp4': 'video/mp4',
+  '.webm': 'video/webm',
+  '.txt': 'text/plain; charset=utf-8',
+  '.md': 'text/markdown; charset=utf-8',
   '.webmanifest': 'application/manifest+json'
 };
 
-function sendJson(req, res, status, data) {
-  const json = JSON.stringify(data);
-  const acceptEncoding = req.headers['accept-encoding'] || '';
+function sendJson(req, res, status, data, extraHeaders = {}) {
+  if (res.writableEnded || res.destroyed) return;
+  let json;
+  try {
+    json = JSON.stringify(data);
+  } catch (err) {
+    console.error('Failed to stringify JSON response:', err);
+    json = JSON.stringify({ error: 'Serialization error' });
+    status = 500;
+  }
+
+  const corsHeaders = getCorsHeaders(req);
+  const acceptEncoding = req.headers?.['accept-encoding'] || '';
+
   if (acceptEncoding.includes('gzip') && json.length > 2048) {
     zlib.gzip(Buffer.from(json), (err, compressed) => {
+      if (res.writableEnded || res.destroyed) return;
       if (err) {
-        res.writeHead(status, { 'Content-Type': 'application/json; charset=utf-8', 'Access-Control-Allow-Origin': '*' });
+        console.warn('Gzip compression error in sendJson, falling back to uncompressed:', err.message);
+        res.writeHead(status, {
+          'Content-Type': 'application/json; charset=utf-8',
+          ...corsHeaders,
+          ...extraHeaders
+        });
         res.end(json);
         return;
       }
       res.writeHead(status, {
         'Content-Type': 'application/json; charset=utf-8',
         'Content-Encoding': 'gzip',
-        'Access-Control-Allow-Origin': '*'
+        ...corsHeaders,
+        ...extraHeaders
       });
       res.end(compressed);
     });
   } else {
-    res.writeHead(status, { 'Content-Type': 'application/json; charset=utf-8', 'Access-Control-Allow-Origin': '*' });
+    res.writeHead(status, {
+      'Content-Type': 'application/json; charset=utf-8',
+      ...corsHeaders,
+      ...extraHeaders
+    });
     res.end(json);
   }
 }
@@ -438,13 +624,22 @@ function sendJson(req, res, status, data) {
 function readRequestBody(req) {
   return new Promise((resolve, reject) => {
     const chunks = [];
-    req.on('data', chunk => chunks.push(chunk));
+    let size = 0;
+    req.on('data', chunk => {
+      size += chunk.length;
+      if (size > 25 * 1024 * 1024) { // 25MB safety limit
+        req.destroy(new Error('Payload too large'));
+        reject(new Error('Payload too large'));
+        return;
+      }
+      chunks.push(chunk);
+    });
     req.on('end', () => {
       try {
         const raw = Buffer.concat(chunks).toString('utf8');
         resolve(raw ? JSON.parse(raw) : {});
       } catch (e) {
-        reject(e);
+        reject(new Error('Invalid JSON payload: ' + e.message));
       }
     });
     req.on('error', reject);
@@ -452,17 +647,88 @@ function readRequestBody(req) {
 }
 
 function resolveSafeVaultPath(relPath) {
-  const normalized = String(relPath || '').replace(/\\/g, '/').replace(/^\/+/, '');
-  const topSegment = normalized.split('/')[0];
-  if (EXCLUDED_ROOT_DIRS.has(topSegment)) {
-    throw new Error('Access to excluded directory is forbidden');
+  if (!relPath || typeof relPath !== 'string') {
+    const err = new Error('Invalid path: path must be a non-empty string');
+    err.statusCode = 400;
+    throw err;
   }
-  const absPath = path.resolve(VAULT_ROOT, normalized);
+
+  // 1. Forbid null bytes immediately
+  if (relPath.includes('\0')) {
+    const err = new Error('Invalid path: null bytes are forbidden');
+    err.statusCode = 400;
+    throw err;
+  }
+
+  // 2. Decode URI components safely
+  const decoded = safeUriDecode(relPath).trim();
+  if (decoded.includes('\0')) {
+    const err = new Error('Invalid path: null bytes are forbidden');
+    err.statusCode = 400;
+    throw err;
+  }
+
+  // 3. Normalize slashes and reject drive-letter/UNC paths on Windows
+  let cleaned = decoded.replace(/\\/g, '/');
+  if (/^[a-zA-Z]:/.test(cleaned) || cleaned.startsWith('//')) {
+    const err = new Error('Path traversal forbidden: absolute or drive-specified path');
+    err.statusCode = 403;
+    throw err;
+  }
+
+  // Strip leading slashes
+  cleaned = cleaned.replace(/^\/+/, '');
+
+  // 4. Resolve absolute path strictly within VAULT_ROOT
   const resolvedRoot = path.resolve(VAULT_ROOT);
-  if (!absPath.startsWith(resolvedRoot)) {
-    throw new Error('Path traversal forbidden');
+  const absPath = path.resolve(resolvedRoot, cleaned);
+
+  // 5. Enforce boundary checking with trailing separator
+  const rootWithSep = resolvedRoot.endsWith(path.sep) ? resolvedRoot : resolvedRoot + path.sep;
+  const isWindows = process.platform === 'win32';
+
+  const isWithinVault = isWindows
+    ? (absPath.toLowerCase() === resolvedRoot.toLowerCase() || absPath.toLowerCase().startsWith(rootWithSep.toLowerCase()))
+    : (absPath === resolvedRoot || absPath.startsWith(rootWithSep));
+
+  if (!isWithinVault) {
+    const err = new Error('Path traversal forbidden: outside vault root');
+    err.statusCode = 403;
+    throw err;
   }
-  return { normalized, absPath };
+
+  // 6. Compute exact relative path from VAULT_ROOT
+  const relFromRoot = path.relative(resolvedRoot, absPath).replace(/\\/g, '/');
+  if (relFromRoot.startsWith('..') || path.isAbsolute(relFromRoot)) {
+    const err = new Error('Path traversal forbidden: relative traversal');
+    err.statusCode = 403;
+    throw err;
+  }
+
+  // 7. Check for forbidden/excluded top-level directories & files (case-insensitive)
+  const topSegment = relFromRoot.split('/')[0] || '';
+  if (topSegment && EXCLUDED_ROOT_DIRS_LOWER.has(topSegment.toLowerCase())) {
+    const err = new Error(`Access to excluded directory "${topSegment}" is forbidden`);
+    err.statusCode = 403;
+    throw err;
+  }
+  if (relFromRoot && EXCLUDED_ROOT_FILES_LOWER.has(relFromRoot.toLowerCase())) {
+    const err = new Error(`Access to excluded file "${relFromRoot}" is forbidden`);
+    err.statusCode = 403;
+    throw err;
+  }
+
+  // 8. Reject DOS reserved device names
+  const segments = relFromRoot.split('/');
+  for (const seg of segments) {
+    if (DOS_DEVICE_REGEX.test(seg)) {
+      const err = new Error(`Invalid path: "${seg}" is a reserved system device name`);
+      err.statusCode = 400;
+      throw err;
+    }
+  }
+
+  return { normalized: relFromRoot, absPath };
 }
 
 /* ============================================================================
@@ -492,13 +758,17 @@ function renamePathInIndex(from, to) {
     if (match(link[0])) link[0] = remap(link[0]);
     if (link[1] === from) link[1] = to;
   }
+  let statusChanged = false;
   for (const key of Object.keys(statusDb)) {
     if (match(key)) {
       statusDb[remap(key)] = statusDb[key];
       delete statusDb[key];
+      statusChanged = true;
     }
   }
-  saveStatusDb();
+  if (statusChanged) {
+    return saveStatusDb();
+  }
 }
 
 function removePathFromIndex(target) {
@@ -515,10 +785,16 @@ function removePathFromIndex(target) {
   vaultIndex.links = vaultIndex.links.filter(l =>
     !(isFolder ? l[0].startsWith(prefix) : l[0] === target)
   );
+  let statusChanged = false;
   for (const key of Object.keys(statusDb)) {
-    if (isFolder ? key.startsWith(prefix) : key === target) delete statusDb[key];
+    if (isFolder ? key.startsWith(prefix) : key === target) {
+      delete statusDb[key];
+      statusChanged = true;
+    }
   }
-  saveStatusDb();
+  if (statusChanged) {
+    return saveStatusDb();
+  }
 }
 
 function addPathToIndex(normalized, content) {
@@ -535,25 +811,42 @@ function addPathToIndex(normalized, content) {
 
 let indexRebuildTimer = null;
 let indexRebuildRunning = false;
+let indexRebuildPending = false;
 
 /**
  * Structural changes (create/rename/delete) or external disk edits mutate the in-memory index,
  * with debounced full rebuild to refresh the on-disk cache.
+ * Uses a state machine (running + pending flag) to guarantee:
+ * 1. Debouncing of rapid bursts of events
+ * 2. Never running overlapping index builds
+ * 3. Never dropping change events that arrive while an index build is in progress
  */
-function scheduleIndexRebuild() {
+function scheduleIndexRebuild(delay = 1200) {
   clearTimeout(indexRebuildTimer);
-  indexRebuildTimer = setTimeout(async () => {
-    if (indexRebuildRunning) return;
-    indexRebuildRunning = true;
-    try {
-      await buildVaultIndex(true);
-      console.log('♻️  Vault index rebuilt after vault change.');
-    } catch (e) {
-      console.warn('Index rebuild failed:', e.message);
-    } finally {
-      indexRebuildRunning = false;
-    }
-  }, 1200);
+  indexRebuildTimer = setTimeout(() => {
+    (async () => {
+      if (indexRebuildRunning) {
+        indexRebuildPending = true;
+        return;
+      }
+      indexRebuildRunning = true;
+      indexRebuildPending = false;
+      try {
+        await buildVaultIndex(true);
+        console.log('♻️  Vault index rebuilt after vault change.');
+      } catch (e) {
+        console.warn('Index rebuild failed:', e.message);
+      } finally {
+        indexRebuildRunning = false;
+        if (indexRebuildPending) {
+          indexRebuildPending = false;
+          scheduleIndexRebuild(500);
+        }
+      }
+    })().catch(err => {
+      console.warn('scheduleIndexRebuild background error:', err.message);
+    });
+  }, delay);
 }
 
 /**
@@ -567,7 +860,18 @@ function setupVaultWatcher() {
       if (!filename) return;
       const normalized = filename.replace(/\\/g, '/');
       if (normalized.startsWith('.') || normalized.includes('/.') || normalized.startsWith('_')) return;
-      if (!normalized.endsWith('.md') && !normalized.endsWith('.json')) return;
+
+      const topSegment = normalized.split('/')[0];
+      const topSegmentLower = topSegment.toLowerCase();
+      if (EXCLUDED_ROOT_DIRS.has(topSegment) || EXCLUDED_ROOT_DIRS_LOWER.has(topSegmentLower)) return;
+      if (EXCLUDED_ROOT_FILES.has(normalized) || EXCLUDED_ROOT_FILES_LOWER.has(normalized.toLowerCase())) return;
+
+      const isMd = normalized.endsWith('.md');
+      const isJson = normalized.endsWith('.json');
+      const isDirChange = !path.extname(normalized);
+
+      if (!isMd && !isJson && !isDirChange) return;
+
       console.log(`📡 Vault change detected [${eventType}]: ${normalized}`);
       scheduleIndexRebuild();
     });
@@ -592,27 +896,39 @@ async function startServer() {
   setupVaultWatcher();
 
   // Initialize Bi-directional Git Auto-Sync Engine
-  await gitSync.init(VAULT_ROOT, {
-    onNewCommits: () => {
-      console.log('🔄 Rebuilding vault index after Git pull...');
-      scheduleIndexRebuild();
-    }
-  });
+  try {
+    await gitSync.init(VAULT_ROOT, {
+      onNewCommits: () => {
+        console.log('🔄 Rebuilding vault index after Git pull...');
+        scheduleIndexRebuild();
+      }
+    });
+  } catch (gitErr) {
+    console.warn('⚠️ Git Auto-Sync initialization notice:', gitErr.message);
+  }
 
   const server = http.createServer(async (req, res) => {
+    req.on('error', (err) => {
+      console.warn('HTTP request stream error:', err.message);
+    });
+    res.on('error', (err) => {
+      console.warn('HTTP response stream error:', err.message);
+    });
+
     try {
       if (req.method === 'OPTIONS') {
-        res.writeHead(204, {
-          'Access-Control-Allow-Origin': '*',
-          'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE, OPTIONS',
-          'Access-Control-Allow-Headers': 'Content-Type'
-        });
+        res.writeHead(204, getCorsHeaders(req));
         res.end();
         return;
       }
 
       const urlObj = new URL(req.url, `http://${req.headers.host || 'localhost'}`);
-      const pathname = decodeURIComponent(urlObj.pathname);
+      let pathname = urlObj.pathname;
+      try {
+        pathname = decodeURIComponent(urlObj.pathname);
+      } catch {
+        // Fallback to raw pathname if decodeURIComponent fails
+      }
 
       // Auth Guard: Protect all /api/* endpoints (except auth routes) if AUTH_TOKEN is set
       if (AUTH_TOKEN && pathname.startsWith('/api/') && !pathname.startsWith('/api/auth/')) {
@@ -644,9 +960,11 @@ async function startServer() {
         const body = await readRequestBody(req);
         const inputPass = String(body.password || body.token || '').trim();
         if (!AUTH_TOKEN || inputPass === AUTH_TOKEN) {
+          const corsHeaders = getCorsHeaders(req);
           res.writeHead(200, {
-            'Content-Type': 'application/json',
-            'Set-Cookie': `auth_token=${encodeURIComponent(AUTH_TOKEN || 'open')}; Path=/; HttpOnly; SameSite=Lax; Max-Age=31536000`
+            'Content-Type': 'application/json; charset=utf-8',
+            'Set-Cookie': `auth_token=${encodeURIComponent(AUTH_TOKEN || 'open')}; Path=/; HttpOnly; SameSite=Lax; Max-Age=31536000`,
+            ...corsHeaders
           });
           res.end(JSON.stringify({ ok: true, token: AUTH_TOKEN || 'open' }));
         } else {
@@ -681,7 +999,8 @@ async function startServer() {
 
       // 2. API: Read Single Note Content
       if (pathname === '/api/note' && req.method === 'GET') {
-        const relQuery = urlObj.searchParams.get('path') || '00 Language Hub.md';
+        const rawQuery = urlObj.searchParams.get('path');
+        const relQuery = rawQuery ? safeUriDecode(rawQuery) : '00 Language Hub.md';
         const { normalized, absPath } = resolveSafeVaultPath(relQuery);
         if (!fs.existsSync(absPath)) {
           sendJson(req, res, 404, { error: `Note not found: ${normalized}` });
@@ -701,7 +1020,9 @@ async function startServer() {
       // 3. API: Update Frontmatter (e.g. Apple 3-state status toggle or Meta Bind)
       if (pathname === '/api/frontmatter' && req.method === 'POST') {
         const body = await readRequestBody(req);
-        const { path: relQuery, updates } = body;
+        const { path: rawPath, updates } = body;
+        if (!rawPath) throw new Error('Path is required');
+        const relQuery = safeUriDecode(rawPath);
         const { normalized, absPath } = resolveSafeVaultPath(relQuery);
         if (!fs.existsSync(absPath)) {
           sendJson(req, res, 404, { error: `Note not found: ${normalized}` });
@@ -716,7 +1037,7 @@ async function startServer() {
           if (updates.status !== undefined) {
             pageEntry.s = String(updates.status);
             statusDb[normalized] = String(updates.status);
-            await saveStatusDb();
+            saveStatusDb().catch(e => console.warn('Failed to save status DB:', e.message));
           }
           if (updates.tags !== undefined) pageEntry.tg = Array.isArray(updates.tags) ? updates.tags : [String(updates.tags)];
         }
@@ -732,7 +1053,9 @@ async function startServer() {
       // 4. API: Save / Create / Edit Note Content
       if (pathname === '/api/note' && req.method === 'POST') {
         const body = await readRequestBody(req);
-        const { path: relQuery, content, append } = body;
+        const { path: rawPath, content, append } = body;
+        if (!rawPath) throw new Error('Path is required');
+        const relQuery = safeUriDecode(rawPath);
         const { normalized, absPath } = resolveSafeVaultPath(relQuery);
         await fsp.mkdir(path.dirname(absPath), { recursive: true });
 
@@ -754,7 +1077,7 @@ async function startServer() {
         if (fm.status) {
           pageEntry.s = String(fm.status);
           statusDb[normalized] = String(fm.status);
-          await saveStatusDb();
+          saveStatusDb().catch(e => console.warn('Failed to save status DB:', e.message));
         }
         if (fm.tags) pageEntry.tg = Array.isArray(fm.tags) ? fm.tags : [String(fm.tags)];
         vaultIndex.coreNotes[normalized] = sanitizeNoteContent(normalized, finalContent);
@@ -766,13 +1089,21 @@ async function startServer() {
 
       // 5. API: Delete Note OR Folder (recursive)
       if (pathname === '/api/note' && req.method === 'DELETE') {
-        const relQuery = urlObj.searchParams.get('path');
+        const rawQuery = urlObj.searchParams.get('path');
+        if (!rawQuery) {
+          const err = new Error('Path parameter is required');
+          err.statusCode = 400;
+          throw err;
+        }
+        const relQuery = safeUriDecode(rawQuery);
         const isFolder = urlObj.searchParams.get('type') === 'folder';
         const { normalized, absPath } = resolveSafeVaultPath(relQuery);
         if (fs.existsSync(absPath)) {
           if (isFolder) {
-            if (PROTECTED_ROOT_FOLDERS.has(normalized)) {
-              throw new Error(`"${normalized}" is protected vault structure and cannot be deleted`);
+            if (!normalized || normalized === '.' || PROTECTED_ROOT_FOLDERS_LOWER.has(normalized.toLowerCase())) {
+              const err = new Error(`"${normalized || 'Root'}" is protected vault structure and cannot be deleted`);
+              err.statusCode = 403;
+              throw err;
             }
             await fsp.rm(absPath, { recursive: true, force: true });
           } else {
@@ -793,7 +1124,9 @@ async function startServer() {
       // 5b. API: Create Note or Folder
       if (pathname === '/api/create' && req.method === 'POST') {
         const body = await readRequestBody(req);
-        const { path: relPath, content = '', isFolder = false } = body;
+        const { path: rawPath, content = '', isFolder = false } = body;
+        if (!rawPath) throw new Error('Path is required');
+        const relPath = safeUriDecode(rawPath);
         const { normalized, absPath } = resolveSafeVaultPath(relPath);
         if (!normalized || normalized.endsWith('/')) throw new Error('Invalid path');
         if (fs.existsSync(absPath)) {
@@ -816,9 +1149,17 @@ async function startServer() {
       // 5c. API: Rename / Move Note or Folder (drag & drop uses this too)
       if (pathname === '/api/rename' && req.method === 'POST') {
         const body = await readRequestBody(req);
-        const from = resolveSafeVaultPath(body.from);
-        const to = resolveSafeVaultPath(body.to);
+        if (!body || !body.from || !body.to) throw new Error('Both "from" and "to" paths are required');
+        const fromQuery = safeUriDecode(body.from);
+        const toQuery = safeUriDecode(body.to);
+        const from = resolveSafeVaultPath(fromQuery);
+        const to = resolveSafeVaultPath(toQuery);
         if (!from.normalized || !to.normalized) throw new Error('Invalid paths');
+        if (PROTECTED_ROOT_FOLDERS_LOWER.has(from.normalized.toLowerCase())) {
+          const err = new Error(`Cannot rename protected root folder "${from.normalized}"`);
+          err.statusCode = 403;
+          throw err;
+        }
         if (!fs.existsSync(from.absPath)) {
           sendJson(req, res, 404, { error: `Not found: ${from.normalized}` });
           return;
@@ -828,8 +1169,10 @@ async function startServer() {
           return;
         }
         // Block moving a folder into its own subtree
-        if (to.normalized.startsWith(from.normalized + '/')) {
-          throw new Error('Cannot move a folder into itself');
+        if (to.normalized.toLowerCase().startsWith(from.normalized.toLowerCase() + '/')) {
+          const err = new Error('Cannot move a folder into itself');
+          err.statusCode = 400;
+          throw err;
         }
         await fsp.mkdir(path.dirname(to.absPath), { recursive: true });
         await fsp.rename(from.absPath, to.absPath);
@@ -842,19 +1185,38 @@ async function startServer() {
 
       // 6. API: Serve Vault Images / Banners
       if (pathname === '/api/asset' && req.method === 'GET') {
-        const relQuery = urlObj.searchParams.get('path') || '';
+        const rawQuery = urlObj.searchParams.get('path') || '';
+        const relQuery = safeUriDecode(rawQuery);
+        if (!relQuery) {
+          sendJson(req, res, 400, { error: 'Path parameter required' });
+          return;
+        }
         const { absPath } = resolveSafeVaultPath(relQuery);
         if (fs.existsSync(absPath) && fs.statSync(absPath).isFile()) {
           const ext = path.extname(absPath).toLowerCase();
+          const contentType = MIME_TYPES[ext] || 'application/octet-stream';
+          const corsHeaders = getCorsHeaders(req);
           res.writeHead(200, {
-            'Content-Type': MIME_TYPES[ext] || 'application/octet-stream',
-            'Cache-Control': 'public, max-age=3600'
+            'Content-Type': contentType,
+            'Cache-Control': 'public, max-age=3600',
+            ...corsHeaders
           });
-          fs.createReadStream(absPath).pipe(res);
+          const stream = fs.createReadStream(absPath);
+          stream.on('error', (err) => {
+            console.warn('Asset read stream error:', err.message);
+            if (!res.headersSent) {
+              sendJson(req, res, 500, { error: 'Failed to read asset' });
+            } else if (!res.writableEnded) {
+              res.end();
+            }
+          });
+          res.on('close', () => {
+            stream.destroy();
+          });
+          stream.pipe(res);
           return;
         }
-        res.writeHead(404);
-        res.end('Asset not found');
+        sendJson(req, res, 404, { error: 'Asset not found' });
         return;
       }
 
@@ -931,50 +1293,105 @@ async function startServer() {
         const xml = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n` +
           urls.map(u => `  <url><loc>${u.replace(/&/g, '&amp;')}</loc></url>`).join('\n') +
           `\n</urlset>`;
-        res.writeHead(200, { 'Content-Type': 'application/xml; charset=utf-8' });
+        const corsHeaders = getCorsHeaders(req);
+        res.writeHead(200, { 'Content-Type': 'application/xml; charset=utf-8', ...corsHeaders });
         res.end(xml);
         return;
       }
 
       // 9. Static Files from public/
       let filePath = path.join(PUBLIC_DIR, pathname === '/' ? 'index.html' : pathname);
-      if (!filePath.startsWith(PUBLIC_DIR)) {
-        res.writeHead(403);
+      const resolvedPublic = path.resolve(PUBLIC_DIR);
+      const resolvedPublicWithSep = resolvedPublic.endsWith(path.sep) ? resolvedPublic : resolvedPublic + path.sep;
+      const absFilePath = path.resolve(filePath);
+
+      const isSubOfPublic = process.platform === 'win32'
+        ? (absFilePath.toLowerCase() === resolvedPublic.toLowerCase() || absFilePath.toLowerCase().startsWith(resolvedPublicWithSep.toLowerCase()))
+        : (absFilePath === resolvedPublic || absFilePath.startsWith(resolvedPublicWithSep));
+
+      if (!isSubOfPublic) {
+        const cors = getCorsHeaders(req);
+        res.writeHead(403, { 'Content-Type': 'text/plain; charset=utf-8', ...cors });
         res.end('Forbidden');
         return;
       }
-      if (fs.existsSync(filePath) && fs.statSync(filePath).isDirectory()) {
-        filePath = path.join(filePath, 'index.html');
+
+      let targetPath = absFilePath;
+      if (fs.existsSync(targetPath) && fs.statSync(targetPath).isDirectory()) {
+        targetPath = path.join(targetPath, 'index.html');
       }
-      if (!fs.existsSync(filePath)) {
-        filePath = path.join(PUBLIC_DIR, 'index.html');
+      if (!fs.existsSync(targetPath)) {
+        targetPath = path.join(PUBLIC_DIR, 'index.html');
       }
 
-      const ext = path.extname(filePath).toLowerCase();
+      if (!fs.existsSync(targetPath)) {
+        sendJson(req, res, 404, { error: 'Not found' });
+        return;
+      }
+
+      const ext = path.extname(targetPath).toLowerCase();
       const contentType = MIME_TYPES[ext] || 'application/octet-stream';
-      const rawBuf = await fsp.readFile(filePath);
-      const acceptEncoding = req.headers['accept-encoding'] || '';
-      // Dev-friendly: always revalidate app source so edits show up on reload
+      const corsHeaders = getCorsHeaders(req);
       const revalidate = ext === '.html' || ext === '.js' || ext === '.mjs' || ext === '.css';
       const cacheControl = revalidate ? 'no-cache' : 'public, max-age=3600';
 
-      if (acceptEncoding.includes('gzip') && rawBuf.length > 2048 && (ext === '.json' || ext === '.js' || ext === '.css' || ext === '.html')) {
+      let rawBuf;
+      try {
+        rawBuf = await fsp.readFile(targetPath);
+      } catch (readErr) {
+        console.warn(`Failed to read static file ${targetPath}:`, readErr.message);
+        sendJson(req, res, 500, { error: 'Failed to read file' });
+        return;
+      }
+
+      const acceptEncoding = req.headers?.['accept-encoding'] || '';
+      const canGzip = acceptEncoding.includes('gzip') && rawBuf.length > 2048 &&
+        (ext === '.json' || ext === '.js' || ext === '.mjs' || ext === '.css' || ext === '.html' || ext === '.svg');
+
+      const responseHeaders = {
+        'Content-Type': contentType,
+        'Cache-Control': cacheControl,
+        ...corsHeaders
+      };
+
+      if (canGzip) {
         zlib.gzip(rawBuf, (err, compressed) => {
+          if (res.writableEnded || res.destroyed) return;
           if (err) {
-            res.writeHead(200, { 'Content-Type': contentType, 'Cache-Control': cacheControl });
+            console.warn('Gzip static error, falling back to raw:', err.message);
+            res.writeHead(200, responseHeaders);
             res.end(rawBuf);
             return;
           }
-          res.writeHead(200, { 'Content-Type': contentType, 'Content-Encoding': 'gzip', 'Cache-Control': cacheControl });
+          res.writeHead(200, {
+            ...responseHeaders,
+            'Content-Encoding': 'gzip'
+          });
           res.end(compressed);
         });
       } else {
-        res.writeHead(200, { 'Content-Type': contentType, 'Cache-Control': cacheControl });
+        res.writeHead(200, responseHeaders);
         res.end(rawBuf);
       }
     } catch (err) {
-      console.error('Server error:', err);
-      sendJson(req, res, 500, { error: err.message || 'Internal Server Error' });
+      console.error(`[HTTP ${req.method} ${req.url}] Server error:`, err.message);
+      if (res.headersSent || res.writableEnded) {
+        try { res.end(); } catch { /* ignore */ }
+        return;
+      }
+      let status = 500;
+      if (err.statusCode) {
+        status = err.statusCode;
+      } else if (/forbidden/i.test(err.message)) {
+        status = 403;
+      } else if (/invalid path|bad request|null byte|required/i.test(err.message)) {
+        status = 400;
+      } else if (/not found/i.test(err.message)) {
+        status = 404;
+      } else if (/already exists/i.test(err.message)) {
+        status = 409;
+      }
+      sendJson(req, res, status, { error: err.message || 'Internal Server Error' });
     }
   });
 

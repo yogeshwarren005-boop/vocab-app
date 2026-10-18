@@ -1,6 +1,6 @@
 {
   "name": "vocab-app",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Mobile-First Vocab App with Multi-Provider Firebase Auth, Animated Vector Avatars, and Real-Time Cloud Firestore Tracking",
   "type": "module",
   "scripts": {

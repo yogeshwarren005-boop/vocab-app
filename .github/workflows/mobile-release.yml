@@ -52,6 +52,13 @@ jobs:
           npm run build
           npx cap sync android
 
+      - name: Deploy Firebase Hosting Web App
+        run: |
+          echo '${{ secrets.FIREBASE_SERVICE_ACCOUNT }}' > service-account.json
+          export GOOGLE_APPLICATION_CREDENTIALS="$(pwd)/service-account.json"
+          firebase deploy --only hosting --non-interactive
+          rm service-account.json
+
       - name: Decode Persistent Android Keystore & Build Signed APK
         env:
           KEYSTORE_BASE64: ${{ secrets.KEYSTORE_BASE64 }}

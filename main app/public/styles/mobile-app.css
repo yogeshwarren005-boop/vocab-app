@@ -1366,6 +1366,487 @@ html, body {
   border-color: var(--web-error, #FF375F);
 }
 
+/* ==========================================================================
+   ULTRA-CLEAN WORD CARD LAYOUT & ROOT DASHBOARD KEYSTONE
+   ========================================================================== */
+
+/* Clean reading container */
+.clean-reading-feed .tiktok-slide {
+  padding: 16px 18px calc(var(--mobile-tab-height) + var(--safe-bottom) + 24px) 18px;
+}
+
+/* Root Dashboard Keystone Banner — Displays full root etymology & morphology context */
+.card-root-keystone {
+  background: linear-gradient(135deg, rgba(212, 163, 89, 0.12) 0%, var(--web-surface-2) 100%);
+  border: 1.5px solid rgba(212, 163, 89, 0.4);
+  border-radius: var(--app-radius-md);
+  padding: 12px 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  user-select: none;
+}
+
+.card-root-keystone:active {
+  transform: scale(0.985);
+  border-color: var(--web-accent);
+}
+
+.root-keystone-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.root-discipline-tag {
+  font-size: 10px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  color: var(--web-accent);
+  background: var(--web-accent-muted);
+  padding: 2px 8px;
+  border-radius: var(--app-radius-full);
+}
+
+.root-script {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 13.5px;
+  font-weight: 700;
+  color: var(--web-text-primary);
+  letter-spacing: 0.2px;
+}
+
+.root-cluster-tag {
+  font-size: 11px;
+  color: var(--web-text-muted);
+  font-weight: 600;
+}
+
+.root-meaning-row {
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+  font-size: 13.5px;
+  color: var(--web-text-primary);
+}
+
+.root-meaning-label {
+  font-size: 11px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  color: var(--web-accent);
+}
+
+.root-meaning-val {
+  font-weight: 700;
+  color: var(--web-text-primary);
+}
+
+.root-anchor-text {
+  font-size: 11.5px;
+  color: var(--web-text-secondary);
+  line-height: 1.45;
+  border-top: 1px dashed var(--web-border-subtle);
+  padding-top: 5px;
+}
+
+.root-view-cta-link {
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--web-accent);
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  margin-top: 2px;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+/* Ultra-Clean Card Surface */
+.clean-card-surface {
+  background: var(--web-surface-1);
+  border: 1px solid var(--web-border);
+  border-radius: var(--app-radius-lg);
+  padding: 18px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.12);
+}
+
+/* Word Title & Action Button Group Header */
+.clean-word-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+  border-bottom: 1px solid var(--web-border-subtle);
+  padding-bottom: 12px;
+}
+
+.clean-word-title-group {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.clean-word-title {
+  font-size: 32px;
+  font-weight: 900;
+  color: var(--web-text-primary);
+  line-height: 1.15;
+  letter-spacing: -0.5px;
+}
+
+.clean-pos-badge {
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--web-text-muted);
+  background: var(--web-surface-2);
+  padding: 3px 8px;
+  border-radius: var(--app-radius-full);
+  border: 1px solid var(--web-border-subtle);
+}
+
+.clean-buttons-group {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.clean-pronounce-btn {
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  background: var(--web-surface-2);
+  border: 1.5px solid var(--web-border);
+  color: var(--web-text-primary);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 16px;
+  transition: all 0.15s ease;
+}
+
+.clean-pronounce-btn:active {
+  transform: scale(0.9);
+  background: var(--web-accent);
+  color: #fff;
+}
+
+.clean-pronounce-btn.speaking {
+  background: rgba(10, 132, 255, 0.16) !important;
+  border-color: var(--web-accent, #0a84ff) !important;
+  color: var(--web-accent, #0a84ff) !important;
+  box-shadow: 0 0 14px rgba(10, 132, 255, 0.45);
+  animation: pronounce-pulse 1.1s infinite ease-in-out;
+}
+
+/* Full Notes Body (Full Definitions, Full Example Phrases, Full Syntactics) */
+.clean-notes-body {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  line-height: 1.6;
+}
+
+/* Definitions Callout Box */
+.clean-def-card {
+  background: var(--web-surface-2);
+  border: 1px solid var(--web-border);
+  border-radius: var(--app-radius-md);
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.clean-def-heading {
+  font-size: 11px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  color: var(--web-text-muted);
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.clean-def-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.clean-def-item {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  font-size: 15.5px;
+  color: var(--web-text-primary);
+  line-height: 1.55;
+}
+
+.clean-def-label {
+  font-size: 11px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--web-accent);
+}
+
+.clean-def-text {
+  font-size: 15px;
+  color: var(--web-text-primary);
+}
+
+/* Full Authentic Example Phrases & Citations */
+.clean-quotes-card {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.clean-quotes-heading {
+  font-size: 11px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  color: var(--web-text-muted);
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.clean-quote-bubble {
+  border-left: 3.5px solid var(--web-accent);
+  background: var(--web-accent-muted);
+  padding: 12px 14px;
+  border-radius: 0 var(--app-radius-md) var(--app-radius-md) 0;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.clean-quote-text {
+  font-size: 14.5px;
+  font-style: italic;
+  color: var(--web-text-primary);
+  line-height: 1.6;
+}
+
+.clean-quote-author {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--web-accent);
+  font-style: normal;
+}
+
+/* Syntactic & Grammatical Application Box */
+.clean-usage-card {
+  background: var(--web-surface-2);
+  border: 1px solid var(--web-border-subtle);
+  border-radius: var(--app-radius-md);
+  padding: 14px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.clean-usage-heading {
+  font-size: 11px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  color: var(--web-text-muted);
+}
+
+.clean-usage-item {
+  font-size: 13px;
+  color: var(--web-text-secondary);
+  line-height: 1.5;
+}
+
+.clean-usage-item strong {
+  color: var(--web-text-primary);
+}
+
+/* Natural swipe indicator cue */
+.clean-swipe-cue {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--web-text-muted);
+  margin-top: 6px;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  opacity: 0.6;
+}
+
+/* ==========================================================================
+   TAB 1: DASHBOARDS & ROOT EXPLORER HUB
+   ========================================================================== */
+.dashboards-search-container {
+  margin: 16px 0 12px 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.dashboards-search-box {
+  display: flex;
+  align-items: center;
+  background: var(--web-surface-1);
+  border: 1px solid var(--web-border);
+  border-radius: var(--app-radius-full);
+  padding: 10px 16px;
+  gap: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.dashboards-search-box input {
+  flex: 1;
+  background: transparent;
+  border: none;
+  outline: none;
+  font-size: 14px;
+  color: var(--web-text-primary);
+  font-family: inherit;
+}
+
+.dashboards-search-box input::placeholder {
+  color: var(--web-text-muted);
+}
+
+.dashboards-filter-chips {
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  padding-bottom: 4px;
+  scrollbar-width: none;
+}
+
+.dashboards-filter-chips::-webkit-scrollbar {
+  display: none;
+}
+
+.root-dashboards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 12px;
+  margin-top: 14px;
+}
+
+.root-dashboard-card {
+  background: var(--web-surface-1);
+  border: 1px solid var(--web-border);
+  border-radius: var(--app-radius-md);
+  padding: 14px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  position: relative;
+}
+
+.root-dashboard-card:hover {
+  border-color: var(--web-accent);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.15);
+}
+
+.root-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.root-card-name {
+  font-size: 17px;
+  font-weight: 800;
+  color: var(--web-text-primary);
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+}
+
+.root-card-script {
+  font-family: Georgia, serif;
+  font-size: 13px;
+  font-weight: 400;
+  color: var(--web-text-secondary);
+}
+
+.root-card-meaning {
+  font-size: 13.5px;
+  font-weight: 600;
+  color: var(--web-text-primary);
+  line-height: 1.4;
+}
+
+.root-card-anchor {
+  font-size: 12px;
+  color: var(--web-text-muted);
+  line-height: 1.4;
+}
+
+.root-card-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 4px;
+  padding-top: 8px;
+  border-top: 1px solid var(--web-border-subtle);
+  font-size: 11.5px;
+}
+
+.root-card-words-badge {
+  background: var(--web-surface-2);
+  color: var(--web-text-secondary);
+  padding: 2px 8px;
+  border-radius: var(--app-radius-full);
+  font-weight: 700;
+}
+
+.root-card-actions {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.root-card-study-btn {
+  background: var(--web-accent);
+  color: #fff;
+  border: none;
+  border-radius: var(--app-radius-full);
+  padding: 4px 10px;
+  font-size: 11px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: transform 0.12s ease;
+}
+
+.root-card-study-btn:active {
+  transform: scale(0.92);
+}
+
 /* Card List Mode */
 .cards-list-container {
   flex: 1;

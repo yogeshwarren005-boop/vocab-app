@@ -38,6 +38,11 @@ class MobileVocabApp {
     this.homeStack = []; // Stack of { path, title, isHomeRoot }
     this.currentHomeNote = null;
 
+    // Root & Cluster Dashboards Store (Loaded from data/root-dashboards.json)
+    this.rootDashboardsDb = {};
+    this.dashboardsFilterCategory = 'all';
+    this.dashboardsSearchQuery = '';
+
     // Word Cards State (TikTok-Style Vertical Swipable Feed)
     this.feedWordIndex = 0;
     this.returnToFeedIndex = 0;
@@ -411,6 +416,16 @@ class MobileVocabApp {
     } catch (e) {
       console.warn('Could not load vault-index.json', e);
     }
+
+    try {
+      // 4. Fetch pre-bundled root & cluster dashboards directory
+      const dashRes = await fetch('data/root-dashboards.json');
+      if (dashRes.ok) {
+        this.rootDashboardsDb = await dashRes.json();
+      }
+    } catch (e) {
+      console.warn('Could not load root-dashboards.json', e);
+    }
   }
 
   /* ========================================================================
@@ -516,21 +531,55 @@ class MobileVocabApp {
   }
 
   findRootDashboardForWord(wordPath) {
+    if (!wordPath) return null;
     const parts = wordPath.split('/');
     const dashPart = parts.find(p => /^Dashboard\s*[—–-]/i.test(p));
+    let cleanRoot = '';
     if (dashPart) {
-      const cleanRoot = dashPart.replace(/^Dashboard\s*[—–-]\s*/i, '').trim();
-      // Match candidate root dashboard note in vault index
+      cleanRoot = dashPart.replace(/^Dashboard\s*[—–-]\s*/i, '').trim().toLowerCase();
+    } else {
+      const clusterPart = parts.find(p => p.startsWith('Cluster '));
+      if (clusterPart) {
+        cleanRoot = clusterPart.replace(/^Cluster\s+/i, '').trim().toLowerCase();
+      }
+    }
+
+    if (cleanRoot && this.rootDashboardsDb && this.rootDashboardsDb[cleanRoot]) {
+      return this.rootDashboardsDb[cleanRoot];
+    }
+
+    // Secondary scan across rootDashboardsDb
+    if (this.rootDashboardsDb) {
+      for (const k in this.rootDashboardsDb) {
+        const rd = this.rootDashboardsDb[k];
+        if (rd.path && wordPath.startsWith(rd.path.slice(0, rd.path.lastIndexOf('/') + 1))) {
+          return rd;
+        }
+      }
+    }
+
+    // Fallback lookup in vaultIndex
+    if (cleanRoot) {
       const match = (this.vaultIndex.pages || []).find(p => {
         if (p.t === 'root_dashboard' || /^Dashboard\s*[—–-]/i.test(p.p.split('/').pop())) {
           const pFn = p.p.split('/').pop().replace(/\.md$/i, '');
-          const pRoot = pFn.replace(/^Dashboard\s*[—–-]\s*/i, '').trim();
-          return pRoot.toLowerCase() === cleanRoot.toLowerCase();
+          const pRoot = pFn.replace(/^Dashboard\s*[—–-]\s*/i, '').replace(/^Cluster\s+/i, '').trim().toLowerCase();
+          return pRoot === cleanRoot;
         }
         return false;
       });
       if (match) {
-        return { path: match.p, title: match.p.split('/').pop().replace(/\.md$/i, '') };
+        return {
+          root: cleanRoot,
+          path: match.p,
+          title: match.p.split('/').pop().replace(/\.md$/i, ''),
+          category: match.p.startsWith('Greek') ? 'greek' : match.p.startsWith('Latin') ? 'latin' : 'vocab',
+          cluster: match.c ? match.c.replace(/^\[\[|\]\]$/g, '') : '',
+          meaning: '',
+          script: '',
+          anchor: '',
+          wordCount: 1
+        };
       }
     }
     return null;
@@ -651,10 +700,14 @@ class MobileVocabApp {
     this.cardsSearchQuery = '';
     this.feedWordIndex = 0;
 
-    const searchInput = document.getElementById('cards-search-input');
-    if (searchInput) searchInput.value = '';
-    document.querySelectorAll('#cards-category-chips .filter-chip').forEach(c => c.classList.toggle('active', c.dataset.cat === 'all'));
-    document.querySelectorAll('#cards-status-chips .filter-chip').forEach(c => c.classList.toggle('active', c.dataset.status === 'all'));
+    const banner = document.getElementById('cards-scope-banner');
+    const scopeText = document.getElementById('scope-banner-text');
+    if (banner) {
+      banner.style.display = 'flex';
+      if (scopeText) {
+        scopeText.innerHTML = `🔒 <strong>Locked:</strong> ${escapeHtml(scope.title)} <span style="opacity:0.85;">(${scope.words.length} derived words)</span>`;
+      }
+    }
 
     this.switchTab('cards');
     this.cardsViewMode = 'feed';
@@ -814,7 +867,7 @@ class MobileVocabApp {
     if (this.activeTab === 'home') {
       if (this.homeStack.length > 0) {
         backBtn.style.display = 'inline-flex';
-        let crumbsHtml = `<span class="crumb-link" data-depth="-1">Home</span>`;
+        let crumbsHtml = `<span class="crumb-link" data-depth="-1">Dashboards</span>`;
         for (let i = 0; i < this.homeStack.length; i++) {
           const item = this.homeStack[i];
           const isLast = i === this.homeStack.length - 1;
@@ -848,12 +901,12 @@ class MobileVocabApp {
         }
       } else {
         backBtn.style.display = 'none';
-        breadcrumbs.innerHTML = `<span class="crumb-active">🏛️ Pure Vocabulary Vault</span>`;
+        breadcrumbs.innerHTML = `<span class="crumb-active">🏛️ Classical Dashboards & Root Hub</span>`;
         statusBadge.style.display = 'none';
       }
     } else if (this.activeTab === 'cards') {
       backBtn.style.display = 'none';
-      breadcrumbs.innerHTML = `<span class="crumb-active">📱 Word Feed (${this.filteredCards.length.toLocaleString()})</span>`;
+      breadcrumbs.innerHTML = `<span class="crumb-active">📖 Word Card</span>`;
       statusBadge.style.display = 'none';
     } else if (this.activeTab === 'daily') {
       backBtn.style.display = 'none';
@@ -905,136 +958,121 @@ class MobileVocabApp {
 
     rootCard.innerHTML = `
       <div class="home-hero-card">
-        <div class="home-hero-pre">PURE VOCABULARY & CLASSICAL MORPHOLOGY</div>
-        <div class="home-hero-title">Unified Vocabulary Vault</div>
-        <div class="home-hero-subtitle">Master classical Greek & Latin roots, evocative non-classical English, and essential morphological dashboards.</div>
+        <div class="home-hero-pre">CLASSICAL MORPHOLOGY &amp; VOCABULARY DASHBOARDS</div>
+        <div class="home-hero-title">Master Dashboards Hub</div>
+        <div class="home-hero-subtitle">Explore 810 Greek root dashboards, 782 Latin root dashboards, and 30 Vocab Master clusters with cognitive anchors and morphological rules.</div>
 
         <div class="home-quick-stats-row">
           <div class="quick-stat-box">
-            <div class="quick-stat-num" id="home-stat-learned" style="color:var(--web-success,#30D158);">${totalLearned}</div>
+            <div class="quick-stat-num" id="home-stat-learned" style="color:var(--web-success,#30D158);">${totalLearned.toLocaleString()}</div>
             <div class="quick-stat-lbl">Learned</div>
           </div>
           <div class="quick-stat-box">
-            <div class="quick-stat-num" id="home-stat-studying" style="color:var(--web-amber,#FF9F0A);">${totalStudying}</div>
+            <div class="quick-stat-num" id="home-stat-studying" style="color:var(--web-amber,#FF9F0A);">${totalStudying.toLocaleString()}</div>
             <div class="quick-stat-lbl">Studying</div>
           </div>
           <div class="quick-stat-box">
-            <div class="quick-stat-num" id="home-stat-total">51.6k</div>
-            <div class="quick-stat-lbl">Total Words</div>
+            <div class="quick-stat-num" id="home-stat-dashboards" style="color:var(--web-accent,#d4a359);">1,543</div>
+            <div class="quick-stat-lbl">Root Dashboards</div>
           </div>
         </div>
       </div>
 
       <div class="home-section-title">
-        <span>VOCABULARY DISCIPLINES</span>
-        <span style="font-size:11px; opacity:0.8;">Tap to study</span>
+        <span>ESSENTIAL MASTER DASHBOARDS</span>
+        <span style="font-size:11px; opacity:0.8;">Tap to open</span>
       </div>
 
       <div class="category-card-list">
-        <div class="category-card" data-open-path="Greek roots/Greek roots.md" data-title="Greek Roots">
+        <div class="category-card" data-open-path="Greek roots/01_Root_Dashboards/Dashboard — Greek Roots.md" data-title="Dashboard — Greek Roots">
           <div class="category-icon-box">🏛️</div>
           <div class="category-meta">
             <div class="category-meta-title">
-              <span>Greek Roots</span>
-              <span id="prog-text-greek" style="font-size:12px; color:var(--web-text-muted);">17,987 words</span>
+              <span>Greek Roots Master Dashboard</span>
+              <span style="font-size:12px; color:var(--web-text-muted);">810 Roots · 17,987 words</span>
             </div>
-            <div class="category-meta-desc">Scientific, medical, rhetorical & philosophical Greek roots and prefixes</div>
-            <div class="category-progress-bar"><div id="prog-fill-greek" class="category-progress-fill" style="width: 0%;"></div></div>
+            <div class="category-meta-desc">Comprehensive directory of Greek root dashboards, 30 semantic clusters &amp; cognitive anchors</div>
           </div>
           <div class="category-chevron">›</div>
         </div>
 
-        <div class="category-card" data-open-path="Latin roots/Latin roots.md" data-title="Latin Roots">
+        <div class="category-card" data-open-path="Latin roots/Master Table — Latin Roots.md" data-title="Master Table — Latin Roots">
           <div class="category-icon-box">📜</div>
           <div class="category-meta">
             <div class="category-meta-title">
-              <span>Latin Roots</span>
-              <span id="prog-text-latin" style="font-size:12px; color:var(--web-text-muted);">33,028 words</span>
-            </div>
-            <div class="category-meta-desc">Classical stems, legal, scholarly & everyday English vocabulary</div>
-            <div class="category-progress-bar"><div id="prog-fill-latin" class="category-progress-fill" style="width: 0%;"></div></div>
-          </div>
-          <div class="category-chevron">›</div>
-        </div>
-
-        <div class="category-card" data-open-path="English vocabulary master/English vocabulary master.md" data-title="Vocabulary Master">
-          <div class="category-icon-box">👑</div>
-          <div class="category-meta">
-            <div class="category-meta-title">
-              <span>English Vocabulary Master</span>
-              <span id="prog-text-vocab" style="font-size:12px; color:var(--web-text-muted);">583 words</span>
-            </div>
-            <div class="category-meta-desc">Anglo-Saxon, Old Norse, Celtic & expressive non-classical terms</div>
-            <div class="category-progress-bar"><div id="prog-fill-vocab" class="category-progress-fill" style="width: 0%;"></div></div>
-          </div>
-          <div class="category-chevron">›</div>
-        </div>
-      </div>
-
-      <div class="home-section-title" style="margin-top:22px;">
-        <span>ESSENTIAL STUDY DASHBOARDS</span>
-        <span style="font-size:11px; opacity:0.8;">Reference & MOCs</span>
-      </div>
-
-      <div class="category-card-list">
-        <div class="category-card" data-open-path="Latin roots/Master Table — Latin Roots.md" data-title="Master Table — Latin Roots">
-          <div class="category-icon-box">📋</div>
-          <div class="category-meta">
-            <div class="category-meta-title">
-              <span>Master Table of Latin Roots</span>
+              <span>Latin Roots Master Table (1–782)</span>
+              <span style="font-size:12px; color:var(--web-text-muted);">782 Roots · 33,028 words</span>
             </div>
             <div class="category-meta-desc">782 canonical Latin roots directory with instant root dashboard links</div>
           </div>
           <div class="category-chevron">›</div>
         </div>
 
-        <div class="category-card" data-open-path="Greek roots/01_Root_Dashboards/Dashboard — Greek Roots.md" data-title="Dashboard — Greek Roots">
-          <div class="category-icon-box">🏛️</div>
+        <div class="category-card" data-open-path="English vocabulary master/000_Vocabulary_Master_MOC.md" data-title="Vocabulary Master MOC">
+          <div class="category-icon-box">👑</div>
           <div class="category-meta">
             <div class="category-meta-title">
-              <span>Greek Roots Master Dashboard</span>
+              <span>English Vocabulary Master MOC</span>
+              <span style="font-size:12px; color:var(--web-text-muted);">30 Clusters · 583 words</span>
             </div>
-            <div class="category-meta-desc">Comprehensive directory of Greek root dashboards and semantic families</div>
+            <div class="category-meta-desc">Semantic clusters across Anglo-Saxon kennings, phonaesthemes &amp; non-classical strata</div>
           </div>
           <div class="category-chevron">›</div>
         </div>
 
-        <div class="category-card" data-open-path="Latin roots/03_Reference_and_Rules/Prefix latin.md" data-title="Prefix Latin">
+        <div class="category-card" data-open-path="Latin roots/03_Reference_and_Rules/Prefix latin.md" data-title="Prefix Latin — Morphological Rules">
           <div class="category-icon-box">🔤</div>
           <div class="category-meta">
             <div class="category-meta-title">
               <span>Prefix Latin — Morphological Rules</span>
             </div>
-            <div class="category-meta-desc">Assimilation rules, directionals, intensives & euphonic prefix shifts</div>
+            <div class="category-meta-desc">Assimilation rules, directionals, intensives &amp; euphonic prefix shifts</div>
           </div>
           <div class="category-chevron">›</div>
         </div>
 
-        <div class="category-card" data-open-path="Greek roots/03_Reference_and_Rules/Prefix Greek.md" data-title="Greek Prefixes Guide">
+        <div class="category-card" data-open-path="Greek roots/03_Reference_and_Rules/Prefix Greek.md" data-title="Prefix Greek — Morphological Rules">
           <div class="category-icon-box">🔤</div>
           <div class="category-meta">
             <div class="category-meta-title">
               <span>Prefix Greek — Morphological Rules</span>
             </div>
-            <div class="category-meta-desc">Alpha privative, prepositional compounding & classical Greek prefixes</div>
-          </div>
-          <div class="category-chevron">›</div>
-        </div>
-
-        <div class="category-card" data-open-path="English vocabulary master/000_Vocabulary_Master_MOC.md" data-title="Vocabulary Master MOC">
-          <div class="category-icon-box">🗺️</div>
-          <div class="category-meta">
-            <div class="category-meta-title">
-              <span>Vocabulary Master MOC</span>
-            </div>
-            <div class="category-meta-desc">Semantic clusters across Anglo-Saxon kennings, phonaesthemes & non-classical strata</div>
+            <div class="category-meta-desc">Alpha privative, prepositional compounding &amp; classical Greek prefixes</div>
           </div>
           <div class="category-chevron">›</div>
         </div>
       </div>
+
+      <div class="home-section-title" style="margin-top:26px;">
+        <span>ROOT &amp; CLUSTER DASHBOARDS EXPLORER</span>
+        <span style="font-size:11px; opacity:0.8;" id="dashboards-count-badge">1,543 Dashboards</span>
+      </div>
+
+      <!-- Dashboards Search & Discipline Filter Bar -->
+      <div class="dashboards-search-container">
+        <div class="dashboards-search-box">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+          <input id="dashboards-search-input" type="text" placeholder="Search 1,540+ roots, classical stems, or meanings..." autocomplete="off" spellcheck="false" />
+          <button id="dashboards-search-clear" class="top-bar-btn" style="display: none; width: 22px; height: 22px; font-size: 13px;">✕</button>
+        </div>
+
+        <div class="dashboards-filter-chips" id="dashboards-category-chips">
+          <button class="filter-chip active" data-cat="all">All Dashboards</button>
+          <button class="filter-chip" data-cat="greek">🏛️ Greek Roots (810)</button>
+          <button class="filter-chip" data-cat="latin">📜 Latin Roots (782)</button>
+          <button class="filter-chip" data-cat="vocab">👑 Vocab Clusters (30)</button>
+        </div>
+      </div>
+
+      <div id="root-dashboards-container" class="root-dashboards-grid">
+        <!-- Rendered dynamically by this.renderRootDashboardsExplorer() -->
+      </div>
     `;
 
-    // Event listeners on cards
+    // Event listeners on static master dashboard cards
     rootCard.querySelectorAll('[data-open-path]').forEach(el => {
       el.addEventListener('click', () => {
         const path = el.dataset.openPath;
@@ -1044,6 +1082,185 @@ class MobileVocabApp {
     });
 
     container.appendChild(rootCard);
+
+    // Mount interactive root & cluster dashboards explorer
+    this.renderRootDashboardsExplorer();
+    this.bindDashboardsSearchEvents();
+  }
+
+  renderRootDashboardsExplorer() {
+    const container = document.getElementById('root-dashboards-container');
+    if (!container) return;
+
+    container.innerHTML = '';
+
+    const allDashboards = Object.values(this.rootDashboardsDb || {});
+    const q = (this.dashboardsSearchQuery || '').toLowerCase().trim();
+    const cat = this.dashboardsFilterCategory || 'all';
+
+    const filtered = allDashboards.filter(d => {
+      if (cat !== 'all' && d.category !== cat) return false;
+      if (q) {
+        const rootMatch = (d.root || '').toLowerCase().includes(q);
+        const scriptMatch = (d.script || '').toLowerCase().includes(q);
+        const meaningMatch = (d.meaning || '').toLowerCase().includes(q);
+        const anchorMatch = (d.anchor || '').toLowerCase().includes(q);
+        const clusterMatch = (d.cluster || '').toLowerCase().includes(q);
+        return rootMatch || scriptMatch || meaningMatch || anchorMatch || clusterMatch;
+      }
+      return true;
+    });
+
+    const badge = document.getElementById('dashboards-count-badge');
+    if (badge) {
+      badge.textContent = `${filtered.length.toLocaleString()} Dashboards`;
+    }
+
+    if (filtered.length === 0) {
+      container.innerHTML = `
+        <div style="grid-column: 1 / -1; text-align: center; padding: 36px 16px; color: var(--web-text-muted);">
+          <div style="font-size: 32px; margin-bottom: 8px;">🔍</div>
+          <div style="font-size: 15px; font-weight: 700; color: var(--web-text-primary);">No Dashboards Found</div>
+          <div style="font-size: 12px; margin-top: 4px;">Try searching for another root stem, meaning, or clear filters.</div>
+        </div>
+      `;
+      return;
+    }
+
+    const fragment = document.createDocumentFragment();
+    const renderLimit = Math.min(filtered.length, 60);
+
+    for (let i = 0; i < renderLimit; i++) {
+      const d = filtered[i];
+      const cardEl = document.createElement('div');
+      cardEl.className = 'root-dashboard-card';
+      const catEmoji = d.category === 'greek' ? '🏛️' : d.category === 'latin' ? '📜' : '👑';
+
+      cardEl.innerHTML = `
+        <div class="root-card-header">
+          <div class="root-card-name">
+            <span>${catEmoji}</span>
+            <span>${escapeHtml(d.root)}</span>
+            ${d.script ? `<span class="root-card-script">(${escapeHtml(d.script)})</span>` : ''}
+          </div>
+          <span class="root-discipline-tag">${d.category === 'greek' ? 'Greek' : d.category === 'latin' ? 'Latin' : 'Vocab'}</span>
+        </div>
+        <div class="root-card-meaning">“${escapeHtml(d.meaning || d.root)}”</div>
+        ${d.anchor ? `<div class="root-card-anchor">💡 ${escapeHtml(d.anchor)}</div>` : ''}
+        <div class="root-card-footer">
+          <span class="root-card-words-badge">${d.wordCount || 1} derived words</span>
+          <div class="root-card-actions">
+            <button class="root-card-study-btn" data-action="study" title="Study this root's cards in Word Cards">📖 Study Words</button>
+          </div>
+        </div>
+      `;
+
+      cardEl.addEventListener('click', (e) => {
+        if (e.target.closest('[data-action="study"]')) return;
+        this.openHomeSection(d.path, `Dashboard — ${d.root}`);
+      });
+
+      cardEl.querySelector('[data-action="study"]')?.addEventListener('click', (e) => {
+        e.stopPropagation();
+        const scopeWords = this.getWordsForScope(d.path);
+        this.openScopeInFeed({
+          type: 'root',
+          title: `${catEmoji} Root: ${d.root}`,
+          path: d.path,
+          words: scopeWords.length > 0 ? scopeWords : (d.words ? d.words.map(w => ({ name: w, path: `${d.path.slice(0, d.path.lastIndexOf('/'))}/${w}.md` })) : []),
+          isLocked: true
+        });
+      });
+
+      fragment.appendChild(cardEl);
+    }
+
+    container.appendChild(fragment);
+
+    if (filtered.length > 60) {
+      const moreBtn = document.createElement('div');
+      moreBtn.style = "grid-column: 1 / -1; text-align: center; padding: 12px 0;";
+      moreBtn.innerHTML = `
+        <button class="settings-action-btn" style="max-width: 240px; margin: 0 auto;">
+          <span>Load More (+${Math.min(filtered.length - 60, 60)})</span>
+        </button>
+      `;
+      moreBtn.querySelector('button').addEventListener('click', () => {
+        moreBtn.remove();
+        for (let i = 60; i < filtered.length; i++) {
+          const d = filtered[i];
+          const cardEl = document.createElement('div');
+          cardEl.className = 'root-dashboard-card';
+          const catEmoji = d.category === 'greek' ? '🏛️' : d.category === 'latin' ? '📜' : '👑';
+          cardEl.innerHTML = `
+            <div class="root-card-header">
+              <div class="root-card-name">
+                <span>${catEmoji}</span>
+                <span>${escapeHtml(d.root)}</span>
+                ${d.script ? `<span class="root-card-script">(${escapeHtml(d.script)})</span>` : ''}
+              </div>
+              <span class="root-discipline-tag">${d.category === 'greek' ? 'Greek' : d.category === 'latin' ? 'Latin' : 'Vocab'}</span>
+            </div>
+            <div class="root-card-meaning">“${escapeHtml(d.meaning || d.root)}”</div>
+            ${d.anchor ? `<div class="root-card-anchor">💡 ${escapeHtml(d.anchor)}</div>` : ''}
+            <div class="root-card-footer">
+              <span class="root-card-words-badge">${d.wordCount || 1} derived words</span>
+              <div class="root-card-actions">
+                <button class="root-card-study-btn" data-action="study" title="Study this root's cards in Word Cards">📖 Study Words</button>
+              </div>
+            </div>
+          `;
+          cardEl.addEventListener('click', (e) => {
+            if (e.target.closest('[data-action="study"]')) return;
+            this.openHomeSection(d.path, `Dashboard — ${d.root}`);
+          });
+          cardEl.querySelector('[data-action="study"]')?.addEventListener('click', (e) => {
+            e.stopPropagation();
+            const scopeWords = this.getWordsForScope(d.path);
+            this.openScopeInFeed({
+              type: 'root',
+              title: `${catEmoji} Root: ${d.root}`,
+              path: d.path,
+              words: scopeWords.length > 0 ? scopeWords : (d.words ? d.words.map(w => ({ name: w, path: `${d.path.slice(0, d.path.lastIndexOf('/'))}/${w}.md` })) : []),
+              isLocked: true
+            });
+          });
+          container.appendChild(cardEl);
+        }
+      });
+      container.appendChild(moreBtn);
+    }
+  }
+
+  bindDashboardsSearchEvents() {
+    const input = document.getElementById('dashboards-search-input');
+    const clearBtn = document.getElementById('dashboards-search-clear');
+    let timer = null;
+
+    input?.addEventListener('input', (e) => {
+      this.dashboardsSearchQuery = e.target.value;
+      if (clearBtn) clearBtn.style.display = this.dashboardsSearchQuery ? 'inline-flex' : 'none';
+      clearTimeout(timer);
+      timer = setTimeout(() => {
+        this.renderRootDashboardsExplorer();
+      }, 120);
+    });
+
+    clearBtn?.addEventListener('click', () => {
+      if (input) input.value = '';
+      this.dashboardsSearchQuery = '';
+      clearBtn.style.display = 'none';
+      this.renderRootDashboardsExplorer();
+    });
+
+    document.querySelectorAll('#dashboards-category-chips .filter-chip').forEach(chip => {
+      chip.addEventListener('click', () => {
+        document.querySelectorAll('#dashboards-category-chips .filter-chip').forEach(c => c.classList.remove('active'));
+        chip.classList.add('active');
+        this.dashboardsFilterCategory = chip.dataset.cat;
+        this.renderRootDashboardsExplorer();
+      });
+    });
   }
 
   async openHomeSection(notePath, noteTitle = '', isDirectOriginalView = false) {
@@ -1339,18 +1556,8 @@ class MobileVocabApp {
           scopeText.innerHTML = `🔒 <strong>Locked:</strong> ${escapeHtml(this.activeScope.title)} <span style="opacity:0.85;">(${pool.length} derived words)</span>`;
         }
       }
-      // Highlight category chip to match scoped category
-      const firstCard = pool[0];
-      if (firstCard && firstCard.category) {
-        document.querySelectorAll('#cards-category-chips .filter-chip').forEach(c => {
-          c.classList.toggle('active', c.dataset.cat === firstCard.category);
-        });
-      }
     } else {
       if (scopeBanner) scopeBanner.style.display = 'none';
-      document.querySelectorAll('#cards-category-chips .filter-chip').forEach(c => {
-        c.classList.toggle('active', c.dataset.cat === cat);
-      });
     }
 
     this.filteredCards = pool.filter(c => {
@@ -1430,117 +1637,108 @@ class MobileVocabApp {
 
     if (currentSeq !== this._renderFeedSeq) return;
 
-    const { defText, secondaryDef, quotes, quoteText, quoteAuthor, quoteWork, pos } = this.extractCardDetails(card, rawContent);
-    const catLabel = this.getCardCategoryBadge(card);
-
-    // Find parent root dashboard if available
-    const rootDash = this.findRootDashboardForWord(card.path);
+    const { definitions, quotes, usages, pos } = this.extractCardDetails(card, rawContent);
+    const rootDetails = this.findRootDashboardForWord(card.path);
 
     const slideEl = document.createElement('div');
     slideEl.className = 'tiktok-slide';
     if (direction === 'up') slideEl.classList.add('slide-up-in');
     else if (direction === 'down') slideEl.classList.add('slide-down-in');
 
-    const quoteList = quotes && quotes.length > 0
-      ? quotes
-      : (quoteText ? [{ quote: quoteText, author: quoteAuthor, work: quoteWork }] : []);
-
     slideEl.innerHTML = `
-      <div class="tiktok-card-surface">
-        <div class="tiktok-top-meta">
-          <span class="tiktok-cat-badge">${escapeHtml(catLabel)}</span>
-          <div class="tiktok-action-group">
-            <button class="tiktok-pronounce-btn" id="btn-pronounce-word" title="Pronounce Word">
-              <span class="pronounce-icon">🔊</span> <span class="pronounce-label">Listen</span>
-            </button>
-            <button class="tiktok-original-btn" id="btn-open-original-note" data-original-path="${escapeAttr(card.path)}" title="View Full Original Markdown Note">
-              <span>📄</span> <span>Original Note</span>
-            </button>
-          </div>
-        </div>
-
-        <div class="tiktok-hero-block">
-          <div class="tiktok-word-hero">${escapeHtml(card.name)}</div>
-          <div class="tiktok-morph-row">
-            <span class="tiktok-pos-pill">${escapeHtml(pos || 'derivative')}</span>
-            <span class="tiktok-exhaustive-badge">
-              <span>✅</span> <span>Exhaustive ${card.category === 'vocab' ? 'Cluster Entry' : 'Root Permutation'}</span>
-            </span>
-          </div>
-        </div>
-
-        ${(card.cluster || rootDash) ? `
-          <div class="tiktok-keystone-row">
-            <span>🌿 ${escapeHtml(card.cluster || 'Classical Cluster')}</span>
-            ${rootDash ? `
-              <span class="tiktok-keystone-link" id="link-open-root-dashboard" data-root-path="${escapeAttr(rootDash.path)}">
-                ${card.category === 'greek' ? '🏛️' : '📜'} ${escapeHtml(rootDash.title)} ›
-              </span>
+      <div class="clean-card-surface">
+        <!-- 1. ROOT DASHBOARD KEYSTONE (Prominent Dashboard & Root details right on the card!) -->
+        ${rootDetails ? `
+          <div class="card-root-keystone" data-root-path="${escapeAttr(rootDetails.path || '')}" title="Tap to view full Root Dashboard and cognate family">
+            <div class="root-keystone-top">
+              <span class="root-discipline-tag">${rootDetails.category === 'greek' ? '🏛️ Greek Root' : rootDetails.category === 'latin' ? '📜 Latin Root' : '👑 Vocab Cluster'}</span>
+              ${rootDetails.script ? `<span class="root-script">${escapeHtml(rootDetails.script)}</span>` : ''}
+              <span class="root-cluster-tag">${escapeHtml(rootDetails.cluster || '')}</span>
+            </div>
+            <div class="root-meaning-row">
+              <span class="root-meaning-label">Root Meaning:</span>
+              <span class="root-meaning-val">“${escapeHtml(rootDetails.meaning || rootDetails.root)}”</span>
+            </div>
+            ${rootDetails.anchor ? `
+              <div class="root-anchor-text">💡 <strong>Cognitive Anchor:</strong> ${escapeHtml(rootDetails.anchor)}</div>
             ` : ''}
+            <div class="root-view-cta-link">🏛️ View Full Root Dashboard (${rootDetails.wordCount || 1} derived words) ›</div>
           </div>
         ` : ''}
 
-        <div class="tiktok-def-box">
-          <div class="tiktok-def-header-row">
-            <div class="tiktok-def-title">📖 Core Definition</div>
-            <div class="tiktok-def-status-mount" id="feed-card-apple-toggle-mount"></div>
+        <!-- 2. CLEAN WORD HEADER & JUST THE BUTTON -->
+        <div class="clean-word-header">
+          <div class="clean-word-title-group">
+            <div class="clean-word-title">${escapeHtml(card.name)}</div>
+            ${pos ? `<span class="clean-pos-badge">${escapeHtml(pos)}</span>` : ''}
           </div>
-          <div class="tiktok-def-text">${escapeHtml(defText)}</div>
-          ${secondaryDef ? `
-            <div class="tiktok-def-secondary">
-              <div class="tiktok-def-secondary-label">💡 Nuance / Specialized Register</div>
-              <div class="tiktok-def-secondary-text">${escapeHtml(secondaryDef)}</div>
+          <div class="clean-buttons-group">
+            <button class="clean-pronounce-btn" id="btn-pronounce-word" title="Pronounce Word">
+              <span class="pronounce-icon">🔊</span>
+            </button>
+            <div id="feed-card-apple-toggle-mount"></div>
+          </div>
+        </div>
+
+        <!-- 3. THE NOTES: FULL DEFINITIONS & FULL EXAMPLE PHRASES -->
+        <div class="clean-notes-body">
+          <!-- Full Definitions -->
+          <div class="clean-def-card">
+            <div class="clean-def-heading">
+              <span>📖</span> <span>Definitions &amp; Semantic Range</span>
+            </div>
+            <div class="clean-def-list">
+              ${definitions.map(d => `
+                <div class="clean-def-item">
+                  ${d.label ? `<span class="clean-def-label">${escapeHtml(d.label)}</span>` : ''}
+                  <span class="clean-def-text">${escapeHtml(d.text)}</span>
+                </div>
+              `).join('')}
+            </div>
+          </div>
+
+          <!-- Full Authentic Example Phrases & Literary Quotations -->
+          ${quotes.length > 0 ? `
+            <div class="clean-quotes-card">
+              <div class="clean-quotes-heading">
+                <span>💬</span> <span>Authentic Context &amp; Example Phrases (${quotes.length})</span>
+              </div>
+              ${quotes.map(q => `
+                <div class="clean-quote-bubble">
+                  <div class="clean-quote-text">“${this.formatQuoteHtml(q.quote, card.name)}”</div>
+                  ${(q.author || q.work) ? `
+                    <div class="clean-quote-author">
+                      — ${escapeHtml(q.author)}${q.work ? ` <em>(${escapeHtml(q.work)})</em>` : ''}
+                    </div>
+                  ` : ''}
+                </div>
+              `).join('')}
             </div>
           ` : ''}
-        </div>
 
-        ${quoteList.length > 0 ? `
-          <div class="tiktok-quotes-stack">
-            <div class="tiktok-quotes-header">💬 Literary & Contextual Citations (${quoteList.length})</div>
-            ${quoteList.map((q) => `
-              <div class="tiktok-quote-box">
-                <div class="tiktok-quote-text">“${this.formatQuoteHtml(q.quote, card.name)}”</div>
-                ${(q.author || q.work) ? `
-                  <div class="tiktok-quote-author">
-                    <span>— ${escapeHtml(q.author)}${q.work ? ` <em>(${escapeHtml(q.work)})</em>` : ''}</span>
-                  </div>
-                ` : ''}
-              </div>
-            `).join('')}
+          <!-- Full Usage & Syntactic Application (if present) -->
+          ${usages.length > 0 ? `
+            <div class="clean-usage-card">
+              <div class="clean-usage-heading">🎯 Usage &amp; Syntactic Application</div>
+              ${usages.map(u => `
+                <div class="clean-usage-item">${u}</div>
+              `).join('')}
+            </div>
+          ` : ''}
+
+          <div class="clean-swipe-cue">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="18 15 12 9 6 15"></polyline></svg>
+            <span>Swipe up for next word</span>
           </div>
-        ` : ''}
-
-        <div class="swipe-indicator-cue">
-          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="18 15 12 9 6 15"></polyline></svg>
-          <span>Swipe up for next word</span>
-        </div>
-      </div>
-
-      <div class="card-tracking-footer">
-        <div class="card-status-btn-group">
-          <button class="card-status-btn ${status === 'unread' ? 'active unread' : ''}" data-set-status="unread">
-            <span>🔴</span> <span>Unread</span>
-          </button>
-          <button class="card-status-btn ${status === 'learning' ? 'active learning' : ''}" data-set-status="learning">
-            <span>🟡</span> <span>Studying</span>
-          </button>
-          <button class="card-status-btn ${status === 'learned' ? 'active learned' : ''}" data-set-status="learned">
-            <span>🟢</span> <span>Learned</span>
-          </button>
         </div>
       </div>
     `;
 
-    // Mount the original app's Apple Glide Toggle (.apple-c) right at the top of the definition!
+    // Mount Apple Glide Toggle directly in the header
     const appleMount = slideEl.querySelector('#feed-card-apple-toggle-mount');
-    let appleToggleEl = null;
     if (appleMount) {
-      appleToggleEl = createAppleStatusToggle(status, async (nextStatus) => {
+      const appleToggleEl = createAppleStatusToggle(status, async (nextStatus) => {
         this.setStatus(card.path, nextStatus);
-        slideEl.querySelectorAll('.card-status-btn').forEach(b => {
-          const isMatch = b.dataset.setStatus === nextStatus;
-          b.className = isMatch ? `card-status-btn active ${nextStatus}` : 'card-status-btn';
-        });
       });
       appleMount.appendChild(appleToggleEl);
     }
@@ -1552,47 +1750,14 @@ class MobileVocabApp {
       this.playPronunciation(card.name, pronounceBtn);
     });
 
-    // Mobile-Optimized "Original" Button: opens full original markdown note in reader view
-    slideEl.querySelector('#btn-open-original-note')?.addEventListener('click', (e) => {
-      e.stopPropagation();
-      this.openOriginalNoteView(card.path);
-    });
-
-    // Keystone link to Root Dashboard on Home Tab
-    slideEl.querySelector('#link-open-root-dashboard')?.addEventListener('click', (e) => {
+    // Root Dashboard Keystone Link -> opens full root dashboard on Dashboards tab
+    slideEl.querySelector('.card-root-keystone')?.addEventListener('click', (e) => {
       e.stopPropagation();
       const rPath = e.currentTarget.dataset.rootPath;
       if (rPath) {
         this.switchTab('home');
         this.openHomeSection(rPath);
       }
-    });
-
-    // Status Rating Buttons
-    slideEl.querySelectorAll('[data-set-status]').forEach(btn => {
-      btn.addEventListener('click', (e) => {
-        e.stopPropagation();
-        const st = btn.dataset.setStatus;
-        this.setStatus(card.path, st);
-        slideEl.querySelectorAll('.card-status-btn').forEach(b => {
-          b.className = 'card-status-btn';
-        });
-        btn.className = `card-status-btn active ${st}`;
-        if (appleToggleEl) {
-          const pMap = { unread: 'p0', learning: 'p1', learned: 'p2' };
-          const halo = appleToggleEl.querySelector('.halo-c');
-          const lbl = appleToggleEl.querySelector('.label');
-          if (halo) halo.className = `halo-c ${pMap[st] || 'p0'}`;
-          if (lbl) {
-            lbl.className = `label ${st}`;
-            lbl.textContent = st;
-          }
-        }
-        // Auto-advance to next word after rating
-        setTimeout(() => {
-          this.nextFeedWord();
-        }, 320);
-      });
     });
 
     const existingSlides = Array.from(container.querySelectorAll('.tiktok-slide'));
@@ -1894,12 +2059,6 @@ class MobileVocabApp {
     this.cardsSearchQuery = '';
     this.cardsFilterCategory = 'all';
     this.cardsFilterStatus = 'all';
-
-    const searchInput = document.getElementById('cards-search-input');
-    if (searchInput) searchInput.value = '';
-    document.querySelectorAll('#cards-category-chips .filter-chip').forEach(c => c.classList.toggle('active', c.dataset.cat === 'all'));
-    document.querySelectorAll('#cards-status-chips .filter-chip').forEach(c => c.classList.toggle('active', c.dataset.status === 'all'));
-
     this.applyCardsFilter();
 
     let idx = this.filteredCards.findIndex(c => c.path === notePath || c.path.toLowerCase() === notePath.toLowerCase());
@@ -1921,39 +2080,7 @@ class MobileVocabApp {
 
   updateCardsViewMode() {
     const feedEl = document.getElementById('cards-feed-view');
-    const listEl = document.getElementById('cards-list-view');
-    const btnFeed = document.getElementById('btn-mode-feed');
-    const btnList = document.getElementById('btn-mode-list');
-
-    // On wide screens (desktop monitors >= 900px), display side-by-side layout
-    if (window.innerWidth >= 900) {
-      if (feedEl) feedEl.style.display = 'flex';
-      if (listEl) listEl.style.display = 'block';
-      this.renderFeedCard('none');
-      if (!listEl?.querySelector('.cards-list-items-container')) {
-        this.renderCardList();
-      }
-      this.syncCardListHighlight();
-      return;
-    }
-
-    if (this.cardsViewMode === 'feed') {
-      if (this.cardListObserver) {
-        this.cardListObserver.disconnect();
-        this.cardListObserver = null;
-      }
-      if (feedEl) feedEl.style.display = 'flex';
-      if (listEl) listEl.style.display = 'none';
-      if (btnFeed) btnFeed.classList.add('active');
-      if (btnList) btnList.classList.remove('active');
-      this.renderFeedCard('none');
-    } else {
-      if (feedEl) feedEl.style.display = 'none';
-      if (listEl) listEl.style.display = 'block';
-      if (btnFeed) btnFeed.classList.remove('active');
-      if (btnList) btnList.classList.add('active');
-      this.renderCardList();
-    }
+    if (feedEl) feedEl.style.display = 'flex';
   }
 
   syncCardListHighlight() {
@@ -2124,10 +2251,12 @@ class MobileVocabApp {
   }
 
   extractCardDetails(card, rawContent) {
+    const definitions = [];
+    const quotes = [];
+    const usages = [];
     let primaryDef = '';
     let secondaryDef = '';
     let pos = '';
-    const quotes = [];
 
     if (rawContent) {
       // 1. Check frontmatter for pos or part_of_speech
@@ -2149,6 +2278,9 @@ class MobileVocabApp {
         } else if (line.match(/>\s*\[!(?:quote|cite|example|citation)[^\]]*\]/i)) {
           currentSection = 'quote';
           continue;
+        } else if (line.match(/>\s*\[!(?:tip|usage|syntax|grammar|application)[^\]]*\]/i)) {
+          currentSection = 'usage';
+          continue;
         } else if (line.match(/>\s*\[!/i) || (!line.startsWith('>') && line.trim().startsWith('#'))) {
           currentSection = null;
         }
@@ -2157,18 +2289,29 @@ class MobileVocabApp {
           const clean = line.replace(/^>\s*(?:-\s*)?/, '').trim();
           if (!clean) continue;
 
-          const pMatch = clean.match(/(?:1\.\s*)?\*\*(?:1\.\s*)?(?:Primary|Concise|Definition|Meaning|Core)[^*]*\*\*:\s*(.*)/i);
-          if (pMatch && !primaryDef) {
-            primaryDef = this.cleanDefinitionText(pMatch[1]);
-          }
-
-          const sMatch = clean.match(/(?:2\.\s*)?\*\*(?:2\.\s*)?(?:Secondary|Nuanced|Nuance|Extended|Specialized)[^*]*\*\*:\s*(.*)/i);
-          if (sMatch && !secondaryDef) {
-            secondaryDef = this.cleanDefinitionText(sMatch[1]);
-          }
-
-          if (!primaryDef && clean.startsWith('1.')) {
-            primaryDef = this.cleanDefinitionText(clean.replace(/^1\.\s*/, '').replace(/^\*\*[^*]+\*\*:\s*/, ''));
+          // Match labeled senses: "1. **Primary Meaning**: text" or "**Nuance**: text"
+          const senseMatch = clean.match(/(?:(?:[0-9]+\.|\*|-)\s*)?\*\*([^*]+)\*\*:\s*(.*)/i);
+          if (senseMatch) {
+            const label = senseMatch[1].replace(/^[0-9]+\.\s*/, '').trim();
+            const text = this.cleanDefinitionText(senseMatch[2]);
+            if (text) {
+              definitions.push({ label, text });
+              if (!primaryDef) primaryDef = text;
+              else if (!secondaryDef) secondaryDef = text;
+            }
+          } else if (clean.match(/^[0-9]+\.\s+/)) {
+            const text = this.cleanDefinitionText(clean.replace(/^[0-9]+\.\s*/, ''));
+            if (text) {
+              definitions.push({ label: `Sense ${definitions.length + 1}`, text });
+              if (!primaryDef) primaryDef = text;
+              else if (!secondaryDef) secondaryDef = text;
+            }
+          } else if (clean.length > 5 && !clean.startsWith('#')) {
+            const text = this.cleanDefinitionText(clean);
+            if (text) {
+              definitions.push({ label: '', text });
+              if (!primaryDef) primaryDef = text;
+            }
           }
         } else if (currentSection === 'quote') {
           const clean = line.replace(/^>\s*-\s*(?:📜|📚|🔬|🌐|🗣️|💬)?\s*/, '').replace(/^>\s*/, '').trim();
@@ -2197,32 +2340,50 @@ class MobileVocabApp {
             const qm = clean.match(/["“]([^"”]+)["”]/);
             if (qm) {
               quotes.push({ author: '', work: '', quote: qm[1].trim() });
+            } else if (clean.length > 10) {
+              quotes.push({ author: '', work: '', quote: clean });
             }
+          }
+        } else if (currentSection === 'usage') {
+          const clean = line.replace(/^>\s*(?:-\s*)?/, '').trim();
+          if (clean && clean.length > 3) {
+            const formatted = escapeHtml(clean).replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+            usages.push(formatted);
           }
         }
       }
 
       // Fallbacks if no callout was present
-      if (!primaryDef) {
+      if (definitions.length === 0) {
         const lineMatch = rawContent.match(/\*\*Definition:\*\*\s*([^\n]+)/i) || rawContent.match(/#+\s*Definition\s*\n+([^\n#]+)/i);
-        if (lineMatch) primaryDef = this.cleanDefinitionText(lineMatch[1]);
+        if (lineMatch) {
+          const text = this.cleanDefinitionText(lineMatch[1]);
+          definitions.push({ label: 'Definition', text });
+          primaryDef = text;
+        }
       }
     }
 
-    if (!primaryDef) {
+    if (definitions.length === 0) {
       primaryDef = 'A fundamental classical vocabulary entry with rich etymological history and derived English usage.';
+      definitions.push({
+        label: 'Core Lexical Entry',
+        text: primaryDef
+      });
     }
 
     const primaryQuote = quotes[0] || null;
 
     return {
+      definitions, // All definitions in full!
+      quotes,      // All quotes in full!
+      usages,      // All syntactic notes in full!
       defText: primaryDef,
       secondaryDef: secondaryDef && secondaryDef !== primaryDef ? secondaryDef : '',
-      quotes: quotes.slice(0, 3),
       quoteText: primaryQuote ? primaryQuote.quote : '',
       quoteAuthor: primaryQuote ? primaryQuote.author : '',
       quoteWork: primaryQuote ? primaryQuote.work : '',
-      pos: pos || (card.category === 'latin' ? 'Latin derivative' : card.category === 'greek' ? 'Greek derivative' : 'vocab')
+      pos: pos || (card.category === 'latin' ? 'Latin derivative' : card.category === 'greek' ? 'Greek derivative' : 'Vocabulary')
     };
   }
 
@@ -2758,109 +2919,16 @@ class MobileVocabApp {
       }
     });
 
-    // 4. Word Cards Controls
-    let searchDebounceTimer = null;
-    document.getElementById('cards-search-input')?.addEventListener('input', (e) => {
-      this.cardsSearchQuery = e.target.value;
-      const clearBtn = document.getElementById('cards-search-clear');
-      if (clearBtn) clearBtn.style.display = this.cardsSearchQuery ? 'inline-flex' : 'none';
-      clearTimeout(searchDebounceTimer);
-      searchDebounceTimer = setTimeout(() => {
-        this.applyCardsFilter();
-        if (this.cardsViewMode === 'feed') this.renderFeedCard('none');
-        else this.renderCardList();
-      }, 120);
-    });
-
-    document.getElementById('cards-search-clear')?.addEventListener('click', () => {
-      clearTimeout(searchDebounceTimer);
-      const input = document.getElementById('cards-search-input');
-      if (input) input.value = '';
-      this.cardsSearchQuery = '';
-      document.getElementById('cards-search-clear').style.display = 'none';
-      this.applyCardsFilter();
-      if (this.cardsViewMode === 'feed') this.renderFeedCard('none');
-      else this.renderCardList();
-    });
-
-    // Category chips
-    document.querySelectorAll('#cards-category-chips .filter-chip').forEach(chip => {
-      chip.addEventListener('click', () => {
-        // If locked to a dashboard, do not destroy the lock when clicking category chips!
-        if (this.activeScope && this.activeScope.isLocked) {
-          const scopeCat = this.activeScope.words && this.activeScope.words[0] ? this.activeScope.words[0].category : null;
-          if (chip.dataset.cat !== 'all' && scopeCat && scopeCat !== chip.dataset.cat) {
-            this.showToast(`🔒 Cards are locked to ${this.activeScope.title}. Tap 'Unlock' on the banner to switch categories.`);
-            return;
-          }
-          if (chip.dataset.cat === 'all') {
-            document.querySelectorAll('#cards-category-chips .filter-chip').forEach(c => c.classList.toggle('active', c === chip));
-            this.cardsFilterCategory = 'all';
-            this.applyCardsFilter();
-            if (this.cardsViewMode === 'feed') this.renderFeedCard('none');
-            else this.renderCardList();
-            return;
-          }
-        }
-
-        document.querySelectorAll('#cards-category-chips .filter-chip').forEach(c => c.classList.remove('active'));
-        chip.classList.add('active');
-        this.cardsFilterCategory = chip.dataset.cat;
-
-        // If clicking a category chip and not locked, clear conflicting scope so selected category words show
-        if (this.activeScope && !this.activeScope.isLocked) {
-          const scopeCat = this.activeScope.words && this.activeScope.words[0] ? this.activeScope.words[0].category : null;
-          if (chip.dataset.cat === 'all' || (scopeCat && scopeCat !== chip.dataset.cat)) {
-            this.activeScope = null;
-          }
-        }
-        this.feedWordIndex = 0;
-        this.applyCardsFilter();
-        if (this.cardsViewMode === 'feed') this.renderFeedCard('none');
-        else this.renderCardList();
-      });
-    });
-
-    // Status chips
-    document.querySelectorAll('#cards-status-chips .filter-chip').forEach(chip => {
-      chip.addEventListener('click', () => {
-        document.querySelectorAll('#cards-status-chips .filter-chip').forEach(c => c.classList.remove('active'));
-        chip.classList.add('active');
-        this.cardsFilterStatus = chip.dataset.status;
-        this.applyCardsFilter();
-        if (this.cardsViewMode === 'feed') this.renderFeedCard('none');
-        else this.renderCardList();
-      });
-    });
-
-    // Feed vs List mode buttons
-    document.getElementById('btn-mode-feed')?.addEventListener('click', () => {
-      this.cardsViewMode = 'feed';
-      this.updateCardsViewMode();
-    });
-    document.getElementById('btn-mode-list')?.addEventListener('click', () => {
-      this.cardsViewMode = 'list';
-      this.updateCardsViewMode();
-    });
-
-    // Clear Scope Button (Unlocks and restores full vocabulary deck from active root scope)
+    // 4. Scoped Session Unlock Button
     document.getElementById('btn-clear-scope')?.addEventListener('click', () => {
       this.activeScope = null;
-      this.cardsFilterCategory = 'all';
-      this.cardsSearchQuery = '';
-      const searchInput = document.getElementById('cards-search-input');
-      if (searchInput) searchInput.value = '';
-      document.querySelectorAll('#cards-category-chips .filter-chip').forEach(c => c.classList.toggle('active', c.dataset.cat === 'all'));
       this.feedWordIndex = 0;
       this.applyCardsFilter();
-      if (this.cardsViewMode === 'feed') this.renderFeedCard('none');
-      else this.renderCardList();
+      this.renderFeedCard('none');
+      const banner = document.getElementById('cards-scope-banner');
+      if (banner) banner.style.display = 'none';
       this.showToast('🔓 Scope unlocked: Showing all vocabulary words');
     });
-
-    // TikTok Feed Tactile Controls
-    document.getElementById('btn-feed-next')?.addEventListener('click', () => this.nextFeedWord());
-    document.getElementById('btn-feed-prev')?.addEventListener('click', () => this.prevFeedWord());
 
     // Daily Word Shuffle
     document.getElementById('btn-daily-shuffle')?.addEventListener('click', () => {

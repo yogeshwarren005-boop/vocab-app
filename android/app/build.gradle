@@ -28,6 +28,8 @@ android {
                 storePassword keystorePassword
                 keyAlias keyAliasVal
                 keyPassword keyPasswordVal
+                v1SigningEnabled true
+                v2SigningEnabled true
             }
         }
     }

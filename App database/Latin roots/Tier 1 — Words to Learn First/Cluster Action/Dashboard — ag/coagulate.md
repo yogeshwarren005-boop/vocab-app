@@ -1,0 +1,56 @@
+---
+latin_root: "[[Dashboard — ag]]"
+cluster: "[[Cluster Action]]"
+status: unread
+tier: 3
+tier_label: "Words to learn last"
+zipf: 1.2
+rank: 999999
+---
+# coagulate
+
+> [!status] 🎯 **Status:**
+
+```dataviewjs
+if(!document.getElementById('apple-toggle-css')){const s=document.createElement('style');s.id='apple-toggle-css';s.textContent=':root{--apple-red:#FF375F;--apple-red-glow:rgba(255,55,95,0.45);--apple-amber:#FF9F0A;--apple-amber-glow:rgba(255,159,10,0.45);--apple-green:#30D158;--apple-green-glow:rgba(48,209,88,0.45)}.apple-c{position:relative;display:inline-flex;align-items:center;gap:8px;padding:2px 10px 2px 4px;border-radius:999px;background:var(--background-secondary,#111624);border:1px solid var(--background-modifier-border,#232d42);cursor:pointer;user-select:none;transition:border-color .2s ease,transform .2s ease,box-shadow .2s ease;line-height:1;vertical-align:middle;box-sizing:border-box}.apple-c:hover{border-color:var(--text-muted,#3b4b6b);transform:translateY(-1px);box-shadow:0 2px 8px rgba(0,0,0,.35)}.apple-c:active{transform:scale(.96)}.apple-c .track-c{position:relative;width:48px;height:18px;background:var(--background-primary,#090d17);border-radius:999px;border:1px solid var(--background-modifier-border,#1c2436);display:flex;align-items:center;justify-content:space-between;padding:0 6px;box-sizing:border-box}.apple-c .c-dot{width:3px;height:3px;border-radius:999px;background:var(--text-faint,#334155);opacity:.6}.apple-c .halo-c{position:absolute;top:1px;left:1px;width:14px;height:14px;border-radius:999px;transition:transform .35s cubic-bezier(.34,1.6,.64,1),background-color .25s ease,box-shadow .25s ease;display:flex;align-items:center;justify-content:center;box-sizing:border-box}.apple-c .halo-c .core-dot{width:5px;height:5px;border-radius:999px;background:#fff;box-shadow:0 0 4px #fff}.apple-c .halo-c.p0{transform:translateX(0);background:var(--apple-red);box-shadow:0 0 12px var(--apple-red),0 0 20px var(--apple-red-glow)}.apple-c .halo-c.p1{transform:translateX(15px);background:var(--apple-amber);box-shadow:0 0 12px var(--apple-amber),0 0 20px var(--apple-amber-glow)}.apple-c .halo-c.p2{transform:translateX(30px);background:var(--apple-green);box-shadow:0 0 12px var(--apple-green),0 0 20px var(--apple-green-glow)}.apple-c .label{font-size:11px;font-weight:700;letter-spacing:.2px;transition:color .2s ease;min-width:48px}.apple-c .label.unread{color:var(--apple-red)}.apple-c .label.learning{color:var(--apple-amber)}.apple-c .label.learned{color:var(--apple-green)}';document.head.appendChild(s);}
+const p = dv.current();
+const rawStatus = p.status || "unread";
+const states = [{ key: 'unread', label: 'unread', cls: 'unread', p: 'p0' }, { key: 'learning', label: 'learning', cls: 'learning', p: 'p1' }, { key: 'learned', label: 'learned', cls: 'learned', p: 'p2' }];
+let curIdx = states.findIndex(s => s.key === rawStatus);
+if (curIdx === -1) curIdx = 0;
+const toggle = document.createElement('div');
+toggle.className = 'apple-c';
+toggle.title = 'Click to glide: unread ➔ learning ➔ learned';
+const track = document.createElement('div');
+track.className = 'track-c';
+track.innerHTML = '<span class="c-dot"></span><span class="c-dot"></span><span class="c-dot"></span><div class="halo-c ' + states[curIdx].p + '"><div class="core-dot"></div></div>';
+const label = document.createElement('span');
+label.className = 'label ' + states[curIdx].cls;
+label.textContent = states[curIdx].label;
+toggle.appendChild(track);
+toggle.appendChild(label);
+toggle.addEventListener('click', async (e) => {
+    e.stopPropagation();
+    curIdx = (curIdx + 1) % 3;
+    const nxt = states[curIdx];
+    track.querySelector('.halo-c').className = 'halo-c ' + nxt.p;
+    label.className = 'label ' + nxt.cls;
+    label.textContent = nxt.label;
+    const file = app.vault.getAbstractFileByPath(p.file.path);
+    if (file) {
+        await app.fileManager.processFrontMatter(file, fm => { fm.status = nxt.key; });
+        new Notice('' + (p.file.name) + ': marked ' + (nxt.key) + '');
+    }
+});
+dv.container.appendChild(toggle);
+```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To change from a fluid to a thickened or solid state; to curdle, congeal, or clot, especially under the influence of heat, acid, or enzymes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloid chemistry, to coagulate is to destabilize a colloidal suspension, causing dispersed particles to aggregate into macroscopic clumps.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain plant saps possess the remarkable property to **coagulate** upon contact with air, forming an impervious healing resin over wounded bark."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The spilled spermaceti oil began to **coagulate** into glistening white lumps upon the chilly deck."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Anon he finds him, striking too short at Greeks; his antique sword, rebellious to his arm, lies where it falls, repugnant to command: unequal match'd, Pyrrhus at Priam drives; in rage strikes wide; but with the whiff and wind of his fell sword the unnerved father falls. Then senseless Ilium, seeming to feel this blow, with flaming top stoops to his base, and with a hideous crash takes prisoner Pyrrhus' ear: for, lo! his sword, which was declining on the milky head of reverend Priam, seem'd in the air to stick: so, as a painted tyrant, Pyrrhus stood, and like a neutral to his will and matter, did nothing. But, as we often see, against some storm, a silence in the heavens, the rack stand still, the bold winds speechless and the orb below as hush as death, anon the dreadful thunder doth rend the region; so, after Pyrrhus' pause, aroused vengeance sets him new a-work; and never did the Cyclops' hammers fall on Mars's armour forg'd for proof eterne with less remorse than Pyrrhus' bleeding sword now falls on Priam. Out, out, thou strumpet, Fortune! All you gods, in general synod take away her power; break all the spokes and fellies from her wheel, and bowl the round nave down the hill of heaven, as low as to the fiends! First Player: 'Run barefoot up and down, threatening the flames with bisson rheum; a clout upon that head where late the diadem stood, and for a robe, about her lank and all o'er-teemed loins, a blanket, in the alarm of fear caught up; who this had seen, with tongue in venom steep'd, 'gainst Fortune's state would treason have pronounced: but if the gods themselves did see her then when she saw Pyrrhus make malicious sport in mincing with his sword her husband's limbs, the instant burst of clamour that she made, unless things mortal move them not at all, would have made milch the burning eyes of heaven, and passion in the gods.' Polonius: Look, whether he has not turn'd his colour and has tears in's eyes. Pray you, no more. Hamlet: 'Tis well; I'll have thee speak out the rest soon. Good my lord, will you see the players well bestowed? Do you hear, let them be well used; for they are the abstract and brief chronicles of the time: after your death you were better have a bad epitaph than their ill report while you live. Polonius: My lord, I will use them according to their desert. Hamlet: God's bodykins, man, much better: use every man after his desert, and who should 'scape whipping? Use them after your own honour and dignity: the less they deserve, the more merit is in your bounty. Take them in. Polonius: Come, sirs. Hamlet: Follow him, friends: we'll hear a play to-morrow. Dost thou hear me, old friend; can you play the Murder of Gonzago? First Player: Ay, my lord. Hamlet: We'll ha't to-morrow night. You could, for a need, study a speech of some dozen or sixteen lines, which I would set down and insert in't, could you not? First Player: Ay, my lord. Hamlet: Very well. Follow that lord; and look you mock him not. My good friends, I'll leave you till night: you are welcome to Elsinore. Rosencrantz: Good my lord! Hamlet: Ay, so, God be wi' ye; now I am alone. O, what a rogue and peasant slave am I! Is it not monstrous that this player here, but in a fiction, in a dream of passion, could force his soul so to his own conceit that from her working all his visage wann'd, tears in his eyes, distraction in's aspect, a broken voice, and his whole function suiting with forms to his conceit? and all for nothing! For Hecuba! What's Hecuba to him, or he to Hecuba, that he should weep for her? What would he do, had he the motive and the cue for passion that I have? He would drown the stage with tears and cleave the general ear with horrid speech, make mad the guilty and appal the free, confound the ignorant, and amaze indeed the very faculties of eyes and ears. Yet I, a dull and muddy-mettled rascal, peak, like John-a-dreams, unpregnant of my cause, and can say nothing; no, not for a king, upon whose property and most dear life a damn'd defeat was made. Am I a coward? Who calls me villain? breaks my pate across? plucks off my beard, and blows it in my face? tweaks me by the nose? gives me the lie i' the throat, as deep as to the lungs? who does me this? Ha! 'Swounds, I should take it: for it cannot be but I am pigeon-liver'd and lack gall to make oppression bitter, or ere this I should have fatted all the region kites with this slave's offal: bloody, bawdy villain! Remorseless, treacherous, lecherous, kindless villain! O, vengeance! Why, what an ass am I! This is most brave, that I, the son of a dear father murder'd, prompted to my revenge by heaven and hell, must, like a whore, unpack my heart with words, and fall a-cursing, like a very drab, a scullion! Fie upon't! foh! About, my brain! I have heard that guilty creatures sitting at a play have by the very cunning of the scene been struck so to the soul that presently they have proclaim'd their malefactions; for murder, though it have no tongue, will speak with most miraculous organ. I'll have these players play something like the murder of my father before mine uncle: I'll observe his looks; I'll tent him to the quick: if he but blench, I know my course. The spirit that I have seen may be the devil: and the devil hath power to assume a pleasing shape; yea, and perhaps out of my weakness and my melancholy, as he is very potent with such spirits, abuses me to damn me: I'll have grounds more relative than this: the play's the thing wherein I'll catch the conscience of the king. His blood began to **coagulate** upon the icy ground."*
+

@@ -1,0 +1,2745 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+  <title>Tab 3 Interactive Browser Mockups — 5 Architectural Concepts</title>
+  
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;600;700&family=Manrope:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+
+  <style>
+    /* =====================================================================
+       CSS DESIGN TOKENS (VOLCANIC OBSIDIAN DARK & SCANDINAVIAN BIRCH LIGHT)
+       ===================================================================== */
+    :root {
+      /* Dark Theme (Default) */
+      --bg-canvas: #100F0E;
+      --bg-surface-1: #181716;
+      --bg-surface-2: #242220;
+      --bg-surface-3: #2E2B28;
+      --border-subtle: #2A2725;
+      --border-medium: #3E3A36;
+      --border-glow: rgba(239, 68, 68, 0.35);
+
+      --text-primary: #F0EDEA;
+      --text-secondary: #C4BEB6;
+      --text-muted: #78716C;
+      --text-faint: #4D4742;
+
+      --accent-primary: #EF4444;      /* Magma Red */
+      --accent-hover: #DC2626;
+      --accent-muted: rgba(239, 68, 68, 0.15);
+      --accent-glow: rgba(239, 68, 68, 0.3);
+
+      --color-gold: #F59E0B;         /* Molten Amber */
+      --color-green: #22C55E;        /* Peridot Green */
+      --color-blue: #38BDF8;         /* Geothermal Cyan */
+      --color-purple: #A855F7;       /* Imperial Violet */
+
+      --card-radius: 14px;
+      --pill-radius: 9999px;
+      --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.6);
+      --shadow-md: 0 8px 24px rgba(0, 0, 0, 0.75);
+      --shadow-lg: 0 16px 40px rgba(0, 0, 0, 0.85);
+
+      --font-display: 'Plus Jakarta Sans', system-ui, sans-serif;
+      --font-body: 'Manrope', system-ui, sans-serif;
+      --font-mono: 'JetBrains Mono', monospace;
+    }
+
+    [data-theme="light"] {
+      --bg-canvas: #FBF9F5;
+      --bg-surface-1: #F4EFEA;
+      --bg-surface-2: #EAE3DC;
+      --bg-surface-3: #DFD7CF;
+      --border-subtle: #DDD5CC;
+      --border-medium: #C8BEB3;
+      --border-glow: rgba(77, 114, 92, 0.35);
+
+      --text-primary: #21201D;
+      --text-secondary: #56524D;
+      --text-muted: #847E77;
+      --text-faint: #B5ADA4;
+
+      --accent-primary: #4D725C;      /* Nordic Pine Sage */
+      --accent-hover: #3E5D4A;
+      --accent-muted: rgba(77, 114, 92, 0.15);
+      --accent-glow: rgba(77, 114, 92, 0.3);
+
+      --color-gold: #D4A359;
+      --color-green: #2E7D32;
+      --color-blue: #0284C7;
+      --color-purple: #7C3AED;
+
+      --shadow-sm: 0 2px 6px rgba(0, 0, 0, 0.08);
+      --shadow-md: 0 6px 18px rgba(0, 0, 0, 0.12);
+      --shadow-lg: 0 12px 30px rgba(0, 0, 0, 0.16);
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    body {
+      background-color: var(--bg-canvas);
+      color: var(--text-primary);
+      font-family: var(--font-body);
+      line-height: 1.5;
+      min-height: 100vh;
+      overflow-x: hidden;
+      transition: background-color 0.25s ease, color 0.25s ease;
+    }
+
+    /* =====================================================================
+       CONTROL HEADER & SHOWCASE CONTROLS
+       ===================================================================== */
+    .showcase-header {
+      background: var(--bg-surface-1);
+      border-bottom: 1px solid var(--border-subtle);
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+      box-shadow: var(--shadow-sm);
+      backdrop-filter: blur(16px);
+    }
+
+    .showcase-header-inner {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 12px 18px;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+    }
+
+    .brand-group {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .brand-icon {
+      font-size: 24px;
+      background: var(--accent-muted);
+      border: 1px solid var(--accent-glow);
+      width: 40px;
+      height: 40px;
+      border-radius: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .brand-title {
+      font-family: var(--font-display);
+      font-weight: 800;
+      font-size: 16px;
+      letter-spacing: -0.02em;
+      color: var(--text-primary);
+      line-height: 1.2;
+    }
+
+    .brand-sub {
+      font-size: 11.5px;
+      color: var(--text-muted);
+      font-weight: 500;
+    }
+
+    .controls-group {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .control-pill-select {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      background: var(--bg-surface-2);
+      border: 1px solid var(--border-subtle);
+      padding: 6px 12px;
+      border-radius: var(--pill-radius);
+      font-size: 12.5px;
+      color: var(--text-primary);
+      font-weight: 600;
+    }
+
+    .control-pill-select select {
+      background: transparent;
+      border: none;
+      color: var(--text-primary);
+      font-family: inherit;
+      font-weight: 700;
+      font-size: 13px;
+      cursor: pointer;
+      outline: none;
+    }
+
+    .control-pill-select select option {
+      background: var(--bg-surface-1);
+      color: var(--text-primary);
+    }
+
+    .btn-toggle-round {
+      background: var(--bg-surface-2);
+      border: 1px solid var(--border-subtle);
+      color: var(--text-primary);
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      font-size: 15px;
+    }
+
+    .btn-toggle-round:hover {
+      background: var(--bg-surface-3);
+      border-color: var(--border-medium);
+      transform: scale(1.05);
+    }
+
+    /* Mockup Navigation Tabs */
+    .mockup-nav-tabs {
+      background: var(--bg-surface-2);
+      border-top: 1px solid var(--border-subtle);
+      padding: 8px 18px;
+      display: flex;
+      gap: 8px;
+      overflow-x: auto;
+      scrollbar-width: none;
+    }
+    .mockup-nav-tabs::-webkit-scrollbar { display: none; }
+
+    .mockup-tab-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 14px;
+      border-radius: 10px;
+      background: transparent;
+      border: 1px solid transparent;
+      color: var(--text-secondary);
+      font-family: var(--font-display);
+      font-weight: 700;
+      font-size: 12.5px;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: all 0.2s ease;
+    }
+
+    .mockup-tab-btn:hover {
+      color: var(--text-primary);
+      background: rgba(255, 255, 255, 0.04);
+    }
+
+    .mockup-tab-btn.is-active {
+      background: var(--accent-muted);
+      border-color: var(--accent-glow);
+      color: var(--text-primary);
+      box-shadow: 0 0 12px var(--accent-muted);
+    }
+
+    .mockup-tab-badge {
+      font-size: 10px;
+      font-weight: 800;
+      padding: 2px 6px;
+      border-radius: var(--pill-radius);
+      background: var(--bg-surface-3);
+      color: var(--text-muted);
+    }
+
+    .mockup-tab-btn.is-active .mockup-tab-badge {
+      background: var(--accent-primary);
+      color: #fff;
+    }
+
+    /* =====================================================================
+       LAYOUT CONTAINER (DEVICE FRAME VS EXPANDED)
+       ===================================================================== */
+    .main-workspace {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 24px 18px 80px 18px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .mockup-intro-banner {
+      width: 100%;
+      max-width: 900px;
+      background: var(--bg-surface-1);
+      border: 1px solid var(--border-subtle);
+      border-left: 4px solid var(--accent-primary);
+      border-radius: var(--card-radius);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      box-shadow: var(--shadow-sm);
+    }
+
+    .intro-title-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 6px;
+    }
+
+    .intro-title {
+      font-family: var(--font-display);
+      font-weight: 800;
+      font-size: 16px;
+      color: var(--text-primary);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .intro-tag {
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 3px 8px;
+      border-radius: var(--pill-radius);
+      background: var(--accent-muted);
+      color: var(--accent-primary);
+      border: 1px solid var(--accent-glow);
+    }
+
+    .intro-desc {
+      font-size: 13px;
+      color: var(--text-secondary);
+      line-height: 1.5;
+    }
+
+    /* Viewport Container */
+    .viewport-container {
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      transition: all 0.3s ease;
+    }
+
+    /* Mobile Frame Mockup */
+    .viewport-container.mode-mobile .phone-chassis {
+      width: 412px;
+      min-height: 840px;
+      max-height: 90vh;
+      background: var(--bg-canvas);
+      border: 10px solid #282725;
+      border-radius: 46px;
+      box-shadow: 0 25px 60px -15px rgba(0, 0, 0, 0.9), 0 0 0 1px rgba(255, 255, 255, 0.08);
+      position: relative;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+    }
+
+    [data-theme="light"] .viewport-container.mode-mobile .phone-chassis {
+      border-color: #D1C7BC;
+      box-shadow: 0 25px 50px -15px rgba(0, 0, 0, 0.25), 0 0 0 1px rgba(0, 0, 0, 0.08);
+    }
+
+    /* Mobile Top Island / Speaker Notch */
+    .phone-island {
+      height: 28px;
+      background: #181716;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 20px;
+      font-size: 11px;
+      font-weight: 700;
+      color: var(--text-muted);
+      user-select: none;
+      z-index: 100;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+    }
+
+    [data-theme="light"] .phone-island {
+      background: #E5DED5;
+    }
+
+    .phone-screen-scroll {
+      flex: 1;
+      overflow-y: auto;
+      overflow-x: hidden;
+      position: relative;
+      background: var(--bg-canvas);
+      padding-bottom: 90px;
+      scrollbar-width: thin;
+      scrollbar-color: var(--border-medium) transparent;
+    }
+
+    /* In-App Tab Bar (Mobile Shell) */
+    .phone-bottom-nav {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 64px;
+      background: var(--bg-surface-1);
+      border-top: 1px solid var(--border-subtle);
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      z-index: 90;
+      backdrop-filter: blur(12px);
+    }
+
+    .phone-nav-item {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 3px;
+      color: var(--text-muted);
+      font-size: 10px;
+      font-weight: 700;
+      text-decoration: none;
+      cursor: pointer;
+      transition: color 0.15s ease;
+    }
+
+    .phone-nav-item svg {
+      width: 20px;
+      height: 20px;
+      stroke-width: 2;
+    }
+
+    .phone-nav-item.active {
+      color: var(--accent-primary);
+    }
+
+    .phone-nav-item.active svg {
+      stroke: var(--accent-primary);
+    }
+
+    /* Desktop Expanded View */
+    .viewport-container.mode-expanded .phone-chassis {
+      width: 100%;
+      max-width: 1100px;
+      min-height: 800px;
+      background: var(--bg-surface-1);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--card-radius);
+      box-shadow: var(--shadow-md);
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .viewport-container.mode-expanded .phone-island {
+      display: none;
+    }
+
+    .viewport-container.mode-expanded .phone-bottom-nav {
+      display: none;
+    }
+
+    .viewport-container.mode-expanded .phone-screen-scroll {
+      padding-bottom: 40px;
+    }
+
+    /* =====================================================================
+       SHARED COMPONENTS & CALLOUTS (APP COMPATIBLE)
+       ===================================================================== */
+    .card-surface {
+      background: var(--bg-surface-1);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--card-radius);
+      padding: 16px;
+      box-shadow: var(--shadow-sm);
+      margin: 12px;
+      transition: border-color 0.2s ease;
+    }
+
+    .card-surface:hover {
+      border-color: var(--border-medium);
+    }
+
+    /* Apple Glide Status Toggle */
+    .apple-c {
+      position: relative;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 3px 10px 3px 4px;
+      border-radius: 999px;
+      background: var(--bg-surface-2);
+      border: 1px solid var(--border-subtle);
+      cursor: pointer;
+      user-select: none;
+      transition: border-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+      line-height: 1;
+    }
+    .apple-c:hover {
+      border-color: var(--text-muted);
+      transform: translateY(-1px);
+    }
+    .apple-c .track-c {
+      position: relative;
+      width: 48px;
+      height: 18px;
+      background: var(--bg-canvas);
+      border-radius: 999px;
+      border: 1px solid var(--border-subtle);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 6px;
+      box-sizing: border-box;
+    }
+    .apple-c .c-dot {
+      width: 3px;
+      height: 3px;
+      border-radius: 999px;
+      background: var(--text-faint);
+    }
+    .apple-c .halo-c {
+      position: absolute;
+      top: 1px;
+      left: 1px;
+      width: 14px;
+      height: 14px;
+      border-radius: 999px;
+      transition: transform 0.35s cubic-bezier(0.34, 1.6, 0.64, 1), background-color 0.25s ease;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .apple-c .halo-c.p0 { transform: translateX(0); background: #FF375F; box-shadow: 0 0 10px #FF375F; }
+    .apple-c .halo-c.p1 { transform: translateX(15px); background: #FF9F0A; box-shadow: 0 0 10px #FF9F0A; }
+    .apple-c .halo-c.p2 { transform: translateX(30px); background: #30D158; box-shadow: 0 0 10px #30D158; }
+    .apple-c .core-dot { width: 5px; height: 5px; border-radius: 999px; background: #fff; }
+    .apple-c .label { font-size: 11px; font-weight: 700; letter-spacing: 0.2px; min-width: 48px; }
+    .apple-c .label.unread { color: #FF375F; }
+    .apple-c .label.learning { color: #FF9F0A; }
+    .apple-c .label.learned { color: #30D158; }
+
+    /* Audio Speaker Button */
+    .btn-audio-speaker {
+      background: var(--accent-muted);
+      border: 1px solid var(--accent-glow);
+      color: var(--accent-primary);
+      width: 34px;
+      height: 34px;
+      border-radius: 50%;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      font-size: 16px;
+      transition: all 0.2s ease;
+    }
+    .btn-audio-speaker:hover {
+      background: var(--accent-primary);
+      color: #fff;
+      transform: scale(1.08);
+      box-shadow: 0 0 14px var(--accent-glow);
+    }
+    .btn-audio-speaker.is-speaking {
+      animation: pulse-glow 1s infinite alternate;
+    }
+    @keyframes pulse-glow {
+      0% { transform: scale(1); box-shadow: 0 0 6px var(--accent-primary); }
+      100% { transform: scale(1.15); box-shadow: 0 0 18px var(--accent-primary); }
+    }
+
+    /* =====================================================================
+       MOCKUP 1: MORPHOVISUAL STUDIO
+       (Visual Mnemonic Magazine + Anatomical Modagram Blueprint)
+       ===================================================================== */
+    .m1-hero-header {
+      position: relative;
+      height: 220px;
+      overflow: hidden;
+      border-bottom: 1px solid var(--border-subtle);
+    }
+
+    .m1-hero-img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      filter: brightness(0.65);
+      transition: transform 0.5s ease;
+    }
+    .m1-hero-header:hover .m1-hero-img {
+      transform: scale(1.03);
+    }
+
+    .m1-hero-overlay {
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(180deg, rgba(16, 15, 14, 0.2) 0%, rgba(16, 15, 14, 0.95) 100%);
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+      padding: 18px;
+    }
+
+    [data-theme="light"] .m1-hero-overlay {
+      background: linear-gradient(180deg, rgba(251, 249, 245, 0.2) 0%, rgba(251, 249, 245, 0.95) 100%);
+    }
+
+    .m1-discipline-pill {
+      align-self: flex-start;
+      font-size: 11px;
+      font-weight: 800;
+      padding: 3px 10px;
+      border-radius: var(--pill-radius);
+      background: var(--accent-primary);
+      color: #fff;
+      margin-bottom: 6px;
+      letter-spacing: 0.3px;
+    }
+
+    .m1-word-title {
+      font-family: var(--font-display);
+      font-size: 28px;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+      color: var(--text-primary);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .m1-word-meta {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      font-size: 13px;
+      color: var(--text-secondary);
+      margin-top: 4px;
+    }
+
+    /* Modagram Anatomical Blueprint */
+    .modagram-box {
+      background: var(--bg-surface-1);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--card-radius);
+      padding: 16px;
+      margin: 12px;
+    }
+
+    .modagram-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 12px;
+    }
+
+    .modagram-title {
+      font-family: var(--font-display);
+      font-weight: 800;
+      font-size: 13.5px;
+      color: var(--text-primary);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .modagram-tiles-row {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .modagram-tile {
+      flex: 1;
+      min-width: 100px;
+      background: var(--bg-surface-2);
+      border: 1px solid var(--border-subtle);
+      border-radius: 10px;
+      padding: 10px;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      text-align: center;
+      position: relative;
+    }
+
+    .modagram-tile:hover, .modagram-tile.active {
+      border-color: var(--accent-primary);
+      background: var(--accent-muted);
+      transform: translateY(-2px);
+    }
+
+    .modagram-tile-type {
+      font-size: 10px;
+      text-transform: uppercase;
+      font-weight: 800;
+      color: var(--text-muted);
+      letter-spacing: 0.5px;
+    }
+
+    .modagram-tile-morpheme {
+      font-family: var(--font-mono);
+      font-size: 16px;
+      font-weight: 700;
+      color: var(--accent-primary);
+      margin: 2px 0;
+    }
+
+    .modagram-tile-meaning {
+      font-size: 11px;
+      color: var(--text-secondary);
+      font-weight: 600;
+    }
+
+    .modagram-detail-card {
+      margin-top: 12px;
+      padding: 12px;
+      background: var(--bg-surface-2);
+      border-radius: 8px;
+      font-size: 12.5px;
+      border-left: 3px solid var(--accent-primary);
+      color: var(--text-secondary);
+      animation: fadeIn 0.2s ease;
+    }
+
+    /* M1 Visual Context Gallery */
+    .m1-gallery-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 10px;
+      margin-top: 10px;
+    }
+
+    .m1-gallery-item {
+      position: relative;
+      border-radius: 10px;
+      overflow: hidden;
+      aspect-ratio: 4/3;
+      cursor: pointer;
+      border: 1px solid var(--border-subtle);
+    }
+
+    .m1-gallery-item img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 0.3s ease;
+    }
+
+    .m1-gallery-item:hover img {
+      transform: scale(1.05);
+    }
+
+    .m1-gallery-label {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      padding: 6px 8px;
+      background: linear-gradient(0deg, rgba(0,0,0,0.85) 0%, transparent 100%);
+      font-size: 10.5px;
+      font-weight: 700;
+      color: #fff;
+    }
+
+    /* Semantic Spectrum Slider */
+    .semantic-spectrum-bar {
+      margin-top: 12px;
+      background: var(--bg-surface-2);
+      border-radius: 10px;
+      padding: 12px;
+    }
+
+    .spectrum-track {
+      height: 6px;
+      background: linear-gradient(90deg, #EF4444 0%, #F59E0B 50%, #22C55E 100%);
+      border-radius: 999px;
+      position: relative;
+      margin: 14px 6px;
+    }
+
+    .spectrum-marker {
+      position: absolute;
+      top: 50%;
+      left: 85%;
+      transform: translate(-50%, -50%);
+      width: 16px;
+      height: 16px;
+      border-radius: 50%;
+      background: #fff;
+      border: 3px solid var(--accent-primary);
+      box-shadow: 0 0 10px var(--accent-primary);
+    }
+
+    .spectrum-labels {
+      display: flex;
+      justify-content: space-between;
+      font-size: 11px;
+      color: var(--text-muted);
+      font-weight: 600;
+    }
+
+    /* =====================================================================
+       MOCKUP 2: OBSIDIAN GRAPH CODEX
+       (Bidirectional Knowledge Mindmap + Stratigraphy Timeline)
+       ===================================================================== */
+    .m2-canvas-container {
+      background: var(--bg-surface-1);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--card-radius);
+      margin: 12px;
+      overflow: hidden;
+      position: relative;
+    }
+
+    .m2-canvas-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border-subtle);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .m2-graph-interactive {
+      width: 100%;
+      height: 260px;
+      position: relative;
+      background: radial-gradient(circle at center, rgba(239, 68, 68, 0.04) 0%, transparent 70%);
+      cursor: crosshair;
+    }
+
+    .m2-node {
+      position: absolute;
+      transform: translate(-50%, -50%);
+      border-radius: var(--pill-radius);
+      padding: 6px 12px;
+      font-size: 11.5px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all 0.25s ease;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      box-shadow: var(--shadow-sm);
+      user-select: none;
+    }
+
+    .m2-node.center {
+      background: var(--accent-primary);
+      color: #fff;
+      font-size: 14px;
+      box-shadow: 0 0 20px var(--accent-glow);
+      z-index: 10;
+    }
+
+    .m2-node.root {
+      background: var(--bg-surface-2);
+      border: 1.5px solid var(--color-gold);
+      color: var(--color-gold);
+      z-index: 5;
+    }
+
+    .m2-node.cognate {
+      background: var(--bg-surface-2);
+      border: 1.5px solid var(--color-blue);
+      color: var(--color-blue);
+      z-index: 5;
+    }
+
+    .m2-node.antonym {
+      background: var(--bg-surface-2);
+      border: 1.5px solid #FF375F;
+      color: #FF375F;
+      z-index: 5;
+    }
+
+    .m2-node:hover {
+      transform: translate(-50%, -50%) scale(1.12);
+      z-index: 20;
+    }
+
+    /* Etymological Stratigraphy Timeline */
+    .stratigraphy-timeline {
+      padding: 14px 16px;
+    }
+
+    .strat-item {
+      display: flex;
+      gap: 12px;
+      position: relative;
+      padding-bottom: 14px;
+    }
+
+    .strat-item:not(:last-child)::before {
+      content: '';
+      position: absolute;
+      left: 12px;
+      top: 24px;
+      bottom: 0;
+      width: 2px;
+      background: var(--border-subtle);
+    }
+
+    .strat-dot {
+      width: 26px;
+      height: 26px;
+      border-radius: 50%;
+      background: var(--bg-surface-2);
+      border: 2px solid var(--accent-primary);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 11px;
+      font-weight: 800;
+      color: var(--accent-primary);
+      flex-shrink: 0;
+      z-index: 1;
+    }
+
+    .strat-content {
+      flex: 1;
+    }
+
+    .strat-era {
+      font-size: 11px;
+      font-weight: 800;
+      color: var(--color-gold);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .strat-word {
+      font-family: var(--font-mono);
+      font-weight: 700;
+      font-size: 13.5px;
+      color: var(--text-primary);
+    }
+
+    .strat-desc {
+      font-size: 12px;
+      color: var(--text-secondary);
+      margin-top: 2px;
+    }
+
+    /* Interactive Root Builder Game */
+    .m2-builder-box {
+      background: var(--bg-surface-2);
+      border-radius: 10px;
+      padding: 12px;
+      margin: 12px 0 4px 0;
+    }
+
+    .m2-builder-slots {
+      display: flex;
+      gap: 8px;
+      margin: 10px 0;
+    }
+
+    .m2-slot {
+      flex: 1;
+      height: 42px;
+      border: 2px dashed var(--border-medium);
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: var(--font-mono);
+      font-weight: 700;
+      color: var(--accent-primary);
+      font-size: 14px;
+    }
+
+    .m2-slot.filled {
+      border-style: solid;
+      border-color: var(--accent-primary);
+      background: var(--accent-muted);
+    }
+
+    .m2-chips-pool {
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+    }
+
+    .m2-chip {
+      background: var(--bg-surface-3);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--pill-radius);
+      padding: 4px 10px;
+      font-size: 12px;
+      font-weight: 700;
+      cursor: pointer;
+      user-select: none;
+    }
+    .m2-chip:hover {
+      background: var(--accent-primary);
+      color: #fff;
+    }
+
+    /* =====================================================================
+       MOCKUP 3: MULTI-SENSORY IMMERSION HUB
+       (Media Stream + Spoken Studio + Active Recall)
+       ===================================================================== */
+    .m3-audio-studio {
+      background: linear-gradient(135deg, var(--bg-surface-2) 0%, var(--bg-surface-1) 100%);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--card-radius);
+      padding: 16px;
+      margin: 12px;
+    }
+
+    .m3-studio-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 14px;
+    }
+
+    .m3-waveform-display {
+      height: 48px;
+      background: var(--bg-canvas);
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 3px;
+      padding: 0 12px;
+      border: 1px solid var(--border-subtle);
+    }
+
+    .m3-wave-bar {
+      width: 4px;
+      border-radius: 2px;
+      background: var(--accent-primary);
+      transition: height 0.15s ease;
+    }
+
+    .m3-syllables-track {
+      display: flex;
+      justify-content: center;
+      gap: 6px;
+      margin-top: 12px;
+    }
+
+    .m3-syllable-btn {
+      background: var(--bg-surface-3);
+      border: 1px solid var(--border-subtle);
+      border-radius: 8px;
+      padding: 6px 14px;
+      font-family: var(--font-mono);
+      font-size: 13px;
+      font-weight: 700;
+      color: var(--text-primary);
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    .m3-syllable-btn.stressed {
+      border-color: var(--accent-primary);
+      color: var(--accent-primary);
+      background: var(--accent-muted);
+    }
+
+    .m3-syllable-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 0 10px var(--accent-glow);
+    }
+
+    /* M3 DNA Ribbon */
+    .dna-ribbon-container {
+      margin: 12px;
+      overflow-x: auto;
+      scrollbar-width: none;
+    }
+    .dna-ribbon-container::-webkit-scrollbar { display: none; }
+
+    .dna-ribbon {
+      display: flex;
+      gap: 8px;
+      width: max-content;
+    }
+
+    .dna-pill {
+      background: var(--bg-surface-1);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--card-radius);
+      padding: 10px 14px;
+      min-width: 140px;
+      box-shadow: var(--shadow-sm);
+    }
+
+    .dna-pill-glyph {
+      font-size: 18px;
+      margin-bottom: 4px;
+    }
+
+    .dna-pill-name {
+      font-family: var(--font-mono);
+      font-weight: 700;
+      font-size: 13px;
+      color: var(--accent-primary);
+    }
+
+    .dna-pill-meaning {
+      font-size: 11px;
+      color: var(--text-secondary);
+    }
+
+    /* Rapid Active Recall Flash Box */
+    .m3-recall-box {
+      background: var(--bg-surface-1);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--card-radius);
+      padding: 16px;
+      margin: 12px;
+    }
+
+    .m3-recall-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 10px;
+    }
+
+    .m3-recall-options {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      margin-top: 10px;
+    }
+
+    .m3-recall-btn {
+      padding: 10px 14px;
+      background: var(--bg-surface-2);
+      border: 1px solid var(--border-subtle);
+      border-radius: 8px;
+      font-size: 12.5px;
+      font-weight: 600;
+      color: var(--text-primary);
+      text-align: left;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    .m3-recall-btn:hover {
+      background: var(--bg-surface-3);
+      border-color: var(--border-medium);
+    }
+
+    .m3-recall-btn.correct {
+      background: rgba(34, 197, 94, 0.2) !important;
+      border-color: #22C55E !important;
+      color: #22C55E !important;
+    }
+
+    .m3-recall-btn.wrong {
+      background: rgba(239, 68, 68, 0.2) !important;
+      border-color: #EF4444 !important;
+      color: #EF4444 !important;
+    }
+
+    /* =====================================================================
+       MOCKUP 4: BENTO COGNITION LAB
+       (Modular Polymath Bento Grid + Nuance Quadrant)
+       ===================================================================== */
+    .bento-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 12px;
+      margin: 12px;
+    }
+
+    .bento-item {
+      background: var(--bg-surface-1);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--card-radius);
+      padding: 14px;
+      box-shadow: var(--shadow-sm);
+      display: flex;
+      flex-direction: column;
+    }
+
+    .bento-item.span-2 {
+      grid-column: span 2;
+    }
+
+    .bento-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 8px;
+    }
+
+    .bento-title {
+      font-size: 12px;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      color: var(--text-muted);
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    /* Collocations Box */
+    .collocation-chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-top: 6px;
+    }
+
+    .colloc-chip {
+      background: var(--bg-surface-2);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--pill-radius);
+      padding: 4px 10px;
+      font-size: 11.5px;
+      font-weight: 600;
+      color: var(--text-secondary);
+      cursor: pointer;
+      transition: all 0.2s ease;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    .colloc-chip:hover {
+      background: var(--accent-muted);
+      color: var(--text-primary);
+      border-color: var(--accent-glow);
+    }
+
+    /* Nuance 2D Compass */
+    .nuance-compass-container {
+      width: 100%;
+      height: 140px;
+      background: var(--bg-surface-2);
+      border-radius: 8px;
+      position: relative;
+      overflow: hidden;
+      margin-top: 6px;
+      border: 1px solid var(--border-subtle);
+    }
+
+    .nuance-axis-x {
+      position: absolute;
+      top: 50%;
+      left: 0;
+      right: 0;
+      height: 1px;
+      background: var(--border-medium);
+    }
+
+    .nuance-axis-y {
+      position: absolute;
+      left: 50%;
+      top: 0;
+      bottom: 0;
+      width: 1px;
+      background: var(--border-medium);
+    }
+
+    .nuance-plot-point {
+      position: absolute;
+      transform: translate(-50%, -50%);
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      background: var(--accent-primary);
+      box-shadow: 0 0 10px var(--accent-glow);
+    }
+
+    .nuance-point-label {
+      position: absolute;
+      font-size: 10px;
+      font-weight: 800;
+      white-space: nowrap;
+      color: var(--text-primary);
+      transform: translate(8px, -6px);
+      background: rgba(0,0,0,0.7);
+      padding: 1px 4px;
+      border-radius: 4px;
+    }
+
+    /* =====================================================================
+       MOCKUP 5: AUGMENTED WEB LEXICON
+       (Stylized In-App Browser + AI Deep Reading HUD)
+       ===================================================================== */
+    .browser-app-shell {
+      margin: 12px;
+      background: var(--bg-surface-1);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--card-radius);
+      overflow: hidden;
+      box-shadow: var(--shadow-md);
+    }
+
+    .browser-address-bar {
+      background: var(--bg-surface-2);
+      padding: 8px 12px;
+      border-bottom: 1px solid var(--border-subtle);
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .browser-nav-dots {
+      display: flex;
+      gap: 5px;
+    }
+
+    .b-dot {
+      width: 9px;
+      height: 9px;
+      border-radius: 50%;
+      background: var(--border-medium);
+    }
+    .b-dot.red { background: #FF5F56; }
+    .b-dot.yellow { background: #FFBD2E; }
+    .b-dot.green { background: #27C93F; }
+
+    .browser-url-pill {
+      flex: 1;
+      background: var(--bg-canvas);
+      border: 1px solid var(--border-subtle);
+      border-radius: 8px;
+      padding: 5px 12px;
+      font-family: var(--font-mono);
+      font-size: 11px;
+      color: var(--text-secondary);
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+    }
+
+    .browser-source-tabs {
+      display: flex;
+      background: var(--bg-surface-2);
+      border-bottom: 1px solid var(--border-subtle);
+      overflow-x: auto;
+      scrollbar-width: none;
+    }
+    .browser-source-tabs::-webkit-scrollbar { display: none; }
+
+    .b-tab-btn {
+      padding: 8px 14px;
+      font-size: 12px;
+      font-weight: 700;
+      color: var(--text-muted);
+      background: transparent;
+      border: none;
+      border-bottom: 2px solid transparent;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: all 0.2s ease;
+    }
+
+    .b-tab-btn.active {
+      color: var(--accent-primary);
+      border-bottom-color: var(--accent-primary);
+      background: rgba(255, 255, 255, 0.03);
+    }
+
+    .browser-content-pane {
+      padding: 16px;
+      font-size: 13px;
+      line-height: 1.6;
+    }
+
+    .wiktionary-box {
+      background: var(--bg-surface-2);
+      border-radius: 8px;
+      padding: 12px;
+      margin-top: 10px;
+      border-left: 3px solid var(--color-blue);
+    }
+
+    .highlight-root {
+      background: var(--accent-muted);
+      color: var(--accent-primary);
+      padding: 1px 4px;
+      border-radius: 4px;
+      font-weight: 700;
+      cursor: pointer;
+    }
+
+    /* Persistent Bottom Dock */
+    .browser-sticky-dock {
+      background: var(--bg-surface-2);
+      border-top: 1px solid var(--border-subtle);
+      padding: 10px 14px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    /* =====================================================================
+       MOCKUP COMPARISON MATRIX VIEW
+       ===================================================================== */
+    .matrix-container {
+      width: 100%;
+      max-width: 1000px;
+      margin: 20px auto;
+      padding: 16px;
+      background: var(--bg-surface-1);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--card-radius);
+      box-shadow: var(--shadow-md);
+    }
+
+    .matrix-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 14px;
+      font-size: 12.5px;
+    }
+
+    .matrix-table th, .matrix-table td {
+      padding: 12px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border-subtle);
+    }
+
+    .matrix-table th {
+      background: var(--bg-surface-2);
+      font-family: var(--font-display);
+      font-weight: 800;
+      color: var(--text-primary);
+    }
+
+    .matrix-table tr:hover td {
+      background: rgba(255, 255, 255, 0.02);
+    }
+
+    .matrix-score {
+      display: inline-flex;
+      align-items: center;
+      gap: 2px;
+      font-weight: 800;
+      color: var(--color-gold);
+    }
+
+    .btn-select-concept {
+      background: var(--accent-primary);
+      color: #fff;
+      border: none;
+      padding: 6px 12px;
+      border-radius: 6px;
+      font-weight: 700;
+      font-size: 11.5px;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    .btn-select-concept:hover {
+      background: var(--accent-hover);
+      transform: scale(1.05);
+    }
+
+    /* Modal for feedback / selection */
+    .modal-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.75);
+      backdrop-filter: blur(8px);
+      z-index: 9999;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+
+    .modal-card {
+      background: var(--bg-surface-1);
+      border: 1px solid var(--border-medium);
+      border-radius: 18px;
+      max-width: 520px;
+      width: 100%;
+      padding: 24px;
+      box-shadow: var(--shadow-lg);
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(6px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+</head>
+<body data-theme="dark">
+
+  <!-- ===================================================================
+       SHOWCASE STICKY CONTROL HEADER
+       =================================================================== -->
+  <header class="showcase-header">
+    <div class="showcase-header-inner">
+      <div class="brand-group">
+        <div class="brand-icon">🏛️</div>
+        <div>
+          <div class="brand-title">Tab 3: Deep Word Browser Mockup Studio</div>
+          <div class="brand-sub">Multi-Channel Sensory Reinforcement · 5 Interactive Concepts</div>
+        </div>
+      </div>
+
+      <div class="controls-group">
+        <!-- Word Picker -->
+        <div class="control-pill-select" title="Switch simulated active word from Tab 2">
+          <span>📖 Active Word:</span>
+          <select id="select-active-word">
+            <option value="magnanimous">magnanimous (Latin)</option>
+            <option value="ephemeral">ephemeral (Greek)</option>
+            <option value="bellicose">bellicose (Latin)</option>
+            <option value="benevolent">benevolent (Latin)</option>
+            <option value="chronology">chronology (Greek)</option>
+          </select>
+        </div>
+
+        <!-- Viewport Switcher -->
+        <div class="control-pill-select" title="Toggle between mobile phone preview and wide screen">
+          <span>🖥️ Viewport:</span>
+          <select id="select-viewport-mode">
+            <option value="mobile">📱 Mobile Phone Frame</option>
+            <option value="expanded">💻 Expanded Desktop</option>
+          </select>
+        </div>
+
+        <!-- Theme Toggle -->
+        <button class="btn-toggle-round" id="btn-theme-toggle" title="Toggle Obsidian Dark / Birch Light">
+          <span id="theme-icon">🌙</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- 5 Mockup Tabs + Comparison Matrix -->
+    <div class="mockup-nav-tabs" id="mockup-tabs-bar">
+      <button class="mockup-tab-btn is-active" data-mockup="1">
+        <span>📸 1. MorphoVisual Studio</span>
+        <span class="mockup-tab-badge">Magazine &amp; Modagram</span>
+      </button>
+      <button class="mockup-tab-btn" data-mockup="2">
+        <span>🕸️ 2. Obsidian Graph Codex</span>
+        <span class="mockup-tab-badge">Mindmap &amp; Timeline</span>
+      </button>
+      <button class="mockup-tab-btn" data-mockup="3">
+        <span>🎧 3. Multi-Sensory Immersion Hub</span>
+        <span class="mockup-tab-badge">Audio Studio &amp; Stream</span>
+      </button>
+      <button class="mockup-tab-btn" data-mockup="4">
+        <span>🍱 4. Bento Cognition Lab</span>
+        <span class="mockup-tab-badge">Modular Polymath Grid</span>
+      </button>
+      <button class="mockup-tab-btn" data-mockup="5">
+        <span>🌐 5. Augmented Web Lexicon</span>
+        <span class="mockup-tab-badge">Stylized Browser HUD</span>
+      </button>
+      <button class="mockup-tab-btn" data-mockup="matrix" style="border-left: 1px solid var(--border-medium); margin-left: 6px;">
+        <span>📊 Comparison &amp; Vote</span>
+        <span class="mockup-tab-badge">Matrix</span>
+      </button>
+    </div>
+  </header>
+
+  <!-- ===================================================================
+       MAIN WORKSPACE
+       =================================================================== -->
+  <main class="main-workspace">
+
+    <!-- Pedagogical & Architectural Header Banner for Selected Concept -->
+    <div class="mockup-intro-banner" id="mockup-intro-banner">
+      <div class="intro-title-row">
+        <div class="intro-title" id="mockup-banner-title">
+          <span>📸 Mockup 1: MorphoVisual Studio</span>
+        </div>
+        <div class="intro-tag" id="mockup-banner-tag">Visual &amp; Morphological Focus</div>
+      </div>
+      <div class="intro-desc" id="mockup-banner-desc">
+        Focuses on high-impact visual memory anchors paired with an anatomical exploded <strong>Modagram blueprint</strong> (Prefix + Root + Suffix tiles). Clicking any morpheme expands its cognates and classical root family. Includes acoustic syllable stress audio and semantic spectrum slider.
+      </div>
+    </div>
+
+    <!-- Active Viewport (Mobile Phone Frame or Desktop Canvas) -->
+    <div class="viewport-container mode-mobile" id="viewport-container">
+
+      <!-- The Phone Chassis (When in Mobile Mode) -->
+      <div class="phone-chassis">
+
+        <!-- Mobile Island / Status -->
+        <div class="phone-island">
+          <span>9:41</span>
+          <div style="display:flex; gap:6px; align-items:center;">
+            <span>5G</span>
+            <span>100% 🔋</span>
+          </div>
+        </div>
+
+        <!-- Scrollable Tab Content Container -->
+        <div class="phone-screen-scroll" id="phone-screen-scroll">
+          <!-- Dynamic Mockup HTML will be rendered here by JS -->
+        </div>
+
+        <!-- In-App Bottom Navigation Bar (Faithful to App) -->
+        <nav class="phone-bottom-nav">
+          <div class="phone-nav-item">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><rect x="3" y="3" width="7" height="9"></rect><rect x="14" y="3" width="7" height="5"></rect><rect x="14" y="12" width="7" height="9"></rect><rect x="3" y="16" width="7" height="5"></rect></svg>
+            <span>Dashboards</span>
+          </div>
+          <div class="phone-nav-item">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><rect x="2" y="7" width="20" height="14" rx="2" ry="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>
+            <span>Word Cards</span>
+          </div>
+          <div class="phone-nav-item active">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
+            <span>Browser</span>
+          </div>
+          <div class="phone-nav-item">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>
+            <span>Settings</span>
+          </div>
+        </nav>
+
+      </div>
+    </div>
+
+    <!-- Comparison Matrix Screen (Visible when Matrix tab is selected) -->
+    <div class="matrix-container" id="matrix-container" style="display: none;">
+      <h2 style="font-family: var(--font-display); font-size: 20px; font-weight: 800; margin-bottom: 6px;">
+        🏛️ Architectural Comparison Matrix: Which Model Fits Tab 3 Best?
+      </h2>
+      <p style="font-size: 13px; color: var(--text-secondary); margin-bottom: 16px;">
+        Compare all 5 paradigms across learning psychology, mobile ergonomic speed, visual depth, and implementation complexity before selecting.
+      </p>
+
+      <table class="matrix-table">
+        <thead>
+          <tr>
+            <th>Concept</th>
+            <th>Primary Sensory Channel</th>
+            <th>Modagram Style</th>
+            <th>Cognitive Depth</th>
+            <th>Action</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              <strong>1. MorphoVisual Studio</strong><br/>
+              <span style="font-size:11px; color:var(--text-muted);">Magazine &amp; Blueprint</span>
+            </td>
+            <td>High-impact photography + Syllable stress soundboard</td>
+            <td>Anatomical Exploded Tiles (Prefix+Root+Suffix)</td>
+            <td><span class="matrix-score">★★★★★</span> (Visual Mnemonic)</td>
+            <td><button class="btn-select-concept" onclick="window.selectConcept(1)">Vote #1</button></td>
+          </tr>
+          <tr>
+            <td>
+              <strong>2. Obsidian Graph Codex</strong><br/>
+              <span style="font-size:11px; color:var(--text-muted);">Mindmap &amp; Timeline</span>
+            </td>
+            <td>Interactive SVG Graph Node Canvas</td>
+            <td>Draggable Relational Constellation</td>
+            <td><span class="matrix-score">★★★★★</span> (Etymological)</td>
+            <td><button class="btn-select-concept" onclick="window.selectConcept(2)">Vote #2</button></td>
+          </tr>
+          <tr>
+            <td>
+              <strong>3. Multi-Sensory Immersion Hub</strong><br/>
+              <span style="font-size:11px; color:var(--text-muted);">Audio Studio &amp; Stream</span>
+            </td>
+            <td>Spoken studio (Karaoke sync) + Rapid active recall</td>
+            <td>DNA Morpheme Ribbon tape</td>
+            <td><span class="matrix-score">★★★★☆</span> (Auditory &amp; Recall)</td>
+            <td><button class="btn-select-concept" onclick="window.selectConcept(3)">Vote #3</button></td>
+          </tr>
+          <tr>
+            <td>
+              <strong>4. Bento Cognition Lab</strong><br/>
+              <span style="font-size:11px; color:var(--text-muted);">Modular Polymath Grid</span>
+            </td>
+            <td>Modular 2x2 grid (Collocations, Nuance Compass, Cloze)</td>
+            <td>Branching Root Matrix Box</td>
+            <td><span class="matrix-score">★★★★★</span> (Multilateral)</td>
+            <td><button class="btn-select-concept" onclick="window.selectConcept(4)">Vote #4</button></td>
+          </tr>
+          <tr>
+            <td>
+              <strong>5. Augmented Web Lexicon</strong><br/>
+              <span style="font-size:11px; color:var(--text-muted);">Stylized Browser HUD</span>
+            </td>
+            <td>Stylized in-app browser with Wiktionary/Etym tabs</td>
+            <td>Collapsible Top Drawer HUD</td>
+            <td><span class="matrix-score">★★★★★</span> (Encyclopedic)</td>
+            <td><button class="btn-select-concept" onclick="window.selectConcept(5)">Vote #5</button></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+  </main>
+
+  <!-- ===================================================================
+       VOTE / SELECTION CONFIRMATION MODAL
+       =================================================================== -->
+  <div id="selection-modal" class="modal-overlay" style="display: none;">
+    <div class="modal-card">
+      <div style="font-size: 32px; margin-bottom: 8px;">🎯</div>
+      <h3 id="modal-concept-title" style="font-family: var(--font-display); font-size: 18px; font-weight: 800; color: var(--text-primary); margin-bottom: 8px;">
+        Concept Selected!
+      </h3>
+      <p id="modal-concept-desc" style="font-size: 13px; color: var(--text-secondary); line-height: 1.5; margin-bottom: 16px;">
+        You've selected this concept. Once confirmed, we will generate the step-by-step implementation plan for Tab 3 and scale it across your entire vault.
+      </p>
+      <div style="display: flex; gap: 10px; justify-content: flex-end;">
+        <button class="mockup-tab-btn" onclick="document.getElementById('selection-modal').style.display='none'">Back to Testing</button>
+        <button class="btn-select-concept" id="btn-copy-selection">Confirm Choice</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===================================================================
+       CLIENT LOGIC & INTERACTIVE MOCKUP CONTROLLER
+       =================================================================== -->
+  <script>
+    // --- 1. RICH DATABASE OF SAMPLE WORDS FOR MULTI-CHANNEL TESTING ---
+    const WORDS_DB = {
+      magnanimous: {
+        word: "magnanimous",
+        pos: "adjective",
+        ipa: "/mæɡˈnæn.ɪ.məs/",
+        syllables: ["mag", "NAN", "i", "mous"],
+        status: "unread",
+        discipline: "📜 Latin Root",
+        rootName: "Dashboard — magn",
+        rootCluster: "Cluster Quantity & Magnitude",
+        rootMeaning: "great, large, elevated",
+        cognitiveAnchor: "Think of a magnifying glass enlarging things, or a magnificent cathedral: magnus always denotes vast scale and elevation.",
+        definitions: {
+          primary: "Generous or forgiving, especially toward a rival or less powerful person; unselfish and rising above petty resentments.",
+          secondary: "In classical ethics and statecraft, the virtue of high-minded nobility (*megalopsychia*), refusing to demean victory with arrogance or vengeance."
+        },
+        modagram: {
+          prefix: { morpheme: "magn-", origin: "Latin magnus", meaning: "great, large", cognates: ["magnificent", "magnitude", "magnate"] },
+          root: { morpheme: "-anim-", origin: "Latin animus", meaning: "mind, spirit, soul", cognates: ["animate", "equanimity", "pusillanimous"] },
+          suffix: { morpheme: "-ous", origin: "Latin -osus", meaning: "full of, having quality of", cognates: ["generous", "illustrious", "glorious"] }
+        },
+        images: [
+          {
+            url: "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?auto=format&fit=crop&w=800&q=80",
+            caption: "Generous Reconciliation",
+            scenario: "A victor extending hand to an opponent, embodying grace over rivalry."
+          },
+          {
+            url: "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=800&q=80",
+            caption: "Elevation of Character",
+            scenario: "Enduring stoic majesty like a beacon refusing to be swayed by pettiness."
+          }
+        ],
+        quotes: [
+          {
+            quote: "He was not only great in war, but **magnanimous** in peace, forgiving the bitterest of his adversaries.",
+            author: "Edward Gibbon",
+            work: "The Decline and Fall of the Roman Empire"
+          },
+          {
+            quote: "A noble nature is ever **magnanimous**, taking no petty revenge upon the fallen.",
+            author: "George Eliot",
+            work: "Middlemarch"
+          }
+        ],
+        collocations: ["magnanimous gesture", "magnanimous in victory", "magnanimous victor", "magnanimous concession"],
+        nuance: { formality: 9, valence: 9, intensity: 8 },
+        spectrum: { left: "Pettily Spiteful", mid: "Strictly Fair", right: "Magnanimous (High-Minded)" },
+        quiz: {
+          question: "Which of the following describes a 'magnanimous' act?",
+          options: [
+            { text: "Demanding strict penalties for every minor infraction", correct: false },
+            { text: "Pardoning an outspoken political rival after winning the election", correct: true },
+            { text: "Accumulating vast wealth through aggressive expansion", correct: false }
+          ],
+          explanation: "Magnanimity literally translates to 'greatness of soul'—choosing forgiveness and nobility over vengeance."
+        }
+      },
+
+      ephemeral: {
+        word: "ephemeral",
+        pos: "adjective",
+        ipa: "/ɪˈfɛm.ər.əl/",
+        syllables: ["e", "PHEM", "er", "al"],
+        status: "learning",
+        discipline: "🏛️ Greek Root",
+        rootName: "Dashboard — hemer",
+        rootCluster: "Cluster Time & Chronology",
+        rootMeaning: "day, daily duration",
+        cognitiveAnchor: "Think of an ephemeris (a daily astronomical table) or a mayfly living for just one day.",
+        definitions: {
+          primary: "Lasting for a very short time; transient, fleeting, and evanescent.",
+          secondary: "In botanical and zoological taxonomy, organisms (such as desert spring flowers or mayflies) whose lifecycle is completed in hours or days."
+        },
+        modagram: {
+          prefix: { morpheme: "epi-", origin: "Greek epi-", meaning: "upon, for the duration of", cognates: ["epicenter", "epitome", "epidermis"] },
+          root: { morpheme: "-hemer-", origin: "Greek hēmera", meaning: "day", cognates: ["ephemeris", "hemerotheca", "decalogue"] },
+          suffix: { morpheme: "-al", origin: "Latin -alis", meaning: "pertaining to, characterized by", cognates: ["temporal", "diurnal", "vernal"] }
+        },
+        images: [
+          {
+            url: "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?auto=format&fit=crop&w=800&q=80",
+            caption: "Morning Dew on Blossom",
+            scenario: "A water drop glistening briefly before evaporating into the morning sun."
+          },
+          {
+            url: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
+            caption: "Tidal Waves in Sand",
+            scenario: "Footprints washed away in seconds by incoming tides."
+          }
+        ],
+        quotes: [
+          {
+            quote: "Fame is an **ephemeral** shadow, vanishing before the steady gaze of time.",
+            author: "Marcus Aurelius",
+            work: "Meditations"
+          },
+          {
+            quote: "The beauty of youth is **ephemeral**, yet the wisdom of years endures.",
+            author: "John Locke",
+            work: "An Essay Concerning Human Understanding"
+          }
+        ],
+        collocations: ["ephemeral beauty", "ephemeral nature", "ephemeral trends", "ephemeral pleasures"],
+        nuance: { formality: 8, valence: 6, intensity: 7 },
+        spectrum: { left: "Permanent / Eternal", mid: "Seasonal", right: "Ephemeral (Fleeting as Dawn)" },
+        quiz: {
+          question: "What is an 'ephemeral' experience?",
+          options: [
+            { text: "A momentary sunset that lasts only a few vibrant minutes", correct: true },
+            { text: "A geological mountain range formed over millennia", correct: false },
+            { text: "A legal constitutional amendment intended for centuries", correct: false }
+          ],
+          explanation: "From Greek epi + hemera ('lasting only for a day')."
+        }
+      },
+
+      bellicose: {
+        word: "bellicose",
+        pos: "adjective",
+        ipa: "/ˈbɛl.ɪ.koʊs/",
+        syllables: ["BEL", "li", "cose"],
+        status: "unread",
+        discipline: "📜 Latin Root",
+        rootName: "Dashboard — bell",
+        rootCluster: "Cluster War & Conflict",
+        rootMeaning: "war, battle, martial hostility",
+        cognitiveAnchor: "Think of rebellion or belligerent: bellum is the classical Latin root for war.",
+        definitions: {
+          primary: "Demonstrating aggression and willingness to fight; aggressively hostile or warlike in temperament.",
+          secondary: "In diplomatic history and statecraft, a rhetoric or stance characterized by persistent provocation and saber-rattling."
+        },
+        modagram: {
+          prefix: { morpheme: "bell-", origin: "Latin bellum", meaning: "war", cognates: ["belligerent", "antebellum", "rebellion"] },
+          root: { morpheme: "-ic-", origin: "Latin -icus", meaning: "characteristic of", cognates: ["polemic", "martial", "civic"] },
+          suffix: { morpheme: "-ose", origin: "Latin -osus", meaning: "prone to, full of", cognates: ["verbose", "grandiose", "comatose"] }
+        },
+        images: [
+          {
+            url: "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=800&q=80",
+            caption: "Martial Bronze Warrior",
+            scenario: "An aggressive posture poised for combat rather than conciliation."
+          }
+        ],
+        quotes: [
+          {
+            quote: "The general was known for his **bellicose** speeches that left little room for peaceful negotiations.",
+            author: "Winston Churchill",
+            work: "The Gathering Storm"
+          }
+        ],
+        collocations: ["bellicose rhetoric", "bellicose posture", "bellicose nation", "bellicose threats"],
+        nuance: { formality: 8, valence: 2, intensity: 9 },
+        spectrum: { left: "Pacifist / Conciliatory", mid: "Defensive", right: "Bellicose (Aggressively Warlike)" },
+        quiz: {
+          question: "Which nation's stance is considered 'bellicose'?",
+          options: [
+            { text: "One that disarms border patrols and signs peace treaties", correct: false },
+            { text: "One that conducts aggressive military drills accompanied by threats", correct: true }
+          ],
+          explanation: "Bellicose means actively looking for a fight."
+        }
+      },
+
+      benevolent: {
+        word: "benevolent",
+        pos: "adjective",
+        ipa: "/bəˈnɛv.əl.ənt/",
+        syllables: ["be", "NEV", "o", "lent"],
+        status: "learned",
+        discipline: "📜 Latin Root",
+        rootName: "Dashboard — bene",
+        rootCluster: "Cluster Good & Virtue",
+        rootMeaning: "good, well, kindly",
+        cognitiveAnchor: "Think of benefit, beneficiary, and volunteer: bene (well) + velle (to wish).",
+        definitions: {
+          primary: "Well-meaning and kindly; actively disposed to promote the welfare of others.",
+          secondary: "Characterized by charitable giving or philanthropic governance, seeking social uplift without malice."
+        },
+        modagram: {
+          prefix: { morpheme: "bene-", origin: "Latin bene", meaning: "well, good", cognates: ["benefit", "benign", "benefactor"] },
+          root: { morpheme: "-vol-", origin: "Latin voluntas", meaning: "wish, will, desire", cognates: ["voluntary", "volition", "malevolent"] },
+          suffix: { morpheme: "-ent", origin: "Latin -entem", meaning: "state of doing / participle", cognates: ["patient", "radiant", "potent"] }
+        },
+        images: [
+          {
+            url: "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?auto=format&fit=crop&w=800&q=80",
+            caption: "Charitable Kindness",
+            scenario: "Promoting community welfare through compassionate, unconditional aid."
+          }
+        ],
+        quotes: [
+          {
+            quote: "The **benevolent** ruler saw his position not as a license for luxury, but as a solemn duty to protect the vulnerable.",
+            author: "Adam Smith",
+            work: "The Theory of Moral Sentiments"
+          }
+        ],
+        collocations: ["benevolent leader", "benevolent donor", "benevolent intent", "benevolent smile"],
+        nuance: { formality: 7, valence: 9, intensity: 7 },
+        spectrum: { left: "Malevolent (Evil Will)", mid: "Indifferent", right: "Benevolent (Abundant Goodwill)" },
+        quiz: {
+          question: "What is the direct antonym of benevolent formed from the same root?",
+          options: [
+            { text: "Malevolent", correct: true },
+            { text: "Insolvent", correct: false },
+            { text: "Equivocal", correct: false }
+          ],
+          explanation: "Benevolent (good will) contrasts with malevolent (evil will, from mal- + vol-)."
+        }
+      },
+
+      chronology: {
+        word: "chronology",
+        pos: "noun",
+        ipa: "/krəˈnɒl.ə.dʒi/",
+        syllables: ["chro", "NOL", "o", "gy"],
+        status: "learning",
+        discipline: "🏛️ Greek Root",
+        rootName: "Dashboard — chron",
+        rootCluster: "Cluster Time & Chronology",
+        rootMeaning: "time, sequence, duration",
+        cognitiveAnchor: "Think of an Olympic chronograph stopwatch or chronic conditions persisting over time.",
+        definitions: {
+          primary: "The arrangement of events or dates in the exact sequential order of their occurrence.",
+          secondary: "The scientific discipline of establishing the historical order of past events using astronomical and archival dating."
+        },
+        modagram: {
+          prefix: { morpheme: "chron-", origin: "Greek chronos", meaning: "time", cognates: ["chronic", "synchronize", "anachronism"] },
+          root: { morpheme: "-o-", origin: "Greek connecting vowel", meaning: "structural nexus", cognates: ["chronometer"] },
+          suffix: { morpheme: "-logy", origin: "Greek logos", meaning: "study, discourse, science", cognates: ["geology", "biology", "etymology"] }
+        },
+        images: [
+          {
+            url: "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=800&q=80",
+            caption: "Pocket Watch & Time Scales",
+            scenario: "Measuring the steady, linear progression of historical moments."
+          }
+        ],
+        quotes: [
+          {
+            quote: "Without accurate **chronology**, history dissolves into mere myth and conjecture.",
+            author: "David Hume",
+            work: "The History of England"
+          }
+        ],
+        collocations: ["strict chronology", "historical chronology", "reverse chronology", "detailed chronology"],
+        nuance: { formality: 8, valence: 5, intensity: 6 },
+        spectrum: { left: "Disordered Chaos", mid: "Thematic Clusters", right: "Strict Chronology (Linear Sequence)" },
+        quiz: {
+          question: "An item placed in the wrong chronological time period is called:",
+          options: [
+            { text: "An anachronism", correct: true },
+            { text: "A tautology", correct: false },
+            { text: "A synecdoche", correct: false }
+          ],
+          explanation: "Ana- (backwards/against) + chronos (time) = anachronism."
+        }
+      }
+    };
+
+    // Current State
+    let currentWordKey = "magnanimous";
+    let activeMockupId = "1";
+    let isDarkMode = true;
+
+    // --- 2. RENDER FUNCTIONS FOR THE 5 MOCKUPS ---
+
+    function getWord() {
+      return WORDS_DB[currentWordKey];
+    }
+
+    // Helper: Speak word via Web Speech API
+    function speakText(text, rate = 1.0) {
+      if ('speechSynthesis' in window) {
+        window.speechSynthesis.cancel();
+        const utter = new SpeechSynthesisUtterance(text);
+        utter.rate = rate;
+        utter.lang = 'en-US';
+        const speakerBtns = document.querySelectorAll('.btn-audio-speaker');
+        speakerBtns.forEach(b => b.classList.add('is-speaking'));
+        utter.onend = () => speakerBtns.forEach(b => b.classList.remove('is-speaking'));
+        utter.onerror = () => speakerBtns.forEach(b => b.classList.remove('is-speaking'));
+        window.speechSynthesis.speak(utter);
+      } else {
+        alert("Web Speech API is not supported in this browser.");
+      }
+    }
+
+    // --- MOCKUP 1: MORPHOVISUAL STUDIO ---
+    function renderMockup1(w) {
+      return `
+        <!-- Hero Visual Header -->
+        <div class="m1-hero-header">
+          <img class="m1-hero-img" src="${w.images[0].url}" alt="${w.word}" onerror="this.src='https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?auto=format&fit=crop&w=800&q=80'" />
+          <div class="m1-hero-overlay">
+            <span class="m1-discipline-pill">${w.discipline}</span>
+            <div class="m1-word-title">
+              <span>${w.word}</span>
+              <button class="btn-audio-speaker" onclick="speakText('${w.word}')" title="Pronounce">🔊</button>
+            </div>
+            <div class="m1-word-meta">
+              <span>${w.pos}</span>
+              <span>•</span>
+              <span style="font-family: var(--font-mono);">${w.ipa}</span>
+              <span>•</span>
+              <span style="color: var(--color-gold);">${w.rootCluster}</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Status & Apple Toggle Mount -->
+        <div style="display:flex; justify-content:space-between; align-items:center; padding:12px 14px 4px 14px;">
+          <div style="font-size: 11px; font-weight:800; color:var(--text-muted); text-transform:uppercase;">Learning Status</div>
+          <div class="apple-c" onclick="cycleWordStatus()">
+            <div class="track-c">
+              <span class="c-dot"></span><span class="c-dot"></span><span class="c-dot"></span>
+              <div class="halo-c ${w.status === 'learned' ? 'p2' : w.status === 'learning' ? 'p1' : 'p0'}">
+                <div class="core-dot"></div>
+              </div>
+            </div>
+            <span class="label ${w.status}">${w.status}</span>
+          </div>
+        </div>
+
+        <!-- 1. The Modagram Blueprint (Exploded Morphological Box) -->
+        <div class="modagram-box">
+          <div class="modagram-header">
+            <div class="modagram-title">
+              <span>🧩</span>
+              <span>Anatomical Modagram Blueprint</span>
+            </div>
+            <span style="font-size:11px; color:var(--accent-primary); font-weight:700;">Tap Tiles to Deconstruct</span>
+          </div>
+
+          <div class="modagram-tiles-row">
+            <div class="modagram-tile active" id="tile-prefix" onclick="showModagramPart('prefix')">
+              <div class="modagram-tile-type">Prefix/Base</div>
+              <div class="modagram-tile-morpheme">${w.modagram.prefix.morpheme}</div>
+              <div class="modagram-tile-meaning">${w.modagram.prefix.meaning}</div>
+            </div>
+            <div class="modagram-tile" id="tile-root" onclick="showModagramPart('root')">
+              <div class="modagram-tile-type">Core Root</div>
+              <div class="modagram-tile-morpheme">${w.modagram.root.morpheme}</div>
+              <div class="modagram-tile-meaning">${w.modagram.root.meaning}</div>
+            </div>
+            <div class="modagram-tile" id="tile-suffix" onclick="showModagramPart('suffix')">
+              <div class="modagram-tile-type">Suffix</div>
+              <div class="modagram-tile-morpheme">${w.modagram.suffix.morpheme}</div>
+              <div class="modagram-tile-meaning">${w.modagram.suffix.meaning}</div>
+            </div>
+          </div>
+
+          <div class="modagram-detail-card" id="modagram-detail-pane">
+            <strong>Etymology:</strong> ${w.modagram.prefix.origin} (“${w.modagram.prefix.meaning}”)<br/>
+            <strong>Related Cognates:</strong> ${w.modagram.prefix.cognates.join(', ')}
+          </div>
+        </div>
+
+        <!-- 2. Acoustic Syllable Soundboard -->
+        <div class="card-surface">
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:8px;">
+            <div style="font-weight:800; font-size:12.5px; color:var(--text-primary); display:flex; align-items:center; gap:6px;">
+              <span>🎙️</span>
+              <span>Acoustic Phonetics &amp; Stress Rhythm</span>
+            </div>
+            <button style="background:var(--bg-surface-2); border:1px solid var(--border-subtle); color:var(--text-secondary); padding:2px 8px; border-radius:6px; font-size:11px; cursor:pointer;" onclick="speakText('${w.word}', 0.75)">
+              🐢 0.75x Slow
+            </button>
+          </div>
+          <div style="display:flex; gap:6px; justify-content:center; margin:10px 0;">
+            ${w.syllables.map(s => `
+              <button class="m3-syllable-btn ${s === s.toUpperCase() ? 'stressed' : ''}" onclick="speakText('${s}')">
+                ${s}
+              </button>
+            `).join('')}
+          </div>
+          <div style="font-size:11px; text-align:center; color:var(--text-muted);">
+            Tap individual syllables to isolate phonetic stress. Uppercase syllable receives primary accent.
+          </div>
+        </div>
+
+        <!-- 3. Visual Memory Gallery & Scenario Anchors -->
+        <div class="card-surface">
+          <div style="font-weight:800; font-size:12.5px; color:var(--text-primary); margin-bottom:8px; display:flex; align-items:center; gap:6px;">
+            <span>🖼️</span>
+            <span>Visual Mnemonic Anchors</span>
+          </div>
+          <div class="m1-gallery-grid">
+            ${w.images.map(img => `
+              <div class="m1-gallery-item" onclick="alert('${img.scenario}')">
+                <img src="${img.url}" alt="${img.caption}" />
+                <div class="m1-gallery-label">${img.caption}</div>
+              </div>
+            `).join('')}
+          </div>
+        </div>
+
+        <!-- 4. Semantic Nuance Spectrum -->
+        <div class="card-surface">
+          <div style="font-weight:800; font-size:12.5px; color:var(--text-primary); margin-bottom:4px; display:flex; align-items:center; gap:6px;">
+            <span>🎚️</span>
+            <span>Semantic Nuance &amp; Intensity Spectrum</span>
+          </div>
+          <div class="semantic-spectrum-bar">
+            <div class="spectrum-labels">
+              <span>${w.spectrum.left}</span>
+              <span>${w.spectrum.mid}</span>
+              <span>${w.spectrum.right}</span>
+            </div>
+            <div class="spectrum-track">
+              <div class="spectrum-marker"></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- 5. Authentic Quotes -->
+        <div class="card-surface">
+          <div style="font-weight:800; font-size:12.5px; color:var(--text-primary); margin-bottom:8px; display:flex; align-items:center; gap:6px;">
+            <span>📜</span>
+            <span>Authentic Literary Citations</span>
+          </div>
+          ${w.quotes.map(q => `
+            <div style="background:var(--bg-surface-2); padding:10px 12px; border-radius:8px; margin-bottom:8px; font-size:12px; border-left:2px solid var(--accent-primary);">
+              <div style="font-style:italic; margin-bottom:4px;">“${q.quote.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')}”</div>
+              <div style="font-size:11px; color:var(--text-muted); text-align:right;">— ${q.author}, <em>${q.work}</em></div>
+            </div>
+          `).join('')}
+        </div>
+      `;
+    }
+
+    // --- MOCKUP 2: OBSIDIAN GRAPH CODEX ---
+    function renderMockup2(w) {
+      return `
+        <!-- Word Header -->
+        <div class="card-surface" style="margin-top:14px;">
+          <div style="display:flex; justify-content:space-between; align-items:center;">
+            <div>
+              <div style="font-size:24px; font-family:var(--font-display); font-weight:800;">${w.word}</div>
+              <div style="font-size:12px; color:var(--color-gold); font-weight:600;">${w.discipline} • ${w.rootCluster}</div>
+            </div>
+            <button class="btn-audio-speaker" onclick="speakText('${w.word}')">🔊</button>
+          </div>
+          <div style="font-size:12.5px; color:var(--text-secondary); margin-top:8px;">
+            ${w.definitions.primary}
+          </div>
+        </div>
+
+        <!-- 1. Interactive Modagram Graph Canvas -->
+        <div class="m2-canvas-container">
+          <div class="m2-canvas-header">
+            <span style="font-weight:800; font-size:12.5px; color:var(--text-primary);">🕸️ Relational Modagram Network</span>
+            <span style="font-size:11px; color:var(--accent-primary); font-weight:700;">Interactive Nodes</span>
+          </div>
+
+          <div class="m2-graph-interactive" id="m2-graph-canvas">
+            <!-- Center Node -->
+            <div class="m2-node center" style="top: 50%; left: 50%;" onclick="highlightGraphNode('center')">
+              <span>⭐</span><span>${w.word}</span>
+            </div>
+            <!-- Root Node -->
+            <div class="m2-node root" style="top: 25%; left: 24%;" onclick="highlightGraphNode('root')">
+              <span>🌱</span><span>${w.modagram.prefix.morpheme}</span>
+            </div>
+            <!-- Cognate 1 -->
+            <div class="m2-node cognate" style="top: 22%; left: 74%;" onclick="highlightGraphNode('cog1')">
+              <span>🔗</span><span>${w.modagram.prefix.cognates[0]}</span>
+            </div>
+            <!-- Cognate 2 -->
+            <div class="m2-node cognate" style="top: 76%; left: 26%;" onclick="highlightGraphNode('cog2')">
+              <span>🔗</span><span>${w.modagram.prefix.cognates[1] || 'derivative'}</span>
+            </div>
+            <!-- Antonym Node -->
+            <div class="m2-node antonym" style="top: 78%; left: 76%;" onclick="highlightGraphNode('ant')">
+              <span>⚡</span><span>Antonym</span>
+            </div>
+          </div>
+
+          <div id="m2-node-info-pane" style="padding:10px 14px; background:var(--bg-surface-2); font-size:11.5px; color:var(--text-secondary); border-top:1px solid var(--border-subtle);">
+            💡 <em>Click any node on the graph to inspect morphological relationships.</em>
+          </div>
+        </div>
+
+        <!-- 2. Historical Stratigraphy Timeline -->
+        <div class="card-surface">
+          <div style="font-weight:800; font-size:12.5px; color:var(--text-primary); margin-bottom:12px; display:flex; align-items:center; gap:6px;">
+            <span>⏳</span>
+            <span>Etymological Stratigraphy &amp; Historical Evolution</span>
+          </div>
+
+          <div class="stratigraphy-timeline">
+            <div class="strat-item">
+              <div class="strat-dot">1</div>
+              <div class="strat-content">
+                <div class="strat-era">Proto-Indo-European (c. 3000 BCE)</div>
+                <div class="strat-word">*meǵh₂- (great) + *h₂enh₁- (breathe)</div>
+                <div class="strat-desc">Ancient ancestral roots denoting expansive size and vital life-breath.</div>
+              </div>
+            </div>
+
+            <div class="strat-item">
+              <div class="strat-dot">2</div>
+              <div class="strat-content">
+                <div class="strat-era">Classical Latin (1st Century BCE)</div>
+                <div class="strat-word">magnanimus (magnus + animus)</div>
+                <div class="strat-desc">Formed by Cicero to translate the Greek philosophical concept of 'megalopsychia' (great-souled).</div>
+              </div>
+            </div>
+
+            <div class="strat-item">
+              <div class="strat-dot">3</div>
+              <div class="strat-content">
+                <div class="strat-era">Middle French (14th Century)</div>
+                <div class="strat-word">magnanime</div>
+                <div class="strat-desc">Adopted into chivalric literature to describe monarchs who pardoned rebellious vassals.</div>
+              </div>
+            </div>
+
+            <div class="strat-item">
+              <div class="strat-dot">4</div>
+              <div class="strat-content">
+                <div class="strat-era">Modern English (1580s - Present)</div>
+                <div class="strat-word">${w.word}</div>
+                <div class="strat-desc">Elevated literary register for nobility that transcends petty grievance.</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- 3. Interactive Root Construction Puzzle -->
+        <div class="card-surface">
+          <div style="font-weight:800; font-size:12.5px; color:var(--text-primary); display:flex; align-items:center; gap:6px;">
+            <span>🧩</span>
+            <span>Morpheme Synthesis Puzzle</span>
+          </div>
+          <div class="m2-builder-box">
+            <div style="font-size:11.5px; color:var(--text-secondary);">Assemble the word from correct root tiles:</div>
+            <div class="m2-builder-slots">
+              <div class="m2-slot filled">${w.modagram.prefix.morpheme}</div>
+              <div class="m2-slot filled">${w.modagram.root.morpheme}</div>
+              <div class="m2-slot filled">${w.modagram.suffix.morpheme}</div>
+            </div>
+            <div class="m2-chips-pool">
+              <div class="m2-chip" onclick="speakText('${w.word}')">▶️ Play Combined Synthesis</div>
+              <div class="m2-chip" onclick="alert('Matches: ${w.word}!')">✅ Verify Assembly</div>
+            </div>
+          </div>
+        </div>
+      `;
+    }
+
+    // --- MOCKUP 3: MULTI-SENSORY IMMERSION HUB ---
+    function renderMockup3(w) {
+      return `
+        <!-- Word Header with Multi-Voice Audio Studio -->
+        <div class="m3-audio-studio">
+          <div class="m3-studio-header">
+            <div>
+              <div style="font-size: 26px; font-weight:800; font-family:var(--font-display);">${w.word}</div>
+              <div style="font-size: 12px; color:var(--accent-primary); font-family:var(--font-mono);">${w.ipa}</div>
+            </div>
+            <button class="btn-audio-speaker" onclick="speakText('${w.word}')" title="Listen">🔊</button>
+          </div>
+
+          <!-- Animated Simulated Sound Waveform -->
+          <div class="m3-waveform-display" onclick="speakText('${w.word}')" style="cursor:pointer;" title="Tap to Play Audio">
+            ${[14, 28, 42, 20, 36, 12, 44, 30, 18, 40, 24, 10, 32, 22, 16, 38].map(h => `
+              <div class="m3-wave-bar" style="height: ${h}px;"></div>
+            `).join('')}
+          </div>
+
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-top:10px;">
+            <span style="font-size:11px; color:var(--text-muted);">Syllables:</span>
+            <div class="m3-syllables-track">
+              ${w.syllables.map(s => `
+                <button class="m3-syllable-btn ${s === s.toUpperCase() ? 'stressed' : ''}" onclick="speakText('${s}')">${s}</button>
+              `).join('')}
+            </div>
+          </div>
+        </div>
+
+        <!-- 1. The DNA Ribbon Modagram (Horizontal Tape) -->
+        <div class="dna-ribbon-container">
+          <div class="dna-ribbon">
+            <div class="dna-pill" onclick="speakText('${w.modagram.prefix.morpheme}')">
+              <div class="dna-pill-glyph">🧬</div>
+              <div class="dna-pill-name">${w.modagram.prefix.morpheme}</div>
+              <div class="dna-pill-meaning">${w.modagram.prefix.origin} (${w.modagram.prefix.meaning})</div>
+            </div>
+            <div class="dna-pill" onclick="speakText('${w.modagram.root.morpheme}')">
+              <div class="dna-pill-glyph">🌱</div>
+              <div class="dna-pill-name">${w.modagram.root.morpheme}</div>
+              <div class="dna-pill-meaning">${w.modagram.root.origin} (${w.modagram.root.meaning})</div>
+            </div>
+            <div class="dna-pill" onclick="speakText('${w.modagram.suffix.morpheme}')">
+              <div class="dna-pill-glyph">🔤</div>
+              <div class="dna-pill-name">${w.modagram.suffix.morpheme}</div>
+              <div class="dna-pill-meaning">${w.modagram.suffix.origin} (${w.modagram.suffix.meaning})</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- 2. Multi-Angle Image Cards -->
+        <div class="card-surface">
+          <div style="font-weight:800; font-size:12.5px; color:var(--text-primary); margin-bottom:10px; display:flex; align-items:center; gap:6px;">
+            <span>📸</span>
+            <span>Contextual Visual Carousel</span>
+          </div>
+          <div style="position:relative; border-radius:10px; overflow:hidden; aspect-ratio:16/9;">
+            <img src="${w.images[0].url}" alt="${w.images[0].caption}" style="width:100%; height:100%; object-fit:cover;" />
+            <div style="position:absolute; bottom:0; left:0; right:0; background:linear-gradient(0deg, rgba(0,0,0,0.85) 0%, transparent 100%); padding:10px; color:#fff; font-size:11.5px;">
+              <strong>${w.images[0].caption}:</strong> ${w.images[0].scenario}
+            </div>
+          </div>
+        </div>
+
+        <!-- 3. Rapid Active Recall Micro-Quiz -->
+        <div class="m3-recall-box">
+          <div class="m3-recall-header">
+            <span style="font-weight:800; font-size:12.5px; color:var(--text-primary);">⚡ 10-Second Recall Challenge</span>
+            <span style="font-size:10px; font-weight:800; background:var(--accent-muted); color:var(--accent-primary); padding:2px 6px; border-radius:4px;">REINFORCE</span>
+          </div>
+          <div style="font-size:12px; color:var(--text-secondary);">${w.quiz.question}</div>
+          <div class="m3-recall-options">
+            ${w.quiz.options.map((opt, i) => `
+              <button class="m3-recall-btn" onclick="testRecallOption(this, ${opt.correct}, '${w.quiz.explanation}')">
+                ${String.fromCharCode(65 + i)}) ${opt.text}
+              </button>
+            `).join('')}
+          </div>
+          <div id="recall-feedback-pane" style="display:none; margin-top:8px; font-size:11.5px; padding:8px; border-radius:6px;"></div>
+        </div>
+      `;
+    }
+
+    // --- MOCKUP 4: BENTO COGNITION LAB ---
+    function renderMockup4(w) {
+      return `
+        <!-- Word Keystone Header -->
+        <div class="card-surface" style="margin-top:14px; display:flex; justify-content:space-between; align-items:center;">
+          <div>
+            <div style="font-size: 24px; font-weight:800; font-family:var(--font-display);">${w.word}</div>
+            <div style="font-size: 11.5px; color:var(--text-muted); font-family:var(--font-mono);">${w.ipa} • ${w.pos}</div>
+          </div>
+          <button class="btn-audio-speaker" onclick="speakText('${w.word}')">🔊</button>
+        </div>
+
+        <!-- Bento Grid Layout -->
+        <div class="bento-grid">
+
+          <!-- Box 1: Visual Anchor & Story Metaphor -->
+          <div class="bento-item span-2">
+            <div class="bento-header">
+              <div class="bento-title"><span>💡</span><span>Cognitive Anchor &amp; Metaphor</span></div>
+              <span style="font-size:10px; color:var(--color-gold); font-weight:800;">ROOT SYSTEM</span>
+            </div>
+            <div style="display:flex; gap:12px; align-items:center;">
+              <img src="${w.images[0].url}" style="width:72px; height:72px; object-fit:cover; border-radius:8px; flex-shrink:0;" />
+              <div style="font-size:12px; color:var(--text-secondary);">
+                ${w.cognitiveAnchor}
+              </div>
+            </div>
+          </div>
+
+          <!-- Box 2: Modagram Root Matrix -->
+          <div class="bento-item">
+            <div class="bento-header">
+              <div class="bento-title"><span>🧩</span><span>Modagram Tree</span></div>
+            </div>
+            <div style="font-family:var(--font-mono); font-size:12px; line-height:1.6;">
+              <div style="color:var(--accent-primary);"><strong>[${w.modagram.prefix.morpheme}]</strong> = ${w.modagram.prefix.meaning}</div>
+              <div style="color:var(--color-gold);"><strong>[${w.modagram.root.morpheme}]</strong> = ${w.modagram.root.meaning}</div>
+              <div style="color:var(--color-blue);"><strong>[${w.modagram.suffix.morpheme}]</strong> = ${w.modagram.suffix.meaning}</div>
+            </div>
+          </div>
+
+          <!-- Box 3: Nuance 2D Compass -->
+          <div class="bento-item">
+            <div class="bento-header">
+              <div class="bento-title"><span>🧭</span><span>Nuance Compass</span></div>
+            </div>
+            <div class="nuance-compass-container">
+              <div class="nuance-axis-x"></div>
+              <div class="nuance-axis-y"></div>
+              <div class="nuance-plot-point" style="top: 30%; left: 80%;">
+                <span class="nuance-point-label">${w.word}</span>
+              </div>
+              <span style="position:absolute; top:2px; left:4px; font-size:9px; color:var(--text-muted);">Formal</span>
+              <span style="position:absolute; bottom:2px; right:4px; font-size:9px; color:var(--text-muted);">Positive</span>
+            </div>
+          </div>
+
+          <!-- Box 4: Common Collocations (Spoken) -->
+          <div class="bento-item span-2">
+            <div class="bento-header">
+              <div class="bento-title"><span>🔗</span><span>Natural Collocations (Tap to Listen)</span></div>
+            </div>
+            <div class="collocation-chips">
+              ${w.collocations.map(c => `
+                <div class="colloc-chip" onclick="speakText('${c}')">
+                  <span>🔊</span>
+                  <span>${c}</span>
+                </div>
+              `).join('')}
+            </div>
+          </div>
+
+          <!-- Box 5: Dual Definition Accordion -->
+          <div class="bento-item span-2">
+            <div class="bento-header">
+              <div class="bento-title"><span>📖</span><span>Semantic Range</span></div>
+            </div>
+            <div style="font-size:12px; margin-bottom:6px;">
+              <strong>1. Lexical:</strong> ${w.definitions.primary}
+            </div>
+            <div style="font-size:12px; color:var(--text-secondary); border-top:1px solid var(--border-subtle); padding-top:6px;">
+              <strong>2. Specialized Nuance:</strong> ${w.definitions.secondary}
+            </div>
+          </div>
+
+        </div>
+      `;
+    }
+
+    // --- MOCKUP 5: AUGMENTED WEB LEXICON ---
+    function renderMockup5(w) {
+      return `
+        <!-- Stylized In-App Browser Shell -->
+        <div class="browser-app-shell">
+
+          <!-- Browser Address Bar -->
+          <div class="browser-address-bar">
+            <div class="browser-nav-dots">
+              <div class="b-dot red"></div>
+              <div class="b-dot yellow"></div>
+              <div class="b-dot green"></div>
+            </div>
+            <div class="browser-url-pill">
+              <span>🔒</span>
+              <span>vault://lexicon.browser/${w.word}</span>
+            </div>
+            <button class="btn-toggle-round" style="width:26px; height:26px; font-size:11px;" onclick="speakText('${w.word}')" title="Pronounce">🔊</button>
+          </div>
+
+          <!-- Browser Source Tabs -->
+          <div class="browser-source-tabs" id="b-tabs">
+            <button class="b-tab-btn active" onclick="switchBrowserTab(this, 'wiktionary')">📚 Wiktionary</button>
+            <button class="b-tab-btn" onclick="switchBrowserTab(this, 'etymonline')">🏛️ EtymOnline</button>
+            <button class="b-tab-btn" onclick="switchBrowserTab(this, 'visual')">🖼️ Visual Lexicon</button>
+            <button class="b-tab-btn" onclick="switchBrowserTab(this, 'corpus')">📜 Corpus Citations</button>
+          </div>
+
+          <!-- Browser Main Body -->
+          <div class="browser-content-pane" id="b-content">
+            <!-- Dynamic Browser Sub-Tab View -->
+            <div id="b-pane-wiktionary">
+              <div style="display:flex; justify-content:space-between; align-items:baseline;">
+                <h2 style="font-size:20px; font-family:var(--font-display);">${w.word}</h2>
+                <span style="font-family:var(--font-mono); color:var(--text-muted);">${w.ipa}</span>
+              </div>
+              <p style="margin-top:6px; color:var(--text-secondary);">
+                <strong>Etymology:</strong> Borrowed from <span class="highlight-root">${w.modagram.prefix.origin}</span>, compound of <em>${w.modagram.prefix.morpheme}</em> (${w.modagram.prefix.meaning}) and <em>${w.modagram.root.morpheme}</em> (${w.modagram.root.meaning}).
+              </p>
+
+              <div class="wiktionary-box">
+                <div style="font-weight:700; color:var(--text-primary); margin-bottom:4px;">1. Standard Consensus Definition</div>
+                <div>${w.definitions.primary}</div>
+              </div>
+
+              <div class="wiktionary-box" style="margin-top:8px; border-left-color:var(--color-purple);">
+                <div style="font-weight:700; color:var(--text-primary); margin-bottom:4px;">2. Historical / Nuanced Register</div>
+                <div>${w.definitions.secondary}</div>
+              </div>
+
+              <div style="margin-top:14px; font-size:12px; color:var(--text-muted);">
+                Synonyms: <em>generous, elevated, noble, high-minded</em> • Antonyms: <em>pusillanimous, petty, vindictive</em>
+              </div>
+            </div>
+          </div>
+
+          <!-- Bottom Augmented Learning Dock -->
+          <div class="browser-sticky-dock">
+            <div style="display:flex; align-items:center; gap:8px;">
+              <span style="font-size:11px; font-weight:800; color:var(--text-muted);">STATUS:</span>
+              <div class="apple-c" onclick="cycleWordStatus()">
+                <div class="track-c">
+                  <span class="c-dot"></span><span class="c-dot"></span><span class="c-dot"></span>
+                  <div class="halo-c ${w.status === 'learned' ? 'p2' : w.status === 'learning' ? 'p1' : 'p0'}">
+                    <div class="core-dot"></div>
+                  </div>
+                </div>
+                <span class="label ${w.status}">${w.status}</span>
+              </div>
+            </div>
+
+            <button style="background:var(--accent-primary); border:none; color:#fff; padding:6px 12px; border-radius:6px; font-size:11px; font-weight:700; cursor:pointer;" onclick="speakText('${w.word}')">
+              🎙️ Pronounce
+            </button>
+          </div>
+
+        </div>
+      `;
+    }
+
+    // --- 3. MASTER RENDER CONTROLLER ---
+    function renderActiveMockup() {
+      const container = document.getElementById('phone-screen-scroll');
+      const w = getWord();
+      const bannerTitle = document.getElementById('mockup-banner-title');
+      const bannerTag = document.getElementById('mockup-banner-tag');
+      const bannerDesc = document.getElementById('mockup-banner-desc');
+      const matrixContainer = document.getElementById('matrix-container');
+      const viewportContainer = document.getElementById('viewport-container');
+
+      if (activeMockupId === 'matrix') {
+        viewportContainer.style.display = 'none';
+        matrixContainer.style.display = 'block';
+        bannerTitle.innerHTML = "<span>📊 Mockup Comparison &amp; Decision Matrix</span>";
+        bannerTag.textContent = "Decision Mode";
+        bannerDesc.textContent = "Review and compare all 5 interactive architectures side-by-side. Vote for your preferred layout to trigger the implementation plan!";
+        return;
+      }
+
+      viewportContainer.style.display = 'flex';
+      matrixContainer.style.display = 'none';
+
+      if (activeMockupId === '1') {
+        container.innerHTML = renderMockup1(w);
+        bannerTitle.innerHTML = "<span>📸 Mockup 1: MorphoVisual Studio</span>";
+        bannerTag.textContent = "Magazine &amp; Modagram";
+        bannerDesc.textContent = "Editorial magazine layout with high-impact visual memory anchors, interactive exploded anatomical Modagram blueprint (Prefix + Root + Suffix), and acoustic syllable stress controls.";
+      } else if (activeMockupId === '2') {
+        container.innerHTML = renderMockup2(w);
+        bannerTitle.innerHTML = "<span>🕸️ Mockup 2: Obsidian Graph Codex</span>";
+        bannerTag.textContent = "Mindmap &amp; Timeline";
+        bannerDesc.textContent = "Bidirectional knowledge graph with interactive SVG node constellation, deep etymological stratigraphy timeline from 3000 BCE to modern English, and morpheme synthesis puzzle.";
+      } else if (activeMockupId === '3') {
+        container.innerHTML = renderMockup3(w);
+        bannerTitle.innerHTML = "<span>🎧 Mockup 3: Multi-Sensory Immersion Hub</span>";
+        bannerTag.textContent = "Audio Studio &amp; Stream";
+        bannerDesc.textContent = "Auditory-first studio with simulated acoustic waveforms, syllable stress tapping, DNA Morpheme Ribbon tape, and an immediate 10-second active recall micro-challenge.";
+      } else if (activeMockupId === '4') {
+        container.innerHTML = renderMockup4(w);
+        bannerTitle.innerHTML = "<span>🍱 Mockup 4: Bento Cognition Lab</span>";
+        bannerTag.textContent = "Modular Polymath Grid";
+        bannerDesc.textContent = "Modular Apple-style Bento grid giving 360-degree cognitive angles: visual anchor, 2D Nuance Compass (Formality vs Valence), spoken natural collocations, and dual definitions.";
+      } else if (activeMockupId === '5') {
+        container.innerHTML = renderMockup5(w);
+        bannerTitle.innerHTML = "<span>🌐 Mockup 5: Augmented Web Lexicon</span>";
+        bannerTag.textContent = "Stylized Browser HUD";
+        bannerDesc.textContent = "Sleek in-app browser interface restyled in obsidian dark glassmorphism. Switch between Wiktionary, EtymOnline, Visual Lexicon, and Corpus citations while retaining app controls.";
+      }
+    }
+
+    // --- 4. INTERACTION HANDLERS ---
+
+    // Modagram Tile Click Handler
+    window.showModagramPart = function(part) {
+      const w = getWord();
+      const p = w.modagram[part];
+      const pane = document.getElementById('modagram-detail-pane');
+      document.querySelectorAll('.modagram-tile').forEach(t => t.classList.remove('active'));
+      const activeTile = document.getElementById(`tile-${part}`);
+      if (activeTile) activeTile.classList.add('active');
+
+      if (pane && p) {
+        pane.innerHTML = `
+          <strong>Etymology:</strong> ${p.origin} (“${p.meaning}”)<br/>
+          <strong>Related Cognates in Vault:</strong> ${p.cognates.join(', ')}
+        `;
+      }
+    };
+
+    // Cycle Word Status (unread -> learning -> learned)
+    window.cycleWordStatus = function() {
+      const w = getWord();
+      const next = w.status === 'unread' ? 'learning' : w.status === 'learning' ? 'learned' : 'unread';
+      w.status = next;
+      renderActiveMockup();
+    };
+
+    // Active Recall Quiz Handler
+    window.testRecallOption = function(btn, isCorrect, explanation) {
+      const parent = btn.parentElement;
+      parent.querySelectorAll('.m3-recall-btn').forEach(b => b.disabled = true);
+      const feedback = document.getElementById('recall-feedback-pane');
+      if (isCorrect) {
+        btn.classList.add('correct');
+        feedback.style.display = 'block';
+        feedback.style.background = 'rgba(34, 197, 94, 0.15)';
+        feedback.style.color = '#22C55E';
+        feedback.innerHTML = `✅ <strong>Correct!</strong> ${explanation}`;
+      } else {
+        btn.classList.add('wrong');
+        feedback.style.display = 'block';
+        feedback.style.background = 'rgba(239, 68, 68, 0.15)';
+        feedback.style.color = '#EF4444';
+        feedback.innerHTML = `❌ <strong>Not quite.</strong> ${explanation}`;
+      }
+    };
+
+    // Graph node click for Mockup 2
+    window.highlightGraphNode = function(nodeKey) {
+      const w = getWord();
+      const info = document.getElementById('m2-node-info-pane');
+      if (!info) return;
+
+      if (nodeKey === 'center') {
+        info.innerHTML = `⭐ <strong>Target Word:</strong> ${w.word} — ${w.definitions.primary}`;
+      } else if (nodeKey === 'root') {
+        info.innerHTML = `🌱 <strong>Root Base:</strong> ${w.modagram.prefix.origin} meaning “${w.modagram.prefix.meaning}”`;
+      } else if (nodeKey === 'cog1') {
+        info.innerHTML = `🔗 <strong>Cognate 1:</strong> ${w.modagram.prefix.cognates[0]} shares the root morpheme.`;
+      } else if (nodeKey === 'cog2') {
+        info.innerHTML = `🔗 <strong>Cognate 2:</strong> ${w.modagram.prefix.cognates[1] || 'derivative'} shares the root morpheme.`;
+      } else if (nodeKey === 'ant') {
+        info.innerHTML = `⚡ <strong>Antonym Cluster:</strong> Words with opposite valence or morphological negation.`;
+      }
+    };
+
+    // Browser Sub-tab Switcher for Mockup 5
+    window.switchBrowserTab = function(btn, tabKey) {
+      document.querySelectorAll('.b-tab-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      const pane = document.getElementById('b-content');
+      const w = getWord();
+
+      if (tabKey === 'wiktionary') {
+        pane.innerHTML = `
+          <h2 style="font-size:18px;">${w.word}</h2>
+          <div class="wiktionary-box">
+            <strong>Core Definition:</strong> ${w.definitions.primary}
+          </div>
+          <div class="wiktionary-box" style="margin-top:8px;">
+            <strong>Specialized Sense:</strong> ${w.definitions.secondary}
+          </div>
+        `;
+      } else if (tabKey === 'etymonline') {
+        pane.innerHTML = `
+          <div style="font-family:var(--font-mono); font-size:13px; color:var(--color-gold); margin-bottom:8px;">
+            ${w.modagram.prefix.origin} + ${w.modagram.root.origin}
+          </div>
+          <p style="font-size:12.5px; color:var(--text-secondary); line-height:1.6;">
+            First attested in English literature circa 1580s. Derived from Latin <em>${w.modagram.prefix.morpheme}${w.modagram.root.morpheme}</em>, formed directly from <em>magnus</em> (great) + <em>animus</em> (soul). Contrasted historically with <em>pusillanimous</em> (petty-spirited).
+          </p>
+        `;
+      } else if (tabKey === 'visual') {
+        pane.innerHTML = `
+          <div style="display:grid; grid-template-columns:1fr; gap:10px;">
+            ${w.images.map(img => `
+              <div style="border-radius:8px; overflow:hidden; border:1px solid var(--border-subtle);">
+                <img src="${img.url}" style="width:100%; height:140px; object-fit:cover;" />
+                <div style="padding:8px; font-size:11.5px; background:var(--bg-surface-2);">
+                  <strong>${img.caption}:</strong> ${img.scenario}
+                </div>
+              </div>
+            `).join('')}
+          </div>
+        `;
+      } else if (tabKey === 'corpus') {
+        pane.innerHTML = `
+          <div>
+            ${w.quotes.map(q => `
+              <div style="padding:10px; background:var(--bg-surface-2); border-radius:8px; margin-bottom:8px; font-size:12px;">
+                <div style="font-style:italic;">“${q.quote.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')}”</div>
+                <div style="font-size:11px; color:var(--text-muted); margin-top:4px;">— ${q.author} (<em>${q.work}</em>)</div>
+              </div>
+            `).join('')}
+          </div>
+        `;
+      }
+    };
+
+    // Concept Selection Modal
+    window.selectConcept = function(id) {
+      const names = {
+        1: "Concept 1: MorphoVisual Studio (Magazine & Blueprint)",
+        2: "Concept 2: Obsidian Graph Codex (Mindmap & Timeline)",
+        3: "Concept 3: Multi-Sensory Immersion Hub (Audio Studio & Stream)",
+        4: "Concept 4: Bento Cognition Lab (Modular Polymath Grid)",
+        5: "Concept 5: Augmented Web Lexicon (Stylized Browser HUD)"
+      };
+      const title = document.getElementById('modal-concept-title');
+      const desc = document.getElementById('modal-concept-desc');
+      title.textContent = `Selected: ${names[id]}`;
+      desc.innerHTML = `You have picked <strong>${names[id]}</strong> as the winning architecture for Tab 3.<br/><br/>Once you confirm, we will produce the detailed implementation plan to replace the old Tab 3 with this interactive experience!`;
+      
+      const copyBtn = document.getElementById('btn-copy-selection');
+      copyBtn.onclick = function() {
+        document.getElementById('selection-modal').style.display = 'none';
+        alert(`Great choice! Concept #${id} has been recorded. Let's discuss the implementation plan!`);
+      };
+
+      document.getElementById('selection-modal').style.display = 'flex';
+    };
+
+    // --- 5. INITIALIZATION & EVENT LISTENERS ---
+
+    // Tab Navigation
+    document.querySelectorAll('.mockup-tab-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.mockup-tab-btn').forEach(b => b.classList.remove('is-active'));
+        btn.classList.add('is-active');
+        activeMockupId = btn.dataset.mockup;
+        renderActiveMockup();
+      });
+    });
+
+    // Word Switcher
+    document.getElementById('select-active-word').addEventListener('change', (e) => {
+      currentWordKey = e.target.value;
+      renderActiveMockup();
+    });
+
+    // Viewport Mode Switcher
+    document.getElementById('select-viewport-mode').addEventListener('change', (e) => {
+      const mode = e.target.value;
+      const viewport = document.getElementById('viewport-container');
+      viewport.className = `viewport-container mode-${mode}`;
+    });
+
+    // Theme Toggle
+    document.getElementById('btn-theme-toggle').addEventListener('click', () => {
+      isDarkMode = !isDarkMode;
+      document.body.dataset.theme = isDarkMode ? 'dark' : 'light';
+      document.getElementById('theme-icon').textContent = isDarkMode ? '🌙' : '☀️';
+    });
+
+    // Initial Render
+    renderActiveMockup();
+  </script>
+</body>
+</html>

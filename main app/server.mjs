@@ -5,6 +5,8 @@ import path from 'node:path';
 import zlib from 'node:zlib';
 import { fileURLToPath } from 'node:url';
 import { gitSync } from './git-sync.mjs';
+import { getWordFrequency } from './scripts/frequency-engine.mjs';
+import { getClusterTier } from './scripts/cluster-tier-map.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -18,6 +20,7 @@ const DATA_DIR = path.join(PUBLIC_DIR, 'data');
 const STYLES_DIR = path.join(PUBLIC_DIR, 'styles');
 const BANNERS_DIR = path.join(PUBLIC_DIR, 'assets', 'banners');
 const STATUS_DB_PATH = path.join(DATA_DIR, 'status-db.json');
+const exploreServerCache = new Map();
 
 // Strictly exclude non-vocabulary roots and system directories (pure vocabulary vault only: Greek, Latin, Vocab Master)
 const EXCLUDED_ROOT_DIRS = new Set([
@@ -396,10 +399,12 @@ async function _executeVaultIndex(forceRebuild = false) {
     const parts = dirParts !== null ? dirParts : (relDir ? relDir.split('/') : []);
     const topFolder = parts[0] || '';
     const isClassicalRoot = topFolder === 'Greek roots' || topFolder === 'Latin roots';
-    const isDeepClassical = isClassicalRoot && parts.length >= 2 && parts[1].startsWith('Cluster ');
-    const clusterName = isDeepClassical ? parts[1] : '';
-    const rootFolderName = isDeepClassical ? (parts[2] || '') : '';
-    const isClusterMocDir = isDeepClassical && parts.length === 2;
+    const clusterIdx = parts.findIndex(p => p.startsWith('Cluster '));
+    const isDeepClassical = isClassicalRoot && clusterIdx !== -1;
+    const clusterName = isDeepClassical ? parts[clusterIdx] : '';
+    const rootFolderName = isDeepClassical ? (parts[clusterIdx + 1] || '') : '';
+    const isClusterMocDir = isDeepClassical && parts.length === clusterIdx + 1;
+    const clusterTier = isDeepClassical ? getClusterTier(topFolder, clusterName) : null;
 
     for (const entry of entries) {
       const name = entry.name;
@@ -414,23 +419,32 @@ async function _executeVaultIndex(forceRebuild = false) {
       } else if (entry.isFile() && name.endsWith('.md')) {
         if (!relDir && (EXCLUDED_ROOT_FILES.has(name) || EXCLUDED_ROOT_FILES_LOWER.has(name.toLowerCase()))) continue;
 
+        const baseName = name.slice(0, -3);
+        const freq = getWordFrequency(baseName);
+
         if (isDeepClassical) {
-          const baseName = name.slice(0, -3);
           const pageObj = {
             p: relPath,
-            s: statusDb[relPath] || 'unread'
+            s: statusDb[relPath] || 'unread',
+            f: freq.tier,
+            z: freq.zipf,
+            rk: freq.rank
           };
 
           if (isClusterMocDir && baseName.startsWith('Cluster ')) {
-            coreNotesToRead.push({ absPath, relPath, pageObj, isClusterMoc: true, parts });
+            pageObj.f = clusterTier || 2;
+            coreNotesToRead.push({ absPath, relPath, pageObj, isClusterMoc: true, parts, clusterTier });
           } else if (baseName.startsWith('Dashboard')) {
             pageObj.t = 'root_dashboard';
             pageObj.c = `[[${clusterName}]]`;
-            rawLinks.push([`${topFolder}/${clusterName}/${clusterName}.md`, relPath]);
+            pageObj.f = clusterTier || 2;
+            const clusterRelDir = parts.slice(0, clusterIdx + 1).join('/');
+            rawLinks.push([`${clusterRelDir}/${clusterName}.md`, relPath]);
             pages.push(pageObj);
           } else if (baseName.startsWith('Word Triage')) {
             pageObj.t = 'word_triage';
             pageObj.c = `[[${clusterName}]]`;
+            pageObj.f = clusterTier || 2;
             pages.push(pageObj);
           } else {
             pageObj.c = `[[${clusterName}]]`;
@@ -445,8 +459,15 @@ async function _executeVaultIndex(forceRebuild = false) {
           continue;
         }
 
-        const pageObj = { p: relPath };
-        coreNotesToRead.push({ absPath, relPath, pageObj, isClusterMoc: false, parts });
+        const clusterPart = parts.find(p => p.startsWith('Cluster '));
+        const nonClassicalClusterTier = clusterPart ? getClusterTier(topFolder, clusterPart) : (freq.tier || 2);
+        const pageObj = {
+          p: relPath,
+          f: freq.tier,
+          z: freq.zipf,
+          rk: freq.rank
+        };
+        coreNotesToRead.push({ absPath, relPath, pageObj, isClusterMoc: false, parts, clusterTier: nonClassicalClusterTier });
       }
     }
   }
@@ -491,8 +512,9 @@ async function _executeVaultIndex(forceRebuild = false) {
           if (fm.type) item.pageObj.t = String(fm.type);
           if (fm.cluster) {
             item.pageObj.c = String(fm.cluster);
-          } else if (item.parts.length >= 2 && item.parts[1].startsWith('Cluster ')) {
-            item.pageObj.c = `[[${item.parts[1]}]]`;
+          } else {
+            const clusterPart = item.parts.find(p => p.startsWith('Cluster '));
+            if (clusterPart) item.pageObj.c = `[[${clusterPart}]]`;
           }
           if (fm.latin_root) item.pageObj.lr = String(fm.latin_root);
           if (fm.greek_root) item.pageObj.gr = String(fm.greek_root);
@@ -1014,6 +1036,115 @@ async function startServer() {
           content,
           mtime: stat.mtimeMs
         });
+        return;
+      }
+
+      // 2b. API: Explore Aggregator Proxy & Cache (Zero-CAPTCHA Fast-Path)
+      if (pathname === '/api/explore' && req.method === 'GET') {
+        const q = String(urlObj.searchParams.get('q') || '').trim().toLowerCase();
+        if (!q) {
+          sendJson(req, res, 400, { error: 'Query parameter q is required' });
+          return;
+        }
+
+        const nocache = urlObj.searchParams.get('nocache') === '1' || urlObj.searchParams.get('refresh') === '1';
+        if (!nocache && exploreServerCache.has(q)) {
+          sendJson(req, res, 200, exploreServerCache.get(q));
+          return;
+        }
+
+        try {
+          const cleanCap = q.charAt(0).toUpperCase() + q.slice(1);
+          const controller = new AbortController();
+          const timeoutId = setTimeout(() => controller.abort(), 8000);
+          const fetchOpt = {
+            signal: controller.signal,
+            headers: { 'Accept': 'application/json', 'User-Agent': 'VocabMasterMobile/2.0' }
+          };
+
+          const [wikiRes, dataSynRes, dataDefRes, dataRelatedRes, wiktRes, suggestRes, booksRes, ytRes, wikiImgsRes] = await Promise.all([
+            fetch(`https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(cleanCap)}`, fetchOpt)
+              .then(r => r.ok ? r.json() : null).catch(() => null),
+            fetch(`https://api.datamuse.com/words?rel_syn=${encodeURIComponent(q)}&max=10`, fetchOpt)
+              .then(r => r.ok ? r.json() : []).catch(() => []),
+            fetch(`https://api.datamuse.com/words?sp=${encodeURIComponent(q)}&qe=sp&md=dprs&max=1`, fetchOpt)
+              .then(r => r.ok ? r.json() : []).catch(() => []),
+            fetch(`https://api.datamuse.com/words?ml=${encodeURIComponent(q)}&max=10`, fetchOpt)
+              .then(r => r.ok ? r.json() : []).catch(() => []),
+            fetch(`https://en.wiktionary.org/api/rest_v1/page/definition/${encodeURIComponent(q)}`, fetchOpt)
+              .then(r => r.ok ? r.json() : null).catch(() => null),
+            fetch(`https://suggestqueries.google.com/complete/search?client=chrome&q=${encodeURIComponent(q)}`, fetchOpt)
+              .then(r => r.ok ? r.json() : null).catch(() => null),
+            fetch(`https://openlibrary.org/search.json?q=${encodeURIComponent(q)}&limit=6&fields=title,author_name,first_publish_year,key,cover_i`, fetchOpt)
+              .then(r => r.ok ? r.json() : null).catch(() => null),
+            fetch(`https://www.youtube.com/results?search_query=how+to+pronounce+${encodeURIComponent(q)}`, {
+              signal: controller.signal,
+              headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' }
+            }).then(r => r.text()).then(t => {
+              const vids = [];
+              const regex = /"videoId":"([a-zA-Z0-9_-]{11})"[\s\S]*?"title":\{"runs":\[\{"text":"(.*?)"/g;
+              let m;
+              while ((m = regex.exec(t)) !== null && vids.length < 5) {
+                const title = m[2];
+                if (title && !title.toLowerCase().includes('filter') && !vids.some(v => v.id === m[1])) {
+                  vids.push({
+                    id: m[1],
+                    title,
+                    channel: 'Pronunciation Guide',
+                    thumb: `https://i.ytimg.com/vi/${m[1]}/hqdefault.jpg`,
+                    url: `https://www.youtube.com/watch?v=${m[1]}`
+                  });
+                }
+              }
+              return vids;
+            }).catch(() => []),
+            fetch(`https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=${encodeURIComponent(q)}&prop=pageimages|description&pithumbsize=400&format=json&origin=*`, fetchOpt)
+              .then(r => r.ok ? r.json() : null).then(d => {
+                if (!d || !d.query?.pages) return [];
+                return Object.values(d.query.pages)
+                  .filter(p => p.thumbnail?.source)
+                  .map(p => ({
+                    title: p.title,
+                    url: p.thumbnail.source,
+                    source: 'wikipedia.org',
+                    description: p.description || p.title
+                  }));
+              }).catch(() => [])
+          ]);
+          clearTimeout(timeoutId);
+
+          const payload = {
+            query: q,
+            wiki: wikiRes,
+            synonyms: dataSynRes,
+            datamuseDefs: dataDefRes?.[0]?.defs || [],
+            datamusePron: dataDefRes?.[0]?.tags?.find(t => t.startsWith('pron:'))?.replace('pron:', '').trim() || '',
+            datamuseSyllables: dataDefRes?.[0]?.numSyllables || 0,
+            relatedTerms: dataRelatedRes || [],
+            wiktionary: wiktRes,
+            googleSuggestions: suggestRes?.[1] || [],
+            openLibraryBooks: (booksRes?.docs || []).slice(0, 5).map(b => ({
+              title: b.title,
+              author: b.author_name ? b.author_name[0] : 'Classical Author',
+              year: b.first_publish_year || b.publish_year?.[0] || 'Historical',
+              key: b.key,
+              coverId: b.cover_i,
+              url: b.key ? `https://openlibrary.org${b.key}` : `https://www.google.com/search?tbm=bks&q=${encodeURIComponent(q)}`
+            })),
+            youtubeVideos: ytRes || [],
+            wikiImages: wikiImgsRes || []
+          };
+
+          if (exploreServerCache.size > 200) {
+            const firstKey = exploreServerCache.keys().next().value;
+            exploreServerCache.delete(firstKey);
+          }
+          exploreServerCache.set(q, payload);
+
+          sendJson(req, res, 200, payload);
+        } catch (exploreErr) {
+          sendJson(req, res, 500, { error: exploreErr.message });
+        }
         return;
       }
 

@@ -10,6 +10,10 @@ tags:
 banner: "[[banner.jpg]]"
 banner_y: 0.5
 banner_icon: 👑
+tier: 3
+tier_label: "Words to learn last"
+zipf: 1.2
+rank: 999999
 ---
 
 # 📚 English Vocabulary Master — Master Non-Classical Lexicon Hub

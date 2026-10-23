@@ -116,28 +116,12 @@ export class MobileUpdateManager {
     if (verLabel) verLabel.textContent = `🎉 v${release.version} Available!`;
     if (notesLabel) notesLabel.textContent = release.releaseNotes || 'Tap below to download and upgrade.';
 
-    this.showUpdateModal(release);
+    // Update popup removed per user request
   }
 
   showUpdateModal(release) {
-    const modal = document.getElementById('update-modal');
-    if (!modal) return;
-
-    const titleEl = document.getElementById('update-modal-title');
-    const notesEl = document.getElementById('update-modal-notes');
-    const dateEl = document.getElementById('update-modal-date');
-    const btnDownload = document.getElementById('btn-download-update-modal');
-
-    if (titleEl) titleEl.textContent = `Vocab App v${release.version}`;
-    if (notesEl) notesEl.innerHTML = `<p>${(release.releaseNotes || 'Performance improvements and bug fixes.').replace(/\n/g, '<br/>')}</p>`;
-    if (dateEl && release.publishedAt) {
-      dateEl.textContent = new Date(release.publishedAt).toLocaleDateString();
-    }
-    if (btnDownload) {
-      btnDownload.onclick = () => this.handleDownloadAndInstall(release.downloadUrl);
-    }
-
-    modal.style.display = 'flex';
+    // Disabled per user request: no intrusive update popups
+    return;
   }
 
   hideUpdateModal() {

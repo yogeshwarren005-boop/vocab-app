@@ -22,6 +22,7 @@ import { topBar } from './components/top-bar.js';
 import { profileHUD } from './components/profile-hud.js';
 import { authModal } from './components/auth-modal.js';
 import { eventBus } from './core/event-bus.js';
+import { ExploreTab } from './components/explore-tab.js?v=20261022_google_mirror_v1';
 
 class MobileVocabApp {
   constructor() {
@@ -41,13 +42,15 @@ class MobileVocabApp {
     // Root & Cluster Dashboards Store (Loaded from data/root-dashboards.json)
     this.rootDashboardsDb = {};
     this.dashboardsFilterCategory = 'all';
+    this.dashboardsFilterTier = 'all';
     this.dashboardsSearchQuery = '';
 
     // Word Cards State (TikTok-Style Vertical Swipable Feed)
     this.feedWordIndex = 0;
     this.returnToFeedIndex = 0;
     this.activeScope = null; // Linked Root Dashboard or Vocab Master Cluster { type, title, path, words: [] }
-    this.cardsFilterCategory = 'all'; // 'all' | 'greek' | 'latin' | 'vocab'
+    this.cardsFilterCategory = 'all';
+    this.cardsFilterTier = 'all'; // 'all' | 'greek' | 'latin' | 'vocab'
     this.cardsFilterStatus = 'all';   // 'all' | 'unread' | 'learning' | 'learned'
     this.cardsSearchQuery = '';
     this.cardsViewMode = 'feed';      // 'feed' | 'list'
@@ -87,9 +90,18 @@ class MobileVocabApp {
 
     // In-App APK Updater
     this.updateManager = new MobileUpdateManager(this);
+
+    // Explore Tab Integration (Word-Aware Multi-Channel Discovery)
+    this.exploreTab = new ExploreTab(this);
+    window.exploreTabInstance = this.exploreTab;
   }
 
   async init() {
+    const urlParamsInit = new URLSearchParams(window.location.search);
+    const urlTheme = urlParamsInit.get('theme');
+    if (urlTheme === 'light' || urlTheme === 'dark') {
+      this.theme = urlTheme;
+    }
     this.applyTheme(this.theme);
     this.applyTypography();
 
@@ -124,6 +136,9 @@ class MobileVocabApp {
     // Render Home Root
     this.renderHomeRoot();
 
+    // Mount Explore Tab
+    this.exploreTab.mount(document.getElementById('view-explore'));
+
     // Load Vault Data (Preloaded bundle + static index)
     await this.loadVaultData();
 
@@ -131,6 +146,9 @@ class MobileVocabApp {
     if (this.vaultIndex.pages && this.vaultIndex.pages.length > 0) {
       this.runtime.hydrateIndex(this.vaultIndex.pages, this.statusDb);
     }
+
+    // Re-render Root Dashboards Explorer now that rootDashboardsDb is loaded
+    this.renderRootDashboardsExplorer();
 
     // Initialize Card Views & Telemetry
     this.prepareWordCards();
@@ -153,15 +171,62 @@ class MobileVocabApp {
     // Check PWA URL parameters (e.g. ?tab=cards from manifest shortcuts)
     const urlParams = new URLSearchParams(window.location.search);
     const initialTab = urlParams.get('tab');
-    if (initialTab && ['home', 'cards', 'daily', 'settings'].includes(initialTab)) {
+    if (initialTab && ['home', 'cards', 'explore', 'daily', 'settings'].includes(initialTab)) {
       this.switchTab(initialTab);
+      if (initialTab === 'explore') {
+        const targetWord = urlParams.get('word') || urlParams.get('q');
+        if (targetWord) {
+          this.exploreTab.exploreWord(targetWord);
+        }
+        const targetSubTab = urlParams.get('subtab');
+        if (targetSubTab && ['ai-overview', 'dictionary', 'images', 'videos', 'books'].includes(targetSubTab)) {
+          this.exploreTab.switchSubTab(targetSubTab);
+        }
+      }
     }
+
+    // Check first-time onboarding (appears only on very first launch)
+    this.checkFirstTimeOnboarding();
+  }
+
+  checkFirstTimeOnboarding() {
+    const hasOnboarded = localStorage.getItem('vocab_has_completed_onboarding') === 'true';
+    if (hasOnboarded) {
+      console.log('✅ User already completed onboarding: infinite access, no popups.');
+      return;
+    }
+
+    const currentUser = authService.getCurrentUser();
+    if (currentUser && !currentUser.isAnonymous && !currentUser.isLocalOnly) {
+      localStorage.setItem('vocab_has_completed_onboarding', 'true');
+      console.log('✅ Active user profile detected: marked onboarded.');
+      return;
+    }
+
+    // Very first run: present welcome registration & nickname selection
+    console.log('🎉 First launch detected: presenting welcome registration & nickname dialog.');
+    setTimeout(() => {
+      authModal.show('signup');
+    }, 700);
   }
 
   registerServiceWorker() {
+    if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.getRegistrations().then(regs => {
+          for (let reg of regs) reg.unregister();
+        });
+        if ('caches' in window) {
+          caches.keys().then(names => {
+            for (let name of names) caches.delete(name);
+          });
+        }
+      }
+      return;
+    }
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
-        navigator.serviceWorker.register('/sw.js')
+        navigator.serviceWorker.register('/sw.js?v=v5')
           .then(reg => {
             console.log('[SW] Service worker registered with scope:', reg.scope);
           })
@@ -538,6 +603,13 @@ class MobileVocabApp {
     if (dashPart) {
       cleanRoot = dashPart.replace(/^Dashboard\s*[—–-]\s*/i, '').trim().toLowerCase();
     } else {
+      // Direct root subfolder matching: Latin roots/.../act/action.md
+      if (parts.length >= 2) {
+        const parent = parts[parts.length - 2].toLowerCase();
+        if (!parent.startsWith('cluster') && !parent.startsWith('tier') && this.rootDashboardsDb && this.rootDashboardsDb[parent]) {
+          return this.rootDashboardsDb[parent];
+        }
+      }
       const clusterPart = parts.find(p => p.startsWith('Cluster '));
       if (clusterPart) {
         cleanRoot = clusterPart.replace(/^Cluster\s+/i, '').trim().toLowerCase();
@@ -741,6 +813,10 @@ class MobileVocabApp {
         const category = this.getCategoryFromPath(notePath);
         const cluster = this.getClusterFromPath(notePath);
         const status = this.getStatus(notePath);
+        const tier = p.f || (category === 'vocab' ? 1 : 3);
+        const zipf = p.z || (tier === 1 ? 4.0 : tier === 2 ? 2.5 : 1.2);
+        const rank = p.rk || 999999;
+        const tierLabel = tier === 1 ? 'Words to learn first' : tier === 2 ? 'Words to learn a little later' : 'Words to learn last';
 
         this.allWordCards.push({
           path: notePath,
@@ -748,10 +824,26 @@ class MobileVocabApp {
           category,
           cluster,
           status,
+          tier,
+          zipf,
+          rank,
+          tierLabel,
           rawPage: p
         });
       }
     }
+
+    // Deterministic Pedagogical Frequency Sorting (Learn First words at the top):
+    // 1. Tier 1 (High frequency core)
+    // 2. Tier 2 (Academic & elevated)
+    // 3. Tier 3 (Archaic & specialized)
+    // Within each tier: Higher Zipf score / lower rank first
+    this.allWordCards.sort((a, b) => {
+      if (a.tier !== b.tier) return a.tier - b.tier;
+      if (b.zipf !== a.zipf) return b.zipf - a.zipf;
+      if (a.rank !== b.rank) return a.rank - b.rank;
+      return a.name.localeCompare(b.name);
+    });
 
     this.applyCardsFilter();
 
@@ -852,6 +944,14 @@ class MobileVocabApp {
       this.applyCardsFilter();
       if (this.cardsViewMode === 'feed') this.renderFeedCard('none');
       else this.renderCardList();
+    } else if (tabName === 'explore') {
+      const urlWord = new URLSearchParams(window.location.search).get('word') || new URLSearchParams(window.location.search).get('q');
+      const activeCard = (this.filteredCards && this.filteredCards[this.feedWordIndex]) || null;
+      if (urlWord && !this.exploreTab.currentQuery) {
+        this.exploreTab.exploreWord(urlWord);
+      } else {
+        this.exploreTab.activate(activeCard);
+      }
     } else if (tabName === 'daily') {
       if (!this.dailyCurrentCard) this.renderDailyCard(true);
     } else if (tabName === 'settings') {
@@ -907,6 +1007,10 @@ class MobileVocabApp {
     } else if (this.activeTab === 'cards') {
       backBtn.style.display = 'none';
       breadcrumbs.innerHTML = `<span class="crumb-active">📖 Word Card</span>`;
+      statusBadge.style.display = 'none';
+    } else if (this.activeTab === 'explore') {
+      backBtn.style.display = 'none';
+      breadcrumbs.innerHTML = `<span class="crumb-active">🧭 Word Explorer</span>`;
       statusBadge.style.display = 'none';
     } else if (this.activeTab === 'daily') {
       backBtn.style.display = 'none';
@@ -1065,6 +1169,12 @@ class MobileVocabApp {
           <button class="filter-chip" data-cat="latin">📜 Latin Roots (782)</button>
           <button class="filter-chip" data-cat="vocab">👑 Vocab Clusters (30)</button>
         </div>
+        <div class="dashboards-filter-chips" id="dashboards-tier-chips" style="margin-top: 6px;">
+          <button class="filter-chip active" data-tier="all">🌐 All Tiers</button>
+          <button class="filter-chip" data-tier="1">⭐ Tier 1: Learn First</button>
+          <button class="filter-chip" data-tier="2">📈 Tier 2: Learn Later</button>
+          <button class="filter-chip" data-tier="3">🏛️ Tier 3: Learn Last</button>
+        </div>
       </div>
 
       <div id="root-dashboards-container" class="root-dashboards-grid">
@@ -1097,9 +1207,11 @@ class MobileVocabApp {
     const allDashboards = Object.values(this.rootDashboardsDb || {});
     const q = (this.dashboardsSearchQuery || '').toLowerCase().trim();
     const cat = this.dashboardsFilterCategory || 'all';
+    const tier = this.dashboardsFilterTier || 'all';
 
     const filtered = allDashboards.filter(d => {
       if (cat !== 'all' && d.category !== cat) return false;
+      if (tier !== 'all' && String(d.tier) !== String(tier)) return false;
       if (q) {
         const rootMatch = (d.root || '').toLowerCase().includes(q);
         const scriptMatch = (d.script || '').toLowerCase().includes(q);
@@ -1143,7 +1255,12 @@ class MobileVocabApp {
             <span>${escapeHtml(d.root)}</span>
             ${d.script ? `<span class="root-card-script">(${escapeHtml(d.script)})</span>` : ''}
           </div>
-          <span class="root-discipline-tag">${d.category === 'greek' ? 'Greek' : d.category === 'latin' ? 'Latin' : 'Vocab'}</span>
+          <div style="display:flex; align-items:center; gap:6px;">
+            <span class="frequency-tier-badge tier-${d.tier || 2}" style="font-size:10px; padding:2px 7px;">
+              ${d.tier === 1 ? '⭐ Learn First' : d.tier === 2 ? '📈 Learn Later' : '🏛️ Rare'}
+            </span>
+            <span class="root-discipline-tag">${d.category === 'greek' ? 'Greek' : d.category === 'latin' ? 'Latin' : 'Vocab'}</span>
+          </div>
         </div>
         <div class="root-card-meaning">“${escapeHtml(d.meaning || d.root)}”</div>
         ${d.anchor ? `<div class="root-card-anchor">💡 ${escapeHtml(d.anchor)}</div>` : ''}
@@ -1258,6 +1375,15 @@ class MobileVocabApp {
         document.querySelectorAll('#dashboards-category-chips .filter-chip').forEach(c => c.classList.remove('active'));
         chip.classList.add('active');
         this.dashboardsFilterCategory = chip.dataset.cat;
+        this.renderRootDashboardsExplorer();
+      });
+    });
+
+    document.querySelectorAll('#dashboards-tier-chips .filter-chip').forEach(chip => {
+      chip.addEventListener('click', () => {
+        document.querySelectorAll('#dashboards-tier-chips .filter-chip').forEach(c => c.classList.remove('active'));
+        chip.classList.add('active');
+        this.dashboardsFilterTier = chip.dataset.tier;
         this.renderRootDashboardsExplorer();
       });
     });
@@ -1564,6 +1690,9 @@ class MobileVocabApp {
       // Category filter (only active if not scoped)
       if (!this.activeScope && cat !== 'all' && c.category !== cat) return false;
 
+      // Frequency Tier filter (Tier 1: Learn First, Tier 2: Learn Later, Tier 3: Learn Last)
+      if (this.cardsFilterTier !== 'all' && String(c.tier) !== String(this.cardsFilterTier)) return false;
+
       // Status filter
       if (status !== 'all' && c.status !== status) return false;
 
@@ -1670,9 +1799,18 @@ class MobileVocabApp {
         <div class="clean-word-header">
           <div class="clean-word-title-group">
             <div class="clean-word-title">${escapeHtml(card.name)}</div>
-            ${pos ? `<span class="clean-pos-badge">${escapeHtml(pos)}</span>` : ''}
+            <div class="clean-word-meta-badges">
+              ${pos ? `<span class="clean-pos-badge">${escapeHtml(pos)}</span>` : ''}
+              <span class="frequency-tier-badge tier-${card.tier || 3}" title="${card.tier === 1 ? '⭐ Words to learn first (High Frequency)' : card.tier === 2 ? '📈 Words to learn later (Academic/Elevated)' : '🏛️ Words to learn last (Rare/Obsolete)'}">
+                ${card.tier === 1 ? '⭐ Learn First' : card.tier === 2 ? '📈 Learn Later' : '🏛️ Learn Last'}
+                ${card.zipf && card.zipf >= 2 ? `<small style="opacity:0.75; font-size:10px; margin-left:3px;">Zipf ${card.zipf.toFixed(1)}</small>` : ''}
+              </span>
+            </div>
           </div>
           <div class="clean-buttons-group">
+            <button class="clean-pronounce-btn" id="btn-explore-card-word" title="Explore in Depth (Tab 3)">
+              <span class="pronounce-icon">🧭</span>
+            </button>
             <button class="clean-pronounce-btn" id="btn-pronounce-word" title="Pronounce Word">
               <span class="pronounce-icon">🔊</span>
             </button>
@@ -1748,6 +1886,14 @@ class MobileVocabApp {
     pronounceBtn?.addEventListener('click', (e) => {
       e.stopPropagation();
       this.playPronunciation(card.name, pronounceBtn);
+    });
+
+    // Explore in Depth Button (Opens Explore Tab for this specific card)
+    const exploreBtn = slideEl.querySelector('#btn-explore-card-word');
+    exploreBtn?.addEventListener('click', (e) => {
+      e.stopPropagation();
+      this.switchTab('explore');
+      this.exploreTab.exploreWord(card.name);
     });
 
     // Root Dashboard Keystone Link -> opens full root dashboard on Dashboards tab
@@ -2612,6 +2758,28 @@ class MobileVocabApp {
     if (segLearning) segLearning.style.width = `${Math.max(1, learningPct)}%`;
     if (segUnread) segUnread.style.width = `${unreadPct}%`;
 
+    // 2b. Update 3-Tier Pedagogical HUD Stats
+    const tStats = { 1: { t: 5171, l: 0 }, 2: { t: 9340, l: 0 }, 3: { t: 37088, l: 0 } };
+    for (const card of this.allWordCards) {
+      const st = this.getStatus(card.path);
+      const t = card.tier || 3;
+      if (st === 'learned' && tStats[t]) tStats[t].l++;
+    }
+    const h1Count = document.getElementById('hud-tier1-count');
+    const h1Sub = document.getElementById('hud-tier1-sub');
+    if (h1Count) h1Count.textContent = `${tStats[1].l.toLocaleString()} / 5,171`;
+    if (h1Sub) h1Sub.textContent = `${((tStats[1].l / 5171) * 100).toFixed(0)}% Mastered`;
+
+    const h2Count = document.getElementById('hud-tier2-count');
+    const h2Sub = document.getElementById('hud-tier2-sub');
+    if (h2Count) h2Count.textContent = `${tStats[2].l.toLocaleString()} / 9,340`;
+    if (h2Sub) h2Sub.textContent = `${((tStats[2].l / 9340) * 100).toFixed(0)}% Mastered`;
+
+    const h3Count = document.getElementById('hud-tier3-count');
+    const h3Sub = document.getElementById('hud-tier3-sub');
+    if (h3Count) h3Count.textContent = `${tStats[3].l.toLocaleString()} / 37,088`;
+    if (h3Sub) h3Sub.textContent = `${((tStats[3].l / 37088) * 100).toFixed(0)}% Mastered`;
+
     // 3. Update Tab 1 (Home) Hero Quick Stats
     const homeLearned = document.getElementById('home-stat-learned');
     const homeStudying = document.getElementById('home-stat-studying');
@@ -2928,6 +3096,20 @@ class MobileVocabApp {
       const banner = document.getElementById('cards-scope-banner');
       if (banner) banner.style.display = 'none';
       this.showToast('🔓 Scope unlocked: Showing all vocabulary words');
+    });
+
+    // 4b. Frequency Tier Filter Pills Bar (Tab 2)
+    document.querySelectorAll('#cards-tier-filter-bar .tier-pill-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('#cards-tier-filter-bar .tier-pill-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        this.cardsFilterTier = btn.dataset.tier;
+        this.feedWordIndex = 0;
+        this.applyCardsFilter();
+        this.renderFeedCard('none');
+        const tierName = btn.dataset.tier === '1' ? '⭐ Tier 1: Learn First' : btn.dataset.tier === '2' ? '📈 Tier 2: Learn Later' : btn.dataset.tier === '3' ? '🏛️ Tier 3: Learn Last' : 'All Tiers';
+        this.showToast(`Showing ${this.filteredCards.length.toLocaleString()} words (${tierName})`);
+      });
     });
 
     // Daily Word Shuffle

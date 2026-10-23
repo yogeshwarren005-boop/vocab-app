@@ -11,8 +11,8 @@
  *  - Static assets:              stale-while-revalidate (instant + self-updating)
  */
 
-const SHELL_CACHE = 'obsidian-vocab-shell-v4';
-const RUNTIME_CACHE = 'obsidian-vocab-runtime-v4';
+const SHELL_CACHE = 'obsidian-vocab-shell-v5';
+const RUNTIME_CACHE = 'obsidian-vocab-runtime-v5';
 
 const SHELL_ASSETS = [
   '/',
@@ -95,7 +95,8 @@ self.addEventListener('fetch', (event) => {
   if (request.method !== 'GET') return; // writes go straight to the network
 
   const url = new URL(request.url);
-  if (url.origin !== self.location.origin) return; // let CDN fonts/external assets use standard HTTP cache
+  if (url.origin !== self.location.origin) return;
+  if (url.hostname === 'localhost' || url.hostname === '127.0.0.1') return; // Dev bypass // let CDN fonts/external assets use standard HTTP cache
 
   // 1. App shell navigation
   if (request.mode === 'navigate') {

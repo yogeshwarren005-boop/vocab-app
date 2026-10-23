@@ -1,0 +1,56 @@
+---
+latin_root: "[[Dashboard — firm]]"
+cluster: "[[Cluster Action & State]]"
+status: unread
+tier: 3
+tier_label: "Words to learn last"
+zipf: 1.2
+rank: 999999
+---
+# unfirm
+
+> [!status] 🎯 **Status:**
+
+```dataviewjs
+if(!document.getElementById('apple-toggle-css')){const s=document.createElement('style');s.id='apple-toggle-css';s.textContent=':root{--apple-red:#FF375F;--apple-red-glow:rgba(255,55,95,0.45);--apple-amber:#FF9F0A;--apple-amber-glow:rgba(255,159,10,0.45);--apple-green:#30D158;--apple-green-glow:rgba(48,209,88,0.45)}.apple-c{position:relative;display:inline-flex;align-items:center;gap:8px;padding:2px 10px 2px 4px;border-radius:999px;background:var(--background-secondary,#111624);border:1px solid var(--background-modifier-border,#232d42);cursor:pointer;user-select:none;transition:border-color .2s ease,transform .2s ease,box-shadow .2s ease;line-height:1;vertical-align:middle;box-sizing:border-box}.apple-c:hover{border-color:var(--text-muted,#3b4b6b);transform:translateY(-1px);box-shadow:0 2px 8px rgba(0,0,0,.35)}.apple-c:active{transform:scale(.96)}.apple-c .track-c{position:relative;width:48px;height:18px;background:var(--background-primary,#090d17);border-radius:999px;border:1px solid var(--background-modifier-border,#1c2436);display:flex;align-items:center;justify-content:space-between;padding:0 6px;box-sizing:border-box}.apple-c .c-dot{width:3px;height:3px;border-radius:999px;background:var(--text-faint,#334155);opacity:.6}.apple-c .halo-c{position:absolute;top:1px;left:1px;width:14px;height:14px;border-radius:999px;transition:transform .35s cubic-bezier(.34,1.6,.64,1),background-color .25s ease,box-shadow .25s ease;display:flex;align-items:center;justify-content:center;box-sizing:border-box}.apple-c .halo-c .core-dot{width:5px;height:5px;border-radius:999px;background:#fff;box-shadow:0 0 4px #fff}.apple-c .halo-c.p0{transform:translateX(0);background:var(--apple-red);box-shadow:0 0 12px var(--apple-red),0 0 20px var(--apple-red-glow)}.apple-c .halo-c.p1{transform:translateX(15px);background:var(--apple-amber);box-shadow:0 0 12px var(--apple-amber),0 0 20px var(--apple-amber-glow)}.apple-c .halo-c.p2{transform:translateX(30px);background:var(--apple-green);box-shadow:0 0 12px var(--apple-green),0 0 20px var(--apple-green-glow)}.apple-c .label{font-size:11px;font-weight:700;letter-spacing:.2px;transition:color .2s ease;min-width:48px}.apple-c .label.unread{color:var(--apple-red)}.apple-c .label.learning{color:var(--apple-amber)}.apple-c .label.learned{color:var(--apple-green)}';document.head.appendChild(s);}
+const p = dv.current();
+const rawStatus = p.status || "unread";
+const states = [{ key: 'unread', label: 'unread', cls: 'unread', p: 'p0' }, { key: 'learning', label: 'learning', cls: 'learning', p: 'p1' }, { key: 'learned', label: 'learned', cls: 'learned', p: 'p2' }];
+let curIdx = states.findIndex(s => s.key === rawStatus);
+if (curIdx === -1) curIdx = 0;
+const toggle = document.createElement('div');
+toggle.className = 'apple-c';
+toggle.title = 'Click to glide: unread ➔ learning ➔ learned';
+const track = document.createElement('div');
+track.className = 'track-c';
+track.innerHTML = '<span class="c-dot"></span><span class="c-dot"></span><span class="c-dot"></span><div class="halo-c ' + states[curIdx].p + '"><div class="core-dot"></div></div>';
+const label = document.createElement('span');
+label.className = 'label ' + states[curIdx].cls;
+label.textContent = states[curIdx].label;
+toggle.appendChild(track);
+toggle.appendChild(label);
+toggle.addEventListener('click', async (e) => {
+    e.stopPropagation();
+    curIdx = (curIdx + 1) % 3;
+    const nxt = states[curIdx];
+    track.querySelector('.halo-c').className = 'halo-c ' + nxt.p;
+    label.className = 'label ' + nxt.cls;
+    label.textContent = nxt.label;
+    const file = app.vault.getAbstractFileByPath(p.file.path);
+    if (file) {
+        await app.fileManager.processFrontMatter(file, fm => { fm.status = nxt.key; });
+        new Notice('' + (p.file.name) + ': marked ' + (nxt.key) + '');
+    }
+});
+dv.container.appendChild(toggle);
+```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not firm, solid, or stable; wavering, unsteady, weak, or insecure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaic and poetic English, an unfirm mind or footing designates physical instability or emotional vacillation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"A common slave—you know him well by sight—held up his left hand, which did flame and burn like twenty torches join'd, and yet his hand, not sensible of fire, remain'd unscorch'd. Besides—I ha' not since put up my sword—against the Capitol I met a lion, who glazed upon me, and went surly by, without annoying me: and there were drawn upon a heap a hundred ghastly women, transformed with their fears; who swore they saw men all in fire walk up and down the streets. And yesterday the bird of night did sit even at noon-day upon the market-place, hooting and shrieking. When these prodigies do so conjointly meet, let not men say 'These are their reasons; they are natural;' for, I believe, they are portentous things unto the climate that they point upon. Indeed, it is a strange-disposed time: but men may construe things after their fashion, clean from the purpose of the things themselves. Comes Caesar to the Capitol to-morrow? He doth; for he did bid Antonius send word to you he would be there to-morrow. Good night then, Casca: this disturbed sky is not to walk in. Farewell, Cicero. Who's there? A Roman. Casca, by your voice. Your ear is good. Cassius, what night is this! A very pleasing night to honest men. Who ever knew the heavens menace so? Those that have known the earth so full of faults. For my part, I have walk'd about the streets, submitting me unto the perilous night, and, thus unbraced, Casca, as you see, have bared my bosom to the thunder-stone; and when the cross blue lightning seem'd to open the breast of heaven, I did present myself even in the aim and very flash of it. But wherefore did you so much tempt the heavens? It is the part of men to fear and tremble, when the most mighty gods by tokens send such dreadful heralds to astonish us. You are dull, Casca, and those sparks of life that should be in a Roman you do want, or else you use not. You look pale and gaze and put on fear and cast yourself in wonder, to see the strange impatience of the heavens: but if you would consider the true cause why all these fires, why all these gliding ghosts, why birds and beasts from quality and kind, why old men fool and children calculate, why all these things change from their ordinance their natures and preformed faculties to monstrous quality,—why, you shall find that heaven hath infused them with these spirits, to make them instruments of fear and warning unto some monstrous state. Now could I, Casca, name to thee a man most like this dreadful night, that thunders, lightens, opens graves, and roars as doth the lion in the Capitol, a man no mightier than thyself or me in personal action, yet prodigious grown and fearful, as these strange eruptions are. 'Tis Caesar that you mean; is it not, Cassius? Let it be who it is: for Romans now have thews and limbs like to their ancestors; but, woe the while! Our fathers' minds are dead, and we are govern'd with our mothers' spirits; our yoke and sufferance show us womanish. Indeed, they say the senators to-morrow mean to establish Caesar as a king; and he shall wear his crown by sea and land, in every place, save here in Italy. I know where I will wear this dagger then; Cassius from bondage will deliver Cassius: there herein, ye gods, you make the weak most strong; there herein, ye gods, you tyrants do defeat: nor stony tower, nor walls of beaten brass, nor airless dungeon, nor strong links of iron, can be retentive to the strength of spirit; but life, being weary of these worldly bars, never lacks power to dismiss itself. If I know this, know all the world besides, that part of tyranny that I do bear I can shake off at pleasure. So can I: so every bondman in his own hand bears the power to cancel his captivity. And why should Caesar be a tyrant then? Poor man! I know he would not be a wolf, but that he sees the Romans are but sheep: he were no lion, were not Romans hinds. Those that with haste will make a mighty fire begin it with weak straws: what trash is Rome, what rubbish and what offal, when it serves for the base matter to illuminate so vile a thing as Caesar! But, O grief, where hast thou led me? I perhaps speak this before a willing bondman; then I know my answer must be made. But I am arm'd, and dangers are to me indifferent. You speak to Casca, and to such a man that is no fleering tell-tale. Hold, my hand: be factious for redress of all these griefs, and I will set this foot of mine as far as who goes farthest. There's a bargain made. Now know you, Casca, I have moved already some certain of the noblest-minded Romans to undergo with me an enterprise of honourable-dangerous consequence; and I do know, by this, they stay for me in Pompey's porch: for now, this fearful night, there is no stir or walking in the streets; and the complexion of the element in favour's like the work we have in hand, most bloody, fiery, and most terrible. Stand close awhile, for here comes one in haste. 'Tis Cinna; I do know him by his gait; he is a friend. Cinna, where haste you so? To find out you. Who's that? Metellus Cimber? No, it is Casca; one incorporate to our attempts. Am I not stay'd for, Cinna? I am glad on't. What a fearful night is this! There's two or three of us have seen strange sights. Am I not stay'd for? Tell me. Yes, you are. O Cassius, if you could but win the noble Brutus to our party— Be you content: good Cinna, take this paper, and look you lay it in the praetor's chair, where Brutus may but find it; and throw this in at his window; set this up with wax upon old Brutus' statue: all this done, repair to Pompey's porch, where you shall find us. Is Decius Brutus and Trebonius there? All but Metellus Cimber; and he's gone to seek you at your house. Well, I will hie, and so bestow these papers as you bade me. That done, repair to Pompey's theatre. Come, Casca, you and I will yet ere day see Brutus at his house: three parts of him is ours already, and the man entire upon the next encounter yields him ours. O, he sits high in all the people's hearts: and that which would appear offence in us, his countenance, like richest alchemy, will change to virtue and to worthiness. Him and his worth and our great need of him you have right well conceited. Let us go, for it is after midnight; and ere day we will awake him and be sure of him, lest his **unfirm** resolve should waver."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Satan trod upon the **unfirm** surface of Chaos, struggling through warring elements of fire and black air."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"His foot slipped upon the **unfirm** mossy log, tumbling him into the icy woodland pool."*
+

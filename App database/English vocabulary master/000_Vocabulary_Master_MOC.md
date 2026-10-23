@@ -1,8 +1,54 @@
+---
+status: unread
+type: master_moc
+tier: 1
+---
+
 # 📚 English Vocabulary Master — Master Non-Classical Lexicon Hub
 
 Welcome to the **English Vocabulary Master** vault. This vault is dedicated exclusively to **non-Greek and non-Latin expressive English vocabulary** (Old English/Anglo-Saxon, Old Norse, Celtic/Gaelic, Germanic, and global non-classical loanwords from Persian, Sanskrit, Arabic, Japanese, and Yiddish).
 
 Every word in this vault is structured into an **Obsidian Lexical Card** linked through a streamlined hierarchy: **Categories ➔ Semantic Clusters ➔ Thematic Word Sections**.
+
+---
+
+## 🎯 3-Tier Pedagogical Frequency & Mastery Hierarchy
+
+### ⭐ Tier 1: Words to Learn First (Core Foundational Clusters · 10 Clusters)
+* [[Cluster Mind and Emotion]] — Existential weltschmerz, angst, secret schadenfreude, hollow yearning, and brazen chutzpah.
+* [[Cluster Speech and Lore]] — Idle prattling, harsh chiding, ancient skaldic lore, and poetic kennings.
+* [[Cluster Motion and Force]] — Visceral physical torque, wrenching, heaving, thrashing, and kinetic momentum.
+* [[Cluster Time and Seasons]] — Fleeting spells, ancient yore, lingering tides, and waning hours.
+* [[Cluster Light and Darkness]] — Liminal gloaming, impenetrable murk, swart shadows, lustrous sheens, and dappled komorebi.
+* [[Cluster Growth and Decay]] — Burgeoning organic sprouts, blossoming canopies, festering blight, and rotting carrion.
+* [[Cluster Sight and Vision]] — Piercing scrutiny, sharp ken, furtive leers, and blurred bleariness.
+* [[Cluster Sound and Silence]] — Deafening din, ringing clangor, deep bellowing, muffled thrumming, and solemn hush.
+* [[Cluster Pain and Healing]] — Throbbing pangs, smarting burns, soothing salves, and herbal balms.
+* [[Cluster Friendship and Enmity]] — Kindred amity, loyal comrades, bitter nemeses, and spurned alliances.
+
+### 📈 Tier 2: Words to Learn a Little Later (Elevated & Literary Clusters · 11 Clusters)
+* [[Cluster Beauty and Ugliness]] — Wabi-sabi aged patina, kintsugi gold mending, winsome grace, and squalid grime.
+* [[Cluster Pride and Humility]] — Haughty defiance, surly churlishness, unbowed courage, and groveling servility.
+* [[Cluster Bound and Restraint]] — Iron fetters, wooden shackles, tethered steeds, and hamstrung mobility.
+* [[Cluster Conflict and Strife]] — Martial onslaughts, broadsword cleaving, violent sundering, and generational feuds.
+* [[Cluster Craft and Shaping]] — Forging steel, hewing oak timbers, fettling gear, and deftly soldered joints.
+* [[Cluster Journey and Travel]] — Arduous trudging, nomadic roving, highland sojourns, and wayfaring treks.
+* [[Cluster Trade and Barter]] — Shrewd haggling, market truck, peddling wares, and bustling bazaars.
+* [[Cluster Wealth and Poverty]] — Miserly hoards, threadbare garments, penury, and skimping provisions.
+* [[Cluster Shadow and Secrecy]] — Veils of mist, enshrouded citadels, secret ciphers, and eavesdropping scouts.
+* [[Cluster Stealth and Cunning]] — Furtive skulking, shame-ridden slinking, lurking ambushes, and crafty guile.
+* [[Cluster Speed and Haste]] — Rapid celerity, sudden spurts, panicked scurrying, and darting velocity.
+
+### 🏛️ Tier 3: Words to Learn Last (Archaic Realia & Specialized Clusters · 9 Clusters)
+* [[Cluster Magic and Spell]] — Eldritch sorceries, runic talismans, binding hexes, and protective wards.
+* [[Cluster Fate and Fortune]] — Dark dooms, ominous forebodings, unforeseen haps, and ill-starred mishaps.
+* [[Cluster Feast and Hunger]] — Ravenous famine, hearty quaffing, guzzling mead, and gluttonous swilling.
+* [[Cluster Sleep and Waking]] — Deep slumber, somnolent drowsing, nocturnal vigils, and sudden rousings.
+* [[Cluster Shelter and Abode]] — Granite keeps, mountain havens, rustic bowers, and squalid hovels.
+* [[Cluster Fire and Heat]] — Live gleeds, flash searing, choked smoldering, sultry atmosphere, and hearth embers.
+* [[Cluster Water and Liquid]] — Roiling spates, mountain freshets, treacherous mires, fens, and sloughs.
+* [[Cluster Earth and Stone]] — Jagged crags, sliding scree, granite tors, wooded cloughs, and ancient barrows.
+* [[Cluster Weather and Wilderness]] — Blustering squalls, howling gales, windswept heaths, and frozen taigas.
 
 ---
 

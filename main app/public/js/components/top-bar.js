@@ -79,7 +79,6 @@ export class TopBar {
         if (user && user.isAnonymous) {
           authModal.show('signup');
         } else {
-          // Switch to settings/profile tab
           const tabBtn = document.querySelector('[data-tab="settings"]');
           if (tabBtn) tabBtn.click();
         }

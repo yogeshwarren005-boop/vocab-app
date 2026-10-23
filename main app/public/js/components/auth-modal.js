@@ -141,8 +141,8 @@ export class AuthModal {
     if (!el) return;
 
     // Close on backdrop or close button
-    el.querySelector('.auth-modal-backdrop').addEventListener('click', () => this.hide());
-    el.querySelector('#auth-btn-close').addEventListener('click', () => this.hide());
+    el.querySelector('.auth-modal-backdrop').addEventListener('click', () => this.hide(true));
+    el.querySelector('#auth-btn-close').addEventListener('click', () => this.hide(true));
 
     // Switch Tabs
     const tabSignup = el.querySelector('#auth-tab-signup');
@@ -321,19 +321,28 @@ export class AuthModal {
   }
 
   show(tab = 'signup') {
+    if (!this.modalEl) {
+      this._createDOM();
+      this._bindEvents();
+    }
     this.isOpen = true;
     this.modalEl.style.display = 'flex';
     if (tab === 'login') {
-      this.modalEl.querySelector('#auth-tab-login').click();
+      this.modalEl.querySelector('#auth-tab-login')?.click();
     } else {
-      this.modalEl.querySelector('#auth-tab-signup').click();
+      this.modalEl.querySelector('#auth-tab-signup')?.click();
     }
   }
 
-  hide() {
+  hide(completedOnboarding = true) {
     this.isOpen = false;
-    this.modalEl.style.display = 'none';
+    if (this.modalEl) {
+      this.modalEl.style.display = 'none';
+    }
     this.clearNotice();
+    if (completedOnboarding) {
+      localStorage.setItem('vocab_has_completed_onboarding', 'true');
+    }
   }
 }
 
